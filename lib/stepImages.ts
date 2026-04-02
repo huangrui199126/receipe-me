@@ -19,7 +19,7 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // ─── CONFIGURE HERE ───────────────────────────────────────────────
-const FAL_API_KEY = ''; // e.g. 'fal-abc123...'
+const FAL_API_KEY = '2fb3db94-36f1-4167-a99a-a48047a348a2:abe30fec4ae5b981ce44e77bc084de5d';
 const MODEL = 'fal-ai/flux/schnell'; // swap to 'fal-ai/flux/dev' for higher quality
 // ──────────────────────────────────────────────────────────────────
 

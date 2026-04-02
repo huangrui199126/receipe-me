@@ -100,6 +100,7 @@ export default function TrendingScreen() {
       recipeId,
       order: s.order,
       instruction: s.instruction,
+      imageUri: s.imageUri,
     }));
 
     await saveRecipe(recipe, ingredients, steps);

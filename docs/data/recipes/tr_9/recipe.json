@@ -1,0 +1,129 @@
+{
+  "id": "tr_9",
+  "title": "Crispy Quinoa Asparagus Salad",
+  "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_9/cover.jpg",
+  "importCount": "690",
+  "sourcePlatform": "Instagram",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "vegetarian",
+    "healthy",
+    "salad",
+    "high-fiber"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 12,
+    "carbs": 42,
+    "fat": 10
+  },
+  "healthScore": 10,
+  "ingredients": [
+    {
+      "section": "",
+      "name": "Quinoa",
+      "amount": "200",
+      "unit": "g",
+      "emoji": "🌾"
+    },
+    {
+      "section": "",
+      "name": "Asparagus Spears, trimmed",
+      "amount": "300",
+      "unit": "g",
+      "emoji": "🥦"
+    },
+    {
+      "section": "",
+      "name": "Olive Oil",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "",
+      "name": "Chickpeas, drained",
+      "amount": "400",
+      "unit": "g",
+      "emoji": "🫘"
+    },
+    {
+      "section": "",
+      "name": "Baby Spinach",
+      "amount": "100",
+      "unit": "g",
+      "emoji": "🥬"
+    },
+    {
+      "section": "",
+      "name": "Cherry Tomatoes, halved",
+      "amount": "200",
+      "unit": "g",
+      "emoji": "🍅"
+    },
+    {
+      "section": "",
+      "name": "Feta Cheese",
+      "amount": "100",
+      "unit": "g",
+      "emoji": "🧀"
+    },
+    {
+      "section": "Lemon Dressing",
+      "name": "Lemon Juice",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🍋"
+    },
+    {
+      "section": "Lemon Dressing",
+      "name": "Dijon Mustard",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Lemon Dressing",
+      "name": "Honey",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🍯"
+    },
+    {
+      "section": "Lemon Dressing",
+      "name": "Olive Oil",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook quinoa according to package directions. Spread on a baking sheet and bake at 200°C for 15-20 minutes until crispy, tossing halfway.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_9/step_1.jpg"
+    },
+    {
+      "order": 2,
+      "instruction": "Toss asparagus and chickpeas with olive oil, salt and pepper. Roast at 200°C for 20 minutes until tender.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_9/step_2.jpg"
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk together lemon juice, mustard, honey and olive oil for the dressing.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_9/step_3.jpg"
+    },
+    {
+      "order": 4,
+      "instruction": "Combine spinach, cherry tomatoes, roasted asparagus and chickpeas in a large bowl.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_9/step_4.jpg"
+    },
+    {
+      "order": 5,
+      "instruction": "Add crispy quinoa, drizzle with dressing and toss gently. Top with crumbled feta.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_9/step_5.jpg"
+    }
+  ]
+}

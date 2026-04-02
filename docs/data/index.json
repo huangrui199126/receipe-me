@@ -1,0 +1,203 @@
+{
+  "version": 2,
+  "updatedAt": "2026-04-02T07:43:46.101Z",
+  "recipeCount": 10,
+  "recipes": [
+    {
+      "id": "tr_1",
+      "title": "Crispy Garlic Parmesan Chicken Wraps",
+      "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_1/cover.jpg",
+      "sourcePlatform": "Instagram",
+      "importCount": "3.9K",
+      "healthScore": 7,
+      "nutrition": {
+        "calories": 520,
+        "protein": 42,
+        "carbs": 38,
+        "fat": 22
+      },
+      "tags": [
+        "chicken",
+        "wraps",
+        "high-protein"
+      ]
+    },
+    {
+      "id": "tr_2",
+      "title": "One-Tray Caramelized Onion & Garlic Pasta",
+      "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_2/cover.jpg",
+      "sourcePlatform": "TikTok",
+      "importCount": "1.7K",
+      "healthScore": 6,
+      "nutrition": {
+        "calories": 440,
+        "protein": 16,
+        "carbs": 72,
+        "fat": 12
+      },
+      "tags": [
+        "pasta",
+        "vegetarian",
+        "easy"
+      ]
+    },
+    {
+      "id": "tr_3",
+      "title": "Beijing Beef",
+      "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_3/cover.jpg",
+      "sourcePlatform": "TikTok",
+      "importCount": "1.5K",
+      "healthScore": 5,
+      "nutrition": {
+        "calories": 580,
+        "protein": 36,
+        "carbs": 52,
+        "fat": 24
+      },
+      "tags": [
+        "beef",
+        "chinese",
+        "takeout"
+      ]
+    },
+    {
+      "id": "tr_4",
+      "title": "Honey Garlic Salmon",
+      "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_4/cover.jpg",
+      "sourcePlatform": "Instagram",
+      "importCount": "1.3K",
+      "healthScore": 9,
+      "nutrition": {
+        "calories": 380,
+        "protein": 46,
+        "carbs": 18,
+        "fat": 14
+      },
+      "tags": [
+        "salmon",
+        "healthy",
+        "quick",
+        "high-protein"
+      ]
+    },
+    {
+      "id": "tr_5",
+      "title": "Creamy Tuscan Chicken",
+      "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_5/cover.jpg",
+      "sourcePlatform": "Instagram",
+      "importCount": "1.2K",
+      "healthScore": 6,
+      "nutrition": {
+        "calories": 490,
+        "protein": 44,
+        "carbs": 12,
+        "fat": 30
+      },
+      "tags": [
+        "chicken",
+        "creamy",
+        "italian"
+      ]
+    },
+    {
+      "id": "tr_6",
+      "title": "Avocado Toast with Poached Egg",
+      "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_6/cover.jpg",
+      "sourcePlatform": "Instagram",
+      "importCount": "980",
+      "healthScore": 9,
+      "nutrition": {
+        "calories": 320,
+        "protein": 14,
+        "carbs": 28,
+        "fat": 18
+      },
+      "tags": [
+        "breakfast",
+        "healthy",
+        "vegetarian",
+        "quick"
+      ]
+    },
+    {
+      "id": "tr_7",
+      "title": "Chocolate Lava Cake",
+      "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_7/cover.jpg",
+      "sourcePlatform": "TikTok",
+      "importCount": "860",
+      "healthScore": 3,
+      "nutrition": {
+        "calories": 420,
+        "protein": 8,
+        "carbs": 46,
+        "fat": 24
+      },
+      "tags": [
+        "dessert",
+        "chocolate",
+        "indulgent"
+      ]
+    },
+    {
+      "id": "tr_8",
+      "title": "Greek Chicken Bowl",
+      "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_8/cover.jpg",
+      "sourcePlatform": "Instagram",
+      "importCount": "740",
+      "healthScore": 9,
+      "nutrition": {
+        "calories": 420,
+        "protein": 48,
+        "carbs": 28,
+        "fat": 14
+      },
+      "tags": [
+        "chicken",
+        "mediterranean",
+        "healthy",
+        "meal-prep"
+      ]
+    },
+    {
+      "id": "tr_9",
+      "title": "Crispy Quinoa Asparagus Salad",
+      "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_9/cover.jpg",
+      "sourcePlatform": "Instagram",
+      "importCount": "690",
+      "healthScore": 10,
+      "nutrition": {
+        "calories": 290,
+        "protein": 12,
+        "carbs": 42,
+        "fat": 10
+      },
+      "tags": [
+        "vegetarian",
+        "healthy",
+        "salad",
+        "high-fiber"
+      ]
+    },
+    {
+      "id": "tr_10",
+      "title": "Korean Beef Bibimbap",
+      "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_10/cover.jpg",
+      "sourcePlatform": "TikTok",
+      "importCount": "610",
+      "healthScore": 7,
+      "nutrition": {
+        "calories": 510,
+        "protein": 34,
+        "carbs": 58,
+        "fat": 16
+      },
+      "tags": [
+        "beef",
+        "korean",
+        "rice",
+        "meal-prep"
+      ]
+    }
+  ],
+  "recipeBaseUrl": "https://huangrui199126.github.io/receipe-me/data/recipes"
+}

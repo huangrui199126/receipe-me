@@ -1,0 +1,121 @@
+{
+  "id": "tr_5",
+  "title": "Creamy Tuscan Chicken",
+  "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_5/cover.jpg",
+  "importCount": "1.2K",
+  "sourcePlatform": "Instagram",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "chicken",
+    "creamy",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 490,
+    "protein": 44,
+    "carbs": 12,
+    "fat": 30
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "section": "",
+      "name": "Chicken Breasts",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🍗"
+    },
+    {
+      "section": "",
+      "name": "Heavy Cream",
+      "amount": "300",
+      "unit": "ml",
+      "emoji": "🥛"
+    },
+    {
+      "section": "",
+      "name": "Sun-Dried Tomatoes",
+      "amount": "100",
+      "unit": "g",
+      "emoji": "🍅"
+    },
+    {
+      "section": "",
+      "name": "Fresh Spinach",
+      "amount": "100",
+      "unit": "g",
+      "emoji": "🥬"
+    },
+    {
+      "section": "",
+      "name": "Garlic Cloves, minced",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🧄"
+    },
+    {
+      "section": "",
+      "name": "Parmesan Cheese, grated",
+      "amount": "60",
+      "unit": "g",
+      "emoji": "🧀"
+    },
+    {
+      "section": "",
+      "name": "Italian Seasoning",
+      "amount": "2",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "",
+      "name": "Butter",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🧈"
+    },
+    {
+      "section": "",
+      "name": "Olive Oil",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "",
+      "name": "Salt and Pepper",
+      "amount": "",
+      "unit": "",
+      "emoji": "🧂"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Season chicken breasts with Italian seasoning, salt and pepper on both sides.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_5/step_1.jpg"
+    },
+    {
+      "order": 2,
+      "instruction": "Heat olive oil and butter in a large pan over medium-high heat. Sear chicken 6-7 minutes per side until golden and cooked through. Set aside.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_5/step_2.jpg"
+    },
+    {
+      "order": 3,
+      "instruction": "In the same pan, sauté garlic for 1 minute. Add sun-dried tomatoes and cook 2 minutes.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_5/step_3.jpg"
+    },
+    {
+      "order": 4,
+      "instruction": "Pour in heavy cream and bring to a simmer. Stir in parmesan until melted and sauce thickens, about 3 minutes.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_5/step_4.jpg"
+    },
+    {
+      "order": 5,
+      "instruction": "Add spinach and stir until wilted. Return chicken to pan and coat with sauce. Serve with pasta or crusty bread.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_5/step_5.jpg"
+    }
+  ]
+}

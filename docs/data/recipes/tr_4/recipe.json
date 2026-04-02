@@ -1,0 +1,108 @@
+{
+  "id": "tr_4",
+  "title": "Honey Garlic Salmon",
+  "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_4/cover.jpg",
+  "importCount": "1.3K",
+  "sourcePlatform": "Instagram",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "salmon",
+    "healthy",
+    "quick",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 46,
+    "carbs": 18,
+    "fat": 14
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "section": "",
+      "name": "Salmon Fillets",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🐟"
+    },
+    {
+      "section": "",
+      "name": "Honey",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🍯"
+    },
+    {
+      "section": "",
+      "name": "Soy Sauce",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "",
+      "name": "Garlic Cloves, minced",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🧄"
+    },
+    {
+      "section": "",
+      "name": "Olive Oil",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "",
+      "name": "Lemon Juice",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🍋"
+    },
+    {
+      "section": "",
+      "name": "Fresh Parsley",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "",
+      "name": "Salt and Pepper",
+      "amount": "",
+      "unit": "",
+      "emoji": "🧂"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pat salmon dry and season with salt and pepper on both sides.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_4/step_1.jpg"
+    },
+    {
+      "order": 2,
+      "instruction": "Mix honey, soy sauce, garlic and lemon juice in a small bowl.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_4/step_2.jpg"
+    },
+    {
+      "order": 3,
+      "instruction": "Heat olive oil in a non-stick pan over medium-high heat. Cook salmon skin-side up for 4 minutes, then flip.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_4/step_3.jpg"
+    },
+    {
+      "order": 4,
+      "instruction": "Pour honey garlic sauce over salmon. Cook for another 3-4 minutes, basting frequently, until salmon is cooked through and sauce is caramelized.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_4/step_4.jpg"
+    },
+    {
+      "order": 5,
+      "instruction": "Garnish with fresh parsley and serve with steamed vegetables or rice.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_4/step_5.jpg"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "tr_10",
+  "title": "Korean Beef Bibimbap",
+  "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_10/cover.jpg",
+  "importCount": "610",
+  "sourcePlatform": "TikTok",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 25,
+  "tags": [
+    "beef",
+    "korean",
+    "rice",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 510,
+    "protein": 34,
+    "carbs": 58,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "section": "Beef",
+      "name": "Ground Beef",
+      "amount": "400",
+      "unit": "g",
+      "emoji": "🥩"
+    },
+    {
+      "section": "Beef",
+      "name": "Soy Sauce",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Beef",
+      "name": "Sesame Oil",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Beef",
+      "name": "Brown Sugar",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🍬"
+    },
+    {
+      "section": "Beef",
+      "name": "Garlic, minced",
+      "amount": "3",
+      "unit": "cloves",
+      "emoji": "🧄"
+    },
+    {
+      "section": "Beef",
+      "name": "Ginger, grated",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Bowl",
+      "name": "Cooked White Rice",
+      "amount": "3",
+      "unit": "cups",
+      "emoji": "🍚"
+    },
+    {
+      "section": "Bowl",
+      "name": "Shredded Carrots",
+      "amount": "150",
+      "unit": "g",
+      "emoji": "🥕"
+    },
+    {
+      "section": "Bowl",
+      "name": "Baby Spinach",
+      "amount": "100",
+      "unit": "g",
+      "emoji": "🥬"
+    },
+    {
+      "section": "Bowl",
+      "name": "Cucumber, julienned",
+      "amount": "1",
+      "unit": "",
+      "emoji": "🥒"
+    },
+    {
+      "section": "Bowl",
+      "name": "Eggs",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "Bowl",
+      "name": "Sesame Seeds",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🌱"
+    },
+    {
+      "section": "Gochujang Sauce",
+      "name": "Gochujang",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "Gochujang Sauce",
+      "name": "Sesame Oil",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Gochujang Sauce",
+      "name": "Rice Vinegar",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    }
+  ],
+  "steps": []
+}

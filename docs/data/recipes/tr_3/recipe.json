@@ -1,0 +1,154 @@
+{
+  "id": "tr_3",
+  "title": "Beijing Beef",
+  "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_3/cover.jpg",
+  "importCount": "1.5K",
+  "sourcePlatform": "TikTok",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [
+    "beef",
+    "chinese",
+    "takeout"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 36,
+    "carbs": 52,
+    "fat": 24
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "section": "Beef",
+      "name": "Flank Steak, thinly sliced",
+      "amount": "500",
+      "unit": "g",
+      "emoji": "🥩"
+    },
+    {
+      "section": "Beef",
+      "name": "Cornstarch",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🌾"
+    },
+    {
+      "section": "Beef",
+      "name": "Egg",
+      "amount": "1",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "Beef",
+      "name": "Vegetable Oil for frying",
+      "amount": "2",
+      "unit": "cups",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Sauce",
+      "name": "Hoisin Sauce",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Sauce",
+      "name": "Soy Sauce",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Sauce",
+      "name": "Rice Vinegar",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Sauce",
+      "name": "Honey",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🍯"
+    },
+    {
+      "section": "Sauce",
+      "name": "Chilli Garlic Sauce",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "Sauce",
+      "name": "Sesame Oil",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Vegetables",
+      "name": "Red Bell Pepper, sliced",
+      "amount": "1",
+      "unit": "",
+      "emoji": "🫑"
+    },
+    {
+      "section": "Vegetables",
+      "name": "Yellow Onion, sliced",
+      "amount": "1",
+      "unit": "",
+      "emoji": "🧅"
+    },
+    {
+      "section": "Vegetables",
+      "name": "Garlic Cloves, minced",
+      "amount": "3",
+      "unit": "",
+      "emoji": "🧄"
+    },
+    {
+      "section": "Vegetables",
+      "name": "Green Onions for garnish",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🧅"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix sliced beef with cornstarch and egg until well coated. Set aside for 15 minutes.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_3/step_1.jpg"
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk together all sauce ingredients in a bowl. Set aside.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_3/step_2.jpg"
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a wok or large pan over high heat. Fry beef in batches until crispy, about 2-3 minutes per batch. Drain on paper towels.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_3/step_3.jpg"
+    },
+    {
+      "order": 4,
+      "instruction": "Remove most of the oil, leaving 2 tbsp. Stir-fry onion and bell pepper for 2 minutes. Add garlic and cook 30 seconds.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_3/step_4.jpg"
+    },
+    {
+      "order": 5,
+      "instruction": "Pour sauce into the pan and bring to a boil. Add crispy beef and toss to coat evenly.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_3/step_5.jpg"
+    },
+    {
+      "order": 6,
+      "instruction": "Serve over steamed rice, garnished with green onions.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_3/step_6.jpg"
+    }
+  ]
+}

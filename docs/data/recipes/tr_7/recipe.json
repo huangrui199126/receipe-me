@@ -1,0 +1,112 @@
+{
+  "id": "tr_7",
+  "title": "Chocolate Lava Cake",
+  "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_7/cover.jpg",
+  "importCount": "860",
+  "sourcePlatform": "TikTok",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 12,
+  "tags": [
+    "dessert",
+    "chocolate",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 46,
+    "fat": 24
+  },
+  "healthScore": 3,
+  "ingredients": [
+    {
+      "section": "",
+      "name": "Dark Chocolate (70%)",
+      "amount": "170",
+      "unit": "g",
+      "emoji": "🍫"
+    },
+    {
+      "section": "",
+      "name": "Butter",
+      "amount": "120",
+      "unit": "g",
+      "emoji": "🧈"
+    },
+    {
+      "section": "",
+      "name": "Eggs",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "",
+      "name": "Egg Yolks",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "",
+      "name": "Powdered Sugar",
+      "amount": "160",
+      "unit": "g",
+      "emoji": "🍬"
+    },
+    {
+      "section": "",
+      "name": "All-Purpose Flour",
+      "amount": "60",
+      "unit": "g",
+      "emoji": "🌾"
+    },
+    {
+      "section": "",
+      "name": "Pinch of Salt",
+      "amount": "1",
+      "unit": "pinch",
+      "emoji": "🧂"
+    },
+    {
+      "section": "",
+      "name": "Vanilla Extract",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🌿"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C. Butter four 180ml ramekins and dust with cocoa powder.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_7/step_1.jpg"
+    },
+    {
+      "order": 2,
+      "instruction": "Melt chocolate and butter together in a double boiler or microwave, stirring until smooth. Cool slightly.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_7/step_2.jpg"
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk eggs, egg yolks and sugar together until thick and pale, about 3 minutes.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_7/step_3.jpg"
+    },
+    {
+      "order": 4,
+      "instruction": "Fold chocolate mixture into the egg mixture. Sift in flour and salt, fold until just combined.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_7/step_4.jpg"
+    },
+    {
+      "order": 5,
+      "instruction": "Divide batter evenly among ramekins. Bake 10-12 minutes until edges are set but centre jiggles slightly.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_7/step_5.jpg"
+    },
+    {
+      "order": 6,
+      "instruction": "Let sit 1 minute, then invert onto plates. Serve immediately with vanilla ice cream or fresh berries.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_7/step_6.jpg"
+    }
+  ]
+}

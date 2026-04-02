@@ -1,0 +1,150 @@
+{
+  "id": "tr_8",
+  "title": "Greek Chicken Bowl",
+  "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_8/cover.jpg",
+  "importCount": "740",
+  "sourcePlatform": "Instagram",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [
+    "chicken",
+    "mediterranean",
+    "healthy",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 48,
+    "carbs": 28,
+    "fat": 14
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "section": "Chicken",
+      "name": "Chicken Breast",
+      "amount": "400",
+      "unit": "g",
+      "emoji": "🍗"
+    },
+    {
+      "section": "Chicken",
+      "name": "Olive Oil",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Chicken",
+      "name": "Lemon Juice",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🍋"
+    },
+    {
+      "section": "Chicken",
+      "name": "Garlic, minced",
+      "amount": "3",
+      "unit": "cloves",
+      "emoji": "🧄"
+    },
+    {
+      "section": "Chicken",
+      "name": "Dried Oregano",
+      "amount": "2",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Bowl",
+      "name": "Cooked Brown Rice or Quinoa",
+      "amount": "2",
+      "unit": "cups",
+      "emoji": "🍚"
+    },
+    {
+      "section": "Bowl",
+      "name": "Cherry Tomatoes, halved",
+      "amount": "150",
+      "unit": "g",
+      "emoji": "🍅"
+    },
+    {
+      "section": "Bowl",
+      "name": "Cucumber, diced",
+      "amount": "1",
+      "unit": "",
+      "emoji": "🥒"
+    },
+    {
+      "section": "Bowl",
+      "name": "Kalamata Olives",
+      "amount": "60",
+      "unit": "g",
+      "emoji": "🫒"
+    },
+    {
+      "section": "Bowl",
+      "name": "Feta Cheese, crumbled",
+      "amount": "80",
+      "unit": "g",
+      "emoji": "🧀"
+    },
+    {
+      "section": "Tzatziki",
+      "name": "Greek Yogurt",
+      "amount": "200",
+      "unit": "g",
+      "emoji": "🥛"
+    },
+    {
+      "section": "Tzatziki",
+      "name": "Cucumber, grated and drained",
+      "amount": "1/2",
+      "unit": "",
+      "emoji": "🥒"
+    },
+    {
+      "section": "Tzatziki",
+      "name": "Garlic, minced",
+      "amount": "1",
+      "unit": "clove",
+      "emoji": "🧄"
+    },
+    {
+      "section": "Tzatziki",
+      "name": "Dill",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🌿"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix olive oil, lemon juice, garlic and oregano. Marinate chicken for at least 15 minutes (up to 4 hours).",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_8/step_1.jpg"
+    },
+    {
+      "order": 2,
+      "instruction": "Mix yogurt, grated cucumber, garlic and dill to make tzatziki. Season and refrigerate.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_8/step_2.jpg"
+    },
+    {
+      "order": 3,
+      "instruction": "Cook marinated chicken in a hot grill pan 6-7 minutes per side until cooked through. Rest 5 minutes, then slice.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_8/step_3.jpg"
+    },
+    {
+      "order": 4,
+      "instruction": "Assemble bowls with rice, sliced chicken, tomatoes, cucumber and olives.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_8/step_4.jpg"
+    },
+    {
+      "order": 5,
+      "instruction": "Top with tzatziki, crumbled feta and a drizzle of olive oil.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_8/step_5.jpg"
+    }
+  ]
+}

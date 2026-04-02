@@ -1,0 +1,103 @@
+{
+  "id": "tr_6",
+  "title": "Avocado Toast with Poached Egg",
+  "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_6/cover.jpg",
+  "importCount": "980",
+  "sourcePlatform": "Instagram",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "breakfast",
+    "healthy",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 28,
+    "fat": 18
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "section": "",
+      "name": "Sourdough Bread Slices",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🍞"
+    },
+    {
+      "section": "",
+      "name": "Ripe Avocado",
+      "amount": "1",
+      "unit": "",
+      "emoji": "🥑"
+    },
+    {
+      "section": "",
+      "name": "Eggs",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "",
+      "name": "Lemon Juice",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🍋"
+    },
+    {
+      "section": "",
+      "name": "Red Pepper Flakes",
+      "amount": "1/4",
+      "unit": "tsp",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "",
+      "name": "Everything Bagel Seasoning",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "",
+      "name": "Salt and Black Pepper",
+      "amount": "",
+      "unit": "",
+      "emoji": "🧂"
+    },
+    {
+      "section": "",
+      "name": "White Vinegar (for poaching)",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Toast sourdough slices until golden and crispy.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_6/step_1.jpg"
+    },
+    {
+      "order": 2,
+      "instruction": "Mash avocado with lemon juice, salt and pepper. Spread generously on toast.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_6/step_2.jpg"
+    },
+    {
+      "order": 3,
+      "instruction": "Fill a small saucepan with water, add vinegar, and bring to a gentle simmer. Create a gentle whirlpool and crack each egg into the center. Poach 3-4 minutes for a runny yolk.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_6/step_3.jpg"
+    },
+    {
+      "order": 4,
+      "instruction": "Place poached egg on avocado toast. Season with red pepper flakes and everything bagel seasoning. Serve immediately.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_6/step_4.jpg"
+    }
+  ]
+}

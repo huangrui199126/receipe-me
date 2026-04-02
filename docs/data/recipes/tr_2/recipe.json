@@ -1,0 +1,126 @@
+{
+  "id": "tr_2",
+  "title": "One-Tray Caramelized Onion & Garlic Pasta",
+  "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_2/cover.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "TikTok",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 45,
+  "tags": [
+    "pasta",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 16,
+    "carbs": 72,
+    "fat": 12
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "section": "",
+      "name": "Large Onions",
+      "amount": "3",
+      "unit": "",
+      "emoji": "🧅"
+    },
+    {
+      "section": "",
+      "name": "Garlic Cloves",
+      "amount": "8",
+      "unit": "",
+      "emoji": "🧄"
+    },
+    {
+      "section": "",
+      "name": "Olive Oil",
+      "amount": "4",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "",
+      "name": "Butter",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🧈"
+    },
+    {
+      "section": "",
+      "name": "Spaghetti",
+      "amount": "400",
+      "unit": "g",
+      "emoji": "🍝"
+    },
+    {
+      "section": "",
+      "name": "Parmesan Cheese",
+      "amount": "80",
+      "unit": "g",
+      "emoji": "🧀"
+    },
+    {
+      "section": "",
+      "name": "Fresh Thyme",
+      "amount": "4",
+      "unit": "sprigs",
+      "emoji": "🌿"
+    },
+    {
+      "section": "",
+      "name": "Balsamic Vinegar",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "",
+      "name": "Salt and Black Pepper",
+      "amount": "",
+      "unit": "",
+      "emoji": "🧂"
+    },
+    {
+      "section": "",
+      "name": "Pasta Water",
+      "amount": "1",
+      "unit": "cup",
+      "emoji": "💧"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Slice onions into thin rings. Separate garlic cloves but leave whole.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_2/step_1.jpg"
+    },
+    {
+      "order": 2,
+      "instruction": "Add oil and butter to a large oven-safe pan over medium heat. Add onions, thyme, salt and pepper. Cook stirring occasionally for 10 minutes.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_2/step_2.jpg"
+    },
+    {
+      "order": 3,
+      "instruction": "Transfer to oven at 180°C. Roast for 30 minutes, stirring halfway, until deep golden and caramelized.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_2/step_3.jpg"
+    },
+    {
+      "order": 4,
+      "instruction": "Meanwhile, cook spaghetti in salted water until al dente. Reserve 1 cup pasta water before draining.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_2/step_4.jpg"
+    },
+    {
+      "order": 5,
+      "instruction": "Return pan to stove over medium heat. Add balsamic vinegar and stir. Add cooked pasta and splash of pasta water. Toss well.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_2/step_5.jpg"
+    },
+    {
+      "order": 6,
+      "instruction": "Finish with grated parmesan, extra olive oil and black pepper. Serve immediately.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_2/step_6.jpg"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "id": "tr_1",
+  "title": "Crispy Garlic Parmesan Chicken Wraps",
+  "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_1/cover.jpg",
+  "importCount": "3.9K",
+  "sourcePlatform": "Instagram",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [
+    "chicken",
+    "wraps",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 42,
+    "carbs": 38,
+    "fat": 22
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "section": "Garlic Parmesan Chicken",
+      "name": "Boneless Skinless Chicken Thighs",
+      "amount": "600",
+      "unit": "g",
+      "emoji": "🍗"
+    },
+    {
+      "section": "Garlic Parmesan Chicken",
+      "name": "Chicken Breast",
+      "amount": "300",
+      "unit": "g",
+      "emoji": "🍗"
+    },
+    {
+      "section": "Garlic Parmesan Chicken",
+      "name": "Salt",
+      "amount": "2",
+      "unit": "tsp",
+      "emoji": "🧂"
+    },
+    {
+      "section": "Garlic Parmesan Chicken",
+      "name": "Chilli Flakes",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "Garlic Parmesan Chicken",
+      "name": "Parsley",
+      "amount": "3",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Garlic Parmesan Chicken",
+      "name": "Italian Herbs",
+      "amount": "2",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Garlic Parmesan Chicken",
+      "name": "Paprika",
+      "amount": "2",
+      "unit": "tsp",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "Garlic Parmesan Chicken",
+      "name": "Garlic Granules or Powder",
+      "amount": "4",
+      "unit": "tsp",
+      "emoji": "🧄"
+    },
+    {
+      "section": "Garlic Parmesan Chicken",
+      "name": "Grated Parmesan",
+      "amount": "100",
+      "unit": "g",
+      "emoji": "🧀"
+    },
+    {
+      "section": "Garlic Parmesan Chicken",
+      "name": "Olive Oil",
+      "amount": "4",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Garlic Pamesan Creamy Sauce",
+      "name": "Light Evaporated Milk",
+      "amount": "350",
+      "unit": "ml",
+      "emoji": "🥛"
+    },
+    {
+      "section": "Garlic Pamesan Creamy Sauce",
+      "name": "Italian Herbs",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Garlic Pamesan Creamy Sauce",
+      "name": "Garlic Powder",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🧄"
+    },
+    {
+      "section": "Garlic Pamesan Creamy Sauce",
+      "name": "Paprika",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "Garlic Pamesan Creamy Sauce",
+      "name": "Grated Parmesan",
+      "amount": "80",
+      "unit": "g",
+      "emoji": "🧀"
+    },
+    {
+      "section": "Garlic Pamesan Creamy Sauce",
+      "name": "Light Butter",
+      "amount": "15",
+      "unit": "g",
+      "emoji": "🧈"
+    },
+    {
+      "section": "Wraps & Filling",
+      "name": "Low Carb Wraps",
+      "amount": "10",
+      "unit": "",
+      "emoji": "🫓"
+    },
+    {
+      "section": "Wraps & Filling",
+      "name": "Shredded Lettuce",
+      "amount": "2",
+      "unit": "cups",
+      "emoji": "🥬"
+    },
+    {
+      "section": "Wraps & Filling",
+      "name": "Chopped Tomatoes",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🍅"
+    },
+    {
+      "section": "Wraps & Filling",
+      "name": "Chopped Onions",
+      "amount": "1",
+      "unit": "",
+      "emoji": "🧅"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Slice chicken breast and thighs into cubes. Add seasonings with grated parmesan cheese and a drizzle of olive oil. Mix until well coated.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_1/step_1.jpg"
+    },
+    {
+      "order": 2,
+      "instruction": "In a pan on low heat, add light butter with seasonings. Toast for a minute before adding evaporated milk, extra Parmesan and cream cheese. Stir till smooth and creamy.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_1/step_2.jpg"
+    },
+    {
+      "order": 3,
+      "instruction": "Line a sheet pan with parchment paper, spread marinated chicken evenly (do not overcrowd), add a light layer of cooking spray. Bake in a preheated oven at 200°C for 20-22 minutes until crispy.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_1/step_3.jpg"
+    },
+    {
+      "order": 4,
+      "instruction": "While chicken is still hot, add extra parmesan and parsley. Mix well until coated and extra cheesy.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_1/step_4.jpg"
+    },
+    {
+      "order": 5,
+      "instruction": "Assemble the wraps with shredded lettuce, onion, tomato, crispy chicken and sauce. Enjoy!",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_1/step_5.jpg"
+    }
+  ]
+}

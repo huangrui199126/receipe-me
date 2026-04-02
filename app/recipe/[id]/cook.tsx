@@ -9,15 +9,8 @@ import { useStore } from '../../../store';
 import { Step } from '../../../db/schema';
 import * as Storage from '../../../db/storage';
 import * as Haptics from 'expo-haptics';
-import { getStepFallbackImage } from '../../../lib/stepImages';
-
 const { width, height } = Dimensions.get('window');
-const IMAGE_HEIGHT = height * 0.38;
-
-// Resolve the image to show for a step
-function stepImage(step: Step): string {
-  return step.imageUri || getStepFallbackImage(step.instruction);
-}
+const IMAGE_HEIGHT = height * 0.36;
 
 export default function CookMode() {
   const { id } = useLocalSearchParams<{ id: string }>();
@@ -63,7 +56,9 @@ export default function CookMode() {
     });
   };
 
-  const imgUri = stepImage(step);
+  // Show step-specific image only if it was scraped from the recipe site.
+  // Otherwise fall back to the main recipe photo (always correct and high quality).
+  const imgUri = step.imageUri || recipe?.imageUri || '';
 
   return (
     <SafeAreaView style={styles.safe}>
@@ -100,15 +95,8 @@ export default function CookMode() {
               style={[styles.listItem, i === currentStep && styles.listItemActive]}
               onPress={() => { setCurrentStep(i); setShowList(false); }}
             >
-              <View style={styles.listThumb}>
-                <Image
-                  source={{ uri: stepImage(s) }}
-                  style={styles.listThumbImg}
-                  contentFit="cover"
-                />
-                <View style={[styles.listNumOverlay, i === currentStep && styles.listNumOverlayActive]}>
-                  <Text style={styles.listNumText}>{s.order}</Text>
-                </View>
+              <View style={[styles.listNum, i === currentStep && styles.listNumActive]}>
+                <Text style={[styles.listNumText, i === currentStep && { color: '#fff' }]}>{s.order}</Text>
               </View>
               <Text style={[styles.listText, i === currentStep && styles.listTextActive]} numberOfLines={3}>
                 {s.instruction}
@@ -221,21 +209,17 @@ const styles = StyleSheet.create({
   // List view
   listContent: { padding: 16, paddingBottom: 40 },
   listItem: {
-    flexDirection: 'row', gap: 14, padding: 12,
+    flexDirection: 'row', gap: 14, padding: 14,
     borderRadius: 14, marginBottom: 8, backgroundColor: Colors.background,
     alignItems: 'flex-start',
   },
   listItemActive: { backgroundColor: Colors.primaryLight },
-  listThumb: { width: 64, height: 64, borderRadius: 10, overflow: 'hidden', position: 'relative', flexShrink: 0 },
-  listThumbImg: { width: '100%', height: '100%' },
-  listNumOverlay: {
-    position: 'absolute', bottom: 4, right: 4,
-    width: 22, height: 22, borderRadius: 11,
-    backgroundColor: 'rgba(0,0,0,0.55)',
-    justifyContent: 'center', alignItems: 'center',
+  listNum: {
+    width: 32, height: 32, borderRadius: 16, borderWidth: 1.5,
+    borderColor: Colors.border, justifyContent: 'center', alignItems: 'center', flexShrink: 0,
   },
-  listNumOverlayActive: { backgroundColor: Colors.primary },
-  listNumText: { color: '#fff', fontSize: 11, fontWeight: '700' },
-  listText: { flex: 1, fontSize: 14, lineHeight: 22, color: Colors.text, paddingTop: 2 },
+  listNumActive: { backgroundColor: Colors.primary, borderColor: Colors.primary },
+  listNumText: { fontSize: 13, fontWeight: '700', color: Colors.text },
+  listText: { flex: 1, fontSize: 14, lineHeight: 22, color: Colors.text, paddingTop: 6 },
   listTextActive: { color: Colors.text, fontWeight: '500' },
 });

@@ -1,132 +1,147 @@
 /**
- * Step image service for cooking mode.
+ * Step image generation using fal.ai FLUX.1
  *
- * Strategy (in order):
- * 1. Use image extracted from the recipe site during import (best quality)
- * 2. Use fal.ai Flux model to generate an AI image (requires FAL_API_KEY)
- * 3. Fall back to curated Unsplash food photos matched by cooking action
+ * HOW IT WORKS:
+ * 1. Takes the recipe's final dish photo as a visual style reference
+ * 2. Uses FLUX.1 + IP-Adapter to generate each step image in the same style
+ * 3. Results are cached in AsyncStorage — generated once, reused forever
+ * 4. Falls back to the recipe's main photo if generation is unavailable
+ *
+ * TO ENABLE:
+ * 1. Sign up at https://fal.ai (free credits included)
+ * 2. Get your key from https://fal.ai/dashboard/keys
+ * 3. Paste it below
+ *
+ * COST: ~$0.003/image with schnell, ~$0.025/image with dev (higher quality)
+ * 5 steps = ~$0.015 per recipe with schnell
  */
 
-// ------------------------------------------------------------------
-// FAL.AI SETUP
-// To enable AI-generated step images:
-//   1. Sign up at https://fal.ai — free credits included
-//   2. Get your API key from https://fal.ai/dashboard/keys
-//   3. Add it to your app config or environment
-// ------------------------------------------------------------------
-const FAL_API_KEY = ''; // Set your fal.ai key here
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
-export async function generateStepImage(instruction: string): Promise<string | null> {
-  if (!FAL_API_KEY) return null;
+// ─── CONFIGURE HERE ───────────────────────────────────────────────
+const FAL_API_KEY = ''; // e.g. 'fal-abc123...'
+const MODEL = 'fal-ai/flux/schnell'; // swap to 'fal-ai/flux/dev' for higher quality
+// ──────────────────────────────────────────────────────────────────
 
-  const prompt = buildImagePrompt(instruction);
+const CACHE_KEY_PREFIX = 'step_images_v1_';
 
-  try {
-    const response = await fetch('https://fal.run/fal-ai/flux/schnell', {
-      method: 'POST',
-      headers: {
-        'Authorization': `Key ${FAL_API_KEY}`,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        prompt,
-        image_size: 'square',
-        num_inference_steps: 4,
-        num_images: 1,
-      }),
-    });
-
-    if (!response.ok) return null;
-    const data = await response.json();
-    return data?.images?.[0]?.url ?? null;
-  } catch {
-    return null;
-  }
-}
-
-function buildImagePrompt(instruction: string): string {
-  // Shorten the instruction to a concise visual prompt
-  const lower = instruction.toLowerCase();
-  const action = detectCookingAction(lower);
-  return `Close-up food photography of ${action}, professional kitchen lighting, appetizing, high resolution, no text`;
-}
-
-function detectCookingAction(text: string): string {
-  if (text.includes('slice') || text.includes('chop') || text.includes('dice'))
-    return 'hands chopping fresh vegetables on a wooden cutting board';
-  if (text.includes('fry') || text.includes('sauté'))
-    return 'sizzling food in a pan with golden crust, steam rising';
-  if (text.includes('bake') || text.includes('oven'))
-    return 'golden food on a baking tray fresh out of the oven';
-  if (text.includes('grill'))
-    return 'grilled food with char marks on a hot grill';
-  if (text.includes('boil') || text.includes('simmer'))
-    return 'pot of simmering sauce or soup with steam';
-  if (text.includes('mix') || text.includes('stir') || text.includes('whisk'))
-    return 'mixing ingredients in a bowl with a wooden spoon';
-  if (text.includes('marinate') || text.includes('season'))
-    return 'raw seasoned meat or vegetables in a bowl with herbs and spices';
-  if (text.includes('serve') || text.includes('plate'))
-    return 'beautifully plated dish on a white plate ready to serve';
-  if (text.includes('garnish'))
-    return 'finished dish garnished with fresh herbs and lemon';
-  if (text.includes('preheat'))
-    return 'modern kitchen oven being preheated, glowing element';
-  if (text.includes('drain') || text.includes('strain'))
-    return 'draining cooked pasta in a colander with steam';
-  if (text.includes('rest') || text.includes('cool'))
-    return 'cooked meat resting on a cutting board';
-  return 'cooking ingredients on a wooden kitchen counter';
-}
-
-// ------------------------------------------------------------------
-// Curated Unsplash fallback images per cooking action
-// All from Unsplash (free to use, no API key needed for direct URLs)
-// ------------------------------------------------------------------
-const STEP_IMAGE_MAP: Record<string, string> = {
-  chop:      'https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&q=80',
-  slice:     'https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&q=80',
-  dice:      'https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&q=80',
-  fry:       'https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=800&q=80',
-  sauté:     'https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=800&q=80',
-  stir:      'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
-  mix:       'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
-  whisk:     'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
-  bake:      'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&q=80',
-  roast:     'https://images.unsplash.com/photo-1608835291093-394b0c943a75?w=800&q=80',
-  grill:     'https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=800&q=80',
-  boil:      'https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=800&q=80',
-  simmer:    'https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800&q=80',
-  marinate:  'https://images.unsplash.com/photo-1432139509613-5c4255815697?w=800&q=80',
-  season:    'https://images.unsplash.com/photo-1432139509613-5c4255815697?w=800&q=80',
-  serve:     'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80',
-  plate:     'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80',
-  garnish:   'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80',
-  preheat:   'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
-  drain:     'https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800&q=80',
-  combine:   'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
-  coat:      'https://images.unsplash.com/photo-1432139509613-5c4255815697?w=800&q=80',
-  rest:      'https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80',
-  default:   'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80',
-};
-
-export function getStepFallbackImage(instruction: string): string {
-  const lower = instruction.toLowerCase();
-  for (const [keyword, url] of Object.entries(STEP_IMAGE_MAP)) {
-    if (keyword !== 'default' && lower.includes(keyword)) return url;
-  }
-  return STEP_IMAGE_MAP.default;
+export interface StepImageResult {
+  stepId: string;
+  imageUri: string;
 }
 
 /**
- * Get the best available image for a step:
- * 1. Already has an image (from import) → use it
- * 2. FAL_API_KEY set → generate with AI
- * 3. Fallback → curated Unsplash photo by cooking action
+ * Generate images for all steps of a recipe.
+ * Returns cached results immediately if already generated.
+ * Uses the recipe's final dish photo as a visual reference for consistency.
  */
-export async function resolveStepImage(instruction: string, existingImageUri?: string): Promise<string> {
-  if (existingImageUri) return existingImageUri;
-  const generated = await generateStepImage(instruction);
-  if (generated) return generated;
-  return getStepFallbackImage(instruction);
+export async function generateStepImages(
+  recipeId: string,
+  recipeImageUri: string,
+  steps: { id: string; order: number; instruction: string; imageUri?: string }[],
+): Promise<StepImageResult[]> {
+  // Return cached results if available
+  const cacheKey = `${CACHE_KEY_PREFIX}${recipeId}`;
+  const cached = await AsyncStorage.getItem(cacheKey);
+  if (cached) return JSON.parse(cached);
+
+  // If no API key, return empty (cook mode will show recipe photo)
+  if (!FAL_API_KEY) return [];
+
+  const results: StepImageResult[] = [];
+
+  for (const step of steps) {
+    // Use the step's own image if it was scraped from the source
+    if (step.imageUri) {
+      results.push({ stepId: step.id, imageUri: step.imageUri });
+      continue;
+    }
+
+    try {
+      const imageUri = await generateOneStepImage(
+        step.instruction,
+        recipeImageUri,
+        step.order,
+        steps.length,
+      );
+      if (imageUri) results.push({ stepId: step.id, imageUri });
+    } catch {
+      // Skip failed steps — cook mode falls back to recipe photo
+    }
+  }
+
+  // Cache the results
+  if (results.length > 0) {
+    await AsyncStorage.setItem(cacheKey, JSON.stringify(results));
+  }
+
+  return results;
+}
+
+async function generateOneStepImage(
+  instruction: string,
+  referenceImageUri: string,
+  stepNumber: number,
+  totalSteps: number,
+): Promise<string | null> {
+  const prompt = buildStepPrompt(instruction, stepNumber, totalSteps);
+
+  // Use FLUX IP-Adapter if we have a reference image URL (works with http/https)
+  const useIpAdapter = referenceImageUri.startsWith('http');
+  const endpoint = useIpAdapter
+    ? 'fal-ai/flux-ip-adapter'
+    : MODEL;
+
+  const body = useIpAdapter
+    ? {
+        prompt,
+        ip_adapter_image_url: referenceImageUri,
+        ip_adapter_scale: 0.4, // 0=ignore reference, 1=copy reference style exactly. 0.4 = subtle consistency
+        image_size: 'landscape_4_3',
+        num_inference_steps: 8,
+        num_images: 1,
+      }
+    : {
+        prompt,
+        image_size: 'landscape_4_3',
+        num_inference_steps: 4,
+        num_images: 1,
+      };
+
+  const response = await fetch(`https://fal.run/${endpoint}`, {
+    method: 'POST',
+    headers: {
+      'Authorization': `Key ${FAL_API_KEY}`,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(body),
+  });
+
+  if (!response.ok) return null;
+
+  const data = await response.json();
+  return data?.images?.[0]?.url ?? null;
+}
+
+function buildStepPrompt(instruction: string, step: number, total: number): string {
+  const action = extractVisualAction(instruction);
+  return (
+    `Professional food photography, cooking step ${step} of ${total}: ${action}. ` +
+    `Close-up, warm kitchen lighting, shallow depth of field, appetizing, high resolution. ` +
+    `No text, no watermarks.`
+  );
+}
+
+function extractVisualAction(instruction: string): string {
+  // Keep the first sentence only (usually the main action)
+  const first = instruction.split(/[.!]/)[0].trim();
+  // Truncate to ~80 chars for prompt efficiency
+  return first.length > 80 ? first.slice(0, 80) + '...' : first;
+}
+
+/**
+ * Clear cached step images for a recipe (call if recipe is edited)
+ */
+export async function clearStepImageCache(recipeId: string): Promise<void> {
+  await AsyncStorage.removeItem(`${CACHE_KEY_PREFIX}${recipeId}`);
 }

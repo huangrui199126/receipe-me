@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, ScrollView, Dimensions } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, ScrollView, Dimensions, ActivityIndicator } from 'react-native';
 import { Image } from 'expo-image';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -9,6 +9,8 @@ import { useStore } from '../../../store';
 import { Step } from '../../../db/schema';
 import * as Storage from '../../../db/storage';
 import * as Haptics from 'expo-haptics';
+import { generateStepImages, StepImageResult } from '../../../lib/stepImages';
+
 const { width, height } = Dimensions.get('window');
 const IMAGE_HEIGHT = height * 0.36;
 
@@ -22,9 +24,21 @@ export default function CookMode() {
   const [steps, setSteps] = useState<Step[]>([]);
   const [currentStep, setCurrentStep] = useState(0);
   const [showList, setShowList] = useState(false);
+  const [stepImages, setStepImages] = useState<StepImageResult[]>([]);
+  const [generatingImages, setGeneratingImages] = useState(false);
 
   useEffect(() => {
-    if (id) Storage.getStepsByRecipe(id).then(setSteps);
+    if (!id) return;
+    Storage.getStepsByRecipe(id).then(async (loaded) => {
+      setSteps(loaded);
+      // Kick off image generation in background (uses cache after first run)
+      if (recipe?.imageUri && loaded.length > 0) {
+        setGeneratingImages(true);
+        const imgs = await generateStepImages(id, recipe.imageUri, loaded);
+        setStepImages(imgs);
+        setGeneratingImages(false);
+      }
+    });
   }, [id]);
 
   const step = steps[currentStep];
@@ -56,9 +70,9 @@ export default function CookMode() {
     });
   };
 
-  // Show step-specific image only if it was scraped from the recipe site.
-  // Otherwise fall back to the main recipe photo (always correct and high quality).
-  const imgUri = step.imageUri || recipe?.imageUri || '';
+  // Priority: AI-generated (or scraped) step image → recipe's main photo
+  const generatedImg = stepImages.find(s => s.stepId === step.id)?.imageUri;
+  const imgUri = generatedImg || step.imageUri || recipe?.imageUri || '';
 
   return (
     <SafeAreaView style={styles.safe}>
@@ -113,9 +127,16 @@ export default function CookMode() {
               source={{ uri: imgUri }}
               style={styles.stepImage}
               contentFit="cover"
-              transition={300}
+              transition={400}
             />
-            {/* Step counter pill over image */}
+            {/* Generating indicator (shown while AI generates images) */}
+            {generatingImages && !generatedImg && (
+              <View style={styles.generatingBadge}>
+                <ActivityIndicator size="small" color="#fff" />
+                <Text style={styles.generatingText}>Generating step images…</Text>
+              </View>
+            )}
+            {/* Step counter pill */}
             <View style={styles.stepPill}>
               <Text style={styles.stepPillText}>
                 {t('step_of', { current: currentStep + 1, total })}
@@ -186,6 +207,13 @@ const styles = StyleSheet.create({
     borderRadius: 20, paddingHorizontal: 14, paddingVertical: 6,
   },
   stepPillText: { color: '#fff', fontSize: 13, fontWeight: '700' },
+  generatingBadge: {
+    position: 'absolute', top: 12, right: 12,
+    backgroundColor: 'rgba(0,0,0,0.6)',
+    borderRadius: 20, paddingHorizontal: 10, paddingVertical: 5,
+    flexDirection: 'row', alignItems: 'center', gap: 6,
+  },
+  generatingText: { color: '#fff', fontSize: 11, fontWeight: '500' },
 
   instructionScroll: { flex: 1 },
   instructionContent: { padding: 24, paddingBottom: 16 },

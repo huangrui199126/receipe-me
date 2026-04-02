@@ -1,13 +1,14 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   View, Text, StyleSheet, FlatList, TouchableOpacity,
-  ActivityIndicator, Dimensions, Alert,
+  ActivityIndicator, Dimensions, RefreshControl,
 } from 'react-native';
 import { Image } from 'expo-image';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useRouter } from 'expo-router';
 import { Colors } from '../constants/colors';
-import { TRENDING_RECIPES, TrendingRecipe } from '../lib/trendingRecipes';
+import { TrendingRecipe } from '../lib/trendingRecipes';
+import { fetchTrendingRecipes, refreshTrendingRecipes } from '../lib/trendingApi';
 import { useStore } from '../store';
 import { Recipe, Ingredient, Step } from '../db/schema';
 
@@ -29,10 +30,24 @@ export default function TrendingScreen() {
   const { cookbooks, saveRecipe, userProfile } = useStore();
   const [importing, setImporting] = useState<string | null>(null);
   const [saved, setSaved] = useState<Set<string>>(new Set());
+  const [recipes, setRecipes] = useState<TrendingRecipe[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [refreshing, setRefreshing] = useState(false);
+
+  useEffect(() => {
+    fetchTrendingRecipes().then(r => { setRecipes(r); setLoading(false); });
+  }, []);
+
+  const handleRefresh = async () => {
+    setRefreshing(true);
+    const r = await refreshTrendingRecipes();
+    setRecipes(r);
+    setRefreshing(false);
+  };
 
   // Filter by user goals if available
   const goals = userProfile?.goals ?? [];
-  const ranked = [...TRENDING_RECIPES].sort((a, b) => {
+  const ranked = [...recipes].sort((a, b) => {
     let scoreA = 0, scoreB = 0;
     if (goals.includes('healthy')) {
       scoreA += a.healthScore;
@@ -104,12 +119,18 @@ export default function TrendingScreen() {
           <Text style={styles.fireIcon}>🔥</Text>
           <Text style={styles.title}>Trending recipes</Text>
         </View>
-        <Text style={styles.count}>{TRENDING_RECIPES.length} recipes</Text>
+        <Text style={styles.count}>{recipes.length} recipes</Text>
       </View>
 
       {goals.length > 0 && (
         <View style={styles.goalBanner}>
           <Text style={styles.goalText}>Sorted for your goals: {goals.join(', ')}</Text>
+        </View>
+      )}
+
+      {loading && (
+        <View style={styles.loadingWrap}>
+          <ActivityIndicator size="large" color={Colors.primary} />
         </View>
       )}
 
@@ -119,6 +140,9 @@ export default function TrendingScreen() {
         numColumns={2}
         contentContainerStyle={styles.list}
         columnWrapperStyle={styles.row}
+        refreshControl={
+          <RefreshControl refreshing={refreshing} onRefresh={handleRefresh} tintColor={Colors.primary} />
+        }
         renderItem={({ item }) => {
           const isSaving = importing === item.id;
           const isSaved = saved.has(item.id);
@@ -223,4 +247,5 @@ const styles = StyleSheet.create({
   pro: { fontSize: 11, color: Colors.accent },
   healthBadge: { alignSelf: 'flex-start', marginTop: 4, marginLeft: 2, borderRadius: 8, paddingHorizontal: 6, paddingVertical: 2 },
   healthText: { color: '#fff', fontSize: 10, fontWeight: '600' },
+  loadingWrap: { flex: 1, justifyContent: 'center', alignItems: 'center', paddingVertical: 60 },
 });

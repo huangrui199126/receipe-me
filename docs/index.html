@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ReceipeMe Help Center</title>
+  <style>
+    :root {
+      --primary: #F97316;
+      --primary-light: #FED7AA;
+      --bg: #F5F0E8;
+      --card: #FFFFFF;
+      --text: #1A1A1A;
+      --muted: #6B7280;
+      --border: #E5E0D8;
+      --accent: #3B82F6;
+      --purple: #7C3AED;
+      --green: #16A34A;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); }
+
+    /* Nav */
+    nav {
+      background: #fff;
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+      height: 64px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .logo { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+    .logo-icon { width: 36px; height: 36px; background: var(--primary); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 20px; }
+    .logo-text { font-size: 18px; font-weight: 700; color: var(--text); }
+    .nav-links { display: flex; gap: 24px; }
+    .nav-links a { text-decoration: none; color: var(--muted); font-size: 14px; font-weight: 500; transition: color .2s; }
+    .nav-links a:hover { color: var(--primary); }
+    .btn-download {
+      background: var(--primary); color: #fff; padding: 8px 18px; border-radius: 20px;
+      text-decoration: none; font-size: 14px; font-weight: 600; transition: opacity .2s;
+    }
+    .btn-download:hover { opacity: .88; }
+
+    /* Hero */
+    .hero {
+      background: linear-gradient(135deg, var(--primary) 0%, #FB923C 100%);
+      color: #fff;
+      text-align: center;
+      padding: 80px 24px 64px;
+    }
+    .hero h1 { font-size: clamp(28px, 5vw, 48px); font-weight: 800; margin-bottom: 16px; }
+    .hero p { font-size: 18px; opacity: .9; max-width: 520px; margin: 0 auto 36px; line-height: 1.6; }
+    .search-wrap {
+      max-width: 520px; margin: 0 auto;
+      background: #fff; border-radius: 50px; display: flex; align-items: center;
+      padding: 6px 6px 6px 20px; box-shadow: 0 4px 24px rgba(0,0,0,.15);
+    }
+    .search-wrap input {
+      flex: 1; border: none; outline: none; font-size: 15px; background: transparent; color: var(--text);
+    }
+    .search-wrap button {
+      background: var(--primary); color: #fff; border: none; border-radius: 50px;
+      padding: 10px 22px; font-size: 14px; font-weight: 600; cursor: pointer;
+    }
+
+    /* Categories */
+    .section { max-width: 960px; margin: 0 auto; padding: 60px 24px; }
+    .section-title { font-size: 24px; font-weight: 700; margin-bottom: 8px; }
+    .section-sub { color: var(--muted); font-size: 15px; margin-bottom: 32px; }
+
+    .categories {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 16px;
+    }
+    .cat-card {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 24px;
+      text-decoration: none;
+      color: var(--text);
+      transition: box-shadow .2s, transform .2s;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .cat-card:hover { box-shadow: 0 8px 24px rgba(0,0,0,.08); transform: translateY(-2px); }
+    .cat-icon { font-size: 32px; }
+    .cat-title { font-size: 17px; font-weight: 700; }
+    .cat-desc { font-size: 14px; color: var(--muted); line-height: 1.5; }
+    .cat-count { font-size: 12px; color: var(--primary); font-weight: 600; margin-top: auto; }
+
+    /* Articles */
+    .articles-grid { display: grid; grid-template-columns: 280px 1fr; gap: 32px; align-items: start; }
+    @media (max-width: 640px) { .articles-grid { grid-template-columns: 1fr; } }
+
+    .sidebar { position: sticky; top: 80px; }
+    .sidebar-nav { list-style: none; }
+    .sidebar-nav li a {
+      display: block; padding: 10px 14px; border-radius: 10px;
+      text-decoration: none; color: var(--muted); font-size: 14px; font-weight: 500;
+      transition: background .15s, color .15s;
+    }
+    .sidebar-nav li a:hover, .sidebar-nav li a.active { background: var(--primary-light); color: var(--primary); }
+    .sidebar-nav li a .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--primary); display: inline-block; margin-right: 8px; opacity: 0; }
+    .sidebar-nav li a.active .dot { opacity: 1; }
+
+    /* Article sections */
+    .article-section { scroll-margin-top: 80px; margin-bottom: 48px; }
+    .article-section h2 { font-size: 22px; font-weight: 700; margin-bottom: 20px; padding-bottom: 12px; border-bottom: 2px solid var(--primary-light); }
+
+    .article { background: #fff; border: 1px solid var(--border); border-radius: 16px; padding: 28px; margin-bottom: 16px; }
+    .article h3 { font-size: 17px; font-weight: 700; margin-bottom: 12px; color: var(--text); }
+    .article p { font-size: 14px; color: #374151; line-height: 1.7; margin-bottom: 12px; }
+    .article p:last-child { margin-bottom: 0; }
+    .article ol, .article ul { padding-left: 20px; margin: 12px 0; }
+    .article li { font-size: 14px; color: #374151; line-height: 1.8; margin-bottom: 4px; }
+    .article strong { color: var(--text); }
+
+    .tip {
+      background: #F0FDF4; border-left: 4px solid var(--green);
+      border-radius: 8px; padding: 12px 16px; margin: 12px 0;
+      font-size: 13px; color: #166534;
+    }
+    .tip strong { color: #15803D; }
+
+    .warning {
+      background: #FFFBEB; border-left: 4px solid #F59E0B;
+      border-radius: 8px; padding: 12px 16px; margin: 12px 0;
+      font-size: 13px; color: #92400E;
+    }
+
+    .steps { counter-reset: step; list-style: none; padding: 0; margin: 16px 0; }
+    .steps li {
+      counter-increment: step;
+      display: flex; gap: 14px; align-items: flex-start; margin-bottom: 14px;
+    }
+    .steps li::before {
+      content: counter(step);
+      min-width: 28px; height: 28px; border-radius: 50%;
+      background: var(--primary); color: #fff;
+      font-size: 13px; font-weight: 700;
+      display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+    }
+    .steps li span { font-size: 14px; color: #374151; line-height: 1.7; padding-top: 4px; }
+
+    .badge { display: inline-block; padding: 3px 10px; border-radius: 20px; font-size: 12px; font-weight: 600; }
+    .badge-orange { background: var(--primary-light); color: var(--primary); }
+    .badge-blue { background: #DBEAFE; color: #1D4ED8; }
+    .badge-green { background: #D1FAE5; color: #065F46; }
+    .badge-purple { background: #EDE9FE; color: var(--purple); }
+
+    .platform-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; margin: 16px 0; }
+    .platform-card {
+      background: var(--bg); border: 1px solid var(--border); border-radius: 12px;
+      padding: 16px 12px; text-align: center;
+    }
+    .platform-card .icon { font-size: 28px; margin-bottom: 8px; }
+    .platform-card .name { font-size: 13px; font-weight: 600; color: var(--text); }
+    .platform-card .note { font-size: 11px; color: var(--muted); margin-top: 4px; }
+
+    /* Footer */
+    footer { background: #fff; border-top: 1px solid var(--border); padding: 40px 24px; text-align: center; }
+    footer p { color: var(--muted); font-size: 13px; margin-bottom: 8px; }
+    footer a { color: var(--primary); text-decoration: none; }
+
+    @media (max-width: 768px) {
+      .nav-links { display: none; }
+      .hero { padding: 48px 20px 40px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav>
+  <a href="/" class="logo">
+    <div class="logo-icon">🍊</div>
+    <span class="logo-text">ReceipeMe</span>
+  </a>
+  <div class="nav-links">
+    <a href="#import">Importing Recipes</a>
+    <a href="#features">Features</a>
+    <a href="#faq">FAQ</a>
+  </div>
+  <a href="https://apps.apple.com" class="btn-download">Download App</a>
+</nav>
+
+<!-- Hero -->
+<div class="hero">
+  <h1>How can we help you? 🍽</h1>
+  <p>Everything you need to know about using ReceipeMe — from saving your first recipe to planning your whole week.</p>
+  <div class="search-wrap">
+    <input type="text" placeholder="Search for help articles..." />
+    <button>Search</button>
+  </div>
+</div>
+
+<!-- Category cards -->
+<div class="section">
+  <h2 class="section-title">Browse by topic</h2>
+  <p class="section-sub">Find answers quickly by choosing a category below.</p>
+  <div class="categories">
+    <a href="#getting-started" class="cat-card">
+      <div class="cat-icon">✅</div>
+      <div class="cat-title">Getting Started</div>
+      <div class="cat-desc">Set up your profile, create your first cookbook, and save your first recipe.</div>
+      <div class="cat-count">4 articles</div>
+    </a>
+    <a href="#import" class="cat-card">
+      <div class="cat-icon">📥</div>
+      <div class="cat-title">Importing Recipes</div>
+      <div class="cat-desc">Learn how to import from websites, Instagram, TikTok, Pinterest, and more.</div>
+      <div class="cat-count">5 articles</div>
+    </a>
+    <a href="#cookbooks" class="cat-card">
+      <div class="cat-icon">📚</div>
+      <div class="cat-title">Cookbooks</div>
+      <div class="cat-desc">Organize your recipes into beautiful cookbooks for every occasion.</div>
+      <div class="cat-count">3 articles</div>
+    </a>
+    <a href="#meal-plan" class="cat-card">
+      <div class="cat-icon">📅</div>
+      <div class="cat-title">Meal Planning</div>
+      <div class="cat-desc">Plan breakfast, lunch, dinner and snacks for the whole week.</div>
+      <div class="cat-count">3 articles</div>
+    </a>
+    <a href="#groceries" class="cat-card">
+      <div class="cat-icon">🛒</div>
+      <div class="cat-title">Grocery List</div>
+      <div class="cat-desc">Auto-generate a shopping list from your meal plan or any recipe.</div>
+      <div class="cat-count">3 articles</div>
+    </a>
+    <a href="#faq" class="cat-card">
+      <div class="cat-icon">❓</div>
+      <div class="cat-title">FAQ & Troubleshooting</div>
+      <div class="cat-desc">Common questions and fixes for issues you might encounter.</div>
+      <div class="cat-count">6 articles</div>
+    </a>
+  </div>
+</div>
+
+<!-- Main articles -->
+<div class="section" style="padding-top: 0;">
+  <div class="articles-grid">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <ul class="sidebar-nav">
+        <li><a href="#getting-started" class="active"><span class="dot"></span>Getting Started</a></li>
+        <li><a href="#import"><span class="dot"></span>Importing Recipes</a></li>
+        <li><a href="#cookbooks"><span class="dot"></span>Cookbooks</a></li>
+        <li><a href="#meal-plan"><span class="dot"></span>Meal Planning</a></li>
+        <li><a href="#groceries"><span class="dot"></span>Grocery List</a></li>
+        <li><a href="#cooking-mode"><span class="dot"></span>Cooking Mode</a></li>
+        <li><a href="#faq"><span class="dot"></span>FAQ & Troubleshooting</a></li>
+      </ul>
+    </aside>
+
+    <!-- Articles content -->
+    <main>
+
+      <!-- ========== GETTING STARTED ========== -->
+      <div class="article-section" id="getting-started">
+        <h2>✅ Getting Started</h2>
+
+        <div class="article">
+          <h3>Setting up your profile</h3>
+          <p>When you first open ReceipeMe, a quick onboarding flow helps us personalize your experience.</p>
+          <ol class="steps">
+            <li><span>Choose your <strong>cooking goals</strong> (healthy eating, meal prep, trying new cuisines, etc.)</span></li>
+            <li><span>Select where you usually find recipes (Instagram, TikTok, recipe websites, etc.)</span></li>
+            <li><span>Pick your <strong>age range</strong> so we can tailor portion and nutrition guidance</span></li>
+            <li><span>ReceipeMe will show you a personalized recipe score and recommend recipes based on your goals</span></li>
+          </ol>
+          <div class="tip"><strong>Tip:</strong> You can update your goals anytime in the <strong>More</strong> tab → Settings.</div>
+        </div>
+
+        <div class="article">
+          <h3>Creating your first cookbook</h3>
+          <p>Cookbooks are folders that hold your recipes — create one for each category you like (e.g., "Weeknight Dinners", "Desserts", "Meal Prep").</p>
+          <ol class="steps">
+            <li><span>Open the <strong>Cookbooks</strong> tab (home screen)</span></li>
+            <li><span>Tap the <strong>+ New Cookbook</strong> card</span></li>
+            <li><span>Enter a name and choose an emoji</span></li>
+            <li><span>Tap <strong>Create</strong> — your cookbook appears in the grid</span></li>
+          </ol>
+          <p>The cookbook cover is automatically assembled from the recipe photos you save inside it.</p>
+        </div>
+
+        <div class="article">
+          <h3>Saving your first recipe</h3>
+          <p>There are two ways to add a recipe:</p>
+          <ul>
+            <li><strong>Import from a URL</strong> — paste a link from any recipe website (fastest)</li>
+            <li><strong>Add manually</strong> — type the title, ingredients and steps yourself</li>
+          </ul>
+          <p>Tap the orange <strong>+</strong> button in the centre of the bottom tab bar to start either flow.</p>
+          <div class="tip"><strong>Best tip:</strong> Import from a recipe website URL for the fastest experience. Websites like allrecipes.com, tasty.co, and foodnetwork.com work perfectly.</div>
+        </div>
+
+        <div class="article">
+          <h3>Navigating the app</h3>
+          <p>ReceipeMe has 4 main tabs at the bottom:</p>
+          <ul>
+            <li>📚 <strong>Cookbooks</strong> — all your saved recipes, organized into cookbooks</li>
+            <li>📅 <strong>Meal Plan</strong> — plan your weekly meals</li>
+            <li>🛒 <strong>Groceries</strong> — auto-generated shopping list</li>
+            <li>☰ <strong>More</strong> — trending recipes, settings, and your profile</li>
+          </ul>
+          <p>The large orange <strong>+</strong> button in the center opens the recipe import screen.</p>
+        </div>
+      </div>
+
+      <!-- ========== IMPORTING ========== -->
+      <div class="article-section" id="import">
+        <h2>📥 Importing Recipes</h2>
+
+        <div class="article">
+          <h3>How to import from a recipe website</h3>
+          <p>This is the fastest and most reliable import method. Works with hundreds of recipe sites.</p>
+          <ol class="steps">
+            <li><span>Find a recipe on any website (e.g. allrecipes.com, foodnetwork.com, tasty.co, bonappetit.com)</span></li>
+            <li><span>Copy the URL from your browser's address bar</span></li>
+            <li><span>In ReceipeMe, tap the orange <strong>+</strong> button</span></li>
+            <li><span>Paste the URL in the input field and tap <strong>Import Recipe</strong></span></li>
+            <li><span>Review the parsed ingredients and instructions</span></li>
+            <li><span>Choose a cookbook, then tap <strong>Save</strong></span></li>
+          </ol>
+          <div class="tip"><strong>How it works:</strong> ReceipeMe reads the recipe's structured data (called JSON-LD) embedded in the page — so ingredients and steps are extracted automatically.</div>
+        </div>
+
+        <div class="article">
+          <h3>Importing from Instagram, TikTok, and Pinterest</h3>
+          <p>Social media platforms work differently from recipe websites:</p>
+          <div class="platform-grid">
+            <div class="platform-card">
+              <div class="icon">📷</div>
+              <div class="name">Instagram</div>
+              <div class="note">Gets title + image. Full recipe text requires the original source link.</div>
+            </div>
+            <div class="platform-card">
+              <div class="icon">🎵</div>
+              <div class="name">TikTok</div>
+              <div class="note">Gets title + thumbnail. Use the link in the creator's bio for full recipe.</div>
+            </div>
+            <div class="platform-card">
+              <div class="icon">📌</div>
+              <div class="name">Pinterest</div>
+              <div class="note">Gets title + image. Tap through to the source website for the full recipe.</div>
+            </div>
+            <div class="platform-card">
+              <div class="icon">🌐</div>
+              <div class="name">Any Website</div>
+              <div class="note">Full recipe import — ingredients, steps, nutrition, images all extracted.</div>
+            </div>
+          </div>
+          <div class="warning">
+            <strong>Note:</strong> Instagram, TikTok, and Pinterest don't share recipe data with apps. For the best import experience, find the <strong>original recipe website URL</strong> — usually linked in the creator's bio or shown in the pin description.
+          </div>
+        </div>
+
+        <div class="article">
+          <h3>Step-by-step: Import from Instagram</h3>
+          <ol class="steps">
+            <li><span>Open the recipe reel on Instagram</span></li>
+            <li><span>Check the caption — creators usually include a link to the recipe (e.g. "Full recipe on my website, link in bio")</span></li>
+            <li><span>Visit their profile and tap the link in bio</span></li>
+            <li><span>Find the specific recipe page and copy that URL</span></li>
+            <li><span>Paste it in ReceipeMe's import screen</span></li>
+          </ol>
+          <p>Alternatively, paste the Instagram URL directly — ReceipeMe will import the title and photo even if the full recipe text isn't available.</p>
+        </div>
+
+        <div class="article">
+          <h3>Step-by-step: Import from Pinterest</h3>
+          <ol class="steps">
+            <li><span>Open the recipe pin on Pinterest</span></li>
+            <li><span>Tap the pin to see the full view</span></li>
+            <li><span>Tap <strong>Visit</strong> or the website link — it takes you to the original recipe page</span></li>
+            <li><span>Copy the URL from that recipe page</span></li>
+            <li><span>Paste it in ReceipeMe's import screen</span></li>
+          </ol>
+          <div class="tip"><strong>Quick tip:</strong> You can also share a Pinterest pin URL directly into ReceipeMe. We'll grab the image and title, and you can fill in the recipe details manually.</div>
+        </div>
+
+        <div class="article">
+          <h3>What to do if an import doesn't work</h3>
+          <p>Some websites block automated access. If an import fails, try these steps:</p>
+          <ol>
+            <li>Try opening the URL in Safari first to make sure it works</li>
+            <li>Some sites require you to be logged in — try finding the same recipe on another site</li>
+            <li>Copy the recipe text manually and add it using the <strong>Add Manually</strong> option</li>
+          </ol>
+          <div class="tip"><strong>Best supported sites:</strong> allrecipes.com, foodnetwork.com, tasty.co, bonappetit.com, epicurious.com, seriouseats.com, minimalistbaker.com, halfbakedharvest.com, recipetineats.com, damndelicious.net</div>
+        </div>
+      </div>
+
+      <!-- ========== COOKBOOKS ========== -->
+      <div class="article-section" id="cookbooks">
+        <h2>📚 Cookbooks</h2>
+
+        <div class="article">
+          <h3>Organizing recipes into cookbooks</h3>
+          <p>Cookbooks help you keep recipes organized by theme, occasion, or cuisine. Some ideas:</p>
+          <ul>
+            <li>🥗 <strong>Healthy Meals</strong> — for low-calorie or high-protein recipes</li>
+            <li>🍝 <strong>Weeknight Dinners</strong> — quick recipes under 30 minutes</li>
+            <li>🎂 <strong>Desserts</strong> — cakes, cookies, and sweet treats</li>
+            <li>🥡 <strong>Meal Prep</strong> — recipes that store well</li>
+          </ul>
+          <p>To move a recipe to a different cookbook, open the recipe detail → tap the edit icon → change the cookbook.</p>
+        </div>
+
+        <div class="article">
+          <h3>Scaling a recipe's servings</h3>
+          <p>On any recipe detail screen, use the <strong>− / +</strong> buttons next to the serving size to scale up or down.</p>
+          <p>All ingredient amounts automatically adjust with the correct fractions (e.g. 1/2 cup becomes 1 cup when you double the recipe).</p>
+          <div class="tip"><strong>Tip:</strong> Great for cooking for a crowd or halving a recipe for one person.</div>
+        </div>
+
+        <div class="article">
+          <h3>Sharing a recipe</h3>
+          <p>Open any recipe → tap the Share button (top right). You can:</p>
+          <ul>
+            <li>Copy the ingredient list to clipboard</li>
+            <li>Share a link to the original source</li>
+            <li>Share via Messages, WhatsApp, or any app</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- ========== MEAL PLAN ========== -->
+      <div class="article-section" id="meal-plan">
+        <h2>📅 Meal Planning</h2>
+
+        <div class="article">
+          <h3>Planning your week</h3>
+          <p>The Meal Plan tab shows a 7-day view. Use the <strong>‹ ›</strong> arrows to navigate between weeks.</p>
+          <ol class="steps">
+            <li><span>Tap the <strong>+</strong> button on any day</span></li>
+            <li><span>Select the meal type: <span class="badge badge-orange">Breakfast</span> <span class="badge badge-blue">Lunch</span> <span class="badge badge-purple">Dinner</span> or <span class="badge badge-green">Snack</span></span></li>
+            <li><span>Pick a recipe from your cookbooks — or choose from the <strong>trending pool</strong> if you haven't saved recipes yet</span></li>
+            <li><span>The recipe is added to that day's plan</span></li>
+          </ol>
+        </div>
+
+        <div class="article">
+          <h3>Adding a whole week's ingredients to your grocery list</h3>
+          <p>Once you've planned your week, tap <strong>🛒 Add to Groceries</strong> at the top of the Meal Plan screen. All ingredients from all planned meals are automatically added to your grocery list, grouped by category.</p>
+          <div class="tip"><strong>Tip:</strong> Plan your full week on Sunday, then add to groceries — you'll have a perfect shopping list ready to go.</div>
+        </div>
+
+        <div class="article">
+          <h3>Using trending recipes in your meal plan</h3>
+          <p>No saved recipes yet? No problem. When you tap + on any day, ReceipeMe shows 10 popular trending recipes you can add instantly. Tapping one saves it to your cookbook <em>and</em> adds it to the meal plan in one tap.</p>
+        </div>
+      </div>
+
+      <!-- ========== GROCERIES ========== -->
+      <div class="article-section" id="groceries">
+        <h2>🛒 Grocery List</h2>
+
+        <div class="article">
+          <h3>How the grocery list works</h3>
+          <p>The Grocery List tab shows all your shopping items, grouped by category:</p>
+          <ul>
+            <li>🥩 Meat &amp; Seafood</li>
+            <li>🥦 Fresh Produce</li>
+            <li>🥛 Dairy</li>
+            <li>🌾 Pantry</li>
+            <li>🍞 Bakery</li>
+          </ul>
+          <p>Items are automatically sorted into the right category when added from a recipe.</p>
+        </div>
+
+        <div class="article">
+          <h3>Checking off items while shopping</h3>
+          <p>Tap any item to check it off. Checked items move to the bottom of their category so you can focus on what's left.</p>
+          <p>To clear all checked items, tap <strong>••• → Clear completed</strong>.</p>
+        </div>
+
+        <div class="article">
+          <h3>Adding items manually</h3>
+          <p>Scroll to the bottom of any category and tap <strong>+ Add item</strong>. Type the name, amount, and unit. The item is saved to your list immediately.</p>
+        </div>
+      </div>
+
+      <!-- ========== COOKING MODE ========== -->
+      <div class="article-section" id="cooking-mode">
+        <h2>👨‍🍳 Cooking Mode</h2>
+
+        <div class="article">
+          <h3>Step-by-step cooking mode</h3>
+          <p>Open any recipe and tap <strong>Start Cooking</strong> at the bottom. This opens full-screen cooking mode with:</p>
+          <ul>
+            <li>Large, easy-to-read instructions one step at a time</li>
+            <li>A progress bar showing <strong>Step X of Y</strong></li>
+            <li>Ingredient names highlighted in blue for easy reference</li>
+            <li>← Back and Next → navigation buttons</li>
+            <li>A <strong>list view</strong> toggle to see all steps at once</li>
+          </ul>
+          <div class="tip"><strong>Tip:</strong> Your screen stays on during cooking mode so you don't have to keep unlocking your phone.</div>
+        </div>
+      </div>
+
+      <!-- ========== FAQ ========== -->
+      <div class="article-section" id="faq">
+        <h2>❓ FAQ &amp; Troubleshooting</h2>
+
+        <div class="article">
+          <h3>Why did my import only get the title and not the full recipe?</h3>
+          <p>This usually happens when importing from <strong>Instagram, TikTok, or Pinterest</strong>. These platforms don't share recipe data with third-party apps.</p>
+          <p><strong>Solution:</strong> Find the original recipe website URL (usually in the creator's bio or linked from the pin) and import that instead.</p>
+        </div>
+
+        <div class="article">
+          <h3>The app shows "Import failed" — what do I do?</h3>
+          <p>Some websites block automated fetching. Try:</p>
+          <ol>
+            <li>Confirm the URL works by opening it in Safari</li>
+            <li>Try another recipe from the same website</li>
+            <li>Use the <strong>Add Manually</strong> option and paste the text yourself</li>
+          </ol>
+        </div>
+
+        <div class="article">
+          <h3>How do I change the language?</h3>
+          <p>ReceipeMe automatically detects your device language. We support <strong>English, Chinese (中文), and Spanish (Español)</strong>.</p>
+          <p>To change the app language, change your iPhone's language in <strong>Settings → General → Language &amp; Region</strong>.</p>
+        </div>
+
+        <div class="article">
+          <h3>Can I use ReceipeMe without an internet connection?</h3>
+          <p>Yes! All your saved recipes, cookbooks, meal plans, and grocery lists are stored <strong>locally on your device</strong>. You only need internet when importing new recipes from URLs.</p>
+        </div>
+
+        <div class="article">
+          <h3>How does the health score work?</h3>
+          <p>Each recipe is assigned a health score from <strong>1 to 10</strong> based on nutrition per serving:</p>
+          <ul>
+            <li><span class="badge badge-green">8–10 Healthy</span> — high protein, lower calories, nutrient-dense</li>
+            <li><span class="badge" style="background:#FEF3C7;color:#92400E;">5–7 Balanced</span> — moderate nutrition, good variety</li>
+            <li><span class="badge" style="background:#FEE2E2;color:#991B1B;">1–4 Indulgent</span> — treat recipes (desserts, fried foods)</li>
+          </ul>
+          <p>Scores are estimated from ingredient lists and are for guidance only.</p>
+        </div>
+
+        <div class="article">
+          <h3>How do I contact support?</h3>
+          <p>We'd love to hear from you! Email us at <a href="mailto:support@receipeme.app" style="color:var(--primary)">support@receipeme.app</a> or leave a review on the App Store. We read every message.</p>
+        </div>
+      </div>
+
+    </main>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer>
+  <p>Made with ❤️ for food lovers</p>
+  <p><a href="mailto:support@receipeme.app">support@receipeme.app</a> &nbsp;·&nbsp; <a href="#">Privacy Policy</a> &nbsp;·&nbsp; <a href="#">Terms of Use</a></p>
+  <p style="margin-top:16px; color:#D1D5DB; font-size:12px;">© 2026 ReceipeMe. All rights reserved.</p>
+</footer>
+
+<script>
+  // Highlight active sidebar link based on scroll position
+  const sections = document.querySelectorAll('.article-section');
+  const navLinks = document.querySelectorAll('.sidebar-nav a');
+
+  function updateActive() {
+    let current = '';
+    sections.forEach(section => {
+      if (window.scrollY >= section.offsetTop - 100) {
+        current = section.id;
+      }
+    });
+    navLinks.forEach(link => {
+      link.classList.remove('active');
+      if (link.getAttribute('href') === '#' + current) {
+        link.classList.add('active');
+      }
+    });
+  }
+
+  window.addEventListener('scroll', updateActive);
+  updateActive();
+
+  // Basic search highlight
+  const searchInput = document.querySelector('.search-wrap input');
+  searchInput.addEventListener('keydown', e => {
+    if (e.key === 'Enter' && searchInput.value.trim()) {
+      const q = searchInput.value.toLowerCase();
+      const articles = document.querySelectorAll('.article');
+      let found = false;
+      for (const art of articles) {
+        if (art.textContent.toLowerCase().includes(q)) {
+          art.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          art.style.outline = '2px solid #F97316';
+          setTimeout(() => art.style.outline = '', 2000);
+          found = true;
+          break;
+        }
+      }
+      if (!found) alert('No results found for "' + searchInput.value + '"');
+    }
+  });
+</script>
+
+</body>
+</html>

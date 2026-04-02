@@ -14,7 +14,7 @@ export interface TrendingRecipe {
   nutrition: { calories: number; protein: number; carbs: number; fat: number };
   healthScore: number; // 1-10
   ingredients: { section: string; name: string; amount: string; unit: string; emoji: string }[];
-  steps: { order: number; instruction: string }[];
+  steps: { order: number; instruction: string; imageUri?: string }[];
 }
 
 export const TRENDING_RECIPES: TrendingRecipe[] = [
@@ -53,11 +53,11 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
       { section: 'Wraps & Filling', name: 'Chopped Onions', amount: '1', unit: '', emoji: '🧅' },
     ],
     steps: [
-      { order: 1, instruction: 'Slice chicken breast and thighs into cubes. Add seasonings with grated parmesan cheese and a drizzle of olive oil. Mix until well coated.' },
-      { order: 2, instruction: 'In a pan on low heat, add light butter with seasonings. Toast for a minute before adding evaporated milk, extra Parmesan and cream cheese. Stir till smooth and creamy.' },
-      { order: 3, instruction: 'Line a sheet pan with parchment paper, spread marinated chicken evenly (do not overcrowd), add a light layer of cooking spray. Bake in a preheated oven at 200°C for 20-22 minutes until crispy.' },
-      { order: 4, instruction: 'While chicken is still hot, add extra parmesan and parsley. Mix well until coated and extra cheesy.' },
-      { order: 5, instruction: 'Assemble the wraps with shredded lettuce, onion, tomato, crispy chicken and sauce. Enjoy!' },
+      { order: 1, instruction: 'Slice chicken breast and thighs into cubes. Add seasonings with grated parmesan cheese and a drizzle of olive oil. Mix until well coated.', imageUri: 'https://images.unsplash.com/photo-1432139509613-5c4255815697?w=800&q=80' },
+      { order: 2, instruction: 'In a pan on low heat, add light butter with seasonings. Toast for a minute before adding evaporated milk, extra Parmesan and cream cheese. Stir till smooth and creamy.', imageUri: 'https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=800&q=80' },
+      { order: 3, instruction: 'Line a sheet pan with parchment paper, spread marinated chicken evenly (do not overcrowd), add a light layer of cooking spray. Bake in a preheated oven at 200°C for 20-22 minutes until crispy.', imageUri: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&q=80' },
+      { order: 4, instruction: 'While chicken is still hot, add extra parmesan and parsley. Mix well until coated and extra cheesy.', imageUri: 'https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800&q=80' },
+      { order: 5, instruction: 'Assemble the wraps with shredded lettuce, onion, tomato, crispy chicken and sauce. Enjoy!', imageUri: 'https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=800&q=80' },
     ],
   },
   {
@@ -85,12 +85,12 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
       { section: '', name: 'Pasta Water', amount: '1', unit: 'cup', emoji: '💧' },
     ],
     steps: [
-      { order: 1, instruction: 'Slice onions into thin rings. Separate garlic cloves but leave whole.' },
-      { order: 2, instruction: 'Add oil and butter to a large oven-safe pan over medium heat. Add onions, thyme, salt and pepper. Cook stirring occasionally for 10 minutes.' },
-      { order: 3, instruction: 'Transfer to oven at 180°C. Roast for 30 minutes, stirring halfway, until deep golden and caramelized.' },
-      { order: 4, instruction: 'Meanwhile, cook spaghetti in salted water until al dente. Reserve 1 cup pasta water before draining.' },
-      { order: 5, instruction: 'Return pan to stove over medium heat. Add balsamic vinegar and stir. Add cooked pasta and splash of pasta water. Toss well.' },
-      { order: 6, instruction: 'Finish with grated parmesan, extra olive oil and black pepper. Serve immediately.' },
+      { order: 1, instruction: 'Slice onions into thin rings. Separate garlic cloves but leave whole.', imageUri: 'https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&q=80' },
+      { order: 2, instruction: 'Add oil and butter to a large oven-safe pan over medium heat. Add onions, thyme, salt and pepper. Cook stirring occasionally for 10 minutes.', imageUri: 'https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=800&q=80' },
+      { order: 3, instruction: 'Transfer to oven at 180°C. Roast for 30 minutes, stirring halfway, until deep golden and caramelized.', imageUri: 'https://images.unsplash.com/photo-1608835291093-394b0c943a75?w=800&q=80' },
+      { order: 4, instruction: 'Meanwhile, cook spaghetti in salted water until al dente. Reserve 1 cup pasta water before draining.', imageUri: 'https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=800&q=80' },
+      { order: 5, instruction: 'Return pan to stove over medium heat. Add balsamic vinegar and stir. Add cooked pasta and splash of pasta water. Toss well.', imageUri: 'https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800&q=80' },
+      { order: 6, instruction: 'Finish with grated parmesan, extra olive oil and black pepper. Serve immediately.', imageUri: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80' },
     ],
   },
   {
@@ -122,12 +122,12 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
       { section: 'Vegetables', name: 'Green Onions for garnish', amount: '2', unit: '', emoji: '🧅' },
     ],
     steps: [
-      { order: 1, instruction: 'Mix sliced beef with cornstarch and egg until well coated. Set aside for 15 minutes.' },
-      { order: 2, instruction: 'Whisk together all sauce ingredients in a bowl. Set aside.' },
-      { order: 3, instruction: 'Heat oil in a wok or large pan over high heat. Fry beef in batches until crispy, about 2-3 minutes per batch. Drain on paper towels.' },
-      { order: 4, instruction: 'Remove most of the oil, leaving 2 tbsp. Stir-fry onion and bell pepper for 2 minutes. Add garlic and cook 30 seconds.' },
-      { order: 5, instruction: 'Pour sauce into the pan and bring to a boil. Add crispy beef and toss to coat evenly.' },
-      { order: 6, instruction: 'Serve over steamed rice, garnished with green onions.' },
+      { order: 1, instruction: 'Mix sliced beef with cornstarch and egg until well coated. Set aside for 15 minutes.', imageUri: 'https://images.unsplash.com/photo-1432139509613-5c4255815697?w=800&q=80' },
+      { order: 2, instruction: 'Whisk together all sauce ingredients in a bowl. Set aside.', imageUri: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80' },
+      { order: 3, instruction: 'Heat oil in a wok or large pan over high heat. Fry beef in batches until crispy, about 2-3 minutes per batch. Drain on paper towels.', imageUri: 'https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=800&q=80' },
+      { order: 4, instruction: 'Remove most of the oil, leaving 2 tbsp. Stir-fry onion and bell pepper for 2 minutes. Add garlic and cook 30 seconds.', imageUri: 'https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800&q=80' },
+      { order: 5, instruction: 'Pour sauce into the pan and bring to a boil. Add crispy beef and toss to coat evenly.', imageUri: 'https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800&q=80' },
+      { order: 6, instruction: 'Serve over steamed rice, garnished with green onions.', imageUri: 'https://images.unsplash.com/photo-1553163147-622ab57be1c7?w=800&q=80' },
     ],
   },
   {
@@ -153,11 +153,11 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
       { section: '', name: 'Salt and Pepper', amount: '', unit: '', emoji: '🧂' },
     ],
     steps: [
-      { order: 1, instruction: 'Pat salmon dry and season with salt and pepper on both sides.' },
-      { order: 2, instruction: 'Mix honey, soy sauce, garlic and lemon juice in a small bowl.' },
-      { order: 3, instruction: 'Heat olive oil in a non-stick pan over medium-high heat. Cook salmon skin-side up for 4 minutes, then flip.' },
-      { order: 4, instruction: 'Pour honey garlic sauce over salmon. Cook for another 3-4 minutes, basting frequently, until salmon is cooked through and sauce is caramelized.' },
-      { order: 5, instruction: 'Garnish with fresh parsley and serve with steamed vegetables or rice.' },
+      { order: 1, instruction: 'Pat salmon dry and season with salt and pepper on both sides.', imageUri: 'https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&q=80' },
+      { order: 2, instruction: 'Mix honey, soy sauce, garlic and lemon juice in a small bowl.', imageUri: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80' },
+      { order: 3, instruction: 'Heat olive oil in a non-stick pan over medium-high heat. Cook salmon skin-side up for 4 minutes, then flip.', imageUri: 'https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=800&q=80' },
+      { order: 4, instruction: 'Pour honey garlic sauce over salmon. Cook for another 3-4 minutes, basting frequently, until salmon is cooked through and sauce is caramelized.', imageUri: 'https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&q=80' },
+      { order: 5, instruction: 'Garnish with fresh parsley and serve with steamed vegetables or rice.', imageUri: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80' },
     ],
   },
   {
@@ -185,11 +185,11 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
       { section: '', name: 'Salt and Pepper', amount: '', unit: '', emoji: '🧂' },
     ],
     steps: [
-      { order: 1, instruction: 'Season chicken breasts with Italian seasoning, salt and pepper on both sides.' },
-      { order: 2, instruction: 'Heat olive oil and butter in a large pan over medium-high heat. Sear chicken 6-7 minutes per side until golden and cooked through. Set aside.' },
-      { order: 3, instruction: 'In the same pan, sauté garlic for 1 minute. Add sun-dried tomatoes and cook 2 minutes.' },
-      { order: 4, instruction: 'Pour in heavy cream and bring to a simmer. Stir in parmesan until melted and sauce thickens, about 3 minutes.' },
-      { order: 5, instruction: 'Add spinach and stir until wilted. Return chicken to pan and coat with sauce. Serve with pasta or crusty bread.' },
+      { order: 1, instruction: 'Season chicken breasts with Italian seasoning, salt and pepper on both sides.', imageUri: 'https://images.unsplash.com/photo-1432139509613-5c4255815697?w=800&q=80' },
+      { order: 2, instruction: 'Heat olive oil and butter in a large pan over medium-high heat. Sear chicken 6-7 minutes per side until golden and cooked through. Set aside.', imageUri: 'https://images.unsplash.com/photo-1432139555190-58524dae6a55?w=800&q=80' },
+      { order: 3, instruction: 'In the same pan, sauté garlic for 1 minute. Add sun-dried tomatoes and cook 2 minutes.', imageUri: 'https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=800&q=80' },
+      { order: 4, instruction: 'Pour in heavy cream and bring to a simmer. Stir in parmesan until melted and sauce thickens, about 3 minutes.', imageUri: 'https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800&q=80' },
+      { order: 5, instruction: 'Add spinach and stir until wilted. Return chicken to pan and coat with sauce. Serve with pasta or crusty bread.', imageUri: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80' },
     ],
   },
   {
@@ -215,10 +215,10 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
       { section: '', name: 'White Vinegar (for poaching)', amount: '1', unit: 'tbsp', emoji: '🫙' },
     ],
     steps: [
-      { order: 1, instruction: 'Toast sourdough slices until golden and crispy.' },
-      { order: 2, instruction: 'Mash avocado with lemon juice, salt and pepper. Spread generously on toast.' },
-      { order: 3, instruction: 'Fill a small saucepan with water, add vinegar, and bring to a gentle simmer. Create a gentle whirlpool and crack each egg into the center. Poach 3-4 minutes for a runny yolk.' },
-      { order: 4, instruction: 'Place poached egg on avocado toast. Season with red pepper flakes and everything bagel seasoning. Serve immediately.' },
+      { order: 1, instruction: 'Toast sourdough slices until golden and crispy.', imageUri: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&q=80' },
+      { order: 2, instruction: 'Mash avocado with lemon juice, salt and pepper. Spread generously on toast.', imageUri: 'https://images.unsplash.com/photo-1525351484163-7529414344d8?w=800&q=80' },
+      { order: 3, instruction: 'Fill a small saucepan with water, add vinegar, and bring to a gentle simmer. Create a gentle whirlpool and crack each egg into the center. Poach 3-4 minutes for a runny yolk.', imageUri: 'https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=800&q=80' },
+      { order: 4, instruction: 'Place poached egg on avocado toast. Season with red pepper flakes and everything bagel seasoning. Serve immediately.', imageUri: 'https://images.unsplash.com/photo-1525351484163-7529414344d8?w=800&q=80' },
     ],
   },
   {
@@ -244,12 +244,12 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
       { section: '', name: 'Vanilla Extract', amount: '1', unit: 'tsp', emoji: '🌿' },
     ],
     steps: [
-      { order: 1, instruction: 'Preheat oven to 220°C. Butter four 180ml ramekins and dust with cocoa powder.' },
-      { order: 2, instruction: 'Melt chocolate and butter together in a double boiler or microwave, stirring until smooth. Cool slightly.' },
-      { order: 3, instruction: 'Whisk eggs, egg yolks and sugar together until thick and pale, about 3 minutes.' },
-      { order: 4, instruction: 'Fold chocolate mixture into the egg mixture. Sift in flour and salt, fold until just combined.' },
-      { order: 5, instruction: 'Divide batter evenly among ramekins. Bake 10-12 minutes until edges are set but centre jiggles slightly.' },
-      { order: 6, instruction: 'Let sit 1 minute, then invert onto plates. Serve immediately with vanilla ice cream or fresh berries.' },
+      { order: 1, instruction: 'Preheat oven to 220°C. Butter four 180ml ramekins and dust with cocoa powder.', imageUri: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80' },
+      { order: 2, instruction: 'Melt chocolate and butter together in a double boiler or microwave, stirring until smooth. Cool slightly.', imageUri: 'https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800&q=80' },
+      { order: 3, instruction: 'Whisk eggs, egg yolks and sugar together until thick and pale, about 3 minutes.', imageUri: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80' },
+      { order: 4, instruction: 'Fold chocolate mixture into the egg mixture. Sift in flour and salt, fold until just combined.', imageUri: 'https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800&q=80' },
+      { order: 5, instruction: 'Divide batter evenly among ramekins. Bake 10-12 minutes until edges are set but centre jiggles slightly.', imageUri: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&q=80' },
+      { order: 6, instruction: 'Let sit 1 minute, then invert onto plates. Serve immediately with vanilla ice cream or fresh berries.', imageUri: 'https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=800&q=80' },
     ],
   },
   {
@@ -281,11 +281,11 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
       { section: 'Tzatziki', name: 'Dill', amount: '2', unit: 'tbsp', emoji: '🌿' },
     ],
     steps: [
-      { order: 1, instruction: 'Mix olive oil, lemon juice, garlic and oregano. Marinate chicken for at least 15 minutes (up to 4 hours).' },
-      { order: 2, instruction: 'Mix yogurt, grated cucumber, garlic and dill to make tzatziki. Season and refrigerate.' },
-      { order: 3, instruction: 'Cook marinated chicken in a hot grill pan 6-7 minutes per side until cooked through. Rest 5 minutes, then slice.' },
-      { order: 4, instruction: 'Assemble bowls with rice, sliced chicken, tomatoes, cucumber and olives.' },
-      { order: 5, instruction: 'Top with tzatziki, crumbled feta and a drizzle of olive oil.' },
+      { order: 1, instruction: 'Mix olive oil, lemon juice, garlic and oregano. Marinate chicken for at least 15 minutes (up to 4 hours).', imageUri: 'https://images.unsplash.com/photo-1432139509613-5c4255815697?w=800&q=80' },
+      { order: 2, instruction: 'Mix yogurt, grated cucumber, garlic and dill to make tzatziki. Season and refrigerate.', imageUri: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80' },
+      { order: 3, instruction: 'Cook marinated chicken in a hot grill pan 6-7 minutes per side until cooked through. Rest 5 minutes, then slice.', imageUri: 'https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=800&q=80' },
+      { order: 4, instruction: 'Assemble bowls with rice, sliced chicken, tomatoes, cucumber and olives.', imageUri: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80' },
+      { order: 5, instruction: 'Top with tzatziki, crumbled feta and a drizzle of olive oil.', imageUri: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80' },
     ],
   },
   {
@@ -314,11 +314,11 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
       { section: 'Lemon Dressing', name: 'Olive Oil', amount: '2', unit: 'tbsp', emoji: '🫙' },
     ],
     steps: [
-      { order: 1, instruction: 'Cook quinoa according to package directions. Spread on a baking sheet and bake at 200°C for 15-20 minutes until crispy, tossing halfway.' },
-      { order: 2, instruction: 'Toss asparagus and chickpeas with olive oil, salt and pepper. Roast at 200°C for 20 minutes until tender.' },
-      { order: 3, instruction: 'Whisk together lemon juice, mustard, honey and olive oil for the dressing.' },
-      { order: 4, instruction: 'Combine spinach, cherry tomatoes, roasted asparagus and chickpeas in a large bowl.' },
-      { order: 5, instruction: 'Add crispy quinoa, drizzle with dressing and toss gently. Top with crumbled feta.' },
+      { order: 1, instruction: 'Cook quinoa according to package directions. Spread on a baking sheet and bake at 200°C for 15-20 minutes until crispy, tossing halfway.', imageUri: 'https://images.unsplash.com/photo-1608835291093-394b0c943a75?w=800&q=80' },
+      { order: 2, instruction: 'Toss asparagus and chickpeas with olive oil, salt and pepper. Roast at 200°C for 20 minutes until tender.', imageUri: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80' },
+      { order: 3, instruction: 'Whisk together lemon juice, mustard, honey and olive oil for the dressing.', imageUri: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80' },
+      { order: 4, instruction: 'Combine spinach, cherry tomatoes, roasted asparagus and chickpeas in a large bowl.', imageUri: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80' },
+      { order: 5, instruction: 'Add crispy quinoa, drizzle with dressing and toss gently. Top with crumbled feta.', imageUri: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80' },
     ],
   },
   {
@@ -351,11 +351,11 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
       { section: 'Gochujang Sauce', name: 'Rice Vinegar', amount: '1', unit: 'tbsp', emoji: '🫙' },
     ],
     steps: [
-      { order: 1, instruction: 'Mix soy sauce, sesame oil, brown sugar, garlic and ginger. Brown ground beef in a pan, add sauce and cook until glazed.' },
-      { order: 2, instruction: 'Quickly sauté carrots and spinach separately with a little sesame oil and salt.' },
-      { order: 3, instruction: 'Whisk gochujang sauce ingredients together.' },
-      { order: 4, instruction: 'Fry eggs sunny-side up.' },
-      { order: 5, instruction: 'Divide rice into bowls. Arrange beef, carrots, spinach and cucumber over rice. Top with a fried egg, drizzle gochujang sauce and sprinkle sesame seeds.' },
+      { order: 1, instruction: 'Mix soy sauce, sesame oil, brown sugar, garlic and ginger. Brown ground beef in a pan, add sauce and cook until glazed.', imageUri: 'https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=800&q=80' },
+      { order: 2, instruction: 'Quickly sauté carrots and spinach separately with a little sesame oil and salt.', imageUri: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80' },
+      { order: 3, instruction: 'Whisk gochujang sauce ingredients together.', imageUri: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80' },
+      { order: 4, instruction: 'Fry eggs sunny-side up.', imageUri: 'https://images.unsplash.com/photo-1525351484163-7529414344d8?w=800&q=80' },
+      { order: 5, instruction: 'Divide rice into bowls. Arrange beef, carrots, spinach and cucumber over rice. Top with a fried egg, drizzle gochujang sauce and sprinkle sesame seeds.', imageUri: 'https://images.unsplash.com/photo-1553163147-622ab57be1c7?w=800&q=80' },
     ],
   },
 ];

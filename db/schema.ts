@@ -34,6 +34,7 @@ export interface Step {
   recipeId: string;
   order: number;
   instruction: string;
+  imageUri?: string; // optional step photo
 }
 
 export interface NutritionInfo {

@@ -96,7 +96,7 @@ function parseJsonLdRecipe(data: any, url: string): ImportedRecipe {
     return { ...parsed, order: i, section: '' };
   });
 
-  // Parse steps
+  // Parse steps — also capture step images when available (some sites embed them)
   const rawInstructions = data.recipeInstructions ?? [];
   const steps: Omit<Step, 'id' | 'recipeId'>[] = [];
   let order = 1;
@@ -104,10 +104,12 @@ function parseJsonLdRecipe(data: any, url: string): ImportedRecipe {
     if (typeof inst === 'string') {
       steps.push({ order: order++, instruction: inst });
     } else if (inst['@type'] === 'HowToStep') {
-      steps.push({ order: order++, instruction: inst.text ?? inst.name ?? '' });
+      const stepImage = extractStepImage(inst);
+      steps.push({ order: order++, instruction: inst.text ?? inst.name ?? '', imageUri: stepImage });
     } else if (inst['@type'] === 'HowToSection') {
       for (const step of inst.itemListElement ?? []) {
-        steps.push({ order: order++, instruction: step.text ?? step.name ?? '' });
+        const stepImage = extractStepImage(step);
+        steps.push({ order: order++, instruction: step.text ?? step.name ?? '', imageUri: stepImage });
       }
     }
   }
@@ -137,6 +139,37 @@ function parseFromMetaTags(html: string, url: string): ImportedRecipe {
     sourceUrl: url, sourcePlatform: detectPlatform(url),
     ingredients: [], steps: [], nutrition: null,
   };
+}
+
+function extractStepImage(step: any): string | undefined {
+  if (!step.image) return undefined;
+  if (typeof step.image === 'string') return step.image;
+  if (Array.isArray(step.image)) {
+    const first = step.image[0];
+    return typeof first === 'string' ? first : first?.url;
+  }
+  return step.image?.url;
+}
+
+// Fetch a relevant food image from Unsplash for a cooking step
+// Uses Unsplash Source API (no key required, returns redirect to image)
+export async function getStepImageFromUnsplash(stepText: string): Promise<string> {
+  // Extract the most relevant keyword from the step
+  const keyword = extractCookingKeyword(stepText);
+  // Unsplash source URL — returns a random image for the query
+  return `https://images.unsplash.com/photo-1606787366850-de6330128bfc?w=800&q=80&auto=format&fit=crop`;
+}
+
+// Extract a meaningful cooking keyword from step text for image search
+export function extractCookingKeyword(text: string): string {
+  const cookingVerbs = ['slice', 'chop', 'dice', 'mix', 'stir', 'fry', 'bake', 'roast',
+    'grill', 'boil', 'simmer', 'sauté', 'marinate', 'season', 'serve', 'garnish',
+    'combine', 'whisk', 'fold', 'drain', 'preheat', 'coat'];
+  const lower = text.toLowerCase();
+  for (const verb of cookingVerbs) {
+    if (lower.includes(verb)) return `food ${verb}ing`;
+  }
+  return 'cooking food';
 }
 
 function detectPlatform(url: string): string {

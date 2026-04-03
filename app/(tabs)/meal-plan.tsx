@@ -66,10 +66,12 @@ export default function MealPlanTab() {
       recipeId: recipe.id,
     };
     await saveMealPlanEntry(entry);
+    // Auto-add this recipe's ingredients to the grocery list immediately
+    await addMealPlanToGroceries([entry]);
     setPickingFor(null);
   };
 
-  // Save a trending recipe then add to meal plan
+  // Save a trending recipe then add to meal plan + groceries
   const handlePickTrending = async (item: TrendingRecipe) => {
     if (!pickingFor) return;
     const cookbookId = cookbooks[0]?.id ?? 'uncategorized';
@@ -86,6 +88,7 @@ export default function MealPlanTab() {
     }));
     const steps: Step[] = item.steps.map(s => ({
       id: `step_${recipeId}_${s.order}`, recipeId, order: s.order, instruction: s.instruction,
+      imageUri: s.imageUri,
     }));
     await saveRecipe(recipe, ingredients, steps);
     const entry: MealPlanEntry = {
@@ -95,6 +98,8 @@ export default function MealPlanTab() {
       recipeId: recipe.id,
     };
     await saveMealPlanEntry(entry);
+    // Auto-add this recipe's ingredients to the grocery list immediately
+    await addMealPlanToGroceries([entry]);
     setPickingFor(null);
   };
 
@@ -117,10 +122,10 @@ export default function MealPlanTab() {
         </TouchableOpacity>
       </View>
 
-      {/* Add to groceries */}
+      {/* Sync all this week's ingredients to grocery list */}
       {entriesThisWeek.length > 0 && (
         <TouchableOpacity style={styles.groceryBtn} onPress={handleAddToGroceries}>
-          <Text style={styles.groceryBtnText}>🛒 {t('add_to_groceries')}</Text>
+          <Text style={styles.groceryBtnText}>🛒 Sync week to groceries</Text>
         </TouchableOpacity>
       )}
 

@@ -66,12 +66,10 @@ export default function MealPlanTab() {
       recipeId: recipe.id,
     };
     await saveMealPlanEntry(entry);
-    // Auto-add this recipe's ingredients to the grocery list immediately
-    await addMealPlanToGroceries([entry]);
     setPickingFor(null);
   };
 
-  // Save a trending recipe then add to meal plan + groceries
+  // Save a trending recipe then add to meal plan
   const handlePickTrending = async (item: TrendingRecipe) => {
     if (!pickingFor) return;
     const cookbookId = cookbooks[0]?.id ?? 'uncategorized';
@@ -98,8 +96,6 @@ export default function MealPlanTab() {
       recipeId: recipe.id,
     };
     await saveMealPlanEntry(entry);
-    // Auto-add this recipe's ingredients to the grocery list immediately
-    await addMealPlanToGroceries([entry]);
     setPickingFor(null);
   };
 

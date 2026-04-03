@@ -141,7 +141,7 @@ export default function TrendingScreen() {
 
   const openPreview = (item: TrendingRecipe) => {
     setSavedRecipeId(null);
-    setSelectedCookbook(cookbooks.length > 0 ? { id: cookbooks[0].id, name: cookbooks[0].name } : null);
+    setSelectedCookbook(null);
     setPreviewItem(item);
   };
 
@@ -163,8 +163,8 @@ export default function TrendingScreen() {
     if (!previewItem || importing) return;
     setImporting(previewItem.id);
 
-    // Ensure we have a cookbook — create "Favorites" if none exist
-    let cookbookId = selectedCookbook?.id ?? defaultCookbook.id;
+    // Save to first existing cookbook, or create "Favorites" if none exist
+    let cookbookId = cookbooks[0]?.id ?? 'favorites';
     if (!cookbooks.find(c => c.id === cookbookId)) {
       const fav: Cookbook = {
         id: `cb_${Date.now()}`,
@@ -376,18 +376,6 @@ export default function TrendingScreen() {
 
             {/* Bottom save bar */}
             <View style={[styles.saveBar, { paddingBottom: insets.bottom + 12 }]}>
-              {cookbooks.length > 1 ? (
-                <TouchableOpacity style={styles.cbSelector} onPress={() => setShowPicker(true)}>
-                  <Text style={styles.cbSelectorEmoji}>{cookbooks.find(c => c.id === displayCookbook.id)?.emoji ?? '📖'}</Text>
-                  <Text style={styles.cbSelectorName} numberOfLines={1}>{displayCookbook.name}</Text>
-                  <Text style={styles.cbSelectorArrow}>›</Text>
-                </TouchableOpacity>
-              ) : (
-                <View style={styles.cbSelectorPlain}>
-                  <Text style={styles.cbSelectorEmoji}>❤️</Text>
-                  <Text style={styles.cbSelectorName}>Favorites</Text>
-                </View>
-              )}
               <TouchableOpacity
                 style={[styles.saveBtn, importing === previewItem.id && { opacity: 0.6 }]}
                 onPress={handleSave}
@@ -395,7 +383,7 @@ export default function TrendingScreen() {
               >
                 {importing === previewItem.id
                   ? <ActivityIndicator color="#fff" />
-                  : <Text style={styles.saveBtnText}>Save</Text>}
+                  : <Text style={styles.saveBtnText}>Save recipe</Text>}
               </TouchableOpacity>
             </View>
 

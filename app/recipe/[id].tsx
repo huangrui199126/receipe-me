@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import {
   View, Text, StyleSheet, ScrollView, TouchableOpacity,
-  Image, Dimensions, Linking,
+  Image, Dimensions, Linking, Share, Modal, FlatList, ActionSheetIOS, Platform, Alert,
 } from 'react-native';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -9,44 +9,133 @@ import { useTranslation } from 'react-i18next';
 import Svg, { Circle } from 'react-native-svg';
 import { Colors } from '../../constants/colors';
 import { useStore } from '../../store';
-import { Ingredient, Step } from '../../db/schema';
+import { Cookbook, Ingredient, MealPlanEntry, Step } from '../../db/schema';
 import * as Storage from '../../db/storage';
 import { scaleAmount, groupIngredientsBySections } from '../../lib/importRecipe';
 
 const { width } = Dimensions.get('window');
+
+const MEAL_TYPES = ['breakfast', 'lunch', 'dinner', 'snack'] as const;
+const MEAL_COLORS: Record<string, string> = {
+  breakfast: '#FEF08A', lunch: '#BFDBFE', dinner: '#DDD6FE', snack: '#BBF7D0',
+};
+const MEAL_TEXT: Record<string, string> = {
+  breakfast: '#92400E', lunch: '#1D4ED8', dinner: '#6D28D9', snack: '#15803D',
+};
+
+function getWeekDates(offset: number) {
+  const now = new Date();
+  const day = now.getDay();
+  const monday = new Date(now);
+  monday.setDate(now.getDate() - ((day + 6) % 7) + offset * 7);
+  monday.setHours(0, 0, 0, 0);
+  return Array.from({ length: 7 }, (_, i) => {
+    const d = new Date(monday);
+    d.setDate(monday.getDate() + i);
+    return d;
+  });
+}
+function fmt(d: Date) { return d.toISOString().split('T')[0]; }
+function isToday(d: Date) { return d.toDateString() === new Date().toDateString(); }
+function weekLabel(days: Date[]) {
+  const s = days[0], e = days[6];
+  const mo = (d: Date) => d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  return `${mo(s)} ${s.getFullYear()} - ${mo(e)} ${e.getFullYear()}`;
+}
 
 export default function RecipeDetail() {
   const { id } = useLocalSearchParams<{ id: string }>();
   const { t } = useTranslation();
   const router = useRouter();
   const insets = useSafeAreaInsets();
-  const { recipes, userProfile, addToGroceryList } = useStore();
+  const { recipes, cookbooks, userProfile, addToGroceryList, addCookbook, saveMealPlanEntry, mealPlanEntries } = useStore();
 
   const recipe = recipes.find(r => r.id === id);
   const [ingredients, setIngredients] = useState<Ingredient[]>([]);
   const [steps, setSteps] = useState<Step[]>([]);
   const [servings, setServings] = useState(recipe?.servings ?? 4);
 
+  // Cookbooks sheet
+  const [showCookbooks, setShowCookbooks] = useState(false);
+  const [selectedCookbookIds, setSelectedCookbookIds] = useState<Set<string>>(new Set());
+
+  // Meal plan sheet
+  const [showMealPlan, setShowMealPlan] = useState(false);
+  const [weekOffset, setWeekOffset] = useState(0);
+
+  // Groceries sheet
+  const [showGroceries, setShowGroceries] = useState(false);
+  const [groceryServings, setGroceryServings] = useState(recipe?.servings ?? 4);
+  const [checkedIngredients, setCheckedIngredients] = useState<Set<string>>(new Set());
+
   useEffect(() => {
     if (id) {
-      Storage.getIngredientsByRecipe(id).then(setIngredients);
+      Storage.getIngredientsByRecipe(id).then(ings => {
+        setIngredients(ings);
+        setCheckedIngredients(new Set(ings.map(i => i.id)));
+      });
       Storage.getStepsByRecipe(id).then(setSteps);
     }
   }, [id]);
 
+  useEffect(() => {
+    if (recipe) {
+      const ids = new Set(cookbooks.filter(c => c.id === recipe.cookbookId).map(c => c.id));
+      setSelectedCookbookIds(ids);
+    }
+  }, [recipe, cookbooks]);
+
   if (!recipe) return null;
 
   const ratio = servings / (recipe.servings || 1);
+  const groceryRatio = groceryServings / (recipe.servings || 1);
   const grouped = groupIngredientsBySections(ingredients);
   const isPlusUser = userProfile?.isPlusMember ?? false;
 
+  const cal = recipe.nutrition ? Math.round(recipe.nutrition.calories * ratio) : null;
+  const protein = recipe.nutrition ? Math.round(recipe.nutrition.protein * ratio) : null;
+  const carbs = recipe.nutrition ? Math.round(recipe.nutrition.carbs * ratio) : null;
+  const fat = recipe.nutrition ? Math.round(recipe.nutrition.fat * ratio) : null;
+
+  // ── Share ────────────────────────────────────────────────────────────────
+  const handleShare = () => {
+    if (Platform.OS === 'ios') {
+      ActionSheetIOS.showActionSheetWithOptions(
+        { options: ['Share recipe link', 'Export PDF 👑', 'Print 👑', 'Cancel'], cancelButtonIndex: 3 },
+        (idx) => {
+          if (idx === 0) {
+            Share.share({ title: recipe.title, message: `Check out this recipe: ${recipe.title}\n\nhttps://recime.app` });
+          }
+          // PDF/Print: premium feature placeholder
+        }
+      );
+    } else {
+      Share.share({ title: recipe.title, message: `${recipe.title}\n\nhttps://recime.app` });
+    }
+  };
+
+  // ── Meal plan ────────────────────────────────────────────────────────────
+  const days = getWeekDates(weekOffset);
+  const handleAddToMealPlan = async (date: string, mealType: string) => {
+    const entry: MealPlanEntry = {
+      id: `mp_${Date.now()}`,
+      date,
+      mealType: mealType as any,
+      recipeId: recipe.id,
+    };
+    await saveMealPlanEntry(entry);
+    setShowMealPlan(false);
+  };
+
+  // ── Groceries ────────────────────────────────────────────────────────────
   const handleAddToGroceries = async () => {
-    const items = ingredients.map((ing, i) => ({
+    const selected = ingredients.filter(i => checkedIngredients.has(i.id));
+    const items = selected.map((ing, i) => ({
       id: `gi_${Date.now()}_${i}`,
       listId: '',
       recipeId: recipe.id,
       name: ing.name,
-      amount: scaleAmount(ing.amount, ratio),
+      amount: scaleAmount(ing.amount, groceryRatio),
       unit: ing.unit,
       category: categorize(ing.name),
       emoji: ing.emoji,
@@ -54,48 +143,82 @@ export default function RecipeDetail() {
       order: i,
     }));
     await addToGroceryList(items, recipe.id);
+    setShowGroceries(false);
     router.push('/(tabs)/groceries');
   };
 
-  const cal = recipe.nutrition ? Math.round(recipe.nutrition.calories * ratio) : null;
-  const protein = recipe.nutrition ? Math.round(recipe.nutrition.protein * ratio) : null;
-  const carbs = recipe.nutrition ? Math.round(recipe.nutrition.carbs * ratio) : null;
-  const fat = recipe.nutrition ? Math.round(recipe.nutrition.fat * ratio) : null;
+  // ── Cookbooks assignment ─────────────────────────────────────────────────
+  const toggleCookbook = (id: string) => {
+    setSelectedCookbookIds(prev => {
+      const next = new Set(prev);
+      if (next.has(id)) next.delete(id); else next.add(id);
+      return next;
+    });
+  };
 
   return (
-    <View style={{ flex: 1, backgroundColor: Colors.background }}>
-      <ScrollView showsVerticalScrollIndicator={false}>
+    <View style={{ flex: 1, backgroundColor: '#fff' }}>
+      <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={{ paddingBottom: 60 }}>
         {/* Hero image */}
         <View style={styles.heroWrap}>
           {recipe.imageUri ? (
             <Image source={{ uri: recipe.imageUri }} style={styles.hero} resizeMode="cover" />
           ) : (
-            <View style={[styles.hero, styles.heroPlaceholder]}>
-              <Text style={{ fontSize: 64 }}>🍽</Text>
-            </View>
+            <View style={[styles.hero, styles.heroPlaceholder]}><Text style={{ fontSize: 64 }}>🍽</Text></View>
           )}
           <TouchableOpacity onPress={() => router.back()} style={[styles.backBtn, { top: insets.top + 8 }]}>
-            <Text style={styles.backArrow}>‹</Text>
+            <Text style={styles.backArrow}>‹ Back</Text>
+          </TouchableOpacity>
+          <View style={[styles.topRight, { top: insets.top + 8 }]}>
+            <TouchableOpacity style={styles.topRightBtn}>
+              <Text style={styles.topRightText}>Edit</Text>
+            </TouchableOpacity>
+            <TouchableOpacity style={styles.topRightBtn} onPress={handleShare}>
+              <Text style={styles.topRightText}>•••</Text>
+            </TouchableOpacity>
+          </View>
+          <TouchableOpacity style={styles.cameraBtn}>
+            <Text style={styles.cameraBtnText}>📷</Text>
           </TouchableOpacity>
         </View>
 
         <View style={styles.body}>
-          {/* Source banner */}
-          {recipe.sourceUrl && (
-            <TouchableOpacity onPress={() => Linking.openURL(recipe.sourceUrl!)} style={styles.sourceBanner}>
-              <Text style={styles.sourceBannerText}>{t('view_on')} {recipe.sourcePlatform} ↗</Text>
-            </TouchableOpacity>
-          )}
+          {/* Title */}
+          <Text style={styles.title}>{recipe.title}</Text>
 
-          {/* Title + Edit */}
-          <View style={styles.titleRow}>
-            <Text style={styles.title}>{recipe.title}</Text>
-            <TouchableOpacity style={styles.editBtn}>
-              <Text style={styles.editBtnText}>✏ {t('edit_recipe')}</Text>
-            </TouchableOpacity>
+          {/* 4 Action buttons */}
+          <View style={styles.actionRow}>
+            <ActionBtn icon="🔖" label="Cookbooks" onPress={() => setShowCookbooks(true)} />
+            <ActionBtn icon="📅" label="Meal Plan" onPress={() => setShowMealPlan(true)} />
+            <ActionBtn icon="🛒" label="Groceries" onPress={() => { setGroceryServings(servings); setShowGroceries(true); }} />
+            <ActionBtn icon="↑" label="Share" onPress={handleShare} />
           </View>
 
-          {/* Servings + Convert */}
+          <View style={styles.divider} />
+
+          {/* Recipe Notes */}
+          <Text style={styles.sectionLabel}>RECIPE NOTES</Text>
+          {recipe.sourceUrl && (
+            <TouchableOpacity onPress={() => Linking.openURL(recipe.sourceUrl!)} style={styles.sourceLink}>
+              <Text style={styles.sourceLinkText}>Open {recipe.sourcePlatform} ↗</Text>
+            </TouchableOpacity>
+          )}
+          <View style={styles.divider} />
+          <View style={styles.cookedRow}>
+            <Text style={styles.cookedLabel}>Mark as Cooked</Text>
+            <Text style={styles.cookedCheck}>✓</Text>
+            <View style={styles.stars}>
+              {[1,2,3,4,5].map(n => <Text key={n} style={styles.star}>☆</Text>)}
+            </View>
+          </View>
+          <TouchableOpacity style={styles.noteInput}>
+            <Text style={styles.notePlaceholder}>Add note</Text>
+          </TouchableOpacity>
+
+          <View style={styles.divider} />
+
+          {/* Ingredients */}
+          <Text style={styles.sectionLabel}>{t('ingredients').toUpperCase()}</Text>
           <View style={styles.servingsRow}>
             <TouchableOpacity onPress={() => setServings(s => Math.max(1, s - 1))} style={styles.servBtn}>
               <Text style={styles.servBtnText}>−</Text>
@@ -110,8 +233,6 @@ export default function RecipeDetail() {
             </TouchableOpacity>
           </View>
 
-          {/* Ingredients */}
-          <Text style={styles.sectionLabel}>{t('ingredients')}</Text>
           {Object.entries(grouped).map(([section, ings]) => (
             <View key={section}>
               {section !== '' && <Text style={styles.ingredientSection}>{section}</Text>}
@@ -126,24 +247,19 @@ export default function RecipeDetail() {
               ))}
             </View>
           ))}
-          {ingredients.length === 0 && (
-            <Text style={styles.emptySection}>No ingredients added</Text>
-          )}
+          {ingredients.length === 0 && <Text style={styles.empty}>No ingredients added</Text>}
 
-          {/* Add to grocery */}
-          {ingredients.length > 0 && (
-            <TouchableOpacity style={styles.groceryBtn} onPress={handleAddToGroceries}>
-              <Text style={styles.groceryBtnText}>🛒 Add to Grocery List</Text>
-            </TouchableOpacity>
-          )}
+          <View style={styles.divider} />
 
-          {/* Instructions */}
+          {/* Steps */}
           {steps.length > 0 && (
             <>
-              <Text style={styles.sectionLabel}>{t('instructions')}</Text>
+              <Text style={styles.sectionLabel}>{t('instructions').toUpperCase()}</Text>
               {steps.map(step => (
                 <View key={step.id} style={styles.stepRow}>
-                  <Text style={styles.stepNum}>{step.order}</Text>
+                  <View style={styles.stepNumCircle}>
+                    <Text style={styles.stepNumText}>{step.order}</Text>
+                  </View>
                   <Text style={styles.stepText}>{step.instruction}</Text>
                 </View>
               ))}
@@ -151,40 +267,198 @@ export default function RecipeDetail() {
           )}
 
           {/* Nutrition */}
-          <Text style={styles.sectionLabel}>{t('nutrition')}</Text>
+          <Text style={styles.sectionLabel}>{t('nutrition').toUpperCase()}</Text>
           <Text style={styles.nutritionPer}>{t('per_serving')}</Text>
           {!isPlusUser ? (
             <View style={styles.nutritionLocked}>
-              <Text style={styles.nutritionLockedIcon}>👑</Text>
-              <Text style={styles.nutritionLockedText}>
-                {t('nutrition_plus').replace('Subscribe', '')}
-                <Text style={styles.subscribeLink}>{t('subscribe')}</Text>
-                {' to unlock ReciMe\'s nutrition calculator!'}
-              </Text>
               <NutritionWidget cal={250} protein={20} carbs={30} fat={10} blurred />
+              <View style={styles.nutritionOverlay}>
+                <Text style={styles.nutritionLockedText}>👑 Subscribe to unlock nutrition</Text>
+              </View>
             </View>
           ) : cal !== null ? (
             <NutritionWidget cal={cal} protein={protein!} carbs={carbs!} fat={fat!} />
           ) : (
-            <Text style={styles.emptySection}>Nutrition info not available</Text>
+            <Text style={styles.empty}>Nutrition info not available</Text>
           )}
 
           {/* Start cooking */}
           {steps.length > 0 && (
-            <TouchableOpacity
-              style={styles.startCookingBtn}
-              onPress={() => router.push(`/recipe/${id}/cook`)}
-            >
-              <Text style={styles.startCookingText}>👨‍🍳 {t('start_cooking')}</Text>
+            <TouchableOpacity style={styles.startBtn} onPress={() => router.push(`/recipe/${id}/cook`)}>
+              <Text style={styles.startBtnText}>👨‍🍳 {t('start_cooking')}</Text>
             </TouchableOpacity>
           )}
-
-          <TouchableOpacity style={styles.reportLink}>
-            <Text style={styles.reportLinkText}>{t('report_mistake')}</Text>
-          </TouchableOpacity>
         </View>
       </ScrollView>
+
+      {/* ── Cookbooks sheet ── */}
+      <Modal visible={showCookbooks} transparent animationType="slide" onRequestClose={() => setShowCookbooks(false)}>
+        <TouchableOpacity style={styles.backdrop} activeOpacity={1} onPress={() => setShowCookbooks(false)} />
+        <View style={[styles.sheet, { paddingBottom: insets.bottom + 16 }]}>
+          <View style={styles.sheetHeader}>
+            <Text style={styles.sheetTitle}>Save to</Text>
+            <TouchableOpacity onPress={() => setShowCookbooks(false)}><Text style={styles.sheetClose}>✕</Text></TouchableOpacity>
+          </View>
+          <ScrollView>
+            <TouchableOpacity style={styles.newCbRow}>
+              <View style={styles.newCbIcon}><Text style={styles.newCbPlus}>+</Text></View>
+              <Text style={styles.newCbLabel}>New cookbook</Text>
+              <Text style={styles.cbArrow}>›</Text>
+            </TouchableOpacity>
+            {cookbooks.map(cb => (
+              <TouchableOpacity key={cb.id} style={styles.cbPickRow} onPress={() => toggleCookbook(cb.id)}>
+                <View style={styles.cbThumb}>
+                  {cb.coverImages?.[0]
+                    ? <Image source={{ uri: cb.coverImages[0] }} style={StyleSheet.absoluteFill} resizeMode="cover" />
+                    : <Text style={{ fontSize: 20 }}>{cb.emoji ?? '📖'}</Text>}
+                </View>
+                <View style={{ flex: 1 }}>
+                  <Text style={styles.cbPickName}>{cb.name}</Text>
+                  <Text style={styles.cbPickCount}>{cb.coverImages?.length ?? 0} Recipes</Text>
+                </View>
+                <View style={[styles.checkbox, selectedCookbookIds.has(cb.id) && styles.checkboxChecked]}>
+                  {selectedCookbookIds.has(cb.id) && <Text style={styles.checkmark}>✓</Text>}
+                </View>
+              </TouchableOpacity>
+            ))}
+          </ScrollView>
+          <TouchableOpacity
+            style={[styles.updateBtn, selectedCookbookIds.size === 0 && styles.updateBtnDisabled]}
+            onPress={() => setShowCookbooks(false)}
+          >
+            <Text style={[styles.updateBtnText, selectedCookbookIds.size === 0 && { color: Colors.muted }]}>Update</Text>
+          </TouchableOpacity>
+        </View>
+      </Modal>
+
+      {/* ── Meal Plan sheet ── */}
+      <Modal visible={showMealPlan} transparent animationType="slide" onRequestClose={() => setShowMealPlan(false)}>
+        <TouchableOpacity style={styles.backdrop} activeOpacity={1} onPress={() => setShowMealPlan(false)} />
+        <View style={[styles.sheet, { paddingBottom: insets.bottom + 16 }]}>
+          <View style={styles.sheetHeader}>
+            <TouchableOpacity onPress={() => setShowMealPlan(false)}><Text style={styles.sheetClose}>✕</Text></TouchableOpacity>
+            <Text style={styles.sheetTitle}>Add to meal plan</Text>
+            <TouchableOpacity onPress={() => setShowMealPlan(false)}><Text style={styles.sheetDone}>Done</Text></TouchableOpacity>
+          </View>
+          {/* Week navigation */}
+          <View style={styles.weekNav}>
+            <TouchableOpacity onPress={() => setWeekOffset(o => o - 1)}><Text style={styles.weekArrow}>‹</Text></TouchableOpacity>
+            <Text style={styles.weekLabel}>{weekLabel(days)}</Text>
+            <TouchableOpacity onPress={() => setWeekOffset(o => o + 1)}><Text style={styles.weekArrow}>›</Text></TouchableOpacity>
+          </View>
+          <ScrollView>
+            {days.map(day => {
+              const dateStr = fmt(day);
+              const today = isToday(day);
+              const dayName = day.toLocaleDateString('en-US', { weekday: 'long' });
+              const dayEntries = mealPlanEntries.filter(e => e.date === dateStr);
+              return (
+                <View key={dateStr} style={styles.mealDaySection}>
+                  <View style={styles.mealDayHeader}>
+                    <Text style={[styles.mealDayLabel, today && styles.mealDayLabelToday]}>
+                      {today ? 'Today • ' : ''}{dayName} {day.getDate()}
+                    </Text>
+                    <TouchableOpacity style={styles.mealDayAdd} onPress={() => {
+                      // Show meal type picker
+                      if (Platform.OS === 'ios') {
+                        ActionSheetIOS.showActionSheetWithOptions(
+                          { options: ['Breakfast', 'Lunch', 'Dinner', 'Snack', 'Cancel'], cancelButtonIndex: 4 },
+                          (idx) => { if (idx < 4) handleAddToMealPlan(dateStr, MEAL_TYPES[idx]); }
+                        );
+                      }
+                    }}>
+                      <Text style={styles.mealDayAddText}>+</Text>
+                    </TouchableOpacity>
+                  </View>
+                  {dayEntries.map(entry => {
+                    const r = recipes.find(r => r.id === entry.recipeId);
+                    if (!r) return null;
+                    return (
+                      <View key={entry.id} style={styles.mealEntryRow}>
+                        {r.imageUri ? <Image source={{ uri: r.imageUri }} style={styles.mealEntryImg} /> : null}
+                        <View style={{ flex: 1 }}>
+                          <Text style={styles.mealEntryTitle} numberOfLines={1}>{r.title}</Text>
+                          <View style={[styles.mealTypeBadge, { backgroundColor: MEAL_COLORS[entry.mealType] ?? '#eee' }]}>
+                            <Text style={[styles.mealTypeBadgeText, { color: MEAL_TEXT[entry.mealType] ?? '#333' }]}>
+                              {entry.mealType.charAt(0).toUpperCase() + entry.mealType.slice(1)}
+                            </Text>
+                          </View>
+                        </View>
+                      </View>
+                    );
+                  })}
+                  {dayEntries.length === 0 && <Text style={styles.noRecipes}>No recipes yet</Text>}
+                </View>
+              );
+            })}
+          </ScrollView>
+        </View>
+      </Modal>
+
+      {/* ── Groceries sheet ── */}
+      <Modal visible={showGroceries} transparent animationType="slide" onRequestClose={() => setShowGroceries(false)}>
+        <TouchableOpacity style={styles.backdrop} activeOpacity={1} onPress={() => setShowGroceries(false)} />
+        <View style={[styles.sheet, { paddingBottom: insets.bottom + 16 }]}>
+          <View style={styles.sheetHeader}>
+            <TouchableOpacity onPress={() => setShowGroceries(false)}><Text style={styles.sheetClose}>✕</Text></TouchableOpacity>
+            <Text style={styles.sheetTitle}>Add to groceries</Text>
+            <View style={{ width: 40 }} />
+          </View>
+          {/* Servings adjuster */}
+          <View style={styles.grocServRow}>
+            <Text style={styles.grocServLabel}>Servings</Text>
+            <TouchableOpacity onPress={() => setGroceryServings(s => Math.max(1, s - 1))} style={styles.servBtn}>
+              <Text style={styles.servBtnText}>−</Text>
+            </TouchableOpacity>
+            <Text style={styles.servCount}>{groceryServings}</Text>
+            <TouchableOpacity onPress={() => setGroceryServings(s => s + 1)} style={styles.servBtn}>
+              <Text style={styles.servBtnText}>+</Text>
+            </TouchableOpacity>
+          </View>
+          {/* Ingredient checklist */}
+          <ScrollView style={{ maxHeight: 320 }}>
+            {ingredients.map(ing => (
+              <TouchableOpacity
+                key={ing.id}
+                style={styles.grocIngRow}
+                onPress={() => setCheckedIngredients(prev => {
+                  const next = new Set(prev);
+                  if (next.has(ing.id)) next.delete(ing.id); else next.add(ing.id);
+                  return next;
+                })}
+              >
+                <View style={[styles.checkbox, checkedIngredients.has(ing.id) && styles.checkboxChecked]}>
+                  {checkedIngredients.has(ing.id) && <Text style={styles.checkmark}>✓</Text>}
+                </View>
+                <Text style={styles.ingEmoji}>{ing.emoji}</Text>
+                <Text style={styles.grocIngText}>
+                  <Text style={styles.grocIngAmount}>{scaleAmount(ing.amount, groceryRatio)} {ing.unit} </Text>
+                  {ing.name}
+                </Text>
+              </TouchableOpacity>
+            ))}
+          </ScrollView>
+          <TouchableOpacity
+            style={[styles.addGrocBtn, checkedIngredients.size === 0 && { opacity: 0.4 }]}
+            onPress={handleAddToGroceries}
+            disabled={checkedIngredients.size === 0}
+          >
+            <Text style={styles.addGrocBtnText}>Add {checkedIngredients.size} items to grocery list</Text>
+          </TouchableOpacity>
+        </View>
+      </Modal>
     </View>
+  );
+}
+
+function ActionBtn({ icon, label, onPress }: { icon: string; label: string; onPress: () => void }) {
+  return (
+    <TouchableOpacity style={styles.actionBtn} onPress={onPress}>
+      <View style={styles.actionBtnCircle}>
+        <Text style={styles.actionBtnIcon}>{icon}</Text>
+      </View>
+      <Text style={styles.actionBtnLabel}>{label}</Text>
+    </TouchableOpacity>
   );
 }
 
@@ -193,31 +467,19 @@ function NutritionWidget({ cal, protein, carbs, fat, blurred }: { cal: number; p
   const total = protein + carbs + fat || 1;
   const proteinDeg = (protein / total) * 283;
   const carbsDeg = (carbs / total) * 283;
-  const SIZE = 100;
-  const R = 40;
+  const SIZE = 100, R = 40;
   const circumference = 2 * Math.PI * R;
-
   return (
-    <View style={[styles.nutritionCard, blurred && { opacity: 0.3 }]}>
+    <View style={[styles.nutritionCard, blurred && { opacity: 0.25 }]}>
       <View style={styles.nutritionLeft}>
         <Svg width={SIZE} height={SIZE} viewBox={`0 0 ${SIZE} ${SIZE}`}>
           <Circle cx={50} cy={50} r={R} stroke={Colors.border} strokeWidth={10} fill="none" />
-          <Circle
-            cx={50} cy={50} r={R}
-            stroke={Colors.purple}
-            strokeWidth={10} fill="none"
+          <Circle cx={50} cy={50} r={R} stroke={Colors.purple} strokeWidth={10} fill="none"
             strokeDasharray={`${proteinDeg} ${circumference - proteinDeg}`}
-            strokeDashoffset={circumference * 0.25}
-            strokeLinecap="round"
-          />
-          <Circle
-            cx={50} cy={50} r={R}
-            stroke="#F59E0B"
-            strokeWidth={10} fill="none"
+            strokeDashoffset={circumference * 0.25} strokeLinecap="round" />
+          <Circle cx={50} cy={50} r={R} stroke="#F59E0B" strokeWidth={10} fill="none"
             strokeDasharray={`${carbsDeg} ${circumference - carbsDeg}`}
-            strokeDashoffset={circumference * 0.25 - proteinDeg}
-            strokeLinecap="round"
-          />
+            strokeDashoffset={circumference * 0.25 - proteinDeg} strokeLinecap="round" />
         </Svg>
         <View style={styles.nutritionCalCenter}>
           <Text style={styles.nutritionCal}>{cal}</Text>
@@ -225,30 +487,28 @@ function NutritionWidget({ cal, protein, carbs, fat, blurred }: { cal: number; p
         </View>
       </View>
       <View style={styles.nutritionRight}>
-        <MacroRow color={Colors.purple} label={t('protein')} value={`${protein}g`} />
-        <MacroRow color="#F59E0B" label={t('carbs')} value={`${carbs}g`} />
-        <MacroRow color="#10B981" label={t('fat')} value={`${fat}g`} />
+        {[
+          { color: Colors.purple, label: t('protein'), value: `${protein}g` },
+          { color: '#F59E0B', label: t('carbs'), value: `${carbs}g` },
+          { color: '#10B981', label: t('fat'), value: `${fat}g` },
+        ].map(m => (
+          <View key={m.label} style={styles.macroRow}>
+            <View style={[styles.macroDot, { backgroundColor: m.color }]} />
+            <Text style={styles.macroLabel}>{m.label}:</Text>
+            <Text style={styles.macroValue}>{m.value}</Text>
+          </View>
+        ))}
       </View>
     </View>
   );
 }
 
-function MacroRow({ color, label, value }: { color: string; label: string; value: string }) {
-  return (
-    <View style={styles.macroRow}>
-      <View style={[styles.macroDot, { backgroundColor: color }]} />
-      <Text style={styles.macroLabel}>{label}:</Text>
-      <Text style={styles.macroValue}>{value}</Text>
-    </View>
-  );
-}
-
 function categorize(name: string): string {
-  const lower = name.toLowerCase();
-  if (['lettuce','tomato','onion','spinach','broccoli','carrot','garlic','avocado','lemon','lime','pepper','mushroom'].some(k => lower.includes(k))) return 'FRESH PRODUCE';
-  if (['chicken','beef','pork','bacon','salmon','shrimp','turkey','fish','pancetta'].some(k => lower.includes(k))) return 'MEAT & SEAFOOD';
-  if (['milk','cheese','butter','cream','yogurt','egg'].some(k => lower.includes(k))) return 'DAIRY';
-  if (['bread','flour','wrap','tortilla','bun'].some(k => lower.includes(k))) return 'BAKERY';
+  const l = name.toLowerCase();
+  if (['lettuce','tomato','onion','spinach','broccoli','carrot','garlic','avocado','lemon','lime','pepper','mushroom'].some(k => l.includes(k))) return 'FRESH PRODUCE';
+  if (['chicken','beef','pork','bacon','salmon','shrimp','turkey','fish'].some(k => l.includes(k))) return 'MEAT & SEAFOOD';
+  if (['milk','cheese','butter','cream','yogurt','egg'].some(k => l.includes(k))) return 'DAIRY';
+  if (['bread','flour','wrap','tortilla','bun'].some(k => l.includes(k))) return 'BAKERY';
   return 'PANTRY';
 }
 
@@ -256,41 +516,62 @@ const styles = StyleSheet.create({
   heroWrap: { position: 'relative' },
   hero: { width, height: 280 },
   heroPlaceholder: { backgroundColor: Colors.border, justifyContent: 'center', alignItems: 'center' },
-  backBtn: { position: 'absolute', left: 16, width: 36, height: 36, borderRadius: 18, backgroundColor: 'rgba(255,255,255,0.9)', justifyContent: 'center', alignItems: 'center' },
-  backArrow: { fontSize: 24, color: Colors.text, fontWeight: '300', lineHeight: 28 },
-  body: { padding: 20, paddingBottom: 60 },
-  sourceBanner: { backgroundColor: '#FFF9E6', borderRadius: 10, padding: 10, marginBottom: 12, borderWidth: 1, borderColor: '#FED7AA' },
-  sourceBannerText: { color: Colors.accent, fontSize: 14, fontWeight: '500' },
-  titleRow: { marginBottom: 16 },
-  title: { fontSize: 22, fontWeight: '700', color: Colors.text, marginBottom: 8 },
-  editBtn: { flexDirection: 'row', alignItems: 'center', alignSelf: 'flex-start', backgroundColor: Colors.background, borderRadius: 20, paddingHorizontal: 12, paddingVertical: 6, borderWidth: 1, borderColor: Colors.border },
-  editBtnText: { fontSize: 13, color: Colors.muted, fontWeight: '500' },
-  servingsRow: { flexDirection: 'row', alignItems: 'center', marginBottom: 24, gap: 8 },
-  servBtn: { width: 32, height: 32, borderRadius: 16, borderWidth: 1.5, borderColor: Colors.border, justifyContent: 'center', alignItems: 'center' },
-  servBtnText: { fontSize: 18, color: Colors.text, lineHeight: 22 },
+  backBtn: { position: 'absolute', left: 16, flexDirection: 'row', alignItems: 'center', backgroundColor: 'rgba(255,255,255,0.92)', borderRadius: 20, paddingHorizontal: 12, paddingVertical: 6 },
+  backArrow: { fontSize: 15, color: Colors.text, fontWeight: '600' },
+  topRight: { position: 'absolute', right: 16, flexDirection: 'row', gap: 8 },
+  topRightBtn: { backgroundColor: 'rgba(255,255,255,0.92)', borderRadius: 20, paddingHorizontal: 12, paddingVertical: 6 },
+  topRightText: { fontSize: 15, color: Colors.text, fontWeight: '600' },
+  cameraBtn: { position: 'absolute', bottom: 12, right: 12, width: 36, height: 36, borderRadius: 18, backgroundColor: 'rgba(255,255,255,0.92)', justifyContent: 'center', alignItems: 'center' },
+  cameraBtnText: { fontSize: 18 },
+
+  body: { paddingHorizontal: 20, paddingBottom: 40 },
+  title: { fontSize: 22, fontWeight: '700', color: Colors.text, marginTop: 16, marginBottom: 16, lineHeight: 30 },
+
+  actionRow: { flexDirection: 'row', justifyContent: 'space-around', marginBottom: 20 },
+  actionBtn: { alignItems: 'center', gap: 6 },
+  actionBtnCircle: { width: 52, height: 52, borderRadius: 26, borderWidth: 1.5, borderColor: Colors.border, justifyContent: 'center', alignItems: 'center' },
+  actionBtnIcon: { fontSize: 22 },
+  actionBtnLabel: { fontSize: 12, color: Colors.text, fontWeight: '500' },
+
+  divider: { height: 1, backgroundColor: Colors.border, marginVertical: 16 },
+  sectionLabel: { fontSize: 12, fontWeight: '700', color: Colors.accent, letterSpacing: 0.8, marginBottom: 12 },
+
+  sourceLink: { marginBottom: 12 },
+  sourceLinkText: { fontSize: 14, color: Colors.muted },
+  cookedRow: { flexDirection: 'row', alignItems: 'center', gap: 8, marginBottom: 12 },
+  cookedLabel: { fontSize: 15, fontWeight: '500', color: Colors.text, flex: 1 },
+  cookedCheck: { fontSize: 16, color: Colors.muted },
+  stars: { flexDirection: 'row', gap: 2 },
+  star: { fontSize: 18, color: Colors.muted },
+  noteInput: { backgroundColor: Colors.background, borderRadius: 10, padding: 14 },
+  notePlaceholder: { fontSize: 14, color: Colors.muted },
+
+  servingsRow: { flexDirection: 'row', alignItems: 'center', marginBottom: 20, gap: 8 },
+  servBtn: { width: 32, height: 32, borderRadius: 16, borderWidth: 1.5, borderColor: Colors.primary, justifyContent: 'center', alignItems: 'center' },
+  servBtnText: { fontSize: 18, color: Colors.primary, lineHeight: 22 },
   servCount: { fontSize: 18, fontWeight: '700', color: Colors.text, minWidth: 28, textAlign: 'center' },
   servLabel: { fontSize: 15, color: Colors.muted, flex: 1 },
-  convertBtn: { backgroundColor: Colors.purpleLight, borderRadius: 20, paddingHorizontal: 14, paddingVertical: 8 },
-  convertBtnText: { color: Colors.purple, fontSize: 14, fontWeight: '600' },
-  sectionLabel: { fontSize: 13, fontWeight: '700', color: Colors.accent, letterSpacing: 0.8, marginTop: 24, marginBottom: 12 },
+  convertBtn: { backgroundColor: Colors.purpleLight ?? '#F3F0FF', borderRadius: 20, paddingHorizontal: 14, paddingVertical: 8 },
+  convertBtnText: { color: Colors.purple ?? '#7C3AED', fontSize: 14, fontWeight: '600' },
+
   ingredientSection: { fontSize: 15, fontWeight: '700', color: Colors.text, marginVertical: 10 },
   ingredientRow: { flexDirection: 'row', alignItems: 'flex-start', marginBottom: 10 },
   ingredientEmoji: { fontSize: 20, width: 32 },
   ingredientText: { flex: 1, fontSize: 15, lineHeight: 22 },
   ingredientAmount: { fontWeight: '400', color: Colors.muted },
   ingredientName: { fontWeight: '600', color: Colors.text },
-  emptySection: { color: Colors.muted, fontSize: 14, marginBottom: 16 },
-  groceryBtn: { backgroundColor: Colors.background, borderRadius: 12, padding: 14, alignItems: 'center', borderWidth: 1.5, borderColor: Colors.border, marginVertical: 12 },
-  groceryBtnText: { fontSize: 15, fontWeight: '600', color: Colors.text },
-  stepRow: { flexDirection: 'row', marginBottom: 16, gap: 12 },
-  stepNum: { width: 24, height: 24, borderRadius: 12, backgroundColor: Colors.accent, color: '#fff', textAlign: 'center', lineHeight: 24, fontSize: 13, fontWeight: '700' },
+  empty: { color: Colors.muted, fontSize: 14, marginBottom: 16 },
+
+  stepRow: { flexDirection: 'row', marginBottom: 16, gap: 12, alignItems: 'flex-start' },
+  stepNumCircle: { width: 24, height: 24, borderRadius: 12, backgroundColor: Colors.accent, justifyContent: 'center', alignItems: 'center', flexShrink: 0, marginTop: 1 },
+  stepNumText: { color: '#fff', fontSize: 12, fontWeight: '700' },
   stepText: { flex: 1, fontSize: 15, color: Colors.text, lineHeight: 24 },
+
   nutritionPer: { fontSize: 13, color: Colors.muted, marginBottom: 12 },
-  nutritionLocked: { marginBottom: 16 },
-  nutritionLockedIcon: { fontSize: 20, marginBottom: 6 },
-  nutritionLockedText: { fontSize: 14, color: Colors.muted, lineHeight: 20, marginBottom: 12 },
-  subscribeLink: { color: Colors.accent, fontWeight: '600' },
-  nutritionCard: { backgroundColor: Colors.card, borderRadius: 16, padding: 16, flexDirection: 'row', alignItems: 'center', marginBottom: 16 },
+  nutritionLocked: { position: 'relative', marginBottom: 16 },
+  nutritionOverlay: { ...StyleSheet.absoluteFillObject, justifyContent: 'center', alignItems: 'center' },
+  nutritionLockedText: { fontSize: 14, fontWeight: '600', color: Colors.text, backgroundColor: 'rgba(255,255,255,0.9)', paddingHorizontal: 16, paddingVertical: 8, borderRadius: 20 },
+  nutritionCard: { backgroundColor: Colors.card ?? '#fff', borderRadius: 16, padding: 16, flexDirection: 'row', alignItems: 'center', marginBottom: 16, borderWidth: 1, borderColor: Colors.border },
   nutritionLeft: { width: 100, height: 100, position: 'relative', justifyContent: 'center', alignItems: 'center' },
   nutritionCalCenter: { position: 'absolute', alignItems: 'center' },
   nutritionCal: { fontSize: 22, fontWeight: '700', color: Colors.text },
@@ -300,8 +581,62 @@ const styles = StyleSheet.create({
   macroDot: { width: 10, height: 10, borderRadius: 5 },
   macroLabel: { fontSize: 14, color: Colors.muted, flex: 1 },
   macroValue: { fontSize: 14, fontWeight: '600', color: Colors.text },
-  startCookingBtn: { backgroundColor: Colors.primary, borderRadius: 14, padding: 16, alignItems: 'center', marginTop: 24, marginBottom: 12 },
-  startCookingText: { color: '#fff', fontSize: 17, fontWeight: '700' },
-  reportLink: { alignItems: 'center', marginTop: 8 },
-  reportLinkText: { color: Colors.muted, fontSize: 13, textDecorationLine: 'underline' },
+
+  startBtn: { backgroundColor: Colors.primary, borderRadius: 14, padding: 16, alignItems: 'center', marginTop: 24 },
+  startBtnText: { color: '#fff', fontSize: 17, fontWeight: '700' },
+
+  // Sheets
+  backdrop: { flex: 1, backgroundColor: 'rgba(0,0,0,0.4)' },
+  sheet: {
+    backgroundColor: '#fff', borderTopLeftRadius: 24, borderTopRightRadius: 24,
+    maxHeight: '85%',
+  },
+  sheetHeader: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingHorizontal: 20, paddingVertical: 16, borderBottomWidth: 1, borderBottomColor: Colors.border },
+  sheetTitle: { fontSize: 16, fontWeight: '700', color: Colors.text },
+  sheetClose: { fontSize: 18, color: Colors.muted, width: 40 },
+  sheetDone: { fontSize: 15, color: Colors.muted, textAlign: 'right', width: 40 },
+
+  // Cookbooks sheet
+  newCbRow: { flexDirection: 'row', alignItems: 'center', gap: 12, paddingHorizontal: 20, paddingVertical: 16, borderBottomWidth: StyleSheet.hairlineWidth, borderBottomColor: Colors.border },
+  newCbIcon: { width: 52, height: 52, borderRadius: 10, borderWidth: 2, borderColor: Colors.primary, justifyContent: 'center', alignItems: 'center' },
+  newCbPlus: { fontSize: 24, color: Colors.primary, fontWeight: '300' },
+  newCbLabel: { flex: 1, fontSize: 15, fontWeight: '600', color: Colors.text },
+  cbArrow: { fontSize: 20, color: Colors.muted },
+  cbPickRow: { flexDirection: 'row', alignItems: 'center', gap: 12, paddingHorizontal: 20, paddingVertical: 12, borderBottomWidth: StyleSheet.hairlineWidth, borderBottomColor: Colors.border },
+  cbThumb: { width: 52, height: 52, borderRadius: 10, backgroundColor: Colors.border, overflow: 'hidden', justifyContent: 'center', alignItems: 'center' },
+  cbPickName: { fontSize: 15, fontWeight: '600', color: Colors.text },
+  cbPickCount: { fontSize: 12, color: Colors.muted, marginTop: 2 },
+  checkbox: { width: 22, height: 22, borderRadius: 4, borderWidth: 1.5, borderColor: Colors.border, justifyContent: 'center', alignItems: 'center' },
+  checkboxChecked: { backgroundColor: Colors.primary, borderColor: Colors.primary },
+  checkmark: { color: '#fff', fontSize: 13, fontWeight: '700' },
+  updateBtn: { margin: 20, height: 50, borderRadius: 12, backgroundColor: Colors.background, borderWidth: 1, borderColor: Colors.border, justifyContent: 'center', alignItems: 'center' },
+  updateBtnDisabled: {},
+  updateBtnText: { fontSize: 16, fontWeight: '600', color: Colors.text },
+
+  // Meal plan sheet
+  weekNav: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingHorizontal: 20, paddingVertical: 12, borderBottomWidth: 1, borderBottomColor: Colors.border },
+  weekArrow: { fontSize: 24, color: Colors.text, fontWeight: '300', paddingHorizontal: 8 },
+  weekLabel: { fontSize: 13, fontWeight: '600', color: Colors.text },
+  mealDaySection: { paddingHorizontal: 20, paddingVertical: 12, borderBottomWidth: StyleSheet.hairlineWidth, borderBottomColor: Colors.border },
+  mealDayHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 8 },
+  mealDayLabel: { fontSize: 14, fontWeight: '600', color: Colors.muted },
+  mealDayLabelToday: { color: Colors.accent, fontWeight: '700' },
+  mealDayAdd: { width: 28, height: 28, borderRadius: 14, borderWidth: 1.5, borderColor: Colors.border, justifyContent: 'center', alignItems: 'center' },
+  mealDayAddText: { fontSize: 18, color: Colors.muted, lineHeight: 22 },
+  mealEntryRow: { flexDirection: 'row', alignItems: 'center', gap: 10, marginBottom: 8 },
+  mealEntryImg: { width: 44, height: 44, borderRadius: 8 },
+  mealEntryTitle: { fontSize: 14, fontWeight: '600', color: Colors.text, marginBottom: 4 },
+  mealTypeBadge: { alignSelf: 'flex-start', borderRadius: 8, paddingHorizontal: 10, paddingVertical: 3 },
+  mealTypeBadgeText: { fontSize: 12, fontWeight: '600' },
+  noRecipes: { fontSize: 13, color: Colors.muted },
+
+  // Groceries sheet
+  grocServRow: { flexDirection: 'row', alignItems: 'center', gap: 12, paddingHorizontal: 20, paddingVertical: 16, borderBottomWidth: 1, borderBottomColor: Colors.border },
+  grocServLabel: { flex: 1, fontSize: 15, fontWeight: '600', color: Colors.text },
+  grocIngRow: { flexDirection: 'row', alignItems: 'center', gap: 10, paddingHorizontal: 20, paddingVertical: 10, borderBottomWidth: StyleSheet.hairlineWidth, borderBottomColor: Colors.border },
+  ingEmoji: { fontSize: 18, width: 24 },
+  grocIngText: { flex: 1, fontSize: 14, color: Colors.text },
+  grocIngAmount: { fontWeight: '700' },
+  addGrocBtn: { margin: 20, height: 52, borderRadius: 12, backgroundColor: Colors.primary, justifyContent: 'center', alignItems: 'center' },
+  addGrocBtnText: { color: '#fff', fontSize: 16, fontWeight: '700' },
 });

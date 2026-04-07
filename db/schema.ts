@@ -57,6 +57,9 @@ export interface Recipe {
   nutrition: NutritionInfo | null;
   tags: string[]; // cuisine tags for recommendations
   createdAt: string;
+  rating?: number;   // 1-5 stars
+  note?: string;     // personal note
+  cookedAt?: string; // ISO date when last cooked
 }
 
 export interface GroceryItem {

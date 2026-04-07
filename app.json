@@ -31,7 +31,13 @@
     "plugins": [
       "expo-router",
       "expo-sqlite",
-      "expo-localization"
+      "expo-localization",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "ReciMe needs photo library access to set recipe cover photos and step images."
+        }
+      ]
     ],
     "scheme": "recipeme"
   }

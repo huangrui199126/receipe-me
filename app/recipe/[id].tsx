@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import {
   View, Text, StyleSheet, ScrollView, TouchableOpacity,
-  Image, Dimensions, Linking, Share, Modal, FlatList, ActionSheetIOS, Platform, Alert,
+  Image, Dimensions, Linking, Share, Modal, FlatList, ActionSheetIOS, Platform, Alert, TextInput, KeyboardAvoidingView,
 } from 'react-native';
+import * as ImagePicker from 'expo-image-picker';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { useTranslation } from 'react-i18next';
@@ -48,7 +49,7 @@ export default function RecipeDetail() {
   const { t } = useTranslation();
   const router = useRouter();
   const insets = useSafeAreaInsets();
-  const { recipes, cookbooks, userProfile, addToGroceryList, addCookbook, saveMealPlanEntry, mealPlanEntries } = useStore();
+  const { recipes, cookbooks, userProfile, addToGroceryList, addCookbook, saveMealPlanEntry, mealPlanEntries, updateRecipe } = useStore();
 
   const recipe = recipes.find(r => r.id === id);
   const [ingredients, setIngredients] = useState<Ingredient[]>([]);
@@ -68,6 +69,11 @@ export default function RecipeDetail() {
   const [groceryServings, setGroceryServings] = useState(recipe?.servings ?? 4);
   const [checkedIngredients, setCheckedIngredients] = useState<Set<string>>(new Set());
 
+  // Rate & review sheet
+  const [showReview, setShowReview] = useState(false);
+  const [draftRating, setDraftRating] = useState(recipe?.rating ?? 0);
+  const [draftNote, setDraftNote] = useState(recipe?.note ?? '');
+
   useEffect(() => {
     if (id) {
       Storage.getIngredientsByRecipe(id).then(ings => {
@@ -82,6 +88,7 @@ export default function RecipeDetail() {
     if (recipe) {
       const ids = new Set(cookbooks.filter(c => c.id === recipe.cookbookId).map(c => c.id));
       setSelectedCookbookIds(ids);
+      setDraftNote(recipe.note ?? '');
     }
   }, [recipe, cookbooks]);
 
@@ -97,20 +104,43 @@ export default function RecipeDetail() {
   const carbs = recipe.nutrition ? Math.round(recipe.nutrition.carbs * ratio) : null;
   const fat = recipe.nutrition ? Math.round(recipe.nutrition.fat * ratio) : null;
 
+  // ── Cover photo ──────────────────────────────────────────────────────────
+  const handlePickCoverPhoto = async () => {
+    const { status } = await ImagePicker.requestMediaLibraryPermissionsAsync();
+    if (status !== 'granted') {
+      Alert.alert('Permission needed', 'Allow photo library access to change the recipe image.');
+      return;
+    }
+    const result = await ImagePicker.launchImageLibraryAsync({
+      mediaTypes: ImagePicker.MediaTypeOptions.Images,
+      allowsEditing: true,
+      aspect: [3, 2],
+      quality: 0.8,
+    });
+    if (!result.canceled && result.assets[0]) {
+      updateRecipe(recipe.id, { imageUri: result.assets[0].uri });
+    }
+  };
+
   // ── Share ────────────────────────────────────────────────────────────────
+  // Trending recipes have a static GitHub Pages page with og: tags for rich preview
+  const isTrending = id?.startsWith('recipe_tr_');
+  const trendingId = isTrending ? id?.split('_')[2] : null; // e.g. 'recipe_tr_1_...' → 'tr_1'
+  const shareUrl = trendingId
+    ? `https://huangrui199126.github.io/receipe-me/recipe/${trendingId}/`
+    : `https://huangrui199126.github.io/receipe-me/`;
+
   const handleShare = () => {
+    const msg = `Check out this recipe: ${recipe.title}\n\n${shareUrl}`;
     if (Platform.OS === 'ios') {
       ActionSheetIOS.showActionSheetWithOptions(
         { options: ['Share recipe link', 'Export PDF 👑', 'Print 👑', 'Cancel'], cancelButtonIndex: 3 },
         (idx) => {
-          if (idx === 0) {
-            Share.share({ title: recipe.title, message: `Check out this recipe: ${recipe.title}\n\nhttps://recime.app` });
-          }
-          // PDF/Print: premium feature placeholder
+          if (idx === 0) Share.share({ title: recipe.title, message: msg, url: shareUrl });
         }
       );
     } else {
-      Share.share({ title: recipe.title, message: `${recipe.title}\n\nhttps://recime.app` });
+      Share.share({ title: recipe.title, message: msg });
     }
   };
 
@@ -170,14 +200,14 @@ export default function RecipeDetail() {
             <Text style={styles.backArrow}>‹ Back</Text>
           </TouchableOpacity>
           <View style={[styles.topRight, { top: insets.top + 8 }]}>
-            <TouchableOpacity style={styles.topRightBtn}>
+            <TouchableOpacity style={styles.topRightBtn} onPress={() => router.push(`/recipe/${id}/edit`)}>
               <Text style={styles.topRightText}>Edit</Text>
             </TouchableOpacity>
             <TouchableOpacity style={styles.topRightBtn} onPress={handleShare}>
               <Text style={styles.topRightText}>•••</Text>
             </TouchableOpacity>
           </View>
-          <TouchableOpacity style={styles.cameraBtn}>
+          <TouchableOpacity style={styles.cameraBtn} onPress={handlePickCoverPhoto}>
             <Text style={styles.cameraBtnText}>📷</Text>
           </TouchableOpacity>
         </View>
@@ -203,17 +233,54 @@ export default function RecipeDetail() {
               <Text style={styles.sourceLinkText}>Open {recipe.sourcePlatform} ↗</Text>
             </TouchableOpacity>
           )}
+
+          {/* Cookbooks tags */}
+          {(() => {
+            const recipeCookbooks = cookbooks.filter(c => c.id === recipe.cookbookId);
+            if (recipeCookbooks.length === 0) return null;
+            return (
+              <View style={styles.cbTagsSection}>
+                <Text style={styles.sectionLabel}>COOKBOOKS</Text>
+                <View style={styles.cbTags}>
+                  {recipeCookbooks.map(c => (
+                    <View key={c.id} style={styles.cbTag}>
+                      <Text style={styles.cbTagText}>{c.name}</Text>
+                    </View>
+                  ))}
+                </View>
+              </View>
+            );
+          })()}
+
           <View style={styles.divider} />
+          {/* Mark as Cooked + inline stars */}
           <View style={styles.cookedRow}>
+            <TouchableOpacity onPress={() => updateRecipe(recipe.id, { cookedAt: recipe.cookedAt ? undefined : new Date().toISOString() })} style={styles.cookedCheckBtn}>
+              <View style={[styles.cookedCheckCircle, recipe.cookedAt && styles.cookedCheckCircleActive]}>
+                <Text style={styles.cookedCheckMark}>✓</Text>
+              </View>
+            </TouchableOpacity>
             <Text style={styles.cookedLabel}>Mark as Cooked</Text>
-            <Text style={styles.cookedCheck}>✓</Text>
             <View style={styles.stars}>
-              {[1,2,3,4,5].map(n => <Text key={n} style={styles.star}>☆</Text>)}
+              {[1,2,3,4,5].map(n => (
+                <TouchableOpacity key={n} onPress={() => updateRecipe(recipe.id, { rating: n === recipe.rating ? 0 : n })}>
+                  <Text style={[styles.star, (recipe.rating ?? 0) >= n && styles.starFilled]}>
+                    {(recipe.rating ?? 0) >= n ? '★' : '☆'}
+                  </Text>
+                </TouchableOpacity>
+              ))}
             </View>
           </View>
-          <TouchableOpacity style={styles.noteInput}>
-            <Text style={styles.notePlaceholder}>Add note</Text>
-          </TouchableOpacity>
+          {/* Inline note input */}
+          <TextInput
+            style={styles.noteInput}
+            value={draftNote}
+            onChangeText={setDraftNote}
+            onBlur={() => { if (draftNote !== (recipe.note ?? '')) updateRecipe(recipe.id, { note: draftNote }); }}
+            placeholder="Add note"
+            placeholderTextColor={Colors.muted}
+            multiline
+          />
 
           <View style={styles.divider} />
 
@@ -290,6 +357,46 @@ export default function RecipeDetail() {
           )}
         </View>
       </ScrollView>
+
+      {/* ── Rate & Review sheet ── */}
+      <Modal visible={showReview} transparent animationType="slide" onRequestClose={() => setShowReview(false)}>
+        <KeyboardAvoidingView style={{ flex: 1 }} behavior={Platform.OS === 'ios' ? 'padding' : undefined}>
+          <TouchableOpacity style={styles.backdrop} activeOpacity={1} onPress={() => setShowReview(false)} />
+          <View style={[styles.sheet, { paddingBottom: insets.bottom + 24 }]}>
+            <View style={styles.sheetHeader}>
+              <View style={{ width: 60 }} />
+              <Text style={styles.sheetTitle}>Rate & review</Text>
+              <TouchableOpacity onPress={async () => {
+                await updateRecipe(recipe.id, { rating: draftRating || undefined, note: draftNote.trim() || undefined, cookedAt: new Date().toISOString() });
+                setShowReview(false);
+              }}>
+                <Text style={[styles.sheetDone, { color: Colors.primary, fontWeight: '700', width: 60, textAlign: 'right' }]}>Update</Text>
+              </TouchableOpacity>
+            </View>
+            <View style={styles.reviewStars}>
+              {[1,2,3,4,5].map(n => (
+                <TouchableOpacity key={n} onPress={() => setDraftRating(prev => prev === n ? 0 : n)}>
+                  <Text style={[styles.reviewStar, draftRating >= n && styles.reviewStarFilled]}>
+                    {draftRating >= n ? '★' : '☆'}
+                  </Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+            <TouchableOpacity onPress={() => setDraftRating(0)}>
+              <Text style={styles.clearRating}>Clear rating</Text>
+            </TouchableOpacity>
+            <TextInput
+              placeholder="Add a note (optional)"
+              placeholderTextColor={Colors.muted}
+              multiline
+              value={draftNote}
+              onChangeText={setDraftNote}
+              style={styles.reviewNoteInput}
+              textAlignVertical="top"
+            />
+          </View>
+        </KeyboardAvoidingView>
+      </Modal>
 
       {/* ── Cookbooks sheet ── */}
       <Modal visible={showCookbooks} transparent animationType="slide" onRequestClose={() => setShowCookbooks(false)}>
@@ -538,13 +645,32 @@ const styles = StyleSheet.create({
 
   sourceLink: { marginBottom: 12 },
   sourceLinkText: { fontSize: 14, color: Colors.muted },
-  cookedRow: { flexDirection: 'row', alignItems: 'center', gap: 8, marginBottom: 12 },
+  cbTagsSection: { marginBottom: 12 },
+  cbTags: { flexDirection: 'row', flexWrap: 'wrap', gap: 8, marginTop: 4 },
+  cbTag: { backgroundColor: '#4ADE80', borderRadius: 8, paddingHorizontal: 14, paddingVertical: 6 },
+  cbTagText: { color: '#fff', fontSize: 14, fontWeight: '700' },
+  cookedRow: { flexDirection: 'row', alignItems: 'center', gap: 10, marginBottom: 12 },
+  cookedCheckBtn: { padding: 2 },
+  cookedCheckCircle: { width: 26, height: 26, borderRadius: 13, borderWidth: 2, borderColor: Colors.muted, alignItems: 'center', justifyContent: 'center' },
+  cookedCheckCircleActive: { backgroundColor: '#10B981', borderColor: '#10B981' },
+  cookedCheckMark: { fontSize: 13, color: '#fff', fontWeight: '700' },
   cookedLabel: { fontSize: 15, fontWeight: '500', color: Colors.text, flex: 1 },
   cookedCheck: { fontSize: 16, color: Colors.muted },
-  stars: { flexDirection: 'row', gap: 2 },
-  star: { fontSize: 18, color: Colors.muted },
-  noteInput: { backgroundColor: Colors.background, borderRadius: 10, padding: 14 },
+  stars: { flexDirection: 'row', gap: 4 },
+  star: { fontSize: 22, color: '#D1D5DB' },
+  starFilled: { color: '#F59E0B' },
+  noteInput: {
+    backgroundColor: Colors.background, borderRadius: 10, padding: 14,
+    minHeight: 52, fontSize: 14, color: Colors.text, marginBottom: 4,
+    textAlignVertical: 'top',
+  },
+  noteText: { fontSize: 14, color: Colors.text },
   notePlaceholder: { fontSize: 14, color: Colors.muted },
+  reviewStars: { flexDirection: 'row', justifyContent: 'center', gap: 12, paddingVertical: 16 },
+  reviewStar: { fontSize: 44, color: Colors.border },
+  reviewStarFilled: { color: '#F59E0B' },
+  clearRating: { textAlign: 'center', fontSize: 14, color: Colors.muted, marginBottom: 20 },
+  reviewNoteInput: { marginHorizontal: 20, borderWidth: 1.5, borderColor: Colors.border, borderRadius: 12, padding: 16, fontSize: 15, color: Colors.text, minHeight: 160, maxHeight: 300 },
 
   servingsRow: { flexDirection: 'row', alignItems: 'center', marginBottom: 20, gap: 8 },
   servBtn: { width: 32, height: 32, borderRadius: 16, borderWidth: 1.5, borderColor: Colors.primary, justifyContent: 'center', alignItems: 'center' },

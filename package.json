@@ -12,7 +12,9 @@
   },
   "jest": {
     "preset": "jest-expo",
-    "setupFiles": ["<rootDir>/jest.setup.js"],
+    "setupFiles": [
+      "<rootDir>/jest.setup.js"
+    ],
     "setupFilesAfterFramework": [
       "@testing-library/jest-native/extend-expect"
     ],
@@ -33,6 +35,7 @@
     "expo-clipboard": "~8.0.8",
     "expo-haptics": "~15.0.8",
     "expo-image": "~3.0.11",
+    "expo-image-picker": "~17.0.10",
     "expo-linking": "~8.0.11",
     "expo-localization": "~17.0.8",
     "expo-router": "~6.0.23",

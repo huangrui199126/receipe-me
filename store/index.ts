@@ -29,6 +29,7 @@ interface AppState {
 
   loadRecipes: () => Promise<void>;
   saveRecipe: (recipe: Recipe, ingredients: Ingredient[], steps: Step[]) => Promise<void>;
+  updateRecipe: (id: string, patch: Partial<Recipe>) => Promise<void>;
   deleteRecipe: (id: string) => Promise<void>;
 
   loadGroceryList: () => Promise<void>;
@@ -105,6 +106,15 @@ export const useStore = create<AppState>((set, get) => ({
     await Storage.saveSteps(recipe.id, steps);
     const [recipes, cookbooks] = await Promise.all([Storage.getRecipes(), Storage.getCookbooks()]);
     set({ recipes, cookbooks });
+  },
+
+  updateRecipe: async (id, patch) => {
+    const recipe = get().recipes.find(r => r.id === id);
+    if (!recipe) return;
+    const updated = { ...recipe, ...patch };
+    await Storage.saveRecipe(updated);
+    const recipes = await Storage.getRecipes();
+    set({ recipes });
   },
 
   deleteRecipe: async (id) => {

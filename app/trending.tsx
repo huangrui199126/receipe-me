@@ -117,9 +117,14 @@ function SavedSheet({ onOpenRecipe, onDone }: { onOpenRecipe: () => void; onDone
 export default function TrendingScreen() {
   const router = useRouter();
   const insets = useSafeAreaInsets();
-  const { cookbooks, saveRecipe, addCookbook, userProfile } = useStore();
+  const { cookbooks, recipes: savedRecipes, saveRecipe, addCookbook, userProfile } = useStore();
   const [importing, setImporting] = useState<string | null>(null);
-  const [saved, setSaved] = useState<Set<string>>(new Set());
+  // Derive which trending IDs are already saved from the store (persists across navigations)
+  const saved = new Set(
+    savedRecipes
+      .map(r => r.id.match(/^recipe_(tr_\d+)_/)?.[1])
+      .filter((id): id is string => !!id)
+  );
   const [recipes, setRecipes] = useState<TrendingRecipe[]>([]);
   const [loading, setLoading] = useState(true);
   const [refreshing, setRefreshing] = useState(false);
@@ -196,7 +201,6 @@ export default function TrendingScreen() {
     }));
 
     await saveRecipe(recipe, ingredients, steps);
-    setSaved(prev => new Set([...prev, previewItem.id]));
     setSavedRecipeId(recipeId);
     setImporting(null);
   };
@@ -223,7 +227,11 @@ export default function TrendingScreen() {
     if (goals.includes('healthy')) { sA += a.healthScore; sB += b.healthScore; }
     if (goals.includes('high-protein')) { sA += a.nutrition.protein / 10; sB += b.nutrition.protein / 10; }
     if (goals.includes('low-calorie')) { sA += (600 - a.nutrition.calories) / 100; sB += (600 - b.nutrition.calories) / 100; }
-    return sB - sA;
+    if (sA !== sB) return sB - sA;
+    // Stable fallback: sort by numeric ID (tr_1 < tr_2 < ...)
+    const numA = parseInt(a.id.replace(/\D/g, '')) || 0;
+    const numB = parseInt(b.id.replace(/\D/g, '')) || 0;
+    return numA - numB;
   });
 
   const displayCookbook = selectedCookbook ?? (cookbooks[0] ? { id: cookbooks[0].id, name: cookbooks[0].name } : { id: '', name: 'Favorites' });

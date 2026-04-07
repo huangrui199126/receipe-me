@@ -127,5 +127,31 @@
       "emoji": "🫙"
     }
   ],
-  "steps": []
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix soy sauce, sesame oil, brown sugar, garlic and ginger. Brown ground beef in a pan, add sauce and cook until glazed.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_10/step_1.jpg"
+    },
+    {
+      "order": 2,
+      "instruction": "Quickly sauté carrots and spinach separately with a little sesame oil and salt.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_10/step_2.jpg"
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk gochujang sauce ingredients together.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_10/step_3.jpg"
+    },
+    {
+      "order": 4,
+      "instruction": "Fry eggs sunny-side up.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_10/step_4.jpg"
+    },
+    {
+      "order": 5,
+      "instruction": "Divide rice into bowls. Arrange beef, carrots, spinach and cucumber over rice. Top with a fried egg, drizzle gochujang sauce and sprinkle sesame seeds.",
+      "imageUri": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_10/step_5.jpg"
+    }
+  ]
 }

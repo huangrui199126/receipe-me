@@ -15,7 +15,7 @@ import { TRENDING_RECIPES, TrendingRecipe } from './trendingRecipes';
 
 const BASE_URL = 'https://huangrui199126.github.io/receipe-me/data';
 const INDEX_URL = `${BASE_URL}/index.json`;
-const CACHE_KEY = 'trending_recipes_cache_v2';
+const CACHE_KEY = 'trending_recipes_cache_v3'; // v3: all images self-hosted on GitHub Pages
 const CACHE_TTL_MS = 24 * 60 * 60 * 1000; // 24 hours
 
 interface IndexEntry {

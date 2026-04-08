@@ -33,17 +33,46 @@ export function getIngredientEmoji(name: string): string {
 }
 
 export async function importFromUrl(url: string): Promise<ImportedRecipe> {
-  // Fetch with a browser-like user agent to avoid blocks
-  const response = await fetch(url, {
-    headers: {
-      'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1',
-      'Accept': 'text/html,application/xhtml+xml',
-    },
-  });
+  const HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1',
+    'Accept': 'text/html,application/xhtml+xml',
+  };
 
-  if (!response.ok) {
-    throw new Error(`Failed to fetch: ${response.status}`);
+  // For Pinterest short URLs (pin.it) and full pins: find the linked recipe website
+  if (url.includes('pin.it') || url.includes('pinterest.com/pin/')) {
+    const res = await fetch(url, { headers: HEADERS });
+    const html = await res.text();
+    // Look for the external source URL in the pin page
+    const sourceMatch = html.match(/["']url["']\s*:\s*["'](https?:\/\/(?!www\.pinterest\.)[^"']+)["']/i)
+      ?? html.match(/href=["'](https?:\/\/(?!www\.pinterest\.)[^"']{20,})["'][^>]*>\s*(?:Visit|Source|Original)/i);
+    if (sourceMatch?.[1]) {
+      try { return await importFromUrl(sourceMatch[1]); } catch {}
+    }
+    // Fallback to OG tags + description parsing
+    return parseFromMetaTags(html, url);
   }
+
+  // For Instagram / TikTok: extract OG description and try to parse as recipe text
+  if (url.includes('instagram.com') || url.includes('tiktok.com')) {
+    const res = await fetch(url, { headers: HEADERS });
+    const html = await res.text();
+    const descMatch = html.match(/<meta[^>]+(?:property=["']og:description["']|name=["']description["'])[^>]+content=["']([^"']{50,})["']/i);
+    if (descMatch?.[1]) {
+      try {
+        const parsed = parseRecipeText(descMatch[1].replace(/\\n/g, '\n'));
+        if (parsed.ingredients.length > 2 || parsed.steps.length > 2) {
+          // Extract OG image too
+          const imgMatch = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
+          const titleMatch = html.match(/<meta[^>]+property=["']og:title["'][^>]+content=["']([^"']+)["']/i);
+          return { ...parsed, imageUri: imgMatch?.[1] ?? '', title: titleMatch?.[1] ?? parsed.title, sourceUrl: url, sourcePlatform: detectPlatform(url) };
+        }
+      } catch {}
+    }
+    throw new Error(`Instagram and TikTok don't share recipe data publicly.\n\nTip: Copy the caption text and use "Paste Text" instead — it works perfectly for recipe captions.`);
+  }
+
+  const response = await fetch(url, { headers: HEADERS });
+  if (!response.ok) throw new Error(`Could not load this URL (${response.status}). Try a direct recipe website link.`);
 
   const html = await response.text();
 
@@ -170,6 +199,71 @@ export function extractCookingKeyword(text: string): string {
     if (lower.includes(verb)) return `food ${verb}ing`;
   }
   return 'cooking food';
+}
+
+// ── Parse raw text into a structured recipe ──────────────────────────────────
+// Works with pasted Instagram captions, TikTok descriptions, typed recipes, OCR output
+export function parseRecipeText(text: string): ImportedRecipe {
+  const lines = text.split('\n').map(l => l.trim()).filter(l => l.length > 0);
+  if (lines.length === 0) throw new Error('No text to parse');
+
+  const UNITS = /\b(cups?|tbsp|tablespoons?|tsp|teaspoons?|oz|ounces?|lbs?|pounds?|g|grams?|kg|ml|liters?|litres?|pinch|dash|cloves?|handful|pieces?|slices?|cans?|bunches?|heads?|stalks?|sprigs?)\b/i;
+  const FRACTION = /^[\d¼½¾⅓⅔⅛⅜⅝⅞]+[\s\/\d\.]*\s/;
+  const STEP_NUM = /^(\d+[\.\)\-:\s]+|step\s*\d+[\.\):\s]*)/i;
+  const ACTION_VERB = /^(add|mix|stir|cook|bake|heat|pour|place|combine|season|cut|chop|slice|dice|mince|fold|whisk|preheat|bring|reduce|simmer|drain|rinse|pat|brush|spread|layer|serve|top|finish|garnish|remove|transfer|let|allow|rest|cool|fry|sauté|roast|grill|boil|melt|toast|toss|coat|cover|wrap|roll|fill|stuff|blend|process|pulse|strain|squeeze|press|knead|shape|form|divide|portion|brush|drizzle|sprinkle|season|taste|adjust)/i;
+
+  // Title = first line (skip if it's all-caps metadata like "INGREDIENTS")
+  let title = lines[0];
+  if (title === title.toUpperCase() && title.length < 30) title = lines[1] ?? 'Imported Recipe';
+
+  const ingredients: Omit<Ingredient, 'id' | 'recipeId'>[] = [];
+  const steps: Omit<Step, 'id' | 'recipeId'>[] = [];
+  let stepOrder = 1;
+  let inIngredientsSection = false;
+  let inStepsSection = false;
+
+  for (let i = 1; i < lines.length; i++) {
+    const line = lines[i];
+    const lower = line.toLowerCase();
+
+    // Section header detection
+    if (/^(ingredients?|what you('ll)? need):?$/i.test(line)) { inIngredientsSection = true; inStepsSection = false; continue; }
+    if (/^(instructions?|directions?|method|steps?|how to( make)?|preparation):?$/i.test(line)) { inStepsSection = true; inIngredientsSection = false; continue; }
+    if (/^(notes?|tips?|serving|nutrition):?$/i.test(line)) { inIngredientsSection = false; inStepsSection = false; continue; }
+
+    // ALL-CAPS short line = section sub-header (e.g. "FOR THE SAUCE")
+    if (line === line.toUpperCase() && line.length > 2 && line.length < 60 && !FRACTION.test(line)) continue;
+
+    const looksLikeIngredient = UNITS.test(line) || FRACTION.test(line);
+    const looksLikeStep = STEP_NUM.test(line) || ACTION_VERB.test(line) || line.length > 80;
+
+    if (inIngredientsSection || (!inStepsSection && looksLikeIngredient && !looksLikeStep)) {
+      // Parse as ingredient
+      const clean = line.replace(STEP_NUM, '').trim();
+      const m = clean.match(/^([\d¼½¾⅓⅔⅛⅜⅝⅞\s\/\.]+)?\s*([a-zA-Z]+)?\s+(.+)$/);
+      if (m && (UNITS.test(m[2] ?? '') || FRACTION.test(clean))) {
+        ingredients.push({ section: '', amount: m[1]?.trim() ?? '', unit: m[2]?.trim() ?? '', name: m[3]?.trim() ?? clean, emoji: getIngredientEmoji(m[3] ?? clean), order: ingredients.length });
+      } else {
+        ingredients.push({ section: '', amount: '', unit: '', name: clean, emoji: getIngredientEmoji(clean), order: ingredients.length });
+      }
+    } else if (inStepsSection || looksLikeStep) {
+      // Parse as step
+      const instruction = line.replace(STEP_NUM, '').trim();
+      if (instruction.length > 5) steps.push({ order: stepOrder++, instruction });
+    }
+    // Short lines that don't match anything — skip (likely metadata, hashtags, etc.)
+  }
+
+  // If we got nothing, treat every line after title as a step (user pasted unstructured text)
+  if (ingredients.length === 0 && steps.length === 0) {
+    lines.slice(1).forEach((l, i) => steps.push({ order: i + 1, instruction: l }));
+  }
+
+  return {
+    title, imageUri: '', servings: 4, prepTime: 0, cookTime: 0,
+    sourceUrl: '', sourcePlatform: 'Pasted',
+    ingredients, steps, nutrition: null,
+  };
 }
 
 function detectPlatform(url: string): string {

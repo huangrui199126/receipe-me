@@ -18,7 +18,8 @@ export default function EditRecipe() {
   const insets = useSafeAreaInsets();
   const { recipes, cookbooks, saveRecipe } = useStore();
 
-  const recipe = recipes.find(r => r.id === id);
+  const isNew = id === 'new';
+  const recipe = isNew ? null : recipes.find(r => r.id === id);
 
   // Recipe fields
   const [title, setTitle] = useState(recipe?.title ?? '');
@@ -49,7 +50,7 @@ export default function EditRecipe() {
     }
   }, [id]);
 
-  if (!recipe) return null;
+  if (!isNew && !recipe) return null;
 
   // ── Image picker ──────────────────────────────────────────────────────────
   const pickImage = async () => {
@@ -101,18 +102,23 @@ export default function EditRecipe() {
         fat: Number(fat) || 0,
       } : recipe.nutrition;
 
+      const newId = isNew ? `recipe_${Date.now()}` : (recipe?.id ?? `recipe_${Date.now()}`);
       const updated = {
-        ...recipe,
+        id: newId,
+        cookbookId: cookbookId || cookbooks[0]?.id || `cb_default`,
         title: title.trim(),
         imageUri,
-        cookbookId: cookbookId || recipe.cookbookId,
-        servings: Number(servings) || recipe.servings,
-        prepTime: Number(prepTime) || recipe.prepTime,
-        cookTime: Number(cookTime) || recipe.cookTime,
+        servings: Number(servings) || 4,
+        prepTime: Number(prepTime) || 0,
+        cookTime: Number(cookTime) || 0,
         sourceUrl: sourceUrl || null,
+        sourcePlatform: recipe?.sourcePlatform ?? null,
         nutrition,
+        tags: recipe?.tags ?? [],
+        createdAt: recipe?.createdAt ?? new Date().toISOString(),
       };
-      await saveRecipe(updated, ingredients, steps);
+      await saveRecipe(updated, ingredients.map(ing => ({ ...ing, recipeId: newId })), steps.map(s => ({ ...s, recipeId: newId })));
+      if (isNew) router.replace(`/recipe/${newId}`); else
       router.back();
     } catch (e) {
       Alert.alert('Save failed', String(e));

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Import from Instagram — ReciMe Help</title>
+  <style>
+    :root { --primary: #F97316; --bg: #F5F0E8; --card: #fff; --text: #1A1A1A; --muted: #6B7280; --border: #E5E0D8; --accent: #3B82F6; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); }
+    nav { background: #fff; border-bottom: 1px solid var(--border); padding: 0 24px; height: 64px; display: flex; align-items: center; gap: 12px; }
+    .logo { font-size: 20px; font-weight: 800; font-style: italic; color: var(--primary); text-decoration: none; }
+    .breadcrumb { font-size: 14px; color: var(--muted); } .breadcrumb a { color: var(--muted); text-decoration: none; } .breadcrumb a:hover { color: var(--primary); }
+    .container { max-width: 720px; margin: 40px auto; padding: 0 24px 80px; }
+    .article-card { background: #fff; border-radius: 20px; border: 1px solid var(--border); padding: 40px; }
+    .article-header { margin-bottom: 32px; }
+    .article-emoji { font-size: 48px; margin-bottom: 16px; }
+    .article-title { font-size: 28px; font-weight: 800; margin-bottom: 8px; }
+    .article-meta { font-size: 13px; color: var(--muted); }
+    h2 { font-size: 18px; font-weight: 700; margin: 28px 0 12px; color: var(--text); }
+    p { font-size: 15px; line-height: 1.7; color: #374151; margin-bottom: 16px; }
+    .steps { counter-reset: steps; list-style: none; }
+    .steps li { counter-increment: steps; display: flex; gap: 16px; margin-bottom: 20px; align-items: flex-start; }
+    .steps li::before { content: counter(steps); background: var(--primary); color: #fff; width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 13px; flex-shrink: 0; margin-top: 1px; }
+    .steps li span { font-size: 15px; line-height: 1.6; padding-top: 3px; }
+    .tip-box { background: #FEF3E8; border: 1px solid #FDDCB5; border-radius: 12px; padding: 16px 20px; margin: 24px 0; }
+    .tip-box strong { color: var(--primary); }
+    .note-box { background: #EFF6FF; border: 1px solid #BFDBFE; border-radius: 12px; padding: 16px 20px; margin: 24px 0; }
+    .note-box strong { color: var(--accent); }
+    .related { margin-top: 40px; }
+    .related-title { font-size: 12px; font-weight: 700; color: var(--accent); letter-spacing: 1px; margin-bottom: 12px; }
+    .related-list { background: #fff; border-radius: 14px; border: 1px solid var(--border); overflow: hidden; }
+    .related-item { display: flex; align-items: center; padding: 14px 18px; border-bottom: 1px solid var(--border); text-decoration: none; color: inherit; gap: 10px; }
+    .related-item:last-child { border-bottom: none; }
+    .related-item:hover { background: #FEF3E8; }
+    .related-item span { font-size: 15px; }
+    footer { text-align: center; padding: 32px; color: var(--muted); font-size: 13px; }
+    footer a { color: var(--primary); text-decoration: none; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/receipe-me/help/">ReciMe</a>
+    <span class="breadcrumb">/ <a href="/receipe-me/help/importing-recipes/">Importing Recipes</a> / Import from Instagram</span>
+  </nav>
+  <div class="container">
+    <div class="article-card">
+      <div class="article-header">
+        <div class="article-emoji">📷</div>
+        <h1 class="article-title">Import from Instagram</h1>
+        <div class="article-meta">Importing Recipes · 2 min read</div>
+      </div>
+      
+      <p>Save any recipe you find on Instagram — posts, Reels, and Stories — directly into your ReciMe cookbook in seconds.</p>
+      <h2>Option 1 — Share directly from Instagram (fastest)</h2>
+      <ol class="steps">
+        <li><span>Open the Instagram post or Reel that contains the recipe.</span></li>
+        <li><span>Tap the <strong>Share</strong> (paper plane) icon below the post.</span></li>
+        <li><span>Scroll down and tap <strong>More</strong> if ReciMe isn't visible.</span></li>
+        <li><span>Select <strong>ReciMe</strong> from the app list.</span></li>
+        <li><span>ReciMe opens automatically and begins importing the recipe.</span></li>
+      </ol>
+      <div class="tip-box"><strong>💡 Tip:</strong> Add ReciMe to your Share Shortcuts for one-tap access. Go to the share sheet → scroll right to the app icons → tap the <strong>…</strong> button → select Edit and pin ReciMe to the front.</div>
+      <h2>Option 2 — Paste the caption text</h2>
+      <p>If the recipe is written in the Instagram caption (most food creators do this):</p>
+      <ol class="steps">
+        <li><span>Tap <strong>…</strong> on the post → <strong>Copy Link</strong> or long-press the caption to copy it.</span></li>
+        <li><span>Open ReciMe and tap the <strong>+</strong> button.</span></li>
+        <li><span>Select <strong>Paste Text</strong>.</span></li>
+        <li><span>Paste the caption. ReciMe automatically detects ingredients and steps.</span></li>
+      </ol>
+      <div class="note-box"><strong>ℹ️ Note:</strong> Instagram doesn't publicly share structured recipe data, so results work best when the creator writes the full recipe in the caption.</div>
+    
+    </div>
+    <div class="related">
+      <div class="related-title">RELATED ARTICLES</div>
+      <div class="related-list">
+        
+      <a href="/receipe-me/help/importing-recipes/from-tiktok/" class="related-item"><span>🎵</span><span>Import from TikTok</span></a>
+      <a href="/receipe-me/help/importing-recipes/paste-text/" class="related-item"><span>📋</span><span>Import by pasting text</span></a>
+      <a href="/receipe-me/help/importing-recipes/from-website/" class="related-item"><span>🌐</span><span>Import from a recipe website</span></a>
+    
+      </div>
+    </div>
+  </div>
+  <footer>© 2025 ReciMe · <a href="mailto:support@recipe.me">Contact Support</a></footer>
+</body>
+</html>

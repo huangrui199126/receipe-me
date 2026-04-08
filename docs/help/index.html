@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ReciMe Help Center</title>
+  <meta name="description" content="Learn how to import recipes from Instagram, TikTok, Pinterest, and more with ReciMe." />
+  <style>
+    :root {
+      --primary: #F97316;
+      --primary-light: #FEF3E8;
+      --bg: #F5F0E8;
+      --card: #FFFFFF;
+      --text: #1A1A1A;
+      --muted: #6B7280;
+      --border: #E5E0D8;
+      --accent: #3B82F6;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); }
+
+    /* Nav */
+    nav { background: #fff; border-bottom: 1px solid var(--border); padding: 0 24px; height: 64px; display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0; z-index: 100; }
+    .logo { font-size: 22px; font-weight: 800; font-style: italic; color: var(--primary); text-decoration: none; }
+    .nav-link { font-size: 14px; color: var(--muted); text-decoration: none; }
+    .nav-link:hover { color: var(--primary); }
+
+    /* Hero */
+    .hero { background: linear-gradient(135deg, var(--primary) 0%, #EA580C 100%); padding: 64px 24px; text-align: center; color: #fff; }
+    .hero h1 { font-size: 36px; font-weight: 800; margin-bottom: 12px; }
+    .hero p { font-size: 18px; opacity: 0.9; margin-bottom: 32px; }
+    .search-bar { max-width: 480px; margin: 0 auto; background: #fff; border-radius: 14px; display: flex; align-items: center; padding: 4px 4px 4px 16px; gap: 8px; }
+    .search-bar input { flex: 1; border: none; outline: none; font-size: 16px; color: var(--text); background: transparent; padding: 10px 0; }
+    .search-bar button { background: var(--primary); color: #fff; border: none; border-radius: 10px; padding: 10px 20px; font-size: 14px; font-weight: 600; cursor: pointer; }
+
+    /* Container */
+    .container { max-width: 960px; margin: 0 auto; padding: 48px 24px; }
+
+    /* Collection grid */
+    .collections { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; margin-bottom: 48px; }
+    .collection-card { background: #fff; border-radius: 16px; padding: 28px; text-decoration: none; color: inherit; border: 1px solid var(--border); transition: transform 0.15s, box-shadow 0.15s; }
+    .collection-card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.08); }
+    .collection-icon { font-size: 36px; margin-bottom: 16px; }
+    .collection-title { font-size: 17px; font-weight: 700; margin-bottom: 6px; }
+    .collection-desc { font-size: 14px; color: var(--muted); line-height: 1.5; }
+    .collection-count { font-size: 13px; color: var(--primary); font-weight: 600; margin-top: 12px; }
+
+    /* Article list */
+    .section-title { font-size: 12px; font-weight: 700; color: var(--accent); letter-spacing: 1px; margin-bottom: 16px; }
+    .article-list { background: #fff; border-radius: 16px; border: 1px solid var(--border); overflow: hidden; margin-bottom: 32px; }
+    .article-item { display: flex; align-items: center; padding: 16px 20px; border-bottom: 1px solid var(--border); text-decoration: none; color: inherit; gap: 12px; transition: background 0.1s; }
+    .article-item:last-child { border-bottom: none; }
+    .article-item:hover { background: var(--primary-light); }
+    .article-item-icon { font-size: 22px; flex-shrink: 0; }
+    .article-item-text { flex: 1; }
+    .article-item-title { font-size: 15px; font-weight: 600; }
+    .article-item-desc { font-size: 13px; color: var(--muted); margin-top: 2px; }
+    .chevron { color: var(--muted); font-size: 18px; }
+
+    /* Footer */
+    footer { text-align: center; padding: 40px 24px; color: var(--muted); font-size: 14px; border-top: 1px solid var(--border); margin-top: 40px; background: #fff; }
+    footer a { color: var(--primary); text-decoration: none; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a class="logo" href="/receipe-me/help/">ReciMe</a>
+    <a class="nav-link" href="/receipe-me/">← Back to ReciMe</a>
+  </nav>
+
+  <div class="hero">
+    <h1>How can we help?</h1>
+    <p>Find answers, guides, and tips for ReciMe</p>
+    <div class="search-bar">
+      <input type="text" placeholder="Search help articles…" id="searchInput" oninput="filterArticles()" />
+      <button>Search</button>
+    </div>
+  </div>
+
+  <div class="container">
+    <!-- Collections -->
+    <p class="section-title">COLLECTIONS</p>
+    <div class="collections">
+      <a href="/receipe-me/help/getting-started/" class="collection-card">
+        <div class="collection-icon">🚀</div>
+        <div class="collection-title">Getting Started</div>
+        <div class="collection-desc">Set up your account, create your first cookbook, and start saving recipes.</div>
+        <div class="collection-count">4 articles</div>
+      </a>
+      <a href="/receipe-me/help/importing-recipes/" class="collection-card">
+        <div class="collection-icon">📥</div>
+        <div class="collection-title">Importing Recipes</div>
+        <div class="collection-desc">Import from Instagram, TikTok, Pinterest, recipe websites, camera, and more.</div>
+        <div class="collection-count">6 articles</div>
+      </a>
+      <a href="/receipe-me/help/cookbooks/" class="collection-card">
+        <div class="collection-icon">📚</div>
+        <div class="collection-title">Cookbooks &amp; Recipes</div>
+        <div class="collection-desc">Organize your recipes into cookbooks, rate them, and add personal notes.</div>
+        <div class="collection-count">4 articles</div>
+      </a>
+      <a href="/receipe-me/help/meal-plan/" class="collection-card">
+        <div class="collection-icon">📅</div>
+        <div class="collection-title">Meal Planning</div>
+        <div class="collection-desc">Plan your week, add meals to your calendar, and generate grocery lists automatically.</div>
+        <div class="collection-count">3 articles</div>
+      </a>
+      <a href="/receipe-me/help/groceries/" class="collection-card">
+        <div class="collection-icon">🛒</div>
+        <div class="collection-title">Grocery Lists</div>
+        <div class="collection-desc">Build smart grocery lists from your recipes and check off items as you shop.</div>
+        <div class="collection-count">3 articles</div>
+      </a>
+      <a href="/receipe-me/help/cooking-mode/" class="collection-card">
+        <div class="collection-icon">👨‍🍳</div>
+        <div class="collection-title">Cooking Mode</div>
+        <div class="collection-desc">Follow step-by-step instructions with your screen always on while you cook.</div>
+        <div class="collection-count">2 articles</div>
+      </a>
+    </div>
+
+    <!-- Popular articles -->
+    <p class="section-title">POPULAR ARTICLES</p>
+    <div class="article-list" id="articleList">
+      <a href="/receipe-me/help/importing-recipes/from-instagram/" class="article-item">
+        <span class="article-item-icon">📷</span>
+        <div class="article-item-text">
+          <div class="article-item-title">Import from Instagram</div>
+          <div class="article-item-desc">Save recipes from Instagram posts and Reels in one tap</div>
+        </div>
+        <span class="chevron">›</span>
+      </a>
+      <a href="/receipe-me/help/importing-recipes/from-tiktok/" class="article-item">
+        <span class="article-item-icon">🎵</span>
+        <div class="article-item-text">
+          <div class="article-item-title">Import from TikTok</div>
+          <div class="article-item-desc">Save recipes from TikTok videos and descriptions</div>
+        </div>
+        <span class="chevron">›</span>
+      </a>
+      <a href="/receipe-me/help/importing-recipes/from-pinterest/" class="article-item">
+        <span class="article-item-icon">📌</span>
+        <div class="article-item-text">
+          <div class="article-item-title">Import from Pinterest</div>
+          <div class="article-item-desc">Save recipes from Pinterest pins — automatically finds the source website</div>
+        </div>
+        <span class="chevron">›</span>
+      </a>
+      <a href="/receipe-me/help/importing-recipes/from-website/" class="article-item">
+        <span class="article-item-icon">🌐</span>
+        <div class="article-item-text">
+          <div class="article-item-title">Import from a recipe website</div>
+          <div class="article-item-desc">Paste any recipe URL — works with AllRecipes, Food Network, NYT Cooking, and more</div>
+        </div>
+        <span class="chevron">›</span>
+      </a>
+      <a href="/receipe-me/help/importing-recipes/paste-text/" class="article-item">
+        <span class="article-item-icon">📋</span>
+        <div class="article-item-text">
+          <div class="article-item-title">Import by pasting text</div>
+          <div class="article-item-desc">Copy recipe text from anywhere and let ReciMe structure it automatically</div>
+        </div>
+        <span class="chevron">›</span>
+      </a>
+      <a href="/receipe-me/help/importing-recipes/from-camera/" class="article-item">
+        <span class="article-item-icon">📸</span>
+        <div class="article-item-text">
+          <div class="article-item-title">Import from a photo</div>
+          <div class="article-item-desc">Photograph a recipe from a cookbook or handwritten card</div>
+        </div>
+        <span class="chevron">›</span>
+      </a>
+    </div>
+  </div>
+
+  <footer>
+    <p>© 2025 ReciMe · <a href="mailto:support@recipe.me">Contact Support</a> · <a href="/receipe-me/">Back to App</a></p>
+  </footer>
+
+  <script>
+    function filterArticles() {
+      const q = document.getElementById('searchInput').value.toLowerCase();
+      document.querySelectorAll('.article-item').forEach(item => {
+        const text = item.textContent.toLowerCase();
+        item.style.display = text.includes(q) ? '' : 'none';
+      });
+    }
+  </script>
+</body>
+</html>

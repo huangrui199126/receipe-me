@@ -1,5 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
+import { E } from '../constants/emoji';
 
 interface Props {
   size?: number;
@@ -8,7 +9,7 @@ interface Props {
 export default function ReciMeLogo({ size = 28 }: Props) {
   return (
     <View style={styles.row}>
-      <Text style={[styles.cloud, { fontSize: size }]}>🍽</Text>
+      <Text style={[styles.cloud, { fontSize: size }]}>{E.plate}</Text>
       <Text style={[styles.text, { fontSize: size }]}> ReciMe</Text>
     </View>
   );

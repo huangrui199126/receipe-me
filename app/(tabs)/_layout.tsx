@@ -3,13 +3,14 @@ import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 import { Colors } from '../../constants/colors';
 import { useTranslation } from 'react-i18next';
 import { useRouter } from 'expo-router';
+import { E } from '../../constants/emoji';
 
 function TabIcon({ name, focused }: { name: string; focused: boolean }) {
   const icons: Record<string, string> = {
-    cookbooks: '📚',
-    'meal-plan': '📅',
-    groceries: '🛒',
-    more: '☰',
+    cookbooks: E.books,
+    'meal-plan': E.calendar,
+    groceries: E.cart,
+    settings: E.gear,
   };
   return <Text style={{ fontSize: 22, opacity: focused ? 1 : 0.5 }}>{icons[name]}</Text>;
 }
@@ -51,7 +52,7 @@ export default function TabLayout() {
               <Text style={styles.fabPlus}>+</Text>
             </View>
           ),
-          tabBarButton: (props) => (
+          tabBarButton: () => (
             <TouchableOpacity
               style={styles.fabWrapper}
               onPress={() => router.push('/import')}
@@ -71,12 +72,14 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
-        name="more"
+        name="settings"
         options={{
-          title: t('tab_more'),
-          tabBarIcon: ({ focused }) => <TabIcon name="more" focused={focused} />,
+          title: t('tab_settings'),
+          tabBarIcon: ({ focused }) => <TabIcon name="settings" focused={focused} />,
         }}
       />
+      {/* Hide old more tab */}
+      <Tabs.Screen name="more" options={{ href: null }} />
     </Tabs>
   );
 }

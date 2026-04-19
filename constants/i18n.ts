@@ -1,6 +1,10 @@
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
 import * as Localization from 'expo-localization';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+
+const LANG_KEY = '@recime_language';
+const SUPPORTED = ['en', 'zh', 'es'];
 
 const resources = {
   en: {
@@ -16,7 +20,7 @@ const resources = {
       onboarding_goal_cuisine: 'Try new cuisines',
       onboarding_thats_great: "That's great!",
       onboarding_stat: '92% of users report that ReciMe has seamlessly helped them to eat healthier',
-      onboarding_help: "We're here to help you with your goals 🧡",
+      onboarding_help: "We're here to help you with your goals",
       onboarding_hear_title: 'How did you hear about us?',
       onboarding_source_friend: 'Through a friend',
       onboarding_source_facebook: 'Facebook',
@@ -41,31 +45,18 @@ const resources = {
       onboarding_chart_body: "You're on your way! Watch as your cooking habits evolve and your kitchen experience gets easier.",
       onboarding_organize_title: 'Organize Your Recipes',
       onboarding_ready: "I'm Ready",
-      onboarding_free_trial: 'We offer\n7 Days for free\nso everyone can cook\nwith ReciMe.',
-      onboarding_reminder: "You'll get a reminder 2 days before your trial ends.",
-      onboarding_allow_title: 'Tap Allow\nto get a reminder',
-      onboarding_allow_body: 'Turn off notifications anytime',
-      onboarding_paywall_title: 'Choose your trial experience',
-      onboarding_free_plan: 'FREE\n7 Day Trial',
-      onboarding_paid_plan: '$1.99\n30 Day Trial',
-      onboarding_remind_toggle: 'Remind me before my trial ends',
-      onboarding_view_plans: 'View All Plans',
-      onboarding_happy_cooks: 'Happy Cooks',
-      onboarding_star_rating: '4.8 STAR RATING',
-      onboarding_made_in_usa: 'Made in USA 🇺🇸',
-      onboarding_no_payment: '✓ No Payment Now',
-      onboarding_redeem: 'Redeem 7 days for $0.00',
-      onboarding_price_note: '7 days free, then $39.99/yr ($3.33/mo)\nCancel anytime.',
       // Tabs
       tab_cookbooks: 'Cookbooks',
       tab_meal_plan: 'Meal Plan',
       tab_groceries: 'Groceries',
-      tab_more: 'More',
+      tab_settings: 'Settings',
       // Cookbooks
       new_cookbook: 'New cookbook',
       cookbooks_title: 'Cookbooks',
-      import_faster: 'Import recipes faster 🚀',
+      import_faster: 'Import recipes faster',
       import_tutorial: '1 min tutorial',
+      collection: 'Collection',
+      trending_tab: 'Trending',
       // Recipe
       ingredients: 'INGREDIENTS',
       instructions: 'INSTRUCTIONS',
@@ -86,7 +77,7 @@ const resources = {
       protein: 'Protein',
       carbs: 'Carbs',
       fat: 'Fats',
-      nutrition_plus: 'This is a Plus feature. Subscribe to unlock ReciMe\'s nutrition calculator!',
+      nutrition_plus: "Subscribe to unlock ReciMe's nutrition calculator!",
       subscribe: 'Subscribe',
       // Meal Plan
       meal_plan_title: 'My Meal Plan',
@@ -96,18 +87,17 @@ const resources = {
       grocery_title: 'Grocery List',
       add_first: '+ Add your first ingredient',
       no_ingredients: 'No ingredients added',
-      order_online: '🛒 Order online',
+      order_online: 'Order Online',
       items: '{{count}} items',
-      // More
-      upgrade: 'Upgrade to ReciMe Plus',
+      // Settings
+      upgrade: 'Upgrade to Plus',
       trending: 'Trending recipes',
-      shortcut: 'Add the ReciMe shortcut',
-      import_guides: 'Read our import guides',
-      desktop: 'Use ReciMe on desktop',
-      invite: 'Invite friends',
-      help: 'Help',
+      help: 'Help Center',
       settings: 'Settings',
-      create_account: 'Create account',
+      language: 'Language',
+      lang_en: 'English',
+      lang_zh: 'Chinese',
+      lang_es: 'Spanish',
       // Import
       importing: 'Importing...',
       import_title: 'Import from social media',
@@ -133,7 +123,7 @@ const resources = {
       onboarding_goal_cuisine: '尝试新菜系',
       onboarding_thats_great: '太棒了！',
       onboarding_stat: '92% 的用户表示 ReciMe 帮助他们轻松吃得更健康',
-      onboarding_help: '我们在这里帮您实现目标 🧡',
+      onboarding_help: '我们在这里帮您实现目标',
       onboarding_hear_title: '您是如何了解我们的？',
       onboarding_source_friend: '朋友介绍',
       onboarding_source_facebook: 'Facebook',
@@ -158,29 +148,16 @@ const resources = {
       onboarding_chart_body: '您已踏上旅程！随着您的烹饪习惯不断进化，厨房体验将越来越轻松。',
       onboarding_organize_title: '整理您的食谱',
       onboarding_ready: '我准备好了',
-      onboarding_free_trial: '我们提供\n7天免费试用\n让每个人都能使用\nReciMe。',
-      onboarding_reminder: '您的试用期结束前2天将收到提醒。',
-      onboarding_allow_title: '点击允许\n获取提醒',
-      onboarding_allow_body: '随时可关闭通知',
-      onboarding_paywall_title: '选择您的试用体验',
-      onboarding_free_plan: '免费\n7天试用',
-      onboarding_paid_plan: '¥13.99\n30天试用',
-      onboarding_remind_toggle: '在试用期结束前提醒我',
-      onboarding_view_plans: '查看所有方案',
-      onboarding_happy_cooks: '快乐厨师',
-      onboarding_star_rating: '4.8 星评分',
-      onboarding_made_in_usa: '美国制造 🇺🇸',
-      onboarding_no_payment: '✓ 现在无需付款',
-      onboarding_redeem: '免费体验7天',
-      onboarding_price_note: '7天免费，之后 ¥278/年（¥23.2/月）\n随时取消。',
       tab_cookbooks: '食谱集',
       tab_meal_plan: '餐饮计划',
       tab_groceries: '购物清单',
-      tab_more: '更多',
+      tab_settings: '设置',
       new_cookbook: '新建食谱集',
       cookbooks_title: '食谱集',
-      import_faster: '更快导入食谱 🚀',
+      import_faster: '更快导入食谱',
       import_tutorial: '1分钟教程',
+      collection: '我的收藏',
+      trending_tab: '热门',
       ingredients: '食材',
       instructions: '步骤',
       nutrition: '营养',
@@ -200,7 +177,7 @@ const resources = {
       protein: '蛋白质',
       carbs: '碳水',
       fat: '脂肪',
-      nutrition_plus: '这是 Plus 功能。订阅以解锁 ReciMe 的营养计算器！',
+      nutrition_plus: '订阅以解锁 ReciMe 的营养计算器！',
       subscribe: '订阅',
       meal_plan_title: '我的餐饮计划',
       add_to_groceries: '添加至购物清单',
@@ -208,17 +185,16 @@ const resources = {
       grocery_title: '购物清单',
       add_first: '+ 添加第一个食材',
       no_ingredients: '暂无食材',
-      order_online: '🛒 在线订购',
+      order_online: '在线购买',
       items: '{{count}} 件',
-      upgrade: '升级到 ReciMe Plus',
+      upgrade: '升级到 Plus',
       trending: '热门食谱',
-      shortcut: '添加 ReciMe 快捷方式',
-      import_guides: '阅读导入指南',
-      desktop: '在桌面使用 ReciMe',
-      invite: '邀请朋友',
-      help: '帮助',
+      help: '帮助中心',
       settings: '设置',
-      create_account: '创建账户',
+      language: '语言',
+      lang_en: 'English',
+      lang_zh: '中文',
+      lang_es: 'Español',
       importing: '正在导入...',
       import_title: '从社交媒体导入',
       follow_steps: '请在以下平台操作',
@@ -242,7 +218,7 @@ const resources = {
       onboarding_goal_cuisine: 'Probar nuevas cocinas',
       onboarding_thats_great: '¡Excelente!',
       onboarding_stat: 'El 92% de los usuarios dicen que ReciMe les ayudó a comer más sano',
-      onboarding_help: 'Estamos aquí para ayudarte con tus objetivos 🧡',
+      onboarding_help: 'Estamos aquí para ayudarte con tus objetivos',
       onboarding_hear_title: '¿Cómo te enteraste de nosotros?',
       onboarding_source_friend: 'Por un amigo',
       onboarding_source_facebook: 'Facebook',
@@ -262,34 +238,21 @@ const resources = {
       onboarding_age_subtitle: 'Solo usamos esta información para personalizar tu experiencia',
       onboarding_setting_up: 'Estamos configurando todo para ti',
       onboarding_customizing: 'Personalizando tu experiencia...',
-      onboarding_downloading: 'Descargando la herramienta de importación de ReciMe...',
+      onboarding_downloading: 'Descargando la herramienta de importación...',
       onboarding_chart_title: 'Conviértete en un mejor cocinero con ReciMe',
-      onboarding_chart_body: '¡Estás en camino! Observa cómo evolucionan tus hábitos culinarios y tu experiencia en la cocina se vuelve más fácil.',
+      onboarding_chart_body: '¡Estás en camino! Observa cómo evolucionan tus hábitos culinarios.',
       onboarding_organize_title: 'Organiza tus recetas',
       onboarding_ready: 'Estoy listo',
-      onboarding_free_trial: 'Ofrecemos\n7 días gratis\npara que todos puedan\ncoci­nar con ReciMe.',
-      onboarding_reminder: 'Recibirás un recordatorio 2 días antes de que termine tu prueba.',
-      onboarding_allow_title: 'Toca Permitir\npara un recordatorio',
-      onboarding_allow_body: 'Desactiva las notificaciones en cualquier momento',
-      onboarding_paywall_title: 'Elige tu experiencia de prueba',
-      onboarding_free_plan: 'GRATIS\n7 días de prueba',
-      onboarding_paid_plan: '$1.99\n30 días de prueba',
-      onboarding_remind_toggle: 'Recuérdame antes de que termine mi prueba',
-      onboarding_view_plans: 'Ver todos los planes',
-      onboarding_happy_cooks: 'Cocineros felices',
-      onboarding_star_rating: '4.8 ESTRELLAS',
-      onboarding_made_in_usa: 'Hecho en EE.UU. 🇺🇸',
-      onboarding_no_payment: '✓ Sin pago ahora',
-      onboarding_redeem: 'Obtener 7 días por $0.00',
-      onboarding_price_note: '7 días gratis, luego $39.99/año ($3.33/mes)\nCancela en cualquier momento.',
       tab_cookbooks: 'Recetarios',
       tab_meal_plan: 'Plan de comidas',
       tab_groceries: 'Lista de compras',
-      tab_more: 'Más',
+      tab_settings: 'Ajustes',
       new_cookbook: 'Nuevo recetario',
       cookbooks_title: 'Recetarios',
-      import_faster: 'Importa recetas más rápido 🚀',
+      import_faster: 'Importa recetas más rápido',
       import_tutorial: 'Tutorial de 1 min',
+      collection: 'Colección',
+      trending_tab: 'Populares',
       ingredients: 'INGREDIENTES',
       instructions: 'INSTRUCCIONES',
       nutrition: 'NUTRICIÓN',
@@ -309,7 +272,7 @@ const resources = {
       protein: 'Proteína',
       carbs: 'Carbohidratos',
       fat: 'Grasas',
-      nutrition_plus: 'Esta es una función Plus. ¡Suscríbete para desbloquear la calculadora de nutrición de ReciMe!',
+      nutrition_plus: '¡Suscríbete para desbloquear la calculadora de nutrición!',
       subscribe: 'Suscribirse',
       meal_plan_title: 'Mi plan de comidas',
       add_to_groceries: 'Añadir a la lista de compras',
@@ -317,17 +280,16 @@ const resources = {
       grocery_title: 'Lista de compras',
       add_first: '+ Añade tu primer ingrediente',
       no_ingredients: 'No hay ingredientes añadidos',
-      order_online: '🛒 Pedir en línea',
+      order_online: 'Pedir en línea',
       items: '{{count}} artículos',
-      upgrade: 'Mejorar a ReciMe Plus',
+      upgrade: 'Mejorar a Plus',
       trending: 'Recetas populares',
-      shortcut: 'Añadir el acceso directo de ReciMe',
-      import_guides: 'Leer guías de importación',
-      desktop: 'Usar ReciMe en escritorio',
-      invite: 'Invitar amigos',
-      help: 'Ayuda',
+      help: 'Centro de ayuda',
       settings: 'Ajustes',
-      create_account: 'Crear cuenta',
+      language: 'Idioma',
+      lang_en: 'English',
+      lang_zh: '中文',
+      lang_es: 'Español',
       importing: 'Importando...',
       import_title: 'Importar desde redes sociales',
       follow_steps: 'Sigue los pasos en',
@@ -341,16 +303,26 @@ const resources = {
   },
 };
 
-const locale = Localization.getLocales()[0]?.languageCode ?? 'en';
-const supportedLang = ['en', 'zh', 'es'].includes(locale) ? locale : 'en';
+let initialized = false;
 
-i18n
-  .use(initReactI18next)
-  .init({
+export async function initI18n() {
+  if (initialized) return;
+  const savedLang = await AsyncStorage.getItem(LANG_KEY);
+  const deviceLang = Localization.getLocales()[0]?.languageCode ?? 'en';
+  const lng = savedLang ?? (SUPPORTED.includes(deviceLang) ? deviceLang : 'en');
+
+  await i18n.use(initReactI18next).init({
     resources,
-    lng: supportedLang,
+    lng,
     fallbackLng: 'en',
     interpolation: { escapeValue: false },
   });
+  initialized = true;
+}
+
+export async function setLanguage(lang: string) {
+  await AsyncStorage.setItem(LANG_KEY, lang);
+  await i18n.changeLanguage(lang);
+}
 
 export default i18n;

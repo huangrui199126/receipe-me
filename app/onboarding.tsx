@@ -1,8 +1,9 @@
 import React, { useState, useRef } from 'react';
 import {
   View, Text, StyleSheet, ScrollView, TouchableOpacity,
-  Animated,
+  Animated, ActivityIndicator,
 } from 'react-native';
+import { Image } from 'expo-image';
 import { useRouter } from 'expo-router';
 import { useTranslation } from 'react-i18next';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -11,8 +12,48 @@ import { useStore } from '../store';
 import Button from '../components/ui/Button';
 import ReciMeLogo from '../components/ReciMeLogo';
 import { UserProfile } from '../db/schema';
+import { E } from '../constants/emoji';
 
-const TOTAL_STEPS = 8;
+const TOTAL_STEPS = 7;
+
+// Brand logo helper — colored circle with letter/emoji
+function BrandLogo({ url, size = 28 }: { url: string; size?: number }) {
+  return (
+    <Image
+      source={{ uri: url }}
+      style={{ width: size, height: size, borderRadius: size / 4 }}
+      contentFit="contain"
+    />
+  );
+}
+
+// Inline icon row for recipe source options
+const SOURCE_LOGOS: Record<string, Array<{ url: string }>> = {
+  social: [
+    { url: 'https://logo.clearbit.com/instagram.com' },
+    { url: 'https://logo.clearbit.com/tiktok.com' },
+    { url: 'https://logo.clearbit.com/facebook.com' },
+    { url: 'https://logo.clearbit.com/pinterest.com' },
+  ],
+  websites: [
+    { url: 'https://logo.clearbit.com/google.com' },
+    { url: 'https://logo.clearbit.com/allrecipes.com' },
+  ],
+  printed: [],
+};
+
+const REFERRAL_LOGOS: Record<string, string | null> = {
+  friend: null,
+  facebook: 'https://logo.clearbit.com/facebook.com',
+  appstore: 'https://logo.clearbit.com/apple.com',
+  instagram: 'https://logo.clearbit.com/instagram.com',
+  google: 'https://logo.clearbit.com/google.com',
+  tiktok: 'https://logo.clearbit.com/tiktok.com',
+  youtube: 'https://logo.clearbit.com/youtube.com',
+  youtubead: 'https://logo.clearbit.com/youtube.com',
+  influencer: null,
+  other: null,
+};
 
 export default function Onboarding() {
   const { t } = useTranslation();
@@ -30,7 +71,7 @@ export default function Onboarding() {
 
   const goNext = () => {
     Animated.sequence([
-      Animated.timing(fadeAnim, { toValue: 0, duration: 150, useNativeDriver: true }),
+      Animated.timing(fadeAnim, { toValue: 0, duration: 120, useNativeDriver: true }),
       Animated.timing(fadeAnim, { toValue: 1, duration: 150, useNativeDriver: true }),
     ]).start();
     setStep(s => s + 1);
@@ -62,10 +103,6 @@ export default function Onboarding() {
     router.replace('/(tabs)');
   };
 
-  const requestNotifications = async () => {
-    goNext();
-  };
-
   const progress = (step + 1) / TOTAL_STEPS;
 
   const renderStep = () => {
@@ -76,19 +113,17 @@ export default function Onboarding() {
       case 3: return <HowDidYouHearStep selected={referral} onSelect={(r: string) => { setReferral(r); goNext(); }} t={t} />;
       case 4: return <AgeStep selected={ageRange} onSelect={(a: string) => { setAgeRange(a); goNext(); }} t={t} />;
       case 5: return <LoadingStep text={t('onboarding_customizing')} onDone={goNext} t={t} />;
-      case 6: return <ChartStep onNext={goNext} t={t} />;
-      case 7: return <OrganizeStep onNext={handleComplete} t={t} />;
+      case 6: return <OrganizeStep onNext={handleComplete} t={t} loading={loading} />;
       default: return null;
     }
   };
 
   return (
     <SafeAreaView style={styles.safe}>
-      {/* Header */}
       <View style={styles.header}>
         {step > 0 && step < TOTAL_STEPS - 1 && (
           <TouchableOpacity onPress={goBack} style={styles.backBtn}>
-            <Text style={styles.backArrow}>‹</Text>
+            <Text style={styles.backArrow}>{'<'}</Text>
           </TouchableOpacity>
         )}
         <ReciMeLogo size={22} />
@@ -99,7 +134,6 @@ export default function Onboarding() {
         )}
       </View>
 
-      {/* Progress bar */}
       <View style={styles.progressTrack}>
         <Animated.View style={[styles.progressFill, { width: `${progress * 100}%` }]} />
       </View>
@@ -111,108 +145,186 @@ export default function Onboarding() {
   );
 }
 
-// ─── Step Components ───────────────────────────────────────────────────────────
+// ─── Step 1: Goals ─────────────────────────────────────────────────────────────
 
 function GoalsStep({ goals, toggle, onNext, t }: any) {
   const options = [
-    { key: 'healthy', label: t('onboarding_goal_healthy'), emoji: '🥗' },
-    { key: 'money', label: t('onboarding_goal_money'), emoji: '💰' },
-    { key: 'cooking', label: t('onboarding_goal_cooking'), emoji: '🍳' },
-    { key: 'organize', label: t('onboarding_goal_organize'), emoji: '📚' },
-    { key: 'plan', label: t('onboarding_goal_plan'), emoji: '📅' },
-    { key: 'cuisine', label: t('onboarding_goal_cuisine'), emoji: '✈️' },
+    { key: 'healthy', label: t('onboarding_goal_healthy'), emoji: E.salad },
+    { key: 'money', label: t('onboarding_goal_money'), emoji: E.money },
+    { key: 'cooking', label: t('onboarding_goal_cooking'), emoji: E.cooking },
+    { key: 'organize', label: t('onboarding_goal_organize'), emoji: E.books },
+    { key: 'plan', label: t('onboarding_goal_plan'), emoji: E.calendar },
+    { key: 'cuisine', label: t('onboarding_goal_cuisine'), emoji: E.globe },
   ];
   return (
-    <ScrollView contentContainerStyle={styles.stepContent}>
-      <Text style={styles.title}>{t('onboarding_goals_title')}</Text>
-      <Text style={styles.subtitle}>{t('onboarding_goals_subtitle')}</Text>
-      {options.map(o => (
-        <TouchableOpacity
-          key={o.key}
-          style={[styles.optionRow, goals.includes(o.key) && styles.optionSelected]}
-          onPress={() => toggle(o.key)}
-        >
-          <Text style={styles.optionEmoji}>{o.emoji}</Text>
-          <Text style={[styles.optionText, goals.includes(o.key) && styles.optionTextSelected]}>{o.label}</Text>
-        </TouchableOpacity>
-      ))}
-      <Button label={t('continue_btn')} onPress={onNext} style={styles.cta} disabled={goals.length === 0} />
-    </ScrollView>
-  );
-}
-
-function ThatsGreatStep({ onNext, t }: any) {
-  return (
-    <View style={styles.stepContent}>
-      <Text style={styles.title}>{t('onboarding_thats_great')}</Text>
-      <Text style={styles.bodyCenter}>{t('onboarding_stat')}</Text>
-      <View style={styles.imageCircle}>
-        <Text style={{ fontSize: 80 }}>👩‍🍳</Text>
+    <View style={styles.stepOuter}>
+      <ScrollView contentContainerStyle={styles.stepContent} showsVerticalScrollIndicator={false}>
+        <Text style={styles.stepTitle}>{t('onboarding_goals_title')}</Text>
+        <Text style={styles.stepSubtitle}>{t('onboarding_goals_subtitle')}</Text>
+        {options.map(o => (
+          <TouchableOpacity
+            key={o.key}
+            style={[styles.optionRow, goals.includes(o.key) && styles.optionSelected]}
+            onPress={() => toggle(o.key)}
+            activeOpacity={0.7}
+          >
+            <Text style={styles.optionEmoji}>{o.emoji}</Text>
+            <Text style={[styles.optionText, goals.includes(o.key) && styles.optionTextSelected]}>
+              {o.label}
+            </Text>
+          </TouchableOpacity>
+        ))}
+      </ScrollView>
+      <View style={styles.ctaBar}>
+        <Button
+          label={t('continue_btn')}
+          onPress={onNext}
+          disabled={goals.length === 0}
+        />
       </View>
-      <Text style={styles.bodyCenter}>{t('onboarding_help')}</Text>
-      <Button label={t('continue_btn')} onPress={onNext} style={styles.cta} />
     </View>
   );
 }
 
+// ─── Step 2: That's great ──────────────────────────────────────────────────────
+
+function ThatsGreatStep({ onNext, t }: any) {
+  return (
+    <View style={[styles.stepOuter, { justifyContent: 'space-between' }]}>
+      <ScrollView contentContainerStyle={styles.stepContent} showsVerticalScrollIndicator={false}>
+        <Text style={styles.stepTitle}>{t('onboarding_thats_great')}</Text>
+        <Text style={styles.statText}>{t('onboarding_stat')}</Text>
+
+        {/* Cooking photo in blob shape */}
+        <View style={styles.blobWrap}>
+          <View style={styles.blobOuter}>
+            <Image
+              source={{ uri: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80&fit=crop' }}
+              style={styles.blobImage}
+              contentFit="cover"
+              placeholder={{ color: Colors.border }}
+            />
+          </View>
+        </View>
+
+        <Text style={styles.helpText}>
+          {t('onboarding_help')} {E.wave}
+        </Text>
+      </ScrollView>
+      <View style={styles.ctaBar}>
+        <Button label={t('continue_btn')} onPress={onNext} />
+      </View>
+    </View>
+  );
+}
+
+// ─── Step 3: Recipe sources ────────────────────────────────────────────────────
+
 function RecipeSourceStep({ sources, toggle, onNext, t }: any) {
   const options = [
-    { key: 'social', label: t('onboarding_social'), icons: '📱' },
-    { key: 'websites', label: t('onboarding_websites'), icons: '🌐' },
-    { key: 'printed', label: t('onboarding_printed'), icons: '📖' },
+    {
+      key: 'social',
+      label: t('onboarding_social'),
+      logos: SOURCE_LOGOS.social,
+      emoji: E.phone,
+    },
+    {
+      key: 'websites',
+      label: t('onboarding_websites'),
+      logos: SOURCE_LOGOS.websites,
+      emoji: E.web,
+    },
+    {
+      key: 'printed',
+      label: t('onboarding_printed'),
+      logos: [],
+      emoji: E.book,
+    },
   ];
   return (
-    <ScrollView contentContainerStyle={styles.stepContent}>
-      <Text style={styles.title}>{t('onboarding_recipe_source_title')}</Text>
-      <Text style={styles.subtitle}>{t('onboarding_goals_subtitle')}</Text>
-      {options.map(o => (
+    <View style={styles.stepOuter}>
+      <ScrollView contentContainerStyle={styles.stepContent} showsVerticalScrollIndicator={false}>
+        <Text style={styles.stepTitle}>{t('onboarding_recipe_source_title')}</Text>
+        <Text style={styles.stepSubtitle}>{t('onboarding_goals_subtitle')}</Text>
+        {options.map(o => (
+          <TouchableOpacity
+            key={o.key}
+            style={[styles.optionRow, sources.includes(o.key) && styles.optionSelected]}
+            onPress={() => toggle(o.key)}
+            activeOpacity={0.7}
+          >
+            <Text style={[styles.optionText, sources.includes(o.key) && styles.optionTextSelected, { flex: 0, marginRight: 12 }]}>
+              {o.label}
+            </Text>
+            <View style={styles.logoRow}>
+              {o.logos.length > 0
+                ? o.logos.map((l, i) => <BrandLogo key={i} url={l.url} size={26} />)
+                : <Text style={styles.optionEmoji}>{o.emoji}</Text>}
+            </View>
+          </TouchableOpacity>
+        ))}
+      </ScrollView>
+      <View style={styles.ctaBar}>
+        <Button label={t('continue_btn')} onPress={onNext} disabled={sources.length === 0} />
+      </View>
+    </View>
+  );
+}
+
+// ─── Step 4: How did you hear ──────────────────────────────────────────────────
+
+function HowDidYouHearStep({ selected, onSelect, t }: any) {
+  const listOptions = [
+    { key: 'friend', label: t('onboarding_source_friend'), logo: null, emoji: E.friends },
+    { key: 'facebook', label: t('onboarding_source_facebook'), logo: REFERRAL_LOGOS.facebook, emoji: null },
+    { key: 'appstore', label: t('onboarding_source_appstore'), logo: REFERRAL_LOGOS.appstore, emoji: null },
+    { key: 'instagram', label: t('onboarding_source_instagram'), logo: REFERRAL_LOGOS.instagram, emoji: null },
+    { key: 'google', label: t('onboarding_source_google'), logo: REFERRAL_LOGOS.google, emoji: null },
+    { key: 'tiktok', label: t('onboarding_source_tiktok'), logo: REFERRAL_LOGOS.tiktok, emoji: null },
+    { key: 'youtube', label: t('onboarding_source_youtube'), logo: REFERRAL_LOGOS.youtube, emoji: null },
+    { key: 'other', label: t('onboarding_source_other'), logo: null, emoji: E.other },
+  ];
+
+  return (
+    <ScrollView contentContainerStyle={[styles.stepContent, { paddingBottom: 48 }]} showsVerticalScrollIndicator={false}>
+      <Text style={styles.stepTitle}>{t('onboarding_hear_title')}</Text>
+
+      {listOptions.map(o => (
         <TouchableOpacity
           key={o.key}
-          style={[styles.optionRow, sources.includes(o.key) && styles.optionSelected]}
-          onPress={() => toggle(o.key)}
+          style={[styles.optionRow, selected === o.key && styles.optionSelected]}
+          onPress={() => onSelect(o.key)}
+          activeOpacity={0.7}
         >
-          <Text style={styles.optionEmoji}>{o.icons}</Text>
-          <Text style={[styles.optionText, sources.includes(o.key) && styles.optionTextSelected]}>{o.label}</Text>
+          {o.logo ? (
+            <BrandLogo url={o.logo} size={28} />
+          ) : (
+            <Text style={{ fontSize: 24, width: 32 }}>{o.emoji}</Text>
+          )}
+          <Text style={[styles.optionText, selected === o.key && styles.optionTextSelected, { marginLeft: 12 }]}>
+            {o.label}
+          </Text>
         </TouchableOpacity>
       ))}
-      <Button label={t('continue_btn')} onPress={onNext} style={styles.cta} disabled={sources.length === 0} />
     </ScrollView>
   );
 }
 
-function HowDidYouHearStep({ selected, onSelect, t }: any) {
-  const options = [
-    { key: 'friend', label: t('onboarding_source_friend') },
-    { key: 'facebook', label: t('onboarding_source_facebook') },
-    { key: 'appstore', label: t('onboarding_source_appstore') },
-    { key: 'instagram', label: t('onboarding_source_instagram') },
-    { key: 'google', label: t('onboarding_source_google') },
-    { key: 'tiktok', label: t('onboarding_source_tiktok') },
-    { key: 'youtube', label: t('onboarding_source_youtube') },
-    { key: 'youtubead', label: t('onboarding_source_youtubead') },
-    { key: 'influencer', label: t('onboarding_source_influencer') },
-    { key: 'other', label: t('onboarding_source_other') },
-  ];
-  return (
-    <ScrollView contentContainerStyle={styles.stepContent}>
-      <Text style={styles.title}>{t('onboarding_hear_title')}</Text>
-      {options.map(o => (
-        <TouchableOpacity key={o.key} style={styles.optionRow} onPress={() => onSelect(o.key)}>
-          <Text style={styles.optionText}>{o.label}</Text>
-        </TouchableOpacity>
-      ))}
-    </ScrollView>
-  );
-}
+// ─── Step 5: Age ───────────────────────────────────────────────────────────────
 
 function AgeStep({ selected, onSelect, t }: any) {
   const ranges = ['24 and under', '25-34', '35-44', '45-54', '55+'];
   return (
-    <ScrollView contentContainerStyle={styles.stepContent}>
-      <Text style={styles.title}>{t('onboarding_age_title')}</Text>
-      <Text style={styles.subtitle}>{t('onboarding_age_subtitle')}</Text>
+    <ScrollView contentContainerStyle={[styles.stepContent, { paddingBottom: 48 }]} showsVerticalScrollIndicator={false}>
+      <Text style={styles.stepTitle}>{t('onboarding_age_title')}</Text>
+      <Text style={styles.stepSubtitle}>{t('onboarding_age_subtitle')}</Text>
       {ranges.map(r => (
-        <TouchableOpacity key={r} style={[styles.optionRow, selected === r && styles.optionSelected]} onPress={() => onSelect(r)}>
+        <TouchableOpacity
+          key={r}
+          style={[styles.optionRow, selected === r && styles.optionSelected]}
+          onPress={() => onSelect(r)}
+          activeOpacity={0.7}
+        >
           <Text style={[styles.optionText, selected === r && styles.optionTextSelected]}>{r}</Text>
         </TouchableOpacity>
       ))}
@@ -220,66 +332,73 @@ function AgeStep({ selected, onSelect, t }: any) {
   );
 }
 
+// ─── Step 6: Loading ───────────────────────────────────────────────────────────
+
 function LoadingStep({ text, onDone, t }: any) {
   React.useEffect(() => {
     const timer = setTimeout(onDone, 2200);
     return () => clearTimeout(timer);
   }, []);
+
   return (
     <View style={[styles.stepContent, styles.centered]}>
-      <Text style={styles.bodyCenter}>{t('onboarding_setting_up')}</Text>
-      <View style={styles.logoAnim}>
-        <Text style={{ fontSize: 60 }}>🍊</Text>
-        <Text style={{ fontSize: 50, position: 'absolute', top: -10, right: -10 }}>🍃</Text>
-        <Text style={{ fontSize: 40, position: 'absolute', bottom: -5, left: -10 }}>🌸</Text>
-        <Text style={{ fontSize: 45, position: 'absolute', bottom: 0, right: -15 }}>🎀</Text>
+      <Text style={styles.loadingTitle}>{t('onboarding_setting_up')}</Text>
+
+      {/* Animated food icons */}
+      <View style={styles.loadingIcons}>
+        {[E.pizza, E.pasta, E.soup, E.ramen, E.cake].map((emoji, i) => (
+          <View key={i} style={[styles.loadingIconBadge, { transform: [{ rotate: `${(i - 2) * 8}deg` }] }]}>
+            <Text style={{ fontSize: 32 }}>{emoji}</Text>
+          </View>
+        ))}
       </View>
-      <Text style={styles.muted}>{text}</Text>
+
+      <ActivityIndicator size="large" color={Colors.primary} style={{ marginTop: 32 }} />
+      <Text style={styles.loadingSubtext}>{text}</Text>
     </View>
   );
 }
 
-function ChartStep({ onNext, t }: any) {
-  return (
-    <View style={styles.stepContent}>
-      <Text style={styles.title}>{t('onboarding_chart_title')}</Text>
-      <View style={styles.chartContainer}>
-        <View style={styles.chartBadge}>
-          <Text style={styles.chartBadgeText}>Organized recipes</Text>
-        </View>
-        <View style={styles.chartLine} />
-        <View style={[styles.chartBadge, { backgroundColor: Colors.primaryLight, alignSelf: 'flex-start', marginTop: 40 }]}>
-          <Text style={[styles.chartBadgeText, { color: Colors.primary }]}>Scattered recipes</Text>
-        </View>
-        <View style={styles.chartXLabels}>
-          <Text style={styles.chartLabel}>Now</Text>
-          <Text style={[styles.chartLabel, { color: Colors.accent }]}>Your goal</Text>
-        </View>
-      </View>
-      <Text style={styles.bodyCenter}>{t('onboarding_chart_body')}</Text>
-      <Button label={t('continue_btn')} onPress={onNext} style={styles.cta} />
-    </View>
-  );
-}
+// ─── Step 7: Organize (final) ──────────────────────────────────────────────────
 
-function OrganizeStep({ onNext, t }: any) {
+function OrganizeStep({ onNext, t, loading }: any) {
   return (
-    <View style={[styles.stepContent, styles.centered]}>
-      <Text style={styles.title}>{t('onboarding_organize_title')}</Text>
-      <View style={styles.phonePreview}>
-        <Text style={styles.phonePreviewText}>📱 ReciMe App Preview</Text>
-        <View style={styles.previewGrid}>
-          {['🥗', '🍝', '🍕', '🥘', '🍜', '🥧'].map((e, i) => (
-            <View key={i} style={styles.previewCell}>
-              <Text style={{ fontSize: 28 }}>{e}</Text>
-            </View>
+    <View style={[styles.stepOuter, styles.centered]}>
+      <View style={styles.stepContent}>
+        <Text style={styles.stepTitle}>{t('onboarding_organize_title')}</Text>
+
+        {/* App preview grid */}
+        <View style={styles.previewCard}>
+          <View style={styles.previewHeader}>
+            <ReciMeLogo size={18} />
+          </View>
+          <View style={styles.previewGrid}>
+            {[E.pizza, E.pasta, E.soup, E.ramen, E.cake, E.salad].map((emoji, i) => (
+              <View key={i} style={styles.previewCell}>
+                <Text style={{ fontSize: 28 }}>{emoji}</Text>
+              </View>
+            ))}
+          </View>
+        </View>
+
+        {/* Import source icons */}
+        <View style={styles.importRow}>
+          {[
+            'https://logo.clearbit.com/instagram.com',
+            'https://logo.clearbit.com/tiktok.com',
+            'https://logo.clearbit.com/youtube.com',
+            'https://logo.clearbit.com/pinterest.com',
+          ].map((url, i) => (
+            <BrandLogo key={i} url={url} size={36} />
           ))}
         </View>
       </View>
-      <View style={styles.socialRow}>
-        {['📌', '📘', '▶️', '🎵', '📷'].map((e, i) => <Text key={i} style={styles.socialIcon}>{e}</Text>)}
+
+      <View style={styles.ctaBar}>
+        {loading
+          ? <ActivityIndicator color={Colors.primary} size="large" />
+          : <Button label={t('onboarding_ready')} onPress={onNext} variant="purple" />}
       </View>
-      <Button label={t('onboarding_ready')} onPress={onNext} variant="purple" style={styles.cta} />
     </View>
   );
 }
@@ -288,38 +407,67 @@ function OrganizeStep({ onNext, t }: any) {
 
 const styles = StyleSheet.create({
   safe: { flex: 1, backgroundColor: Colors.background },
-  header: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center', paddingHorizontal: 20, paddingVertical: 12 },
+  header: {
+    flexDirection: 'row', alignItems: 'center', justifyContent: 'center',
+    paddingHorizontal: 20, paddingVertical: 12,
+  },
   backBtn: { position: 'absolute', left: 20 },
-  backArrow: { fontSize: 28, color: Colors.text, fontWeight: '300' },
+  backArrow: { fontSize: 22, color: Colors.text, fontWeight: '400', paddingHorizontal: 4 },
   skipBtn: { position: 'absolute', right: 20 },
   skipText: { fontSize: 16, color: Colors.accent, fontWeight: '600' },
-  progressTrack: { height: 4, backgroundColor: Colors.border, marginHorizontal: 20, borderRadius: 2 },
+  progressTrack: { height: 4, backgroundColor: Colors.border, marginHorizontal: 20, borderRadius: 2, marginBottom: 4 },
   progressFill: { height: 4, backgroundColor: Colors.accent, borderRadius: 2 },
   content: { flex: 1 },
-  stepContent: { paddingHorizontal: 24, paddingTop: 32, paddingBottom: 40 },
+  stepOuter: { flex: 1 },
+  stepContent: { paddingHorizontal: 24, paddingTop: 28, paddingBottom: 16 },
   centered: { flex: 1, alignItems: 'center', justifyContent: 'center' },
-  title: { fontSize: 26, fontWeight: '700', color: Colors.text, textAlign: 'center', marginBottom: 8, lineHeight: 34 },
-  subtitle: { fontSize: 15, color: Colors.muted, textAlign: 'center', marginBottom: 28 },
-  bodyCenter: { fontSize: 16, color: Colors.muted, textAlign: 'center', lineHeight: 24, marginVertical: 16 },
-  optionRow: { flexDirection: 'row', alignItems: 'center', backgroundColor: Colors.card, borderRadius: 14, padding: 16, marginBottom: 10, borderWidth: 2, borderColor: 'transparent' },
+  ctaBar: { paddingHorizontal: 24, paddingBottom: 16, paddingTop: 8 },
+  // Typography
+  stepTitle: { fontSize: 28, fontWeight: '800', color: Colors.text, marginBottom: 8, lineHeight: 36 },
+  stepSubtitle: { fontSize: 15, color: Colors.muted, marginBottom: 24 },
+  statText: { fontSize: 16, color: Colors.muted, lineHeight: 24, marginBottom: 8, textAlign: 'center' },
+  helpText: { fontSize: 18, fontWeight: '700', color: Colors.text, textAlign: 'center', marginTop: 8, lineHeight: 26 },
+  // Option rows
+  optionRow: {
+    flexDirection: 'row', alignItems: 'center',
+    backgroundColor: Colors.card, borderRadius: 16, padding: 16,
+    marginBottom: 10, borderWidth: 2, borderColor: Colors.card,
+    shadowColor: '#000', shadowOpacity: 0.04, shadowRadius: 4, shadowOffset: { width: 0, height: 1 },
+  },
   optionSelected: { borderColor: Colors.primary },
-  optionEmoji: { fontSize: 22, marginRight: 14 },
+  optionEmoji: { fontSize: 24, marginRight: 14, width: 32 },
   optionText: { fontSize: 16, color: Colors.text, fontWeight: '500', flex: 1 },
   optionTextSelected: { color: Colors.primary, fontWeight: '700' },
-  cta: { marginTop: 24 },
-  imageCircle: { width: 200, height: 200, borderRadius: 100, backgroundColor: Colors.border, justifyContent: 'center', alignItems: 'center', alignSelf: 'center', marginVertical: 24, overflow: 'hidden' },
-  logoAnim: { width: 120, height: 120, justifyContent: 'center', alignItems: 'center', marginVertical: 32 },
-  muted: { color: Colors.muted, fontSize: 14 },
-  chartContainer: { marginVertical: 24, height: 160, justifyContent: 'flex-end' },
-  chartBadge: { backgroundColor: Colors.accentLight, paddingHorizontal: 12, paddingVertical: 6, borderRadius: 20, alignSelf: 'flex-end' },
-  chartBadgeText: { fontSize: 13, fontWeight: '600', color: Colors.accent },
-  chartLine: { height: 3, backgroundColor: Colors.accent, marginVertical: 8, borderRadius: 2 },
-  chartXLabels: { flexDirection: 'row', justifyContent: 'space-between', marginTop: 8 },
-  chartLabel: { fontSize: 13, color: Colors.muted },
-  phonePreview: { width: '80%', backgroundColor: Colors.card, borderRadius: 20, padding: 16, marginVertical: 24, alignSelf: 'center', shadowColor: '#000', shadowOpacity: 0.1, shadowRadius: 12, elevation: 4 },
-  phonePreviewText: { fontSize: 13, color: Colors.accent, fontWeight: '600', marginBottom: 12 },
-  previewGrid: { flexDirection: 'row', flexWrap: 'wrap' },
-  previewCell: { width: '33%', aspectRatio: 1, justifyContent: 'center', alignItems: 'center', borderRadius: 8, backgroundColor: Colors.background, marginBottom: 4 },
-  socialRow: { flexDirection: 'row', justifyContent: 'center', gap: 16, marginBottom: 24 },
-  socialIcon: { fontSize: 28 },
+  // Logo row (recipe source)
+  logoRow: { flexDirection: 'row', gap: 6, alignItems: 'center', marginLeft: 'auto' },
+  // That's great photo
+  blobWrap: { alignItems: 'center', marginVertical: 24 },
+  blobOuter: {
+    width: 240, height: 240, borderRadius: 120,
+    overflow: 'hidden',
+    shadowColor: '#000', shadowOpacity: 0.12, shadowRadius: 20, shadowOffset: { width: 0, height: 8 },
+  },
+  blobImage: { width: '100%', height: '100%' },
+  // Loading step
+  loadingTitle: { fontSize: 22, fontWeight: '700', color: Colors.text, textAlign: 'center', marginBottom: 8 },
+  loadingIcons: { flexDirection: 'row', justifyContent: 'center', gap: 8, marginTop: 32 },
+  loadingIconBadge: {
+    width: 56, height: 56, borderRadius: 16,
+    backgroundColor: Colors.card, justifyContent: 'center', alignItems: 'center',
+    shadowColor: '#000', shadowOpacity: 0.06, shadowRadius: 8, shadowOffset: { width: 0, height: 2 },
+  },
+  loadingSubtext: { color: Colors.muted, fontSize: 14, marginTop: 16, textAlign: 'center' },
+  // Final step preview
+  previewCard: {
+    backgroundColor: Colors.card, borderRadius: 20, padding: 16,
+    marginVertical: 24, alignSelf: 'stretch',
+    shadowColor: '#000', shadowOpacity: 0.08, shadowRadius: 16, shadowOffset: { width: 0, height: 4 },
+  },
+  previewHeader: { marginBottom: 12 },
+  previewGrid: { flexDirection: 'row', flexWrap: 'wrap', gap: 4 },
+  previewCell: {
+    width: '31%', aspectRatio: 1, justifyContent: 'center', alignItems: 'center',
+    borderRadius: 12, backgroundColor: Colors.background, marginBottom: 4,
+  },
+  importRow: { flexDirection: 'row', justifyContent: 'center', gap: 16, marginTop: 8 },
 });

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import {
   View, Text, StyleSheet, ScrollView, TouchableOpacity,
-  TextInput, Modal,
+  TextInput, Modal, Linking, Alert,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useTranslation } from 'react-i18next';
@@ -79,8 +79,16 @@ export default function GroceriesTab() {
         <ScrollView contentContainerStyle={styles.scroll} showsVerticalScrollIndicator={false}>
           {/* Count + order online */}
           <Text style={styles.itemCount}>{t('items', { count: groceryItems.length })}</Text>
-          <TouchableOpacity style={styles.orderOnlineBtn}>
-            <Text style={styles.orderOnlineText}>{t('order_online')}</Text>
+          <TouchableOpacity
+            style={styles.orderOnlineBtn}
+            onPress={() => {
+              const query = groceryItems.map(i => i.name).slice(0, 3).join('+');
+              Linking.openURL(`https://www.amazon.com/s?k=${encodeURIComponent(query || 'groceries')}`).catch(() =>
+                Alert.alert('Cannot open', 'Please visit amazon.com to order your groceries.')
+              );
+            }}
+          >
+            <Text style={styles.orderOnlineText}>{String.fromCodePoint(0x1F6D2)} {t('order_online')}</Text>
           </TouchableOpacity>
 
           {/* Grouped items */}

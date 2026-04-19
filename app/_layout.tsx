@@ -1,17 +1,17 @@
-import '../constants/i18n';
 import { useEffect, useState } from 'react';
 import { Stack } from 'expo-router';
 import { useStore } from '../store';
 import { View, ActivityIndicator } from 'react-native';
 import { Colors } from '../constants/colors';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
+import { initI18n } from '../constants/i18n';
 
 export default function RootLayout() {
   const { loadInitial } = useStore();
   const [ready, setReady] = useState(false);
 
   useEffect(() => {
-    loadInitial().finally(() => setReady(true));
+    initI18n().then(() => loadInitial()).finally(() => setReady(true));
   }, []);
 
   if (!ready) {

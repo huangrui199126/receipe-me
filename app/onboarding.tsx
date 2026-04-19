@@ -16,44 +16,16 @@ import { E } from '../constants/emoji';
 
 const TOTAL_STEPS = 7;
 
-// Brand logo helper — colored circle with letter/emoji
 function BrandLogo({ url, size = 28 }: { url: string; size?: number }) {
   return (
     <Image
       source={{ uri: url }}
-      style={{ width: size, height: size, borderRadius: size / 4 }}
+      style={{ width: size, height: size, borderRadius: size / 5 }}
       contentFit="contain"
+      cachePolicy="memory-disk"
     />
   );
 }
-
-// Inline icon row for recipe source options
-const SOURCE_LOGOS: Record<string, Array<{ url: string }>> = {
-  social: [
-    { url: 'https://logo.clearbit.com/instagram.com' },
-    { url: 'https://logo.clearbit.com/tiktok.com' },
-    { url: 'https://logo.clearbit.com/facebook.com' },
-    { url: 'https://logo.clearbit.com/pinterest.com' },
-  ],
-  websites: [
-    { url: 'https://logo.clearbit.com/google.com' },
-    { url: 'https://logo.clearbit.com/allrecipes.com' },
-  ],
-  printed: [],
-};
-
-const REFERRAL_LOGOS: Record<string, string | null> = {
-  friend: null,
-  facebook: 'https://logo.clearbit.com/facebook.com',
-  appstore: 'https://logo.clearbit.com/apple.com',
-  instagram: 'https://logo.clearbit.com/instagram.com',
-  google: 'https://logo.clearbit.com/google.com',
-  tiktok: 'https://logo.clearbit.com/tiktok.com',
-  youtube: 'https://logo.clearbit.com/youtube.com',
-  youtubead: 'https://logo.clearbit.com/youtube.com',
-  influencer: null,
-  other: null,
-};
 
 export default function Onboarding() {
   const { t } = useTranslation();
@@ -161,26 +133,28 @@ function GoalsStep({ goals, toggle, onNext, t }: any) {
       <ScrollView contentContainerStyle={styles.stepContent} showsVerticalScrollIndicator={false}>
         <Text style={styles.stepTitle}>{t('onboarding_goals_title')}</Text>
         <Text style={styles.stepSubtitle}>{t('onboarding_goals_subtitle')}</Text>
-        {options.map(o => (
-          <TouchableOpacity
-            key={o.key}
-            style={[styles.optionRow, goals.includes(o.key) && styles.optionSelected]}
-            onPress={() => toggle(o.key)}
-            activeOpacity={0.7}
-          >
-            <Text style={styles.optionEmoji}>{o.emoji}</Text>
-            <Text style={[styles.optionText, goals.includes(o.key) && styles.optionTextSelected]}>
-              {o.label}
-            </Text>
-          </TouchableOpacity>
-        ))}
+        {options.map(o => {
+          const selected = goals.includes(o.key);
+          return (
+            <TouchableOpacity
+              key={o.key}
+              style={[styles.optionRow, selected && styles.optionSelected]}
+              onPress={() => toggle(o.key)}
+              activeOpacity={0.7}
+            >
+              <View style={[styles.emojiCircle, selected && styles.emojiCircleSelected]}>
+                <Text style={styles.optionEmoji}>{o.emoji}</Text>
+              </View>
+              <Text style={[styles.optionText, selected && styles.optionTextSelected]}>
+                {o.label}
+              </Text>
+              {selected && <Text style={styles.checkmark}>✓</Text>}
+            </TouchableOpacity>
+          );
+        })}
       </ScrollView>
       <View style={styles.ctaBar}>
-        <Button
-          label={t('continue_btn')}
-          onPress={onNext}
-          disabled={goals.length === 0}
-        />
+        <Button label={t('continue_btn')} onPress={onNext} disabled={goals.length === 0} />
       </View>
     </View>
   );
@@ -192,14 +166,13 @@ function ThatsGreatStep({ onNext, t }: any) {
   return (
     <View style={[styles.stepOuter, { justifyContent: 'space-between' }]}>
       <ScrollView contentContainerStyle={styles.stepContent} showsVerticalScrollIndicator={false}>
-        <Text style={styles.stepTitle}>{t('onboarding_thats_great')}</Text>
+        <Text style={[styles.stepTitle, { textAlign: 'center' }]}>{t('onboarding_thats_great')}</Text>
         <Text style={styles.statText}>{t('onboarding_stat')}</Text>
 
-        {/* Cooking photo in blob shape */}
         <View style={styles.blobWrap}>
           <View style={styles.blobOuter}>
             <Image
-              source={{ uri: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80&fit=crop' }}
+              source={{ uri: 'https://images.unsplash.com/photo-1506368249639-73a05d6f6488?w=600&q=80&fit=crop' }}
               style={styles.blobImage}
               contentFit="cover"
               placeholder={{ color: Colors.border }}
@@ -225,20 +198,26 @@ function RecipeSourceStep({ sources, toggle, onNext, t }: any) {
     {
       key: 'social',
       label: t('onboarding_social'),
-      logos: SOURCE_LOGOS.social,
-      emoji: E.phone,
+      logos: [
+        'https://logo.clearbit.com/instagram.com',
+        'https://logo.clearbit.com/tiktok.com',
+        'https://logo.clearbit.com/facebook.com',
+        'https://logo.clearbit.com/pinterest.com',
+      ],
     },
     {
       key: 'websites',
       label: t('onboarding_websites'),
-      logos: SOURCE_LOGOS.websites,
-      emoji: E.web,
+      logos: [
+        'https://logo.clearbit.com/google.com',
+        'https://logo.clearbit.com/allrecipes.com',
+      ],
     },
     {
       key: 'printed',
       label: t('onboarding_printed'),
       logos: [],
-      emoji: E.book,
+      icons: ['📖', '✍️'],
     },
   ];
   return (
@@ -246,23 +225,29 @@ function RecipeSourceStep({ sources, toggle, onNext, t }: any) {
       <ScrollView contentContainerStyle={styles.stepContent} showsVerticalScrollIndicator={false}>
         <Text style={styles.stepTitle}>{t('onboarding_recipe_source_title')}</Text>
         <Text style={styles.stepSubtitle}>{t('onboarding_goals_subtitle')}</Text>
-        {options.map(o => (
-          <TouchableOpacity
-            key={o.key}
-            style={[styles.optionRow, sources.includes(o.key) && styles.optionSelected]}
-            onPress={() => toggle(o.key)}
-            activeOpacity={0.7}
-          >
-            <Text style={[styles.optionText, sources.includes(o.key) && styles.optionTextSelected, { flex: 0, marginRight: 12 }]}>
-              {o.label}
-            </Text>
-            <View style={styles.logoRow}>
-              {o.logos.length > 0
-                ? o.logos.map((l, i) => <BrandLogo key={i} url={l.url} size={26} />)
-                : <Text style={styles.optionEmoji}>{o.emoji}</Text>}
-            </View>
-          </TouchableOpacity>
-        ))}
+        {options.map(o => {
+          const selected = sources.includes(o.key);
+          return (
+            <TouchableOpacity
+              key={o.key}
+              style={[styles.optionRow, selected && styles.optionSelected]}
+              onPress={() => toggle(o.key)}
+              activeOpacity={0.7}
+            >
+              <Text style={[styles.optionText, selected && styles.optionTextSelected, { flex: 1 }]}>
+                {o.label}
+              </Text>
+              <View style={styles.logoRow}>
+                {o.logos.length > 0
+                  ? o.logos.map((url, i) => <BrandLogo key={i} url={url} size={26} />)
+                  : (o as any).icons?.map((ic: string, i: number) => (
+                      <Text key={i} style={{ fontSize: 22 }}>{ic}</Text>
+                    ))
+                }
+              </View>
+            </TouchableOpacity>
+          );
+        })}
       </ScrollView>
       <View style={styles.ctaBar}>
         <Button label={t('continue_btn')} onPress={onNext} disabled={sources.length === 0} />
@@ -274,38 +259,44 @@ function RecipeSourceStep({ sources, toggle, onNext, t }: any) {
 // ─── Step 4: How did you hear ──────────────────────────────────────────────────
 
 function HowDidYouHearStep({ selected, onSelect, t }: any) {
-  const listOptions = [
-    { key: 'friend', label: t('onboarding_source_friend'), logo: null, emoji: E.friends },
-    { key: 'facebook', label: t('onboarding_source_facebook'), logo: REFERRAL_LOGOS.facebook, emoji: null },
-    { key: 'appstore', label: t('onboarding_source_appstore'), logo: REFERRAL_LOGOS.appstore, emoji: null },
-    { key: 'instagram', label: t('onboarding_source_instagram'), logo: REFERRAL_LOGOS.instagram, emoji: null },
-    { key: 'google', label: t('onboarding_source_google'), logo: REFERRAL_LOGOS.google, emoji: null },
-    { key: 'tiktok', label: t('onboarding_source_tiktok'), logo: REFERRAL_LOGOS.tiktok, emoji: null },
-    { key: 'youtube', label: t('onboarding_source_youtube'), logo: REFERRAL_LOGOS.youtube, emoji: null },
-    { key: 'other', label: t('onboarding_source_other'), logo: null, emoji: E.other },
+  const options = [
+    { key: 'friend',    label: t('onboarding_source_friend'),   logo: null, emoji: '🤝' },
+    { key: 'facebook',  label: t('onboarding_source_facebook'),  logo: 'https://logo.clearbit.com/facebook.com' },
+    { key: 'appstore',  label: t('onboarding_source_appstore'),  logo: 'https://logo.clearbit.com/apple.com' },
+    { key: 'instagram', label: t('onboarding_source_instagram'), logo: 'https://logo.clearbit.com/instagram.com' },
+    { key: 'google',    label: t('onboarding_source_google'),    logo: 'https://logo.clearbit.com/google.com' },
+    { key: 'tiktok',   label: t('onboarding_source_tiktok'),    logo: 'https://logo.clearbit.com/tiktok.com' },
+    { key: 'youtube',  label: t('onboarding_source_youtube'),   logo: 'https://logo.clearbit.com/youtube.com' },
+    { key: 'other',    label: t('onboarding_source_other'),     logo: null, emoji: '💬' },
   ];
 
   return (
     <ScrollView contentContainerStyle={[styles.stepContent, { paddingBottom: 48 }]} showsVerticalScrollIndicator={false}>
       <Text style={styles.stepTitle}>{t('onboarding_hear_title')}</Text>
 
-      {listOptions.map(o => (
-        <TouchableOpacity
-          key={o.key}
-          style={[styles.optionRow, selected === o.key && styles.optionSelected]}
-          onPress={() => onSelect(o.key)}
-          activeOpacity={0.7}
-        >
-          {o.logo ? (
-            <BrandLogo url={o.logo} size={28} />
-          ) : (
-            <Text style={{ fontSize: 24, width: 32 }}>{o.emoji}</Text>
-          )}
-          <Text style={[styles.optionText, selected === o.key && styles.optionTextSelected, { marginLeft: 12 }]}>
-            {o.label}
-          </Text>
-        </TouchableOpacity>
-      ))}
+      {options.map(o => {
+        const isSelected = selected === o.key;
+        return (
+          <TouchableOpacity
+            key={o.key}
+            style={[styles.optionRow, isSelected && styles.optionSelected]}
+            onPress={() => onSelect(o.key)}
+            activeOpacity={0.7}
+          >
+            <View style={styles.referralIconWrap}>
+              {o.logo ? (
+                <BrandLogo url={o.logo} size={30} />
+              ) : (
+                <Text style={{ fontSize: 26 }}>{(o as any).emoji}</Text>
+              )}
+            </View>
+            <Text style={[styles.optionText, isSelected && styles.optionTextSelected]}>
+              {o.label}
+            </Text>
+            {isSelected && <Text style={styles.checkmark}>✓</Text>}
+          </TouchableOpacity>
+        );
+      })}
     </ScrollView>
   );
 }
@@ -313,21 +304,25 @@ function HowDidYouHearStep({ selected, onSelect, t }: any) {
 // ─── Step 5: Age ───────────────────────────────────────────────────────────────
 
 function AgeStep({ selected, onSelect, t }: any) {
-  const ranges = ['24 and under', '25-34', '35-44', '45-54', '55+'];
+  const ranges = ['24 and under', '25–34', '35–44', '45–54', '55+'];
   return (
     <ScrollView contentContainerStyle={[styles.stepContent, { paddingBottom: 48 }]} showsVerticalScrollIndicator={false}>
       <Text style={styles.stepTitle}>{t('onboarding_age_title')}</Text>
       <Text style={styles.stepSubtitle}>{t('onboarding_age_subtitle')}</Text>
-      {ranges.map(r => (
-        <TouchableOpacity
-          key={r}
-          style={[styles.optionRow, selected === r && styles.optionSelected]}
-          onPress={() => onSelect(r)}
-          activeOpacity={0.7}
-        >
-          <Text style={[styles.optionText, selected === r && styles.optionTextSelected]}>{r}</Text>
-        </TouchableOpacity>
-      ))}
+      {ranges.map(r => {
+        const isSelected = selected === r;
+        return (
+          <TouchableOpacity
+            key={r}
+            style={[styles.optionRow, isSelected && styles.optionSelected]}
+            onPress={() => onSelect(r)}
+            activeOpacity={0.7}
+          >
+            <Text style={[styles.optionText, isSelected && styles.optionTextSelected]}>{r}</Text>
+            {isSelected && <Text style={styles.checkmark}>✓</Text>}
+          </TouchableOpacity>
+        );
+      })}
     </ScrollView>
   );
 }
@@ -344,9 +339,8 @@ function LoadingStep({ text, onDone, t }: any) {
     <View style={[styles.stepContent, styles.centered]}>
       <Text style={styles.loadingTitle}>{t('onboarding_setting_up')}</Text>
 
-      {/* Animated food icons */}
       <View style={styles.loadingIcons}>
-        {[E.pizza, E.pasta, E.soup, E.ramen, E.cake].map((emoji, i) => (
+        {['🍕', '🍝', '🍲', '🍜', '🥧'].map((emoji, i) => (
           <View key={i} style={[styles.loadingIconBadge, { transform: [{ rotate: `${(i - 2) * 8}deg` }] }]}>
             <Text style={{ fontSize: 32 }}>{emoji}</Text>
           </View>
@@ -362,18 +356,24 @@ function LoadingStep({ text, onDone, t }: any) {
 // ─── Step 7: Organize (final) ──────────────────────────────────────────────────
 
 function OrganizeStep({ onNext, t, loading }: any) {
+  const socialLogos = [
+    'https://logo.clearbit.com/instagram.com',
+    'https://logo.clearbit.com/tiktok.com',
+    'https://logo.clearbit.com/youtube.com',
+    'https://logo.clearbit.com/pinterest.com',
+  ];
+
   return (
     <View style={[styles.stepOuter, styles.centered]}>
       <View style={styles.stepContent}>
-        <Text style={styles.stepTitle}>{t('onboarding_organize_title')}</Text>
+        <Text style={[styles.stepTitle, { textAlign: 'center' }]}>{t('onboarding_organize_title')}</Text>
 
-        {/* App preview grid */}
         <View style={styles.previewCard}>
           <View style={styles.previewHeader}>
             <ReciMeLogo size={18} />
           </View>
           <View style={styles.previewGrid}>
-            {[E.pizza, E.pasta, E.soup, E.ramen, E.cake, E.salad].map((emoji, i) => (
+            {['🍕', '🍝', '🍲', '🍜', '🥧', '🥗'].map((emoji, i) => (
               <View key={i} style={styles.previewCell}>
                 <Text style={{ fontSize: 28 }}>{emoji}</Text>
               </View>
@@ -381,15 +381,10 @@ function OrganizeStep({ onNext, t, loading }: any) {
           </View>
         </View>
 
-        {/* Import source icons */}
+        <Text style={styles.importLabel}>Import from anywhere</Text>
         <View style={styles.importRow}>
-          {[
-            'https://logo.clearbit.com/instagram.com',
-            'https://logo.clearbit.com/tiktok.com',
-            'https://logo.clearbit.com/youtube.com',
-            'https://logo.clearbit.com/pinterest.com',
-          ].map((url, i) => (
-            <BrandLogo key={i} url={url} size={36} />
+          {socialLogos.map((url, i) => (
+            <BrandLogo key={i} url={url} size={38} />
           ))}
         </View>
       </View>
@@ -434,16 +429,25 @@ const styles = StyleSheet.create({
     marginBottom: 10, borderWidth: 2, borderColor: Colors.card,
     shadowColor: '#000', shadowOpacity: 0.04, shadowRadius: 4, shadowOffset: { width: 0, height: 1 },
   },
-  optionSelected: { borderColor: Colors.primary },
-  optionEmoji: { fontSize: 24, marginRight: 14, width: 32 },
+  optionSelected: { borderColor: Colors.primary, backgroundColor: '#EFF6FF' },
+  emojiCircle: {
+    width: 38, height: 38, borderRadius: 10,
+    backgroundColor: Colors.background, justifyContent: 'center', alignItems: 'center',
+    marginRight: 14,
+  },
+  emojiCircleSelected: { backgroundColor: '#DBEAFE' },
+  optionEmoji: { fontSize: 22 },
   optionText: { fontSize: 16, color: Colors.text, fontWeight: '500', flex: 1 },
   optionTextSelected: { color: Colors.primary, fontWeight: '700' },
+  checkmark: { fontSize: 16, color: Colors.primary, fontWeight: '700', marginLeft: 8 },
   // Logo row (recipe source)
-  logoRow: { flexDirection: 'row', gap: 6, alignItems: 'center', marginLeft: 'auto' },
+  logoRow: { flexDirection: 'row', gap: 6, alignItems: 'center' },
+  // Referral icon
+  referralIconWrap: { width: 38, justifyContent: 'center', alignItems: 'center', marginRight: 14 },
   // That's great photo
   blobWrap: { alignItems: 'center', marginVertical: 24 },
   blobOuter: {
-    width: 240, height: 240, borderRadius: 120,
+    width: 260, height: 260, borderRadius: 130,
     overflow: 'hidden',
     shadowColor: '#000', shadowOpacity: 0.12, shadowRadius: 20, shadowOffset: { width: 0, height: 8 },
   },
@@ -460,14 +464,15 @@ const styles = StyleSheet.create({
   // Final step preview
   previewCard: {
     backgroundColor: Colors.card, borderRadius: 20, padding: 16,
-    marginVertical: 24, alignSelf: 'stretch',
+    marginVertical: 20, alignSelf: 'stretch',
     shadowColor: '#000', shadowOpacity: 0.08, shadowRadius: 16, shadowOffset: { width: 0, height: 4 },
   },
   previewHeader: { marginBottom: 12 },
-  previewGrid: { flexDirection: 'row', flexWrap: 'wrap', gap: 4 },
+  previewGrid: { flexDirection: 'row', flexWrap: 'wrap', gap: 6 },
   previewCell: {
     width: '31%', aspectRatio: 1, justifyContent: 'center', alignItems: 'center',
-    borderRadius: 12, backgroundColor: Colors.background, marginBottom: 4,
+    borderRadius: 12, backgroundColor: Colors.background,
   },
-  importRow: { flexDirection: 'row', justifyContent: 'center', gap: 16, marginTop: 8 },
+  importLabel: { fontSize: 13, color: Colors.muted, textAlign: 'center', marginBottom: 12, fontWeight: '500' },
+  importRow: { flexDirection: 'row', justifyContent: 'center', gap: 16 },
 });

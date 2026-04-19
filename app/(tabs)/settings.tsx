@@ -13,9 +13,9 @@ import { useStore } from '../../store';
 import { isPro } from '../../lib/subscription';
 
 const LANGUAGES = [
-  { code: 'en', name: 'English', flag: String.fromCodePoint(0x1F1FA, 0x1F1F8) },
-  { code: 'zh', name: '\u4E2D\u6587', flag: String.fromCodePoint(0x1F1E8, 0x1F1F3) },
-  { code: 'es', name: 'Espa\u00F1ol', flag: String.fromCodePoint(0x1F1EA, 0x1F1F8) },
+  { code: 'en', name: 'English', flagIcon: 'flagUS' },
+  { code: 'zh', name: '\u4E2D\u6587', flagIcon: 'flagCN' },
+  { code: 'es', name: 'Espa\u00F1ol', flagIcon: 'flagES' },
 ];
 
 const HELP_URL = 'https://huangrui199126.github.io/receipe-me/help';
@@ -100,7 +100,10 @@ export default function SettingsTab() {
               <Text style={styles.rowLabel}>{t('language')}</Text>
             </View>
             <View style={styles.rowRight}>
-              <Text style={styles.rowValue}>{currentLang.flag} {currentLang.name}</Text>
+              <View style={{ flexDirection: 'row', alignItems: 'center', gap: 6 }}>
+                <EmojiIcon name={(currentLang as any).flagIcon} size={20} />
+                <Text style={styles.rowValue}>{currentLang.name}</Text>
+              </View>
               <Text style={styles.chevron}>›</Text>
             </View>
           </TouchableOpacity>
@@ -137,7 +140,7 @@ export default function SettingsTab() {
               style={styles.langRow}
               onPress={() => handleSelectLanguage(lang.code)}
             >
-              <Text style={styles.langFlag}>{lang.flag}</Text>
+              <EmojiIcon name={(lang as any).flagIcon} size={28} />
               <Text style={styles.langName}>{lang.name}</Text>
               {i18n.language === lang.code && (
                 <EmojiIcon name="check" size={22} />

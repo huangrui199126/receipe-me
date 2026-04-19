@@ -36,6 +36,20 @@ export const TWEMOJI: Record<string, string> = {
   helpIcon: `${BASE}/2753.png`,
   other:    `${BASE}/2754.png`,
   phone:    `${BASE}/1f4f1.png`,
+  // Import screen
+  web:      `${BASE}/1f310.png`,
+  camera:   `${BASE}/1f4f7.png`,
+  clipboard:`${BASE}/1f4cb.png`,
+  pencil:   `${BASE}/270f.png`,
+  // Misc
+  leaf:     `${BASE}/1f343.png`,
+  cart:     `${BASE}/1f6d2.png`,
+  search:   `${BASE}/1f50d.png`,
+  fire:     `${BASE}/1f525.png`,
+  // Flags
+  flagUS:   `${BASE}/1f1fa-1f1f8.png`,
+  flagCN:   `${BASE}/1f1e8-1f1f3.png`,
+  flagES:   `${BASE}/1f1ea-1f1f8.png`,
 };
 
 interface Props {

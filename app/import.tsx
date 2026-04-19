@@ -8,6 +8,7 @@ import { useRouter } from 'expo-router';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Colors } from '../constants/colors';
 import { useStore } from '../store';
+import EmojiIcon from '../components/EmojiIcon';
 import { importFromUrl, parseRecipeText, ImportedRecipe, getIngredientEmoji } from '../lib/importRecipe';
 import { Recipe, Ingredient, Step } from '../db/schema';
 import * as ImagePicker from 'expo-image-picker';
@@ -131,15 +132,15 @@ export default function ImportScreen() {
       {step === 'method' && (
         <View style={styles.content}>
           <View style={styles.methodGrid}>
-            <MethodBtn icon="🌐" label="Browser" onPress={handleBrowser} />
-            <MethodBtn icon="📷" label="Camera" onPress={handleCamera} />
-            <MethodBtn icon="📋" label="Paste Text" onPress={handlePaste} />
+            <MethodBtn icon="web" label="Browser" onPress={handleBrowser} />
+            <MethodBtn icon="camera" label="Camera" onPress={handleCamera} />
+            <MethodBtn icon="clipboard" label="Paste Text" onPress={handlePaste} />
           </View>
           <View style={styles.orRow}>
             <View style={styles.orLine} /><Text style={styles.orText}>or</Text><View style={styles.orLine} />
           </View>
           <TouchableOpacity style={styles.scratchBtn} onPress={() => router.push('/recipe/new/edit')}>
-            <Text style={styles.scratchIcon}>✏</Text>
+            <EmojiIcon name="pencil" size={24} />
             <Text style={styles.scratchLabel}>Write from scratch</Text>
           </TouchableOpacity>
         </View>
@@ -325,7 +326,7 @@ export default function ImportScreen() {
 function MethodBtn({ icon, label, onPress }: { icon: string; label: string; onPress: () => void }) {
   return (
     <TouchableOpacity style={styles.methodBtn} onPress={onPress}>
-      <View style={styles.methodIconWrap}><Text style={styles.methodIcon}>{icon}</Text></View>
+      <View style={styles.methodIconWrap}><EmojiIcon name={icon} size={36} /></View>
       <Text style={styles.methodLabel}>{label}</Text>
     </TouchableOpacity>
   );

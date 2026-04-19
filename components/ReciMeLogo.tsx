@@ -10,7 +10,7 @@ export default function ReciMeLogo({ size = 28 }: Props) {
   return (
     <View style={styles.row}>
       <EmojiIcon name="plate" size={size} />
-      <Text style={[styles.text, { fontSize: size }]}> ReciMe</Text>
+      <Text style={[styles.text, { fontSize: size }]}> RecipeMe</Text>
     </View>
   );
 }

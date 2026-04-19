@@ -13,6 +13,7 @@ import { useStore } from '../../store';
 import ReciMeLogo from '../../components/ReciMeLogo';
 import Button from '../../components/ui/Button';
 import { E } from '../../constants/emoji';
+import EmojiIcon from '../../components/EmojiIcon';
 import { fetchTrendingRecipes, refreshTrendingRecipes } from '../../lib/trendingApi';
 import { TrendingRecipe } from '../../lib/trendingRecipes';
 import { Cookbook, Recipe, Ingredient, Step } from '../../db/schema';
@@ -196,7 +197,7 @@ function TrendingSegment() {
                 <Image source={{ uri: item.image }} style={tStyles.image} contentFit="cover" />
                 {isSaved && (
                   <View style={tStyles.savedOverlay}>
-                    <Text style={tStyles.savedCheck}>{E.check} Saved</Text>
+                    <Text style={tStyles.savedCheck}>✓ Saved</Text>
                   </View>
                 )}
               </View>
@@ -355,7 +356,7 @@ export default function CookbooksTab() {
 
       {/* Search */}
       <View style={styles.searchWrap}>
-        <Text style={styles.searchIcon}>{String.fromCodePoint(0x1F50D)}</Text>
+        <EmojiIcon name="search" size={18} />
         <TextInput
           style={styles.search}
           placeholder={t('search_recipes')}
@@ -386,7 +387,7 @@ export default function CookbooksTab() {
             onPress={() => setActiveSegment('trending')}
           >
             <Text style={[styles.segmentText, activeSegment === 'trending' && styles.segmentTextActive]}>
-              {E.fire} {t('trending_tab')}
+              <EmojiIcon name="fire" size={16} /> {t('trending_tab')}
             </Text>
           </TouchableOpacity>
         </View>

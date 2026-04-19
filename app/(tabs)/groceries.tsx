@@ -3,6 +3,7 @@ import {
   View, Text, StyleSheet, ScrollView, TouchableOpacity,
   TextInput, Modal, Linking, Alert,
 } from 'react-native';
+import EmojiIcon from '../../components/EmojiIcon';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useTranslation } from 'react-i18next';
 import { Colors } from '../../constants/colors';
@@ -71,7 +72,7 @@ export default function GroceriesTab() {
             <Text style={styles.addFirstText}>{t('add_first')}</Text>
           </TouchableOpacity>
           <View style={styles.emptyIllustration}>
-            <Text style={{ fontSize: 80 }}>🌿</Text>
+            <EmojiIcon name="leaf" size={80} />
           </View>
           <Text style={styles.emptyText}>{t('no_ingredients')}</Text>
         </View>
@@ -88,7 +89,7 @@ export default function GroceriesTab() {
               );
             }}
           >
-            <Text style={styles.orderOnlineText}>{String.fromCodePoint(0x1F6D2)} {t('order_online')}</Text>
+            <Text style={styles.orderOnlineText}>{t('order_online')}</Text>
           </TouchableOpacity>
 
           {/* Grouped items */}

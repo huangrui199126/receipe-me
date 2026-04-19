@@ -35,8 +35,15 @@ function cleanSocialTitle(title: string, platform: string): string {
   // Strip "Username on Platform: " prefix
   const prefixPattern = new RegExp(`^[^:]{1,60}\\s+on\\s+${platform}\\s*:\\s*`, 'i');
   let clean = title.replace(prefixPattern, '');
-  // Also strip generic "on Instagram:" / "on TikTok:" patterns
   clean = clean.replace(/^.{1,60}\s+on\s+(instagram|tiktok|pinterest)\s*:\s*/i, '');
+  // Strip leading quotes, punctuation, and leading emoji clusters
+  clean = clean.replace(/^["'\u201C\u201D\u2018\u2019]+/, '');
+  // Strip leading emoji (any emoji character at start)
+  clean = clean.replace(/^[\p{Emoji}\s]+/u, '').trim();
+  // Truncate to 80 chars at a word boundary
+  if (clean.length > 80) {
+    clean = clean.slice(0, 80).replace(/\s+\S*$/, '').trim() + '…';
+  }
   return clean.trim() || title;
 }
 
@@ -280,9 +287,15 @@ export function parseRecipeText(text: string): ImportedRecipe {
   const STEP_NUM = /^(\d+[\.\)\-:\s]+|step\s*\d+[\.\):\s]*)/i;
   const ACTION_VERB = /^(add|mix|stir|cook|bake|heat|pour|place|combine|season|cut|chop|slice|dice|mince|fold|whisk|preheat|bring|reduce|simmer|drain|rinse|pat|brush|spread|layer|serve|top|finish|garnish|remove|transfer|let|allow|rest|cool|fry|sauté|roast|grill|boil|melt|toast|toss|coat|cover|wrap|roll|fill|stuff|blend|process|pulse|strain|squeeze|press|knead|shape|form|divide|portion|brush|drizzle|sprinkle|season|taste|adjust)/i;
 
-  // Title = first line (skip if it's all-caps metadata like "INGREDIENTS")
-  let title = lines[0];
-  if (title === title.toUpperCase() && title.length < 30) title = lines[1] ?? 'Imported Recipe';
+  // Title = first non-empty line, cleaned up
+  let titleRaw = lines[0];
+  // Strip leading quotes/emoji from title
+  titleRaw = titleRaw.replace(/^["'\u201C\u201D\u2018\u2019]+/, '').replace(/^[\p{Emoji}\s]+/u, '').trim();
+  if (titleRaw === titleRaw.toUpperCase() && titleRaw.length < 30) titleRaw = lines[1] ?? 'Imported Recipe';
+  // Truncate to 80 chars
+  let title = titleRaw.length > 80
+    ? titleRaw.slice(0, 80).replace(/\s+\S*$/, '').trim() + '\u2026'
+    : titleRaw;
 
   const ingredients: Omit<Ingredient, 'id' | 'recipeId'>[] = [];
   const steps: Omit<Step, 'id' | 'recipeId'>[] = [];
@@ -297,13 +310,22 @@ export function parseRecipeText(text: string): ImportedRecipe {
     // Section header detection
     if (/^(ingredients?|what you('ll)? need):?$/i.test(line)) { inIngredientsSection = true; inStepsSection = false; continue; }
     if (/^(instructions?|directions?|method|steps?|how to( make)?|preparation):?$/i.test(line)) { inStepsSection = true; inIngredientsSection = false; continue; }
-    if (/^(notes?|tips?|serving|nutrition):?$/i.test(line)) { inIngredientsSection = false; inStepsSection = false; continue; }
+    if (/^(notes?|tips?|serving(s| ideas?)?|nutrition|approximate nutrition|macros?):?$/i.test(line)) { inIngredientsSection = false; inStepsSection = false; continue; }
+
+    // Skip nutrition label lines e.g. "Protein: 28g", "Calories: 450", "Fat: 12–15g"
+    if (/^(protein|fat|carbs?|carbohydrates?|calories?|fiber|sugar|sodium)\s*:/i.test(line)) continue;
 
     // ALL-CAPS short line = section sub-header (e.g. "FOR THE SAUCE")
     if (line === line.toUpperCase() && line.length > 2 && line.length < 60 && !FRACTION.test(line)) continue;
 
+    // Skip long description paragraphs that aren't instructions (e.g. intro blurb after title)
+    // Heuristic: very long line at beginning before any ingredients/steps are found, starting with descriptive words
+    const isDescriptionBlurb = line.length > 120 && ingredients.length === 0 && steps.length === 0
+      && /^(these|this|a |an |the |bold|juicy|crispy|tender|perfect|rich|hearty)/i.test(line);
+    if (isDescriptionBlurb) continue;
+
     const looksLikeIngredient = UNITS.test(line) || FRACTION.test(line);
-    const looksLikeStep = STEP_NUM.test(line) || ACTION_VERB.test(line) || line.length > 80;
+    const looksLikeStep = STEP_NUM.test(line) || ACTION_VERB.test(line) || line.length > 120;
 
     if (inIngredientsSection || (!inStepsSection && looksLikeIngredient && !looksLikeStep)) {
       // Parse as ingredient

@@ -59,7 +59,7 @@ export default function PaywallScreen() {
 
   const handleSubscribe = async () => {
     if (!iapReady) {
-      Alert.alert('Store unavailable', 'In-app purchases are not available right now.');
+      Alert.alert('Store unavailable', 'In-app purchases are not available right now. Please try again later.');
       return;
     }
     setLoading(true);
@@ -67,7 +67,13 @@ export default function PaywallScreen() {
       await purchaseSubscription(selected === 'monthly' ? PRODUCT_IDS.monthly : PRODUCT_IDS.annual);
     } catch (e: any) {
       setLoading(false);
-      if (e.code !== 'E_USER_CANCELLED') Alert.alert('Error', e.message);
+      if (e.code === 'E_USER_CANCELLED') return;
+      // Invalid product ID = products not yet approved/live in App Store Connect
+      if (e.message?.includes('Invalid product') || e.message?.includes('product identifier')) {
+        Alert.alert('Coming soon', 'Subscriptions are being set up. Please check back soon!');
+      } else {
+        Alert.alert('Purchase failed', e.message);
+      }
     }
   };
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Image } from 'expo-image';
 
-const BASE = 'https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72';
+const BASE = 'https://cdn.jsdelivr.net/gh/jdecked/twemoji@17.0.2/assets/72x72';
 
 export const TWEMOJI: Record<string, string> = {
   // Goals

@@ -7,8 +7,8 @@ import { useRouter } from 'expo-router';
 import { useTranslation } from 'react-i18next';
 import { Colors } from '../../constants/colors';
 import { setLanguage } from '../../constants/i18n';
-import { E } from '../../constants/emoji';
 import ReciMeLogo from '../../components/ReciMeLogo';
+import EmojiIcon from '../../components/EmojiIcon';
 import { useStore } from '../../store';
 import { isPro } from '../../lib/subscription';
 
@@ -71,7 +71,7 @@ export default function SettingsTab() {
           >
             <View style={styles.rowLeft}>
               <View style={[styles.iconBadge, { backgroundColor: pro ? '#D1FAE5' : '#FEE2E2' }]}>
-                <Text style={styles.iconText}>{pro ? E.sparkle : E.star}</Text>
+                <EmojiIcon name={pro ? 'sparkle' : 'star'} size={20} />
               </View>
               <View>
                 <Text style={styles.rowLabel}>{pro ? 'ReciMe Pro' : 'Free Plan'}</Text>
@@ -95,7 +95,7 @@ export default function SettingsTab() {
           <TouchableOpacity style={styles.row} onPress={() => setShowLangPicker(true)}>
             <View style={styles.rowLeft}>
               <View style={[styles.iconBadge, { backgroundColor: '#DBEAFE' }]}>
-                <Text style={styles.iconText}>{E.lang}</Text>
+                <EmojiIcon name="gear" size={20} />
               </View>
               <Text style={styles.rowLabel}>{t('language')}</Text>
             </View>
@@ -111,7 +111,7 @@ export default function SettingsTab() {
           <TouchableOpacity style={[styles.row, { borderBottomWidth: 0 }]} onPress={handleHelp}>
             <View style={styles.rowLeft}>
               <View style={[styles.iconBadge, { backgroundColor: '#FEF3C7' }]}>
-                <Text style={styles.iconText}>{E.helpIcon}</Text>
+                <EmojiIcon name="helpIcon" size={20} />
               </View>
               <Text style={styles.rowLabel}>{t('help')}</Text>
             </View>
@@ -140,7 +140,7 @@ export default function SettingsTab() {
               <Text style={styles.langFlag}>{lang.flag}</Text>
               <Text style={styles.langName}>{lang.name}</Text>
               {i18n.language === lang.code && (
-                <Text style={styles.langCheck}>{E.check}</Text>
+                <EmojiIcon name="check" size={22} />
               )}
             </TouchableOpacity>
           ))}
@@ -159,10 +159,10 @@ export default function SettingsTab() {
             {'\n'}Previews used: {subscription.previewsUsed} · Imports used: {subscription.importsUsed}
           </Text>
           <TouchableOpacity style={styles.devBtn} onPress={async () => { await setTier('monthly'); setShowDevPanel(false); Alert.alert('Done', 'Forced to Monthly Pro'); }}>
-            <Text style={styles.devBtnText}>{E.sparkle} Force Monthly Pro</Text>
+            <Text style={styles.devBtnText}>Force Monthly Pro</Text>
           </TouchableOpacity>
           <TouchableOpacity style={styles.devBtn} onPress={async () => { await setTier('annual'); setShowDevPanel(false); Alert.alert('Done', 'Forced to Annual Pro'); }}>
-            <Text style={styles.devBtnText}>{E.sparkle} Force Annual Pro</Text>
+            <Text style={styles.devBtnText}>Force Annual Pro</Text>
           </TouchableOpacity>
           <TouchableOpacity style={[styles.devBtn, styles.devBtnFree]} onPress={async () => { await setTier('free'); setShowDevPanel(false); Alert.alert('Done', 'Forced back to Free'); }}>
             <Text style={[styles.devBtnText, { color: '#EF4444' }]}>Force Free (reset limits)</Text>

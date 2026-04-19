@@ -1,13 +1,16 @@
-import React, { useState } from 'react';
+import React, { useRef, useState } from 'react';
 import {
   View, Text, StyleSheet, TouchableOpacity, Modal, ScrollView, Linking, Alert,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { useRouter } from 'expo-router';
 import { useTranslation } from 'react-i18next';
 import { Colors } from '../../constants/colors';
 import { setLanguage } from '../../constants/i18n';
 import { E } from '../../constants/emoji';
 import ReciMeLogo from '../../components/ReciMeLogo';
+import { useStore } from '../../store';
+import { isPro } from '../../lib/subscription';
 
 const LANGUAGES = [
   { code: 'en', name: 'English', flag: String.fromCodePoint(0x1F1FA, 0x1F1F8) },
@@ -19,7 +22,23 @@ const HELP_URL = 'https://huangrui199126.github.io/receipe-me/help';
 
 export default function SettingsTab() {
   const { t, i18n } = useTranslation();
+  const router = useRouter();
+  const { subscription, setTier } = useStore();
   const [showLangPicker, setShowLangPicker] = useState(false);
+  const [showDevPanel, setShowDevPanel] = useState(false);
+
+  // Dev unlock: tap version row 5 times
+  const tapCount = useRef(0);
+  const tapTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const handleVersionTap = () => {
+    tapCount.current += 1;
+    if (tapTimer.current) clearTimeout(tapTimer.current);
+    tapTimer.current = setTimeout(() => { tapCount.current = 0; }, 2000);
+    if (tapCount.current >= 5) {
+      tapCount.current = 0;
+      setShowDevPanel(true);
+    }
+  };
 
   const currentLang = LANGUAGES.find(l => l.code === i18n.language) ?? LANGUAGES[0];
 
@@ -34,6 +53,8 @@ export default function SettingsTab() {
     );
   };
 
+  const pro = isPro(subscription.tier);
+
   return (
     <SafeAreaView style={styles.safe}>
       <ScrollView contentContainerStyle={styles.content}>
@@ -41,6 +62,33 @@ export default function SettingsTab() {
           <ReciMeLogo size={24} />
         </View>
         <Text style={styles.pageTitle}>{t('settings')}</Text>
+
+        {/* Subscription status / upgrade */}
+        <View style={styles.section}>
+          <TouchableOpacity
+            style={[styles.row, { borderBottomWidth: 0 }]}
+            onPress={() => !pro && router.push('/paywall')}
+          >
+            <View style={styles.rowLeft}>
+              <View style={[styles.iconBadge, { backgroundColor: pro ? '#D1FAE5' : '#FEE2E2' }]}>
+                <Text style={styles.iconText}>{pro ? E.sparkle : E.star}</Text>
+              </View>
+              <View>
+                <Text style={styles.rowLabel}>{pro ? 'ReciMe Pro' : 'Free Plan'}</Text>
+                {!pro && (
+                  <Text style={styles.subLabel}>
+                    {subscription.previewsUsed}/5 previews · {subscription.importsUsed}/5 imports
+                  </Text>
+                )}
+              </View>
+            </View>
+            {!pro && (
+              <View style={styles.upgradeBtn}>
+                <Text style={styles.upgradeBtnText}>Upgrade</Text>
+              </View>
+            )}
+          </TouchableOpacity>
+        </View>
 
         {/* Language */}
         <View style={styles.section}>
@@ -71,10 +119,10 @@ export default function SettingsTab() {
           </TouchableOpacity>
         </View>
 
-        <View style={styles.versionRow}>
+        <TouchableOpacity style={styles.versionRow} onPress={handleVersionTap} activeOpacity={1}>
           <ReciMeLogo size={16} />
           <Text style={styles.version}> v1.0.0</Text>
-        </View>
+        </TouchableOpacity>
       </ScrollView>
 
       {/* Language picker modal */}
@@ -96,6 +144,29 @@ export default function SettingsTab() {
               )}
             </TouchableOpacity>
           ))}
+          <View style={styles.sheetFooter} />
+        </View>
+      </Modal>
+
+      {/* Developer panel — hidden, unlocked by tapping version 5 times */}
+      <Modal visible={showDevPanel} transparent animationType="slide" onRequestClose={() => setShowDevPanel(false)}>
+        <TouchableOpacity style={styles.backdrop} activeOpacity={1} onPress={() => setShowDevPanel(false)} />
+        <View style={styles.sheet}>
+          <View style={styles.sheetHandle} />
+          <Text style={styles.devTitle}>Developer Tools</Text>
+          <Text style={styles.devCurrent}>
+            Current tier: <Text style={{ fontWeight: '700', color: Colors.primary }}>{subscription.tier}</Text>
+            {'\n'}Previews used: {subscription.previewsUsed} · Imports used: {subscription.importsUsed}
+          </Text>
+          <TouchableOpacity style={styles.devBtn} onPress={async () => { await setTier('monthly'); setShowDevPanel(false); Alert.alert('Done', 'Forced to Monthly Pro'); }}>
+            <Text style={styles.devBtnText}>{E.sparkle} Force Monthly Pro</Text>
+          </TouchableOpacity>
+          <TouchableOpacity style={styles.devBtn} onPress={async () => { await setTier('annual'); setShowDevPanel(false); Alert.alert('Done', 'Forced to Annual Pro'); }}>
+            <Text style={styles.devBtnText}>{E.sparkle} Force Annual Pro</Text>
+          </TouchableOpacity>
+          <TouchableOpacity style={[styles.devBtn, styles.devBtnFree]} onPress={async () => { await setTier('free'); setShowDevPanel(false); Alert.alert('Done', 'Forced back to Free'); }}>
+            <Text style={[styles.devBtnText, { color: '#EF4444' }]}>Force Free (reset limits)</Text>
+          </TouchableOpacity>
           <View style={styles.sheetFooter} />
         </View>
       </Modal>
@@ -130,8 +201,11 @@ const styles = StyleSheet.create({
   iconBadge: { width: 36, height: 36, borderRadius: 10, justifyContent: 'center', alignItems: 'center' },
   iconText: { fontSize: 18 },
   rowLabel: { fontSize: 16, fontWeight: '500', color: Colors.text },
+  subLabel: { fontSize: 12, color: Colors.muted, marginTop: 2 },
   rowValue: { fontSize: 15, color: Colors.muted },
   chevron: { fontSize: 20, color: Colors.muted },
+  upgradeBtn: { backgroundColor: Colors.primary, paddingHorizontal: 14, paddingVertical: 7, borderRadius: 10 },
+  upgradeBtnText: { color: '#fff', fontSize: 13, fontWeight: '700' },
   headerRow: { paddingBottom: 4 },
   versionRow: { flexDirection: 'row', justifyContent: 'center', alignItems: 'center', marginTop: 32 },
   version: { color: Colors.muted, fontSize: 13 },
@@ -157,4 +231,10 @@ const styles = StyleSheet.create({
   langName: { flex: 1, fontSize: 17, fontWeight: '500', color: Colors.text },
   langCheck: { fontSize: 22 },
   sheetFooter: { height: 24 },
+  // Dev panel
+  devTitle: { fontSize: 18, fontWeight: '800', color: Colors.text, textAlign: 'center', marginTop: 8, marginBottom: 8 },
+  devCurrent: { fontSize: 13, color: Colors.muted, textAlign: 'center', marginBottom: 20, lineHeight: 20 },
+  devBtn: { backgroundColor: '#EFF6FF', borderRadius: 12, padding: 16, alignItems: 'center', marginBottom: 10 },
+  devBtnFree: { backgroundColor: '#FEF2F2' },
+  devBtnText: { fontSize: 15, fontWeight: '700', color: Colors.primary },
 });

@@ -1,11 +1,21 @@
 import { create } from 'zustand';
 import { Cookbook, Recipe, Ingredient, Step, GroceryList, GroceryItem, MealPlanEntry, UserProfile } from '../db/schema';
 import * as Storage from '../db/storage';
+import { SubscriptionData } from '../db/storage';
+import { currentMonthKey, FREE_LIMITS, isPro, SubscriptionTier } from '../lib/subscription';
 
 interface AppState {
   // Auth/Profile
   userProfile: UserProfile | null;
   onboardingDone: boolean;
+
+  // Subscription
+  subscription: SubscriptionData;
+  setTier: (tier: SubscriptionTier) => Promise<void>;
+  canPreviewRecipe: () => boolean;
+  consumePreview: () => Promise<void>;
+  canImportUrl: () => boolean;
+  consumeImport: () => Promise<void>;
 
   // Cookbooks
   cookbooks: Cookbook[];
@@ -43,6 +53,14 @@ interface AppState {
   addMealPlanToGroceries: (entries: MealPlanEntry[]) => Promise<void>;
 }
 
+function resetUsageIfNewMonth(sub: SubscriptionData): SubscriptionData {
+  const month = currentMonthKey();
+  if (sub.usageMonth !== month) {
+    return { ...sub, importsUsed: 0, previewsUsed: 0, usageMonth: month };
+  }
+  return sub;
+}
+
 export const useStore = create<AppState>((set, get) => ({
   userProfile: null,
   onboardingDone: false,
@@ -51,21 +69,58 @@ export const useStore = create<AppState>((set, get) => ({
   activeGroceryList: null,
   groceryItems: [],
   mealPlanEntries: [],
+  subscription: { tier: 'free', importsUsed: 0, previewsUsed: 0, usageMonth: '' },
+
+  setTier: async (tier) => {
+    const sub = resetUsageIfNewMonth({ ...get().subscription, tier });
+    await Storage.saveSubscription(sub);
+    set({ subscription: sub });
+  },
+
+  canPreviewRecipe: () => {
+    const sub = resetUsageIfNewMonth(get().subscription);
+    if (isPro(sub.tier)) return true;
+    return sub.previewsUsed < FREE_LIMITS.previewsPerMonth;
+  },
+
+  consumePreview: async () => {
+    const sub = resetUsageIfNewMonth(get().subscription);
+    if (isPro(sub.tier)) return;
+    const updated = { ...sub, previewsUsed: sub.previewsUsed + 1 };
+    await Storage.saveSubscription(updated);
+    set({ subscription: updated });
+  },
+
+  canImportUrl: () => {
+    const sub = resetUsageIfNewMonth(get().subscription);
+    if (isPro(sub.tier)) return true;
+    return sub.importsUsed < FREE_LIMITS.importsPerMonth;
+  },
+
+  consumeImport: async () => {
+    const sub = resetUsageIfNewMonth(get().subscription);
+    if (isPro(sub.tier)) return;
+    const updated = { ...sub, importsUsed: sub.importsUsed + 1 };
+    await Storage.saveSubscription(updated);
+    set({ subscription: updated });
+  },
 
   loadInitial: async () => {
-    const [profile, done, cookbooks, recipes, groceryList] = await Promise.all([
+    const [profile, done, cookbooks, recipes, groceryList, rawSub] = await Promise.all([
       Storage.getUserProfile(),
       Storage.isOnboardingDone(),
       Storage.getCookbooks(),
       Storage.getRecipes(),
       Storage.getActiveGroceryList(),
+      Storage.getSubscription(),
     ]);
+    const subscription = resetUsageIfNewMonth(rawSub);
     let groceryItems: GroceryItem[] = [];
     if (groceryList) {
       groceryItems = await Storage.getGroceryItems(groceryList.id);
     }
     const mealPlanEntries = await Storage.getMealPlanEntries();
-    set({ userProfile: profile, onboardingDone: done, cookbooks, recipes, activeGroceryList: groceryList, groceryItems, mealPlanEntries });
+    set({ userProfile: profile, onboardingDone: done, cookbooks, recipes, activeGroceryList: groceryList, groceryItems, mealPlanEntries, subscription });
   },
 
   saveUserProfile: async (profile) => {

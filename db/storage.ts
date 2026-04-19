@@ -13,6 +13,7 @@ const KEYS = {
   GROCERY_ITEMS: 'grocery_items',
   MEAL_PLAN: 'meal_plan',
   ONBOARDING_DONE: 'onboarding_done',
+  SUBSCRIPTION: 'subscription',
 };
 
 async function getAll<T>(key: string): Promise<T[]> {
@@ -201,4 +202,25 @@ export async function saveMealPlanEntry(entry: MealPlanEntry): Promise<void> {
 export async function deleteMealPlanEntry(id: string): Promise<void> {
   const all = await getMealPlanEntries();
   await setAll(KEYS.MEAL_PLAN, all.filter(e => e.id !== id));
+}
+
+// Subscription
+export interface SubscriptionData {
+  tier: 'free' | 'monthly' | 'annual';
+  importsUsed: number;
+  previewsUsed: number;
+  usageMonth: string; // "YYYY-MM"
+}
+
+const DEFAULT_SUBSCRIPTION: SubscriptionData = {
+  tier: 'free', importsUsed: 0, previewsUsed: 0, usageMonth: '',
+};
+
+export async function getSubscription(): Promise<SubscriptionData> {
+  const raw = await AsyncStorage.getItem(KEYS.SUBSCRIPTION);
+  return raw ? { ...DEFAULT_SUBSCRIPTION, ...JSON.parse(raw) } : DEFAULT_SUBSCRIPTION;
+}
+
+export async function saveSubscription(data: SubscriptionData): Promise<void> {
+  await AsyncStorage.setItem(KEYS.SUBSCRIPTION, JSON.stringify(data));
 }

@@ -90,7 +90,7 @@ function HealthBadge({ score }: { score: number }) {
 function TrendingSegment() {
   const router = useRouter();
   const insets = useSafeAreaInsets();
-  const { cookbooks, recipes: savedRecipes, saveRecipe, addCookbook, userProfile } = useStore();
+  const { cookbooks, recipes: savedRecipes, saveRecipe, addCookbook, userProfile, canPreviewRecipe, consumePreview } = useStore();
   const [recipes, setRecipes] = useState<TrendingRecipe[]>([]);
   const [loading, setLoading] = useState(true);
   const [refreshing, setRefreshing] = useState(false);
@@ -184,7 +184,12 @@ function TrendingSegment() {
           return (
             <TouchableOpacity
               style={tStyles.card}
-              onPress={() => { setSavedRecipeId(null); setPreviewItem(item); }}
+              onPress={() => {
+              if (!canPreviewRecipe()) { router.push('/paywall'); return; }
+              consumePreview();
+              setSavedRecipeId(null);
+              setPreviewItem(item);
+            }}
               activeOpacity={0.85}
             >
               <View style={tStyles.imageWrap}>

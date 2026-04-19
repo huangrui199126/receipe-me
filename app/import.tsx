@@ -16,7 +16,7 @@ type ImportStep = 'method' | 'url' | 'paste' | 'camera' | 'importing' | 'preview
 
 export default function ImportScreen() {
   const router = useRouter();
-  const { cookbooks, saveRecipe } = useStore();
+  const { cookbooks, saveRecipe, canImportUrl, consumeImport } = useStore();
 
   const [step, setStep] = useState<ImportStep>('method');
   const [url, setUrl] = useState('');
@@ -52,10 +52,15 @@ export default function ImportScreen() {
   // ── URL import ───────────────────────────────────────────────────────────────
   const handleUrlImport = async () => {
     if (!url.trim()) return;
+    if (!canImportUrl()) {
+      router.push('/paywall');
+      return;
+    }
     setStep('importing');
     setError('');
     try {
       const result = await importFromUrl(url.trim());
+      await consumeImport();
       setImported(result);
       setStep('preview');
     } catch (e: any) {

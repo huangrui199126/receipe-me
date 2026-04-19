@@ -7,6 +7,7 @@ import { useTranslation } from 'react-i18next';
 import { Colors } from '../../constants/colors';
 import { setLanguage } from '../../constants/i18n';
 import { E } from '../../constants/emoji';
+import ReciMeLogo from '../../components/ReciMeLogo';
 
 const LANGUAGES = [
   { code: 'en', name: 'English', flag: String.fromCodePoint(0x1F1FA, 0x1F1F8) },
@@ -36,6 +37,9 @@ export default function SettingsTab() {
   return (
     <SafeAreaView style={styles.safe}>
       <ScrollView contentContainerStyle={styles.content}>
+        <View style={styles.headerRow}>
+          <ReciMeLogo size={24} />
+        </View>
         <Text style={styles.pageTitle}>{t('settings')}</Text>
 
         {/* Language */}
@@ -67,7 +71,10 @@ export default function SettingsTab() {
           </TouchableOpacity>
         </View>
 
-        <Text style={styles.version}>ReciMe v1.0.0</Text>
+        <View style={styles.versionRow}>
+          <ReciMeLogo size={16} />
+          <Text style={styles.version}> v1.0.0</Text>
+        </View>
       </ScrollView>
 
       {/* Language picker modal */}
@@ -125,7 +132,9 @@ const styles = StyleSheet.create({
   rowLabel: { fontSize: 16, fontWeight: '500', color: Colors.text },
   rowValue: { fontSize: 15, color: Colors.muted },
   chevron: { fontSize: 20, color: Colors.muted },
-  version: { textAlign: 'center', color: Colors.muted, fontSize: 13, marginTop: 32 },
+  headerRow: { paddingBottom: 4 },
+  versionRow: { flexDirection: 'row', justifyContent: 'center', alignItems: 'center', marginTop: 32 },
+  version: { color: Colors.muted, fontSize: 13 },
   // Language picker
   backdrop: { flex: 1, backgroundColor: 'rgba(0,0,0,0.4)' },
   sheet: {

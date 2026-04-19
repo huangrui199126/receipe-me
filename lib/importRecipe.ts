@@ -13,6 +13,33 @@ export interface ImportedRecipe {
   nutrition: { calories: number; protein: number; carbs: number; fat: number } | null;
 }
 
+function decodeHtmlEntities(text: string): string {
+  return text
+    .replace(/&amp;/gi, '&')
+    .replace(/&lt;/gi, '<')
+    .replace(/&gt;/gi, '>')
+    .replace(/&quot;/gi, '"')
+    .replace(/&#x27;/gi, "'")
+    .replace(/&#x2019;/gi, '\u2019')
+    .replace(/&#x2018;/gi, '\u2018')
+    .replace(/&#x2014;/gi, '\u2014')
+    .replace(/&#x2013;/gi, '\u2013')
+    .replace(/&#x2026;/gi, '\u2026')
+    .replace(/&#x([0-9a-f]+);/gi, (_, hex) => String.fromCodePoint(parseInt(hex, 16)))
+    .replace(/&#(\d+);/gi, (_, dec) => String.fromCodePoint(parseInt(dec, 10)))
+    .replace(/&apos;/gi, "'")
+    .replace(/&nbsp;/gi, ' ');
+}
+
+function cleanSocialTitle(title: string, platform: string): string {
+  // Strip "Username on Platform: " prefix
+  const prefixPattern = new RegExp(`^[^:]{1,60}\\s+on\\s+${platform}\\s*:\\s*`, 'i');
+  let clean = title.replace(prefixPattern, '');
+  // Also strip generic "on Instagram:" / "on TikTok:" patterns
+  clean = clean.replace(/^.{1,60}\s+on\s+(instagram|tiktok|pinterest)\s*:\s*/i, '');
+  return clean.trim() || title;
+}
+
 const INGREDIENT_EMOJIS: Record<string, string> = {
   chicken: '🍗', beef: '🥩', pork: '🥩', fish: '🐟', salmon: '🐟', shrimp: '🦐',
   egg: '🥚', butter: '🧈', milk: '🥛', cheese: '🧀', cream: '🥛',
@@ -39,17 +66,55 @@ export async function importFromUrl(url: string): Promise<ImportedRecipe> {
   };
 
   // For Pinterest short URLs (pin.it) and full pins: find the linked recipe website
-  if (url.includes('pin.it') || url.includes('pinterest.com/pin/')) {
+  if (url.includes('pin.it') || url.includes('pinterest.com')) {
     const res = await fetch(url, { headers: HEADERS });
     const html = await res.text();
-    // Look for the external source URL in the pin page
-    const sourceMatch = html.match(/["']url["']\s*:\s*["'](https?:\/\/(?!www\.pinterest\.)[^"']+)["']/i)
-      ?? html.match(/href=["'](https?:\/\/(?!www\.pinterest\.)[^"']{20,})["'][^>]*>\s*(?:Visit|Source|Original)/i);
-    if (sourceMatch?.[1]) {
-      try { return await importFromUrl(sourceMatch[1]); } catch {}
+
+    // Pinterest stores the external link in JSON as "link":"https://..."
+    // URLs may use Unicode escapes like \u002F for /
+    const unescapeUrl = (s: string) =>
+      s.replace(/\\u002F/gi, '/').replace(/\\u003A/gi, ':').replace(/\\\//g, '/').replace(/\\u0026/gi, '&');
+
+    const linkPatterns = [
+      /"link"\s*:\s*"(https?:[^"\\]+(?:\\.[^"\\]*)*)"/,
+      /"source_url"\s*:\s*"(https?:[^"\\]+(?:\\.[^"\\]*)*)"/,
+      /\\"link\\"\s*:\s*\\"(https?:[^\\]+)\\"/,
+    ];
+
+    for (const pattern of linkPatterns) {
+      const match = html.match(pattern);
+      if (match?.[1]) {
+        const externalUrl = unescapeUrl(match[1]);
+        if (!externalUrl.includes('pinterest.com') && externalUrl.startsWith('http')) {
+          try { return await importFromUrl(externalUrl); } catch {}
+        }
+      }
     }
-    // Fallback to OG tags + description parsing
-    return parseFromMetaTags(html, url);
+
+    // Fallback: try parsing pin description as recipe text + use OG image
+    const ogImage = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)?.[1];
+    const rawOgTitle = (html.match(/<meta[^>]+property=["']og:title["'][^>]+content=["']([^"']+)["']/i)
+      ?? html.match(/<title>([^<]+)<\/title>/i))?.[1];
+    const ogTitle = rawOgTitle ? decodeHtmlEntities(rawOgTitle).replace(/\s*[|\-–]\s*Pinterest.*$/i, '').trim() : undefined;
+    const rawOgDesc = html.match(/<meta[^>]+(?:property=["']og:description["']|name=["']description["'])[^>]+content=["']([^"']{30,})["']/i)?.[1];
+    const ogDesc = rawOgDesc ? decodeHtmlEntities(rawOgDesc) : undefined;
+
+    if (ogDesc) {
+      try {
+        const parsed = parseRecipeText(ogDesc.replace(/\\n/g, '\n'));
+        if (parsed.ingredients.length > 0 || parsed.steps.length > 2) {
+          return { ...parsed, imageUri: ogImage ?? '', title: ogTitle ?? parsed.title, sourceUrl: url, sourcePlatform: 'Pinterest' };
+        }
+      } catch {}
+    }
+
+    return {
+      title: ogTitle ?? 'Pinterest Recipe',
+      imageUri: ogImage ?? '',
+      servings: 4, prepTime: 0, cookTime: 0,
+      sourceUrl: url, sourcePlatform: 'Pinterest',
+      ingredients: [], steps: [], nutrition: null,
+    };
   }
 
   // For Instagram / TikTok: extract OG description and try to parse as recipe text
@@ -59,12 +124,15 @@ export async function importFromUrl(url: string): Promise<ImportedRecipe> {
     const descMatch = html.match(/<meta[^>]+(?:property=["']og:description["']|name=["']description["'])[^>]+content=["']([^"']{50,})["']/i);
     if (descMatch?.[1]) {
       try {
-        const parsed = parseRecipeText(descMatch[1].replace(/\\n/g, '\n'));
+        const rawDesc = decodeHtmlEntities(descMatch[1]).replace(/\\n/g, '\n');
+        const parsed = parseRecipeText(rawDesc);
         if (parsed.ingredients.length > 2 || parsed.steps.length > 2) {
-          // Extract OG image too
           const imgMatch = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
           const titleMatch = html.match(/<meta[^>]+property=["']og:title["'][^>]+content=["']([^"']+)["']/i);
-          return { ...parsed, imageUri: imgMatch?.[1] ?? '', title: titleMatch?.[1] ?? parsed.title, sourceUrl: url, sourcePlatform: detectPlatform(url) };
+          const platform = detectPlatform(url);
+          const rawTitle = titleMatch?.[1] ? decodeHtmlEntities(titleMatch[1]) : parsed.title;
+          const cleanTitle = cleanSocialTitle(rawTitle, platform);
+          return { ...parsed, imageUri: imgMatch?.[1] ?? '', title: cleanTitle, sourceUrl: url, sourcePlatform: platform };
         }
       } catch {}
     }
@@ -161,7 +229,7 @@ function parseFromMetaTags(html: string, url: string): ImportedRecipe {
   const titleMatch = html.match(/<meta[^>]+property=["']og:title["'][^>]+content=["']([^"']+)["']/i)
     ?? html.match(/<title>([^<]+)<\/title>/i);
   const imageMatch = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-  const title = titleMatch?.[1] ?? 'Imported Recipe';
+  const title = decodeHtmlEntities(titleMatch?.[1] ?? 'Imported Recipe');
   const imageUri = imageMatch?.[1] ?? '';
   return {
     title, imageUri, servings: 4, prepTime: 0, cookTime: 0,

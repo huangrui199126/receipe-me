@@ -8,6 +8,7 @@ import { Image } from 'expo-image';
 import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { useRouter } from 'expo-router';
 import { Colors } from '../constants/colors';
+import ReciMeLogo from '../components/ReciMeLogo';
 import { TrendingRecipe } from '../lib/trendingRecipes';
 import { fetchTrendingRecipes, refreshTrendingRecipes } from '../lib/trendingApi';
 import { useStore } from '../store';
@@ -312,7 +313,7 @@ export default function TrendingScreen() {
           <View style={{ flex: 1, backgroundColor: '#fff' }}>
             {/* Modal header */}
             <View style={[styles.modalHeader, { paddingTop: insets.top + 8 }]}>
-              <Text style={styles.modalLogo}>ReciMe</Text>
+              <ReciMeLogo size={20} />
               <TouchableOpacity onPress={closePreview}>
                 <Text style={styles.cancelBtn}>Cancel</Text>
               </TouchableOpacity>

@@ -6,7 +6,7 @@ import {
 } from 'react-native';
 import { Image } from 'expo-image';
 import { useRouter } from 'expo-router';
-import { SafeAreaView } from 'react-native-safe-area-context';
+import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { useTranslation } from 'react-i18next';
 import { Colors } from '../../constants/colors';
 import { useStore } from '../../store';
@@ -89,11 +89,14 @@ function HealthBadge({ score }: { score: number }) {
 
 function TrendingSegment() {
   const router = useRouter();
+  const insets = useSafeAreaInsets();
   const { cookbooks, recipes: savedRecipes, saveRecipe, addCookbook, userProfile } = useStore();
   const [recipes, setRecipes] = useState<TrendingRecipe[]>([]);
   const [loading, setLoading] = useState(true);
   const [refreshing, setRefreshing] = useState(false);
   const [importing, setImporting] = useState<string | null>(null);
+  const [previewItem, setPreviewItem] = useState<TrendingRecipe | null>(null);
+  const [savedRecipeId, setSavedRecipeId] = useState<string | null>(null);
 
   const saved = new Set(
     savedRecipes
@@ -112,9 +115,15 @@ function TrendingSegment() {
     setRefreshing(false);
   };
 
-  const handleSave = async (item: TrendingRecipe) => {
-    if (importing) return;
-    setImporting(item.id);
+  const closePreview = () => {
+    setPreviewItem(null);
+    setSavedRecipeId(null);
+    setImporting(null);
+  };
+
+  const handleSave = async () => {
+    if (!previewItem || importing) return;
+    setImporting(previewItem.id);
     let cookbookId = cookbooks[0]?.id ?? 'favorites';
     if (!cookbooks.find(c => c.id === cookbookId)) {
       const fav: Cookbook = {
@@ -124,24 +133,24 @@ function TrendingSegment() {
       await addCookbook(fav);
       cookbookId = fav.id;
     }
-    const recipeId = `recipe_${item.id}_${Date.now()}`;
+    const recipeId = `recipe_${previewItem.id}_${Date.now()}`;
     const recipe: Recipe = {
-      id: recipeId, cookbookId, title: item.title, imageUri: item.image,
-      servings: item.servings, prepTime: item.prepTime, cookTime: item.cookTime,
-      sourceUrl: null, sourcePlatform: item.sourcePlatform,
-      nutrition: item.nutrition, tags: item.tags, createdAt: new Date().toISOString(),
+      id: recipeId, cookbookId, title: previewItem.title, imageUri: previewItem.image,
+      servings: previewItem.servings, prepTime: previewItem.prepTime, cookTime: previewItem.cookTime,
+      sourceUrl: null, sourcePlatform: previewItem.sourcePlatform,
+      nutrition: previewItem.nutrition, tags: previewItem.tags, createdAt: new Date().toISOString(),
     };
-    const ingredients: Ingredient[] = item.ingredients.map((ing, i) => ({
+    const ingredients: Ingredient[] = previewItem.ingredients.map((ing, i) => ({
       id: `ing_${recipeId}_${i}`, recipeId, section: ing.section,
       name: ing.name, amount: ing.amount, unit: ing.unit, emoji: ing.emoji, order: i,
     }));
-    const steps: Step[] = item.steps.map(s => ({
+    const steps: Step[] = previewItem.steps.map(s => ({
       id: `step_${recipeId}_${s.order}`, recipeId,
       order: s.order, instruction: s.instruction, imageUri: s.imageUri,
     }));
     await saveRecipe(recipe, ingredients, steps);
+    setSavedRecipeId(recipeId);
     setImporting(null);
-    Alert.alert('Saved!', `"${item.title}" added to your cookbook.`);
   };
 
   const goals = userProfile?.goals ?? [];
@@ -162,48 +171,140 @@ function TrendingSegment() {
   }
 
   return (
-    <FlatList
-      data={ranked}
-      keyExtractor={item => item.id}
-      numColumns={2}
-      contentContainerStyle={tStyles.list}
-      columnWrapperStyle={tStyles.row}
-      refreshControl={<RefreshControl refreshing={refreshing} onRefresh={handleRefresh} tintColor={Colors.primary} />}
-      renderItem={({ item }) => {
-        const isSaved = saved.has(item.id);
-        const isImporting = importing === item.id;
-        return (
-          <TouchableOpacity
-            style={tStyles.card}
-            onPress={() => router.push('/trending')}
-            activeOpacity={0.85}
-          >
-            <View style={tStyles.imageWrap}>
-              <Image source={{ uri: item.image }} style={tStyles.image} contentFit="cover" />
-              {isSaved && (
-                <View style={tStyles.savedOverlay}>
-                  <Text style={tStyles.savedCheck}>{E.check} Saved</Text>
-                </View>
-              )}
-            </View>
-            <View style={tStyles.cardBody}>
-              <Text style={tStyles.source}>{item.sourcePlatform}</Text>
-              <Text style={tStyles.cardTitle} numberOfLines={2}>{item.title}</Text>
-              <HealthBadge score={item.healthScore} />
-              <TouchableOpacity
-                style={[tStyles.saveBtn, (isSaved || isImporting) && { opacity: 0.5 }]}
-                onPress={() => handleSave(item)}
-                disabled={isSaved || isImporting}
-              >
-                {isImporting
-                  ? <ActivityIndicator size="small" color="#fff" />
-                  : <Text style={tStyles.saveBtnText}>{isSaved ? 'Saved' : '+ Save'}</Text>}
+    <>
+      <FlatList
+        data={ranked}
+        keyExtractor={item => item.id}
+        numColumns={2}
+        contentContainerStyle={tStyles.list}
+        columnWrapperStyle={tStyles.row}
+        refreshControl={<RefreshControl refreshing={refreshing} onRefresh={handleRefresh} tintColor={Colors.primary} />}
+        renderItem={({ item }) => {
+          const isSaved = saved.has(item.id);
+          return (
+            <TouchableOpacity
+              style={tStyles.card}
+              onPress={() => { setSavedRecipeId(null); setPreviewItem(item); }}
+              activeOpacity={0.85}
+            >
+              <View style={tStyles.imageWrap}>
+                <Image source={{ uri: item.image }} style={tStyles.image} contentFit="cover" />
+                {isSaved && (
+                  <View style={tStyles.savedOverlay}>
+                    <Text style={tStyles.savedCheck}>{E.check} Saved</Text>
+                  </View>
+                )}
+              </View>
+              <View style={tStyles.cardBody}>
+                <Text style={tStyles.source}>{item.sourcePlatform}</Text>
+                <Text style={tStyles.cardTitle} numberOfLines={2}>{item.title}</Text>
+                <HealthBadge score={item.healthScore} />
+              </View>
+            </TouchableOpacity>
+          );
+        }}
+      />
+
+      {/* Inline preview modal */}
+      <Modal
+        visible={!!previewItem}
+        animationType="slide"
+        presentationStyle="pageSheet"
+        onRequestClose={closePreview}
+      >
+        {previewItem && (
+          <View style={{ flex: 1, backgroundColor: '#fff' }}>
+            <View style={[tStyles.modalHeader, { paddingTop: insets.top + 8 }]}>
+              <ReciMeLogo size={20} />
+              <TouchableOpacity onPress={closePreview}>
+                <Text style={tStyles.modalCancel}>Cancel</Text>
               </TouchableOpacity>
             </View>
-          </TouchableOpacity>
-        );
-      }}
-    />
+
+            <View style={tStyles.sourceBanner}>
+              <Text style={tStyles.sourceBannerText}>From {previewItem.sourcePlatform}  ↗</Text>
+            </View>
+
+            <ScrollView contentContainerStyle={{ paddingBottom: 160 }} showsVerticalScrollIndicator={false}>
+              <View style={tStyles.heroRow}>
+                <Image source={{ uri: previewItem.image }} style={tStyles.heroImg} contentFit="cover" />
+                <View style={{ flex: 1 }}>
+                  <Text style={tStyles.heroTitle}>{previewItem.title.toUpperCase()}</Text>
+                  <View style={tStyles.heroMeta}>
+                    <Text style={tStyles.heroMetaText}>{String.fromCodePoint(0x23F1)} {previewItem.prepTime + previewItem.cookTime} min</Text>
+                    <Text style={tStyles.heroMetaText}>{String.fromCodePoint(0x1F37D)} {previewItem.servings} servings</Text>
+                  </View>
+                  <HealthBadge score={previewItem.healthScore} />
+                </View>
+              </View>
+
+              <View style={tStyles.divider} />
+              <View style={tStyles.nutritionBand}>
+                {[
+                  { label: 'Calories', value: `${previewItem.nutrition.calories}` },
+                  { label: 'Protein', value: `${previewItem.nutrition.protein}g` },
+                  { label: 'Carbs', value: `${previewItem.nutrition.carbs}g` },
+                  { label: 'Fat', value: `${previewItem.nutrition.fat}g` },
+                ].map(n => (
+                  <View key={n.label} style={tStyles.nutritionCell}>
+                    <Text style={tStyles.nutritionVal}>{n.value}</Text>
+                    <Text style={tStyles.nutritionLbl}>{n.label}</Text>
+                  </View>
+                ))}
+              </View>
+              <View style={tStyles.divider} />
+
+              <Text style={tStyles.sectionLabel}>INGREDIENTS</Text>
+              {previewItem.ingredients.map((ing, i) => (
+                <View key={i} style={tStyles.ingRow}>
+                  <Text style={tStyles.ingEmoji}>{ing.emoji}</Text>
+                  <Text style={tStyles.ingAmount}>{ing.amount} {ing.unit}</Text>
+                  <Text style={tStyles.ingName}>{ing.name}</Text>
+                </View>
+              ))}
+
+              <View style={tStyles.divider} />
+              <Text style={tStyles.sectionLabel}>STEPS</Text>
+              {previewItem.steps.map((s, i) => (
+                <View key={i} style={tStyles.stepRow}>
+                  <View style={tStyles.stepNum}>
+                    <Text style={tStyles.stepNumText}>{s.order}</Text>
+                  </View>
+                  <Text style={tStyles.stepText}>{s.instruction}</Text>
+                </View>
+              ))}
+            </ScrollView>
+
+            <View style={[tStyles.saveBar, { paddingBottom: insets.bottom + 12 }]}>
+              <TouchableOpacity
+                style={[tStyles.modalSaveBtn, importing === previewItem.id && { opacity: 0.6 }]}
+                onPress={handleSave}
+                disabled={importing !== null || !!savedRecipeId}
+              >
+                {importing === previewItem.id
+                  ? <ActivityIndicator color="#fff" />
+                  : <Text style={tStyles.modalSaveBtnText}>{savedRecipeId ? 'Saved!' : 'Save recipe'}</Text>}
+              </TouchableOpacity>
+            </View>
+
+            {savedRecipeId && (
+              <View style={tStyles.successOverlay}>
+                <View style={tStyles.successCard}>
+                  <Text style={{ fontSize: 64 }}>{String.fromCodePoint(0x1F9D1, 0x200D, 0x1F373)}</Text>
+                  <Text style={tStyles.successTitle}>Recipe saved!</Text>
+                  <TouchableOpacity style={tStyles.openBtn} onPress={() => { closePreview(); router.push(`/recipe/${savedRecipeId}`); }}>
+                    <Text style={tStyles.openBtnText}>{String.fromCodePoint(0x2197)}  Open recipe</Text>
+                  </TouchableOpacity>
+                  <TouchableOpacity style={tStyles.doneBtn} onPress={closePreview}>
+                    <Text style={tStyles.doneBtnText}>Done</Text>
+                  </TouchableOpacity>
+                </View>
+              </View>
+            )}
+          </View>
+        )}
+      </Modal>
+    </>
   );
 }
 
@@ -437,4 +538,38 @@ const tStyles = StyleSheet.create({
   badgeText: { color: '#fff', fontSize: 10, fontWeight: '700' },
   saveBtn: { backgroundColor: Colors.primary, borderRadius: 8, paddingVertical: 7, alignItems: 'center' },
   saveBtnText: { color: '#fff', fontSize: 12, fontWeight: '700' },
+  // Preview modal
+  modalHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', paddingHorizontal: 20, paddingBottom: 12, borderBottomWidth: 1, borderBottomColor: Colors.border },
+  modalCancel: { fontSize: 16, color: Colors.text },
+  sourceBanner: { backgroundColor: '#FEFCE8', paddingHorizontal: 20, paddingVertical: 10, justifyContent: 'center', alignItems: 'center' },
+  sourceBannerText: { fontSize: 13, color: '#92400E', fontWeight: '500' },
+  heroRow: { flexDirection: 'row', padding: 20, gap: 14, alignItems: 'flex-start' },
+  heroImg: { width: 100, height: 100, borderRadius: 12 },
+  heroTitle: { fontSize: 17, fontWeight: '800', color: Colors.text, lineHeight: 22, flex: 1 },
+  heroMeta: { flexDirection: 'row', gap: 12, marginTop: 6, marginBottom: 6 },
+  heroMetaText: { fontSize: 12, color: Colors.muted },
+  divider: { height: 1, backgroundColor: Colors.border, marginHorizontal: 20, marginVertical: 4 },
+  nutritionBand: { flexDirection: 'row', paddingVertical: 14, paddingHorizontal: 20 },
+  nutritionCell: { flex: 1, alignItems: 'center' },
+  nutritionVal: { fontSize: 16, fontWeight: '700', color: Colors.text },
+  nutritionLbl: { fontSize: 11, color: Colors.muted, marginTop: 2 },
+  sectionLabel: { fontSize: 12, fontWeight: '700', color: Colors.accent, paddingHorizontal: 20, paddingTop: 16, paddingBottom: 8, letterSpacing: 0.8 },
+  ingRow: { flexDirection: 'row', alignItems: 'center', paddingHorizontal: 20, paddingVertical: 8, gap: 10 },
+  ingEmoji: { fontSize: 20, width: 28 },
+  ingAmount: { fontSize: 14, fontWeight: '700', color: Colors.text, minWidth: 60 },
+  ingName: { flex: 1, fontSize: 14, color: Colors.text },
+  stepRow: { flexDirection: 'row', paddingHorizontal: 20, paddingVertical: 10, gap: 14, alignItems: 'flex-start' },
+  stepNum: { width: 28, height: 28, borderRadius: 14, backgroundColor: Colors.primary, justifyContent: 'center', alignItems: 'center', flexShrink: 0, marginTop: 2 },
+  stepNumText: { color: '#fff', fontSize: 13, fontWeight: '700' },
+  stepText: { flex: 1, fontSize: 14, lineHeight: 22, color: Colors.text },
+  saveBar: { position: 'absolute', bottom: 0, left: 0, right: 0, paddingHorizontal: 20, paddingTop: 12, backgroundColor: '#fff', borderTopWidth: 1, borderTopColor: Colors.border },
+  modalSaveBtn: { height: 48, borderRadius: 12, backgroundColor: Colors.primary, justifyContent: 'center', alignItems: 'center' },
+  modalSaveBtnText: { color: '#fff', fontSize: 16, fontWeight: '700' },
+  successOverlay: { ...StyleSheet.absoluteFillObject, backgroundColor: 'rgba(0,0,0,0.35)', justifyContent: 'flex-end' },
+  successCard: { backgroundColor: '#fff', borderTopLeftRadius: 28, borderTopRightRadius: 28, paddingHorizontal: 32, paddingTop: 32, paddingBottom: 48, alignItems: 'center' },
+  successTitle: { fontSize: 22, fontWeight: '800', color: Colors.text, marginBottom: 24, marginTop: 8 },
+  openBtn: { width: '100%', height: 52, borderRadius: 14, backgroundColor: Colors.primary, justifyContent: 'center', alignItems: 'center', marginBottom: 14 },
+  openBtnText: { color: '#fff', fontSize: 16, fontWeight: '700' },
+  doneBtn: { paddingVertical: 8 },
+  doneBtnText: { fontSize: 16, color: Colors.primary, fontWeight: '600' },
 });

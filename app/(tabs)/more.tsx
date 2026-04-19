@@ -16,11 +16,6 @@ export default function MoreTab() {
   const sections: { items: MenuItem[] }[] = [
     {
       items: [
-        { icon: '👑', label: t('upgrade'), accent: true },
-      ],
-    },
-    {
-      items: [
         { icon: '🔥', label: t('trending') },
         { icon: '⚡', label: t('shortcut') },
         { icon: '📖', label: t('import_guides') },

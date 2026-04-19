@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import {
   View, Text, StyleSheet, ScrollView, TouchableOpacity,
-  Switch, Animated, Dimensions, Image, Platform,
+  Animated,
 } from 'react-native';
 import { useRouter } from 'expo-router';
 import { useTranslation } from 'react-i18next';
@@ -12,9 +12,7 @@ import Button from '../components/ui/Button';
 import ReciMeLogo from '../components/ReciMeLogo';
 import { UserProfile } from '../db/schema';
 
-const { width } = Dimensions.get('window');
-
-const TOTAL_STEPS = 10;
+const TOTAL_STEPS = 8;
 
 export default function Onboarding() {
   const { t } = useTranslation();
@@ -26,8 +24,6 @@ export default function Onboarding() {
   const [ageRange, setAgeRange] = useState('');
   const [referral, setReferral] = useState('');
   const [recipeSources, setRecipeSources] = useState<string[]>([]);
-  const [selectedPlan, setSelectedPlan] = useState<'free' | 'paid'>('free');
-  const [remindMe, setRemindMe] = useState(true);
   const [loading, setLoading] = useState(false);
 
   const fadeAnim = useRef(new Animated.Value(1)).current;
@@ -58,7 +54,7 @@ export default function Onboarding() {
       ageRange,
       referralSource: referral,
       isPlusMember: false,
-      trialStartDate: selectedPlan === 'free' ? new Date().toISOString() : null,
+      trialStartDate: null,
       createdAt: new Date().toISOString(),
     };
     await saveUserProfile(profile);
@@ -81,17 +77,7 @@ export default function Onboarding() {
       case 4: return <AgeStep selected={ageRange} onSelect={(a: string) => { setAgeRange(a); goNext(); }} t={t} />;
       case 5: return <LoadingStep text={t('onboarding_customizing')} onDone={goNext} t={t} />;
       case 6: return <ChartStep onNext={goNext} t={t} />;
-      case 7: return <OrganizeStep onNext={goNext} t={t} />;
-      case 8: return <TrialInfoStep onNext={goNext} t={t} />;
-      case 9: return <PaywallStep
-        selected={selectedPlan}
-        onSelect={setSelectedPlan}
-        remindMe={remindMe}
-        onToggleRemind={setRemindMe}
-        onRedeem={handleComplete}
-        loading={loading}
-        t={t}
-      />;
+      case 7: return <OrganizeStep onNext={handleComplete} t={t} />;
       default: return null;
     }
   };
@@ -100,14 +86,14 @@ export default function Onboarding() {
     <SafeAreaView style={styles.safe}>
       {/* Header */}
       <View style={styles.header}>
-        {step > 0 && step < 9 && (
+        {step > 0 && step < TOTAL_STEPS - 1 && (
           <TouchableOpacity onPress={goBack} style={styles.backBtn}>
             <Text style={styles.backArrow}>‹</Text>
           </TouchableOpacity>
         )}
         <ReciMeLogo size={22} />
-        {step < 8 && (
-          <TouchableOpacity onPress={() => setStep(9)} style={styles.skipBtn}>
+        {step < TOTAL_STEPS - 1 && (
+          <TouchableOpacity onPress={handleComplete} style={styles.skipBtn}>
             <Text style={styles.skipText}>{t('skip')}</Text>
           </TouchableOpacity>
         )}
@@ -298,85 +284,6 @@ function OrganizeStep({ onNext, t }: any) {
   );
 }
 
-function TrialInfoStep({ onNext, t }: any) {
-  return (
-    <View style={[styles.stepContent, styles.centered]}>
-      <View style={styles.trialText}>
-        <Text style={styles.trialLine}>We offer</Text>
-        <Text style={[styles.trialLine, { color: Colors.accent }]}>7 Days for free</Text>
-        <Text style={styles.trialLine}>so everyone can cook</Text>
-        <Text style={styles.trialLine}>with ReciMe.</Text>
-      </View>
-      <Button label={t('continue_btn')} onPress={onNext} variant="purple" style={styles.cta} />
-    </View>
-  );
-}
-
-function PaywallStep({ selected, onSelect, remindMe, onToggleRemind, onRedeem, loading, t }: any) {
-  return (
-    <ScrollView contentContainerStyle={styles.stepContent}>
-      <Text style={styles.title}>{t('onboarding_paywall_title')}</Text>
-
-      {/* Plan options */}
-      <TouchableOpacity
-        style={[styles.planCard, selected === 'free' && styles.planCardSelected]}
-        onPress={() => onSelect('free')}
-      >
-        <View style={styles.planTextWrap}>
-          <Text style={styles.planTitle}>FREE</Text>
-          <Text style={styles.planSub}>7 Day Trial</Text>
-        </View>
-        <View style={[styles.planRadio, selected === 'free' && styles.planRadioSelected]}>
-          {selected === 'free' && <View style={styles.planRadioInner} />}
-        </View>
-      </TouchableOpacity>
-
-      <TouchableOpacity
-        style={[styles.planCard, selected === 'paid' && styles.planCardSelected]}
-        onPress={() => onSelect('paid')}
-      >
-        <View style={styles.planTextWrap}>
-          <Text style={styles.planTitle}>$1.99</Text>
-          <Text style={styles.planSub}>30 Day Trial</Text>
-        </View>
-        <View style={[styles.planRadio, selected === 'paid' && styles.planRadioSelected]}>
-          {selected === 'paid' && <View style={styles.planRadioInner} />}
-        </View>
-      </TouchableOpacity>
-
-      {/* Remind toggle */}
-      <View style={styles.remindRow}>
-        <Text style={styles.remindText}>{t('onboarding_remind_toggle')}</Text>
-        <Switch
-          value={remindMe}
-          onValueChange={onToggleRemind}
-          trackColor={{ true: Colors.purple, false: Colors.border }}
-          thumbColor="#fff"
-        />
-      </View>
-
-      <TouchableOpacity><Text style={[styles.linkText, { textAlign: 'center', marginBottom: 16 }]}>{t('onboarding_view_plans')}</Text></TouchableOpacity>
-
-      {/* Social proof */}
-      <View style={styles.proofRow}>
-        <View style={styles.proofItem}>
-          <Text style={styles.proofNumber}>10M+</Text>
-          <Text style={styles.proofLabel}>{t('onboarding_happy_cooks')}</Text>
-        </View>
-        <View style={styles.proofItem}>
-          <Text style={styles.proofNumber}>⭐⭐⭐⭐⭐</Text>
-          <Text style={styles.proofLabel}>{t('onboarding_star_rating')}</Text>
-        </View>
-      </View>
-      <Text style={[styles.muted, { textAlign: 'center', marginBottom: 20 }]}>{t('onboarding_made_in_usa')}</Text>
-
-      <Text style={[styles.muted, { textAlign: 'center', marginBottom: 8 }]}>{t('onboarding_no_payment')}</Text>
-      <Button label={t('onboarding_redeem')} onPress={onRedeem} loading={loading} variant="purple" style={styles.cta} />
-      <Text style={[styles.muted, { textAlign: 'center', marginTop: 10, fontSize: 12 }]}>{t('onboarding_price_note')}</Text>
-    </ScrollView>
-  );
-}
-
 // ─── Styles ────────────────────────────────────────────────────────────────────
 
 const styles = StyleSheet.create({
@@ -415,22 +322,4 @@ const styles = StyleSheet.create({
   previewCell: { width: '33%', aspectRatio: 1, justifyContent: 'center', alignItems: 'center', borderRadius: 8, backgroundColor: Colors.background, marginBottom: 4 },
   socialRow: { flexDirection: 'row', justifyContent: 'center', gap: 16, marginBottom: 24 },
   socialIcon: { fontSize: 28 },
-  trialText: { alignItems: 'center', marginBottom: 40 },
-  trialLine: { fontSize: 28, fontWeight: '700', color: Colors.text, textAlign: 'center', lineHeight: 42 },
-  planCard: { flexDirection: 'row', alignItems: 'center', backgroundColor: Colors.card, borderRadius: 14, padding: 18, marginBottom: 12, borderWidth: 2, borderColor: Colors.border },
-  planCardSelected: { borderColor: Colors.purple },
-  planTextWrap: { flex: 1 },
-  planTitle: { fontSize: 18, fontWeight: '700', color: Colors.text },
-  planSub: { fontSize: 14, color: Colors.muted, marginTop: 2 },
-  planRadio: { width: 24, height: 24, borderRadius: 12, borderWidth: 2, borderColor: Colors.border, justifyContent: 'center', alignItems: 'center' },
-  planRadioSelected: { borderColor: Colors.purple },
-  planRadioInner: { width: 12, height: 12, borderRadius: 6, backgroundColor: Colors.purple },
-  remindRow: { flexDirection: 'row', alignItems: 'center', backgroundColor: Colors.card, borderRadius: 14, padding: 16, marginBottom: 12 },
-  remindText: { flex: 1, fontSize: 15, color: Colors.text },
-  linkText: { color: Colors.accent, fontSize: 15, fontWeight: '500' },
-  proofRow: { flexDirection: 'row', justifyContent: 'space-around', marginVertical: 16 },
-  proofItem: { alignItems: 'center' },
-  proofNumber: { fontSize: 20, fontWeight: '700', color: Colors.text },
-  proofLabel: { fontSize: 12, color: Colors.muted, marginTop: 4, textAlign: 'center' },
-  purple: { color: Colors.purple },
 });

@@ -3,16 +3,20 @@ import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 import { Colors } from '../../constants/colors';
 import { useTranslation } from 'react-i18next';
 import { useRouter } from 'expo-router';
-import { E } from '../../constants/emoji';
+import EmojiIcon from '../../components/EmojiIcon';
 
 function TabIcon({ name, focused }: { name: string; focused: boolean }) {
   const icons: Record<string, string> = {
-    cookbooks: E.books,
-    'meal-plan': E.calendar,
-    groceries: E.cart,
-    settings: E.gear,
+    cookbooks: 'books',
+    'meal-plan': 'calendar',
+    groceries: 'cart',
+    settings: 'gear',
   };
-  return <Text style={{ fontSize: 22, opacity: focused ? 1 : 0.5 }}>{icons[name]}</Text>;
+  return (
+    <View style={{ opacity: focused ? 1 : 0.4 }}>
+      <EmojiIcon name={icons[name]} size={24} />
+    </View>
+  );
 }
 
 export default function TabLayout() {

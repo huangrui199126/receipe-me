@@ -4,6 +4,7 @@ import {
   Animated, ActivityIndicator,
 } from 'react-native';
 import { Image } from 'expo-image';
+import EmojiIcon from '../components/EmojiIcon';
 import { useRouter } from 'expo-router';
 import { useTranslation } from 'react-i18next';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -121,12 +122,12 @@ export default function Onboarding() {
 
 function GoalsStep({ goals, toggle, onNext, t }: any) {
   const options = [
-    { key: 'healthy', label: t('onboarding_goal_healthy'), emoji: E.salad },
-    { key: 'money', label: t('onboarding_goal_money'), emoji: E.money },
-    { key: 'cooking', label: t('onboarding_goal_cooking'), emoji: E.cooking },
-    { key: 'organize', label: t('onboarding_goal_organize'), emoji: E.books },
-    { key: 'plan', label: t('onboarding_goal_plan'), emoji: E.calendar },
-    { key: 'cuisine', label: t('onboarding_goal_cuisine'), emoji: E.globe },
+    { key: 'healthy', label: t('onboarding_goal_healthy'), icon: 'salad' },
+    { key: 'money', label: t('onboarding_goal_money'), icon: 'money' },
+    { key: 'cooking', label: t('onboarding_goal_cooking'), icon: 'cooking' },
+    { key: 'organize', label: t('onboarding_goal_organize'), icon: 'books' },
+    { key: 'plan', label: t('onboarding_goal_plan'), icon: 'calendar' },
+    { key: 'cuisine', label: t('onboarding_goal_cuisine'), icon: 'globe' },
   ];
   return (
     <View style={styles.stepOuter}>
@@ -143,7 +144,7 @@ function GoalsStep({ goals, toggle, onNext, t }: any) {
               activeOpacity={0.7}
             >
               <View style={[styles.emojiCircle, selected && styles.emojiCircleSelected]}>
-                <Text style={styles.optionEmoji}>{o.emoji}</Text>
+                <EmojiIcon name={(o as any).icon} size={22} />
               </View>
               <Text style={[styles.optionText, selected && styles.optionTextSelected]}>
                 {o.label}
@@ -180,9 +181,10 @@ function ThatsGreatStep({ onNext, t }: any) {
           </View>
         </View>
 
-        <Text style={styles.helpText}>
-          {t('onboarding_help')} {E.wave}
-        </Text>
+        <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'center', marginTop: 8 }}>
+          <Text style={[styles.helpText, { marginTop: 0 }]}>{t('onboarding_help')} </Text>
+          <EmojiIcon name="wave" size={22} />
+        </View>
       </ScrollView>
       <View style={styles.ctaBar}>
         <Button label={t('continue_btn')} onPress={onNext} />
@@ -199,25 +201,25 @@ function RecipeSourceStep({ sources, toggle, onNext, t }: any) {
       key: 'social',
       label: t('onboarding_social'),
       logos: [
-        'https://logo.clearbit.com/instagram.com',
-        'https://logo.clearbit.com/tiktok.com',
-        'https://logo.clearbit.com/facebook.com',
-        'https://logo.clearbit.com/pinterest.com',
+        'https://www.google.com/s2/favicons?domain=instagram.com&sz=128',
+        'https://www.google.com/s2/favicons?domain=tiktok.com&sz=128',
+        'https://www.google.com/s2/favicons?domain=facebook.com&sz=128',
+        'https://www.google.com/s2/favicons?domain=pinterest.com&sz=128',
       ],
     },
     {
       key: 'websites',
       label: t('onboarding_websites'),
       logos: [
-        'https://logo.clearbit.com/google.com',
-        'https://logo.clearbit.com/allrecipes.com',
+        'https://www.google.com/s2/favicons?domain=google.com&sz=128',
+        'https://www.google.com/s2/favicons?domain=allrecipes.com&sz=128',
       ],
     },
     {
       key: 'printed',
       label: t('onboarding_printed'),
       logos: [],
-      icons: ['📖', '✍️'],
+      emojiIcons: ['book', 'pin'],
     },
   ];
   return (
@@ -240,8 +242,8 @@ function RecipeSourceStep({ sources, toggle, onNext, t }: any) {
               <View style={styles.logoRow}>
                 {o.logos.length > 0
                   ? o.logos.map((url, i) => <BrandLogo key={i} url={url} size={26} />)
-                  : (o as any).icons?.map((ic: string, i: number) => (
-                      <Text key={i} style={{ fontSize: 22 }}>{ic}</Text>
+                  : (o as any).emojiIcons?.map((name: string, i: number) => (
+                      <EmojiIcon key={i} name={name} size={24} />
                     ))
                 }
               </View>
@@ -260,14 +262,14 @@ function RecipeSourceStep({ sources, toggle, onNext, t }: any) {
 
 function HowDidYouHearStep({ selected, onSelect, t }: any) {
   const options = [
-    { key: 'friend',    label: t('onboarding_source_friend'),   logo: null, emoji: '🤝' },
-    { key: 'facebook',  label: t('onboarding_source_facebook'),  logo: 'https://logo.clearbit.com/facebook.com' },
-    { key: 'appstore',  label: t('onboarding_source_appstore'),  logo: 'https://logo.clearbit.com/apple.com' },
-    { key: 'instagram', label: t('onboarding_source_instagram'), logo: 'https://logo.clearbit.com/instagram.com' },
-    { key: 'google',    label: t('onboarding_source_google'),    logo: 'https://logo.clearbit.com/google.com' },
-    { key: 'tiktok',   label: t('onboarding_source_tiktok'),    logo: 'https://logo.clearbit.com/tiktok.com' },
-    { key: 'youtube',  label: t('onboarding_source_youtube'),   logo: 'https://logo.clearbit.com/youtube.com' },
-    { key: 'other',    label: t('onboarding_source_other'),     logo: null, emoji: '💬' },
+    { key: 'friend',    label: t('onboarding_source_friend'),   logo: null, icon: 'friends' },
+    { key: 'facebook',  label: t('onboarding_source_facebook'),  logo: 'https://www.google.com/s2/favicons?domain=facebook.com&sz=128' },
+    { key: 'appstore',  label: t('onboarding_source_appstore'),  logo: 'https://www.google.com/s2/favicons?domain=apple.com&sz=128' },
+    { key: 'instagram', label: t('onboarding_source_instagram'), logo: 'https://www.google.com/s2/favicons?domain=instagram.com&sz=128' },
+    { key: 'google',    label: t('onboarding_source_google'),    logo: 'https://www.google.com/s2/favicons?domain=google.com&sz=128' },
+    { key: 'tiktok',   label: t('onboarding_source_tiktok'),    logo: 'https://www.google.com/s2/favicons?domain=tiktok.com&sz=128' },
+    { key: 'youtube',  label: t('onboarding_source_youtube'),   logo: 'https://www.google.com/s2/favicons?domain=youtube.com&sz=128' },
+    { key: 'other',    label: t('onboarding_source_other'),     logo: null, icon: 'other' },
   ];
 
   return (
@@ -287,7 +289,7 @@ function HowDidYouHearStep({ selected, onSelect, t }: any) {
               {o.logo ? (
                 <BrandLogo url={o.logo} size={30} />
               ) : (
-                <Text style={{ fontSize: 26 }}>{(o as any).emoji}</Text>
+                <EmojiIcon name={(o as any).icon} size={28} />
               )}
             </View>
             <Text style={[styles.optionText, isSelected && styles.optionTextSelected]}>
@@ -340,9 +342,9 @@ function LoadingStep({ text, onDone, t }: any) {
       <Text style={styles.loadingTitle}>{t('onboarding_setting_up')}</Text>
 
       <View style={styles.loadingIcons}>
-        {['🍕', '🍝', '🍲', '🍜', '🥧'].map((emoji, i) => (
+        {(['pizza', 'pasta', 'soup', 'ramen', 'cake'] as const).map((name, i) => (
           <View key={i} style={[styles.loadingIconBadge, { transform: [{ rotate: `${(i - 2) * 8}deg` }] }]}>
-            <Text style={{ fontSize: 32 }}>{emoji}</Text>
+            <EmojiIcon name={name} size={32} />
           </View>
         ))}
       </View>
@@ -357,10 +359,10 @@ function LoadingStep({ text, onDone, t }: any) {
 
 function OrganizeStep({ onNext, t, loading }: any) {
   const socialLogos = [
-    'https://logo.clearbit.com/instagram.com',
-    'https://logo.clearbit.com/tiktok.com',
-    'https://logo.clearbit.com/youtube.com',
-    'https://logo.clearbit.com/pinterest.com',
+    'https://www.google.com/s2/favicons?domain=instagram.com&sz=128',
+    'https://www.google.com/s2/favicons?domain=tiktok.com&sz=128',
+    'https://www.google.com/s2/favicons?domain=youtube.com&sz=128',
+    'https://www.google.com/s2/favicons?domain=pinterest.com&sz=128',
   ];
 
   return (
@@ -373,9 +375,9 @@ function OrganizeStep({ onNext, t, loading }: any) {
             <ReciMeLogo size={18} />
           </View>
           <View style={styles.previewGrid}>
-            {['🍕', '🍝', '🍲', '🍜', '🥧', '🥗'].map((emoji, i) => (
+            {(['pizza', 'pasta', 'soup', 'ramen', 'cake', 'salad'] as const).map((name, i) => (
               <View key={i} style={styles.previewCell}>
-                <Text style={{ fontSize: 28 }}>{emoji}</Text>
+                <EmojiIcon name={name} size={28} />
               </View>
             ))}
           </View>

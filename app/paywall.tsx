@@ -7,7 +7,7 @@ import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useRouter } from 'expo-router';
 import { Colors } from '../constants/colors';
 import ReciMeLogo from '../components/ReciMeLogo';
-import { E } from '../constants/emoji';
+import EmojiIcon from '../components/EmojiIcon';
 import {
   initIAP, fetchProducts, purchaseSubscription, restorePurchases,
   listenPurchaseUpdates, tierFromProductId, PRODUCT_IDS,
@@ -15,10 +15,10 @@ import {
 import { useStore } from '../store';
 
 const FEATURES = [
-  { icon: E.cooking, text: 'Unlimited recipe previews' },
-  { icon: E.web, text: 'Unlimited URL imports from any website' },
-  { icon: E.sparkle, text: 'Priority access to trending recipes' },
-  { icon: E.chef, text: 'Full nutrition info on every recipe' },
+  { icon: 'cooking', text: 'Unlimited recipe previews' },
+  { icon: 'web', text: 'Unlimited URL imports from any website' },
+  { icon: 'sparkle', text: 'Priority access to trending recipes' },
+  { icon: 'chef', text: 'Full nutrition info on every recipe' },
 ];
 
 export default function PaywallScreen() {
@@ -106,8 +106,8 @@ export default function PaywallScreen() {
 
       <ScrollView contentContainerStyle={styles.scroll} showsVerticalScrollIndicator={false}>
         {/* Hero */}
-        <Text style={styles.emoji}>{E.sparkle}</Text>
-        <Text style={styles.title}>Unlock ReciMe Pro</Text>
+        <View style={{ alignItems: 'center', marginBottom: 8 }}><EmojiIcon name="sparkle" size={52} /></View>
+        <Text style={styles.title}>Unlock RecipeMe Pro</Text>
         <Text style={styles.subtitle}>
           Free plan: {subscription.previewsUsed}/5 previews · {subscription.importsUsed}/5 imports used this month
         </Text>
@@ -116,7 +116,7 @@ export default function PaywallScreen() {
         <View style={styles.featuresCard}>
           {FEATURES.map((f, i) => (
             <View key={i} style={styles.featureRow}>
-              <Text style={styles.featureIcon}>{f.icon}</Text>
+              <EmojiIcon name={f.icon} size={22} />
               <Text style={styles.featureText}>{f.text}</Text>
             </View>
           ))}
@@ -179,7 +179,7 @@ export default function PaywallScreen() {
         >
           {loading
             ? <ActivityIndicator color="#fff" />
-            : <Text style={styles.subscribeBtnText}>Start ReciMe Pro</Text>}
+            : <Text style={styles.subscribeBtnText}>Start RecipeMe Pro</Text>}
         </TouchableOpacity>
         <TouchableOpacity onPress={handleRestore} disabled={loading} style={styles.restoreBtn}>
           <Text style={styles.restoreText}>Restore purchase</Text>

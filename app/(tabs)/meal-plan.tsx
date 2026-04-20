@@ -7,6 +7,7 @@ import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useRouter } from 'expo-router';
 import { Colors, MealTypeColors, MealTypeLabels } from '../../constants/colors';
 import { useStore } from '../../store';
+import EmojiIcon, { EmojiImage } from '../../components/EmojiIcon';
 import { MealPlanEntry, Recipe, Ingredient, Step } from '../../db/schema';
 import Badge from '../../components/ui/Badge';
 import { TRENDING_RECIPES, TrendingRecipe } from '../../lib/trendingRecipes';
@@ -137,7 +138,8 @@ function GroceryPickerSheet({
         {/* Toolbar */}
         <View style={gs.toolbar}>
           <TouchableOpacity style={gs.convertBtn}>
-            <Text style={gs.convertBtnText}>👑 Convert</Text>
+            <EmojiIcon name="crown" size={14} />
+            <Text style={gs.convertBtnText}>Convert</Text>
           </TouchableOpacity>
           <TouchableOpacity onPress={deselectAll}>
             <Text style={gs.deselectAll}>Deselect all</Text>
@@ -181,7 +183,7 @@ function GroceryPickerSheet({
                       style={gs.ingRow}
                       onPress={() => toggleIngredient(recipeIdx, ing.id)}
                     >
-                      <Text style={gs.ingEmoji}>{ing.emoji}</Text>
+                      <View style={{ width: 28, alignItems: 'center' }}><EmojiImage emoji={ing.emoji} size={20} /></View>
                       <Text style={gs.ingText} numberOfLines={2}>
                         <Text style={gs.ingAmount}>{scaleAmount(ing.amount, ratio)} {ing.unit} </Text>
                         {ing.name}
@@ -284,7 +286,8 @@ export default function MealPlanTab() {
 
       {entriesThisWeek.length > 0 && (
         <TouchableOpacity style={styles.groceryBtn} onPress={() => setShowGroceryPicker(true)}>
-          <Text style={styles.groceryBtnText}>🛒 Add to groceries</Text>
+          <EmojiIcon name="cart" size={18} />
+          <Text style={styles.groceryBtnText}>Add to groceries</Text>
         </TouchableOpacity>
       )}
 
@@ -301,7 +304,16 @@ export default function MealPlanTab() {
                 </Text>
                 <View style={styles.dayActions}>
                   <TouchableOpacity><Text style={styles.dots}>•••</Text></TouchableOpacity>
-                  <TouchableOpacity onPress={() => setPickingFor({ date: dateStr, mealType: 'dinner' })} style={styles.addBtn}>
+                  <TouchableOpacity onPress={() => {
+                    if (Platform.OS === 'ios') {
+                      ActionSheetIOS.showActionSheetWithOptions(
+                        { options: ['Breakfast', 'Lunch', 'Dinner', 'Snack', 'Cancel'], cancelButtonIndex: 4 },
+                        (idx) => { if (idx < 4) setPickingFor({ date: dateStr, mealType: MEAL_TYPES[idx] }); }
+                      );
+                    } else {
+                      setPickingFor({ date: dateStr, mealType: 'dinner' });
+                    }
+                  }} style={styles.addBtn}>
                     <Text style={styles.addBtnText}>+</Text>
                   </TouchableOpacity>
                 </View>
@@ -323,7 +335,7 @@ export default function MealPlanTab() {
                       <View style={styles.mealImage}>
                         {recipe.imageUri
                           ? <Image source={{ uri: recipe.imageUri }} style={StyleSheet.absoluteFill} resizeMode="cover" />
-                          : <Text style={{ fontSize: 24 }}>🍽</Text>}
+                          : <EmojiIcon name="plate" size={24} />}
                       </View>
                       <View style={styles.mealInfo}>
                         <Text style={styles.mealTitle} numberOfLines={2}>{recipe.title}</Text>
@@ -372,14 +384,17 @@ export default function MealPlanTab() {
             renderItem={({ item }) => (
               <TouchableOpacity style={styles.recipePickItem} onPress={() => handlePickRecipe(item)}>
                 <View style={styles.recipePickImage}>
-                  {item.imageUri ? <Image source={{ uri: item.imageUri }} style={StyleSheet.absoluteFill} resizeMode="cover" /> : <Text style={{ fontSize: 24 }}>🍽</Text>}
+                  {item.imageUri ? <Image source={{ uri: item.imageUri }} style={StyleSheet.absoluteFill} resizeMode="cover" /> : <EmojiIcon name="plate" size={24} />}
                 </View>
                 <Text style={styles.recipePickTitle} numberOfLines={2}>{item.title}</Text>
               </TouchableOpacity>
             )}
             ListHeaderComponent={recipes.length === 0 ? (
               <View>
-                <Text style={styles.trendingHeader}>🔥 Popular recipes to get started</Text>
+                <View style={{ flexDirection: 'row', alignItems: 'center', gap: 8, marginBottom: 12 }}>
+                  <EmojiIcon name="fire" size={18} />
+                  <Text style={[styles.trendingHeader, { marginBottom: 0 }]}>Popular recipes to get started</Text>
+                </View>
                 {TRENDING_RECIPES.map(tr => (
                   <TouchableOpacity key={tr.id} style={styles.recipePickItem} onPress={() => handlePickTrending(tr)}>
                     <View style={styles.recipePickImage}>

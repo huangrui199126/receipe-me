@@ -11,6 +11,7 @@ import Svg, { Circle } from 'react-native-svg';
 import { Colors } from '../../constants/colors';
 import { useStore } from '../../store';
 import { Cookbook, Ingredient, MealPlanEntry, Step } from '../../db/schema';
+import EmojiIcon, { EmojiImage } from '../../components/EmojiIcon';
 import * as Storage from '../../db/storage';
 import { scaleAmount, groupIngredientsBySections } from '../../lib/importRecipe';
 
@@ -194,7 +195,7 @@ export default function RecipeDetail() {
           {recipe.imageUri ? (
             <Image source={{ uri: recipe.imageUri }} style={styles.hero} resizeMode="cover" />
           ) : (
-            <View style={[styles.hero, styles.heroPlaceholder]}><Text style={{ fontSize: 64 }}>🍽</Text></View>
+            <View style={[styles.hero, styles.heroPlaceholder]}><EmojiIcon name="plate" size={64} /></View>
           )}
           <TouchableOpacity onPress={() => router.back()} style={[styles.backBtn, { top: insets.top + 8 }]}>
             <Text style={styles.backArrow}>‹ Back</Text>
@@ -208,7 +209,7 @@ export default function RecipeDetail() {
             </TouchableOpacity>
           </View>
           <TouchableOpacity style={styles.cameraBtn} onPress={handlePickCoverPhoto}>
-            <Text style={styles.cameraBtnText}>📷</Text>
+            <EmojiIcon name="camera" size={18} />
           </TouchableOpacity>
         </View>
 
@@ -218,10 +219,10 @@ export default function RecipeDetail() {
 
           {/* 4 Action buttons */}
           <View style={styles.actionRow}>
-            <ActionBtn icon="🔖" label="Cookbooks" onPress={() => setShowCookbooks(true)} />
-            <ActionBtn icon="📅" label="Meal Plan" onPress={() => setShowMealPlan(true)} />
-            <ActionBtn icon="🛒" label="Groceries" onPress={() => { setGroceryServings(servings); setShowGroceries(true); }} />
-            <ActionBtn icon="↑" label="Share" onPress={handleShare} />
+            <ActionBtn icon="bookmark" label="Cookbooks" onPress={() => setShowCookbooks(true)} />
+            <ActionBtn icon="calendar" label="Meal Plan" onPress={() => setShowMealPlan(true)} />
+            <ActionBtn icon="cart" label="Groceries" onPress={() => { setGroceryServings(servings); setShowGroceries(true); }} />
+            <ActionBtn icon="share" label="Share" onPress={handleShare} />
           </View>
 
           <View style={styles.divider} />
@@ -296,7 +297,10 @@ export default function RecipeDetail() {
             </TouchableOpacity>
             <Text style={styles.servLabel}>{t('servings')}</Text>
             <TouchableOpacity style={styles.convertBtn}>
-              <Text style={styles.convertBtnText}>👑 {t('convert')}</Text>
+              <View style={{ flexDirection: 'row', alignItems: 'center', gap: 4 }}>
+                <EmojiIcon name="crown" size={14} />
+                <Text style={styles.convertBtnText}>{t('convert')}</Text>
+              </View>
             </TouchableOpacity>
           </View>
 
@@ -305,7 +309,7 @@ export default function RecipeDetail() {
               {section !== '' && <Text style={styles.ingredientSection}>{section}</Text>}
               {ings.map(ing => (
                 <View key={ing.id} style={styles.ingredientRow}>
-                  <Text style={styles.ingredientEmoji}>{ing.emoji}</Text>
+                  <View style={{ width: 32, alignItems: 'center' }}><EmojiImage emoji={ing.emoji} size={20} /></View>
                   <Text style={styles.ingredientText}>
                     <Text style={styles.ingredientAmount}>{scaleAmount(ing.amount, ratio)} {ing.unit} </Text>
                     <Text style={styles.ingredientName}>{ing.name}</Text>
@@ -340,7 +344,10 @@ export default function RecipeDetail() {
             <View style={styles.nutritionLocked}>
               <NutritionWidget cal={250} protein={20} carbs={30} fat={10} blurred />
               <View style={styles.nutritionOverlay}>
-                <Text style={styles.nutritionLockedText}>👑 Subscribe to unlock nutrition</Text>
+                <View style={[styles.nutritionLockedText, { flexDirection: 'row', alignItems: 'center', gap: 6 }]}>
+                  <EmojiIcon name="crown" size={14} />
+                  <Text style={{ fontSize: 14, fontWeight: '600', color: Colors.text }}>Subscribe to unlock nutrition</Text>
+                </View>
               </View>
             </View>
           ) : cal !== null ? (
@@ -352,7 +359,10 @@ export default function RecipeDetail() {
           {/* Start cooking */}
           {steps.length > 0 && (
             <TouchableOpacity style={styles.startBtn} onPress={() => router.push(`/recipe/${id}/cook`)}>
-              <Text style={styles.startBtnText}>👨‍🍳 {t('start_cooking')}</Text>
+              <View style={{ flexDirection: 'row', alignItems: 'center', gap: 8 }}>
+                <EmojiIcon name="chef" size={22} />
+                <Text style={styles.startBtnText}>{t('start_cooking')}</Text>
+              </View>
             </TouchableOpacity>
           )}
         </View>
@@ -537,7 +547,7 @@ export default function RecipeDetail() {
                 <View style={[styles.checkbox, checkedIngredients.has(ing.id) && styles.checkboxChecked]}>
                   {checkedIngredients.has(ing.id) && <Text style={styles.checkmark}>✓</Text>}
                 </View>
-                <Text style={styles.ingEmoji}>{ing.emoji}</Text>
+                <View style={{ width: 24, alignItems: 'center' }}><EmojiImage emoji={ing.emoji} size={18} /></View>
                 <Text style={styles.grocIngText}>
                   <Text style={styles.grocIngAmount}>{scaleAmount(ing.amount, groceryRatio)} {ing.unit} </Text>
                   {ing.name}
@@ -562,7 +572,9 @@ function ActionBtn({ icon, label, onPress }: { icon: string; label: string; onPr
   return (
     <TouchableOpacity style={styles.actionBtn} onPress={onPress}>
       <View style={styles.actionBtnCircle}>
-        <Text style={styles.actionBtnIcon}>{icon}</Text>
+        {icon === 'share'
+          ? <Text style={styles.actionBtnIcon}>↑</Text>
+          : <EmojiIcon name={icon} size={22} />}
       </View>
       <Text style={styles.actionBtnLabel}>{label}</Text>
     </TouchableOpacity>

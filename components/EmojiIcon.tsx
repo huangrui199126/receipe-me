@@ -30,7 +30,8 @@ export const TWEMOJI: Record<string, string> = {
   camera:   `${BASE}/1f4f7.png`,
   pin:      `${BASE}/1f4cc.png`,
   book:     `${BASE}/1f4d6.png`,
-  books2:   `${BASE}/1f4da.png`,
+  bookmark: `${BASE}/1f516.png`,
+  crown:    `${BASE}/1f451.png`,
   // Referral
   friends:  `${BASE}/1f91d.png`,
   helpIcon: `${BASE}/2753.png`,
@@ -38,14 +39,11 @@ export const TWEMOJI: Record<string, string> = {
   phone:    `${BASE}/1f4f1.png`,
   // Import screen
   web:      `${BASE}/1f310.png`,
-  camera:   `${BASE}/1f4f7.png`,
   clipboard:`${BASE}/1f4cb.png`,
   pencil:   `${BASE}/270f.png`,
   // Misc
   leaf:     `${BASE}/1f343.png`,
-  cart:     `${BASE}/1f6d2.png`,
   search:   `${BASE}/1f50d.png`,
-  fire:     `${BASE}/1f525.png`,
   // Flags
   flagUS:   `${BASE}/1f1fa-1f1f8.png`,
   flagCN:   `${BASE}/1f1e8-1f1f3.png`,
@@ -63,6 +61,28 @@ export default function EmojiIcon({ name, size = 24 }: Props) {
   return (
     <Image
       source={{ uri }}
+      style={{ width: size, height: size }}
+      contentFit="contain"
+      cachePolicy="memory-disk"
+    />
+  );
+}
+
+// Convert any emoji string to its Twemoji image URL
+export function emojiToUrl(emoji: string): string {
+  const codePoints = [...emoji]
+    .map(c => c.codePointAt(0)!.toString(16))
+    .filter(cp => cp !== 'fe0f') // strip variation selector-16
+    .join('-');
+  return `${BASE}/${codePoints}.png`;
+}
+
+// Render any emoji string as a Twemoji image
+export function EmojiImage({ emoji, size = 24 }: { emoji: string; size?: number }) {
+  if (!emoji) return null;
+  return (
+    <Image
+      source={{ uri: emojiToUrl(emoji) }}
       style={{ width: size, height: size }}
       contentFit="contain"
       cachePolicy="memory-disk"

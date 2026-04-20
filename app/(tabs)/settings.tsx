@@ -156,19 +156,20 @@ export default function SettingsTab() {
         <TouchableOpacity style={styles.backdrop} activeOpacity={1} onPress={() => setShowDevPanel(false)} />
         <View style={styles.sheet}>
           <View style={styles.sheetHandle} />
-          <Text style={styles.devTitle}>Developer Tools</Text>
+          <Text style={styles.devTitle}>🛠 Dev Mode</Text>
           <Text style={styles.devCurrent}>
-            Current tier: <Text style={{ fontWeight: '700', color: Colors.primary }}>{subscription.tier}</Text>
-            {'\n'}Previews used: {subscription.previewsUsed} · Imports used: {subscription.importsUsed}
+            Current: <Text style={{ fontWeight: '700', color: Colors.primary }}>{pro ? 'Pro' : 'Free'}</Text>
           </Text>
-          <TouchableOpacity style={styles.devBtn} onPress={async () => { await setTier('monthly'); setShowDevPanel(false); Alert.alert('Done', 'Forced to Monthly Pro'); }}>
-            <Text style={styles.devBtnText}>Force Monthly Pro</Text>
-          </TouchableOpacity>
-          <TouchableOpacity style={styles.devBtn} onPress={async () => { await setTier('annual'); setShowDevPanel(false); Alert.alert('Done', 'Forced to Annual Pro'); }}>
-            <Text style={styles.devBtnText}>Force Annual Pro</Text>
-          </TouchableOpacity>
-          <TouchableOpacity style={[styles.devBtn, styles.devBtnFree]} onPress={async () => { await setTier('free'); setShowDevPanel(false); Alert.alert('Done', 'Forced back to Free'); }}>
-            <Text style={[styles.devBtnText, { color: '#EF4444' }]}>Force Free (reset limits)</Text>
+          <TouchableOpacity
+            style={[styles.devBtn, pro ? styles.devBtnFree : null]}
+            onPress={async () => {
+              await setTier(pro ? 'free' : 'annual');
+              setShowDevPanel(false);
+            }}
+          >
+            <Text style={[styles.devBtnText, pro ? { color: '#EF4444' } : null]}>
+              {pro ? 'Switch to Free user' : 'Switch to Pro user'}
+            </Text>
           </TouchableOpacity>
           <View style={styles.sheetFooter} />
         </View>

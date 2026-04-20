@@ -44,6 +44,7 @@ export const TWEMOJI: Record<string, string> = {
   // Misc
   leaf:     `${BASE}/1f343.png`,
   search:   `${BASE}/1f50d.png`,
+  timer:    `${BASE}/23f1.png`,
   // Flags
   flagUS:   `${BASE}/1f1fa-1f1f8.png`,
   flagCN:   `${BASE}/1f1e8-1f1f3.png`,

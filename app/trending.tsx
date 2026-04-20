@@ -9,6 +9,7 @@ import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useRouter } from 'expo-router';
 import { Colors } from '../constants/colors';
 import ReciMeLogo from '../components/ReciMeLogo';
+import EmojiIcon, { EmojiImage } from '../components/EmojiIcon';
 import { TrendingRecipe } from '../lib/trendingRecipes';
 import { fetchTrendingRecipes, refreshTrendingRecipes } from '../lib/trendingApi';
 import { useStore } from '../store';
@@ -97,7 +98,7 @@ function SavedSheet({ onOpenRecipe, onDone }: { onOpenRecipe: () => void; onDone
     <View style={styles.savedSheet}>
       <View style={styles.savedCard}>
         <View style={styles.savedIconWrap}>
-          <Text style={styles.savedIconEmoji}>👨‍🍳</Text>
+          <EmojiIcon name="chef" size={72} />
           <View style={styles.savedCheckCircle}>
             <Text style={styles.savedCheckMark}>✓</Text>
           </View>
@@ -245,7 +246,7 @@ export default function TrendingScreen() {
           <Text style={styles.backText}>‹</Text>
         </TouchableOpacity>
         <View style={styles.titleWrap}>
-          <Text style={styles.fireIcon}>🔥</Text>
+          <EmojiIcon name="fire" size={20} />
           <Text style={styles.title}>Trending recipes</Text>
         </View>
         <Text style={styles.count}>{recipes.length} recipes</Text>
@@ -333,8 +334,14 @@ export default function TrendingScreen() {
                 <View style={{ flex: 1 }}>
                   <Text style={styles.heroTitle}>{previewItem.title.toUpperCase()}</Text>
                   <View style={styles.heroMeta}>
-                    <Text style={styles.heroMetaText}>⏱ {previewItem.prepTime + previewItem.cookTime} min</Text>
-                    <Text style={styles.heroMetaText}>🍽 {previewItem.servings} servings</Text>
+                    <View style={{ flexDirection: 'row', alignItems: 'center', gap: 4 }}>
+                      <EmojiIcon name="timer" size={12} />
+                      <Text style={styles.heroMetaText}>{previewItem.prepTime + previewItem.cookTime} min</Text>
+                    </View>
+                    <View style={{ flexDirection: 'row', alignItems: 'center', gap: 4 }}>
+                      <EmojiIcon name="plate" size={12} />
+                      <Text style={styles.heroMetaText}>{previewItem.servings} servings</Text>
+                    </View>
                   </View>
                   <HealthBadge score={previewItem.healthScore} />
                 </View>
@@ -363,7 +370,7 @@ export default function TrendingScreen() {
               <Text style={styles.sectionLabel}>INGREDIENTS</Text>
               {previewItem.ingredients.map((ing, i) => (
                 <View key={i} style={styles.ingRow}>
-                  <Text style={styles.ingEmoji}>{ing.emoji}</Text>
+                  <View style={{ width: 28, alignItems: 'center' }}><EmojiImage emoji={ing.emoji} size={20} /></View>
                   <Text style={styles.ingAmount}>{ing.amount} {ing.unit}</Text>
                   <Text style={styles.ingName}>{ing.name}</Text>
                 </View>

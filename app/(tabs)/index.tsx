@@ -13,7 +13,7 @@ import { useStore } from '../../store';
 import ReciMeLogo from '../../components/ReciMeLogo';
 import Button from '../../components/ui/Button';
 import { E } from '../../constants/emoji';
-import EmojiIcon from '../../components/EmojiIcon';
+import EmojiIcon, { EmojiImage } from '../../components/EmojiIcon';
 import { fetchTrendingRecipes, refreshTrendingRecipes } from '../../lib/trendingApi';
 import { TrendingRecipe } from '../../lib/trendingRecipes';
 import { Cookbook, Recipe, Ingredient, Step } from '../../db/schema';
@@ -237,8 +237,14 @@ function TrendingSegment() {
                 <View style={{ flex: 1 }}>
                   <Text style={tStyles.heroTitle}>{previewItem.title.toUpperCase()}</Text>
                   <View style={tStyles.heroMeta}>
-                    <Text style={tStyles.heroMetaText}>{String.fromCodePoint(0x23F1)} {previewItem.prepTime + previewItem.cookTime} min</Text>
-                    <Text style={tStyles.heroMetaText}>{String.fromCodePoint(0x1F37D)} {previewItem.servings} servings</Text>
+                    <View style={{ flexDirection: 'row', alignItems: 'center', gap: 4 }}>
+                      <EmojiIcon name="timer" size={12} />
+                      <Text style={tStyles.heroMetaText}>{previewItem.prepTime + previewItem.cookTime} min</Text>
+                    </View>
+                    <View style={{ flexDirection: 'row', alignItems: 'center', gap: 4 }}>
+                      <EmojiIcon name="plate" size={12} />
+                      <Text style={tStyles.heroMetaText}>{previewItem.servings} servings</Text>
+                    </View>
                   </View>
                   <HealthBadge score={previewItem.healthScore} />
                 </View>
@@ -263,7 +269,7 @@ function TrendingSegment() {
               <Text style={tStyles.sectionLabel}>INGREDIENTS</Text>
               {previewItem.ingredients.map((ing, i) => (
                 <View key={i} style={tStyles.ingRow}>
-                  <Text style={tStyles.ingEmoji}>{ing.emoji}</Text>
+                  <View style={{ width: 28, alignItems: 'center' }}><EmojiImage emoji={ing.emoji} size={20} /></View>
                   <Text style={tStyles.ingAmount}>{ing.amount} {ing.unit}</Text>
                   <Text style={tStyles.ingName}>{ing.name}</Text>
                 </View>
@@ -296,7 +302,7 @@ function TrendingSegment() {
             {savedRecipeId && (
               <View style={tStyles.successOverlay}>
                 <View style={tStyles.successCard}>
-                  <Text style={{ fontSize: 64 }}>{String.fromCodePoint(0x1F9D1, 0x200D, 0x1F373)}</Text>
+                  <EmojiIcon name="chef" size={64} />
                   <Text style={tStyles.successTitle}>Recipe saved!</Text>
                   <TouchableOpacity style={tStyles.openBtn} onPress={() => { closePreview(); router.push(`/recipe/${savedRecipeId}`); }}>
                     <Text style={tStyles.openBtnText}>{String.fromCodePoint(0x2197)}  Open recipe</Text>

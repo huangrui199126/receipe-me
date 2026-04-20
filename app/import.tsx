@@ -8,7 +8,7 @@ import { useRouter } from 'expo-router';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Colors } from '../constants/colors';
 import { useStore } from '../store';
-import EmojiIcon from '../components/EmojiIcon';
+import EmojiIcon, { EmojiImage } from '../components/EmojiIcon';
 import { importFromUrl, parseRecipeText, ImportedRecipe, getIngredientEmoji } from '../lib/importRecipe';
 import { Recipe, Ingredient, Step } from '../db/schema';
 import * as ImagePicker from 'expo-image-picker';
@@ -221,8 +221,9 @@ export default function ImportScreen() {
             <TouchableOpacity style={[styles.importBtn, !pasteText.trim() && { opacity: 0.5 }]} onPress={() => handleParseText(pasteText)} disabled={!pasteText.trim()}>
               <Text style={styles.importBtnText}>Parse Recipe</Text>
             </TouchableOpacity>
-            <TouchableOpacity style={styles.retakeBtn} onPress={handleCamera}>
-              <Text style={styles.retakeBtnText}>📷 Retake photo</Text>
+            <TouchableOpacity style={[styles.retakeBtn, { flexDirection: 'row', alignItems: 'center', gap: 6 }]} onPress={handleCamera}>
+              <EmojiIcon name="camera" size={16} />
+              <Text style={styles.retakeBtnText}>Retake photo</Text>
             </TouchableOpacity>
           </ScrollView>
         </KeyboardAvoidingView>
@@ -231,7 +232,7 @@ export default function ImportScreen() {
       {/* ── Importing spinner ── */}
       {step === 'importing' && (
         <View style={styles.importingState}>
-          <Text style={{ fontSize: 64 }}>🍊</Text>
+          <EmojiIcon name="cooking" size={64} />
           <ActivityIndicator size="large" color={Colors.primary} style={{ marginTop: 16 }} />
           <Text style={styles.importingText}>Importing recipe…</Text>
         </View>
@@ -250,7 +251,7 @@ export default function ImportScreen() {
               <Text style={styles.sectionLabel}>INGREDIENTS</Text>
               {imported.ingredients.map((ing, i) => (
                 <View key={i} style={styles.ingredientRow}>
-                  <Text style={styles.ingredientEmoji}>{ing.emoji}</Text>
+                  <View style={{ width: 32, alignItems: 'center' }}><EmojiImage emoji={ing.emoji} size={20} /></View>
                   <Text style={styles.ingredientText}>
                     <Text style={styles.ingredientAmount}>{ing.amount} {ing.unit} </Text>
                     <Text style={styles.ingredientName}>{ing.name}</Text>

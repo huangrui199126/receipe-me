@@ -74,7 +74,7 @@ export default function SettingsTab() {
                 <EmojiIcon name={pro ? 'sparkle' : 'star'} size={20} />
               </View>
               <View>
-                <Text style={styles.rowLabel}>{pro ? 'ReciMe Pro' : 'Free Plan'}</Text>
+                <Text style={styles.rowLabel}>{pro ? 'RecipeMe Pro' : 'Free Plan'}</Text>
                 {!pro && (
                   <Text style={styles.subLabel}>
                     {subscription.previewsUsed}/5 previews · {subscription.importsUsed}/5 imports

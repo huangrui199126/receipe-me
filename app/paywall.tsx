@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import {
   View, Text, StyleSheet, TouchableOpacity, ActivityIndicator,
-  Alert, ScrollView,
+  Alert, ScrollView, Linking,
 } from 'react-native';
 import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { useRouter } from 'expo-router';
@@ -133,8 +133,8 @@ export default function PaywallScreen() {
               {selected === 'annual' && <View style={styles.planRadioDot} />}
             </View>
             <View>
-              <Text style={styles.planName}>Annual</Text>
-              <Text style={styles.planSave}>Save vs monthly</Text>
+              <Text style={styles.planName}>RecipeMe Pro Annual</Text>
+              <Text style={styles.planSave}>Best value · billed yearly</Text>
             </View>
           </View>
           <View style={styles.planRight}>
@@ -157,7 +157,10 @@ export default function PaywallScreen() {
             <View style={styles.planRadio}>
               {selected === 'monthly' && <View style={styles.planRadioDot} />}
             </View>
-            <Text style={styles.planName}>Monthly</Text>
+            <View>
+              <Text style={styles.planName}>RecipeMe Pro Monthly</Text>
+              <Text style={styles.planSave}>Billed monthly</Text>
+            </View>
           </View>
           <View style={styles.planRight}>
             <Text style={styles.planPrice}>{monthlyPrice}</Text>
@@ -166,8 +169,17 @@ export default function PaywallScreen() {
         </TouchableOpacity>
 
         <Text style={styles.legal}>
-          Subscription auto-renews. Cancel anytime in iPhone Settings.
+          Payment will be charged to your Apple ID account. Subscription automatically renews unless cancelled at least 24 hours before the end of the current period. Manage or cancel in iPhone Settings › Apple ID › Subscriptions.
         </Text>
+        <View style={styles.legalLinks}>
+          <TouchableOpacity onPress={() => Linking.openURL('https://huangrui199126.github.io/receipe-me/privacy')}>
+            <Text style={styles.legalLink}>Privacy Policy</Text>
+          </TouchableOpacity>
+          <Text style={styles.legalSep}> · </Text>
+          <TouchableOpacity onPress={() => Linking.openURL('https://www.apple.com/legal/internet-services/itunes/dev/stdeula/')}>
+            <Text style={styles.legalLink}>Terms of Use</Text>
+          </TouchableOpacity>
+        </View>
       </ScrollView>
 
       {/* CTA */}
@@ -224,7 +236,10 @@ const styles = StyleSheet.create({
   planPer: { fontSize: 13, color: Colors.muted },
   bestBadge: { position: 'absolute', top: 0, right: 0, backgroundColor: Colors.primary, paddingHorizontal: 10, paddingVertical: 4, borderBottomLeftRadius: 10 },
   bestBadgeText: { color: '#fff', fontSize: 10, fontWeight: '800', letterSpacing: 0.5 },
-  legal: { fontSize: 12, color: Colors.muted, textAlign: 'center', lineHeight: 18, marginTop: 4 },
+  legal: { fontSize: 11, color: Colors.muted, textAlign: 'center', lineHeight: 17, marginTop: 4 },
+  legalLinks: { flexDirection: 'row', justifyContent: 'center', alignItems: 'center', marginTop: 8 },
+  legalLink: { fontSize: 12, color: Colors.primary, textDecorationLine: 'underline' },
+  legalSep: { fontSize: 12, color: Colors.muted },
   cta: { paddingHorizontal: 24, paddingTop: 12, backgroundColor: Colors.background, borderTopWidth: 1, borderTopColor: Colors.border },
   subscribeBtn: { height: 52, borderRadius: 14, backgroundColor: Colors.primary, justifyContent: 'center', alignItems: 'center', marginBottom: 10 },
   subscribeBtnText: { color: '#fff', fontSize: 17, fontWeight: '800' },

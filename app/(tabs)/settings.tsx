@@ -126,7 +126,11 @@ export default function SettingsTab() {
         <TouchableOpacity style={styles.versionRow} onPress={handleVersionTap} activeOpacity={1}>
           <ReciMeLogo size={16} />
           <Text style={styles.version}> v1.0.0</Text>
-          {__DEV__ && <View style={styles.devBadge}><Text style={styles.devBadgeText}>DEV</Text></View>}
+          {__DEV__ && (
+            <TouchableOpacity onPress={() => setShowDevPanel(true)} style={styles.devBadge}>
+              <Text style={styles.devBadgeText}>DEV</Text>
+            </TouchableOpacity>
+          )}
         </TouchableOpacity>
       </ScrollView>
 

@@ -1,0 +1,113 @@
+{
+  "id": "tr_13",
+  "title": "Açaí Smoothie Bowl",
+  "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?w=600&q=80",
+  "importCount": "4.1K",
+  "sourcePlatform": "Instagram",
+  "cuisine": "Brazilian",
+  "category": "Breakfast",
+  "servings": 1,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "smoothie",
+    "bowl",
+    "açaí",
+    "healthy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 62,
+    "fat": 16
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "section": "Bowl",
+      "name": "Frozen Açaí Puree",
+      "amount": "100",
+      "unit": "g",
+      "emoji": "🫐"
+    },
+    {
+      "section": "Bowl",
+      "name": "Frozen Banana",
+      "amount": "1",
+      "unit": "",
+      "emoji": "🍌"
+    },
+    {
+      "section": "Bowl",
+      "name": "Almond Milk",
+      "amount": "60",
+      "unit": "ml",
+      "emoji": "🥛"
+    },
+    {
+      "section": "Bowl",
+      "name": "Honey",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🍯"
+    },
+    {
+      "section": "Toppings",
+      "name": "Granola",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🌾"
+    },
+    {
+      "section": "Toppings",
+      "name": "Banana",
+      "amount": "1/2",
+      "unit": "",
+      "emoji": "🍌"
+    },
+    {
+      "section": "Toppings",
+      "name": "Blueberries",
+      "amount": "1/4",
+      "unit": "cup",
+      "emoji": "🫐"
+    },
+    {
+      "section": "Toppings",
+      "name": "Coconut Flakes",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🥥"
+    },
+    {
+      "section": "Toppings",
+      "name": "Chia Seeds",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🖤"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Blend frozen açaí, banana, and almond milk until thick and creamy.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Pour into a bowl — the consistency should be thicker than a smoothie.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Arrange toppings: granola, sliced banana, berries, and coconut flakes.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Drizzle with honey and sprinkle chia seeds. Serve immediately.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    }
+  ]
+}

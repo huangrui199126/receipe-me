@@ -1,0 +1,108 @@
+{
+  "id": "tr_11",
+  "title": "Fluffy Japanese Pancakes",
+  "image": "https://images.unsplash.com/photo-1567620905-551302-2050?w=600&q=80",
+  "importCount": "5.2K",
+  "sourcePlatform": "TikTok",
+  "cuisine": "Japanese",
+  "category": "Breakfast",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [
+    "pancakes",
+    "breakfast",
+    "fluffy",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 12
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "section": "Batter",
+      "name": "All-Purpose Flour",
+      "amount": "100",
+      "unit": "g",
+      "emoji": "🌾"
+    },
+    {
+      "section": "Batter",
+      "name": "Baking Powder",
+      "amount": "2",
+      "unit": "tsp",
+      "emoji": "🥄"
+    },
+    {
+      "section": "Batter",
+      "name": "Sugar",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🍚"
+    },
+    {
+      "section": "Batter",
+      "name": "Milk",
+      "amount": "120",
+      "unit": "ml",
+      "emoji": "🥛"
+    },
+    {
+      "section": "Batter",
+      "name": "Eggs",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "Batter",
+      "name": "Vanilla Extract",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🍶"
+    },
+    {
+      "section": "Batter",
+      "name": "Butter",
+      "amount": "15",
+      "unit": "g",
+      "emoji": "🧈"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Separate egg yolks from whites. Mix yolks with milk, melted butter, and vanilla.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Sift flour and baking powder into the yolk mixture and fold gently.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Beat egg whites with sugar until stiff peaks form.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Fold egg whites into batter in three additions — keep it airy.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Cook on low heat in a greased ring mold, covered, 4-5 min per side.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    },
+    {
+      "order": 6,
+      "instruction": "Stack and serve with maple syrup and fresh berries.",
+      "imageUri": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80"
+    }
+  ]
+}

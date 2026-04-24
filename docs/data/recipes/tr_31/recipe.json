@@ -1,0 +1,151 @@
+{
+  "id": "tr_31",
+  "title": "Butter Chicken (Murgh Makhani)",
+  "image": "https://images.unsplash.com/photo-1604908177635-f22c0df2c6b9?w=600&q=80",
+  "importCount": "7.8K",
+  "sourcePlatform": "TikTok",
+  "cuisine": "Indian",
+  "category": "Dinner",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 35,
+  "tags": [
+    "indian",
+    "curry",
+    "chicken",
+    "butter chicken",
+    "popular"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 38,
+    "carbs": 22,
+    "fat": 28
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "section": "Chicken Marinade",
+      "name": "Chicken Thighs",
+      "amount": "700",
+      "unit": "g",
+      "emoji": "🍗"
+    },
+    {
+      "section": "Chicken Marinade",
+      "name": "Yogurt",
+      "amount": "1/2",
+      "unit": "cup",
+      "emoji": "🥛"
+    },
+    {
+      "section": "Chicken Marinade",
+      "name": "Garam Masala",
+      "amount": "2",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Chicken Marinade",
+      "name": "Turmeric",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🟡"
+    },
+    {
+      "section": "Chicken Marinade",
+      "name": "Chili Powder",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "Chicken Marinade",
+      "name": "Ginger-Garlic Paste",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🧄"
+    },
+    {
+      "section": "Makhani Sauce",
+      "name": "Butter",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🧈"
+    },
+    {
+      "section": "Makhani Sauce",
+      "name": "Onion",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🧅"
+    },
+    {
+      "section": "Makhani Sauce",
+      "name": "Tomatoes",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🍅"
+    },
+    {
+      "section": "Makhani Sauce",
+      "name": "Heavy Cream",
+      "amount": "200",
+      "unit": "ml",
+      "emoji": "🥛"
+    },
+    {
+      "section": "Makhani Sauce",
+      "name": "Kashmiri Chili",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "Makhani Sauce",
+      "name": "Fenugreek Leaves",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Makhani Sauce",
+      "name": "Sugar",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🍚"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinate chicken in yogurt and spices at least 2 hours.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Grill or broil chicken until charred. Set aside.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Sauté onions in butter until golden, add tomatoes and spices.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Blend sauce until smooth, then return to pan.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Add cream and chicken. Simmer 15 minutes until rich.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    },
+    {
+      "order": 6,
+      "instruction": "Finish with fenugreek leaves and serve with naan or basmati rice.",
+      "imageUri": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80"
+    }
+  ]
+}

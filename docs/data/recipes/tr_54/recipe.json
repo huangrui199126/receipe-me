@@ -1,0 +1,119 @@
+{
+  "id": "tr_54",
+  "title": "Korean Corn Dogs",
+  "image": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=600&q=80",
+  "importCount": "4.9K",
+  "sourcePlatform": "TikTok",
+  "cuisine": "Korean",
+  "category": "Snacks",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "korean",
+    "corn dog",
+    "fried",
+    "mozzarella",
+    "trending",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 14,
+    "carbs": 44,
+    "fat": 18
+  },
+  "healthScore": 4,
+  "ingredients": [
+    {
+      "section": "Corn Dog",
+      "name": "Mozzarella Sticks",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🧀"
+    },
+    {
+      "section": "Corn Dog",
+      "name": "Hot Dogs",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🌭"
+    },
+    {
+      "section": "Corn Dog",
+      "name": "All-Purpose Flour",
+      "amount": "1",
+      "unit": "cup",
+      "emoji": "🌾"
+    },
+    {
+      "section": "Corn Dog",
+      "name": "Sugar",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🍚"
+    },
+    {
+      "section": "Corn Dog",
+      "name": "Baking Powder",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🥄"
+    },
+    {
+      "section": "Corn Dog",
+      "name": "Egg",
+      "amount": "1",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "Corn Dog",
+      "name": "Milk",
+      "amount": "1/2",
+      "unit": "cup",
+      "emoji": "🥛"
+    },
+    {
+      "section": "Corn Dog",
+      "name": "Breadcrumbs",
+      "amount": "1",
+      "unit": "cup",
+      "emoji": "🌾"
+    },
+    {
+      "section": "Corn Dog",
+      "name": "Oil for frying",
+      "amount": "as needed",
+      "unit": "",
+      "emoji": "🫙"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Skewer mozzarella sticks and hot dogs together on a stick.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Mix flour, sugar, baking powder, egg, and milk into a thick batter.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Coat skewers in batter, then roll in breadcrumbs.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Fry in 180°C oil, turning, until golden all over (~4 min).",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Drain and serve with ketchup and mustard. Optionally add sugar coating.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    }
+  ]
+}

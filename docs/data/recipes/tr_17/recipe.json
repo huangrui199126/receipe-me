@@ -1,0 +1,130 @@
+{
+  "id": "tr_17",
+  "title": "French Toast with Caramelized Bananas",
+  "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=600&q=80",
+  "importCount": "2.9K",
+  "sourcePlatform": "Instagram",
+  "cuisine": "French",
+  "category": "Breakfast",
+  "servings": 2,
+  "prepTime": 8,
+  "cookTime": 12,
+  "tags": [
+    "french toast",
+    "banana",
+    "breakfast",
+    "sweet",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 490,
+    "protein": 15,
+    "carbs": 68,
+    "fat": 18
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "section": "French Toast",
+      "name": "Brioche Bread",
+      "amount": "4",
+      "unit": "slices",
+      "emoji": "🍞"
+    },
+    {
+      "section": "French Toast",
+      "name": "Eggs",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "French Toast",
+      "name": "Milk",
+      "amount": "60",
+      "unit": "ml",
+      "emoji": "🥛"
+    },
+    {
+      "section": "French Toast",
+      "name": "Cinnamon",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "French Toast",
+      "name": "Vanilla",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🍶"
+    },
+    {
+      "section": "French Toast",
+      "name": "Butter",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🧈"
+    },
+    {
+      "section": "Caramelized Bananas",
+      "name": "Bananas",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🍌"
+    },
+    {
+      "section": "Caramelized Bananas",
+      "name": "Brown Sugar",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🟤"
+    },
+    {
+      "section": "Caramelized Bananas",
+      "name": "Butter",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🧈"
+    },
+    {
+      "section": "Caramelized Bananas",
+      "name": "Maple Syrup",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🍯"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Whisk eggs, milk, cinnamon, and vanilla in a shallow bowl.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Dip brioche slices into the egg mixture, coating both sides.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Cook in butter over medium heat until golden on both sides.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "In a separate pan, melt butter with brown sugar and add sliced bananas.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Cook bananas until caramelized, 3-4 minutes.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    },
+    {
+      "order": 6,
+      "instruction": "Serve french toast topped with caramelized bananas and maple syrup.",
+      "imageUri": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80"
+    }
+  ]
+}

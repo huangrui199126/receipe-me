@@ -1,0 +1,131 @@
+{
+  "id": "tr_59",
+  "title": "Churros with Chocolate Sauce",
+  "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=600&q=80",
+  "importCount": "4.8K",
+  "sourcePlatform": "TikTok",
+  "cuisine": "Spanish",
+  "category": "Desserts",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "churros",
+    "spanish",
+    "fried",
+    "chocolate",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 8,
+    "carbs": 58,
+    "fat": 20
+  },
+  "healthScore": 3,
+  "ingredients": [
+    {
+      "section": "Churros",
+      "name": "Water",
+      "amount": "250",
+      "unit": "ml",
+      "emoji": "💧"
+    },
+    {
+      "section": "Churros",
+      "name": "Butter",
+      "amount": "50",
+      "unit": "g",
+      "emoji": "🧈"
+    },
+    {
+      "section": "Churros",
+      "name": "Flour",
+      "amount": "150",
+      "unit": "g",
+      "emoji": "🌾"
+    },
+    {
+      "section": "Churros",
+      "name": "Eggs",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "Churros",
+      "name": "Cinnamon Sugar",
+      "amount": "4",
+      "unit": "tbsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Churros",
+      "name": "Oil for frying",
+      "amount": "as needed",
+      "unit": "",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Chocolate Sauce",
+      "name": "Dark Chocolate",
+      "amount": "150",
+      "unit": "g",
+      "emoji": "🍫"
+    },
+    {
+      "section": "Chocolate Sauce",
+      "name": "Heavy Cream",
+      "amount": "100",
+      "unit": "ml",
+      "emoji": "🥛"
+    },
+    {
+      "section": "Chocolate Sauce",
+      "name": "Butter",
+      "amount": "20",
+      "unit": "g",
+      "emoji": "🧈"
+    },
+    {
+      "section": "Chocolate Sauce",
+      "name": "Sugar",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🍚"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring water and butter to a boil. Add flour all at once and stir vigorously.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Off heat, beat in eggs one at a time until smooth and glossy.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Pipe into hot oil (180°C) and fry until golden, about 3-4 min.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Drain and roll immediately in cinnamon sugar.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Melt chocolate with cream and butter for the dipping sauce.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    },
+    {
+      "order": 6,
+      "instruction": "Serve churros hot with chocolate sauce.",
+      "imageUri": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80"
+    }
+  ]
+}

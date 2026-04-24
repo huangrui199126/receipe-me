@@ -1,0 +1,97 @@
+{
+  "id": "tr_19",
+  "title": "Avocado Egg Bake",
+  "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=600&q=80",
+  "importCount": "3.1K",
+  "sourcePlatform": "Pinterest",
+  "cuisine": "American",
+  "category": "Breakfast",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "avocado",
+    "egg",
+    "keto",
+    "low-carb",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 16,
+    "carbs": 10,
+    "fat": 27
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "section": "Bake",
+      "name": "Avocados",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🥑"
+    },
+    {
+      "section": "Bake",
+      "name": "Eggs",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "Bake",
+      "name": "Cheddar",
+      "amount": "30",
+      "unit": "g",
+      "emoji": "🧀"
+    },
+    {
+      "section": "Bake",
+      "name": "Red Pepper Flakes",
+      "amount": "1/2",
+      "unit": "tsp",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "Bake",
+      "name": "Salt & Pepper",
+      "amount": "to taste",
+      "unit": "",
+      "emoji": "🧂"
+    },
+    {
+      "section": "Bake",
+      "name": "Chives",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🌿"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C. Halve avocados and remove pits.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Scoop out a little flesh to make room for the egg.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Place avocados in a baking dish. Crack one egg into each half.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Season with salt, pepper, and red pepper flakes.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Bake 12-15 minutes until whites are set. Top with cheese and chives.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "tr_48",
+  "title": "Chicken Shawarma Bowl",
+  "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&q=80",
+  "importCount": "4.3K",
+  "sourcePlatform": "Instagram",
+  "cuisine": "Middle Eastern",
+  "category": "Dinner",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [
+    "shawarma",
+    "chicken",
+    "middle eastern",
+    "bowl",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 38,
+    "carbs": 36,
+    "fat": 20
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "section": "Chicken",
+      "name": "Chicken Thighs",
+      "amount": "600",
+      "unit": "g",
+      "emoji": "🍗"
+    },
+    {
+      "section": "Chicken",
+      "name": "Cumin",
+      "amount": "2",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Chicken",
+      "name": "Turmeric",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🟡"
+    },
+    {
+      "section": "Chicken",
+      "name": "Paprika",
+      "amount": "2",
+      "unit": "tsp",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "Chicken",
+      "name": "Cinnamon",
+      "amount": "1/2",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Chicken",
+      "name": "Lemon Juice",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🍋"
+    },
+    {
+      "section": "Chicken",
+      "name": "Olive Oil",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Bowl",
+      "name": "Rice or Couscous",
+      "amount": "2",
+      "unit": "cups",
+      "emoji": "🍚"
+    },
+    {
+      "section": "Bowl",
+      "name": "Hummus",
+      "amount": "4",
+      "unit": "tbsp",
+      "emoji": "🥣"
+    },
+    {
+      "section": "Bowl",
+      "name": "Cucumber",
+      "amount": "1",
+      "unit": "",
+      "emoji": "🥒"
+    },
+    {
+      "section": "Bowl",
+      "name": "Cherry Tomatoes",
+      "amount": "1",
+      "unit": "cup",
+      "emoji": "🍅"
+    },
+    {
+      "section": "Bowl",
+      "name": "Red Onion",
+      "amount": "1/2",
+      "unit": "",
+      "emoji": "🧅"
+    },
+    {
+      "section": "Bowl",
+      "name": "Tahini Sauce",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🥄"
+    },
+    {
+      "section": "Bowl",
+      "name": "Parsley",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🌿"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinate chicken in all spices, lemon juice, and olive oil.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Grill or pan-sear chicken 5-6 min per side until cooked.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Rest and slice chicken.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Build bowls: grain base, hummus, cucumber, and tomatoes.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Add sliced chicken and drizzle with tahini.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    },
+    {
+      "order": 6,
+      "instruction": "Garnish with parsley and red onion.",
+      "imageUri": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80"
+    }
+  ]
+}

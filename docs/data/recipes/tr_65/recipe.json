@@ -1,0 +1,117 @@
+{
+  "id": "tr_65",
+  "title": "Churro Cheesecake Bars",
+  "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=600&q=80",
+  "importCount": "5.3K",
+  "sourcePlatform": "TikTok",
+  "cuisine": "American",
+  "category": "Desserts",
+  "servings": 12,
+  "prepTime": 20,
+  "cookTime": 30,
+  "tags": [
+    "cheesecake",
+    "churro",
+    "bars",
+    "trending",
+    "easy",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 5,
+    "carbs": 38,
+    "fat": 18
+  },
+  "healthScore": 3,
+  "ingredients": [
+    {
+      "section": "Bars",
+      "name": "Crescent Roll Dough",
+      "amount": "2",
+      "unit": "cans",
+      "emoji": "🌾"
+    },
+    {
+      "section": "Bars",
+      "name": "Cream Cheese",
+      "amount": "500",
+      "unit": "g",
+      "emoji": "🧀"
+    },
+    {
+      "section": "Bars",
+      "name": "Sugar",
+      "amount": "120",
+      "unit": "g",
+      "emoji": "🍚"
+    },
+    {
+      "section": "Bars",
+      "name": "Vanilla Extract",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🍶"
+    },
+    {
+      "section": "Bars",
+      "name": "Egg",
+      "amount": "1",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "Cinnamon Sugar",
+      "name": "Butter",
+      "amount": "60",
+      "unit": "g",
+      "emoji": "🧈"
+    },
+    {
+      "section": "Cinnamon Sugar",
+      "name": "Sugar",
+      "amount": "4",
+      "unit": "tbsp",
+      "emoji": "🍚"
+    },
+    {
+      "section": "Cinnamon Sugar",
+      "name": "Cinnamon",
+      "amount": "2",
+      "unit": "tsp",
+      "emoji": "🌿"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Press one can of crescent dough into a greased 9x13 pan.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Beat cream cheese, sugar, vanilla, and egg until smooth.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Spread cream cheese filling over dough.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Layer second can of crescent dough on top.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Brush with melted butter and sprinkle cinnamon sugar generously.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    },
+    {
+      "order": 6,
+      "instruction": "Bake at 180°C for 25-30 minutes until golden. Cool before cutting.",
+      "imageUri": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80"
+    }
+  ]
+}

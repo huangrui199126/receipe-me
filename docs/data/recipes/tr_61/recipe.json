@@ -1,0 +1,123 @@
+{
+  "id": "tr_61",
+  "title": "Banana Bread",
+  "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80",
+  "importCount": "3.9K",
+  "sourcePlatform": "Pinterest",
+  "cuisine": "American",
+  "category": "Desserts",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 60,
+  "tags": [
+    "banana bread",
+    "baking",
+    "comfort",
+    "sweet",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 42,
+    "fat": 10
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "section": "Batter",
+      "name": "Ripe Bananas",
+      "amount": "3",
+      "unit": "",
+      "emoji": "🍌"
+    },
+    {
+      "section": "Batter",
+      "name": "All-Purpose Flour",
+      "amount": "200",
+      "unit": "g",
+      "emoji": "🌾"
+    },
+    {
+      "section": "Batter",
+      "name": "Sugar",
+      "amount": "150",
+      "unit": "g",
+      "emoji": "🍚"
+    },
+    {
+      "section": "Batter",
+      "name": "Butter",
+      "amount": "80",
+      "unit": "g",
+      "emoji": "🧈"
+    },
+    {
+      "section": "Batter",
+      "name": "Eggs",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "Batter",
+      "name": "Vanilla",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🍶"
+    },
+    {
+      "section": "Batter",
+      "name": "Baking Soda",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🥄"
+    },
+    {
+      "section": "Batter",
+      "name": "Salt",
+      "amount": "1/2",
+      "unit": "tsp",
+      "emoji": "🧂"
+    },
+    {
+      "section": "Batter",
+      "name": "Walnuts",
+      "amount": "60",
+      "unit": "g",
+      "emoji": "🌰"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 175°C. Mash bananas thoroughly.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Cream butter and sugar until light. Beat in eggs and vanilla.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Mix in mashed bananas.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Fold in flour, baking soda, and salt until just combined.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Fold in walnuts. Pour into greased loaf pan.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    },
+    {
+      "order": 6,
+      "instruction": "Bake 55-65 minutes until a toothpick comes out clean.",
+      "imageUri": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80"
+    }
+  ]
+}

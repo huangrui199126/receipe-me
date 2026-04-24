@@ -1,0 +1,119 @@
+{
+  "id": "tr_20",
+  "title": "Idli Sambar",
+  "image": "https://images.unsplash.com/photo-1567620905-551302-2050?w=600&q=80",
+  "importCount": "2.4K",
+  "sourcePlatform": "Instagram",
+  "cuisine": "Indian",
+  "category": "Breakfast",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "idli",
+    "sambar",
+    "indian",
+    "south indian",
+    "healthy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 11,
+    "carbs": 55,
+    "fat": 6
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "section": "Idli",
+      "name": "Idli Batter (store-bought)",
+      "amount": "2",
+      "unit": "cups",
+      "emoji": "🍚"
+    },
+    {
+      "section": "Idli",
+      "name": "Salt",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🧂"
+    },
+    {
+      "section": "Sambar",
+      "name": "Toor Dal",
+      "amount": "1/2",
+      "unit": "cup",
+      "emoji": "🫘"
+    },
+    {
+      "section": "Sambar",
+      "name": "Tomatoes",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🍅"
+    },
+    {
+      "section": "Sambar",
+      "name": "Onion",
+      "amount": "1",
+      "unit": "",
+      "emoji": "🧅"
+    },
+    {
+      "section": "Sambar",
+      "name": "Sambar Powder",
+      "amount": "2",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Sambar",
+      "name": "Tamarind Paste",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Sambar",
+      "name": "Mustard Seeds",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Sambar",
+      "name": "Curry Leaves",
+      "amount": "8",
+      "unit": "",
+      "emoji": "🌿"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Steam idli batter in greased molds for 10-12 minutes.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Boil dal until soft. Add tomatoes, onion, and sambar powder.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Add tamarind paste and simmer 10 minutes.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Temper with mustard seeds and curry leaves in oil.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Serve hot idlis with sambar and coconut chutney.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    }
+  ]
+}

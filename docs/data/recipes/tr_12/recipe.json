@@ -1,0 +1,111 @@
+{
+  "id": "tr_12",
+  "title": "Masala Omelette",
+  "image": "https://images.unsplash.com/photo-1505575967455-40e256f73a6e?w=600&q=80",
+  "importCount": "2.8K",
+  "sourcePlatform": "Instagram",
+  "cuisine": "Indian",
+  "category": "Breakfast",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 8,
+  "tags": [
+    "eggs",
+    "indian",
+    "spicy",
+    "breakfast",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 19
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "section": "Omelette",
+      "name": "Eggs",
+      "amount": "3",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "Omelette",
+      "name": "Onion",
+      "amount": "1/4",
+      "unit": "",
+      "emoji": "🧅"
+    },
+    {
+      "section": "Omelette",
+      "name": "Green Chilli",
+      "amount": "1",
+      "unit": "",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "Omelette",
+      "name": "Tomato",
+      "amount": "1/4",
+      "unit": "",
+      "emoji": "🍅"
+    },
+    {
+      "section": "Omelette",
+      "name": "Cumin Seeds",
+      "amount": "1/2",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Omelette",
+      "name": "Turmeric",
+      "amount": "1/4",
+      "unit": "tsp",
+      "emoji": "🟡"
+    },
+    {
+      "section": "Omelette",
+      "name": "Coriander Leaves",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Omelette",
+      "name": "Butter",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🧈"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Finely dice onion, tomato, and green chilli.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Beat eggs with turmeric, salt, and cumin seeds.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Add vegetables and chopped coriander to the egg mixture.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Heat butter in a pan over medium heat and pour in the egg mixture.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Cook until set on the bottom, then fold and serve hot.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    }
+  ]
+}

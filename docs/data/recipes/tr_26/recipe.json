@@ -1,0 +1,130 @@
+{
+  "id": "tr_26",
+  "title": "Tom Yum Soup",
+  "image": "https://images.unsplash.com/photo-1604908177635-f22c0df2c6b9?w=600&q=80",
+  "importCount": "2.7K",
+  "sourcePlatform": "TikTok",
+  "cuisine": "Thai",
+  "category": "Lunch",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "soup",
+    "thai",
+    "spicy",
+    "shrimp",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 24,
+    "carbs": 18,
+    "fat": 6
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "section": "Soup",
+      "name": "Shrimp",
+      "amount": "300",
+      "unit": "g",
+      "emoji": "🦐"
+    },
+    {
+      "section": "Soup",
+      "name": "Lemongrass",
+      "amount": "2",
+      "unit": "stalks",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Soup",
+      "name": "Galangal",
+      "amount": "4",
+      "unit": "slices",
+      "emoji": "🫚"
+    },
+    {
+      "section": "Soup",
+      "name": "Kaffir Lime Leaves",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Soup",
+      "name": "Thai Chilies",
+      "amount": "3",
+      "unit": "",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "Soup",
+      "name": "Fish Sauce",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Soup",
+      "name": "Lime Juice",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🍋"
+    },
+    {
+      "section": "Soup",
+      "name": "Mushrooms",
+      "amount": "150",
+      "unit": "g",
+      "emoji": "🍄"
+    },
+    {
+      "section": "Soup",
+      "name": "Coconut Milk",
+      "amount": "200",
+      "unit": "ml",
+      "emoji": "🥥"
+    },
+    {
+      "section": "Soup",
+      "name": "Chicken Broth",
+      "amount": "500",
+      "unit": "ml",
+      "emoji": "🍲"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bruise lemongrass, galangal, and kaffir lime leaves.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Simmer broth with aromatics for 10 minutes.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Add mushrooms and cook 3 minutes.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Add shrimp and chilies. Cook until shrimp turns pink.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Stir in coconut milk, fish sauce, and lime juice. Adjust seasoning.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    },
+    {
+      "order": 6,
+      "instruction": "Serve hot with fresh chilies and lime wedges.",
+      "imageUri": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80"
+    }
+  ]
+}

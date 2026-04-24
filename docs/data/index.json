@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-04-02T07:43:46.101Z",
-  "recipeCount": 10,
+  "updatedAt": "2026-04-24T00:00:00.000Z",
+  "recipeCount": 65,
   "recipes": [
     {
       "id": "tr_1",
@@ -10,6 +10,8 @@
       "sourcePlatform": "Instagram",
       "importCount": "3.9K",
       "healthScore": 7,
+      "cuisine": "",
+      "category": "",
       "nutrition": {
         "calories": 520,
         "protein": 42,
@@ -29,6 +31,8 @@
       "sourcePlatform": "TikTok",
       "importCount": "1.7K",
       "healthScore": 6,
+      "cuisine": "",
+      "category": "",
       "nutrition": {
         "calories": 440,
         "protein": 16,
@@ -48,6 +52,8 @@
       "sourcePlatform": "TikTok",
       "importCount": "1.5K",
       "healthScore": 5,
+      "cuisine": "",
+      "category": "",
       "nutrition": {
         "calories": 580,
         "protein": 36,
@@ -67,6 +73,8 @@
       "sourcePlatform": "Instagram",
       "importCount": "1.3K",
       "healthScore": 9,
+      "cuisine": "",
+      "category": "",
       "nutrition": {
         "calories": 380,
         "protein": 46,
@@ -87,6 +95,8 @@
       "sourcePlatform": "Instagram",
       "importCount": "1.2K",
       "healthScore": 6,
+      "cuisine": "",
+      "category": "",
       "nutrition": {
         "calories": 490,
         "protein": 44,
@@ -106,6 +116,8 @@
       "sourcePlatform": "Instagram",
       "importCount": "980",
       "healthScore": 9,
+      "cuisine": "",
+      "category": "",
       "nutrition": {
         "calories": 320,
         "protein": 14,
@@ -126,6 +138,8 @@
       "sourcePlatform": "TikTok",
       "importCount": "860",
       "healthScore": 3,
+      "cuisine": "",
+      "category": "",
       "nutrition": {
         "calories": 420,
         "protein": 8,
@@ -145,6 +159,8 @@
       "sourcePlatform": "Instagram",
       "importCount": "740",
       "healthScore": 9,
+      "cuisine": "",
+      "category": "",
       "nutrition": {
         "calories": 420,
         "protein": 48,
@@ -165,6 +181,8 @@
       "sourcePlatform": "Instagram",
       "importCount": "690",
       "healthScore": 10,
+      "cuisine": "",
+      "category": "",
       "nutrition": {
         "calories": 290,
         "protein": 12,
@@ -185,6 +203,8 @@
       "sourcePlatform": "TikTok",
       "importCount": "610",
       "healthScore": 7,
+      "cuisine": "",
+      "category": "",
       "nutrition": {
         "calories": 510,
         "protein": 34,
@@ -196,6 +216,1290 @@
         "korean",
         "rice",
         "meal-prep"
+      ]
+    },
+    {
+      "id": "tr_11",
+      "title": "Fluffy Japanese Pancakes",
+      "image": "https://images.unsplash.com/photo-1567620905-551302-2050?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "5.2K",
+      "healthScore": 6,
+      "cuisine": "Japanese",
+      "category": "Breakfast",
+      "nutrition": {
+        "calories": 380,
+        "protein": 12,
+        "carbs": 55,
+        "fat": 12
+      },
+      "tags": [
+        "pancakes",
+        "breakfast",
+        "fluffy",
+        "japanese"
+      ]
+    },
+    {
+      "id": "tr_12",
+      "title": "Masala Omelette",
+      "image": "https://images.unsplash.com/photo-1505575967455-40e256f73a6e?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "2.8K",
+      "healthScore": 8,
+      "cuisine": "Indian",
+      "category": "Breakfast",
+      "nutrition": {
+        "calories": 290,
+        "protein": 20,
+        "carbs": 8,
+        "fat": 19
+      },
+      "tags": [
+        "eggs",
+        "indian",
+        "spicy",
+        "breakfast",
+        "quick"
+      ]
+    },
+    {
+      "id": "tr_13",
+      "title": "Açaí Smoothie Bowl",
+      "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "4.1K",
+      "healthScore": 9,
+      "cuisine": "Brazilian",
+      "category": "Breakfast",
+      "nutrition": {
+        "calories": 420,
+        "protein": 8,
+        "carbs": 62,
+        "fat": 16
+      },
+      "tags": [
+        "smoothie",
+        "bowl",
+        "açaí",
+        "healthy",
+        "vegan"
+      ]
+    },
+    {
+      "id": "tr_14",
+      "title": "Shakshuka",
+      "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "3.6K",
+      "healthScore": 8,
+      "cuisine": "Middle Eastern",
+      "category": "Breakfast",
+      "nutrition": {
+        "calories": 310,
+        "protein": 18,
+        "carbs": 22,
+        "fat": 16
+      },
+      "tags": [
+        "eggs",
+        "tomato",
+        "middle eastern",
+        "brunch",
+        "healthy"
+      ]
+    },
+    {
+      "id": "tr_15",
+      "title": "Overnight Chia Oats",
+      "image": "https://images.unsplash.com/photo-1571091655789-27cef8912898?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "2.2K",
+      "healthScore": 9,
+      "cuisine": "American",
+      "category": "Breakfast",
+      "nutrition": {
+        "calories": 350,
+        "protein": 14,
+        "carbs": 48,
+        "fat": 12
+      },
+      "tags": [
+        "oats",
+        "chia",
+        "no-cook",
+        "meal-prep",
+        "healthy"
+      ]
+    },
+    {
+      "id": "tr_16",
+      "title": "Mexican Breakfast Burrito",
+      "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "3.3K",
+      "healthScore": 7,
+      "cuisine": "Mexican",
+      "category": "Breakfast",
+      "nutrition": {
+        "calories": 580,
+        "protein": 32,
+        "carbs": 52,
+        "fat": 26
+      },
+      "tags": [
+        "burrito",
+        "eggs",
+        "mexican",
+        "breakfast",
+        "high-protein"
+      ]
+    },
+    {
+      "id": "tr_17",
+      "title": "French Toast with Caramelized Bananas",
+      "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "2.9K",
+      "healthScore": 6,
+      "cuisine": "French",
+      "category": "Breakfast",
+      "nutrition": {
+        "calories": 490,
+        "protein": 15,
+        "carbs": 68,
+        "fat": 18
+      },
+      "tags": [
+        "french toast",
+        "banana",
+        "breakfast",
+        "sweet",
+        "brunch"
+      ]
+    },
+    {
+      "id": "tr_18",
+      "title": "Congee (Chinese Rice Porridge)",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "1.9K",
+      "healthScore": 8,
+      "cuisine": "Chinese",
+      "category": "Breakfast",
+      "nutrition": {
+        "calories": 280,
+        "protein": 14,
+        "carbs": 42,
+        "fat": 5
+      },
+      "tags": [
+        "congee",
+        "chinese",
+        "comfort",
+        "rice",
+        "gluten-free"
+      ]
+    },
+    {
+      "id": "tr_19",
+      "title": "Avocado Egg Bake",
+      "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "3.1K",
+      "healthScore": 9,
+      "cuisine": "American",
+      "category": "Breakfast",
+      "nutrition": {
+        "calories": 340,
+        "protein": 16,
+        "carbs": 10,
+        "fat": 27
+      },
+      "tags": [
+        "avocado",
+        "egg",
+        "keto",
+        "low-carb",
+        "quick"
+      ]
+    },
+    {
+      "id": "tr_20",
+      "title": "Idli Sambar",
+      "image": "https://images.unsplash.com/photo-1567620905-551302-2050?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "2.4K",
+      "healthScore": 9,
+      "cuisine": "Indian",
+      "category": "Breakfast",
+      "nutrition": {
+        "calories": 310,
+        "protein": 11,
+        "carbs": 55,
+        "fat": 6
+      },
+      "tags": [
+        "idli",
+        "sambar",
+        "indian",
+        "south indian",
+        "healthy",
+        "vegan"
+      ]
+    },
+    {
+      "id": "tr_21",
+      "title": "Bánh Mì Sandwich",
+      "image": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "3.8K",
+      "healthScore": 7,
+      "cuisine": "Vietnamese",
+      "category": "Lunch",
+      "nutrition": {
+        "calories": 480,
+        "protein": 28,
+        "carbs": 52,
+        "fat": 18
+      },
+      "tags": [
+        "vietnamese",
+        "sandwich",
+        "pork",
+        "fresh",
+        "banh mi"
+      ]
+    },
+    {
+      "id": "tr_22",
+      "title": "Pad Thai",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "4.7K",
+      "healthScore": 7,
+      "cuisine": "Thai",
+      "category": "Lunch",
+      "nutrition": {
+        "calories": 540,
+        "protein": 28,
+        "carbs": 68,
+        "fat": 18
+      },
+      "tags": [
+        "thai",
+        "noodles",
+        "pad thai",
+        "classic",
+        "shrimp"
+      ]
+    },
+    {
+      "id": "tr_23",
+      "title": "Caprese Salad",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "2.1K",
+      "healthScore": 9,
+      "cuisine": "Italian",
+      "category": "Lunch",
+      "nutrition": {
+        "calories": 320,
+        "protein": 18,
+        "carbs": 12,
+        "fat": 22
+      },
+      "tags": [
+        "italian",
+        "salad",
+        "caprese",
+        "vegetarian",
+        "fresh"
+      ]
+    },
+    {
+      "id": "tr_24",
+      "title": "Spicy Tuna Poke Bowl",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "5.6K",
+      "healthScore": 9,
+      "cuisine": "Hawaiian",
+      "category": "Lunch",
+      "nutrition": {
+        "calories": 510,
+        "protein": 38,
+        "carbs": 52,
+        "fat": 16
+      },
+      "tags": [
+        "poke",
+        "tuna",
+        "bowl",
+        "japanese",
+        "healthy",
+        "rice"
+      ]
+    },
+    {
+      "id": "tr_25",
+      "title": "Chicken Caesar Salad",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "3.2K",
+      "healthScore": 8,
+      "cuisine": "American",
+      "category": "Lunch",
+      "nutrition": {
+        "calories": 480,
+        "protein": 42,
+        "carbs": 18,
+        "fat": 26
+      },
+      "tags": [
+        "caesar",
+        "salad",
+        "chicken",
+        "classic",
+        "high-protein"
+      ]
+    },
+    {
+      "id": "tr_26",
+      "title": "Tom Yum Soup",
+      "image": "https://images.unsplash.com/photo-1604908177635-f22c0df2c6b9?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "2.7K",
+      "healthScore": 9,
+      "cuisine": "Thai",
+      "category": "Lunch",
+      "nutrition": {
+        "calories": 220,
+        "protein": 24,
+        "carbs": 18,
+        "fat": 6
+      },
+      "tags": [
+        "soup",
+        "thai",
+        "spicy",
+        "shrimp",
+        "low-calorie"
+      ]
+    },
+    {
+      "id": "tr_27",
+      "title": "Falafel Wrap",
+      "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "3.0K",
+      "healthScore": 8,
+      "cuisine": "Middle Eastern",
+      "category": "Lunch",
+      "nutrition": {
+        "calories": 460,
+        "protein": 18,
+        "carbs": 62,
+        "fat": 16
+      },
+      "tags": [
+        "falafel",
+        "wrap",
+        "middle eastern",
+        "vegan",
+        "protein"
+      ]
+    },
+    {
+      "id": "tr_28",
+      "title": "Smash Burger",
+      "image": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "6.2K",
+      "healthScore": 5,
+      "cuisine": "American",
+      "category": "Lunch",
+      "nutrition": {
+        "calories": 680,
+        "protein": 38,
+        "carbs": 42,
+        "fat": 38
+      },
+      "tags": [
+        "burger",
+        "smash",
+        "beef",
+        "american",
+        "quick"
+      ]
+    },
+    {
+      "id": "tr_29",
+      "title": "Miso Soup with Tofu",
+      "image": "https://images.unsplash.com/photo-1604908177635-f22c0df2c6b9?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "1.8K",
+      "healthScore": 10,
+      "cuisine": "Japanese",
+      "category": "Lunch",
+      "nutrition": {
+        "calories": 140,
+        "protein": 10,
+        "carbs": 14,
+        "fat": 5
+      },
+      "tags": [
+        "miso",
+        "soup",
+        "japanese",
+        "tofu",
+        "vegan",
+        "low-calorie"
+      ]
+    },
+    {
+      "id": "tr_30",
+      "title": "Quesadillas",
+      "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "3.5K",
+      "healthScore": 7,
+      "cuisine": "Mexican",
+      "category": "Lunch",
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 44,
+        "fat": 26
+      },
+      "tags": [
+        "quesadilla",
+        "mexican",
+        "cheese",
+        "quick",
+        "kids"
+      ]
+    },
+    {
+      "id": "tr_31",
+      "title": "Butter Chicken (Murgh Makhani)",
+      "image": "https://images.unsplash.com/photo-1604908177635-f22c0df2c6b9?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "7.8K",
+      "healthScore": 7,
+      "cuisine": "Indian",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 480,
+        "protein": 38,
+        "carbs": 22,
+        "fat": 28
+      },
+      "tags": [
+        "indian",
+        "curry",
+        "chicken",
+        "butter chicken",
+        "popular"
+      ]
+    },
+    {
+      "id": "tr_32",
+      "title": "Spaghetti Carbonara",
+      "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "5.4K",
+      "healthScore": 6,
+      "cuisine": "Italian",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 620,
+        "protein": 32,
+        "carbs": 72,
+        "fat": 22
+      },
+      "tags": [
+        "pasta",
+        "italian",
+        "carbonara",
+        "classic",
+        "quick"
+      ]
+    },
+    {
+      "id": "tr_33",
+      "title": "Birria Tacos",
+      "image": "https://images.unsplash.com/photo-1604908177635-f22c0df2c6b9?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "8.3K",
+      "healthScore": 7,
+      "cuisine": "Mexican",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 420,
+        "protein": 32,
+        "carbs": 28,
+        "fat": 22
+      },
+      "tags": [
+        "tacos",
+        "birria",
+        "mexican",
+        "beef",
+        "trending"
+      ]
+    },
+    {
+      "id": "tr_34",
+      "title": "Teriyaki Salmon Bowl",
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "4.2K",
+      "healthScore": 9,
+      "cuisine": "Japanese",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 520,
+        "protein": 42,
+        "carbs": 48,
+        "fat": 18
+      },
+      "tags": [
+        "salmon",
+        "teriyaki",
+        "japanese",
+        "bowl",
+        "healthy",
+        "omega-3"
+      ]
+    },
+    {
+      "id": "tr_35",
+      "title": "Dal Makhani",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "3.1K",
+      "healthScore": 8,
+      "cuisine": "Indian",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 380,
+        "protein": 16,
+        "carbs": 48,
+        "fat": 14
+      },
+      "tags": [
+        "dal",
+        "lentils",
+        "indian",
+        "vegetarian",
+        "comfort"
+      ]
+    },
+    {
+      "id": "tr_36",
+      "title": "Chicken Tikka Masala",
+      "image": "https://images.unsplash.com/photo-1604908177635-f22c0df2c6b9?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "6.5K",
+      "healthScore": 7,
+      "cuisine": "Indian",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 490,
+        "protein": 40,
+        "carbs": 24,
+        "fat": 26
+      },
+      "tags": [
+        "indian",
+        "curry",
+        "chicken",
+        "tikka",
+        "popular",
+        "spicy"
+      ]
+    },
+    {
+      "id": "tr_37",
+      "title": "Kung Pao Chicken",
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "4.4K",
+      "healthScore": 7,
+      "cuisine": "Chinese",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 420,
+        "protein": 35,
+        "carbs": 22,
+        "fat": 22
+      },
+      "tags": [
+        "chinese",
+        "chicken",
+        "spicy",
+        "stir-fry",
+        "peanuts"
+      ]
+    },
+    {
+      "id": "tr_38",
+      "title": "Ratatouille",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "2.5K",
+      "healthScore": 10,
+      "cuisine": "French",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 180,
+        "protein": 5,
+        "carbs": 24,
+        "fat": 8
+      },
+      "tags": [
+        "french",
+        "vegetarian",
+        "ratatouille",
+        "vegetables",
+        "vegan"
+      ]
+    },
+    {
+      "id": "tr_39",
+      "title": "Lamb Kofta with Tzatziki",
+      "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "3.3K",
+      "healthScore": 7,
+      "cuisine": "Mediterranean",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 440,
+        "protein": 32,
+        "carbs": 20,
+        "fat": 26
+      },
+      "tags": [
+        "lamb",
+        "kofta",
+        "mediterranean",
+        "greek",
+        "high-protein"
+      ]
+    },
+    {
+      "id": "tr_40",
+      "title": "Mapo Tofu",
+      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "3.8K",
+      "healthScore": 8,
+      "cuisine": "Chinese",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 340,
+        "protein": 20,
+        "carbs": 16,
+        "fat": 22
+      },
+      "tags": [
+        "chinese",
+        "tofu",
+        "sichuan",
+        "spicy",
+        "numbing"
+      ]
+    },
+    {
+      "id": "tr_41",
+      "title": "Osso Buco",
+      "image": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "2.1K",
+      "healthScore": 7,
+      "cuisine": "Italian",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 560,
+        "protein": 42,
+        "carbs": 18,
+        "fat": 34
+      },
+      "tags": [
+        "italian",
+        "veal",
+        "braised",
+        "osso buco",
+        "classic",
+        "dinner party"
+      ]
+    },
+    {
+      "id": "tr_42",
+      "title": "Carne Asada Tacos",
+      "image": "https://images.unsplash.com/photo-1604908177635-f22c0df2c6b9?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "5.1K",
+      "healthScore": 7,
+      "cuisine": "Mexican",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 420,
+        "protein": 30,
+        "carbs": 32,
+        "fat": 18
+      },
+      "tags": [
+        "tacos",
+        "carne asada",
+        "mexican",
+        "beef",
+        "grilled"
+      ]
+    },
+    {
+      "id": "tr_43",
+      "title": "Beef Bulgogi",
+      "image": "https://images.unsplash.com/photo-1553163147-622ab57be1c7?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "4.6K",
+      "healthScore": 7,
+      "cuisine": "Korean",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 440,
+        "protein": 36,
+        "carbs": 28,
+        "fat": 20
+      },
+      "tags": [
+        "korean",
+        "beef",
+        "bulgogi",
+        "bbq",
+        "sweet",
+        "savory"
+      ]
+    },
+    {
+      "id": "tr_44",
+      "title": "Lobster Bisque",
+      "image": "https://images.unsplash.com/photo-1604908177635-f22c0df2c6b9?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "2.8K",
+      "healthScore": 7,
+      "cuisine": "French",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 380,
+        "protein": 22,
+        "carbs": 18,
+        "fat": 24
+      },
+      "tags": [
+        "lobster",
+        "bisque",
+        "french",
+        "soup",
+        "seafood",
+        "special occasion"
+      ]
+    },
+    {
+      "id": "tr_45",
+      "title": "Bibimbap",
+      "image": "https://images.unsplash.com/photo-1553163147-622ab57be1c7?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "4.1K",
+      "healthScore": 9,
+      "cuisine": "Korean",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 480,
+        "protein": 22,
+        "carbs": 62,
+        "fat": 16
+      },
+      "tags": [
+        "korean",
+        "rice bowl",
+        "bibimbap",
+        "vegetables",
+        "egg"
+      ]
+    },
+    {
+      "id": "tr_46",
+      "title": "Moussaka",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "2.4K",
+      "healthScore": 7,
+      "cuisine": "Greek",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 32,
+        "fat": 30
+      },
+      "tags": [
+        "greek",
+        "moussaka",
+        "lamb",
+        "eggplant",
+        "baked",
+        "comfort"
+      ]
+    },
+    {
+      "id": "tr_47",
+      "title": "Tacos al Pastor",
+      "image": "https://images.unsplash.com/photo-1604908177635-f22c0df2c6b9?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "5.8K",
+      "healthScore": 7,
+      "cuisine": "Mexican",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 390,
+        "protein": 26,
+        "carbs": 34,
+        "fat": 16
+      },
+      "tags": [
+        "tacos",
+        "al pastor",
+        "mexican",
+        "pork",
+        "pineapple"
+      ]
+    },
+    {
+      "id": "tr_48",
+      "title": "Chicken Shawarma Bowl",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "4.3K",
+      "healthScore": 8,
+      "cuisine": "Middle Eastern",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 480,
+        "protein": 38,
+        "carbs": 36,
+        "fat": 20
+      },
+      "tags": [
+        "shawarma",
+        "chicken",
+        "middle eastern",
+        "bowl",
+        "healthy"
+      ]
+    },
+    {
+      "id": "tr_49",
+      "title": "Pho Bo (Vietnamese Beef Noodle Soup)",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "3.7K",
+      "healthScore": 8,
+      "cuisine": "Vietnamese",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 420,
+        "protein": 32,
+        "carbs": 48,
+        "fat": 12
+      },
+      "tags": [
+        "pho",
+        "vietnamese",
+        "beef",
+        "soup",
+        "noodles",
+        "comfort"
+      ]
+    },
+    {
+      "id": "tr_50",
+      "title": "Chicken Pot Pie",
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "3.0K",
+      "healthScore": 6,
+      "cuisine": "American",
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 580,
+        "protein": 28,
+        "carbs": 42,
+        "fat": 32
+      },
+      "tags": [
+        "pot pie",
+        "chicken",
+        "american",
+        "comfort",
+        "baked"
+      ]
+    },
+    {
+      "id": "tr_51",
+      "title": "Guacamole",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "3.4K",
+      "healthScore": 9,
+      "cuisine": "Mexican",
+      "category": "Snacks",
+      "nutrition": {
+        "calories": 180,
+        "protein": 2,
+        "carbs": 12,
+        "fat": 16
+      },
+      "tags": [
+        "guacamole",
+        "avocado",
+        "dip",
+        "vegan",
+        "snack",
+        "quick"
+      ]
+    },
+    {
+      "id": "tr_52",
+      "title": "Edamame with Sea Salt",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "1.5K",
+      "healthScore": 10,
+      "cuisine": "Japanese",
+      "category": "Snacks",
+      "nutrition": {
+        "calories": 120,
+        "protein": 11,
+        "carbs": 9,
+        "fat": 5
+      },
+      "tags": [
+        "edamame",
+        "japanese",
+        "snack",
+        "vegan",
+        "protein",
+        "healthy"
+      ]
+    },
+    {
+      "id": "tr_53",
+      "title": "Everything Bagel Hummus",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "2.1K",
+      "healthScore": 9,
+      "cuisine": "American",
+      "category": "Snacks",
+      "nutrition": {
+        "calories": 160,
+        "protein": 6,
+        "carbs": 18,
+        "fat": 7
+      },
+      "tags": [
+        "hummus",
+        "dip",
+        "everything bagel",
+        "chickpeas",
+        "snack"
+      ]
+    },
+    {
+      "id": "tr_54",
+      "title": "Korean Corn Dogs",
+      "image": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "4.9K",
+      "healthScore": 4,
+      "cuisine": "Korean",
+      "category": "Snacks",
+      "nutrition": {
+        "calories": 380,
+        "protein": 14,
+        "carbs": 44,
+        "fat": 18
+      },
+      "tags": [
+        "korean",
+        "corn dog",
+        "fried",
+        "mozzarella",
+        "trending",
+        "snack"
+      ]
+    },
+    {
+      "id": "tr_55",
+      "title": "Spinach Artichoke Dip",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "2.8K",
+      "healthScore": 6,
+      "cuisine": "American",
+      "category": "Snacks",
+      "nutrition": {
+        "calories": 220,
+        "protein": 9,
+        "carbs": 8,
+        "fat": 18
+      },
+      "tags": [
+        "dip",
+        "spinach",
+        "artichoke",
+        "cheese",
+        "party",
+        "baked"
+      ]
+    },
+    {
+      "id": "tr_56",
+      "title": "Tiramisu",
+      "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "4.2K",
+      "healthScore": 4,
+      "cuisine": "Italian",
+      "category": "Desserts",
+      "nutrition": {
+        "calories": 380,
+        "protein": 8,
+        "carbs": 32,
+        "fat": 24
+      },
+      "tags": [
+        "tiramisu",
+        "italian",
+        "no-bake",
+        "coffee",
+        "classic",
+        "dessert"
+      ]
+    },
+    {
+      "id": "tr_57",
+      "title": "Mango Sticky Rice",
+      "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "3.6K",
+      "healthScore": 7,
+      "cuisine": "Thai",
+      "category": "Desserts",
+      "nutrition": {
+        "calories": 380,
+        "protein": 6,
+        "carbs": 72,
+        "fat": 10
+      },
+      "tags": [
+        "thai",
+        "mango",
+        "sticky rice",
+        "dessert",
+        "vegan",
+        "tropical"
+      ]
+    },
+    {
+      "id": "tr_58",
+      "title": "Crème Brûlée",
+      "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "3.1K",
+      "healthScore": 3,
+      "cuisine": "French",
+      "category": "Desserts",
+      "nutrition": {
+        "calories": 420,
+        "protein": 6,
+        "carbs": 34,
+        "fat": 28
+      },
+      "tags": [
+        "creme brulee",
+        "french",
+        "classic",
+        "vanilla",
+        "dessert"
+      ]
+    },
+    {
+      "id": "tr_59",
+      "title": "Churros with Chocolate Sauce",
+      "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "4.8K",
+      "healthScore": 3,
+      "cuisine": "Spanish",
+      "category": "Desserts",
+      "nutrition": {
+        "calories": 440,
+        "protein": 8,
+        "carbs": 58,
+        "fat": 20
+      },
+      "tags": [
+        "churros",
+        "spanish",
+        "fried",
+        "chocolate",
+        "dessert",
+        "sweet"
+      ]
+    },
+    {
+      "id": "tr_60",
+      "title": "Matcha Ice Cream",
+      "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "2.7K",
+      "healthScore": 5,
+      "cuisine": "Japanese",
+      "category": "Desserts",
+      "nutrition": {
+        "calories": 320,
+        "protein": 5,
+        "carbs": 28,
+        "fat": 22
+      },
+      "tags": [
+        "matcha",
+        "ice cream",
+        "japanese",
+        "green tea",
+        "no-churn"
+      ]
+    },
+    {
+      "id": "tr_61",
+      "title": "Banana Bread",
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "3.9K",
+      "healthScore": 6,
+      "cuisine": "American",
+      "category": "Desserts",
+      "nutrition": {
+        "calories": 280,
+        "protein": 5,
+        "carbs": 42,
+        "fat": 10
+      },
+      "tags": [
+        "banana bread",
+        "baking",
+        "comfort",
+        "sweet",
+        "snack"
+      ]
+    },
+    {
+      "id": "tr_62",
+      "title": "Mochi Ice Cream",
+      "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "3.2K",
+      "healthScore": 6,
+      "cuisine": "Japanese",
+      "category": "Desserts",
+      "nutrition": {
+        "calories": 180,
+        "protein": 3,
+        "carbs": 32,
+        "fat": 5
+      },
+      "tags": [
+        "mochi",
+        "japanese",
+        "ice cream",
+        "dessert",
+        "rice cake"
+      ]
+    },
+    {
+      "id": "tr_63",
+      "title": "Tres Leches Cake",
+      "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=600&q=80",
+      "sourcePlatform": "Pinterest",
+      "importCount": "2.9K",
+      "healthScore": 4,
+      "cuisine": "Mexican",
+      "category": "Desserts",
+      "nutrition": {
+        "calories": 420,
+        "protein": 9,
+        "carbs": 52,
+        "fat": 20
+      },
+      "tags": [
+        "tres leches",
+        "mexican",
+        "cake",
+        "moist",
+        "dessert",
+        "party"
+      ]
+    },
+    {
+      "id": "tr_64",
+      "title": "Gulab Jamun",
+      "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=600&q=80",
+      "sourcePlatform": "Instagram",
+      "importCount": "2.4K",
+      "healthScore": 3,
+      "cuisine": "Indian",
+      "category": "Desserts",
+      "nutrition": {
+        "calories": 180,
+        "protein": 4,
+        "carbs": 28,
+        "fat": 6
+      },
+      "tags": [
+        "gulab jamun",
+        "indian",
+        "dessert",
+        "fried",
+        "sweet",
+        "diwali"
+      ]
+    },
+    {
+      "id": "tr_65",
+      "title": "Churro Cheesecake Bars",
+      "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=600&q=80",
+      "sourcePlatform": "TikTok",
+      "importCount": "5.3K",
+      "healthScore": 3,
+      "cuisine": "American",
+      "category": "Desserts",
+      "nutrition": {
+        "calories": 340,
+        "protein": 5,
+        "carbs": 38,
+        "fat": 18
+      },
+      "tags": [
+        "cheesecake",
+        "churro",
+        "bars",
+        "trending",
+        "easy",
+        "dessert"
       ]
     }
   ],

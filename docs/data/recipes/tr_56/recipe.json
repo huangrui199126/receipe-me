@@ -1,0 +1,117 @@
+{
+  "id": "tr_56",
+  "title": "Tiramisu",
+  "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=600&q=80",
+  "importCount": "4.2K",
+  "sourcePlatform": "Pinterest",
+  "cuisine": "Italian",
+  "category": "Desserts",
+  "servings": 8,
+  "prepTime": 30,
+  "cookTime": 0,
+  "tags": [
+    "tiramisu",
+    "italian",
+    "no-bake",
+    "coffee",
+    "classic",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 8,
+    "carbs": 32,
+    "fat": 24
+  },
+  "healthScore": 4,
+  "ingredients": [
+    {
+      "section": "Tiramisu",
+      "name": "Egg Yolks",
+      "amount": "6",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "Tiramisu",
+      "name": "Sugar",
+      "amount": "120",
+      "unit": "g",
+      "emoji": "🍚"
+    },
+    {
+      "section": "Tiramisu",
+      "name": "Mascarpone",
+      "amount": "500",
+      "unit": "g",
+      "emoji": "🧀"
+    },
+    {
+      "section": "Tiramisu",
+      "name": "Heavy Cream",
+      "amount": "300",
+      "unit": "ml",
+      "emoji": "🥛"
+    },
+    {
+      "section": "Tiramisu",
+      "name": "Ladyfinger Biscuits",
+      "amount": "300",
+      "unit": "g",
+      "emoji": "🍪"
+    },
+    {
+      "section": "Tiramisu",
+      "name": "Strong Espresso",
+      "amount": "300",
+      "unit": "ml",
+      "emoji": "☕"
+    },
+    {
+      "section": "Tiramisu",
+      "name": "Coffee Liqueur",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Tiramisu",
+      "name": "Cocoa Powder",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🟤"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Whisk egg yolks and sugar until pale and thick.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Fold in mascarpone until smooth.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Whip cream to soft peaks and fold into mascarpone mixture.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Dip ladyfingers briefly in espresso-liqueur mixture.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Layer in a dish: soaked biscuits, cream mixture, repeat.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    },
+    {
+      "order": 6,
+      "instruction": "Dust with cocoa. Refrigerate 4-6 hours or overnight.",
+      "imageUri": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80"
+    }
+  ]
+}

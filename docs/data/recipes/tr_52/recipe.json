@@ -1,0 +1,72 @@
+{
+  "id": "tr_52",
+  "title": "Edamame with Sea Salt",
+  "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+  "importCount": "1.5K",
+  "sourcePlatform": "Pinterest",
+  "cuisine": "Japanese",
+  "category": "Snacks",
+  "servings": 2,
+  "prepTime": 2,
+  "cookTime": 5,
+  "tags": [
+    "edamame",
+    "japanese",
+    "snack",
+    "vegan",
+    "protein",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 11,
+    "carbs": 9,
+    "fat": 5
+  },
+  "healthScore": 10,
+  "ingredients": [
+    {
+      "section": "Edamame",
+      "name": "Frozen Edamame (in pods)",
+      "amount": "250",
+      "unit": "g",
+      "emoji": "🫘"
+    },
+    {
+      "section": "Edamame",
+      "name": "Flaky Sea Salt",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🧂"
+    },
+    {
+      "section": "Edamame",
+      "name": "Sesame Oil",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🫙"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Boil salted water. Add edamame and cook 4-5 minutes.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Drain well and transfer to a bowl.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Toss with sesame oil and flaky sea salt.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Serve warm and eat by squeezing pods into your mouth.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    }
+  ]
+}

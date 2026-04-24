@@ -1,0 +1,166 @@
+{
+  "id": "tr_49",
+  "title": "Pho Bo (Vietnamese Beef Noodle Soup)",
+  "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
+  "importCount": "3.7K",
+  "sourcePlatform": "Instagram",
+  "cuisine": "Vietnamese",
+  "category": "Dinner",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 180,
+  "tags": [
+    "pho",
+    "vietnamese",
+    "beef",
+    "soup",
+    "noodles",
+    "comfort"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 48,
+    "fat": 12
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "section": "Broth",
+      "name": "Beef Bones",
+      "amount": "1",
+      "unit": "kg",
+      "emoji": "🦴"
+    },
+    {
+      "section": "Broth",
+      "name": "Onion",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🧅"
+    },
+    {
+      "section": "Broth",
+      "name": "Ginger",
+      "amount": "1",
+      "unit": "piece",
+      "emoji": "🫚"
+    },
+    {
+      "section": "Broth",
+      "name": "Cinnamon",
+      "amount": "2",
+      "unit": "sticks",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Broth",
+      "name": "Star Anise",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🌟"
+    },
+    {
+      "section": "Broth",
+      "name": "Cloves",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Broth",
+      "name": "Fish Sauce",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Broth",
+      "name": "Rock Sugar",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🍚"
+    },
+    {
+      "section": "Bowl",
+      "name": "Rice Noodles",
+      "amount": "300",
+      "unit": "g",
+      "emoji": "🍜"
+    },
+    {
+      "section": "Bowl",
+      "name": "Beef Sirloin (raw)",
+      "amount": "300",
+      "unit": "g",
+      "emoji": "🥩"
+    },
+    {
+      "section": "Bowl",
+      "name": "Bean Sprouts",
+      "amount": "1",
+      "unit": "cup",
+      "emoji": "🌱"
+    },
+    {
+      "section": "Bowl",
+      "name": "Thai Basil",
+      "amount": "1",
+      "unit": "cup",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Bowl",
+      "name": "Lime",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🍋"
+    },
+    {
+      "section": "Bowl",
+      "name": "Hoisin Sauce",
+      "amount": "to serve",
+      "unit": "",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Bowl",
+      "name": "Sriracha",
+      "amount": "to serve",
+      "unit": "",
+      "emoji": "🌶️"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Char onion and ginger directly on flame or under broiler.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Blanch bones, then simmer with charred aromatics and spices for 3 hours.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Strain broth, season with fish sauce and rock sugar.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Cook noodles per package. Divide into bowls.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Add thin raw beef slices — the hot broth will cook them.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    },
+    {
+      "order": 6,
+      "instruction": "Ladle hot broth over. Serve with bean sprouts, basil, and lime.",
+      "imageUri": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80"
+    }
+  ]
+}

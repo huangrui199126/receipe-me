@@ -1,0 +1,119 @@
+{
+  "id": "tr_43",
+  "title": "Beef Bulgogi",
+  "image": "https://images.unsplash.com/photo-1553163147-622ab57be1c7?w=600&q=80",
+  "importCount": "4.6K",
+  "sourcePlatform": "TikTok",
+  "cuisine": "Korean",
+  "category": "Dinner",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "korean",
+    "beef",
+    "bulgogi",
+    "bbq",
+    "sweet",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 36,
+    "carbs": 28,
+    "fat": 20
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "section": "Bulgogi",
+      "name": "Beef Sirloin",
+      "amount": "600",
+      "unit": "g",
+      "emoji": "🥩"
+    },
+    {
+      "section": "Bulgogi",
+      "name": "Soy Sauce",
+      "amount": "4",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Bulgogi",
+      "name": "Pear (grated)",
+      "amount": "1/2",
+      "unit": "",
+      "emoji": "🍐"
+    },
+    {
+      "section": "Bulgogi",
+      "name": "Garlic",
+      "amount": "4",
+      "unit": "cloves",
+      "emoji": "🧄"
+    },
+    {
+      "section": "Bulgogi",
+      "name": "Sesame Oil",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Bulgogi",
+      "name": "Sugar",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🍚"
+    },
+    {
+      "section": "Bulgogi",
+      "name": "Ginger",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🫚"
+    },
+    {
+      "section": "Bulgogi",
+      "name": "Green Onion",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Bulgogi",
+      "name": "Sesame Seeds",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🖤"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Slice beef very thin — easier if partially frozen.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Mix all marinade ingredients. Add beef and marinate 30 min minimum.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Heat a grill pan or grill to very high heat.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Cook beef in batches — don't overcrowd. 2-3 min total.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Serve over steamed rice with kimchi and banchan sides.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "tr_44",
+  "title": "Lobster Bisque",
+  "image": "https://images.unsplash.com/photo-1604908177635-f22c0df2c6b9?w=600&q=80",
+  "importCount": "2.8K",
+  "sourcePlatform": "Pinterest",
+  "cuisine": "French",
+  "category": "Dinner",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 40,
+  "tags": [
+    "lobster",
+    "bisque",
+    "french",
+    "soup",
+    "seafood",
+    "special occasion"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 22,
+    "carbs": 18,
+    "fat": 24
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "section": "Bisque",
+      "name": "Lobster Tails",
+      "amount": "400",
+      "unit": "g",
+      "emoji": "🦞"
+    },
+    {
+      "section": "Bisque",
+      "name": "Butter",
+      "amount": "4",
+      "unit": "tbsp",
+      "emoji": "🧈"
+    },
+    {
+      "section": "Bisque",
+      "name": "Shallots",
+      "amount": "3",
+      "unit": "",
+      "emoji": "🧅"
+    },
+    {
+      "section": "Bisque",
+      "name": "Garlic",
+      "amount": "3",
+      "unit": "cloves",
+      "emoji": "🧄"
+    },
+    {
+      "section": "Bisque",
+      "name": "Tomato Paste",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🍅"
+    },
+    {
+      "section": "Bisque",
+      "name": "Brandy",
+      "amount": "60",
+      "unit": "ml",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Bisque",
+      "name": "White Wine",
+      "amount": "1/2",
+      "unit": "cup",
+      "emoji": "🍷"
+    },
+    {
+      "section": "Bisque",
+      "name": "Heavy Cream",
+      "amount": "300",
+      "unit": "ml",
+      "emoji": "🥛"
+    },
+    {
+      "section": "Bisque",
+      "name": "Chicken Broth",
+      "amount": "500",
+      "unit": "ml",
+      "emoji": "🍲"
+    },
+    {
+      "section": "Bisque",
+      "name": "Cayenne",
+      "amount": "1/4",
+      "unit": "tsp",
+      "emoji": "🌶️"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook lobster tails. Remove meat, reserve shells.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Simmer shells in broth 20 minutes. Strain and reserve stock.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Sauté shallots and garlic in butter. Add tomato paste.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Flambé with brandy, then add white wine and lobster stock.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Add cream and simmer until slightly thickened. Blend until smooth.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    },
+    {
+      "order": 6,
+      "instruction": "Add lobster meat. Season with cayenne and serve garnished with cream.",
+      "imageUri": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80"
+    }
+  ]
+}

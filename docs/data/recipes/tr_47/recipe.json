@@ -1,0 +1,146 @@
+{
+  "id": "tr_47",
+  "title": "Tacos al Pastor",
+  "image": "https://images.unsplash.com/photo-1604908177635-f22c0df2c6b9?w=600&q=80",
+  "importCount": "5.8K",
+  "sourcePlatform": "TikTok",
+  "cuisine": "Mexican",
+  "category": "Dinner",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 25,
+  "tags": [
+    "tacos",
+    "al pastor",
+    "mexican",
+    "pork",
+    "pineapple"
+  ],
+  "nutrition": {
+    "calories": 390,
+    "protein": 26,
+    "carbs": 34,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "section": "Al Pastor",
+      "name": "Pork Shoulder",
+      "amount": "700",
+      "unit": "g",
+      "emoji": "🥩"
+    },
+    {
+      "section": "Al Pastor",
+      "name": "Dried Guajillo Chilies",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "Al Pastor",
+      "name": "Dried Ancho Chili",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "Al Pastor",
+      "name": "Pineapple Juice",
+      "amount": "1/2",
+      "unit": "cup",
+      "emoji": "🍍"
+    },
+    {
+      "section": "Al Pastor",
+      "name": "Achiote Paste",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🟠"
+    },
+    {
+      "section": "Al Pastor",
+      "name": "Garlic",
+      "amount": "4",
+      "unit": "cloves",
+      "emoji": "🧄"
+    },
+    {
+      "section": "Al Pastor",
+      "name": "Cumin",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Al Pastor",
+      "name": "Oregano",
+      "amount": "1",
+      "unit": "tsp",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Assembly",
+      "name": "Corn Tortillas",
+      "amount": "12",
+      "unit": "",
+      "emoji": "🫓"
+    },
+    {
+      "section": "Assembly",
+      "name": "Pineapple",
+      "amount": "1/2",
+      "unit": "",
+      "emoji": "🍍"
+    },
+    {
+      "section": "Assembly",
+      "name": "White Onion",
+      "amount": "1/2",
+      "unit": "",
+      "emoji": "🧅"
+    },
+    {
+      "section": "Assembly",
+      "name": "Cilantro",
+      "amount": "1/2",
+      "unit": "cup",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Assembly",
+      "name": "Salsa Roja",
+      "amount": "to serve",
+      "unit": "",
+      "emoji": "🍅"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Toast and rehydrate chilies. Blend with pineapple juice, achiote, and spices.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Slice pork thin and marinate in chili paste overnight.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Grill or cook pork on high heat until slightly charred.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Warm tortillas. Top with pork, grilled pineapple, and onion.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Add cilantro and serve with salsa.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    }
+  ]
+}

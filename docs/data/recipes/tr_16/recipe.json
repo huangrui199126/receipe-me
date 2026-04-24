@@ -1,0 +1,118 @@
+{
+  "id": "tr_16",
+  "title": "Mexican Breakfast Burrito",
+  "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=600&q=80",
+  "importCount": "3.3K",
+  "sourcePlatform": "TikTok",
+  "cuisine": "Mexican",
+  "category": "Breakfast",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "burrito",
+    "eggs",
+    "mexican",
+    "breakfast",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 32,
+    "carbs": 52,
+    "fat": 26
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "section": "Filling",
+      "name": "Eggs",
+      "amount": "4",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "Filling",
+      "name": "Chorizo",
+      "amount": "100",
+      "unit": "g",
+      "emoji": "🌶️"
+    },
+    {
+      "section": "Filling",
+      "name": "Black Beans",
+      "amount": "100",
+      "unit": "g",
+      "emoji": "🫘"
+    },
+    {
+      "section": "Filling",
+      "name": "Cheddar Cheese",
+      "amount": "60",
+      "unit": "g",
+      "emoji": "🧀"
+    },
+    {
+      "section": "Filling",
+      "name": "Salsa",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🍅"
+    },
+    {
+      "section": "Filling",
+      "name": "Avocado",
+      "amount": "1",
+      "unit": "",
+      "emoji": "🥑"
+    },
+    {
+      "section": "Wrap",
+      "name": "Large Flour Tortillas",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🫓"
+    },
+    {
+      "section": "Wrap",
+      "name": "Sour Cream",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🥄"
+    },
+    {
+      "section": "Wrap",
+      "name": "Fresh Cilantro",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🌿"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook chorizo in a pan until browned. Drain excess fat.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Add beaten eggs and scramble with the chorizo.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Warm tortillas and layer with eggs, beans, cheese, and salsa.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Add sliced avocado and a dollop of sour cream.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Roll tightly, slice in half, and serve hot.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    }
+  ]
+}

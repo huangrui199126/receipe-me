@@ -1,0 +1,109 @@
+{
+  "id": "tr_32",
+  "title": "Spaghetti Carbonara",
+  "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=600&q=80",
+  "importCount": "5.4K",
+  "sourcePlatform": "TikTok",
+  "cuisine": "Italian",
+  "category": "Dinner",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "pasta",
+    "italian",
+    "carbonara",
+    "classic",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 32,
+    "carbs": 72,
+    "fat": 22
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "section": "Pasta",
+      "name": "Spaghetti",
+      "amount": "200",
+      "unit": "g",
+      "emoji": "🍝"
+    },
+    {
+      "section": "Pasta",
+      "name": "Guanciale or Pancetta",
+      "amount": "100",
+      "unit": "g",
+      "emoji": "🥩"
+    },
+    {
+      "section": "Pasta",
+      "name": "Eggs",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "Pasta",
+      "name": "Egg Yolks",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🥚"
+    },
+    {
+      "section": "Pasta",
+      "name": "Pecorino Romano",
+      "amount": "80",
+      "unit": "g",
+      "emoji": "🧀"
+    },
+    {
+      "section": "Pasta",
+      "name": "Parmesan",
+      "amount": "40",
+      "unit": "g",
+      "emoji": "🧀"
+    },
+    {
+      "section": "Pasta",
+      "name": "Black Pepper",
+      "amount": "2",
+      "unit": "tsp",
+      "emoji": "🖤"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook spaghetti in well-salted boiling water until al dente.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Fry guanciale over medium heat until crispy. Remove from heat.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk eggs, yolks, and grated cheese with plenty of black pepper.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Reserve 1 cup pasta water. Drain spaghetti.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Off heat, toss pasta with guanciale fat, then add egg mixture.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    },
+    {
+      "order": 6,
+      "instruction": "Add pasta water gradually to create a creamy sauce. Serve immediately.",
+      "imageUri": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80"
+    }
+  ]
+}

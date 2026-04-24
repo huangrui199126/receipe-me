@@ -1,0 +1,70 @@
+{
+  "id": "tr_285",
+  "title": "Mini Crab Cakes",
+  "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=600&q=80",
+  "importCount": "2.4K",
+  "sourcePlatform": "TikTok",
+  "cuisine": "American",
+  "category": "Appetizer",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "crab cakes",
+    "mini",
+    "seafood",
+    "elegant"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 16,
+    "carbs": 16,
+    "fat": 14
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "section": "Main",
+      "name": "Main Ingredient",
+      "amount": "200",
+      "unit": "g",
+      "emoji": "🍢"
+    },
+    {
+      "section": "Main",
+      "name": "Sauce or Dip",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Main",
+      "name": "Fresh Herbs",
+      "amount": "for garnish",
+      "unit": "",
+      "emoji": "🌿"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare and chill ingredients if needed.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Assemble or cook the appetizer.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Season to taste.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Plate attractively and serve.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    }
+  ]
+}

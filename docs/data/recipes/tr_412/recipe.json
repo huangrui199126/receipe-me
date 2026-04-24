@@ -1,0 +1,63 @@
+{
+  "id": "tr_412",
+  "title": "Banana Ice Cream",
+  "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=600&q=80",
+  "importCount": "3.7K",
+  "sourcePlatform": "Pinterest",
+  "cuisine": "American",
+  "category": "Snack",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "banana",
+    "nice cream",
+    "one ingredient",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 1,
+    "carbs": 24,
+    "fat": 0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "section": "Main",
+      "name": "Main Ingredient",
+      "amount": "100",
+      "unit": "g",
+      "emoji": "🍿"
+    },
+    {
+      "section": "Main",
+      "name": "Seasoning",
+      "amount": "to taste",
+      "unit": "",
+      "emoji": "🧂"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Gather all ingredients.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Combine or assemble as needed.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Season or sweeten to taste.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Serve immediately.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    }
+  ]
+}

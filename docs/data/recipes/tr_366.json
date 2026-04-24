@@ -1,0 +1,77 @@
+{
+  "id": "tr_366",
+  "title": "Banana Peanut Butter Shake",
+  "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=600&q=80",
+  "importCount": "4.2K",
+  "sourcePlatform": "Pinterest",
+  "cuisine": "American",
+  "category": "Drink",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "banana",
+    "peanut butter",
+    "protein",
+    "shake"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 14
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "section": "Main",
+      "name": "Main Fruit or Base",
+      "amount": "200",
+      "unit": "g",
+      "emoji": "🍓"
+    },
+    {
+      "section": "Main",
+      "name": "Liquid",
+      "amount": "200",
+      "unit": "ml",
+      "emoji": "💧"
+    },
+    {
+      "section": "Main",
+      "name": "Sweetener",
+      "amount": "1",
+      "unit": "tbsp",
+      "emoji": "🍯"
+    },
+    {
+      "section": "Main",
+      "name": "Ice",
+      "amount": "handful",
+      "unit": "",
+      "emoji": "🧊"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine all ingredients in a blender or shaker.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Blend or shake until smooth.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Taste and adjust sweetness.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Pour over ice and serve.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    }
+  ]
+}

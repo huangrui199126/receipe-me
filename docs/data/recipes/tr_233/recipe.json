@@ -1,0 +1,101 @@
+{
+  "id": "tr_233",
+  "title": "Mac and Cheese Baked",
+  "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+  "importCount": "3.1K",
+  "sourcePlatform": "Instagram",
+  "cuisine": "American",
+  "category": "Pasta",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [
+    "mac cheese",
+    "baked",
+    "crunchy",
+    "comfort"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 28
+  },
+  "healthScore": 3,
+  "ingredients": [
+    {
+      "section": "Main",
+      "name": "Pasta",
+      "amount": "320",
+      "unit": "g",
+      "emoji": "🍝"
+    },
+    {
+      "section": "Main",
+      "name": "Olive Oil",
+      "amount": "3",
+      "unit": "tbsp",
+      "emoji": "🫒"
+    },
+    {
+      "section": "Main",
+      "name": "Garlic",
+      "amount": "4",
+      "unit": "cloves",
+      "emoji": "🧄"
+    },
+    {
+      "section": "Main",
+      "name": "Parmesan",
+      "amount": "60",
+      "unit": "g",
+      "emoji": "🧀"
+    },
+    {
+      "section": "Main",
+      "name": "Fresh Basil",
+      "amount": "handful",
+      "unit": "",
+      "emoji": "🌿"
+    },
+    {
+      "section": "Main",
+      "name": "Salt",
+      "amount": "to taste",
+      "unit": "",
+      "emoji": "🧂"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a large pot of salted water to boil.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Cook pasta until al dente per package instructions.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare sauce: sauté aromatics, add main ingredients.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Reserve 1/2 cup pasta water; drain pasta.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Toss pasta with sauce, adding pasta water as needed.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    },
+    {
+      "order": 6,
+      "instruction": "Finish with cheese and fresh herbs.",
+      "imageUri": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80"
+    }
+  ]
+}

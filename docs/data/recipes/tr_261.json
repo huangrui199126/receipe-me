@@ -1,0 +1,96 @@
+{
+  "id": "tr_261",
+  "title": "Loaded Baked Potato Soup",
+  "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80",
+  "importCount": "6.5K",
+  "sourcePlatform": "Pinterest",
+  "cuisine": "American",
+  "category": "Soup",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [
+    "baked potato",
+    "soup",
+    "loaded",
+    "comfort"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 16,
+    "carbs": 44,
+    "fat": 22
+  },
+  "healthScore": 4,
+  "ingredients": [
+    {
+      "section": "Main",
+      "name": "Vegetable or Chicken Stock",
+      "amount": "1.2",
+      "unit": "L",
+      "emoji": "🫙"
+    },
+    {
+      "section": "Main",
+      "name": "Onion",
+      "amount": "2",
+      "unit": "",
+      "emoji": "🧅"
+    },
+    {
+      "section": "Main",
+      "name": "Garlic",
+      "amount": "3",
+      "unit": "cloves",
+      "emoji": "🧄"
+    },
+    {
+      "section": "Main",
+      "name": "Main Vegetable",
+      "amount": "400",
+      "unit": "g",
+      "emoji": "🥕"
+    },
+    {
+      "section": "Main",
+      "name": "Olive Oil",
+      "amount": "2",
+      "unit": "tbsp",
+      "emoji": "🫒"
+    },
+    {
+      "section": "Main",
+      "name": "Fresh Herbs",
+      "amount": "to garnish",
+      "unit": "",
+      "emoji": "🌿"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté onion and garlic in oil over medium heat 5 min.",
+      "imageUri": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80"
+    },
+    {
+      "order": 2,
+      "instruction": "Add remaining vegetables; cook 3-4 min.",
+      "imageUri": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80"
+    },
+    {
+      "order": 3,
+      "instruction": "Pour in stock and bring to a boil.",
+      "imageUri": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80"
+    },
+    {
+      "order": 4,
+      "instruction": "Reduce heat and simmer 20-30 min.",
+      "imageUri": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80"
+    },
+    {
+      "order": 5,
+      "instruction": "Blend if desired; season and serve.",
+      "imageUri": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80"
+    }
+  ]
+}

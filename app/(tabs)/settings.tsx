@@ -125,6 +125,7 @@ export default function SettingsTab() {
         <TouchableOpacity style={styles.versionRow} onPress={handleVersionTap} activeOpacity={1}>
           <ReciMeLogo size={16} />
           <Text style={styles.version}> v1.0.0</Text>
+          <View style={styles.devBadge}><Text style={styles.devBadgeText}>DEV</Text></View>
         </TouchableOpacity>
       </ScrollView>
 
@@ -211,8 +212,10 @@ const styles = StyleSheet.create({
   upgradeBtn: { backgroundColor: Colors.primary, paddingHorizontal: 14, paddingVertical: 7, borderRadius: 10 },
   upgradeBtnText: { color: '#fff', fontSize: 13, fontWeight: '700' },
   headerRow: { paddingBottom: 4 },
-  versionRow: { flexDirection: 'row', justifyContent: 'center', alignItems: 'center', marginTop: 32 },
+  versionRow: { flexDirection: 'row', justifyContent: 'center', alignItems: 'center', marginTop: 32, gap: 8 },
   version: { color: Colors.muted, fontSize: 13 },
+  devBadge: { backgroundColor: '#F59E0B', borderRadius: 4, paddingHorizontal: 5, paddingVertical: 1 },
+  devBadgeText: { color: '#fff', fontSize: 9, fontWeight: '800', letterSpacing: 0.5 },
   // Language picker
   backdrop: { flex: 1, backgroundColor: 'rgba(0,0,0,0.4)' },
   sheet: {

@@ -5,6 +5,7 @@ import {
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useRouter } from 'expo-router';
 import { useTranslation } from 'react-i18next';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { Colors } from '../../constants/colors';
 import { setLanguage } from '../../constants/i18n';
 import ReciMeLogo from '../../components/ReciMeLogo';
@@ -125,7 +126,7 @@ export default function SettingsTab() {
         <TouchableOpacity style={styles.versionRow} onPress={handleVersionTap} activeOpacity={1}>
           <ReciMeLogo size={16} />
           <Text style={styles.version}> v1.0.0</Text>
-          <View style={styles.devBadge}><Text style={styles.devBadgeText}>DEV</Text></View>
+          {__DEV__ && <View style={styles.devBadge}><Text style={styles.devBadgeText}>DEV</Text></View>}
         </TouchableOpacity>
       </ScrollView>
 
@@ -171,6 +172,16 @@ export default function SettingsTab() {
             <Text style={[styles.devBtnText, pro ? { color: '#EF4444' } : null]}>
               {pro ? 'Switch to Free user' : 'Switch to Pro user'}
             </Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            style={[styles.devBtn, { backgroundColor: '#F3F4F6', marginTop: 4 }]}
+            onPress={async () => {
+              await AsyncStorage.removeItem('trending_recipes_cache_v3');
+              setShowDevPanel(false);
+              Alert.alert('Cache cleared', 'Trending recipes will reload fresh.');
+            }}
+          >
+            <Text style={[styles.devBtnText, { color: '#6B7280' }]}>Clear trending cache</Text>
           </TouchableOpacity>
           <View style={styles.sheetFooter} />
         </View>

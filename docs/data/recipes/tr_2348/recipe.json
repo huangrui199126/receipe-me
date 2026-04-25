@@ -1,0 +1,101 @@
+{
+  "id": "tr_2348",
+  "title": "One-Pan Roasted Oyster Sauce Chicken &amp; Scallions",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/10/chicken-in-oyster-sauce-7-1.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/one-pan-roasted-chicken-oyster-sauce/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 40,
+  "tags": [
+    "oyster sauce chicken"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 19.0,
+    "carbs": 3.0,
+    "fat": 22.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  chicken thighs",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "slices",
+      "name": "ginger ((¼-inch thick))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  scallions ((washed, trimmed, and cut into 2- to 3-inch lengths))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "Shaoxing wine ((60 ml, can substitute other rice wine, or dry sherry))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat your oven to 425 degrees F. Rinse the chicken thighs and pat thoroughly dry with paper towels. Season with salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Place a large roasting pan over medium high heat on your stove across two burners. Once the pan is hot, add the oil and ginger. Allow the ginger to fry in the oil for 1 minute, or until fragrant. Add the chicken to the pan, skin-side down, and sear until browned. Flip the chicken and sear on the other side."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the scallions to the pan. Thoroughly combine the wine, soy sauce, and oyster sauce in a bowl, and pour it over the chicken and the scallions. Transfer to the oven and roast for 25-30 minutes, or until the chicken is cooked through."
+    }
+  ]
+}

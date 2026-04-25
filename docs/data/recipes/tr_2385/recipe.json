@@ -1,0 +1,137 @@
+{
+  "id": "tr_2385",
+  "title": "Ham and Cheese Buns, A Chinese Bakery Treat",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/10/ham-cheese-buns-4-1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/ham-and-cheese-buns/",
+  "servings": 12,
+  "prepTime": 90,
+  "cookTime": 20,
+  "tags": [
+    "ham and cheese buns"
+  ],
+  "nutrition": {
+    "calories": 422,
+    "protein": 20.0,
+    "carbs": 38.0,
+    "fat": 21.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "heavy cream ((160 ml, at room temperature))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk ((plus 1 tablespoon, at room temperature; total 250 ml))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg ((at room temperature))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "sugar ((75g))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cake flour ((70g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "cups",
+      "name": "bread flour ((500g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "active dry yeast ((11g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "salt ((7g))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "12",
+      "unit": "slices",
+      "name": "ham",
+      "emoji": "🥓",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "12",
+      "unit": "slices",
+      "name": "cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "(Egg wash: whisk together 1 egg with 1 teaspoon water)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar ((8g, dissolved in 2 teaspoons hot water to make simple syrup))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In the bowl of a mixer, add the heavy cream, milk, egg, sugar, cake flour, bread flour, yeast, and salt. Use the dough hook attachment, and turn on the mixer to “stir.” Let it go for 15 minutes, occasionally stopping the mixer to push the dough together. If you're in a humid climate and the dough is too sticky, feel free to add a little more flour 1/4 cup at a time until it comes together. If you don't have a mixer and would like to knead by hand, extend the kneading time by 5-10 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "After 15 minutes of mixing, the dough is ready for proofing. Cover the bowl with a damp towel and place in a warm spot for 1 hour. I proofed the dough in my oven (I had the oven on rapid proof for 5 minutes, turned the oven off, and then closed the oven door). The dough will grow to 1.5X its original size."
+    },
+    {
+      "order": 3,
+      "instruction": "After the hour of proofing, put the dough back in the mixer and stir for another 5 minutes to get rid of air bubbles. Dump the dough onto a lightly floured surface, and cut it into 12 equal pieces. Roll out each piece into a rough oval/rectangle shape, and lay the ham and cheese on top. Roll everything together into a log, and cut three slits into the top of each bun (about 1/2 inch deep). Continue assembling until all the buns are made. Cover with a clean, damp towel and allow to rise for another hour."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat the oven to 350 degrees F. Brush the risen buns with egg wash and bake for 20-24 minutes until golden. Remove from the oven and brush the buns with sugar water to give them a really great shine, sweetness, and color."
+    }
+  ]
+}

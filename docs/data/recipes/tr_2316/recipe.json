@@ -1,0 +1,161 @@
+{
+  "id": "tr_2316",
+  "title": "Chinese Shrimp Cakes",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/01/shrimp-cakes-3.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-shrimp-cakes/",
+  "servings": 5,
+  "prepTime": 30,
+  "cookTime": 15,
+  "tags": [
+    "shrimp cakes"
+  ],
+  "nutrition": {
+    "calories": 188,
+    "protein": 19.0,
+    "carbs": 3.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "shrimp ((450g, thawed, peeled and deveined))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small carrot ((about 50g))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  water chestnuts",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ginger ((grated))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg white",
+      "emoji": "🥚",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((for pan-frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pat the shrimp dry with a paper towel. Lightly “smash” them with the side of a knife, and coarsely chop them. Be careful not mince the shrimp into pieces that are too small."
+    },
+    {
+      "order": 2,
+      "instruction": "Split a small carrot (about 50 g) in half crosswise and then lengthwise, and blanch the pieces in boiling water for about 2 minutes until lightly softened. Drain and finely dice the blanched carrot."
+    },
+    {
+      "order": 3,
+      "instruction": "In a mixing bowl, combine the coarsely chopped shrimp, finely diced carrot, minced water chestnuts, ¼ cup cilantro, 1 teaspoon grated ginger, 2 teaspoons Shaoxing wine, ½ teaspoon salt, 1/8 teaspoon ground white pepper, 2 teaspoons oyster sauce, 1 teaspoon sesame oil, ¼ teaspoon sugar, 1 teaspoon cornstarch, and 1 egg white. Whip everything together for about 5 to 10 minutes in one direction, until the mixture is sticky and all ingredients are well combined. You should be able to gather it into one big smooth ball with a rubber spatula, i.e. it should be sticky and cohesive."
+    },
+    {
+      "order": 4,
+      "instruction": "Now, heat a flat bottomed frying pan over medium high heat (nonstick or cast iron works best), until it starts to smoke lightly. Add 2 tablespoons oil and turn the heat down to medium. Take a large spoonful of the shrimp mixture, and use another spoon to form a ball. You can also do this with oiled hands."
+    },
+    {
+      "order": 5,
+      "instruction": "Drop it into the pan and quickly press it into a disc. (To avoid sticking, you can brush the spoons with oil beforehand.)"
+    },
+    {
+      "order": 6,
+      "instruction": "Pan-fry each side for about 3 minutes, until golden brown. Add the last tablespoon of oil if needed during pan-frying."
+    }
+  ]
+}

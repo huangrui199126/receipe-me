@@ -1,0 +1,154 @@
+{
+  "id": "tr_2042",
+  "title": "Hot Dry Noodles (Re Gan Mian, 热干面)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/02/hot-dry-noodles-11.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/hot-dry-noodles-re-gan-mian/",
+  "servings": 2,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [
+    "hot dry noodles",
+    "wuhan"
+  ],
+  "nutrition": {
+    "calories": 654,
+    "protein": 18.0,
+    "carbs": 85.0,
+    "fat": 45.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "sesame paste",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 ½",
+      "unit": "teaspoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "240",
+      "unit": "g",
+      "name": "about 8 oz. fresh alkaline noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "chopped preserved mustard stems, zha cai, 榨菜",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "chopped pickled long beans, suan dou jiao, 酸豆角",
+      "emoji": "🫘",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chili oil ((to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by preparing the sauce. Add 3 tablespoons sesame paste to a bowl, and gradually stir in 2 tablespoons sesame oil to smooth out the paste."
+    },
+    {
+      "order": 2,
+      "instruction": "Then add 1 ½ teaspoons dark soy sauce and 1 tablespoon light soy sauce (or 4 ½ teaspoons of master sauce, if you have it). Add 1 teaspoon sugar, and stir until well combined. If the sauce is still too thick, add in a few drops of warm water or more master sauce to thin it out. Add salt to taste and set aside. You can prepare this sauce ahead of time."
+    },
+    {
+      "order": 3,
+      "instruction": "Boil a pot of water to cook the noodle as per package instructions, undercooking it by 1 minute to ensure they remain chewy and al dente. Drain. Shake off any excess liquid from the noodles, and put them in a large bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Toss the noodles with the remaining 1 ½ teaspoons sesame oil to prevent noodles from sticking together. Add in the preserved radish, pickled long beans, garlic, chili oil, cilantro, scallions, vinegar, and tahini sauce. Quickly toss the noodles together and serve hot."
+    }
+  ]
+}

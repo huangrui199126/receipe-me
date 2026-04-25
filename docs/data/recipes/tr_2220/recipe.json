@@ -1,0 +1,149 @@
+{
+  "id": "tr_2220",
+  "title": "Spicy Black Bean Twice Cooked Potatoes",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/10/potato-stir-fry-2-1.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/spicy-black-bean-twice-cooked-potatoes/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 40,
+  "tags": [
+    "twice cooked potatoes"
+  ],
+  "nutrition": {
+    "calories": 228,
+    "protein": 6.0,
+    "carbs": 30.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-5  medium Yukon gold potatoes ((scrubbed and cut into bite-sized chunks))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "five-spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((smashed and coarsely chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-6  dried red chilies ((chopped and de-seeded; depending on your tolerance for heat))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "black beans",
+      "emoji": "🫘",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "leeks ((sliced on the diagonal into thin strips))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 375 degrees F, and spread the potatoes on a parchment-lined baking sheet. Toss with salt to taste, white pepper, and five-spice powder. Drizzle with olive oil and roast for about 30 minutes, or until fork tender."
+    },
+    {
+      "order": 2,
+      "instruction": "Once the potatoes are done roasting, heat a couple tablespoons of oil in a wok over medium low heat. Add the garlic, chili, and black beans. Cook for a couple minutes, and be careful not to burn the ingredients."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the wine, soy sauces, sesame oil, and water. Stir everything together and add the roasted potatoes and leeks. Turn up the heat to high and stir-fry for another 2 minutes. Serve immediately."
+    }
+  ]
+}

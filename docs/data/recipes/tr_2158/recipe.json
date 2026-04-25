@@ -1,0 +1,177 @@
+{
+  "id": "tr_2158",
+  "title": "Beef Curry, A Hong Kong Style Recipe",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/02/beef-curry-5.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/beef-curry/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 120,
+  "tags": [
+    "beef curry"
+  ],
+  "nutrition": {
+    "calories": 592,
+    "protein": 40.0,
+    "carbs": 29.0,
+    "fat": 38.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "pounds",
+      "name": "boneless beef chuck ((1.3 kg, cut into large 1½-inch cubes))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "oil ((plus 1 tablespoon, divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  shallots ((finely chopped))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "One 6-inch section of lemongrass",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "good curry powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "turmeric",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "chicken broth ((or water))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium onions ((cut into large chunks))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large potatoes ((cut into large chunks))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  carrots ((cut into large chunks))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1½",
+      "unit": "cups",
+      "name": "coconut milk ((355 ml))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1½",
+      "unit": "teaspoons",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, blanch the beef to get rid of any impurities. Boil a pot of water, add the chunks of beef, and bring to a boil again. Drain immediately and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 1/4 cup of oil in a heavy-bottomed pot over medium low heat. Add the garlic, shallots, lemongrass, and bay leaves to infuse the oil. Cook for a few minutes. Then turn the heat down to the lowest setting and add the curry powder and turmeric. Stir until well-combined. If need be, add a little bit more oil so the curry powder doesn’t stick to the bottom of the pan. Take care not to burn the spices!"
+    },
+    {
+      "order": 3,
+      "instruction": "After a minute, add in the beef, chicken broth, sugar and tomato paste. Turn up the heat and bring the mixture to a boil. Once boiling, give the mixture a stir, turn the heat back down to medium, and cover. Let the curry simmer (covered) for 60-75 minutes. Check on the curry occasionally to stir and make sure your curry isn't burning."
+    },
+    {
+      "order": 4,
+      "instruction": "While the curry is simmering, prepare the onions, potatoes, and carrots. Next, heat a tablespoon of oil in your wok over medium heat. Cook the onions until transparent (about 2 minutes). Transfer to a separate dish and set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "After the beef is done simmering, it’s time to add the coconut milk, potatoes, and carrots. Turn up the heat, mix everything well, and bring to a boil. Once boiling, turn the heat down again to medium low, cover, and simmer for another 20 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "By now, the potatoes, carrots, and beef should be tender. Add the onions and salt to taste. If need be, turn up the heat and reduce the liquid a bit to thicken the sauce. The sauce should be thick, but there should still be plenty left to pour over your rice. This one gets better after sitting in the refrigerator overnight, so don't be afraid to make a big batch!"
+    }
+  ]
+}

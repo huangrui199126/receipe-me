@@ -1,0 +1,173 @@
+{
+  "id": "tr_2242",
+  "title": "Sticky Rice Hashbrowns (Ci Fan Gao)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/05/sticky-rice-hashbrowns-1.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/rice-hashbrowns/",
+  "servings": 12,
+  "prepTime": 120,
+  "cookTime": 45,
+  "tags": [
+    "ci fan gao"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "sweet rice ((sticky rice))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "short grain white rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2 ½",
+      "unit": "cups",
+      "name": "water ((600 ml))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 oz. ground pork ((110g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 ¼",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "scallions ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "rice flour for dredging",
+      "emoji": "🌾",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-6 cups peanut oil ((for frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "minced scallion",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "chili oil or Sriracha ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse your sticky rice and short grain rice and drain excess water. Add 2 ½ cups water and use a rice cooker to cook it. If you don’t have a rice cooker, follow the directions on the package."
+    },
+    {
+      "order": 2,
+      "instruction": "Finely mince the ground pork (really make sure it’s mashed up, almost like a paste) and transfer to a mixing bowl. Add ½ tablespoon soy sauce, ½ teaspoon 5 spice powder, ½ teaspoon salt and mix until combined. Heat a splash of oil in a wok using high heat, and stir-fry the ground pork, breaking up any clumps, until browned. Keep the pork in the wok and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "When the rice is cooked, take it out of the pot to cool until just warm and transfer to the wok with the pork, add the scallion and ¾ teaspoon salt. Using a spatula, fold and combine the mixture until everything is uniformly distributed."
+    },
+    {
+      "order": 4,
+      "instruction": "Line a small sheet pan or shallow casserole dish with plastic wrap. Pour 1 tablespoon of oil into the lined pan and coated the plastic wrap evenly. Pour the rice mixture into the pan and use the spatula to spread the rice evenly onto the pan, creating a large rectangular cake about 1 inch thick. You may have to dip the spatula in water to prevent the rice from sticking."
+    },
+    {
+      "order": 5,
+      "instruction": "Once the rice rectangle is completely cooled, dust your cutting board with rice flour and pour the rest of the rice flour onto a plate for dredging. Next, flip the rice rectangle onto the board and remove the plastic. Grab a bowl of hot water. Dip your knife in the hot water, and cut the rice block into rectangles, rinsing your knife in the hot water after each cut. Work gradually and cut a few rectangles at a time. Dredge them all around with a light coating of rice flour and line them up on your baking sheet."
+    },
+    {
+      "order": 6,
+      "instruction": "Make the dipping sauce by combining the ingredients in a mixing bowl and set aside."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat the oil to about 350-375 degrees and fry the rice sticks in batches until golden brown. Drain on paper towels. Serve immediately with the dipping sauce, or sprinkle with salt."
+    }
+  ]
+}

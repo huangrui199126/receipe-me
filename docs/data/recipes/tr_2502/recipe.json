@@ -1,0 +1,94 @@
+{
+  "id": "tr_2502",
+  "title": "How to Make Duck Sauce",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/04/how-to-make-duck-sauce-4.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/duck-sauce-recipe/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "duck sauce recipe",
+    "homemade duck sauce"
+  ],
+  "nutrition": {
+    "calories": 53,
+    "protein": 1.0,
+    "carbs": 14.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 ½",
+      "unit": "tablespoons",
+      "name": "hot water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "apricot preserves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  salted pickled plum",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "liquid from salted pickled plum jar",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a small bowl, mix the sugar and hot water until the sugar is dissolved. Add the apricot preserves."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove pit from the pickled plum and add to the bowl. The plum is very soft and should fall apart. Then add ½ teaspoon liquid from the pickled plum jar, soy sauce and rice vinegar."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix everything together with a fork until the duck sauce is well-combined. Let the sauce sit for 5 minutes and mix again."
+    }
+  ]
+}

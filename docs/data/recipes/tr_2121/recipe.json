@@ -1,0 +1,165 @@
+{
+  "id": "tr_2121",
+  "title": "Steamed Pork with Rice Powder (Fen Zheng Rou - 粉蒸肉)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/01/steamed-pork-6-1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/steamed-pork-rice-powder/",
+  "servings": 6,
+  "prepTime": 90,
+  "cookTime": 90,
+  "tags": [
+    "pork with rice powder"
+  ],
+  "nutrition": {
+    "calories": 625,
+    "protein": 16.0,
+    "carbs": 41.0,
+    "fat": 43.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "pork belly ((450g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "piece",
+      "name": "fermented bean curd ((white or red))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "spicy bean sauce ((or regular bean sauce))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "6",
+      "unit": "tablespoons",
+      "name": "long grain rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "sweet rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "¼  of a star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "taro ((or potato, 450g))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, marinate the pork belly. Wash the pork belly and pat it dry with paper towels. Slice it into ¼-inch thick pieces. In a large bowl, mix the sliced pork belly with the minced ginger, Shaoxing wine, fermented bean curd, spicy bean sauce, five spice powder, and sugar. Use your hands to combine everything together well. Cover and marinate for about 1 hour in the refrigerator."
+    },
+    {
+      "order": 2,
+      "instruction": "While the pork is marinating, prepare the rice mixture. In a clean, dry wok over medium-low heat, add the long grain rice, sweet rice, Sichuan peppercorns, and the star anise. Cook it for about 5 minutes until the rice turns a light brown color. After 5 minutes, turn off the heat, and let the mixture cool slightly. Next, use a food processor or mortar and pestle to mill the mixture into a coarse grind. When using the food processor, pulse the mixture a couple of times. The rice shouldn’t be too finely ground."
+    },
+    {
+      "order": 3,
+      "instruction": "It’s also a great idea to double or triple the rice mixture, and store the leftovers in the refrigerator, so it’s readily available if and when you want to make this dish again. The rice mixture should last a few months in the fridge."
+    },
+    {
+      "order": 4,
+      "instruction": "Next, we’ll assemble and cook the dish. Peel the taro skin, rinse, and cut it into pieces roughly the same size as the pork belly pieces. Add the taro to the marinated pork. In a different bowl, mix the ground rice mixture with ½ cup water to create a thick paste. Then combine the rice paste with the marinated pork belly, taro, and 2 teaspoons of light soy sauce. Transfer the mixture to a heat-resistant bowl or casserole dish that will fit into a steamer. Remember that the ground rice will expand after steaming, so make sure the dish is big enough. You can arrange the dish neatly like I did, or not--it won’t affect the taste!"
+    },
+    {
+      "order": 5,
+      "instruction": "Prepare your steamer, filling it with 2-3 quarts of water. Set the dish in the steamer, and cover it tightly with the lid. Bring the water to a boil using high heat, then turn the heat down to medium low, and steam the pork and taro for 70 to 90 minutes. Periodically check the steamer to make sure the water hasn’t burned off. Garnish with chopped scallions and serve hot!"
+    }
+  ]
+}

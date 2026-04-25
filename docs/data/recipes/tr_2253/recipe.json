@@ -1,0 +1,117 @@
+{
+  "id": "tr_2253",
+  "title": "Quick Korean BBQ with Pork Belly",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/03/korean-bbq-061-1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/korean-bbq-w-pork-belly/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "korean bbq"
+  ],
+  "nutrition": {
+    "calories": 612,
+    "protein": 14.0,
+    "carbs": 22.0,
+    "fat": 53.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 rashers pork belly ((½ inch thick))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion ((cut into ¼ inch slices))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Large handful of fresh mushrooms ((any kind you like, sliced))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  of a large head of red-leaf lettuce ((leaves whole))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "kimchi",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-4 tablespoons ssamjang paste ((to taste))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((thinly sliced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  long hot green pepper ((deseeded and thinly sliced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prep all of your ingredients. Heat a pan with 1 tablespoon of oil over medium-high heat. Add the slices of pork belly along with the onions. Brown the pork and caramelize the onions."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the mushrooms to the pan and cook them in the pork fat. Continue to cook until everything (the pork, onions, and mushrooms) are caramelized and tender. Use kitchen shears to cut the pork belly slices into 1-inch segments."
+    },
+    {
+      "order": 3,
+      "instruction": "To eat, take some of your pork belly, onions, and mushrooms and lay them on a lettuce leaf. Add kimchi and samjang. Then add some raw scallion, pepper, and garlic. Eat it all in one bite with some rice!"
+    }
+  ]
+}

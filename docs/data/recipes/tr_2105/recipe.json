@@ -1,0 +1,145 @@
+{
+  "id": "tr_2105",
+  "title": "Thai Chicken Stir-fry with Basil &amp; Mint",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/06/thai-chicken-stir-fry-3.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/thai-chicken-stir-fry-basil-mint/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "thai chicken stir-fry"
+  ],
+  "nutrition": {
+    "calories": 229,
+    "protein": 18.0,
+    "carbs": 8.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 oz. boneless skinless chicken breast or thighs ((340g, sliced into thin strips))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vegetable oil ((plus 2 tablespoons))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((thinly sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion ((thinly sliced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  fresh holland or Thai bird chili ((de-seeded and thinly sliced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh Thai basil leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "mint leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the sliced chicken with the cornstarch and 1 teaspoon vegetable oil."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 1 tablespoon oil in a wok over high heat. Add the chicken, and stir-fry until opaque. Remove the chicken from the wok and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Add another tablespoon of oil in the wok, and add the garlic, onion, and chilies. Stir-fry for 1 minute. Add the reserved chicken, soy sauce, dark soy sauce, oyster sauce, fish sauce, sugar, Thai basil, and mint."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir-fry for about 30 seconds, until the basil and mint leaves are wilted. Serve immediately with steamed rice."
+    }
+  ]
+}

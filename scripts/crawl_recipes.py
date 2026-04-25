@@ -326,6 +326,28 @@ SITEMAPS = [
     "https://www.gimmesomeoven.com/post-sitemap2.xml",
 ]
 
+# Chinese-focused sitemaps (used when --chinese flag is set)
+CHINESE_SITEMAPS = [
+    "https://thewoksoflife.com/post-sitemap.xml",
+    "https://thewoksoflife.com/post-sitemap2.xml",
+    "https://omnivorescookbook.com/post-sitemap.xml",
+    "https://www.recipetineats.com/post-sitemap.xml",
+    "https://www.recipetineats.com/post-sitemap2.xml",
+    "https://www.recipetineats.com/post-sitemap3.xml",
+    "https://www.recipetineats.com/post-sitemap4.xml",
+]
+
+CHINESE_KEYWORDS = {
+    'chinese', 'cantonese', 'sichuan', 'szechuan', 'wok', 'dim sum', 'stir fry', 'stir-fry',
+    'fried rice', 'chow mein', 'lo mein', 'dumplings', 'potstickers', 'char siu', 'bao',
+    'kung pao', 'mapo', 'sweet and sour', 'black bean', 'oyster sauce', 'hoisin',
+    'egg foo', 'general tso', 'mongolian', 'hot and sour', 'wonton', 'congee', 'claypot',
+    'hong kong', 'taiwanese', 'shanghainese', 'mandarin', 'peking', 'dan dan', 'scallion',
+    'sesame noodle', 'braised pork', 'red braised', 'tea eggs', 'twice cooked',
+    'eggplant', 'tofu', 'bok choy', 'chinese broccoli', 'gai lan', 'spring rolls',
+    'egg rolls', 'pork belly', 'five spice', 'shaoxing', 'rice wine', 'doubanjiang',
+}
+
 def test_url(url):
     """Fetch one URL, parse it, and print a report."""
     print(f"\n🔍 Testing: {url}")
@@ -381,7 +403,20 @@ def test_url(url):
     ])
     print(f"\n  SCORE: {score}/5 {'🟢 EXCELLENT' if score==5 else '🟡 GOOD' if score>=4 else '🔴 POOR'}")
 
-def crawl(limit=2000, dry_run=False, delay=0.8):
+def is_chinese_recipe(recipe, url):
+    """Check if a recipe is Chinese/Asian cuisine based on title, cuisine field, and tags (not URL domain)."""
+    # Only use URL path slug, not domain (avoids "woksoflife" domain matching "wok")
+    path = url.split('/', 3)[-1] if url.count('/') >= 3 else ''
+    text = ' '.join([
+        path.replace('-', ' ').lower(),
+        recipe.get('title', '').lower(),
+        recipe.get('cuisine', '').lower(),
+        ' '.join(recipe.get('tags', [])),
+        recipe.get('category', '').lower(),
+    ])
+    return any(kw in text for kw in CHINESE_KEYWORDS)
+
+def crawl(limit=2000, dry_run=False, delay=0.8, chinese_only=False):
     # Load current index
     index = json.loads(INDEX_PATH.read_text())
     existing_ids = {r['id'] for r in index.get('recipes', [])}
@@ -401,7 +436,8 @@ def crawl(limit=2000, dry_run=False, delay=0.8):
     print("📡 Fetching sitemaps...")
     all_urls = []
     seen_urls = set()
-    for sm in SITEMAPS:
+    sitemaps_to_use = CHINESE_SITEMAPS if chinese_only else SITEMAPS
+    for sm in sitemaps_to_use:
         urls = get_urls_from_sitemap(sm)
         for u in urls:
             if u not in seen_urls:
@@ -462,6 +498,10 @@ def crawl(limit=2000, dry_run=False, delay=0.8):
         title_lower = recipe['title'].lower().strip()
         if title_lower in existing_titles:
             print("duplicate title ⚠️")
+            skipped += 1
+            continue
+        if chinese_only and not is_chinese_recipe(recipe, url):
+            print("not Chinese ⚠️")
             skipped += 1
             continue
         if len(recipe['ingredients']) < 3:
@@ -546,12 +586,13 @@ def main():
     parser.add_argument('--limit', type=int, default=2000, help='Max new recipes to crawl (default: 2000)')
     parser.add_argument('--dry-run', action='store_true', help='Fetch and parse but do not write files')
     parser.add_argument('--delay', type=float, default=0.8, help='Seconds between requests (default: 0.8)')
+    parser.add_argument('--chinese', action='store_true', help='Crawl Chinese recipes only from Chinese-focused sources')
     args = parser.parse_args()
 
     if args.test:
         test_url(args.test)
     else:
-        crawl(limit=args.limit, dry_run=args.dry_run, delay=args.delay)
+        crawl(limit=args.limit, dry_run=args.dry_run, delay=args.delay, chinese_only=args.chinese)
 
 if __name__ == '__main__':
     main()

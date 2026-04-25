@@ -1,0 +1,137 @@
+{
+  "id": "tr_2405",
+  "title": "Braised Duck with Taro",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/10/braised-duck-5-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/braised-duck-taro/",
+  "servings": 8,
+  "prepTime": 30,
+  "cookTime": 50,
+  "tags": [
+    "braised duck"
+  ],
+  "nutrition": {
+    "calories": 805,
+    "protein": 21.0,
+    "carbs": 24.0,
+    "fat": 68.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "a 4 to 5 pound duck",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "large taro ((680g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small piece of rock sugar ((approx. 3/4 inch long, about 1/2 oz.))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "5",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "8",
+      "unit": "cloves",
+      "name": "garlic ((smashed))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((white and green parts separated))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "If you’re using a frozen duck, defrost and soak the duck in water for 30 minutes to get rid of any blood and gaminess. Clean the duck thoroughly inside and out. Drain and pat the duck dry with paper towel. Cut the duck into 1” x 2” pieces, and remember to trim away the ducktail. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare the taro by peeling the outer skin. Rinse and pat the taro dry, and cut into ½ inch thick large pieces. Add the oil to a wok over medium heat, and shallow fry the taro chunks until the edges on all sides JUST start to turn brown (you’ll need to flip them once). You can do this in two batches. Turn off the heat, scoop them out and set them aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Spoon out the oil from the wok, leaving about 2 tablespoons behind. Melt the rock sugar in the oil over low heat. Add the ginger, garlic, and scallion whites, and let it cook for 1-2 minutes. Turn the heat up to medium high and immediately add the duck pieces, spreading them out in a single layer. Cook the duck for about 2 minutes on each side and add the Shaoxing wine, oyster sauce, light soy sauce (and the fermented bean curd sauce if you decide to use it), dark soy sauce, and water. Stir everything well, cover, and cook for 20 minutes using medium heat, stirring once in between to prevent sticking."
+    },
+    {
+      "order": 4,
+      "instruction": "Now add the taro pieces, mix, cover and cook for another 5 - 7 minutes using medium heat, stirring once in between to prevent sticking. Add a bit more water if it looks dry. The dish is done once the taro is cooked through. Try not to over-stir or overcook, because the taro will break up. Dish out and garnish with the chopped green parts of the scallions."
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "tr_2265",
+  "title": "Quick and Easy Braised Tofu (Hongshao Dofu)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/12/DSC_0192-1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/quick-easy-braised-tofu-hongshao-dofu/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "braised tofu"
+  ],
+  "nutrition": {
+    "calories": 199,
+    "protein": 14.0,
+    "carbs": 14.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "medium firm tofu ((450g))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "fresh shiitake mushrooms ((or reconstituted dried mushrooms, sliced))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 ½",
+      "unit": "cups",
+      "name": "chicken stock ((or vegetable stock to make it vegetarian))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce ((optional, or use a vegetarian oyster sauce made from mushrooms))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "snow peas ((washed and trimmed))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small carrot ((thinly sliced))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small red bell pepper ((sliced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "bamboo shoots ((optional, sliced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix cornstarch and water into a slurry in a small bowl and set aside. Drain the tofu of excess liquid and cut into ½ inch thick slices. Wash and slice your mushrooms. If you are using the dried mushrooms, wash about 4 of them, soak in hot water for an hour, and trim the stems for before slicing."
+    },
+    {
+      "order": 2,
+      "instruction": "Make a stock mixture by combining the stock, oyster sauce, sesame oil, soy sauces, shaoxing wine, sugar, and salt in a bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat the wok over high heat and add the oil. Spread the tofu in 1 layer in the wok. Sear each side for about a minute. If you need more time to turn the tofu, reduce the heat to medium and take your time! Add the garlic to the wok."
+    },
+    {
+      "order": 4,
+      "instruction": "After another minute, add the stock mixture and the mushrooms. Return the heat to high if it’s not already there. Give the wok a shake to prevent the tofu from sticking. When the mixture comes to a boil, lower the heat to medium, cover and let cook for about 5 minutes. Some of the liquid should evaporate."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove the cover, turn the wok back up to high heat and add your vegetables. Gently toss them with the tofu, being careful not to break the tofu pieces. Quickly add the cornstarch slurry a little at a time to thicken the remaining liquid just enough to coat tofu and vegetables. If the sauce is too thick, just add more water or stock. If it’s too thin, add more slurry. Give the dish a final toss, and serve immediately with some steamed rice."
+    }
+  ]
+}

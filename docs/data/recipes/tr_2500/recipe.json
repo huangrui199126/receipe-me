@@ -1,0 +1,145 @@
+{
+  "id": "tr_2500",
+  "title": "Chinese Cured Pork Belly",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/12/chinese-cured-pork-belly-lap-yuk-13.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-cured-pork-belly/",
+  "servings": 16,
+  "prepTime": 45,
+  "cookTime": 4320,
+  "tags": [
+    "cured pork belly"
+  ],
+  "nutrition": {
+    "calories": 527,
+    "protein": 10.0,
+    "carbs": 2.0,
+    "fat": 53.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  cinnamon sticks",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "lbs",
+      "name": "boneless pork belly",
+      "emoji": "🥩",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "baijiu ((a Chinese liquor; can substitute whiskey))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a small saucepan, add the ginger, bay leaves, star anise, cinnamon sticks, peppercorns, soy sauces, Shaoxing wine, and sugar. Place the pot over medium heat, and bring the mixture to a simmer, stirring to dissolve the sugar. The process should only take a few minutes. Shut off the heat and allow to cool completely."
+    },
+    {
+      "order": 2,
+      "instruction": "While waiting for the sauce to cool, rinse the pork belly and pat dry thoroughly with paper towels. The pork should be as dry as possible. Arrange the pieces neatly in a shallow, rimmed dish."
+    },
+    {
+      "order": 3,
+      "instruction": "Once the sauce has completely cooled, stir in the baijiu or whiskey. Pour the mixture over the pork, making sure the meat is completely submerged. You can even put a clean plate or bowl on top to weight down the meat. Cover tightly and refrigerate for 3 full days, flipping the pork belly once each day to ensure the sauce penetrates the meat evenly."
+    },
+    {
+      "order": 4,
+      "instruction": "After 3 days, it’s time to hang them up to cure. Use kitchen string and a bamboo skewer to thread the string through the fat in the pork belly. Tie a knot to make a sturdy loop, and hang the pork belly in a cool dry place. I used our basement, which has optimal temperature and humidity levels (you want the temperature to remain around 50-55°F (10-13°C), and the relative humidity should be around 65%. I kept the window open during the day to let in fresh air. Note: this cured pork belly is best made during the colder months!"
+    },
+    {
+      "order": 5,
+      "instruction": "Layer some newspaper on the floor to catch any liquid that drips from the pork, and let it dry for 4 to 6 days until the outer layer is completely dry and the inside is still slightly soft when pressed. To store, put in a freezer bag with as much air removed as possible."
+    },
+    {
+      "order": 6,
+      "instruction": "To prepare this pork belly in the most simple (and delicious) way, just add rice and water to your rice cooker as you normally would to cook a batch of white rice. Then just toss a piece of pork belly on top and steam as normal. Once the rice is done steaming, your pork belly will also be heated through. Slice it up and mix it with your rice!"
+    }
+  ]
+}

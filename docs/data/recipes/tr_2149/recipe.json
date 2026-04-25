@@ -1,0 +1,133 @@
+{
+  "id": "tr_2149",
+  "title": "15-Minute Lazy Noodles",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/04/noodle-recipe-13.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/15-minute-lazy-noodles/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "lazy noodles"
+  ],
+  "nutrition": {
+    "calories": 454,
+    "protein": 23.0,
+    "carbs": 42.0,
+    "fat": 22.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 oz. dried wheat noodles ((340g, almost any noodle will do––even spaghetti))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 tablespoons vegetable or canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "ground beef ((or pork, chicken, or turkey))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion ((thinly sliced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "baby spinach",
+      "emoji": "🥬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "chili oil ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a pot of water to a boil for the noodles. Meanwhile, heat the wok over high heat, and and add a tablespoon or two of oil. Add the ground meat, and stir-fry until browned and slightly crispy."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the onion and garlic, and continue to cook over high heat until the onions are slightly softened and browned at the edges. Stir in the spinach until it’s just wilted. Season with salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, cook the noodles according to the package directions. Add to a bowl, along with the soy sauce, dark soy sauce, sesame oil, honey, and chili oil (if using). Toss with the onion, meat, and spinach mixture. Serve!"
+    }
+  ]
+}

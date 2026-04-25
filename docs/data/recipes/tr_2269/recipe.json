@@ -1,0 +1,137 @@
+{
+  "id": "tr_2269",
+  "title": "Hakka Style Chinese Stuffed Tofu",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/10/DSC_0966.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/stuffed-tofu-hakka-style/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "chinese stuffed tofu"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 37.0,
+    "carbs": 11.0,
+    "fat": 19.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "firm tofu ((450g))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 oz. ground pork ((85g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 oz. salted fish ((optional, or substitute 4 small anchovy filets))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "fresh ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mince the ground pork and ginger together. Remove the skin from the salted fish and mince it up with the pork and ginger until very well-combined."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut tofu into 2-inch squares about 3/4-inch thick. Scoop out about 1 teaspoon of tofu from each piece to make room for the meat. In a bowl, stir the excess tofu in with the pork. Add the wine, a pinch of fresh ground white pepper, and salt to the meat mixture. Mix well."
+    },
+    {
+      "order": 3,
+      "instruction": "Divide the meat among the tofu pieces. Steam the plate of tofu in a wok or steamer for about 10 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "While the tofu is steaming, mix 1 tbsp of cornstarch with 1 tbsp of water and set aside. Cut 4 to 6 pieces of the scallion about 3 inches long, and cut lengthwise slits on both ends. Put into a bowl of ice water. The ends curl up nicely and can be used as a garnish. Dice the rest of the scallions and set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "When the tofu is done, carefully remove the plate. Pour any excess liquid back into the wok and add more water if needed to make about a quarter cup of sauce."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat the liquid to a simmer and add the oyster sauce and dark soy. Season with a bit of salt and white pepper, and add the cornstarch slurry. Simmer the sauce until it's thick enough to coat the back of a spoon. Pour the sauce over the tofu and garnish with scallions."
+    }
+  ]
+}

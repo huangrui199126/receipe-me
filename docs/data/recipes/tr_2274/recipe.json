@@ -1,0 +1,121 @@
+{
+  "id": "tr_2274",
+  "title": "Quick Cucumber Salad with Asian Dressing",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/08/quick-cucumber-salad-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/quick-cucumber-salad-with-asian-dressing/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "cucumber salad"
+  ],
+  "nutrition": {
+    "calories": 49,
+    "protein": 2.0,
+    "carbs": 9.0,
+    "fat": 2.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  medium to large cucumbers",
+      "emoji": "🥒",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 cloves garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame seeds ((toasted, optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Peel or scrub the cucumbers (whichever you prefer) and cut them into 2 to 3 inch sticks. Put them into a large mixing bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Stir the rest of the ingredients (except the sesame seeds) in a small bowl to make the dressing."
+    },
+    {
+      "order": 3,
+      "instruction": "Drain any water that may have seeped out of the cucumbers and toss in the dressing. Once the cucumbers are coated, garnish with sesame seeds (if using) and serve immediately."
+    },
+    {
+      "order": 4,
+      "instruction": "When I made this today it was about 97 degrees outside, and I chilled the cucumbers for about 15 minutes in the fridge before tossing them together. I served the salad with a mildly sweet plum wine we bought while in Chengdu. The dish is light, cooling, and tasty!"
+    }
+  ]
+}

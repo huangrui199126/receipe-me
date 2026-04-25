@@ -1,0 +1,121 @@
+{
+  "id": "tr_2379",
+  "title": "Chinese Shredded Cabbage Stir-Fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/04/cabbage-stir-fry-5-1.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-cabbage-stir-fry/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "cabbage stir-fry"
+  ],
+  "nutrition": {
+    "calories": 342,
+    "protein": 7.0,
+    "carbs": 13.0,
+    "fat": 30.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6 oz. pork belly ((170g, pork loin, or chicken, thinly sliced))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic ((smashed and cut in half))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  dried red chilies ((deseeded and roughly chopped))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2 lb. cabbage ((680g, hand-shredded into bite sized pieces, washed, and thoroughly dried))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((cut into 2-inch lengths))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a wok over high heat, add the oil. Sear the meat until caramelized. Add the garlic and chili, turn down the heat to medium, and stir-fry for a minute, taking care not to burn the garlic."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the cabbage, wine, soy sauce, sugar, and water. Turn up the heat to high, cover the lid and let the cabbage cook for 1-2 minutes. Uncover the lid, and stir in the black vinegar, scallions, and salt to taste. The cabbage should be wilted, but still slightly crunchy and caramelized. Serve hot!"
+    }
+  ]
+}

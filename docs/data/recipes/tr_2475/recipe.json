@@ -1,0 +1,161 @@
+{
+  "id": "tr_2475",
+  "title": "Hot and Sour Dumpling Soup",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/08/hot-sour-dumpling-soup-10.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/hot-sour-dumpling-soup/",
+  "servings": 1,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "hot and sour dumpling soup"
+  ],
+  "nutrition": {
+    "calories": 732,
+    "protein": 18.0,
+    "carbs": 93.0,
+    "fat": 35.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10-12  dumplings ((homemade or your favorite frozen dumplings))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Sichuan chili flakes ((or to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "garlic ((minced, from 3-4 cloves))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "dried shrimp flakes  ((xiāpí, 虾皮, optional))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 small sheet dried laver ((about the size of 3 quarters, optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "scallion ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 large pinch cilantro ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a medium pot of water to a boil for your dumplings. (If cooking more dumplings for more than one serving; use a larger pot.)"
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, add the chili flakes and garlic to a large heat-proof soup bowl. Heat the oil in a small pot until it just starts to smoke lightly, and then pour the hot oil over the chili flakes and garlic. Stir until well-combined."
+    },
+    {
+      "order": 3,
+      "instruction": "To the bowl, add the light soy sauce, dark soy sauce, black vinegar, sugar, and sesame seeds. Add the dried shrimp and dried laver, if using."
+    },
+    {
+      "order": 4,
+      "instruction": "Time to cook your dumplings. Drop the dumplings into the boiling water while gently stirring the water to prevent the dumplings from sticking to the bottom of the pot."
+    },
+    {
+      "order": 5,
+      "instruction": "Bring the water back up to a boil, and boil for 6 to 8 minutes, depending on their size (or according to package instructions). Ideally, anytime the water comes up to a vigorous boil, add 1/4 cup of cold water to the pot. This cools down the cooking water and prevents the dumpling wrappers from overcooking and becoming starchy before the filling is cooked through. Another good way to do it is to cook them for an additional 30 seconds to 1 minute after the dumplings float to the top of the water."
+    },
+    {
+      "order": 6,
+      "instruction": "To serve, add 1 cup of the cooking water to the serving bowl, along with the dumplings. Add the chopped scallion and cilantro, and season with salt to taste. Enjoy!"
+    }
+  ]
+}

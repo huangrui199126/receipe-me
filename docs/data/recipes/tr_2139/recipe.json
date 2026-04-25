@@ -1,0 +1,141 @@
+{
+  "id": "tr_2139",
+  "title": "Supreme Soy Sauce Fried Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/09/soy-sauce-fried-rice-10.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/king-soy-sauce-fried-rice/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "soy sauce fried rice"
+  ],
+  "nutrition": {
+    "calories": 481,
+    "protein": 13.0,
+    "carbs": 70.0,
+    "fat": 15.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vegetable or canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs ((beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "6",
+      "unit": "cups",
+      "name": "cooked rice ((cooled))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, make the soy sauce mixture. Put all the sauce ingredients in a small saucepan over medium heat. Stir to dissolve the sugar. Once the sauce starts to boil, turn off the heat, and it’s done. It’s ready to use for the fried rice, or you can let it cool completely before storing it in an air-tight container. To clarify, the amount of sauce here is just enough for this recipe. If you’re making more, double or triple, as needed."
+    },
+    {
+      "order": 2,
+      "instruction": "To your beaten eggs, add 1 teaspoon Shaoxing wine and a pinch of salt. Heat 1 tablespoon of oil in your wok over high heat. Quickly scramble the eggs, and transfer to a dish. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Now turn the heat down to medium, and add 2 tablespoons of oil to the wok. Add the rice, stir for a couple of minutes to make sure the rice is heated through. Now add the soy sauce mixture and the scrambled egg. Stir fry everything until combined. Pause for a taste test to see if additional salt is necessary. Lastly, toss in the chopped scallion, stir fry to combine, and serve!"
+    }
+  ]
+}

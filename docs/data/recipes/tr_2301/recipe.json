@@ -1,0 +1,73 @@
+{
+  "id": "tr_2301",
+  "title": "Homemade Sweet Sesame Crisps",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/04/sweet-sesame-crisps-10-1.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/sweet-sesame-crisps/",
+  "servings": 12,
+  "prepTime": 25,
+  "cookTime": 15,
+  "tags": [
+    "sweet sesame crisps"
+  ],
+  "nutrition": {
+    "calories": 224,
+    "protein": 5.0,
+    "carbs": 12.0,
+    "fat": 18.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  large egg whites",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "powdered sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "all purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cup",
+      "name": "raw sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Beat the egg whites until they start to get bubbly. Add the powdered sugar and beat until the sugar is dissolved. Beat in the oil and flour and mix well. Stir in the sesame seeds. Let the mixture sit for 20 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat the oven to 350 degrees. Line a baking sheet with parchment paper. Fill a zip top bag with batter and cut a ¼ inch hole in one corner. Squeeze out the batter onto the parchment to make circles, about an inch and a half apart. Bake for 15-18 minutes until golden. Cool and serve."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "tr_2403",
+  "title": "Stir-Fried Lettuce, A Healthy Cooked Lettuce Recipe",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/03/stir-fried-lettuce-5-1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/stir-fried-lettuce/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 2,
+  "tags": [],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2.0,
+    "carbs": 6.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "head",
+      "name": "iceberg lettuce",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "ground white pepper (to taste)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "slice",
+      "name": "ginger ((⅛-inch thick, smashed with the side of a knife))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic ((chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Take the lettuce and firmly hit it on the counter to remove the core. (One of the first of many tricks I learned when working in the restaurant industry!)"
+    },
+    {
+      "order": 2,
+      "instruction": "Remove the first outer layer of the lettuce and any discolored leaves and discard. Tear the lettuce with your hands into large 4 to 5-inch pieces."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the lettuce in a large bowl of very cold water and give it a good stir. This washes your lettuce and rehydrates it. Next, drain the lettuce in a colander and give it a good shake to remove the excess water from the surface of the lettuce. Iceberg lettuce already contains a lot of water, so removing the excess water is important, or you’ll end up with too much liquid. Feel free to use a salad spinner, which is a good idea if your stove and wok does not generate enough high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Combine the soy sauce, oyster sauce, sesame oil, salt, sugar, white pepper into a small bowl and set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat your wok over low heat, and add 2 tablespoons of oil and the fresh ginger slice. Make sure to smash the ginger with the side of a knife to release the juices and flavors before you add it. Infuse the oil for 15 seconds, being careful not to burn the ginger."
+    },
+    {
+      "order": 6,
+      "instruction": "Turn the heat up to the highest setting, and stir in the chopped garlic. Then mmediately add the iceberg lettuce. Stir-fry everything together, using a scooping motion to coat the lettuce uniformly with the oil. After about 20 seconds, gather the lettuce in the middle of the wok in a pile, so you can see the liquid pooling around it in the wok."
+    },
+    {
+      "order": 7,
+      "instruction": "Let cook uncovered for another 15 seconds, and while this is happening, pour the soy sauce mixture over the lettuce. At this point, the sides of the wok will start to super-heat. This may be tough to achieve on your average stove burner, but do your best!"
+    },
+    {
+      "order": 8,
+      "instruction": "Now in a single motion, stir the lettuce in a circular motion while spreading the lettuce out across the wok. The idea is to get the lettuce and the liquid searing along the sides of the wok to get that wok hei flavor. After the searing has stopped, repeat the process of gathering the lettuce in the middle of the wok again and letting the sides of the wok heat up again."
+    },
+    {
+      "order": 9,
+      "instruction": "After this second round of searing, your iceberg lettuce should be tender, with the green parts wilted. Stir fried lettuce should be slightly crunchy, so be sure not to overcook it. This whole process from start to finish takes less than 2 minutes in the wok."
+    }
+  ]
+}

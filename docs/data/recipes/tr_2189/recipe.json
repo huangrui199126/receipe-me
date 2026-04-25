@@ -1,0 +1,169 @@
+{
+  "id": "tr_2189",
+  "title": "Asian Braised Short Ribs with Chili Lime Potatoes",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/05/asian-short-ribs-13-1.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/asian-braised-short-ribs-with-chili-lime-potatoes/",
+  "servings": 6,
+  "prepTime": 360,
+  "cookTime": 195,
+  "tags": [
+    "braised short ribs"
+  ],
+  "nutrition": {
+    "calories": 515,
+    "protein": 47.0,
+    "carbs": 26.0,
+    "fat": 24.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "lbs",
+      "name": "beef short ribs ((1.8 kg; choose ribs that are about 3 inches long and have at least 2 inches of meat on the bone))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "soy sauce ((60 ml))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion ((grated))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "lbs",
+      "name": "Yukon gold potatoes ((900g, cut into chunks if large))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and Pepper ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "chopped fresh red chili ((to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse the short ribs under cold running water and transfer to a bowl. Add all the marinade ingredients and toss to coat. Cover and refrigerate for 6 to 24 hours."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat your oven to 300 degrees F and place a rack in the middle of the oven. Arrange ribs, bone side down, in a 9x13-inch roasting pan and cover with the marinade, along with 1 1/2 cups of water. Cover with foil and roast for 3 hours. Remove the foil and roast for another 15 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the potatoes on a parchment-lined baking sheet. Drizzle with olive oil, salt, and pepper, and roast along with the short ribs for the last 45 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "While that’s happening, mix the dressing for the potatoes by combining 2 tablespoons olive oil, lime juice, sugar, garlic, cilantro, and red chili. Season the dressing with salt and pepper. Toss the roasted potatoes in the dressing, and serve with the short ribs!"
+    }
+  ]
+}

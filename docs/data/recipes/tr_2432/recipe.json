@@ -1,0 +1,145 @@
+{
+  "id": "tr_2432",
+  "title": "Har Gow (Dim Sum Shrimp Dumplings)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/10/har-gow-6.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/har-gow/",
+  "servings": 6,
+  "prepTime": 60,
+  "cookTime": 20,
+  "tags": [
+    "har gow"
+  ],
+  "nutrition": {
+    "calories": 213,
+    "protein": 8.0,
+    "carbs": 30.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "pound",
+      "name": "raw shrimp (peeled, de-veined, and patted dry)",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "bamboo shoots",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "wheat starch",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "boiling water ((add an additional 1 to 2 teaspoons in dryer climates))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "teaspoons",
+      "name": "lard ((or oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix everything (except the bamboo) together; whip in one direction for a few minutes until the mixture starts to look sticky. Now add the chopped bamboo shoots, and mix everything together. Cover and refrigerate while preparing the dough."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix the wheat starch and cornstarch in a mixing bowl. Slowly add in the boiling water, while stirring rapidly. Now add in the lard (or oil) and continue to stir. Knead the dough for a couple of minutes, until it turns into a smooth dough ball. Roll the dough into a long cylinder, and divide it into 18 equal pieces. Cover the dough pieces with a damp paper towel."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn on the stove to pre-boil the water in the steamer. Take one piece of dough and roll it into a 3” diameter circle. Add a spoonful of filling and fold the dumpling as shown in our video. Continue assembling until all the dumplings are made."
+    },
+    {
+      "order": 4,
+      "instruction": "Once the water in the steamer is boiled, steam the shrimp dumplings for 6 minutes using high heat and serve hot. Make sure that they each have an inch and a half to expand during the cooking process."
+    }
+  ]
+}

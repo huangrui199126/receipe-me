@@ -1,0 +1,129 @@
+{
+  "id": "tr_2198",
+  "title": "Chinese Drunken Chicken",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/03/drunken-chicken-3-1.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/drunken-chicken/",
+  "servings": 4,
+  "prepTime": 1440,
+  "cookTime": 85,
+  "tags": [
+    "drunken chicken"
+  ],
+  "nutrition": {
+    "calories": 218,
+    "protein": 14.0,
+    "carbs": 4.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  chicken leg quarters",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 ½",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large slices ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 ½",
+      "unit": "cups",
+      "name": "of your homemade Chicken broth ((at room temperature))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shaoxing huadiao wine ((绍兴花雕酒))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "teaspoons",
+      "name": "sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "dried goji berries/wolfberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Debone the chicken leg quarters, keeping the skin on. Keep the bones to make a homemade stock, which you’ll be using in this recipe. You might be able to ask your butcher to help you with this step!"
+    },
+    {
+      "order": 2,
+      "instruction": "In a small pot, add your reserved chicken bones, 2 ½ cups water, and ginger. Bring to a boil and simmer over low heat for at least 1 hour (or longer). We’ll need 1 ½ cups of chicken broth for the recipe. You can also eliminate this step if you want to use store-bought chicken stock."
+    },
+    {
+      "order": 3,
+      "instruction": "Rinse off your de-boned chicken and pat thoroughly dry with a paper towel. Grab 2 pieces of aluminum foil, each about 12” long. Lay each piece of chicken onto a piece of foil, and sprinkle with ¼ teaspoon salt. Roll up the chicken lengthwise, and then wrap in the foil, twisting both sides to form a candy-like bundle."
+    },
+    {
+      "order": 4,
+      "instruction": "Steam the chicken in the foil over high heat for 20 minutes, covered. Turn off the heat and let the chicken sit in the steamer for another 5 minutes with the lid tightly closed."
+    },
+    {
+      "order": 5,
+      "instruction": "Transfer the foil wrapped chicken to an ice bath, and let it sit there for 10-15 minutes, until the chicken is completely cool. This step ensures that the juices remain locked in and improves the chicken’s overall texture."
+    },
+    {
+      "order": 6,
+      "instruction": "Now it’s time to make the brine. In a non-reactive container (I used a glass loaf pan. Anything narrow and deep, where the chicken can remain submerged, will work), add the 1 ½ cups chicken broth, 1 ½ cups shaoxing wine, sugar, salt, and goji berries. Once the chicken is cool, unwrap the chicken and place in the brine. Cover and refrigerate for 24 hours.v"
+    },
+    {
+      "order": 7,
+      "instruction": "Slice and serve cold or at room temperature. This dish is usually served as a cold appetizer. Remember to store the chicken in the brine until serving and use clean utensil whenever coming contact with the brine and chicken. Consume the chicken within 3 days."
+    },
+    {
+      "order": 8,
+      "instruction": "Note: We did this dish with equal parts wine and broth. You can change the ratio according to your own tastes, whether you like a stronger or lighter wine taste. But beware…upping the ratio of wine can make the chicken bitter, so proceed with caution."
+    }
+  ]
+}

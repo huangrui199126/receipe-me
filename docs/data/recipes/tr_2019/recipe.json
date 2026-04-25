@@ -1,0 +1,149 @@
+{
+  "id": "tr_2019",
+  "title": "Shortcut Vegan General Tso's “Chicken”",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/04/vegan-general-tso-chicken-9.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/vegan-general-tsos-chicken/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "vegan general tso's chicken"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 20.0,
+    "carbs": 41.0,
+    "fat": 16.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "Asian vegetable stock ((or low-sodium store-bought vegetable stock))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce ((or seasoned soy sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine ((or cooking sherry))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "tablespoons",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "vegan chicken nuggets or tenders",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "broccoli florets ((about 1 broccoli crown))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-5  dried red chili peppers ((broken in half if you like extra spice))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch ((mixed with 2 tablespoons water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Make the sauce mixture by combining the vegetable stock, soy sauces, rice wine vinegar, Shaoxing wine, brown sugar, and white pepper. Set aside. Bake/cook the vegan chicken nuggets according to package instructions."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring a pot or wok of water to a boil, and blanch the broccoli for 30 seconds to 1 minute, depending on how crunchy/tender you like your broccoli. Drain and set aside. To keep it super green, you can also transfer the broccoli to an ice bath before draining."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat a clean wok or skillet over medium heat. Add 1 tablespoon of oil along with the dried chilies. Cook for a few seconds, and add the minced garlic."
+    },
+    {
+      "order": 4,
+      "instruction": "Next, add the prepared General Tso’s sauce. Bring to a simmer. Stir the cornstarch into the water to make sure it’s fully combined, and slowly stir the cornstarch slurry into the sauce. Simmer for another 30 seconds to allow the sauce to thicken."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the nuggets and broccoli, and toss until everything is evenly coated in sauce. Plate and serve immediately with steamed rice!"
+    }
+  ]
+}

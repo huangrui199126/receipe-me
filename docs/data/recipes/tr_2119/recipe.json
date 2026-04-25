@@ -1,0 +1,101 @@
+{
+  "id": "tr_2119",
+  "title": "10-Minute Korean Crispy Pork Belly Kimchi Bowls",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/02/pork-kimchi-bowls-9-1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pork-belly-kimchi-bowls/",
+  "servings": 3,
+  "prepTime": 3,
+  "cookTime": 7,
+  "tags": [
+    "pork belly kimchi"
+  ],
+  "nutrition": {
+    "calories": 708,
+    "protein": 11.0,
+    "carbs": 53.0,
+    "fat": 50.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. pork belly ((thinly sliced))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion ((thinly sliced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "kimchi",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Gochujang ((Korean red pepper paste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cooked medium grain rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat a wok or skillet over high heat just until smoking. Add the oil, followed by the pork belly, and stir-fry for 1 minute (or until slightly caramelized)."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the onion, kimchi, and sugar, and cook for an additional 3 minutes. Add the gochujang and cook for another minute."
+    },
+    {
+      "order": 3,
+      "instruction": "Serve over rice, and garnish with chopped scallions."
+    }
+  ]
+}

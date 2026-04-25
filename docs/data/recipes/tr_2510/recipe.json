@@ -1,0 +1,289 @@
+{
+  "id": "tr_2510",
+  "title": "Chinese Pineapple Buns with Roast Pork Filling",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/10/chinese-pineapple-bun-pork-5.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-pineapple-buns-pork/",
+  "servings": 18,
+  "prepTime": 195,
+  "cookTime": 20,
+  "tags": [
+    "pineapple roast pork buns"
+  ],
+  "nutrition": {
+    "calories": 614,
+    "protein": 62.0,
+    "carbs": 43.0,
+    "fat": 20.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "⅔",
+      "unit": "cup",
+      "name": "heavy cream ((160 ml, at room temperature))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk ((235 ml, at room temperature))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg ((at room temperature))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "⅓",
+      "unit": "cup",
+      "name": "granulated sugar ((75g))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "cake flour ((70g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3½",
+      "unit": "cups",
+      "name": "bread flour ((500g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "active dry yeast ((11g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1½",
+      "unit": "teaspoons",
+      "name": "salt ((7g))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil ((30 ml))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "finely chopped shallots or red onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "sugar ((25g))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce ((15 ml))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oyster sauce ((30 ml))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "¾",
+      "unit": "cup",
+      "name": "water ((175 ml))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "flour ((24g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "Chinese roast pork ((char siu, diced))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "nonfat dry milk powder ((30g))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1¼",
+      "unit": "cups",
+      "name": "all-purpose flour ((160g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "superfine or caster sugar ((150g, very important that it’s superfine))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "vegetable shortening (or butter (50g))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "milk ((30 ml))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg yolk",
+      "emoji": "🥚",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs ((separated))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 27
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In the bowl of a mixer, add the dough ingredients: heavy cream, milk, egg, sugar, cake flour, bread flour, yeast, and salt. Use the dough hook attachment, and turn on the mixer to “stir.” Let it go for 15 minutes, occasionally stopping the mixer to push the dough together. If you're in a humid climate and the dough is too sticky, feel free to add a little more flour ¼ cup at a time until it comes together. If you don't have a mixer and would like to knead by hand, extend the kneading time by 5-10 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "After 15 minutes of mixing, the dough is ready for proofing. Cover the bowl with a damp towel and place in a warm spot for 1 hour. The dough will grow to 1.5X its original size."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, prepare your filling and topping. To make the filling, heat 2 tablespoons oil in a wok over medium high heat. Add the onion and stir-fry for 2 minutes. Add the sugar, soy sauce, oyster sauce, sesame oil, and dark soy. Stir and cook until it starts to bubble up. Add the water and flour. Reduce the heat to medium low and cook, stirring, for a couple minutes until thickened. Remove from the heat and stir in the roast pork. Set aside to cool."
+    },
+    {
+      "order": 4,
+      "instruction": "To prepare the topping, add the dry milk powder to a mixing bowl. If your dry milk powder has some larger clumps, crush them up with your fingers so it’s uniformly powdery. Add the flour, baking soda, baking powder, and superfine sugar. Stir to combine. Add the shortening, milk, egg yolk, and vanilla. Use your hands to mix everything together into a dough. If it’s too dry, add a little more milk a teaspoon at a time until it comes together. Cover with an overturned bowl or plate, and set aside at room temperature."
+    },
+    {
+      "order": 5,
+      "instruction": "After the hour of proofing, put the dough back in the mixer and stir for another 5 minutes to get rid of air bubbles. You can also knead by hand. Dump the dough onto a lightly floured surface, and cut it into 18 equal pieces."
+    },
+    {
+      "order": 6,
+      "instruction": "To assemble, divide the topping mixture into 18 equal pieces and roll each into a ball. Roll each ball out into a flat circle using a rolling pin."
+    },
+    {
+      "order": 7,
+      "instruction": "Take a piece of bread dough, and flatten with your hands into a rough circle. Put a heaping tablespoon of pork filling in the middle, and wrap the dough around it. Roll into a smooth ball between your hands, and place on a parchment-lined baking sheet, seam-side down. Top the bun with a circle of topping."
+    },
+    {
+      "order": 8,
+      "instruction": "Continue assembling until all the buns are made. Cover with a clean, damp towel and allow to rise for another hour."
+    },
+    {
+      "order": 9,
+      "instruction": "After they’re done rising, position a rack in the middle of the oven and preheat to 350 degrees F. Brush the topping with egg yolk and any exposed dough with egg white. Bake for 18-20 minutes until golden. If you notice the topping getting too dark, tent the buns lightly with foil."
+    },
+    {
+      "order": 10,
+      "instruction": "These are great warm out of the oven, but they’re also great reheated in the microwave for about 30 seconds. Store them in an airtight container in the fridge and reheat to enjoy!"
+    }
+  ]
+}

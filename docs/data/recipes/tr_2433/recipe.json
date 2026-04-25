@@ -1,0 +1,89 @@
+{
+  "id": "tr_2433",
+  "title": "Chinese Scallion Rolls (Hua Juan)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/03/DSC_0319-1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-scallion-rolls/",
+  "servings": 10,
+  "prepTime": 30,
+  "cookTime": 15,
+  "tags": [
+    "huajuan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  recipe mantou dough",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 oz. cooked bacon ((chopped or 2 tablespoons sesame seeds))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "It takes about 2 hours to make the basic mantou dough"
+    },
+    {
+      "order": 2,
+      "instruction": "Take half of the dough and roll it out into a rectangle about a half-inch thick. Stir together the chopped scallions, a few tablespoons of oil, and salt, to taste. Spread half of the scallion mixture evenly over the dough. Sprinkle over half the bacon or 1 tablespoon sesame seeds."
+    },
+    {
+      "order": 3,
+      "instruction": "Roll the dough into a cigar, slice into 3-inch pieces. Use a chopstick to make a crease through the middle of each bun. Heat a tablespoon of oil in a non-stick skillet over medium high heat. Place the buns in the pan and let fry for a minute or two. Pour a half cup water into the pan and cover. Steam for about 12 minutes. Check regularly to make sure the pan isn't drying out and add a little more water if necessary."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove the cover and allow the water to evaporate. Continue to fry, adding additional oil if necessary, until the bottoms of the buns are golden brown. Serve! You can use the rest of the ingredients to make another batch, or wrap up the dough and store in the refrigerator for later."
+    }
+  ]
+}

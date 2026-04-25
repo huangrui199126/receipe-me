@@ -1,0 +1,85 @@
+{
+  "id": "tr_2260",
+  "title": "Homemade Chinese Egg Noodles",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/04/homemade-chinese-egg-noodles-19-e1609271249794.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/homemade-chinese-egg-noodles/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "homemade chinese egg noodles"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 11.0,
+    "carbs": 48.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "all purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the flour and salt in the bowl of a stand mixer. Add the eggs and water, and combine to form a shaggy dough."
+    },
+    {
+      "order": 2,
+      "instruction": "Turn on the mixer fitted with the dough hook attachment, and knead for 10 minutes. If kneading by hand, knead for an additional 5 minutes (total of 15 minutes). Cover the dough and allow to rest for 30 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Divide the dough in half. Set one half aside, covered. To roll by hand, follow instructions here. To roll using a pasta roller, flatten the dough half into a thin rectangle, about ½ - ¾ inch thick (about 1-2 cm)."
+    },
+    {
+      "order": 4,
+      "instruction": "With the pasta roller at the thickest setting, feed the dough through, being sure to guide it straight, so it doesn’t go crooked or get caught in the sides of the roller."
+    },
+    {
+      "order": 5,
+      "instruction": "Continue to run the dough through the roller once at each setting. When you’ve gotten halfway through the settings, you may want to cut the dough in half, so that it’s not too long and difficult to manage."
+    },
+    {
+      "order": 6,
+      "instruction": "When the dough is thin enough to see your hand through it, thoroughly flour both sides of the dough sheet. Then run it through your desired noodle cutting setting. Toss the noodles in additional flour to prevent them from sticking to each other. Repeat with the other half of the dough. This recipe makes four portions."
+    },
+    {
+      "order": 7,
+      "instruction": "Bring a large pot of water to a boil. Add the noodles and stir immediately to make sure they don&#x27;t clump together. Cook the noodles for 60-90 seconds, and add them to your favorite sauce, noodle soup, or stir-fry!"
+    }
+  ]
+}

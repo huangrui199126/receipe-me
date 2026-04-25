@@ -1,0 +1,253 @@
+{
+  "id": "tr_2053",
+  "title": "Saucy Beef Chow Ho Fun Noodles",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/10/beef-chow-fun-wet-4.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chow-ho-fun-noodles-saucy-beef/",
+  "servings": 4,
+  "prepTime": 35,
+  "cookTime": 10,
+  "tags": [
+    "saucy beef chow fun"
+  ],
+  "nutrition": {
+    "calories": 436,
+    "protein": 26.0,
+    "carbs": 44.0,
+    "fat": 17.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "flank steak ((340g, thinly sliced))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "baking soda ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "fresh rice noodles ((wide/flat noodles))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "warm low sodium beef or chicken stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "white pepper ((to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "canola oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  thin slices ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "fresh shiitake mushrooms",
+      "emoji": "🍄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "napa cabbage",
+      "emoji": "🥬",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "fresh mung bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the rice noodles into 1½-inch wide pieces and set aside. They should be at room temperature."
+    },
+    {
+      "order": 2,
+      "instruction": "In a wide shallow bowl, mix the beef, ¼ teaspoon baking soda, 1 teaspoon soy sauce, 1 tablespoon water, 1 teaspoon vegetable oil, and ½ teaspoon cornstarch until the beef is well coated. The beef should absorb the water and soy sauce so there’s no liquid. Set aside for 30 minutes at room temperature."
+    },
+    {
+      "order": 3,
+      "instruction": "In a bowl, combine the warmed stock or water, 1 tablespoon light soy sauce, 2 teaspoons dark soy sauce, 2 tablespoons oyster sauce, ¼ teaspoon sugar, ¼ teaspoon sesame oil, and fresh ground white pepper to taste, and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat 2 tablespoons of oil in your wok until it’s close to smoking. Add the beef to give it a quick sear for 30 seconds on each side. The beef should be cooked to about 80% doneness. Return the beef to the bowl, and set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "Turn the heat to medium, and add 1 tablespoon oil to the wok, along with the ginger. Let it caramelize for about 20 seconds. Next, stir in the garlic and immediately add the Chinese black mushrooms and the white portions of the scallions."
+    },
+    {
+      "order": 6,
+      "instruction": "Turn the heat to high, and stir-fry for 15 seconds. Add 1 tablespoon Shaoxing wine and the napa cabbage."
+    },
+    {
+      "order": 7,
+      "instruction": "Stir-fry for another 15 seconds, and add the sauce mixture you prepared earlier. Once the sauce starts to simmer and boil, add the fresh ho fun rice noodles, folding them into the sauce so the noodles don’t break apart. Reduce the heat to a simmer if needed, and after 30 seconds (or when the rice noodles are heated through), add the mung bean sprouts and the beef."
+    },
+    {
+      "order": 8,
+      "instruction": "Fold in the beef and mung bean sprouts until everything is coated and heated through. Add the green portions of the scallions."
+    },
+    {
+      "order": 9,
+      "instruction": "Drizzle in half of the cornstarch slurry while stirring, and cook for 20 seconds. Check the thickness of the sauce. Add more slurry until the sauce is thick enough to coat a spoon."
+    },
+    {
+      "order": 10,
+      "instruction": "The sauce consistency and quantity is all per your personal preference. You can adjust the recipe by increasing the amount of stock, seasonings, and/or cornstarch slurry."
+    },
+    {
+      "order": 11,
+      "instruction": "The sauce should be allowed to cook for at least 20 seconds after adding the last of the cornstarch slurry to ensure the starch gets cooked. Serve your Beef Chow Ho Fun Noodles with your favorite chili oil!"
+    }
+  ]
+}

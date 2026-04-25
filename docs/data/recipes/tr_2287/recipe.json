@@ -1,0 +1,89 @@
+{
+  "id": "tr_2287",
+  "title": "Snow Pea Leaves with Garlic",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/06/bok-choy-stirfry-1.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/stir-fried-snow-pea-leaves-with-garlic/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "snow pea leaves"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "snow pea leaves ((450g))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-5 cloves garlic ((finely chopped, depending on how much you like))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak snow vegetables in a large bowl or other container for 1 to 2 hours. Then wash thoroughly (2 to 3 times) to get rid of all the dirt and sand clinging to the leaves and stems. Drain off all the water."
+    },
+    {
+      "order": 2,
+      "instruction": "Using very high heat, heat oil in your wok until it just starts to smoke a bit. Quickly add the garlic and the veggies, taking care not to burn them by constantly stirring. After a minute, add salt, cracked white pepper, and sesame oil. Stir and mix well."
+    },
+    {
+      "order": 3,
+      "instruction": "Put the lid on the wok and cook for about 1-2 minutes. Remove lid, stir briefly, and transfer to a dish."
+    },
+    {
+      "order": 4,
+      "instruction": "Tip: don't open the lid more than once during cooking, as it will cause the vegetables to lose their green color!"
+    }
+  ]
+}

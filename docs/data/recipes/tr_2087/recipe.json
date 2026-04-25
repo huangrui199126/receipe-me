@@ -1,0 +1,165 @@
+{
+  "id": "tr_2087",
+  "title": "Squid Stir-Fry with Pickled Mustard Greens",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/12/squid-pickled-mustard-greens-11-1.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/squid-stir-fry-pickled-mustard-greens/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 10,
+  "tags": [
+    "squid stir-fry"
+  ],
+  "nutrition": {
+    "calories": 231,
+    "protein": 20.0,
+    "carbs": 15.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "pickled mustard greens ((340g, cut in ½-inch by 2-inch strips))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "cleaned fresh squid ((450g, tentacles optional, scored))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger ((⅛-inch thick and smashed with the side of your knife))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((peeled and smashed))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  dried red chili peppers ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((cut on a bias into 1-inch pieces))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "chicken stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "⅛",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch ((mixed with 1 tablespoon water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Boil 2 quarts of water in your wok, and add ½ teaspoon salt. Next, add the cleaned, cut squid to the water, and stir for about 30 seconds, or until it turns a white opaque color. Transfer them out of the wok, and set aside to drain."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat your wok over medium heat, and add 2 tablespoons of vegetable oil. Add the smashed ginger to the wok, and let it fry in the oil for 10 seconds. Next, add the smashed garlic, and let it fry for another 10 seconds."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the dried whole chili peppers (if using), the white portions of the scallion, and stir-fry for 5 seconds. Make sure not to break the peppers, or the dish will be very spicy, but toasted whole chili peppers add a nice subtle flavor to this dish."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the pickled mustard greens to the wok, and stir-fry on medium high heat for 30 seconds. Add the Shaoxing wine. Continue to stir-fry for another 30 seconds, giving the mustard greens a good sear. Turn down the heat if the any of the aromatics start to burn!"
+    },
+    {
+      "order": 5,
+      "instruction": "Now, add the chicken stock back to the wok, and stir in the sesame oil, sugar, remaining ½ teaspoon of salt, and ground white pepper. Lower the heat, and let everything simmer for 3 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the squid and stir for 30 seconds. Next, add the cornstarch and water mixture. Toss in the remaining green portions of the scallions, and simmer for another 30 seconds."
+    },
+    {
+      "order": 7,
+      "instruction": "Add more chicken stock if the mixture is too thick, and more cornstarch and water if you want the sauce thicker. You can also add more chicken stock and seasonings accordingly if you like more sauce for this dish."
+    }
+  ]
+}

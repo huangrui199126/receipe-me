@@ -1,0 +1,109 @@
+{
+  "id": "tr_2017",
+  "title": "Vegan 1-2-3-4-5 Tofu",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/06/1-2-3-4-5-Tofu-12.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/vegan-1-2-3-4-5-tofu/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 35,
+  "tags": [
+    "vegan tofu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15.0,
+    "carbs": 17.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "21",
+      "unit": "ounces",
+      "name": "firm tofu ((1 1/2 containers, 600g; cut into cubes))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "5",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat a wok (or cast iron pan) until it starts to smoke lightly. This is very important to prevent the tofu from sticking."
+    },
+    {
+      "order": 2,
+      "instruction": "Add 2 tablespoons oil, along with the ginger slices. Over medium heat, fry the ginger for 1 minute. Add the tofu, and take 10 minutes to brown the tofu on at least 2-3 sides."
+    },
+    {
+      "order": 3,
+      "instruction": "When the tofu is lightly browned (or to your liking), add in 1 tablespoon Shaoxing wine, 2 tablespoons Chinese black vinegar, 3 tablespoons light soy sauce, 4 tablespoons sugar, and 5 tablespoons water. Stir and mix everything well. Turn up the heat to bring it to a boil."
+    },
+    {
+      "order": 4,
+      "instruction": "Cover and reduce the heat to medium/low. Simmer for 15 minutes. Halfway through, check to make sure the liquid is not drying up. If so, reduce the heat further and add in a little more water if needed."
+    },
+    {
+      "order": 5,
+      "instruction": "After 15 minutes, remove the lid. The sauce should be mostly cooked down. With the heat on high, gently toss the tofu to ensure every piece is coated in glistening sauce. This process takes a couple of minutes. Reduce the liquid until there is ¼ cup of liquid left and the tofu is gleaming with sauce. Serve immediately."
+    }
+  ]
+}

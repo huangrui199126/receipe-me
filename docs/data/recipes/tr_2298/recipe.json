@@ -1,0 +1,129 @@
+{
+  "id": "tr_2298",
+  "title": "Steamed Pork Patty with Preserved Vegetables",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/04/steamed-pork-yook-baeng-10.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/steamed-pork-patty-preserved-vegetables/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "steamed pork patty"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 15.2,
+    "carbs": 6.3,
+    "fat": 16.8
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "65",
+      "unit": "g",
+      "name": "dong cai ((Tianjin preserved vegetables))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "ground pork ((12 ounces))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Wash the dong cai in water a couple of times to wash off excess salt. Squeeze out the water after rinsing, so the vegetable is dry. Finely chop and add to the ground pork in a mixing bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "To the pork and vegetables, add the water, Shaoxing wine, light soy sauce, white pepper, sesame oil, cornstarch and sugar."
+    },
+    {
+      "order": 3,
+      "instruction": "Whip everything together rapidly with a pair of chopsticks in one direction. This process emulsifies the fat into the meat and changes the overall texture. Stop only when the meat mixture resembles a uniform sticky, smooth paste. Stir in the chopped scallions."
+    },
+    {
+      "order": 4,
+      "instruction": "Spread the meat mixture evenly in a round, shallow, and heat proof bowl with a rim (to catch the juices that come out of the pork patty)."
+    },
+    {
+      "order": 5,
+      "instruction": "Bring the water to a rapid boil in your steamer, and place the pork into the steamer. Cover and steam for 15 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve immediately with steamed rice. There will be tasty juices in the bowl, great for spooning over rice. The pork will slowly reabsorb these juices as it sits, so that’s why it’s best to eat immediately."
+    }
+  ]
+}

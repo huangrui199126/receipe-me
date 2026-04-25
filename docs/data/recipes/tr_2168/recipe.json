@@ -1,0 +1,165 @@
+{
+  "id": "tr_2168",
+  "title": "Chinese Spaghetti Bolognese",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/12/ground-beef-recipes-9-1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-spaghetti-bolognese/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "chinese spaghetti bolognese"
+  ],
+  "nutrition": {
+    "calories": 559,
+    "protein": 28.0,
+    "carbs": 58.0,
+    "fat": 23.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. dried spaghetti ((225g))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 oz. ground beef ((340g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion ((finely diced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine ((or dry cooking sherry))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken stock ((475 ml))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "frozen peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cornstarch ((mixed with 2 tablespoons water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a pot of salted water to a boil for the spaghetti. Cook the spaghetti according to the package instructions, undercooking it by about a minute (it will finish cooking in the sauce). While the pasta is cooking, start the sauce."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a wok over high heat and add a tablespoon of oil. Add the ground beef and cook until slightly browned, breaking up any large chunks of beef. Add the onion, garlic, and Shaoxing wine, and turn the heat down to medium. Cook until the onion is transparent, and then add the chicken stock."
+    },
+    {
+      "order": 3,
+      "instruction": "Bring to a boil and lower the heat to a simmer. Stir in the oyster and soy sauces, sesame oil, and white pepper. Cover and simmer for 10 minutes. Remove the cover, add the peas, and stir for one minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir up the cornstarch slurry (since the starch will separate from the water when left to sit), and drizzle the slurry into the sauce while stirring constantly. The sauce should thicken until it coats a spoon."
+    },
+    {
+      "order": 5,
+      "instruction": "Drain the pasta, and add it directly to the wok. Toss until the pasta is coated in sauce. Feel free to add some of the pasta cooking liquid if the sauce is too thick, and add more cornstarch slurry if the sauce is too thin. Serve!"
+    }
+  ]
+}

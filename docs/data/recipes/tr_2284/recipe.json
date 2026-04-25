@@ -1,0 +1,107 @@
+{
+  "id": "tr_2284",
+  "title": "Tea Eggs",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/06/tea-eggs-street-market-1.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/tea-eggs/",
+  "servings": 12,
+  "prepTime": 720,
+  "cookTime": 45,
+  "tags": [],
+  "nutrition": {
+    "calories": 66,
+    "protein": 6.0,
+    "carbs": 1.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-5 cups water ((enough to submerge the eggs completely))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "dry Chinese tea leaves of your choice ((try to use loose tea rather than tea bags))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  whole black peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Put everything in a medium pot with the lid on and bring it to bring to a boil slowly, over medium heat. Once the water boils, turn off the fire and let the eggs sit for about 30 minutes, till the water cools off. Take the eggs out one at a time, and carefully crack the shells all over, but leave the shell on. This creates the marbling effect on the finished eggs."
+    },
+    {
+      "order": 2,
+      "instruction": "Put the eggs back in the pot and put the whole shebang into the refrigerator overnight. This allows the eggs to really absorb the flavor of the spices, tea, and soy."
+    },
+    {
+      "order": 3,
+      "instruction": "Tip: These are great if you cut them in half and lay them in a bowl of noodle soup."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "tr_2249",
+  "title": "Hong Shao Kao Fu - Braised Wheat Gluten with Mushrooms",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/04/kaofu-6.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/hong-shao-kao-fu-braised-wheat-gluten-mushrooms/",
+  "servings": 4,
+  "prepTime": 60,
+  "cookTime": 60,
+  "tags": [
+    "kaofu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "pieces",
+      "name": "dried wheat gluten/kao fu ((about 5” x 5” each: Soak in warm water until soft))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  dried shiitake mushrooms ((soaked in warm water until soft))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "dried wood ear mushrooms ((soaked in warm water until soft))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "dried lily-flower ((soaked in warm water until soft))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "raw or roasted unsalted peanuts ((shelled and skins removed))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Once the kao fu is soft, rinse it under running water. Then cut each piece into 1-inch by 1-inch squares. Rinse the mushrooms, wood ears, and lily flower. Drain and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in your wok over high heat. Add the ginger and fry for 30 seconds. Add the kao fu, and cook until slightly browned, about 2 minutes. Add the mushrooms, wood ear, lily flower, and peanuts. Mix everything well. Then add the wine, soy sauces, sugar, and water. Stir well and bring to a boil."
+    },
+    {
+      "order": 3,
+      "instruction": "Cover the pan, turn the heat to low, and simmer for about 1 hour, stirring every 15 minutes to prevent sticking. Serve warm or cold (this is usually served as a cold dish)."
+    }
+  ]
+}

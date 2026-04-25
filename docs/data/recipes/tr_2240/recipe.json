@@ -1,0 +1,121 @@
+{
+  "id": "tr_2240",
+  "title": "Scallion Ginger Shrimp Recipe",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/07/ginger-scallion-shrimp.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/scallion-ginger-shrimp-redux/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "scallion ginger shrimp"
+  ],
+  "nutrition": {
+    "calories": 191,
+    "protein": 24.0,
+    "carbs": 2.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "shrimp ((450g, peeled and deveined))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  scallions ((cut into 2-3 inch lengths))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10 thin slices fresh ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "peanut oil ((or canola or vegetable oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing Wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper ((or to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "dash",
+      "name": "soy sauce ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Defrost your shrimp and give them a quick rinse, checking them for any veins. After they are defrosted and clean, place them into a colander to drain well. Pat them dry with a paper towel."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut the scallions into 2 1/2 inch pieces and slice the ginger to about 1/8 inch thickness. Heat the oil in your wok over medium heat and spread the ginger across the wok. Let it fry in the oil for about 20 seconds to infuse the oil with all that great flavor, and immediately turn up the flame to the highest setting."
+    },
+    {
+      "order": 3,
+      "instruction": "Next, add the scallion ends and the meatier middle parts of the scallion. Give everything a quick stir and add the shrimp. Let the shrimp sear for 20 seconds and add the wine, sesame oil, salt, white pepper, and pinch of sugar."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the remaining green portion of the scallions and stir-fry until the shrimp is just cooked through. Add in the dash of soy if using, and give everything a final toss. Plate and serve immeidately"
+    }
+  ]
+}

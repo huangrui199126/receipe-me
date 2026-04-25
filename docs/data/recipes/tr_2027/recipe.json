@@ -1,0 +1,81 @@
+{
+  "id": "tr_2027",
+  "title": "Homemade Chili Bamboo Shoots",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/11/chili-bamboo-shoots-7.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chili-bamboo-shoots/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "chili bamboo shoots"
+  ],
+  "nutrition": {
+    "calories": 71,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "bamboo shoots ((in brine or canned bamboo shoots))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons chili oil or chiu chow oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sesame oil ((or to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper ((or to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse the bamboo shoots under cold water. Drain well. To ensure they’re really dry, you can pat them dry with a clean kitchen towel."
+    },
+    {
+      "order": 2,
+      "instruction": "Transfer to a bowl and add the chili oil or chiu chow oil to taste. Our chili oil is a purer spicy flavor, whereas chiu chow oil has a garlicky flavor. We like to use primarily the oil, using a spoon to skim off the oil without getting too much of the chili flake. Feel free to go smooth or chunky!"
+    },
+    {
+      "order": 3,
+      "instruction": "Next, add ¼ teaspoon sesame oil, ⅛ teaspoon white pepper, and 1 pinch of salt. You can adjust these amounts to taste."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir to combine, and ideally, let the flavors meld for 10-20 minutes before serving."
+    }
+  ]
+}

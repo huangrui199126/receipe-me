@@ -1,0 +1,125 @@
+{
+  "id": "tr_2060",
+  "title": "Lotus Leaf Buns",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/08/lotus-leaf-buns-4.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/lotus-leaf-buns/",
+  "servings": 12,
+  "prepTime": 140,
+  "cookTime": 25,
+  "tags": [
+    "lotus leaf buns"
+  ],
+  "nutrition": {
+    "calories": 98,
+    "protein": 3.0,
+    "carbs": 19.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "¾",
+      "unit": "cup",
+      "name": "warm water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "instant yeast ((3g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "granulated sugar ((12g))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "plus 1 teaspoon canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "all purpose flour ((290g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cornstarch ((20g))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "salt ((3g))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "baking soda ((1g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "24",
+      "unit": "pieces",
+      "name": "parchment paper ((cut into 3x4 inch rectangles))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a small bowl, whisk together ¾ cup warm water, 1 teaspoon yeast and 1 tablespoon sugar to dissolve. Wait 15 minutes until the yeast mixture “blooms” and foams. Stir in 1 tablespoon of canola oil, and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "While you wait for the yeast mixture to “bloom,” whisk together 2 cups all-purpose flour, 2 tablespoons cornstarch, ¼ teaspoon salt, and 1/8 teaspoon baking soda in a medium bowl. Stir in the yeast mixture using a rubber spatula. After the dry and wet ingredients are well incorporated, knead the dough until smooth and soft. If the dough feels sticky, add a bit more flour 1 tablespoon at a time, and continue kneading until the dough is smooth, soft, and pliable, but not sticky. Brush the top of the dough with 1 teaspoon canola oil, cover the bowl with a plate, and let it proof at room temperature until it has doubled in size (about 1 hour)."
+    },
+    {
+      "order": 3,
+      "instruction": "While the dough is proofing, prepare your steaming device/setup of choice. (Check our Chinese cooking tools page for steamer setup options using a steamer rack in a wok or a multi-level metal steamer—both of which we use regularly in our kitchen. Leave at least 2 inches of space between the water and the steam rack so the water doesn’t touch the buns during the steaming process."
+    },
+    {
+      "order": 4,
+      "instruction": "After the dough finishes proofing, punch it down and knead it for a few minutes to get rid of all the air bubbles. This step is important for achieving smooth and uniform buns! Portion the dough into 12 equal balls. Roll each ball into a 4x7 inch oval shape, lightly brushing the tops with oil to prevent sticking. Fold the dough in half with a small piece of parchment paper in the middle. Line the bun with another piece of parchment paper on the bottom and place it in your steamer to proof a second time. Repeat these steps until you’ve used up all the dough, cover the lid of the steamer, and let proof for another 20 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "After 20 minutes, turn the heat on your steamer setup to high. Once you see steam coming out, reduce the heat to medium, and let the buns steam for another 10 minutes. Turn off the heat and let the buns rest inside the steamer for 5 minutes. Do NOT Remove the cover/lid. This is VERY important, because if you remove the cover too early, the buns will collapse and lose their fluffy shape!!!"
+    },
+    {
+      "order": 6,
+      "instruction": "After 5 minutes have elapsed, the buns are ready to remove from the steamer."
+    },
+    {
+      "order": 7,
+      "instruction": "You can use them immediately, or these buns also freeze well for later use. Just let them cool completely before freezing, because any condensation inside whatever you use to store the buns will make them soggy. Then, when you’re ready to eat them, just steam them for 5 minutes to reheat."
+    }
+  ]
+}

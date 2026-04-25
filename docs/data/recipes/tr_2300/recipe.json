@@ -1,0 +1,77 @@
+{
+  "id": "tr_2300",
+  "title": "Homemade Chinese Sesame Peanut Brittle",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/05/chinese-sesame-peanut-brittle-15.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-sesame-peanut-brittle/",
+  "servings": 12,
+  "prepTime": 60,
+  "cookTime": 30,
+  "tags": [
+    "peanut brittle"
+  ],
+  "nutrition": {
+    "calories": 309,
+    "protein": 11.0,
+    "carbs": 25.0,
+    "fat": 21.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "450",
+      "unit": "g",
+      "name": "shelled raw peanuts",
+      "emoji": "🫛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "220-270 g rock sugar ((about 7-10 oz.))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Small amount of oil ((for brushing))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Use a flat pan over medium heat to dry-roast the peanuts and/or walnuts (if using). Stir constantly (so they don’t burn) until the peanuts are fragrant, about 10 minutes. Allow the nuts to cool completely. If using pre-roasted nuts, you may skip this step."
+    },
+    {
+      "order": 2,
+      "instruction": "Once the peanuts are completely cool, use your hands to loosen the skins from the peanuts. Now, the next part is a little tricky. Grasp the pan with both hands, and toss the peanuts up and down, while angling the pan slightly downward. If all goes right, the peanuts should flip up in the air and land back into the pan while the skins fly out over the sides. It’s a good idea to do this over the sink. Of course, you can also buy shelled, already skinned peanuts. You can also buy plain roasted peanuts of course, but roasting them at home will make the peanut brittle taste a lot fresher."
+    },
+    {
+      "order": 3,
+      "instruction": "Next, crush the peanuts into smaller pieces by laying them on a large cutting board or clean kitchen surface and rolling with a rolling pin. Set the peanuts aside. Now brush the surface of your cutting board and rolling pin with a very light layer of oil to prevent sticking when you pour the brittle on it later."
+    },
+    {
+      "order": 4,
+      "instruction": "Using the same pan from earlier, melt the rock sugar by stirring constantly over medium low heat. It will take about 5 minutes to melt the rock sugar completely. Add the peanuts and sesame seeds to the melted sugar and mix well."
+    },
+    {
+      "order": 5,
+      "instruction": "Quickly pour the hot peanut and sugar mixture onto the greased, flat surface of your cutting board and immediately roll it out to about 1/3-inch thick. Cut into desired size and shape."
+    }
+  ]
+}

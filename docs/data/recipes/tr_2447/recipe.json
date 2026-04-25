@@ -1,0 +1,141 @@
+{
+  "id": "tr_2447",
+  "title": "Shortcut Wonton Soup Base",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/03/shortcut-wonton-soup-broth-base-8.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shortcut-wonton-soup-base/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "wonton soup base"
+  ],
+  "nutrition": {
+    "calories": 94,
+    "protein": 3.0,
+    "carbs": 4.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "scallions ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 pinches white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "lard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "dried shrimp flakes",
+      "emoji": "🦐",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "mushroom powder",
+      "emoji": "🍄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "dark soy sauce ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "chili oil ((to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "While your wontons are boiling, prepare your serving bowl. Into the bowl, add the light soy sauce, sugar, sesame oil, chopped scallions, and white pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "As desired, add the optional ingredients in to taste, like the cilantro, lard, dried shrimp flakes, mushroom powder, dark soy sauce, and chili oil."
+    },
+    {
+      "order": 3,
+      "instruction": "When the wontons are done cooking, add them to the bowl, and then add the boiling water (if you’re feeling super lazy, you can even use the water the wontons were cooked in—unless it is very starchy). Stir, and season with salt to taste if desired. Serve!"
+    }
+  ]
+}

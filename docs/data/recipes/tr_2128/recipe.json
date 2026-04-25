@@ -1,0 +1,105 @@
+{
+  "id": "tr_2128",
+  "title": "Chinese Cucumber Salad",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/08/chinese-garlic-cucumber-salad-7.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-cucumber-salad/",
+  "servings": 6,
+  "prepTime": 25,
+  "cookTime": 5,
+  "tags": [
+    "cucumber salad"
+  ],
+  "nutrition": {
+    "calories": 86,
+    "protein": 1.0,
+    "carbs": 5.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "cloves",
+      "name": "garlic ((minced very finely, almost like a paste))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  English cucumbers",
+      "emoji": "🥒",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "salt or salt to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "MSG ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First prepare the garlic. When you’ve minced all of the garlic, set aside the equivalent of 1 clove."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix the oil and the rest of the garlic together, and set over medium-heat in a saucepan. Cook lightly for 2-3 minutes. Some foam will appear as the water in the garlic escapes. Do not let the garlic brown! This process takes about 2 minutes. Remove from the heat and let cool."
+    },
+    {
+      "order": 3,
+      "instruction": "Chop the cucumbers into quarters lengthwise and then into ½-inch chunks. Transfer to a bowl. Add the garlic oil, salt, sugar, pinch of MSG if using, sesame oil, and rice vinegar. Finally, add the reserved minced raw garlic. Stir thoroughly to coat everything."
+    },
+    {
+      "order": 4,
+      "instruction": "For the best results, let sit for at least 20 minutes in the refrigerator to let the flavors meld."
+    }
+  ]
+}

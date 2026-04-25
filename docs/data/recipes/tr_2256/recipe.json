@@ -1,0 +1,101 @@
+{
+  "id": "tr_2256",
+  "title": "THE JIAN BING APPROXIMATION",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/02/Pancake-egg-032-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/jian-bing-approximation/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "jianbing"
+  ],
+  "nutrition": {
+    "calories": 533,
+    "protein": 10.0,
+    "carbs": 28.0,
+    "fat": 43.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  frozen scallion pancake ((any brand is fine))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "spicy bean sauce ((dou ban jiang))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, crack your egg into a bowl and beat with a fork. Set aside. Then chop your scallion and cilantro."
+    },
+    {
+      "order": 2,
+      "instruction": "This is a simple dish, but things move quickly once the heat is on, so be prepared. Pour the oil into a nonstick pan over medium heat. Place the frozen pancake into the pan and let cook for about 15 seconds then flip over. This makes it so that both sides of the pancake pick up an equal amount of the oil right away, and you don’t have to unnecessarily add more."
+    },
+    {
+      "order": 3,
+      "instruction": "Having an ancient yellow Labrador hogging the space around the oven is totally optional."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook the pancake until it starts to get nice and golden. Cook it a little longer on one side so it’s fully golden brown."
+    },
+    {
+      "order": 5,
+      "instruction": "Lift the pancake with a spatula or chopsticks and pour the egg into the pan. Swirl the egg around the pan evenly and then place the pancake back in the pan with the more cooked side hitting the egg. Let it cook for another 30 seconds or so."
+    },
+    {
+      "order": 6,
+      "instruction": "Flip the pancake so the egg side is facing up. Take your spicy bean sauce and spread it over the egg evenly with a spoon. Then sprinkle the cilantro and scallion evenly over the top. By this time, the bottom of your pancake should be nice and browned."
+    },
+    {
+      "order": 7,
+      "instruction": "Finally, turn off the heat and transfer the pancake to a cutting board. (Don’t be like me and roll it in the pan while the oil is still piping hot and achieve the roll only after a painful ooh!-ahck!-hottt! experience...) Using chopsticks, carefully roll the hot pancake like a cinnamon bun or a jelly roll. Cut using a sharp knife into segments."
+    }
+  ]
+}

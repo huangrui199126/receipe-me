@@ -1,0 +1,153 @@
+{
+  "id": "tr_2154",
+  "title": "Chicken Lettuce Wraps",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/04/lettuce-wraps-9-1.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chicken-lettuce-wraps/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 12,
+  "tags": [
+    "lettuce wraps"
+  ],
+  "nutrition": {
+    "calories": 188,
+    "protein": 15.0,
+    "carbs": 6.0,
+    "fat": 12.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion ((finely chopped))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "ground chicken ((450g))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "sui mi ya cai ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red chili ((chopped, optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "rice wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "water ((mixed with 2 teaspoons cornstarch))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "head",
+      "name": "bibb lettuce ((can substitute butter or green leaf lettuce))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped scallions and cilantro ((to garnish))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil a wok or skillet over medium high heat. Add the onion and garlic and cook for 5 minutes, stirring often. Add the chicken and stir-fry for 2 minutes, or until browned. Add the sui mi ya cai and chili (if using) and stir-fry for another 2 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Stir in the soy sauces, hoisin sauce, Shaoxing wine, sesame oil, and rice wine vinegar. Add the water and cornstarch mixture, and simmer for another 2-3 minutes. Serve in the lettuce leaves garnished with scallions and cilantro."
+    }
+  ]
+}

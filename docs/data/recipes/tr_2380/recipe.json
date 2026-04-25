@@ -1,0 +1,101 @@
+{
+  "id": "tr_2380",
+  "title": "Quick and Easy Asian Seared Pork Chops",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/02/asian-pork-chops-6.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/asian-seared-pork-chops/",
+  "servings": 2,
+  "prepTime": 30,
+  "cookTime": 15,
+  "tags": [
+    "asian pork chops"
+  ],
+  "nutrition": {
+    "calories": 369,
+    "protein": 30.0,
+    "carbs": 3.0,
+    "fat": 25.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "soy sauce ((preferably low sodium))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  center cut pork chops ((about 1-inch thick, 10-12 ounces/280-340g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine all ingredients from the soy sauce to the wine in a shallow dish. Marinate the pork chops in this mixture for 20 minutes to an hour."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 2 tablespoons of vegetable oil in a large skillet. Sear the pork chops on both sides until cooked through (you can discard any leftover marinade). It should take 5 minutes per side for 1-inch thick pork chops, as long as they were at room temperature when you started cooking them."
+    },
+    {
+      "order": 3,
+      "instruction": "Allow to cool for 5 minutes. Enjoy!"
+    }
+  ]
+}

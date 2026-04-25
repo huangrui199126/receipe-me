@@ -1,0 +1,77 @@
+{
+  "id": "tr_2148",
+  "title": "Sautéed Edible Clover",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/05/edible-clover-2-1.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/edible-clover-cao-tou/",
+  "servings": 2,
+  "prepTime": 30,
+  "cookTime": 5,
+  "tags": [
+    "edible clover"
+  ],
+  "nutrition": {
+    "calories": 218,
+    "protein": 3.0,
+    "carbs": 4.0,
+    "fat": 21.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "pound",
+      "name": "edible clover ((cao tou))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Bai Jiu",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable or peanut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Wash the clover three times in water, taking care to pick out any stray weeds or grass. Drain in a colander, and shake thoroughly to ensure that there is no standing water on the vegetables. This is an important step, because the clover will release quite a bit of liquid when stir-frying."
+    },
+    {
+      "order": 2,
+      "instruction": "Have salt, soy sauce and bai jiu all within reach before turning on the stove, since the stir-frying process will be very fast. Heat the oil in a wok until it just starts to smoke, and add the vegetables. Quickly stir-fry with a scooping motion for 10 seconds, so the clover does not get scalded or burned. The vegetables will absorb the oil and wilt quickly."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the salt and soy sauce, and continue to stir until the seasonings are mixed in and all of the clover is wilted. This will only take another 15 seconds. Turn off the heat and add the bai jiu, lightly tossing it into the cooked clover. Serve immediately."
+    }
+  ]
+}

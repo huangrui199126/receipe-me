@@ -1,0 +1,117 @@
+{
+  "id": "tr_2271",
+  "title": "Spicy Tofu \"Noodles\" with Chicken",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/09/spicy-tofu-noodles-chicken.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/spicy-tofu-noodles-with-chicken/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "tofu noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small chicken breast ((sliced into thin strips))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 ½",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "White pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  long hot green peppers ((seeds removed and sliced thinly))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((cut into two-inch pieces))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  package tofu sheets ((cut into thin strips))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinate the chicken breast in a small bowl with sesame oil, soy, wine, and a couple good grinds of white pepper. Prep your garlic, peppers and scallions."
+    },
+    {
+      "order": 2,
+      "instruction": "In your wok, heat up a couple tablespoons of vegetable oil over high heat and sear the chicken until browned. Take it out of the wok and set aside. Add a little more oil to the pan and add the peppers. Sautee them for a couple minutes, until the peppers start to soften. Add the garlic and scallions and stir-fry for another couple minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the chicken back to the wok along with the tofu “noodles” and stir-fry for about 5 minutes, until everything’s heated through and combined. Serve!"
+    }
+  ]
+}

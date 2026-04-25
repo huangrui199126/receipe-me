@@ -1,0 +1,129 @@
+{
+  "id": "tr_2456",
+  "title": "Fish Sauce Chicken Wings: Vietnamese Style",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/04/fish-sauce-chicken-wings-3-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/fish-sauce-chicken-wings/",
+  "servings": 6,
+  "prepTime": 360,
+  "cookTime": 35,
+  "tags": [
+    "fish sauce wings"
+  ],
+  "nutrition": {
+    "calories": 289,
+    "protein": 14.0,
+    "carbs": 36.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  garlic cloves ((finely chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "⅛",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "warm water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "¼-½ cup fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "superfine sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1½",
+      "unit": "pounds",
+      "name": "chicken wings ((about 12 wings, split at the joint; discard the wingtips))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "⅔",
+      "unit": "cup",
+      "name": "rice flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 teaspoons Thai chili paste ((naam phrik pao))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First make the marinade. Mince the garlic with the salt. We used a garlic press and mixed the salt in. Add the warm water and let sit for 10 minutes. Add the fish sauce and sugar, stirring to dissolve."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the chicken wings in a separate large bowl with ½ cup of the fish sauce mixture and toss. Marinate for 4 hours or overnight, setting aside the rest of the fish sauce mixture in the refrigerator."
+    },
+    {
+      "order": 3,
+      "instruction": "When the wings are done marinating, transfer to a colander, and let drain for 15 minutes. Mix the rice flour and cornstarch together, and toss the wings in the dry mixture until coated."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake the wings at 475 degrees for 24 minutes, flipping halfway through. Halfway through the cooking time, start to make the glaze."
+    },
+    {
+      "order": 5,
+      "instruction": "Add ¼ cup of water to the reserved fish sauce mixture and transfer to a hot wok. Add the chili paste. Bring to a boil in a wok, and reduce for 1-2 minutes. Add the wings and toss to coat them in the glaze, about 1 minute."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve with some refreshing sliced cucumbers on the side!"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "id": "tr_2424",
+  "title": "Beef Lo Mein",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/10/beef-lo-mein-20.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/beef-lo-mein/",
+  "servings": 6,
+  "prepTime": 35,
+  "cookTime": 10,
+  "tags": [
+    "beef lo mein"
+  ],
+  "nutrition": {
+    "calories": 323,
+    "protein": 19.0,
+    "carbs": 34.0,
+    "fat": 12.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "flank steak",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "fresh lo mein noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot ((medium carrot, julienned))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red bell pepper ((julienned))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "mushrooms ((sliced))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "bamboo shoots ((strips or sliced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "Napa cabbage ((shredded))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "snow peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "mung bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((julienned, white and green parts separated))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Slice the beef into thin strips against the grain. Place the sliced beef in a small bowl with baking soda, corn starch, soy sauce, and oil. This velveting step will make the beef tender and flavorful, with a glistening look. Set aside to marinate for 30 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare the lo mein sauce by combining the soy sauce, oyster sauce, dark soy sauce, sesame oil, salt, sugar, and ground white pepper in a small bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "If using cooked lo mein noodles, rinse them under hot tap water to loosen them and drain thoroughly. If using uncooked noodles, cook them according to package instructions until they’re al dente, and drain thoroughly. Set aside. Prepare the garlic and all the vegetables to have them ready for cooking. Arrange them in the order you will add them to the wok."
+    },
+    {
+      "order": 4,
+      "instruction": "Place your wok over high heat until it’s smoking lightly. Add 1 tablespoon of vegetable oil to coat the wok, and add the beef so it’s all in one layer on the hot wok surface. Sear each side for about 30 seconds. Remove the beef from the wok and set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "Add another tablespoon of oil, along with the garlic, carrots, peppers, and mushrooms. Stir-fry for 30 seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the bamboo shoots and the white parts of the scallions. Stir-fry for another 20 seconds, and then add the napa cabbage. Make sure your heat is at its highest now, and stir-fry everything together for another 30 seconds."
+    },
+    {
+      "order": 7,
+      "instruction": "Add the prepared noodles. They should be warm or at room temperature, and not stuck together! If they are, just rinse them in hot water to loosen them up."
+    },
+    {
+      "order": 8,
+      "instruction": "Add the Shaoxing wine around the perimeter of the wok, and toss the vegetables and noodles together using a scooping motion. After the noodles are warmed up (about 30 seconds to 1 minute), and your pre-mixed sauce."
+    },
+    {
+      "order": 9,
+      "instruction": "Continue stir-frying with a scooping motion until the sauce is evenly distributed, making sure to scrape the bottom of the wok to prevent the noodles from sticking. High heat and a well-seasoned wok should also prevent any sticking."
+    },
+    {
+      "order": 10,
+      "instruction": "Next, add the snow peas, mung bean sprouts, and beef (along with any juices that may have collected in the bowl). Continue stir-frying until the noodles are heated through and everything is thoroughly mixed."
+    },
+    {
+      "order": 11,
+      "instruction": "Toss in the green parts of the scallions, and taste the lo mein. Adjust the seasoning to your liking (feel free to add more salt, soy sauce, oyster sauce, sesame oil, or white pepper according to your own palate). Plate and serve with homemade chili oil or hot sauce on the side!"
+    }
+  ]
+}

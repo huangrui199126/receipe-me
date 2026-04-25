@@ -1,0 +1,161 @@
+{
+  "id": "tr_2048",
+  "title": "Chinese Carrot Rice Cake (Hu Luo Bo Gao - 胡萝卜糕)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/01/carrot-rice-cake-19.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-carrot-rice-cake/",
+  "servings": 6,
+  "prepTime": 30,
+  "cookTime": 90,
+  "tags": [
+    "carrot rice cake"
+  ],
+  "nutrition": {
+    "calories": 293,
+    "protein": 7.0,
+    "carbs": 40.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil ((plus 2 teaspoons for greasing the pan))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "5",
+      "unit": "ounces",
+      "name": "70% lean ground pork ((142g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "ginger ((14g, freshly grated))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "grated carrots ((340g))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 to 2½ cups water ((475-590 ml))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1½",
+      "unit": "teaspoons",
+      "name": "salt ((7.5g))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil ((5g))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  whole scallions",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1½",
+      "unit": "cup",
+      "name": "rice flour ((155g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "cornstarch ((12g))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat 2 tablespoons vegetable oil in a wok until just smoking, and add the ground pork. Sear for 30 seconds. Turn the heat down to medium, and cook the pork until it’s no longer pink. Add the grated ginger and mix for 30 seconds until combined."
+    },
+    {
+      "order": 2,
+      "instruction": "Next, stir in the grated carrots and add 1 tablespoon of Shaoxing wine. Stir-fry the carrots for another 30 seconds, and add 2 cups warm water. Bring the mixture to a simmer."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir in 1½ teaspoons salt, ½ teaspoon fresh ground white pepper, and 1 teaspoon sesame oil. Simmer for 3 minutes, stirring occasionally. Stir in the chopped scallions, bring back to a simmer, and turn off the heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Scoop out the pork, carrots and scallions into a mixing bowl, leaving behind as much liquid in the wok as you can. Pour the rest of the remaining liquid into a measuring cup, and add more water until there is a total of 1⅔ cups (395ml)."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the rice flour and cornstarch to the carrot mixture and mix in the 1⅔ cups of liquid until everything is well combined, and there are no visible lumps of flour. Set aside. Spread 2 teaspoons vegetable oil in a 9-inch glass loaf pan, ensuring all sides are evenly coated."
+    },
+    {
+      "order": 6,
+      "instruction": "Prepare your steamer or wok with a steaming rack, ensuring there is enough water. 2 to 3 quarts for 60 minutes of steaming should do the trick. Bring the water to a slow boil."
+    },
+    {
+      "order": 7,
+      "instruction": "Stir your carrot and rice flour mixture again until combined (it will have settled), and pour the batter into the oiled loaf pan. Immediately place the loaf pan on top of the steaming rack. Cover and steam at medium heat for 60 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "You can double-check that your carrot is done when a thin chopstick can easily penetrate to the bottom of the loaf and the chopstick is not coated in batter. Transfer the loaf pan to a cooling rack. Let rest for 30 minutes. It is normal to have some water on the surface of the carrot rice cake after steaming. It will reabsorb into the loaf."
+    },
+    {
+      "order": 9,
+      "instruction": "At this point, you can prepare your carrot rice cake to eat or refrigerate it for later. When you are ready to serve your carrot rice cake, remove it from the loaf pan. It’s best to run a knife around the loaf to separate the sides from the pan, then turn the loaf pan over onto a cutting board."
+    },
+    {
+      "order": 10,
+      "instruction": "Cut the loaf into ½-inch thick slices, and pan fry in an oiled nonstick pan or frying pan until warmed and slightly crispy. Serve your Carrot Rice Cake with oyster sauce and chili oil on the side!"
+    }
+  ]
+}

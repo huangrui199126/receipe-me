@@ -1,0 +1,113 @@
+{
+  "id": "tr_2377",
+  "title": "Chinese-Style Button Mushroom Soup",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/10/Chinese-button-mushroom-soup-8.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-button-mushroom-soup/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "button mushroom soup"
+  ],
+  "nutrition": {
+    "calories": 30,
+    "protein": 2.0,
+    "carbs": 6.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "button mushrooms ((the smaller the better))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cornstarch ((combined into a slurry with 2 tablespoons water, optional))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cilantro ((finely chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Wash the mushrooms clean of any dirt, and dry them thoroughly with a clean kitchen towel. Detach the stems (you will add them to the soup also)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place a medium soup pot over medium high heat. When the pan is very hot, add the oil and mushrooms cup-side up in a single layer. (Add the stems in too to avoid waste.)"
+    },
+    {
+      "order": 3,
+      "instruction": "Reduce the heat to medium, and cook until the mushroom caps are browned, and each cup fills with liquid (that’s the juices in the mushroom seeping out!). Also check the stems for browning. Avoid stirring during this pan-frying process as it’s the key step to developing flavor for this soup. (You also want to keep the mushroom juices in the caps.)"
+    },
+    {
+      "order": 4,
+      "instruction": "When the mushrooms are nicely browned, add the water and light soy sauce. Bring to a boil. Cover and simmer for 5 minutes over medium low heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Add salt to taste, and stir in the cornstarch slurry (if using). Simmer the soup for 30 seconds until thickened."
+    },
+    {
+      "order": 6,
+      "instruction": "Just before serving, add the cilantro and scallions. If you like cilantro (like me) this soup can take a lot of cilantro!"
+    }
+  ]
+}

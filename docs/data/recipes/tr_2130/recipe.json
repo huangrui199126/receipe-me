@@ -1,0 +1,101 @@
+{
+  "id": "tr_2130",
+  "title": "Shanghai Breakfast Rice Rolls (Ci Fan 粢饭)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/12/rice-rolls-13-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shanghai-breakfast-rice-rolls/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 30,
+  "tags": [
+    "rice rolls"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "short grain white rice ((180g))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sweet rice ((180g, also known as sticky rice))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1½",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "pieces",
+      "name": "Chinese fried dough ((you tiao, 油条))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "pork sung ((肉松))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "Chinese preserved vegetable",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped cilantro and scallion",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Toasted sesame seeds ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In your rice cooker, add the short grain rice, the sweet rice, and water. I cook the rice per my rice cooker’s sweet rice setting. You can also cook the rice in a pot using our “How to cook rice without a rice cooker” recipe. Regardless of the method you use, the end result should be rice that is fully cooked, but still a bit firm and chewy--similar to making pasta al dente."
+    },
+    {
+      "order": 2,
+      "instruction": "While the rice is cooking, prepare the rest of the ingredients and toast the Chinese fried dough so it’s crispy. Once the rice is cooked, take out your sushi rolling mat, line it with a sheet of clear plastic wrap, scoop out ½ of the rice and carefully flatten it out over the plastic into a thin layer. Wetting your hands with warm water can prevent the rice from sticking to them."
+    },
+    {
+      "order": 3,
+      "instruction": "Next, lay 1 piece of Chinese fried dough in the center, along with ½ of the pork sung, and ½ of the Chinese preserved vegetables. If you’d like, you can also sprinkle over chopped cilantro, scallions, and sesame seeds at this step. Roll up the filling in the “sheet” of rice by rolling the sushi mat. Squeeze the sushi mat to ensure that the roll stays in tact. Repeat these steps to assemble the second roll. Cut each one in half, and breakfast is served!"
+    }
+  ]
+}

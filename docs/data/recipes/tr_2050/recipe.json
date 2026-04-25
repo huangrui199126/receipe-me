@@ -1,0 +1,185 @@
+{
+  "id": "tr_2050",
+  "title": "Chinese Sausage Fried Rice (Lop Cheung Chow Fan)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/11/chinese-sausage-fried-rice-9.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-sausage-fried-rice/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "chinese sausage fried rice"
+  ],
+  "nutrition": {
+    "calories": 455,
+    "protein": 16.0,
+    "carbs": 43.0,
+    "fat": 24.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  Chinese sausages",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion ((chopped))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "cooked white rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "¾",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "hot water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "⅛",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs ((beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "⅔",
+      "unit": "cup",
+      "name": "frozen green peas ((thawed to room temperature))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "mung bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine ((optional))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, prepare your Chinese sausage, onion, and rice (either dig some leftover rice out of your refrigerator, or make a batch)."
+    },
+    {
+      "order": 2,
+      "instruction": "In a small bowl, add ¾ teaspoon salt, ¼ teaspoon sugar, 2 teaspoons hot water, 1/4 teaspoon sesame oil, 1 teaspoon regular soy sauce, ½ teaspoon dark soy sauce and ⅛ teaspoon ground white pepper. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat your wok over medium high heat and spread 2 tablespoons of vegetable oil around the perimeter of the wok. Next, add the 2 beaten eggs to the oil, scrambling them and breaking them up into smaller pieces with your wok spatula just until done. Transfer them back to the bowl you used to beat them, and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat the wok over medium heat, and spread 1 tablespoon oil around your wok. Add the Chinese sausages (lop cheung), and stir-fry for 20 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the chopped onion, and stir fry for another 1-2 minutes until translucent. Turn the heat up to high, and add the rice. Use your metal wok spatula to flatten out and break up any clumps. If using leftover white rice, you will have to cook and stir fry the rice longer to heat it through."
+    },
+    {
+      "order": 6,
+      "instruction": "Once the rice is warmed, pour the sauce mixture you prepared earlier evenly over the rice. Mix the lop cheung fried rice using a scooping motion with your spatula for 1-2 minutes, until the rice is evenly coated in the sauce. At this stage, there shouldn’t be any more clumps of rice, and it should be steaming as the sauce distributes and cooks."
+    },
+    {
+      "order": 7,
+      "instruction": "Add the cooked egg, ⅔ cup frozen peas and 1 cup mung bean sprouts. Stir fry the rice for another minute."
+    },
+    {
+      "order": 8,
+      "instruction": "Next, add the scallions, and spread 1 teaspoon of Shaoxing wine around the perimeter of the wok. Stir-fry for another 20 seconds. This step gives the extra wok hay flavor that you taste when you get fried rice from a good Chinese restaurant."
+    }
+  ]
+}

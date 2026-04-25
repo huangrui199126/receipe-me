@@ -1,0 +1,105 @@
+{
+  "id": "tr_2505",
+  "title": "Chinese Stir-Fry Sauce",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/05/stir-fry-sauce-11.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/stir-fry-sauce-recipe/",
+  "servings": 12,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "stir-fry sauce"
+  ],
+  "nutrition": {
+    "calories": 22,
+    "protein": 1.0,
+    "carbs": 2.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "chicken stock ((or vegetable or mushroom stock; 350ml))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "brown sugar ((or granulated sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "soy sauce ((can sub gluten-free soy sauce or tamari))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oyster sauce ((or vegetarian or gluten-free oyster sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a jar with a tight lid (must hold 2 cups of liquid), combine all of the stir fry sauce ingredients together and shake well."
+    },
+    {
+      "order": 2,
+      "instruction": "This sauce should keep for a few weeks in the refrigerator; all you need to do is measure and pour out what you need for your dish."
+    }
+  ]
+}

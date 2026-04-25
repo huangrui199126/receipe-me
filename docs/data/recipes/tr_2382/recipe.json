@@ -1,0 +1,165 @@
+{
+  "id": "tr_2382",
+  "title": "Bacon Scallion Milk Bread",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/07/bacon-scallion-bread-9.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/bacon-scallion-milk-bread/",
+  "servings": 8,
+  "prepTime": 215,
+  "cookTime": 25,
+  "tags": [
+    "bacon scallion bread"
+  ],
+  "nutrition": {
+    "calories": 254,
+    "protein": 8.0,
+    "carbs": 31.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "heavy cream ((at room temperature))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "whole milk ((at room temperature))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  large egg ((beaten, at room temperature))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cake flour ((tap measuring cup to avoid air pockets))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 3/4",
+      "unit": "cups",
+      "name": "bread flour ((tap measuring cup to avoid air pockets))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "active dry yeast",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "bacon",
+      "emoji": "🥓",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "scallions ((chopped, about 8-9 scallions))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "egg wash ((whisk the remaining 1/2 egg with 1 teaspoon water))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "quick simple syrup ((2 teaspoons sugar, dissolved in 2 teaspoons hot water))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Take the heavy cream, milk, and egg out of the refrigerator, and allow them to come up to room temperature, 30-45 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "In the bowl of a stand mixer fitted with the dough hook attachment or a large mixing bowl, add the ingredients in the following order: heavy cream, milk, ½ of a beaten egg, sugar, cake flour, bread flour, yeast, and salt."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn the mixer on to the lowest setting (or stir with a wooden spoon), and mix until a dough forms. Knead the dough on the lowest setting for 15 minutes, occasionally stopping the mixer to push the dough together. The dough should pull away from the sides of the bowl, but stick to the bottom of the mixing bowl. If kneading by hand, extend the kneading time by 5-10 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "If you’re in a humid climate and the dough is sticking to the sides of the bowl, add a little more flour 1 tablespoon at a time until it pulls away from the sides. Avoid adding too much additional flour, or the bread will be dense and less fluffy."
+    },
+    {
+      "order": 5,
+      "instruction": "Cover the bowl with a damp towel and place in a warm spot for 60-90 minutes, or until doubled in size."
+    },
+    {
+      "order": 6,
+      "instruction": "While the dough is proofing, cook the bacon on both sides, until crisp but still pliable. Cool and chop into ½ inch pieces. Prepare the scallions by washing them, wiping them thoroughly dry, and finely chopping them. Thoroughly grease an 8-inch or 9-inch round cake pan with butter or oil."
+    },
+    {
+      "order": 7,
+      "instruction": "After the dough has doubled in size, punch the air out of it and knead for 5 minutes. Form it into a round ball, and roll it out into a ¼ inch (0.66 cm) thick rectangle or rough circle. Sprinkle the scallions and bacon evenly over the dough, and cut it into small 1.5 inch (4 cm) squares."
+    },
+    {
+      "order": 8,
+      "instruction": "Fold each square in half like a taco with the bacon scallion filling on the inside. Nestle them in the pan standing up on one end of the taco. At this point, you can cover and refrigerate the dough overnight, if making this recipe in advance. The next day, remove the dough from the refrigerator, let it come up to room temperature, and proceed with the next step."
+    },
+    {
+      "order": 9,
+      "instruction": "Proof the dough for 1 hour. Towards the end of the proofing process, place a rack in the center of your oven and preheat it to 350°F/175°C."
+    },
+    {
+      "order": 10,
+      "instruction": "Brush the top of the proofed dough with egg wash. Bake for 22-25 minutes, or until golden brown."
+    },
+    {
+      "order": 11,
+      "instruction": "Take the hot bread out of the oven, and immediately brush with the sugar water mixture to give it a nice shine! Cool, and enjoy warm or at room temperature."
+    }
+  ]
+}

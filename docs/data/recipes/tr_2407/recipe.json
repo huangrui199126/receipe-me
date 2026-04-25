@@ -1,0 +1,165 @@
+{
+  "id": "tr_2407",
+  "title": "Stir-Fried Clams in Black Bean Sauce",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/08/clam-stir-fry-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/stir-fried-clams-black-bean-sauce/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "clams in black bean sauce"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 11.0,
+    "carbs": 19.0,
+    "fat": 17.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "fresh clams ((scrubbled/washed thoroughly))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((thinly sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((cut into 2-inch pieces))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  long green pepper ((sliced; you can de-seed if you like))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  long red pepper ((sliced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fermented black beans ((rinsed and drained))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cornstarch ((mixed into a slurry with 2 tablespoons water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Before you do anything, make sure that your clams are washed thoroughly. There's nothing more unpleasant than finding sand in your food. When your ingredients have been prepared and you're ready to cook, heat the oil in your wok over high heat. Add the ginger and allow it to caramelize (about 20 seconds), taking care not to burn it."
+    },
+    {
+      "order": 2,
+      "instruction": "Next, add the garlic, scallion, peppers and fermented black beans, and stir fry the mixture for about 10 seconds. Add the clams. Pour the Shaoxing wine around the perimeter of the wok, and immediately cover the wok. Cook until the clams begin to open. At this point, the liquid in the wok should be boiling and generating steam when the wok is covered. The time for the clams to cook and open up depends upon the size and type of the clams you are using and how hot you can get your stove. Once a good number of them have opened, remove the cover and give everything a stir."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir in the sugar, sesame oil, pepper. Discard any of the clams that didn't open. Now taste the sauce. If it's not salty enough, you can add a little bit of soy sauce. Once your satisfied with the flavor of the sauce, add about half of the corn starch slurry to the liquid in the wok and stir. Add more slurry if needed to further thicken the sauce."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir in the chopped cilantro and gently stir the mixture so the sauce coats the clams."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve immediately."
+    }
+  ]
+}

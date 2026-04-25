@@ -1,0 +1,113 @@
+{
+  "id": "tr_2464",
+  "title": "Ban Fan, Simple Rice Bowl",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/01/chinese-mixed-rice-ban-fan-7.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/ban-fan-chinese-mixed-rice-bowl/",
+  "servings": 1,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "mixed rice"
+  ],
+  "nutrition": {
+    "calories": 622,
+    "protein": 18.0,
+    "carbs": 54.0,
+    "fat": 37.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "garlic ((minced; heaping tablespoon))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil ((or any neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cooked rice ((a Chinese rice bowl&#39;s worth; if using leftovers, microwave or steam to reheat))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add the ingredients to a medium heatproof bowl in the order listed—the oyster sauce, light soy sauce, sugar, garlic, scallion, and cilantro. If you’re making multiple servings, multiply the ingredients to prepare the number of bowls needed."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat the oil in a small saucepan until it starts to smoke—for this step, you can simply multiply the quantity of oil by the number of servings and heat it all simultaneously."
+    },
+    {
+      "order": 3,
+      "instruction": "Drizzle the hot oil over the aromatics and hear it sizzle."
+    },
+    {
+      "order": 4,
+      "instruction": "Fry the eggs in the same saucepan you heated the oil in. Then add the cooked, warmed rice to the bowls, and top with the eggs. Mix well and enjoy!"
+    }
+  ]
+}

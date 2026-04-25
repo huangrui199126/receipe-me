@@ -1,0 +1,126 @@
+{
+  "id": "tr_2305",
+  "title": "Braised Pork Belly with Meigan Cai (梅干菜焖肉)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/01/mei-gan-cai-pork-belly-16.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/braised-pork-belly-meigan-cai/",
+  "servings": 6,
+  "prepTime": 45,
+  "cookTime": 75,
+  "tags": [
+    "braised pork belly",
+    "meigan cai"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "skin-on lean pork belly ((cut into 1&quot; pieces))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "meigan cai ((dried preserved mustard greens))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "neutral oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "35",
+      "unit": "g",
+      "name": "rock sugar ((or 2 1/2 tablespoons granulated sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak the mei gan cai in cold water for 30 minutes. Pull the dried vegetables out into a colander, and drain any sandy water. Rinse the bowl clean, and soak the mei gan cai once again, washing a couple more times until there is no sand or grit at the bottom of the bowl. Once clean, squeeze out as much water as possible from the reconstituted vegetables, and set aside. (Tip: with every wash, let the vegetables sit in the bowl of water undisturbed for 5 minutes, so any grit has a chance to settle to the bottom.)"
+    },
+    {
+      "order": 2,
+      "instruction": "Remove any stray bristles from the pork skin, and cut the pork belly into 1” thick pieces. Add them to a pot with enough water to cover the pork belly. Bring to a boil, and boil for 1 minute. Remove from the heat, rinse, drain, and set the pork aside. This step removes impurities, ensuring you get a clean flavor in the final dish."
+    },
+    {
+      "order": 3,
+      "instruction": "Over low heat, add the oil and sugar to your wok. Heat until the sugar melts into an amber liquid. Add the star anise, ginger, and the pork belly. Raise the heat to medium, and cook until the pork is lightly browned. Add the mei gan cai, and stir-fry everything together for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn the heat down to low while you add the Shaoxing wine, light soy sauce, dark soy sauce, and water. Make a point to melt any sugar sticking to your spatula into the sauce. Bring the liquid to a boil, cover, and turn the heat down to medium low."
+    },
+    {
+      "order": 5,
+      "instruction": "Simmer for 45 minutes to 1 hour, until pork is fork tender, stirring every 10 minutes to prevent burning. If the mixture begins to dry out before the pork is tender, add more water. If there is still a lot of liquid in the pot by the time the pork is fork tender, uncover the wok, turn up the heat to medium high, and stir continuously until the sauce has reduced to about ¼ cup. Make a point not to dry out the sauce completely."
+    }
+  ]
+}

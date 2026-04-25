@@ -1,0 +1,177 @@
+{
+  "id": "tr_2437",
+  "title": "Everyday Chinese Vegetable Stir-Fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/02/vegetable-stir-fry-10.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/everyday-vegetable-stir-fry/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "chinese vegetable stir-fry"
+  ],
+  "nutrition": {
+    "calories": 137,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "water ((or chicken stock))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "oyster sauce ((or vegetarian oyster sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sliced mushrooms ((button, baby bella, oyster, or shiitake 1 cup = about 3 ounces/85g) )",
+      "emoji": "🍄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "carrots ((thinly sliced on a diagonal; 1 cup = about 1 medium carrot/100g) )",
+      "emoji": "🥕",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "celery ((thinly sliced on a diagonal; 1 cup = about 2 ounces/60g))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "asparagus ((cut into 2-inch lengths on the diagonal; 1 cup = 40g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "bell pepper ((any color; de-seeded and thinly sliced; 1 cup = about 1/2 medium bell pepper/90g) )",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "long hot pepper ((red or green, de-seeded and thinly sliced; 1 cup = about 1 long hot pepper/60g))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch ((mixed into a slurry with 1 tablespoon/15 ml water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a liquid measuring cup, combine the water (or chicken stock), Shaoxing wine, oyster sauce, salt, sugar, sesame oil, and white pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "In a wok over medium heat, add the oil and ginger. Cook until the ginger is lightly browned at the edges, and then add the mushrooms. Stir-fry for 1 to 2 minutes, until the mushrooms are tender."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the carrot, celery, asparagus, bell pepper, and long hot pepper. Stir-fry for 1 minute, and then add the garlic and the seasoning mixture you prepared earlier. Bring the mixture to a simmer, and cook for 1 minute, until the vegetables are tender."
+    },
+    {
+      "order": 4,
+      "instruction": "Combine the cornstarch and water into a slurry, and pour into the simmering sauce. Stir-fry until the vegetables are coated in sauce, with just a small amount of standing liquid. Serve."
+    }
+  ]
+}

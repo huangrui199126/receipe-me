@@ -1,0 +1,129 @@
+{
+  "id": "tr_2226",
+  "title": "Honey Hoisin Pan-fried Noodles",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/10/honey-hoisin-noodles-2.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/honey-hoisin-pan-fried-noodles/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "pan-fried noodles"
+  ],
+  "nutrition": {
+    "calories": 439,
+    "protein": 11.0,
+    "carbs": 69.0,
+    "fat": 14.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine ((or dry sherry, optional))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. fresh Hong Kong Style Egg Noodles",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a small bowl, mix together the honey, hoisin, soy sauce, sesame oil, salt, shaoxing wine (if using), and white pepper. Set aside. Bring a pot of water to a boil and add the noodles. Fresh noodles should be boiled for about 1 minute. For dried noodles, boil for 2-3 minutes. Rinse the noodles in cool water and drain thoroughly."
+    },
+    {
+      "order": 2,
+      "instruction": "The next step is very similar to our Cantonese Soy Sauce Pan Fried Noodles recipe, so if you have tried that recipe, this should be a snap! Heat the wok over high heat and add a tablespoon of oil. Spread the noodles across the surface of the wok in a thin, even layer, and swirl the wok to distribute the oil. Cook over medium to medium high heat until the noodles are crisp, about 5 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Flip the noodles over and add another tablespoon of oil around the perimeter of the wok to let the other side crisp up. Don’t stress if you can’t turn the noodles over in one shot. The goal here is just to get the noodles to crisp evenly. You want them to be pretty dry, so that the sauce caramelizes when you add it."
+    },
+    {
+      "order": 4,
+      "instruction": "Keep the heat at medium and add that last tablespoon of oil to the wok, along with the sauce. Toss the noodles around for another 3 minutes, until they're all coated and the sauce is caramelized. Garnish with scallions and sesame seeds."
+    }
+  ]
+}

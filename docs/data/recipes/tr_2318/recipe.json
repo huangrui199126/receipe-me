@@ -1,0 +1,137 @@
+{
+  "id": "tr_2318",
+  "title": "Steak and Scallion Rice Cake Stir-Fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/09/chinese-rice-cake-beef-1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/steak-scallion-rice-cake-stir-fry/",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 10,
+  "tags": [
+    "steak and scallion rice cake"
+  ],
+  "nutrition": {
+    "calories": 497,
+    "protein": 24.0,
+    "carbs": 61.0,
+    "fat": 16.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 oz. sirloin steak ((340g, sliced))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tablespoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  thin slices ginger ((finely julienned))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((cut into 2-inch pieces))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "rice cakes ((450g))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt (or to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinate the beef with 1 tablespoon oil, cornstarch and 1 teaspoon light soy sauce and set aside for 15 minutes. Heat 2 tablespoons of oil in your wok over high heat. Once it's smoking, add the beef and sear for a minute before setting aside on a plate. Add the ginger to the wok, and when it starts to brown, add the scallions and give everything a stir. Pour in the rice cakes and stir-fry for 1-2 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Spread the Shaoxing wine around the perimeter of the wok and cover the wok immediately. Cook, covered, for 2 minutes. Add the beef, 1 tablespoon each of dark soy sauce and light soy sauce, sesame oil, salt and sugar. Toss together for about 2 minutes. The rice cakes should be tender but still a bit chewy. If not, cover the wok and cook a little longer."
+    }
+  ]
+}

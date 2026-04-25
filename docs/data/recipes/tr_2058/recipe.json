@@ -1,0 +1,157 @@
+{
+  "id": "tr_2058",
+  "title": "Shou Zhua Bing (Crispy Chinese Pancakes)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/03/shou-zhua-bing-5-1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shou-zhua-bing-chinese-pancakes/",
+  "servings": 4,
+  "prepTime": 40,
+  "cookTime": 15,
+  "tags": [
+    "chinese pancakes"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 10.0,
+    "carbs": 68.0,
+    "fat": 13.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  scallions ((white parts only; whole, not chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "five-spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "cold water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "finely chopped scallions ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a small saucepan over low heat, add the oil. Throw in the scallion pieces, star anise, and Sichuan peppercorns. Keep the pan over low heat for about 10 minutes, until fragrant. Pick out all the spices, so you essentially have a pot full of spiced oil. Stir in the flour and five-spice powder to create a thin roux. Set it aside, and let it cool completely."
+    },
+    {
+      "order": 2,
+      "instruction": "In a mixing bowl, combine the flour and salt. Make a well in the flour and add the boiling water. Mix with a fork or a pair of chopsticks. Gradually add the cold water and knead everything together to form a smooth dough ball. Cover with a damp cloth and let it rest for 30 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Depending on the pancake size you want, divide the dough into 4-8 equal pieces. Lightly brush some oil on a clean work surface. Roll each piece of dough into a long rope, and then use a rolling pin to roll it flat. Brush a thin layer of the roux all over the dough, and then sprinkle it sparingly with sesame seeds, chopped scallion, and salt."
+    },
+    {
+      "order": 4,
+      "instruction": "Start on one end and roll the dough up. Stand the roll upright and press it down with your palm. Lightly roll out the resulting circle until you get a pancake that’s between 1/4-1/2” thick. It’s ok of the outer edges break open a bit. Repeat for each pancake."
+    },
+    {
+      "order": 5,
+      "instruction": "At this point, you can cook them, or freeze them by separating each pancake with a layer of plastic wrap or wax paper, and then putting them in a freezer bag. There’s no need for thawing when you want to cook them."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat a pan over medium heat and add a tablespoon or two of oil. Place the pancake in the pan. Once the bottom starts to turn a little golden, add two teaspoons of water to the sides of the pan (don’t pour the water on the pancake), and immediately cover with a lid. Cook 3 minutes. Uncover the pan, flip the pancake, and do the same steps with the other side."
+    },
+    {
+      "order": 7,
+      "instruction": "To finish, uncover the lid again, turn up the heat slightly, and brown both sides while flipping the pancake occasionally. When it’s golden brown, use a pair of chopsticks to squeeze and pinch the pancake a couple times to loosen the layers (this step is optional), because you ideally want to see the layers when you hand-pull it apart. The cooked pancake should be crispy and slightly chewy."
+    }
+  ]
+}

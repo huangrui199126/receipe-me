@@ -1,0 +1,141 @@
+{
+  "id": "tr_2320",
+  "title": "Peking Ribs, Jing Du Style (京都排骨)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/05/peking-ribs-5-1.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/peking-ribs/",
+  "servings": 6,
+  "prepTime": 70,
+  "cookTime": 35,
+  "tags": [
+    "peking ribs"
+  ],
+  "nutrition": {
+    "calories": 328,
+    "protein": 17.0,
+    "carbs": 6.0,
+    "fat": 25.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "spare ribs ((900g, cut into 1 1/2-inch pieces))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar ((plus 1/2 teaspoon, divided))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "ground white pepper ((or black pepper))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg white",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic ((chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "ketchup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Ask the butcher to cut the ribs into the size you want––even your local supermarket’s butcher should do it for you. When you get home and you're ready to cook, rinse the ribs thoroughly and pat dry with a paper towel."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss the ribs with the Shaoxing wine, 1 teaspoon sugar, 3/4 teaspoon salt, 1/4 teaspoon ground white pepper and one egg white. Marinate for 1 hour."
+    },
+    {
+      "order": 3,
+      "instruction": "While the pork is marinating, prepare a small pot with oil and have it ready to fry the ribs. The oil should be at least 1.5” deep, so the ribs can be submerged under the oil when frying. Using a smaller pot requires less oil, and you’ll have to fry the ribs in a few batches."
+    },
+    {
+      "order": 4,
+      "instruction": "Once the ribs are marinated, sprinkle the cornstarch over the ribs to evenly coat them. I used a ziplock bag to toss the ribs with the cornstarch and get an even coating."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat the oil over medium heat. It&#039;s ready when you stick a chopstick in it and small bubbles form around the tip of the chopstick (or 325 degrees F oil temp). Slowly lower the ribs into the oil, making sure to leave some space between each rib so that they fry evenly. After 6 to 7 minutes, when the ribs start to turn lightly brown, turn up the heat to high (or 350 degrees F oil temp) for about a minute or two, so the ribs can really take on that nice golden color. Use a large slotted spoon to scoop the ribs out and drain on a plate lined with a paper towel. Repeat in batches until all the ribs are fried. Cut open one piece to make sure the ribs are cooked through."
+    },
+    {
+      "order": 6,
+      "instruction": "In a wok over low heat, add 2 tablespoons of the frying oil and the garlic. Cook for about a minute, and then add the ketchup. Cook for another couple minutes, taking care to avoid burning the sauce. Now add 1/2 cup water, 2 teaspoons light soy sauce, and 1/2 teaspoon sugar (or more if you prefer your dish to be sweeter)."
+    },
+    {
+      "order": 7,
+      "instruction": "Turn up the heat to medium, and bring the sauce to a simmer. Add the ribs, and turn the heat back down to medium low, coating the ribs in the sauce. Drizzle with a few drops of sesame oil and stir for another minute. Serve!"
+    }
+  ]
+}

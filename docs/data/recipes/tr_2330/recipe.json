@@ -1,0 +1,185 @@
+{
+  "id": "tr_2330",
+  "title": "Cold Sesame Noodles",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/10/DSC_0307-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/cold-sesame-noodles/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "sesame noodles"
+  ],
+  "nutrition": {
+    "calories": 673,
+    "protein": 24.0,
+    "carbs": 88.0,
+    "fat": 27.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. noodles ((250g))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((julienned))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "carrots ((shredded))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "cucumber",
+      "emoji": "🥒",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "Handful",
+      "name": "of crushed peanuts",
+      "emoji": "🫛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "peanut butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Chinese sesame paste",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fresh orange juice",
+      "emoji": "🍊",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoon",
+      "name": "rice wine vinegar ((or white vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "reserved cooking water from the noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook the noodles al dente and reserve some of the cooking liquid. Rinse the noodles with cold water and drain."
+    },
+    {
+      "order": 2,
+      "instruction": "Stir together all the sauce ingredients in a small bowl until combined. Julienne the scallion, carrot, and cucumber."
+    },
+    {
+      "order": 3,
+      "instruction": "Blanch bean sprouts in boiling water for 15 seconds and put into an ice bath and drain."
+    },
+    {
+      "order": 4,
+      "instruction": "In a bowl, pour the sauce over the noodles. Add the vegetables, chopped cilantro, crushed peanuts and toasted sesame seeds on top and serve immediately, along with extra toppings like chili sauce, rice vinegar, or soy sauce."
+    }
+  ]
+}

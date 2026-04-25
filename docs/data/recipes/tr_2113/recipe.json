@@ -1,0 +1,145 @@
+{
+  "id": "tr_2113",
+  "title": "Crispy “Sichuan” Hashbrowns and Eggs",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/03/potato-cakes-8.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/sichuan-potato-cakes-eggs/",
+  "servings": 2,
+  "prepTime": 20,
+  "cookTime": 30,
+  "tags": [
+    "hashbrowns"
+  ],
+  "nutrition": {
+    "calories": 466,
+    "protein": 14.0,
+    "carbs": 25.0,
+    "fat": 36.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large russet potato ((peeled))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "crushed red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "⅛",
+      "unit": "teaspoon",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((julienned))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs ((plus 1 for the potato mixture))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "vegetable oil ((plus more as needed))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Using a food processor with a coarse grating disc or a regular box grater, grate the potatoes. Place the grated potato in the middle of a clean dish towel, wrap it up, and squeeze out as much liquid from the shredded potatoes as you can."
+    },
+    {
+      "order": 2,
+      "instruction": "Transfer to a bowl, and toss with red pepper flakes, salt, pepper, scallions, garlic, ginger, soy sauce, rice vinegar, and 1 egg until thoroughly combined."
+    },
+    {
+      "order": 3,
+      "instruction": "In a 12-inch skillet, heat the vegetable oil over medium heat. Add the sichuan peppercorns and allow them to toast in the oil for 10 minutes or so, until fragrant."
+    },
+    {
+      "order": 4,
+      "instruction": "Use a slotted spoon to scoop out the peppercorns and discard. Turn up the heat to medium high. Divide the potatoes into four portions, and add to the pan, making 4 “pancakes.”"
+    },
+    {
+      "order": 5,
+      "instruction": "Use a spatula to press each into an even circle, and cook until the bottom is golden brown (5-8 minutes), shaking the pan frequently so the potatoes don’t stick and adding more oil as needed. Flip, and cook until the other side is golden brown."
+    },
+    {
+      "order": 6,
+      "instruction": "Meanwhile cook the eggs sunny side up. Serve the eggs on top of the hashbrowns."
+    }
+  ]
+}

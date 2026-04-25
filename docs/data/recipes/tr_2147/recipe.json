@@ -1,0 +1,97 @@
+{
+  "id": "tr_2147",
+  "title": "Wood Ear Mushroom Salad",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/05/wood-ear-mushroom-8-1.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/wood-ear-mushroom-salad/",
+  "servings": 6,
+  "prepTime": 150,
+  "cookTime": 30,
+  "tags": [
+    "wood ear mushroom"
+  ],
+  "nutrition": {
+    "calories": 35,
+    "protein": 2.0,
+    "carbs": 6.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "rehydrated wood ears ((trimmed and washed))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((finely chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  fresh red chili peppers ((deseeded and chopped, optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "finely chopped scallions ((and/or cilantro))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a medium-sized pot, cook the wood ears in boiling water for 3-4 minutes. Drain and rinse under cold running water to cool them completely. Set aside and let any excess water drain off. You can also use a salad spinner to get rid of the excess water."
+    },
+    {
+      "order": 2,
+      "instruction": "In a large bowl, mix together the garlic, peppers, vinegar, light soy sauce, sugar, and sesame oil until the sugar dissolves. Next, add the wood ears and mix well. Cover and let marinate in the refrigerator for 30 minutes. Make sure to stir and mixture again before serving, as the sauce tends to settle to the bottom. Plate and garnish with the chopped scallion and/or cilantro."
+    }
+  ]
+}

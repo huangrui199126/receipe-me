@@ -1,0 +1,121 @@
+{
+  "id": "tr_2495",
+  "title": "Cantonese Mustard Green Soup with Pork Bones",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/01/mustard-green-soup-15.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/cantonese-mustard-green-soup-pork-bones/",
+  "servings": 8,
+  "prepTime": 120,
+  "cookTime": 135,
+  "tags": [
+    "mustard green soup"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2.0,
+    "carbs": 7.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "pork neck bones ((the meatier the better; can also substitute pork ribs))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "10",
+      "unit": "cups",
+      "name": "boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "a big chunk of ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "mustard green stems ((or stems and leaves))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "dried goji berries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  dried Chinese dates ((also known as jujubes))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak the pork bones in cold water for 1-2 hours to purge them of impurities, changing the water once in between."
+    },
+    {
+      "order": 2,
+      "instruction": "Then add the pork bones to a deep pot with enough water to cover them. Bring to a boil, and let it boil for 1 minute. Remove from heat, and rinse the pork bones clean. Drain in a colander and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat your wok over medium high heat until it starts to smoke. Add the oil to coat the bottom of the wok, and add in the pork bones. Reduce the heat to medium, and brown the pork bones on all sides. Turn off the heat, and transfer the pork bones to a thick bottomed soup pot. Meanwhile, bring 10 cups of water to a boil."
+    },
+    {
+      "order": 4,
+      "instruction": "Carefully pour the boiling water in with the pork bones, and add the ginger. Turn on the heat to high, and bring to a boil."
+    },
+    {
+      "order": 5,
+      "instruction": "Once boiling, medium, cover and boil over medium heat for 30 minutes, or until the soup turns milky white. At this stage, the soup should be bubbling, but not so much that the soup boils over. This process will turn the soup creamy white without losing too much liquid."
+    },
+    {
+      "order": 6,
+      "instruction": "Finally, reduce the heat to low, and simmer (covered) for another 1 hour, until the meat is tender. Skim off any fat on the surface of the soup."
+    },
+    {
+      "order": 7,
+      "instruction": "Add the mustard greens, dried goji berries, and dried dates. (If you like added sweetness in your soup, cut the dates in half to release more flavor.)"
+    },
+    {
+      "order": 8,
+      "instruction": "Bring the soup to a boil again, and reduce the heat to medium low. Cover and simmer for 20-30 minutes. Add salt to taste, and serve piping hot."
+    }
+  ]
+}

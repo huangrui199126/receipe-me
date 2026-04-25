@@ -1,0 +1,169 @@
+{
+  "id": "tr_2263",
+  "title": "Shredded Pork Stir-Fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/01/DSC_0039-1.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shredded-pork-stir-fry/",
+  "servings": 2,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "shredded pork stir-fry"
+  ],
+  "nutrition": {
+    "calories": 489,
+    "protein": 30.0,
+    "carbs": 26.0,
+    "fat": 28.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. pork loin sliced in small strips ((225g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch ((divided))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  broccoli stems ((peeled and julienned))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large carrot ((julienned))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small yellow or red bell pepper ((julienned))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  long hot green peppers ((you can also substitute with a bell pepper or a milder green pepper, julienned))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  dried red chili peppers",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "rice wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "red chili oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a small bowl, coat the pork in 1 teaspoon cornstarch and 1 teaspoon oil and set aside. Cut all of your vegetables and arrange on plate for easy access when cooking. Mix the second teaspoon of cornstarch with 3 tablespoons water to make a slurry and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a wok over high heat, add 1 tablespoon of oil and stir fry the pork quickly for about 1 minute. Remove the pork from the wok and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Keep the wok on high heat and add another teaspoon of oil (if needed) and toss in the dried chilis. Cook them for about 10 seconds and then add the vegetables to the wok. Toss the mixture with a sturdy metal spatula and cook for 2 minutes at the highest heat. Pour the shaoxing wine around the perimeter of the wok to deglaze and create some sizzle. Add the pork back to the wok, and give it all a quick toss. Then add the vinegar, sugar, salt, and white pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Toss the mixture and add your cornstarch and water slurry along with a tablespoon of chili oil. Give it a last stir and serve with rice!"
+    }
+  ]
+}

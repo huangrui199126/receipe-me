@@ -1,0 +1,173 @@
+{
+  "id": "tr_2343",
+  "title": "Steamed Eggplant, Hunan Style",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/10/steamed-eggplant-9-1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/steamed-eggplant-hunan/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "steamed eggplant"
+  ],
+  "nutrition": {
+    "calories": 202,
+    "protein": 4.0,
+    "carbs": 11.0,
+    "fat": 17.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium Chinese or Japanese eggplants ((12 to 16 ounces))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "chili oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sesame paste ((or tahini))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "long hot green peppers ((finely chopped))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fermented black beans ((rinsed and drained))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small Thai bird chili ((chopped, optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut your Japanese or Chinese eggplants into 3-inch pieces and then cut them into quarters lengthwise. Arrange on a heatproof plate for steaming."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare your wok or large covered pot pan for steaming (or use a metal steamer or dedicated steaming kitchen gadget, if you have one)."
+    },
+    {
+      "order": 3,
+      "instruction": "Steam the eggplant for 10 minutes, or until soft. You can serve the eggplant on the same plate, or transfer it to a serving plate. If transferring your steamed eggplant to a serving plate, be sure to include any liquid from the steamed eggplant."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat the canola and sesame oil in a wok or saucepan over medium high heat and add the fresh ginger and sesame seeds."
+    },
+    {
+      "order": 5,
+      "instruction": "After 15-20 seconds, stir in the hot chili oil, sesame paste, soy sauce, salt, and sugar until well combined."
+    },
+    {
+      "order": 6,
+      "instruction": "Once the sauce begins to simmer, turn off the heat and stir in the finely chopped peppers, garlic, half of the scallions, and the black beans. Add the Thai chili only if you like your food super spicy, because it will already be on the spicy side."
+    },
+    {
+      "order": 7,
+      "instruction": "Pour the sauce over the eggplant and top with the rest of the scallions."
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "id": "tr_2098",
+  "title": "Ham and Nut Mooncakes (Wu Ren Yue Bing 五仁月饼)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/09/ham-nut-mooncake-recipe-5-1.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/ham-nut-mooncake-recipe/",
+  "servings": 18,
+  "prepTime": 2880,
+  "cookTime": 120,
+  "tags": [
+    "ham nut mooncakes"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 9.0,
+    "carbs": 52.0,
+    "fat": 25.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "½",
+      "unit": "pound",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Juice of half a lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "140",
+      "unit": "ml",
+      "name": "inverted sugar syrup ((which you bought or made in Part I))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "⅓",
+      "unit": "cup",
+      "name": "peanut oil or corn oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "lye water ((available at your Chinese grocery store))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 ⅔",
+      "unit": "cups",
+      "name": "all-purpose flour ((about 250 grams, plus more for dusting))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "100",
+      "unit": "grams",
+      "name": "jinhua ham ((京华火腿))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "ham juice ((from steaming the ham––see instructions below))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "100",
+      "unit": "grams",
+      "name": "walnuts ((toasted))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "100",
+      "unit": "grams",
+      "name": "cashews ((toasted))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "100",
+      "unit": "grams",
+      "name": "pecans ((toasted))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "75",
+      "unit": "grams",
+      "name": "pumpkin seeds ((toasted))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "60",
+      "unit": "grams",
+      "name": "sunflower seeds ((toasted))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "60",
+      "unit": "grams",
+      "name": "sesame seeds ((toasted))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "200",
+      "unit": "grams",
+      "name": "sweet rice flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "⅓",
+      "unit": "cup",
+      "name": "peanut oil ((or corn oil, about 75 ml))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "50",
+      "unit": "grams",
+      "name": "dried currants",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "150",
+      "unit": "grams",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Chinese bai jiu 白酒",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "water ((about 120 ml))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "[no additional ingredients needed for this step]",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg yolk",
+      "emoji": "🥚",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the sugar and water in a saucepan over medium heat. Stir to dissolve the sugar. Once it’s boiling, add the lemon juice, stir, and immediately turn the heat down to low."
+    },
+    {
+      "order": 2,
+      "instruction": "Keep the lid off, and let the syrup simmer for about 60 to 70 minutes until the sugary liquid turns a light amber color. Do not stir during this timeframe! By now, the liquid might look too watery, but it will thicken once it’s cooled. Try not to overcook it, because it will become thick like caramel. (Just in case you do overcook the syrup, and it’s too thick, add a few drops of hot water to thin it out. Keep adding the hot water until you get the right consistency.)"
+    },
+    {
+      "order": 3,
+      "instruction": "Now, pour the syrup into a heatproof container, and cool completely before storing it in the refrigerator."
+    },
+    {
+      "order": 4,
+      "instruction": "First, mix the inverted sugar syrup, oil, and lye water together. Then add the flour to the mixture, using a rubber spatula to fold and combine everything into a soft dough."
+    },
+    {
+      "order": 5,
+      "instruction": "Do not overwork the dough. This step should only take about a minute or two. Cover the dough in an airtight container or wrap it in plastic wrap. Let it rest in the refrigerator for at least an hour to make it easier to work with. You can also refrigerate the dough overnight if you’d like to make it ahead of time."
+    },
+    {
+      "order": 6,
+      "instruction": "Steam the ham in a heatproof bowl for 15 minutes. You will end up with some liquid in the bowl after it’s done steaming. Save this liquid and set it aside. Finely chop the ham."
+    },
+    {
+      "order": 7,
+      "instruction": "If you’re using pre-toasted nuts, you can save some time. If not, toast the raw nuts in a preheated oven at 325 degrees F for 5-10 minutes with each batch. Roast the walnuts, cashews, and pecans together, and roast the pumpkin seeds, sunflower seeds, and sesame seeds in a separate batch. My tip is that once you smell a nutty aroma after 3-4 minutes, stand in front of the oven until the nuts are toasted to your liking. Don’t walk away from the oven, because the nuts can burn quickly! Once cool enough to handle, chop the walnuts, cashews, and pecans, and add them to a large mixing bowl along with the toasted pumpkin, sunflower, and sesame seeds."
+    },
+    {
+      "order": 8,
+      "instruction": "In a clean, dry wok, toast the sweet rice flour for 15 to 20 minutes over medium low heat until it turns a light brown color. Stir often, and adjust the heat accordingly to prevent burning."
+    },
+    {
+      "order": 9,
+      "instruction": "In a small pot, heat up the oil until it’s lightly smoking. Turn off the heat, and let it cool. Believe it or not, cooking the oil this way adds fragrance and flavor to the mooncakes!"
+    },
+    {
+      "order": 10,
+      "instruction": "To your mixing bowl full of chopped nuts and seeds, add the chopped ham, currants, sugar, salt, and five spice powder. Mix well. Now add in the liquids: the water from steaming the ham, the bai jiu, the “cooked” peanut oil, and the water. Stir everything to combine."
+    },
+    {
+      "order": 11,
+      "instruction": "Lastly, slowly add in the toasted sweet rice flour to bind all the ingredients together. The final mixture should be somewhat dry and slightly crumbly, but you should be able to squeeze everything together tightly and form a ball. If you need to, add a little bit more peanut oil to moisten the mixture."
+    },
+    {
+      "order": 12,
+      "instruction": "Weigh and divide the mixture into 18 equal pieces. Form each piece into a ball, and set aside for assembling the mooncakes."
+    },
+    {
+      "order": 13,
+      "instruction": "After the dough is done resting, divide it into 18 equal pieces. My mooncake mold holds 100 grams, which means that each mooncake should weigh about 100 grams after assembly. You should be able to use these guidelines when assembling the mooncakes:"
+    },
+    {
+      "order": 14,
+      "instruction": "Each dough ball is around 25 to 30 grams. Set aside a smaller dough ball for scraps and mending, which I will get to. Shape each piece into a ball."
+    },
+    {
+      "order": 15,
+      "instruction": "Each ball of filling should be around 65 to 70 grams."
+    },
+    {
+      "order": 16,
+      "instruction": "Let’s start assembling the mooncakes by preparing the mooncake mold. My mooncake mold came with four pattern plates––one plate should be attached to the mold itself. Wrap another one with clear plastic, because you’ll use it to press the mooncake from the bottom. Now, dust the inside of the mold with plenty of flour, and shake off the excess. You’ll need to repeat this process before pressing every mooncake to avoid sticking."
+    },
+    {
+      "order": 17,
+      "instruction": "Dust the balls of dough with flour. Take one ball of dough, and roll it out on a floured surface into a 4-inch round. Put one piece of filling in the center. Carefully lift it up (I use a dough cutter to scrape it up from my work surface), and gently press out the air bubbles without breaking the dough. Next, make sure the opening is facing up, and slowly pinch the dough closed around the filling, keeping the distribution of the dough as even as possible."
+    },
+    {
+      "order": 18,
+      "instruction": "The dough feels like Play-doh, so it’s easy to break, but it’s also easy to squish back together. These instructions might sound confusing, but follow along with the pictures, and keep in mind that the chief goal here is to close the dough around the filling without any air pockets. Now dust the assembled ball with additional flour."
+    },
+    {
+      "order": 19,
+      "instruction": "Place the ball of dough and filling inside the mooncake mold with the mold opening facing up. Next, press in the bottom piece (with the clear plastic-wrapped plate that you prepared). With some pressure, gently press it inward."
+    },
+    {
+      "order": 20,
+      "instruction": "Quickly put the mold down, and press the mooncake out with the top pressure bar. The bottom piece will come out no problem, but use your other hand to VERY GENTLY guide the mooncake out of the mold. When/if a small piece of dough gets stuck and does not come out, get a small piece of your scrap dough to patch up the area. Then clean the mold, and dust it well with flour again. Next, gently flatten all sides of the mooncake to make it smaller, so it can go back in the mooncake mold for re-shaping. Use slightly more flour for dusting if this becomes a persistent issue. Place the mooncakes on a baking sheet as you make them."
+    },
+    {
+      "order": 21,
+      "instruction": "Preheat the oven to 325 degrees F, and put the baking rack in the middle of the oven when you’re almost finished assembling the mooncakes. Once the oven is preheated, gently mist the mooncakes with a food-grade spray bottle (if you have one) filled with water. If you don’t have one, you can just use your hands. Dip your fingers into a bowl of water, and fling the water on your fingers onto the mooncakes a couple of times. This prevents the dough from cracking in the hot oven."
+    },
+    {
+      "order": 22,
+      "instruction": "Then, immediately put the mooncakes in the oven, and bake for 5 minutes. (Remember to set the timer!) Now, prepare the egg wash by whisking together an egg yolk with 3 tablespoons of water."
+    },
+    {
+      "order": 23,
+      "instruction": "After the mooncakes have been baking for 5 minutes, take them out of the oven and immediately lower the oven temperature to 300 degrees. Using a natural-bristle pastry brush, lightly brush each mooncake with egg wash, and put them back in the oven."
+    },
+    {
+      "order": 24,
+      "instruction": "Bake them for another 15 minutes (set a timer!). When the time has elapsed, take them out, and let them cool completely. When the mooncakes first come out of the oven, the dough will look dry like bread, and not oily like what you are used to when opening packaged mooncakes. This is normal."
+    },
+    {
+      "order": 25,
+      "instruction": "Store the completely cooled mooncakes in an airtight container for a day or two, and the outside will get that sheen that you recognize and love."
+    }
+  ]
+}

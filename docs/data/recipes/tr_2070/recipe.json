@@ -1,0 +1,141 @@
+{
+  "id": "tr_2070",
+  "title": "Dry Fried Sichuan Beef",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/05/dry-fried-sichuan-beef-4.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/sichuan-beef-dry-fried/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 5,
+  "tags": [
+    "sichuan beef"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20.0,
+    "carbs": 5.0,
+    "fat": 16.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "flank steak ((340g, cut into ⅓ inch thick strips))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "5",
+      "unit": "slices",
+      "name": "ginger ((julienned))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "spicy bean sauce",
+      "emoji": "🫘",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "stalks",
+      "name": "celery ((julienned))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small carrot ((julienned))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "¾",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ground Sichuan peppercorn",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "chili flakes ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((julienned))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the wok over high heat until it starts to smoke. Add 1 tablespoon oil, and coat the wok before adding the beef. Immediately spread the beef in a single layer. (This step will prevent the beef from sticking to your wok.) Brown the beef until the liquid cooks off and the meat is well-seared. This step should take about 2-3 minutes. Remove the beef from the wok, and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Turn the heat down to low, and add 2 tablespoons of oil to the wok. Crisp the ginger, and add the spicy bean sauce. Cook for about a minute until the oil turns red, adjusting the heat as needed to avoid burning. Next, add the celery, carrot, and cooked beef. Turn the heat up to high, and stir to mix well. Immediately add the Shaoxing wine, sugar, light soy sauce, sesame oil, ground Sichuan peppercorn, chili flakes (optional), and the scallions."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir quickly for about a minute and mix everything well. Transfer to a dish and serve with plenty of rice! You’ll need it."
+    }
+  ]
+}

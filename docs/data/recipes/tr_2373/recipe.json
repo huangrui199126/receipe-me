@@ -1,0 +1,149 @@
+{
+  "id": "tr_2373",
+  "title": "Chinese Braised Oxtails",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/03/Chinese-braised-oxtails-5-1.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-braised-oxtails/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 210,
+  "tags": [
+    "braised oxtails"
+  ],
+  "nutrition": {
+    "calories": 631,
+    "protein": 72.0,
+    "carbs": 5.0,
+    "fat": 32.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "pounds",
+      "name": "meaty oxtails ((cut into 2 to 3 inch thick pieces))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  half-inch thick slices of fresh ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "6",
+      "unit": "cloves",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-4 pieces star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "rock sugar ((you can substitute regular sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Clean the oxtails and pat them dry. Heat oil in a large skillet over medium high heat and brown them on all sides."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove the oxtails and set aside on a plate. To the pot, add the ginger, garlic, star anise, cloves, and bay leaves. Cook for about 2 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Now it’s time to add cooking wine, dark soy sauce, light soy sauce, rock sugar, water, and salt (careful with the salt, as the soy sauce is already quite salty)."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the oxtails back to the pot, and bring to a boil. Once boiling, cover and reduce the heat to low. Simmer for 2 to 3 hours, depending on how tender you like your oxtails. Check halfway through and add more water if needed."
+    },
+    {
+      "order": 5,
+      "instruction": "Uncover, and continue simmering for another 30 minutes until the meat is tender and most of the liquid has evaporated. Stir occasionally, and add additional water if necessary to avoid sticking. Serve!"
+    }
+  ]
+}

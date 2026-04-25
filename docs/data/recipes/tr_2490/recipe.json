@@ -1,0 +1,125 @@
+{
+  "id": "tr_2490",
+  "title": "Cantonese Fried Dough (Ham Chim Peng)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/01/ham-chim-peng-4.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/ham-chim-peng-fried-dough/",
+  "servings": 12,
+  "prepTime": 30,
+  "cookTime": 30,
+  "tags": [
+    "cantonese fried dough"
+  ],
+  "nutrition": {
+    "calories": 266,
+    "protein": 5.0,
+    "carbs": 43.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3 3/4",
+      "unit": "cups",
+      "name": "all-purpose flour ((plus extra for dusting))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "dark brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "regular granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 cubes fermented red bean curd ((mashed))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "five-spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/3",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Neutral oil ((for frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First mix together the flour, baking powder, and baking soda in a mixing bowl. Next, add the dark brown sugar, regular sugar, mashed fermented bean curd, and five-spice powder. Slowly stir in the water to form a wet dough. Make sure everything is well-combined. Cover and let the dough rest for 15 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "While the dough is resting, take a medium pot and fill it with about 1 inch of oil for frying. Set aside. Once the dough is rested, dust a clean surface with a good amount of flour, and scrape the dough onto the floured surface. The dough will be very wet, so flour both hands before handling the dough. Divide it into 12 equal pieces."
+    },
+    {
+      "order": 3,
+      "instruction": "Take each dough ball, and dip it into sesame seeds to coat--more or less depending on your preference. You can also coat both sides if you like. Flatten the dough to a 5-inch circle with a small hole in the middle and set aside on a well-floured surface. They can look quite rough at this point; don't feel the need to make them look perfect! Repeat until all 12 dough balls have been shaped."
+    },
+    {
+      "order": 4,
+      "instruction": "Now, heat the oil to 325 degrees. Keep the heat between 325 to 350 degrees for the duration of the frying process. Fry the dough in batches, frying each side until golden brown, flipping one to two times to brown both sides. It should take 1 to 2 minutes each."
+    },
+    {
+      "order": 5,
+      "instruction": "Drain on plate lined with paper towels or a wire rack and serve alone or with porridge. You can also store extras in the fridge and rejuvenate them with a quick turn through the oven or toaster oven."
+    }
+  ]
+}

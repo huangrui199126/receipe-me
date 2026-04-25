@@ -1,0 +1,157 @@
+{
+  "id": "tr_2417",
+  "title": "Dim Sum Steamed Beef Short Ribs with Black Pepper",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/09/dim-sum-beef-short-ribs-1-1.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/dim-sum-beef-short-ribs-with-black-pepper/",
+  "servings": 4,
+  "prepTime": 720,
+  "cookTime": 10,
+  "tags": [
+    "dim sum steamed ribs"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 16.0,
+    "carbs": 4.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "beef short ribs ((450g, cut flanken style across the bone about ¼ inch thick))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "½",
+      "unit": "clove",
+      "name": "garlic ((grated or smashed to a pulp))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small red onion ((thinly sliced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "coarsely ground/cracked fresh black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse the beef short ribs and trim off any visible fibrous membranes, as these will make your ribs tough. Mix all of the marinade ingredients in a large bowl. Add the short ribs and onions, making sure that the short ribs are evenly coated. Cover and refrigerate overnight."
+    },
+    {
+      "order": 2,
+      "instruction": "The next day, take the ribs out of the refrigerator, and let them come to room temperature. Add the oil, cornstarch, and freshly ground black pepper. Mix well."
+    },
+    {
+      "order": 3,
+      "instruction": "Set up your wok or steamer pot over high heat. Place your bamboo steamers in your wok if that's what you're using. Heat until the water is bubbling. If you're using a steamer pot, heat the water to a gentle boil."
+    },
+    {
+      "order": 4,
+      "instruction": "While you're waiting for the water, arrange the ribs on small heat-proof plates if you’re going to serve them dim sum style, or a large plate if you're going to serve them family style. Top off with some additional fresh ground pepper to taste."
+    },
+    {
+      "order": 5,
+      "instruction": "When the steamers are sufficiently preheated, turn off the heat, and carefully add the plate(s) to the steamer. Turn the heat back on, cover the ribs, and steam for 10 minutes. Remove from the heat and serve immediately!"
+    }
+  ]
+}

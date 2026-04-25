@@ -1,0 +1,149 @@
+{
+  "id": "tr_2362",
+  "title": "Pasta alla Norma with Roasted Eggplant &amp; Tomatoes",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/08/Pasta-alla-Norma-roasted-16.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pasta-alla-norma-roasted/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 40,
+  "tags": [
+    "pasta alla norma"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 19.0,
+    "carbs": 89.0,
+    "fat": 6.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "tomatoes ((plum tomatoes, beefsteak, or even cherry or grape tomatoes))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "Chinese or Japanese eggplant ((can also use regular globe eggplant))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "spaghetti ((or short cut pasta such as rigatoni))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic ((thinly sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red anaheim chili ((de-seeded and julienned))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dried oregano  ((or 1 tablespoon fresh))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "chopped parsley and/or basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "ricotta salata ((crumbled or grated; can also use pecorino romano or parmesan in a pinch))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat your oven to 400°F."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut the tomatoes into 1-inch pieces. If using grape or cherry tomatoes, leave them whole. Drizzle with olive oil, and season with salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Dice the eggplant into 1-inch cubes. Spread the eggplant cubes on a baking sheet, and drizzle generously with olive oil. Season with salt and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Roast the tomatoes and eggplants in the oven for about 35-40 minutes, or until the eggplant is softened and browned and the tomatoes are wrinkled and juicy. Halfway through roasting, switch the pans (so the top pan is on the bottom and vice versa), and stir the tomatoes and eggplant to ensure even browning."
+    },
+    {
+      "order": 5,
+      "instruction": "Meanwhile, bring a large pot of salted water to a boil. Boil the spaghetti 1-2 minutes short of al dente."
+    },
+    {
+      "order": 6,
+      "instruction": "While the pasta is cooking, heat 2-3 tablespoons of olive oil in a large skillet over medium heat, and add the garlic and chilies. Cook for 2-3 minutes. Add the tomato paste, and fry for another 2-3 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Add about ⅔ cup of the pasta cooking water, and stir in the roasted tomatoes and eggplant, along with the oregano. Season with salt and pepper."
+    },
+    {
+      "order": 8,
+      "instruction": "Add the pasta to the mixture, along with about ½ cup of pasta water. Toss the pasta in the mixture over medium low heat for another 1-2 minutes, and keep adding water a ¼ cup at a time until the sauce is silky and coats the pasta."
+    },
+    {
+      "order": 9,
+      "instruction": "Toss in the parsley and/or basil. Serve with ricotta salata (or pecorino or parmesan if that’s what you’ve got!)"
+    }
+  ]
+}

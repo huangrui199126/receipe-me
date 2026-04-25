@@ -1,0 +1,129 @@
+{
+  "id": "tr_2357",
+  "title": "Hong Kong Clay Pot Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/03/hong-kong-rice-bowl-7-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/hong-kong-style-clay-pot-rice/",
+  "servings": 2,
+  "prepTime": 60,
+  "cookTime": 15,
+  "tags": [
+    "clay pot rice"
+  ],
+  "nutrition": {
+    "calories": 667,
+    "protein": 18.0,
+    "carbs": 78.0,
+    "fat": 30.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "long grain rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "a 3-inch piece of cured pork belly",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  links of sweet Chinese sausage",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "regular soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "seasoned soy sauce ((you can substitute this with a bit more regular soy sauce as well))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "tablespoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak your cup of rice in (exactly) a cup of water in your clay pot for an hour. After it's been soaked, put the pot over medium heat and bring it to a boil. When it's boiling, put the cured meats on top of the rice (don't stir). Cover the pot, turn the heat down to the lowest setting, and let it simmer for about 10 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "In a small bowl, mix together the soy sauces, fish sauce, sugar, and white pepper. Uncover the pot, and pour the sauce evenly over the rice evenly. Cover it back up and simmer for another 3 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "After that, uncover the pot, slice up the meats, and add them back to the pot along with your chopped scallion. Stir everything together. You can also add more soy sauce, to taste!"
+    },
+    {
+      "order": 4,
+      "instruction": "You can also make this dish in a rice cooker. Just add the rice, water, and meat to the rice cooker and cook normally. When the rice is done, take the meat out and slice it. Add it back to the rice along with the sauce and the scallions!"
+    }
+  ]
+}

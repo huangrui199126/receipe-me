@@ -1,0 +1,177 @@
+{
+  "id": "tr_2491",
+  "title": "Anchovy Fried Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/11/anchovy-fried-rice-12-scaled.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/anchovy-fried-rice/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 10,
+  "tags": [
+    "anchovy fried rice"
+  ],
+  "nutrition": {
+    "calories": 463,
+    "protein": 26.0,
+    "carbs": 62.0,
+    "fat": 10.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  boneless skinless chicken breast (diced (1 chicken breast = 6-8 ounces/170-220g))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "clear rice wine (米酒/mǐjiǔ) (divided)",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "ginger (2-inch/5cm long, 1/8 inch thick)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "cups",
+      "name": "iceberg or romaine lettuce (chopped; or 3/4 cup (110g) frozen peas)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion (chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "neutral oil (divided)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "cooked rice ((jasmine; or use a 50/50 blend of jasmine and brown rice))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "anchovy filets in oil ((or to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "anchovy oil ((optional, for stronger anchovy taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinate the chicken with 1 tablespoon of clear rice wine, the cornstarch, water, and salt. Mix thoroughly, massaging the chicken with your hands until it absorbs all the marinade ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Prep the eggs, ginger, onion, lettuce or peas, and scallion. You want everything ready and close at hand before you turn on the flame."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat a wok over high heat until just smoking. Add 1 tablespoon of oil. Add the eggs, and scramble them quickly with your wok spatula. Cook until they’re 80% done, but still a little runny. Transfer back to the bowl and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "With the wok still set over high heat, add 1 tablespoon of oil, followed by the chicken. Stir-fry until the chicken turns opaque. Remove from the wok and set aside. You’ll cook it again before the dish is done."
+    },
+    {
+      "order": 5,
+      "instruction": "Reduce the heat to medium-high. Add the remaining 2 tablespoons of oil to the wok. Fry the ginger for 20-30 seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the rice, spreading it out and flattening any clumps with your wok spatula. Stir to warm it through."
+    },
+    {
+      "order": 7,
+      "instruction": "Make a well in the center of the rice. Reduce the heat to medium. Add the anchovies and break them into smaller chunks with your spatula, letting them warm through for 30-60 seconds. Stir to combine with the rice until the anchovy is evenly distributed. If you want EXTRA anchovy flavor, pour in the anchovy oil too."
+    },
+    {
+      "order": 8,
+      "instruction": "Add the onion, stirring to combine, and then spread everything out in a single layer. Add the remaining 1 tablespoon of rice wine and the oyster sauce. Add the lettuce or peas, stir-frying until wilted or warmed through, respectively. Stir in the chicken. Then add the eggs, stirring to distribute the egg into the rice. Finally, stir in the scallions, and serve."
+    }
+  ]
+}

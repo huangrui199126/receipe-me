@@ -1,0 +1,141 @@
+{
+  "id": "tr_2191",
+  "title": "Bacon and Egg Fried Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/04/bacon-egg-fried-rice-12-1.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/bacon-and-egg-fried-rice/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "bacon and egg fried rice"
+  ],
+  "nutrition": {
+    "calories": 422,
+    "protein": 22.0,
+    "carbs": 60.0,
+    "fat": 10.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs ((beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. lean bacon ((225g, cut into 1-inch pieces))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion ((finely diced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "cooked rice ((fluffed and cooled))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine ((optional))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "fresh black pepper ((to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil in your wok over medium heat and add beaten eggs. Gently scramble the eggs, remove from the wok, and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Keeping the heat at medium, add the bacon to the wok and allow it to render down and become crisp. The level of crispiness you achieve here is totally based on personal preference. Once the bacon's looking good to you, take it out of the wok and set aside along with the scrambled eggs."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the diced onion to the wok and stir-fry until translucent. Once they're translucent, add the cooked rice and stir-fry for 2 minutes. Use your wok spatula to flatten out and break up any clumps. Add the salt, sugar, and soy sauces, and spread the Shaoxing wine (if using) around the perimeter of the wok to get a good sizzle going."
+    },
+    {
+      "order": 4,
+      "instruction": "Give everything a good stir for another minute or so. When you start to see steam coming off the rice, that means it's heated through. If the rice looks a little dry, feel free to sprinkle in some water or chicken stock. Adding some liquid directly to large clumps of rice will also help to break them up."
+    },
+    {
+      "order": 5,
+      "instruction": "To finish the dish, stir in the scrambled eggs, bacon, pepper, and scallions. Serve!"
+    }
+  ]
+}

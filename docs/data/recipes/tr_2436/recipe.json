@@ -1,0 +1,297 @@
+{
+  "id": "tr_2436",
+  "title": "Fuqi Feipian (夫妻肺片)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/07/fuqi-feipian-recipe-8.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/fuqi-feipian-sichuan/",
+  "servings": 12,
+  "prepTime": 20,
+  "cookTime": 70,
+  "tags": [
+    "fuqi feipian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "beef shank ((900g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "honeycomb beef tripe ((680g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "5",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Sichuan peppercorns ((3g))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cumin seeds ((2g))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "coriander seeds ((2g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "black or white peppercorns ((or a mix of both, 3g))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cinnamon stick",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  dried tangerine peel",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  black cardamom pod  ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  white cardamom pods ((optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "dark soy sauce ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "70",
+      "unit": "g",
+      "name": "rock sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "braising liquid",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "chili oil ((preferably homemade; can add more or less to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((smashed and finely minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorn powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt  ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "Chinese celery ((finely chopped))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "roasted peanuts ((chopped))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 30
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add beef shank and tripe to a large pot, and add fresh water to cover, along with the ginger. Bring to a boil, and boil for 1 minute. Drain and rinse the beef shank, tripe, and ginger thoroughly in cold water."
+    },
+    {
+      "order": 2,
+      "instruction": "Rinse the pot, and add the meat, tripe, and ginger back to the pot. Cover with fresh water, and add the scallions, along with the rest of the aromatic ingredients (the Sichuan peppercorns through the rock sugar). The braising liquid should taste seasoned, but not briny/overly salty. You have the option to add dark soy sauce, if you would like the meat to have a darker color, but it’s optional."
+    },
+    {
+      "order": 3,
+      "instruction": "Bring to a boil. Turn down the heat to low, cover, and simmer for 45 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn off the heat and allow the meat to cool completely in the braising liquid before taking it out to cut (about 4 hours). The beef will continue to cook as it cools; it will fall apart if you try to cut it while it’s still hot."
+    },
+    {
+      "order": 5,
+      "instruction": "Make the dressing/sauce while you wait. Combine the braising liquid, chili oil, garlic, Sichuan peppercorn powder, sesame seeds, Chinese black vinegar, light soy sauce, sugar, and salt."
+    },
+    {
+      "order": 6,
+      "instruction": "Slice the beef and tripe very thinly on an angle (to get wider slices), and toss with the Chinese celery and the sauce. Top with the peanuts and cilantro."
+    }
+  ]
+}

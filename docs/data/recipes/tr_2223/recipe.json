@@ -1,0 +1,143 @@
+{
+  "id": "tr_2223",
+  "title": "Chinese Pastry Roast Pork Puffs",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/10/chinese-roast-pork-puffs-10.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-roast-pork-puffs/",
+  "servings": 12,
+  "prepTime": 60,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 169,
+    "protein": 5.0,
+    "carbs": 11.0,
+    "fat": 12.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "shallots",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "chicken stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "Chinese roast pork",
+      "emoji": "🥩",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "sheet",
+      "name": "store-bought puff pastry",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "egg wash ((1 egg, beaten with a tablespoon of water))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil in a wok over medium heat and stir-fry the onion until translucent. Add the sugar, soy sauce, oyster sauce, sesame oil, and dark soy sauce and cook until it starts to bubble up. Add the chicken stock and flour. Reduce the heat to medium low and cook, stirring, for a couple minutes until thickened. Remove from the heat and stir in the pork. Set aside to cool completely."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat the oven to 400 degrees F (200 degrees C). On a lightly floured surface, roll out the puff pastry to smooth out the seams. Once rolled, the puff pastry square should be 30% larger than where you started. Cut into equal squares (whatever size you prefer). Ours were about the size of a large ravioli."
+    },
+    {
+      "order": 3,
+      "instruction": "Put about 1 1/2 teaspoons of filling onto a pastry square and brush the edges with egg wash. Cover with another pastry square and use a fork to crimp it closed. Make sure they&#x27;re tightly sealed. Repeat until all the filling and/or pastry has been used."
+    },
+    {
+      "order": 4,
+      "instruction": "Brush the tops of the pastries with egg wash and sprinkle with sesame seeds. Bake for 18-20 minutes, or until puffed and golden brown. Serve warm!"
+    }
+  ]
+}

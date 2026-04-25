@@ -1,0 +1,117 @@
+{
+  "id": "tr_2465",
+  "title": "Cheat’s Mapo Tofu",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/07/mapo-tofu-recipe-2.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/cheats-mapo-tofu-packet/",
+  "servings": 8,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "mapo tofu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "ground pork",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "7 oz. mapo tofu sauce packet ((200g, we used Spicy Element’s Shengchubao Mapo Tofu Sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch ((mixed with 1 tablespoon water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "24",
+      "unit": "ounces",
+      "name": "silken tofu ((you can also use soft or firm tofu if you prefer))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "Sichuan Peppercorn Powder ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a wok over medium-high heat, brown the pork, breaking it up with a wooden spatula. When the pork is cooked through, add the ginger and garlic, and stir-fry until lightly crisped. Next, add the contents of the seasoning packet, and stir to combine. If you’re only cooking one box of tofu, you can use half of it and save the other half for another day."
+    },
+    {
+      "order": 2,
+      "instruction": "Turn the heat up to high, add the water, and bring to a boil."
+    },
+    {
+      "order": 3,
+      "instruction": "While that’s happening, cut your tofu into large 1½-inch cubes and add to the wok. Stir gently to combine. A folding motion works well to avoid breaking up the tofu."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the cornstarch slurry and cook until the sauce thickens and becomes glossy, coating the spatula."
+    },
+    {
+      "order": 5,
+      "instruction": "Simmer for one more minute, and serve immediately with scallions and the Sichuan peppercorn powder on top and plenty of white rice, and relish the time saved by your shortcut!"
+    }
+  ]
+}

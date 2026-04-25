@@ -1,0 +1,93 @@
+{
+  "id": "tr_2460",
+  "title": "Celtuce Salad with Scallion Oil",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/06/celtuce-salad-11.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/celtuce-salad-scallion-oil/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "celtuce salad"
+  ],
+  "nutrition": {
+    "calories": 91,
+    "protein": 2.0,
+    "carbs": 4.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "celtuce ((about 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt ((plus more to taste if needed))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons oil ((any neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Peel the celtuce, removing all of the tough light green outer skin. Julienne the celtuce and transfer to a large bowl. Sprinkle with ½ teaspoon salt, and marinate for 10 minutes. (Not much longer, as this might draw too much liquid from the celtuce.)"
+    },
+    {
+      "order": 2,
+      "instruction": "In the meantime, cook the oil in a small saucepan over medium heat until it’s just smoking. Add the scallions and cook for a minute to infuse the oil. Turn it off, and let it cool."
+    },
+    {
+      "order": 3,
+      "instruction": "Pour off the excess liquid from the celtuce and discard the liquid. Add the scallion oil, along with the sugar, sesame oil, apple cider vinegar, and additional salt to taste (if needed). Serve immediately."
+    }
+  ]
+}

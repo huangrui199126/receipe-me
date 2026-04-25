@@ -1,0 +1,149 @@
+{
+  "id": "tr_2190",
+  "title": "Sichuan Stir-Fried Potatoes",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/05/stir-fried-potatoes-3-1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/sichuan-stir-fried-potatoes/",
+  "servings": 2,
+  "prepTime": 50,
+  "cookTime": 10,
+  "tags": [
+    "sichuan potatoes"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 6.0,
+    "carbs": 44.0,
+    "fat": 16.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large red skinned potatoes",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  thin slices of ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-6  dried red chilies ((de-seeded and chopped))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  long red or green hot pepper ((de-seeded and julienned))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "white vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "chicken stock ((or water))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Peel and julienne the potatoes. Soak them in fresh, cold water a couple times (until you can soak them and the water is somewhat clear). Drain and set aside, but don't let them sit longer than 20 minutes, as they'll turn brown."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a wok over medium heat, and add the Sichuan peppercorns (make sure they don't burn). When the peppercorns are fragrant, turn off the heat and scoop all the peppercorns out, leaving the oil in the wok. Discard the used peppercorns."
+    },
+    {
+      "order": 3,
+      "instruction": "Over medium heat, add the ginger, garlic and chilies to the oil. Cook for a minute, and add the potatoes and julienned peppers. Turn the heat up to high and stir-fry for 30 seconds. Add the soy sauce, sugar, vinegar, sesame oil, chicken stock (or water), and salt. Stir-fry everything for a minute and cover for 45 seconds. Uncover, stir in the scallions, and serve!"
+    }
+  ]
+}

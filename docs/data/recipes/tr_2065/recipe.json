@@ -1,0 +1,137 @@
+{
+  "id": "tr_2065",
+  "title": "Ketchup Shrimp Stir-Fry: Bill's Mom’s Recipe",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/07/ketchup-shrimp-4.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/ketchup-shrimp/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "ketchup shrimp"
+  ],
+  "nutrition": {
+    "calories": 197,
+    "protein": 18.0,
+    "carbs": 6.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "large, shell-on headless shrimp ((340g, 15 to 20 size))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable or canola oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "7",
+      "unit": "slices",
+      "name": "fresh ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "ketchup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Worcestershire sauce ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "⅛",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse your shrimp under running water, and thaw if frozen. Pat dry with a paper towel. If desired, you can peel the shells off for easy eating, but do leave the tails on, as they add extra flavor when seared in the wok. (Note: We cooked and photographed this ketchup shrimp with the shells on like my mom used to do, but I have to admit, this dish may be better if the shrimp are peeled with only the tails left on.)"
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 1 tablespoon of canola or vegetable oil in your wok until it just starts to smoke. Fry the shrimp on both sides for 20 seconds on each side (15 seconds if you peeled the shells off), and set aside. The shrimp should be 80% cooked."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn the heat down to low, and add another tablespoon of oil to your wok. Add the 7 slices of ginger, and let it infuse the oil for 15 seconds. Add sliced garlic and the white parts of the scallions. Turn the heat up to medium high and stir-fry everything for 10 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Add ¼ cup ketchup and 1 teaspoon Worcestershire sauce if using. Stir into the oil and fry for 15 seconds. Next, stir in the shrimp and any juices on the plate, and add ⅛ teaspoon white pepper, ½ teaspoon sugar, and 2 tablespoons Shaoxing wine."
+    },
+    {
+      "order": 5,
+      "instruction": "Stir for 10 seconds, and add 1 tablespoon soy sauce. Continue to stir-fry until the sauce begins the reduce and coats the shrimp. Finally, add the rest of the scallions (the green parts)."
+    },
+    {
+      "order": 6,
+      "instruction": "Stir for another 10 seconds and transfer to a dish. Serve this ketchup shrimp dish with white rice and a side of veggies. This ketchup shrimp is good hot out of the wok or at room temperature so keep this in mind if you are making multiple dishes in your wok for the table."
+    }
+  ]
+}

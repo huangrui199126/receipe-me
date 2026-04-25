@@ -1,0 +1,113 @@
+{
+  "id": "tr_2280",
+  "title": "Easy Scallion and Ginger Shrimp Stir Fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/07/scallion-ginger-shrimp-2-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/scallion-and-ginger-shrimp/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "scallion ginger shrimp"
+  ],
+  "nutrition": {
+    "calories": 179,
+    "protein": 8.0,
+    "carbs": 2.0,
+    "fat": 15.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  shrimp ((peeled and deveined))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "a 2-inch piece of ginger ((thinly sliced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  dried chili pepper ((sliced, optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Clean the shrimp and allow to defrost if using frozen. Pat the shrimp dry and set aside on a plate. Then wash and julienne the scallions and set them aside, along with the sliced ginger and chili."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a pan or wok until it is almost smoking and add 2 tablespoons of oil. Add the ginger and saute for 15 seconds over high heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the shrimp quickly but carefully to the pan, and try to add it in one layer. You should be getting a real good sizzle right now since the pan is so hot. Add scallions and chili (if using), and stir/saute."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the shaoxing wine and cover immediately, keeping the heat on high. Let the shrimp cook for 30 seconds. Take the cover off and continue to stir. Add the salt, white pepper and soy sauce. Give it another quick stir and plate it up."
+    }
+  ]
+}

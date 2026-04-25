@@ -1,0 +1,114 @@
+{
+  "id": "tr_2292",
+  "title": "King Oyster Mushrooms with Garlicky Glass Noodles",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/03/oyster-mushrooms-glass-noodles-5.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/king-oyster-mushrooms-glass-noodles/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "glass noodles",
+    "king oyster mushrooms"
+  ],
+  "nutrition": {
+    "calories": 439,
+    "protein": 2.0,
+    "carbs": 49.0,
+    "fat": 28.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-5 cloves garlic ((minced, divided))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "light soy sauce ((or to taste; can substitute gluten-free soy sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  king oyster mushroom ((diced in ¾-inch thick chunks or rounds))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 bundle glass noodles ((mung bean vermicelli, 50g; reserve ¼ cup noodle cooking water))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Set a small pot of water to boil. Prep the garlic and scallions. In a serving dish, set aside half of the garlic and the scallions, along with the light soy sauce, sugar, and white pepper (if using)."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a skillet over high heat. Add 2 tablespoons oil, and add the diced king mushrooms. Sprinkle with a pinch of salt to draw out the water. Toss to coat in the oil, but don’t stir much from here to allow them to caramelize. (If cooking rounds, simply cook on each side until caramelized.)"
+    },
+    {
+      "order": 3,
+      "instruction": "Cook the noodles per the package instructions. This takes about 2-3 minutes. Set aside ¼ cup of the noodle cooking water. Transfer the noodles to the serving dish. The mushrooms should be cooked by now. Add those to the serving dish as well."
+    },
+    {
+      "order": 4,
+      "instruction": "In the mushroom skillet, add the other half of the garlic, and brown lightly in the residual oil. Add a few spoonfuls of the cooking water to deglaze the pan. Pour the mixture over the noodles and mushrooms. Toss everything together and serve."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "tr_2276",
+  "title": "Pork Belly with Peppers and Wood Ear Mushrooms",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/08/pork-wood-ear-pepper.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pork-belly-with-bell-peppers-and-wood-ear-mushrooms/",
+  "servings": 4,
+  "prepTime": 120,
+  "cookTime": 20,
+  "tags": [
+    "pork belly"
+  ],
+  "nutrition": {
+    "calories": 537,
+    "protein": 12.0,
+    "carbs": 8.0,
+    "fat": 60.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "lean pork belly ((cut into half-inch slices))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dried wood ear mushrooms ((soaked in cold water for 2 hours and chopped roughly))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bell pepper ((cut into chunks))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "tablespoons",
+      "name": "soy sauce ((or low sodium soy sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sear pork in a dry wok over medium high heat until golden brown on all sides."
+    },
+    {
+      "order": 2,
+      "instruction": "Then add the bell pepper and stir-fry for a couple minutes. Add the soy sauce and mushrooms. Stir-fry for about 5 minutes to marry all the flavors."
+    },
+    {
+      "order": 3,
+      "instruction": "Add ¼ cup water, cover, and simmer for 5-10 minutes over medium heat. Stir one last time and serve!"
+    }
+  ]
+}

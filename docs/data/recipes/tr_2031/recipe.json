@@ -1,0 +1,137 @@
+{
+  "id": "tr_2031",
+  "title": "Steamed Chinese Eggplant with Spicy Lao Gan Ma",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/08/chinese-steamed-eggplant-11.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/steamed-chinese-eggplant-spicy/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "steamed chinese eggplant"
+  ],
+  "nutrition": {
+    "calories": 126,
+    "protein": 2.0,
+    "carbs": 6.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "Japanese or Chinese eggplant ((450g, about 3 eggplants))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "white vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-1 1/2 tablespoons Lao Gan Ma chili sauce",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((minced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare your steamer. If you’re not sure how to set up a steaming apparatus, check our our post on how to set up a steamer, even without special equipment. Turn the heat on low to pre-heat the water in the steamer."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut each eggplant crosswise into 3 equal sections, then cut each section into 8-10 bite-sized strips."
+    },
+    {
+      "order": 3,
+      "instruction": "Fill a large container with about 2 quarts of water and 1/4 cup white vinegar. Soak the eggplant in the vinegar water for 3 minutes. Then remove the eggplant and squeeze as much liquid out as possible. Arrange them on a heat-proof rimmed dish and carefully lower it into the steamer. Cover and turn the heat on high. Steam the eggplant for 8-10 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Now make the sauce by combining the Chinese black vinegar, light soy sauce, oyster sauce, sugar, sesame oil, and chili sauce."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove the eggplant from the steamer (no need to pour out the liquid in the dish), and evenly pour the sauce over the eggplant. Top it with the minced garlic and scallions. Try to keep garlic and scallions close together in a couple tight lines to make the next step easier."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat 3 tablespoons oil in a small saucepan until it starts to smoke lightly, and then carefully pour it over the garlic and scallion. Serve hot or cold. If serving as a cold appetizer, you can make this dish in advance."
+    }
+  ]
+}

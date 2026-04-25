@@ -1,0 +1,253 @@
+{
+  "id": "tr_2199",
+  "title": "Kung Pao Chicken Wings",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/04/kung-pao-chicken-wings-11-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/kung-pao-chicken-wings/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 16,
+  "tags": [
+    "kung pao chicken wings"
+  ],
+  "nutrition": {
+    "calories": 268,
+    "protein": 17.0,
+    "carbs": 13.0,
+    "fat": 16.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  chicken wingettes and drumettes ((rinsed and pat dry))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "ground Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "peanut oil ((can substitute vegetable or canola oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "fresh ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  dried whole red chili peppers",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "crushed red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "chicken stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "spicy bean sauce/paste",
+      "emoji": "🫘",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch ((mixed into a slurry with 1 tablespoon water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "peanuts ((roasted and chopped))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Toss the chicken wings in a large mixing bowl along with all the marinade ingredients, ensuring the wings are well coated. Set aside for at least 20 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat the oven to 475 degrees F. Line a sheet pan with heavy duty foil for easy clean-up and add a layer of non-stick foil or parchment paper so the wings don't stick. Lay the wings on the sheet pan spaced 2 inches apart, ensuring that as much of the marinade coating is on the wings as possible. Bake in the oven for 16 minutes, flipping them halfway through roasting. Both sides of the wings should be crispy. Halfway through this process (i.e. after you've flipped the wings), make the sauce."
+    },
+    {
+      "order": 3,
+      "instruction": "To make the sauce, add the oil and ginger to a wok or saucepan over low heat. After 15 seconds, add the garlic, whole dried chilies, and crushed red pepper flakes. Toast another 10 seconds and stir in the Shaoxing wine, sesame oil, chicken stock, sugar, rice vinegar, hoisin sauce, soy sauce, dark soy sauce, and spicy bean paste. Stir well and bring to a simmer."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir in cornstarch slurry until the sauce is thick enough to coat a spoon. Add the scallions. By now, the wings should be done cooking. Toss them into the sauce and serve, garnished with chopped peanuts and cilantro. Serve!"
+    },
+    {
+      "order": 5,
+      "instruction": "Note: We had these chicken wings without any dipping sauce, but if you'd like to cool off the wings slightly, you can serve with some plain yogurt, mixed with a bit of salt and and chopped cucumber."
+    }
+  ]
+}

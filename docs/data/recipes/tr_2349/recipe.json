@@ -1,0 +1,157 @@
+{
+  "id": "tr_2349",
+  "title": "Chongqing Chicken (Sichuan La Zi Ji)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/04/chongqing-chicken-8-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chongqing-chicken/",
+  "servings": 4,
+  "prepTime": 35,
+  "cookTime": 10,
+  "tags": [
+    "chongqing chicken"
+  ],
+  "nutrition": {
+    "calories": 232,
+    "protein": 17.0,
+    "carbs": 6.0,
+    "fat": 15.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  boneless skinless chicken thighs",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "ginger ((julienned))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "whole dried red chilies ((see note!))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Note: You can use fewer dried chilies if you like. This dish won’t actually be that spicy, unless you break open some of the dry hot peppers. If you do like the dish spicy, don’t break open more than six peppers. It will be hot enough, trust me."
+    },
+    {
+      "order": 2,
+      "instruction": "Start by rinsing the chicken and cutting it into bite-sized pieces. Add the chicken to a bowl and toss with the marinade ingredients. Set aside for 30 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare the rest of the ingredients. When you’re ready to cook, heat 3 tablespoons oil in a wok over high heat. Add the chicken in a single layer, and let it sear (DO NOT STIR at this point). Once you’ve got a good, crisp crust on the bottom of the chicken, stir and continue to sear the chicken until it’s browned and crisp on all sides. You really need a hot wok to achieve this. Turn off the heat and remove the chicken to a plate with a slotted spoon."
+    },
+    {
+      "order": 4,
+      "instruction": "There should be about 1 tablespoon of oil left in the wok at this point. Add more if you need to. Heat the wok over medium low heat, and add the Sichuan peppercorns. Let them toast for 1-2 minutes, until fragrant. Add the ginger and garlic, and cook for 1 minute. Add the whole dried chilies, and stir for another minute. Monitor the heat levels to avoid burning."
+    },
+    {
+      "order": 5,
+      "instruction": "Turn up the heat to high, and add the chicken, Shaoxing wine, sugar, and scallion. Continue to stir-fry, until any liquid in the wok has evaporated. Serve with rice and a veggie!"
+    }
+  ]
+}

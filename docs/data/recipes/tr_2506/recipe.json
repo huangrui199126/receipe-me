@@ -1,0 +1,257 @@
+{
+  "id": "tr_2506",
+  "title": "Shrimp Egg Foo Young",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/11/shrimp-egg-foo-young-28.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shrimp-egg-foo-young/",
+  "servings": 4,
+  "prepTime": 45,
+  "cookTime": 30,
+  "tags": [
+    "shrimp egg foo young"
+  ],
+  "nutrition": {
+    "calories": 446,
+    "protein": 25.0,
+    "carbs": 20.0,
+    "fat": 30.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "10",
+      "unit": "ounces",
+      "name": "peeled, deveined shrimp ((medium to large size; roughly chopped))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "cornstarch ((divided))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-6 cups neutral oil ((for frying, such as canola or peanut oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion ((diced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "mung bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  large eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "neutral oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "turmeric",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "shallot or red onion ((minced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3 1/4",
+      "unit": "cups",
+      "name": "low-sodium chicken stock ((divided))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the chopped shrimp with ⅛ teaspoon salt, ¼ teaspoon sugar, and ½ teaspoon cornstarch. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "In a medium pot or saucepan, heat 2 tablespoons of oil over medium heat. Whisk in 2 tablespoons of all-purpose flour to make a roux, along with the turmeric and paprika. Cook for 15-20 seconds."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the minced garlic and onion. Whisk for another 30 seconds. Whisk in the 3 cups (700ml) of the low-sodium chicken stock."
+    },
+    {
+      "order": 4,
+      "instruction": "Bring the mixture to a simmer, and add the oyster sauce, light soy sauce, dark soy sauce, sesame oil, and white pepper. The gravy should be slightly thickened from the roux."
+    },
+    {
+      "order": 5,
+      "instruction": "Dissolve the 3 tablespoons of cornstarch in the remaining ¼ cup (60ml) of chicken stock to make a slurry. Slowly stir in two-thirds of the mixture. Let cook for 30 seconds, until the gravy is thick enough to coat a spoon. Add more of the cornstarch slurry if needed. Add more salt or soy sauce to your taste, but be careful not to over-salt the gravy. Cover and set aside."
+    },
+    {
+      "order": 6,
+      "instruction": "In a wok or deep pot, preheat 6 cups of frying oil to 335-350°F (170-175°C). Use a digital read or candy thermometer to check the temperature––too high a temperature will result in burned Egg Foo Young patties, and too low a temperature will cause extra greasy patties or ones that fall apart! Don’t jump ahead to mixing the batter until your oil is close to the target temperature. Beating the eggs at the last minute will help form nice patties."
+    },
+    {
+      "order": 7,
+      "instruction": "Now for the batter. Place the velveted shrimp into a mixing bowl with the diced onions, bean sprouts, eggs, sesame oil, scallions, and the remaining 1 teaspoon of cornstarch. Do not add any salt or seasonings to this mixture, or your Egg Foo Young patties may not hold together when frying!"
+    },
+    {
+      "order": 8,
+      "instruction": "Use a large soup ladle or hoak (a Chinese ladle that’s often used together with a Chinese spatula) to fold the mixture together until just combined. The eggs should look like they are slightly beaten and only just mixed with the rest of the ingredients. If you over-mix the eggs or mix the eggs too early, the whole mixture will become too watery, and will not form a patty during frying."
+    },
+    {
+      "order": 9,
+      "instruction": "This recipe makes 6 patties. Using your ladle, carefully drop 2-3 separate scoops (about ¾ cup) of the mixture into the wok for the first batch (depending on how many you can fit in your wok). The correct technique is to tilt your ladle close to the oil, and pour the mixture starting from the edge where the oil meets the wok. Pour it slowly, so the ladle barely touches the oil. If the ladle does touch the hot oil, the egg will cook while it’s still in the ladle, and it will stick. You won’t have a smooth drop for the next Egg Foo Young patty."
+    },
+    {
+      "order": 10,
+      "instruction": "Let the patties fry for about 2 minutes, making sure the oil stays at 335-350°F (170-175°C). To speed up the cooking time, you can also use your wok spatula to gently spoon some hot oil on top of the uncooked patty. When each patty is solid and turning golden brown around the edges, use your wok spatula to turn them over in the same order that you dropped them into the oil."
+    },
+    {
+      "order": 11,
+      "instruction": "After another 1-2 minutes, scoop out each patty with a wire strainer or Chinese spider, giving it a few gentle taps to remove excess oil. Place each patty on a wire rack over a sheet pan to drain. Repeat until all of your patties are cooked."
+    },
+    {
+      "order": 12,
+      "instruction": "Transfer the egg foo young patties from the cooling rack to a serving plate. (Ideally these are served individually, rather than on a big family-style platter, but either works so long as you dig in right away!) Pour some of the gravy over the top, and serve with steamed rice and additional gravy on the side."
+    }
+  ]
+}

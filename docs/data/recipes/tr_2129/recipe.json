@@ -1,0 +1,149 @@
+{
+  "id": "tr_2129",
+  "title": "Zha Cai Rousi Mian",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/07/zhacai-rousi-mian-7.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/zha-cai-rousi-mian/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "zha cai rousi mian"
+  ],
+  "nutrition": {
+    "calories": 451,
+    "protein": 26.0,
+    "carbs": 52.0,
+    "fat": 17.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-6 ounces pork shoulder or pork loin ((cut into thin strips))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "fresh white noodles ((use half this weight if using dried noodles))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "chicken stock ((preferably homemade))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "7",
+      "unit": "ounces",
+      "name": "pickled mustard stems ((may also be labeled “pickled radish” - look for 榨菜 - Zha Cai on the label))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a small bowl, combine the pork, cornstarch, oil, wine, oyster sauce, and salt. Set aside to marinate while preparing the other ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring a pot of water to a boil for the noodles, and cook according to package instructions. Drain and distribute between two bowls."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, in another pot, bring the chicken stock to a boil and keep warm on the stove. Taste for seasoning and season with salt to taste if desired."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat your wok over high heat until smoking. Add a tablespoon of oil, and stir-fry the pork until browned. Add the Zha Cai and sugar, and stir-fry for 2 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Ladle hot broth over the noodles, and top with the pork and Zha Cai mixture. Garnish with a drizzle of sesame oil and scallions. Serve."
+    }
+  ]
+}

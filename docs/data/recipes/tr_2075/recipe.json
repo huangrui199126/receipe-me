@@ -1,0 +1,145 @@
+{
+  "id": "tr_2075",
+  "title": "Coconut Peanut Mochi",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/03/peanut-mochi-15-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/peanut-mochi-coconut/",
+  "servings": 16,
+  "prepTime": 60,
+  "cookTime": 20,
+  "tags": [
+    "coconut peanut mochi"
+  ],
+  "nutrition": {
+    "calories": 219,
+    "protein": 3.0,
+    "carbs": 22.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "sweet rice flour ((190g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cornstarch ((35g))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "caster sugar ((60g))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 ½",
+      "unit": "cups",
+      "name": "coconut milk ((350g))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "coconut oil ((melted))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "roasted peanuts ((finely chopped))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "coconut flakes ((coarsely chopped))",
+      "emoji": "🥥",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "melted coconut oil ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A large piece of wax paper ((about 18x18”, optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "coconut flakes ((coarsely chopped))",
+      "emoji": "🥥",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "16  small paper cupcake cups",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Brush a square 11” x 11” flat-bottomed cake pan with some vegetable oil to prevent sticking, and set aside. The 11” X 11” cake pan yields the perfect thickness of dough for this recipe. Other sized pans will also work, but you will need to roll out the dough a bit when assembling the mochi. Prepare your steamer with water and bring to a boil."
+    },
+    {
+      "order": 2,
+      "instruction": "In a large bowl, mix together the sweet rice flour, cornstarch, caster sugar, coconut milk, and melted coconut oil until smooth. Transfer the mixture to the prepared cake pan, and gently tap on a table to distribute it evenly. Once the water in the steamer is boiling, steam the dough mixture for 15 minutes over high heat. Let it cool completely."
+    },
+    {
+      "order": 3,
+      "instruction": "While the dough is cooling, make the filling by combining the chopped peanuts, coconut flakes, sugar and 1 tablespoon coconut oil. Set it aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Once the dough cools, transfer it onto a large piece of wax paper (or a clean smooth counter top lightly greased) and cut it into 16 equal squares. Take a piece of dough, add about 1 tablespoon of filling in the center, and close the dough around the filling, pinching it closed. Roll in the coconut flakes to coat. Place in a paper cupcake cup, and repeat until all the mochi are assembled."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "tr_2035",
+  "title": "Creamy Sweet Corn Drink",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/06/chinese-corn-milk-7.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/sweet-corn-drink/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "corn drink"
+  ],
+  "nutrition": {
+    "calories": 98,
+    "protein": 4.0,
+    "carbs": 12.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 ears sweet corn",
+      "emoji": "🌽",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "milk ((regular milk or non-dairy milk of choice))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "sugar ((or honey; optional/to taste))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Trim off the corn kernels by firmly holding each ear of corn vertically and carefully slicing downwards with a sharp knife. Transfer the corn kernels to a small pot, with just enough water to cover them."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring to a boil, reduce the heat to low, and add the sugar. Simmer for 10 minutes, ensuring you don’t cook off all the liquid. After 10 minutes, remove from the heat and let cool until the corn is cool enough to touch."
+    },
+    {
+      "order": 3,
+      "instruction": "Next, add the corn along with the cooking water to a blender, and puree until completely smooth (this takes time). Add the milk and blend to combine."
+    },
+    {
+      "order": 4,
+      "instruction": "Finally, you can strain after blending, but I like the thicker texture and added fiber! Serve slightly warm or at room temperature, or chill in the refrigerator before serving."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "tr_2011",
+  "title": "10-Minute Vegan Pad Krapow (Thai Basil Stir-fry)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/12/vegan-chicken-thai-basil-11.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/vegan-pad-krapow-thai-basil-stir-fry/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "vegan pad krapow"
+  ],
+  "nutrition": {
+    "calories": 222,
+    "protein": 18.0,
+    "carbs": 13.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  holland chilies ((thinly sliced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  Thai bird&#x27;s eye chilies ((optional, thinly sliced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  shallots ((thinly sliced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 package seitan/vegan chicken  ((227g, chopped into small bits))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "holy or Thai Basil leaves ((de-stemmed, washed))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "juice of half a lime ((optional))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a wok over high heat, add the oil, chilies, shallots and garlic, and fry for 1-2 minutes. Add the vegan chicken, and stir-fry for 30 seconds, spreading evenly in a single layer. Then let the vegan chicken brown, stirring occasionally to sear it evenly."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the sugar, light soy sauce (add half the amount if using fish sauce), and dark soy sauce. At this point, add the fish sauce if you are pescatarian/flexitarian."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir-fry for another minute, and deglaze the pan with water. Because your pan is over high heat, the liquid should cook off very quickly."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the basil, and stir-fry until wilted. Finish with fresh lime juice (optional, but a good opportunity for extra tang and flavor, especially for those omitting the fish sauce!). Serve over steamed rice!"
+    }
+  ]
+}

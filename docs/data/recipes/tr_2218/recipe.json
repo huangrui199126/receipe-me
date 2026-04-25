@@ -1,0 +1,125 @@
+{
+  "id": "tr_2218",
+  "title": "Twice Cooked Pork",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/11/twice-cooked-pork-6-1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/twice-cooked-pork/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 35,
+  "tags": [
+    "twice cooked pork"
+  ],
+  "nutrition": {
+    "calories": 578,
+    "protein": 12.0,
+    "carbs": 8.0,
+    "fat": 67.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "pork belly ((450g, you HAVE to use pork belly, or it&#x27;s not twice cooked pork))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "spicy broad bean paste",
+      "emoji": "🫘",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  long hot green peppers ((seeds removed and cut into 1 1/2 inch pieces))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium leek ((split lengthwise, washed thoroughly, and cut in 2-inch pieces))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a medium pot, bring 2 quarts of water to a boil. Add the whole piece of pork belly and the ginger, and bring the pot to a boil again. Lower the heat and simmer for 30 minutes, until the pork is tender and cooked through. Remove the pork from the pot and run it under cold running water for about a minute. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "While the pork is cooling, prepare all the other ingredients. Once you are ready to cook (don't do this in advance, or the pork will dry out), thinly slice the pork belly (slices should be about 1/8 inch thick)."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat your wok over high heat until just starting to smoke. Add 1 tablespoon of oil and sear the pork, until you get a light caramelization, about 90 seconds. Turn the heat to medium-low and scoop out the pork. Add another tablespoon of oil to the wok."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the spicy broad bean paste to the wok and let it fry in the oil for about 30 seconds to bring out the flavor and color. The color should be red; pay attention to the heat to avoid burning."
+    },
+    {
+      "order": 5,
+      "instruction": "Now add the garlic and fry for 30 seconds. Turn the heat to high and add the pork, peppers, and leeks. Stir-fry for a minute. Add the shaoxing wine, soy sauce, and sugar. Stir everything together. Once the leeks and are wilted and the peppers are cooked (while still having a little crunch), it's ready to serve."
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "id": "tr_2313",
+  "title": "Chinese Spring Rolls",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/09/spring-rolls-8-1.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/homemade-spring-rolls/",
+  "servings": 18,
+  "prepTime": 60,
+  "cookTime": 10,
+  "tags": [
+    "spring rolls"
+  ],
+  "nutrition": {
+    "calories": 155,
+    "protein": 6.0,
+    "carbs": 19.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "finely shredded boneless pork ((pork butt, shoulder, or loin))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  dried shiitake mushrooms ((soaked until softened and thinly sliced))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium carrots ((julienned, about 1 cup))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "bamboo shoots ((julienned; fresh is preferred, but canned is fine too))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small napa cabbage ((julienned, about 6 cups))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "white pepper ((to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cornstarch ((dissolved in 2 tablespoons cold water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 package spring roll wrappers ((8&quot; squares; this recipe makes about 20 spring rolls))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch ((dissolved in 1 tablespoon boiling water for sealing the spring rolls))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Canola oil ((or peanut or vegetable oil, for frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "hot water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix the pork with the marinade ingredients and set aside for about 30 minutes. In the meantime, prepare the rest of the ingredients. Cut all of the vegetables to approximately the same size. You want everything the same size so each ingredient blends together."
+    },
+    {
+      "order": 2,
+      "instruction": "Brown the pork over high heat in 2 tablespoons of oil, and add the garlic, mushrooms and carrots. Stir fry for 30 seconds, and add the bamboo shoots, napa cabbage, and Shaoxing wine. Continue stir-frying for a minute. Adjust the heat to simmer the mixture, as the napa cabbage will release a lot of moisture."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir in the soy sauce, sesame oil, salt, white pepper, and sugar. At this time, you have the option of adding 1/4 cup of the decanted water from soaking the dried mushrooms. It strengthens the mushroom flavor, so this is purely according to your personal preference. You may also have to simmer the filling longer to reduce the additional liquid."
+    },
+    {
+      "order": 4,
+      "instruction": "Continue simmering the filling for another 3 minutes--until the napa cabbage is completely wilted--and stir in the corn starch slurry to thicken. How much slurry you add depends upon the wetness of the filling (this varies if your cabbage had more moisture or if you did add the optional mushroom water), but there should be no standing liquid at all."
+    },
+    {
+      "order": 5,
+      "instruction": "Transfer the filling to a large shallow bowl, and let cool. Place into the refrigerator to cool further—at least one hour. It’s best to start with a cold filling for easier wrapping. The key to wrapping spring rolls is making sure that they’re tight, yet not overstuffed. It's best to use fresh spring roll wrappers if you can, as freezing the wrappers can result in the spring roll skin being a bit too damp."
+    },
+    {
+      "order": 6,
+      "instruction": "Place the wrapper on a flat surface so that a corner is facing toward you. Use about two spoonfuls of the mixture per spring roll, and spoon it about 2 inches from the corner that is closest to you. Roll it over once, and, like you’re making a burrito, fold over both sides. Continue rolling it into a cigar shape. With your fingers, brush a bit of the cornstarch water onto the corner of the wrapper that is farthest from you to seal it."
+    },
+    {
+      "order": 7,
+      "instruction": "In case you’re wondering, we did try egg wash instead of the cornstarch mixture to seal the spring roll but the egg wash \"stains\" the spring roll, so it's best to use the cornstarch mixture."
+    },
+    {
+      "order": 8,
+      "instruction": "Place each roll on a tray. This recipe makes about 18-20 spring rolls. You can also freeze these spring rolls on the tray overnight, and transfer them to a zip-lock bag when they are completely frozen for future use. We usually fry some fresh and freeze the rest, unless we are hosting a party, in which case, these go like hot cakes!"
+    },
+    {
+      "order": 9,
+      "instruction": "To fry the spring rolls, fill a small pot (which requires less oil) with oil until it’s 2 to 3 inches deep. Heat the oil slowly over medium heat until it reaches 325 degrees. Gently add the spring rolls one at a time, frying in small batches. Carefully roll them in the oil so they cook evenly until golden brown and transfer them to a plate lined with paper towels."
+    },
+    {
+      "order": 10,
+      "instruction": "Prepare the dipping sauce by adding all ingredients to a small sauce pan. Mix and heat until just simmering and pour into a small bowl. Serve the spring rolls hot with the dipping sauce!"
+    }
+  ]
+}

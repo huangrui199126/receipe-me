@@ -1,0 +1,153 @@
+{
+  "id": "tr_2359",
+  "title": "Asian Chicken Salad with Lemon",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/07/Chinese-lemon-chicken-salad-5.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/asian-chicken-salad-lemon/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "chicken salad"
+  ],
+  "nutrition": {
+    "calories": 217,
+    "protein": 23.0,
+    "carbs": 4.0,
+    "fat": 12.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger ((about 1/8 inch thick x 2 inches wide, or 0.3cm x 5 cm))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "boneless skinless chicken thighs",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((minced, about 2 tablespoons))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  Thai bird chilies ((finely chopped, optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  lemon ((de-seeded and very thinly sliced))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a medium pot, bring 6 to 7 cups of water to a boil, along with 3 slices of ginger and 1 scallion."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the chicken thighs, and bring the water to a boil again. Immediately turn off the heat, cover tightly, and let the chicken sit in the pot for 12 to 15 minutes (depending on the size of your chicken thighs). The chicken is done when you poke the thickest part of the thigh with a chopstick and the juice runs clear."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, make the sauce. Heat the oil in a small saucepan over medium heat. Add the minced garlic, and cook for 15 seconds. Then add the Shaoxing wine, and bring the mixture to a simmer."
+    },
+    {
+      "order": 4,
+      "instruction": "When it starts to simmer, immediately turn off the heat. Stir in the light soy sauce, rice vinegar and oyster sauce."
+    },
+    {
+      "order": 5,
+      "instruction": "When the chicken is cooked through, transfer it to an ice bath to stop the cooking process. Use your hands to shred it into smaller bite-sized pieces, and transfer to a mixing bowl."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the sauce to the chicken, along with the chilies (if using), cilantro, and lemon slices. Toss well, and add salt to taste. Serve."
+    }
+  ]
+}

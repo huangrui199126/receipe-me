@@ -1,0 +1,113 @@
+{
+  "id": "tr_2461",
+  "title": "Pork Bone Congee Recipe",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/02/pork-bone-congee-5.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/moms-pork-bone-congee/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 300,
+  "tags": [
+    "pork bone congee"
+  ],
+  "nutrition": {
+    "calories": 58,
+    "protein": 1.0,
+    "carbs": 12.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "pounds",
+      "name": "pork back bones ((cut into 2-inch pieces, washed, and drained))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4½ quarts water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "pieces",
+      "name": "dried squid or 2 pieces dried conch or 3 large dried scallops) ((smashed into small pieces, optional))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "uncooked rice ((soaked in water for 30 minutes))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh ground black or white pepper ((to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rub the pork bones in 1 tablespoon of salt and marinate for at least 6 hours, ideally overnight, in the refrigerator."
+    },
+    {
+      "order": 2,
+      "instruction": "Put the marinated pork bones in a large pot with 4½ quarts of water, and bring to a boil. Boil for 5 minutes. Skim off any foam with a spoon or a fine-meshed strainer, and discard."
+    },
+    {
+      "order": 3,
+      "instruction": "Next add the dried squid/conch/dried scallops (if using), cover the pot loosely, and turn the heat down to a simmer. Let the soup simmer for 4 hours."
+    },
+    {
+      "order": 4,
+      "instruction": "Taste the soup and re-season with salt if needed. Add the soaked rice and simmer for another hour. If you decide to use Judy’s method for 20-minute Congee, then all you need is an additional 30 minutes after adding the grains!"
+    },
+    {
+      "order": 5,
+      "instruction": "One point I’d like to make here is that the texture and consistency of congee is a very personal thing. Some like their congee cooked like a gruel, where you can’t see any signs of individual rice granules at all. Others prefer the rice granules cooked until they just open up or “blossom like a flower,” to use the literal translation of a Chinese expression. Finally, some prefer it thick and others prefer it thin. This recipe yields a thick congee, where the rice is cooked until it blossoms like a flower. But once you’re familiar with this congee recipe, feel free to adjust the amount of water and/or rice according to your own preferences!"
+    },
+    {
+      "order": 6,
+      "instruction": "At this point, give your congee another taste, and add additional salt to taste. Ladle the congee into small bowls, and serve with chopped scallion, cilantro, and pepper."
+    }
+  ]
+}

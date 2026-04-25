@@ -1,0 +1,125 @@
+{
+  "id": "tr_2214",
+  "title": "15-Minute Hot Oil Noodles (You Po Mian)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/12/hot-oil-noodles-7-1.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/hot-oil-noodles-you-po-mian/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "hot oil noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 oz. dried wheat noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "a handful of leafy greens ((choy sum, spinach, or baby bok choy))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crushed red pepper flakes ((to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped scallion",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Boil the noodles according to package directions until al dente. In the same pot, blanch the leafy greens until cooked through. Drain."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the cooked noodles and greens to a heatproof bowl, along with the light soy sauce, dark soy sauce, vinegar, crushed red pepper flakes, salt, scallion, cilantro, and minced garlic."
+    },
+    {
+      "order": 3,
+      "instruction": "In a small pot, heat the oil until shimmering. Carefully pour the hot oil over the bowl of noodles, and mix everything together. Serve!"
+    }
+  ]
+}

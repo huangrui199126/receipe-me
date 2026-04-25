@@ -1,0 +1,193 @@
+{
+  "id": "tr_2255",
+  "title": "Fish with Spicy Bean Sauce (Douban Yu)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/02/DSC_0112-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/fish-w-spicy-bean-sauce-douban-yu/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [
+    "douban yu"
+  ],
+  "nutrition": {
+    "calories": 159,
+    "protein": 17.0,
+    "carbs": 7.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large fish filet ((tilapia or flounder, about 1 pound/450g))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "shiitake mushrooms ((finely chopped))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "carrot ((finely chopped))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "red pepper ((finely chopped))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "onion ((finely chopped))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "ground pork ((optional))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "spicy bean sauce ((doubanjiang))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "Ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Steam the fish, drain and put on plate. See this Cantonese Steamed Fish recipe for more details on how to cook your fish."
+    },
+    {
+      "order": 2,
+      "instruction": "While the fish is steaming, prep the vegetables and have your pork ready for cooking. Mix 1 tablespoon water and cornstarch into a slurry mixture and set aside. Measure out shaoxing wine, bean sauce, hoisin sauce, sesame oil, sugar, and white pepper in a small bowl and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat wok to high and add 1 tablespoon of oil, garlic and onion. Stir for a minute and quickly add the rest of the vegetables and pork. Stir-fry for another minute. Add your prepared sauce and stir. Add your water and bring to a simmer."
+    },
+    {
+      "order": 4,
+      "instruction": "Thicken the mixture with the cornstarch slurry until is coats a spoon. Add more water if it's too thick or more slurry if it's too thin. Stir in a teaspoon of oil to finish the sauce and pour the sauce over the steamed fish. Garnish with cilantro and scallion and serve immediately."
+    }
+  ]
+}

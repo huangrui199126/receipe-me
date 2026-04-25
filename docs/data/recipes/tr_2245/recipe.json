@@ -1,0 +1,101 @@
+{
+  "id": "tr_2245",
+  "title": "Fast Dubu Kimchi (Tofu w/ Stir-fried Kimchi & Pork)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/05/dubu-kimchi-recipe-14-1.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/fast-dubu-kimchi-tofu-w-stir-fried-kimchi-pork/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "dubu kimchi"
+  ],
+  "nutrition": {
+    "calories": 404,
+    "protein": 12.0,
+    "carbs": 13.0,
+    "fat": 34.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "pork belly ((sliced))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion ((sliced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((sliced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "kimchi",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "rice cakes ((if frozen, rinse them in lukewarm water to defrost))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Gochujang ((Korean red pepper paste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "soft tofu ((not “firm” and not “silken.” I know, tofu’s a mystical world of ambiguity).)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat your wok or pan over high heat. Brown the pork belly—no oil needed! Add the onions. Once they start to turn a little bit translucent, add the kimchi—juice and all! Stir everything to combine. Then add your rice cakes. If yours were frozen, rinse them first to break them up and soften them a bit."
+    },
+    {
+      "order": 2,
+      "instruction": "Make a little well in the pan, and then take two heaping tablespoons of the gochujang and plop it in the center. Use your spatula to “cook” the paste and let it dissolve into the sauce. Then stir-fry everything until well combined."
+    },
+    {
+      "order": 3,
+      "instruction": "Fill the kimchi jar with about a cup of water. Put the lid on, shake it around to pick up any peppery goodness that might have been left behind, and add it to the pan. If you find that the rice cakes are sticking to the pan, then you can add the water sooner rather than later."
+    },
+    {
+      "order": 4,
+      "instruction": "Lower the heat to medium-high heat and cover for 5 minutes. This is to ensure that the rice cakes cook through. While that’s happening, slice your tofu block in half lengthwise, and then slice each half into half inch slices."
+    },
+    {
+      "order": 5,
+      "instruction": "Finish everything off with a final stir and sprinkle with the sliced scallions. Serve with the rice and fan out the raw tofu slices."
+    }
+  ]
+}

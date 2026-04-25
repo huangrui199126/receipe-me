@@ -1,0 +1,131 @@
+{
+  "id": "tr_2391",
+  "title": "Hot Pot Sauce Noodles",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/06/hot-pot-noodles-10.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/hot-pot-sauce-noodles/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 620,
+    "protein": 19.0,
+    "carbs": 50.0,
+    "fat": 50.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame paste",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Peanut butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sacha sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chinese vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chili oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Raw garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped scallions",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A handful of leafy greens ((like bok choy, choy sum, spinach, or chinese broccoli))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 serving of noodles ((dried or fresh))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by mixing up your sauce in a serving bowl. You can use any combination of sesame paste, soy sauce, sacha sauce, chinese vinegar, chili oil, garlic, scallions, cilantro, or any other ingredients you like. The ones I’ve listed here are only a suggested guideline, but if you have a favorite chili sauce or other condiment that you’d like to add, feel free!"
+    },
+    {
+      "order": 2,
+      "instruction": "Bring a pot of water to a boil. Add the oil to the pot, and blanch your leafy greens for 30 seconds to a minute, depending on how tender they are."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove the veggies from the water and transfer to your bowl. Then boil the noodles according to the package instructions and add to the bowl. Toss everything together, and enjoy!"
+    }
+  ]
+}

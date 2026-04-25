@@ -1,0 +1,105 @@
+{
+  "id": "tr_2308",
+  "title": "Instant Pot Red Braised Pork Buns",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/08/braised-pork-buns-4.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/braised-pork-buns-instant-pot/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 40,
+  "tags": [
+    "braised pork buns"
+  ],
+  "nutrition": {
+    "calories": 252,
+    "protein": 17.0,
+    "carbs": 21.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "pounds",
+      "name": "pork shoulder ((cut into 2-inch pieces))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  recipe Steamed Lotus Leaf Buns",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the Instant Pot on the sauté setting. Add 2 tablespoons oil and 3 tablespoons sugar to the pot. Melt the sugar until you get a paste. Add the pork and cook until lightly browned."
+    },
+    {
+      "order": 2,
+      "instruction": "Add ½ cup Shaoxing wine, ¼ cup light soy sauce, 2 tablespoons dark soy sauce, and 1 cup of water. Stir to combine and close the Instant Pot. Set the vent so it’s not venting. Now, set the Instant Pot to the meat/stew setting on high pressure for 20 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "When the cooking time has elapsed, release pressure either by quick release or natural release. Open the Instant Pot to reduce the sauce: turn it on to the sauté setting while it’s open, and let the sauce simmer until it’s thick and sticky and coats the pork."
+    },
+    {
+      "order": 4,
+      "instruction": "Now you’re ready to assemble the pork buns. Grab one of your steamed lotus leaf buns, and load it up with pork and plenty of sauce. Top with sliced cucumber, and maybe a few chili slices if you’re feeling adventurous. Fold over the steamed bun to make a sandwich, and serve."
+    }
+  ]
+}

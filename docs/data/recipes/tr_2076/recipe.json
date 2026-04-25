@@ -1,0 +1,153 @@
+{
+  "id": "tr_2076",
+  "title": "Spicy Stir-fried Rice Cakes",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/03/spicy-stir-fried-rice-cakes-2-1.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/spicy-stir-fried-rice-cakes/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "spicy rice cakes"
+  ],
+  "nutrition": {
+    "calories": 459,
+    "protein": 7.0,
+    "carbs": 44.0,
+    "fat": 28.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. pork belly ((thinly sliced))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((thinly sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion ((cut into small wedges))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  jalapeno peppers ((de-seeded and thinly sliced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  Thai red bird chilies ((sliced, optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((cut into 2 inch lengths))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "rice cakes",
+      "emoji": "🍚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorn powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "spicy bean paste",
+      "emoji": "🫘",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat 1 tablespoon oil in a wok over high heat. Add the pork belly and sear, not stirring. Once browned and caramelized on one side, stir-fry until the pork belly is opaque. Remove from the wok and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Lower the heat to medium, and add an additional 2 tablespoons of oil to the wok. Add the ginger. Let the ginger infuse the oil for 1 minute. Add the garlic, and cook for another 30 seconds."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn the heat back up to high, and add the onions, jalapenos, red chilies, and the white parts of the scallions. Cook for another minute, and then add the rice cakes and Shaoxing wine. Mix well, scooping up from the bottom of the wok for 30 seconds. Turn the heat down to medium low, and cover for one minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove cover, and add the pork belly back to the wok, along with the soy sauce, sugar, Sichuan peppercorn powder, and spicy bean paste. Stir-fry until the rice cakes are cooked through but still chewy. Stir in the green parts of the scallions until wilted, and serve."
+    }
+  ]
+}

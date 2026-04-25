@@ -1,0 +1,201 @@
+{
+  "id": "tr_2367",
+  "title": "Suan La Fen",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/06/suan-la-fen-14.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/suan-la-fen-hot-sour-sweet-potato-glass-noodle-soup/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "suan la fen"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "roasted soybeans ((or roasted peanuts))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "dried sweet potato noodles ((100g = 3.5 oz.))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "low sodium stock ((chicken, pork, or vegetable stock))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "slice",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Sichuan chili flakes ((or to taste; can substitute regular pepper flakes))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Chinese black vinegar ((or to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce ((or to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorn powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "chili oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "pickled mustard stems ((za cai; or any pickled vegetable you have on hand))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cilantro  ((chopped; or to taste))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "You can use store-bought roasted soybeans or peanuts, but if using dried soybeans like I did, soak them for at least 3 hours and drain thoroughly. Over low heat, add a few tablespoons of vegetable oil, and wok-fry the soaked soybeans for at least 15 minutes, until fragrant and nutty. Remove from the wok and set aside to cool completely (leave any remaining oil in the wok behind to cook the rest of the dish). If wok-frying peanuts, follow these instructions for traditional Wok Roasted Peanuts."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring a pot of water to a boil, and cook the noodles according to package instructions. Some brands may require you to soak the noodles overnight, but you can simply boil them until relatively tender (they’ll still be chewy). Once cooked, drain and rinse in cold running water. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat your stock in a separate pot. Keep it at a low simmer. If you don’t have stock, you can use hot boiling water."
+    },
+    {
+      "order": 4,
+      "instruction": "To the bottom of your noodle bowl, add the ginger, garlic, sesame seeds, and pepper flakes. Heat 3 tablespoons oil until it’s shimmering and smoking lightly, and pour over the ingredients in the soup bowl. They’ll sizzle and become fragrant!"
+    },
+    {
+      "order": 5,
+      "instruction": "Stir the sizzling ingredients, and add the vinegar, soy sauces, sugar, Sichuan peppercorn powder, white pepper, sesame oil, and chili oil."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour the hot stock into the bowl, and mix well. Add the cooked noodles, and top with the pickled mustard stems, scallions, cilantro, and roasted soybeans/peanuts. Taste for seasoning and adjust if needed. Serve!"
+    }
+  ]
+}

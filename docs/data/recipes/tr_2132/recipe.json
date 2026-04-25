@@ -1,0 +1,277 @@
+{
+  "id": "tr_2132",
+  "title": "Polynesian Chicken",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/11/polynesian-chicken-8-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/polynesian-chicken/",
+  "servings": 4,
+  "prepTime": 45,
+  "cookTime": 15,
+  "tags": [
+    "polynesian chicken"
+  ],
+  "nutrition": {
+    "calories": 249,
+    "protein": 16.0,
+    "carbs": 16.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "boneless skinless chicken breast",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "all purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "⅛",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "⅛",
+      "unit": "teaspoon",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "⅛",
+      "unit": "teaspoon",
+      "name": "turmeric",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "cold club soda ((or beer))",
+      "emoji": "🍺",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "canola oil for frying",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "button or cremini mushrooms ((sliced))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "bamboo shoots ((julienned))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "red bell pepper ((julienned))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "napa cabbage ((shredded))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Freshly ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "snow peas ((ends trimmed and cut in half lengthwise))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "¾",
+      "unit": "cup",
+      "name": "hot chicken stock or water",
+      "emoji": "🍗",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch ((mixed with 1 tablespoon water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 27
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Carefully split the chicken breast into two thinner pieces that are roughly the same size. Sprinkle the salt, white pepper, onion powder, and garlic powder on both sides of the chicken breast, and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Make the batter by mixing all of the batter ingredients in a bowl until combined. Do not overmix! Meanwhile, heat 4 cups of canola oil in a small wok or cast-iron frying pan until it reaches 350 degrees F. Use a candy thermometer to check the temperature, because you don’t want to burn the batter before the chicken is cooked."
+    },
+    {
+      "order": 3,
+      "instruction": "Dip both of the chicken breasts into the batter and fry until golden brown (about 2-3 minutes on each side), turning the chicken pieces often in the oil. Set the fried chicken aside on a wire rack to drain off any excess oil."
+    },
+    {
+      "order": 4,
+      "instruction": "If you are unsure whether or not the chicken is done, you can cut into one of the pieces to make sure the juices are no longer pink. However, the chicken is cut thin, so it’s relatively easy to cook it until it’s just done. This is important for achieving a tasty chicken dish."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat your wok over high heat, and add 1 tablespoon of the frying oil to your wok. Add the garlic, mushrooms, bamboo shoots, and red bell peppers, and stir-fry for 30 seconds. Add in the Shaoxing wine, followed by the napa cabbage. Continue to stir-fry for 30 seconds, and stir in the soy sauces, salt, sugar, sesame oil, oyster sauce, and white pepper."
+    },
+    {
+      "order": 6,
+      "instruction": "Next, add the snow peas and give everything a quick stir. Add the hot chicken stock. Let the sauce come to a boil, and add the cornstarch/water mixture. Stir-fry for another 30 seconds until the sauce has thickened enough to coat a spoon."
+    },
+    {
+      "order": 7,
+      "instruction": "Transfer the vegetable mixture to a plate. Slice the chicken into 1½-inch wide pieces, and place on top of the bed of vegetables. Serve immediately with white rice!"
+    }
+  ]
+}

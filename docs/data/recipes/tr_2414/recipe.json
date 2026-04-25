@@ -1,0 +1,158 @@
+{
+  "id": "tr_2414",
+  "title": "Chinese Fried Ribs with Fermented Red Bean Curd",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/12/chinese-fried-spareribs-10.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/fried-chinese-spareribs/",
+  "servings": 8,
+  "prepTime": 135,
+  "cookTime": 20,
+  "tags": [
+    "chinese spareribs",
+    "fried ribs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 13.0,
+    "carbs": 6.0,
+    "fat": 26.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "pork ribs ((either baby back pork ribs cut in half or country ribs cut into 1- to 2-inch nuggets))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 large piece red fermented bean curd ((about 1 tablespoon, .85 ounces or 25g, along with 1 teaspoon of the sauce from the jar))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "maple syrup ((can substitute honey or 2 teaspoons sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cornstarch ((or potato starch, 30g))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "canola oil ((or peanut oil, for frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place your pork rib pieces into a large bowl. Add the red fermented bean curd, white pepper, sesame oil, five spice powder, Shaoxing wine, soy sauce, maple syrup, garlic powder, onion powder, and baking soda—everything except the cornstarch and frying oil."
+    },
+    {
+      "order": 2,
+      "instruction": "Using your hands, work the mixture into the pork ribs until they are well coated. Marinate anywhere from 2 hours to overnight."
+    },
+    {
+      "order": 3,
+      "instruction": "If you refrigerate the pork ribs overnight, let them come up to room temperature before cooking. When you’re ready to fry, pour 3 or more cups of peanut or vegetable oil into a small to medium pot—enough so you have 2-3 inches of oil. Heat your frying oil to 300 degrees F/150 degrees C. It’s best to use a kitchen thermometer to monitor the oil temperature before and during the frying process."
+    },
+    {
+      "order": 4,
+      "instruction": "When the marinated ribs are at room temperature and while your oil is heating, toss the ribs once more to redistribute the marinade, as there may be liquid that has pooled. Make sure everything is well-combined. Next, add the cornstarch to the ribs and mix until a paste forms that evenly coats the ribs."
+    },
+    {
+      "order": 5,
+      "instruction": "When the oil reaches frying temperature—either via your thermometer, or when a rib dipped in the oil sizzles strongly—deep fry the pork ribs in small batches, about 4-6 pieces at a time. Use a slotted spoon to separate them as soon as you place them in the oil to avoid sticking and ensure even cooking."
+    },
+    {
+      "order": 6,
+      "instruction": "Turn up the heat once you drop in the ribs, as the oil will cool. As you fry, continue to adjust the heat lower or higher as needed to maintain temperature. The pork ribs should fry fairly quickly, about 5-7 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "When they’re cooked, they’ll be a light maroon color and should be crisp all around. Transfer to a paper towel using a slotted spoon. When all the ribs are fried, serve!"
+    }
+  ]
+}

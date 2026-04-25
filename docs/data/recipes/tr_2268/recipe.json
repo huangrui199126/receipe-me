@@ -1,0 +1,161 @@
+{
+  "id": "tr_2268",
+  "title": "Jen's Tofu Stir-fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/09/DSC_0211-1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/jens-tofu-stir-fry/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "tofu stir-fry"
+  ],
+  "nutrition": {
+    "calories": 318,
+    "protein": 22.0,
+    "carbs": 8.0,
+    "fat": 21.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "lean pork ((thinly sliced))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "spiced tofu ((thinly sliced))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "long hot green peppers or bell peppers ((thinly sliced; use the long hot green pepper if you can take the heat))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "celery ((thinly sliced))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the marinade ingredients with the pork and allow to sit for 15 minutes while you prep the other ingredients. Slice the tofu, peppers, and celery."
+    },
+    {
+      "order": 2,
+      "instruction": "In the wok, heat 1 tablespoon oil over high heat. Stir-fry the spiced tofu for a couple minutes until browned slightly. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat another tablespoon of oil and stir fry the peppers for about a minute. Dish out and set aside. Do the same with the celery."
+    },
+    {
+      "order": 4,
+      "instruction": "Add another tablespoon of oil to the wok, keeping it over high heat. Stir-fry the marinated pork until brown. Then add in cooked tofu, peppers, and celery. Immediately add salt to taste, 1 teaspoon of sesame oil, 2 tablespoon of Shaoxing wine, white pepper, and a teaspoon of light soy sauce. Stir-fry everything together for another couple minutes until combined. Plate and serve with rice!"
+    }
+  ]
+}

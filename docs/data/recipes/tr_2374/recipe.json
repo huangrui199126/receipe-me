@@ -1,0 +1,165 @@
+{
+  "id": "tr_2374",
+  "title": "Flower Hot Dog Buns",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/10/Chinese-flower-hot-dog-buns-12.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/flower-hot-dog-buns/",
+  "servings": 16,
+  "prepTime": 180,
+  "cookTime": 20,
+  "tags": [
+    "flower hot dog buns"
+  ],
+  "nutrition": {
+    "calories": 295,
+    "protein": 9.0,
+    "carbs": 38.0,
+    "fat": 12.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "heavy cream ((at room temperature))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk ((at room temperature))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg ((at room temperature))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "all purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "active dry yeast",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "16  hot dogs",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "egg wash ((1 egg beaten with 1 tablespoon/15 ml of water))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "simple syrup ((1 tablespoon/12g sugar dissolved in 1 tablespoon/15ml of hot water))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In the bowl of a stand mixer fitted with the dough hook attachment, add the room temperature heavy cream, milk, egg, sugar, flour, yeast, and salt (in that order)."
+    },
+    {
+      "order": 2,
+      "instruction": "Turn on the mixer to “stir.” Let it go for 15 minutes. You may want to stop the mixer once to push the dough together, though this isn&#39;t always necessary. The dough should stick to the bottom of the bowl, but not the sides. (Alternatively, you can knead the dough by hand. Just keep your hands lightly floured, but avoid adding too much additional flour to the dough, or it may become dense. The high amount of fat in the dough from the heavy cream should prevent it from sticking too badly to your hands.)"
+    },
+    {
+      "order": 3,
+      "instruction": "Cover the bowl with an overturned plate or kitchen towel. Place it in a warm spot for 60-90 minutes, or until almost doubled in size."
+    },
+    {
+      "order": 4,
+      "instruction": "After the hour of proofing, put the dough back in the mixer and stir for another 5 minutes to remove air bubbles. Turn the dough out on a lightly floured surface and cut it into 16 equal pieces."
+    },
+    {
+      "order": 5,
+      "instruction": "Roll each piece of dough into an oval that&#39;s about 4 inches wide and the same length as your hot dogs. Place the hot dog on one end of the dough, and roll it tightly in the dough."
+    },
+    {
+      "order": 6,
+      "instruction": "Use a metal bench scraper or knife to cut 6 slits crosswise into the dough/hot dog (creating 7 equal sections), without cutting all the way through."
+    },
+    {
+      "order": 7,
+      "instruction": "Then lay the hot dogs cut side up, and arrange the pieces alternately on either side of the central uncut part of the dough, or arrange the pieces in a flower shape."
+    },
+    {
+      "order": 8,
+      "instruction": "Cover the baking sheet with a kitchen towel and allow the buns to rise in a warm place for another 1 hour."
+    },
+    {
+      "order": 9,
+      "instruction": "When the buns are almost done proofing, preheat the oven to 350°F/175°C."
+    },
+    {
+      "order": 10,
+      "instruction": "Mix your egg wash together by beating with 1 egg with 1 tablespoon of water. Add the scallions to your egg wash. (Submerging the scallions this way will ensure that they stick to the buns.)"
+    },
+    {
+      "order": 11,
+      "instruction": "Use a pastry brush to lightly brush the buns with egg (brush only the dough, and not the hot dog pieces). Make sure to also get the scallions evenly onto the bun. Use the brush to gently spread out any pooling egg wash in the crevices of the buns."
+    },
+    {
+      "order": 12,
+      "instruction": "Bake the buns for 18-20 minutes, rotating the pans halfway through baking."
+    },
+    {
+      "order": 13,
+      "instruction": "Remove from the oven and immediately brush the buns with the simple syrup. This last step gives them that signature Chinese bakery shine."
+    }
+  ]
+}

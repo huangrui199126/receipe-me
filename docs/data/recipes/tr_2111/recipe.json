@@ -1,0 +1,177 @@
+{
+  "id": "tr_2111",
+  "title": "Kung Pao Mushrooms (Vegan!)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/04/kung-pao-mushrooms-3-1.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/kung-pao-mushrooms-vegan/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [
+    "kung pao mushrooms"
+  ],
+  "nutrition": {
+    "calories": 293,
+    "protein": 12.0,
+    "carbs": 18.0,
+    "fat": 22.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "¾",
+      "unit": "cup",
+      "name": "peanuts ((shelled and peeled, or already dry roasted))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "king oyster mushrooms ((about 3-4 mushrooms, diced into small pieces))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((smashed and chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  scallions ((white parts only, diced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  dried chili peppers ((de-seeded and cut into segments))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "diced red bell pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To save time, use plain roasted peanuts (shelled and peeled). If you want to use fresh peanuts that have not yet been roasted, add them to a wok with 1 teaspoon of oil over medium heat, and toast them for about 10 minutes. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare the sauce by mixing together the light soy sauce, dark soy sauce, sugar, rice vinegar, ¼ cup water, and cornstarch."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 1 tablespoon of oil in a wok over medium heat, Add the king mushrooms, and cook until they’re caramelized and any liquid has cooked off. Don’t stir them too much, or the mushrooms won’t caramelize! Transfer to a dish and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Now heat another tablespoon of oil in the wok over medium heat. Add the ginger, garlic, scallions, Sichuan peppercorns, and dried chilis. Cook for about 1 minute, and take care not to burn the spices."
+    },
+    {
+      "order": 5,
+      "instruction": "Now add the red bell peppers and the cooked king mushrooms. Turn up the heat, and stir to mix everything together. Add the prepared sauce (stir it again before adding it to the wok, as the cornstarch will have settled to the bottom of the bowl)."
+    },
+    {
+      "order": 6,
+      "instruction": "Stir everything together quickly. Finally, add the roasted peanuts and sesame oil. Mix one more time to make sure everything is coated with sauce, and transfer to a serving dish."
+    }
+  ]
+}

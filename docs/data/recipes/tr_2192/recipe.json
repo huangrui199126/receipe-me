@@ -1,0 +1,137 @@
+{
+  "id": "tr_2192",
+  "title": "Chinese Ribs w/ a Sesame Crust",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/04/chinese-ribs-7-1.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-ribs-w-a-sesame-crust/",
+  "servings": 4,
+  "prepTime": 720,
+  "cookTime": 55,
+  "tags": [
+    "chinese ribs"
+  ],
+  "nutrition": {
+    "calories": 311,
+    "protein": 23.0,
+    "carbs": 9.0,
+    "fat": 20.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large piece fermented red bean curd ((about 1 tablespoon))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "Chinese five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 ½",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "baby back ribs ((cut into individual pieces; about 8-10 ribs))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "panko breadcrumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "coarse sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cilantro or chopped scallions for garnish ((Optional. There&#x27;s no obligation to get fancy.))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large bowl, mix the fermented bean paste, Shaoxing wine, white pepper, five spice powder, garlic powder, sugar, and soy sauce until combined. Toss in the ribs until they're well coated and refrigerate overnight (if you're scrambling for time, 2 hours will also suffice)."
+    },
+    {
+      "order": 2,
+      "instruction": "When you're ready to cook the ribs, preheat oven to 400 degrees F, and line a sheet pan with heavy duty foil for easy clean-up. Give the ribs another toss in the marinade."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix the panko, sesame seeds, and salt in separate bowl. Lightly dredge each rib in the panko mixture and place on the sheet pan. Sprinkle any of the remaining panko mixture on top of the ribs."
+    },
+    {
+      "order": 4,
+      "instruction": "Place the ribs in the middle of the oven, close the oven door, and immediately reduce the temperature to 325 degrees F. Bake for 25 minutes. Flip each rib and lightly cover them with a sheet of foil. Bake for another 30 minutes and serve, garnished with cilantro or scallions if desired."
+    }
+  ]
+}

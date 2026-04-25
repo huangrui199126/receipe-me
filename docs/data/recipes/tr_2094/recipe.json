@@ -1,0 +1,181 @@
+{
+  "id": "tr_2094",
+  "title": "Shredded Pork with Bean Curd (香干肉丝)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/10/spiced-tofu-stir-fry-12-1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/five-spice-tofu-pork/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 5,
+  "tags": [
+    "shredded pork bean curd"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 19.0,
+    "carbs": 7.0,
+    "fat": 16.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "boneless pork shoulder or loin ((225g, cut into thin strips about 1½-inches long))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1½",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "⅛",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium carrot ((julienned))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "red bell pepper ((julienned))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "spiced bean curd ((225g, julienned))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((cut into large pieces))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the pork with all of the marinade ingredients (cornstarch, water, sugar, Shaoxing wine and light soy sauce) and let stand for 15 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat the wok over high heat until it just starts to smoke. Add 2 tablespoons of oil, and stir-fry the pork until it just turns opaque (i.e. only until it looks cooked––no need to brown it any longer than that). Turn off the heat, remove the pork from the wok, and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Next, add 1 tablespoon oil to the wok set over medium heat. Add the ginger and garlic, and cook for 30 seconds, until fragrant. Then add the carrots, bell peppers, and five spice tofu. Turn the heat up to high, and stir fry for 1 minute. Next, add the cooked pork, scallions, dark soy sauce, sugar, sesame oil, and 1 tablespoon water. Stir and mix everything well. Salt to taste, and serve."
+    }
+  ]
+}

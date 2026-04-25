@@ -1,0 +1,81 @@
+{
+  "id": "tr_2203",
+  "title": "Pea Tips Stir-fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/02/pea-tips-7-1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pea-tips-stir-fry/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "pea tips"
+  ],
+  "nutrition": {
+    "calories": 129,
+    "protein": 3.0,
+    "carbs": 5.0,
+    "fat": 12.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "snow pea leaves ((450g, picked, thoroughly washed clean))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-4 tablespoons vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-5 cloves garlic ((finely chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Make sure your pea leaves are thoroughly washed and picked through for tough stems. Heat the oil in a large wok over high heat. Add the garlic and stir for a couple of seconds before adding the veggies."
+    },
+    {
+      "order": 2,
+      "instruction": "Stir-fry for 20 seconds, keeping the vegetables constantly moving. Add the salt, white pepper, and sesame oil. Continue stir-frying until the vegetables are completely wilted but still vibrant green. Serve."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "tr_2507",
+  "title": "Egg Foo Young Gravy",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/11/shrimp-egg-foo-young-24.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/egg-foo-young-gravy/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "egg foo young gravy"
+  ],
+  "nutrition": {
+    "calories": 144,
+    "protein": 5.0,
+    "carbs": 13.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "neutral oil ((such as vegetable or peanut oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "turmeric",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 small clove garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "shallot ((or red onion, minced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3 1/4",
+      "unit": "cups",
+      "name": "low-sodium chicken stock ((divided))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper ((or to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a wok, medium pot, or saucepan, heat the oil over medium heat. Whisking constantly, make a roux by adding the flour, turmeric, and paprika. Continue whisking for 15-20 seconds, then add the garlic and shallot."
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk for another 30 seconds. Next, whisk in 3 cups of the chicken stock. Bring the mixture to a simmer. Add the oyster sauce, light soy sauce, dark soy sauce, sesame oil, and white pepper to taste."
+    },
+    {
+      "order": 3,
+      "instruction": "Combine the cornstarch with the remaining ¼ cup of chicken stock (or use water) to make a slurry. Slowly stir in two-thirds of the mixture."
+    },
+    {
+      "order": 4,
+      "instruction": "Let the gravy cook and continue to thicken for 30 seconds. Add more of the cornstarch slurry if needed. The gravy should be thick enough to coat a spoon. Taste and adjust seasoning with additional salt or soy sauce according to your preferences. Serve!"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "tr_2069",
+  "title": "Weeknight \"Slop\" (Rice with Spicy Bamboo Shoots, Eggs, &amp; Avocado)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/05/chili-bamboo-shoots-12.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/weeknight-recipe-rice-avocado-eggs/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 622,
+    "protein": 16.0,
+    "carbs": 78.0,
+    "fat": 28.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "cooked rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  fried egg ((to your liking))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  avocado",
+      "emoji": "🥑",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A wad of preserved chili bamboo shoots ((you heard me))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A dollop of chili oil ((or chiu chow oil, to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A drizzle of soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A pinch of ground white pepper ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Make the rice. Put it in a bowl. One that is easily held while sitting in front of the TV or huddled over your computer."
+    },
+    {
+      "order": 2,
+      "instruction": "Fry the egg--to your liking! Scrambled or hard-boiled will do just fine too."
+    },
+    {
+      "order": 3,
+      "instruction": "While the egg is cooking, grab the avocado. Halve it, seed it, and cut it up. Or just scoop it out over the rice."
+    },
+    {
+      "order": 4,
+      "instruction": "Add your preferred concentration of chili bamboo shoots."
+    },
+    {
+      "order": 5,
+      "instruction": "Fetch your preferred spicy chili oil or chiu chow oil from the fridge. Add in a scoop of that to taste."
+    },
+    {
+      "order": 6,
+      "instruction": "Drizzle the soy sauce over the whole thing. Add a pinch of white pepper."
+    },
+    {
+      "order": 7,
+      "instruction": "Mix and enjoy!"
+    }
+  ]
+}

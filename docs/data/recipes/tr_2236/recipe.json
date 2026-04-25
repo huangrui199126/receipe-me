@@ -1,0 +1,173 @@
+{
+  "id": "tr_2236",
+  "title": "Beef and Kimchi Fried Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/07/beef-kimchi-fried-rice-12-1.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/beef-kimchi-fried-rice/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "kimchi fried rice"
+  ],
+  "nutrition": {
+    "calories": 518,
+    "protein": 26.0,
+    "carbs": 51.0,
+    "fat": 19.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "thinly sliced beef",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion ((finely chopped))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red bell pepper ((chopped; you can also use a red long hot pepper if you like heat))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "kimchi ((coarsely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "cooked white rice ((or brown rice))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Korean chili flakes ((to taste; optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a bowl, mix together the beef and marinade ingredients and set aside for at least 15 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Right before you’re ready to make your rice, cook the eggs sunny-side up in a pan, and keep them warm while you’re making the rice. Make sure the yolks stay runny!"
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 2 tablespoons oil in a wok over high heat. Once the wok starts to smoke, sear the beef and then set it aside on a plate."
+    },
+    {
+      "order": 4,
+      "instruction": "Add another tablespoon of oil to the wok and cook the onion until it’s translucent. Add the peppers and cook for another minute, and then add the kimchi. Stir everything together well, and add the rice, stirring constantly."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the cooked beef back to the wok, along with salt to taste, sesame oil, scallions and a pinch of chili flakes for extra heat. Thoroughly mix everything together and serve with your eggs."
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "tr_2426",
+  "title": "Shrimp with Black Bean Sauce",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/11/shrimp-black-bean-sauce-15.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shrimp-black-bean-sauce/",
+  "servings": 2,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "shrimp with black bean sauce"
+  ],
+  "nutrition": {
+    "calories": 308,
+    "protein": 20.0,
+    "carbs": 17.0,
+    "fat": 17.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "low sodium chicken stock ((heated until hot))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "fermented black beans",
+      "emoji": "🫘",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "ground pork",
+      "emoji": "🥩",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "green bell pepper ((finely diced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "peeled, deveined shrimp ((21/25 size))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tablespoons",
+      "name": "cornstarch ((mixed into a slurry with 2 tablespoons water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg ((lightly beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring 2 to 3 cups of water to a boil in your wok. Meanwhile, in a medium bowl or liquid measuring cup, combine the chicken stock, oyster sauce, dark soy sauce, sesame oil, sugar, and white pepper. Place the fermented black beans in a strainer, and give them a quick rinse under running water. Set the sauce and fermented beans aside."
+    },
+    {
+      "order": 2,
+      "instruction": "When your water has come to a boil, stir in the ground pork, breaking up any clumps and cook for about 1 minute, until the pork is no longer pink. Remove from the wok using a fine mesh strainer, and set aside. (You can also give it a quick rinse to get rid of any foam or particles that could result in a cloudy sauce.)"
+    },
+    {
+      "order": 3,
+      "instruction": "Clean and dry your wok, and place it over medium high heat. Add the oil, garlic, ginger, bell pepper, fermented black beans, and ground pork. Stir-fry for 20 seconds. Then add the shrimp, and pour the Shaoxing wine around the hot sides of the wok. Stir-fry for another 20 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir the sauce mixture to make sure everything is well-incorporated, and add it to the wok. Bring to a simmer, and then gradually stir in the cornstarch slurry until thickened to your liking (you don’t have to use it all). If it gets too thick, just add a little more chicken stock or water. If it’s still too thin, add more slurry."
+    },
+    {
+      "order": 5,
+      "instruction": "Pour the slightly beaten egg across the surface of the sauce. Simmer for 10 seconds to set the egg, and then use your spatula to fold the egg into the sauce with a few strokes. Fold in the chopped scallion, and serve immediately with steamed rice."
+    }
+  ]
+}

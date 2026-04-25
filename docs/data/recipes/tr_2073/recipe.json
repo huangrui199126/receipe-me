@@ -1,0 +1,109 @@
+{
+  "id": "tr_2073",
+  "title": "Sha Cha Beef Stir-fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/04/sha-cha-beef-8.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/sha-cha-beef-stir-fry/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 6,
+  "tags": [
+    "sha cha beef"
+  ],
+  "nutrition": {
+    "calories": 349,
+    "protein": 21.0,
+    "carbs": 6.0,
+    "fat": 27.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "beef ((450g, thinly sliced against the grain; can use flank steak or sirloin))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce ((plus 1 tablespoon))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 tablespoons ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((thinly sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Sha cha Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  scallions ((cut on an angle into 2-inch lengths))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To the beef, add 1 teaspoon soy sauce, 2 teaspoons cornstarch and 1 tablespoon vegetable oil. Mix well. Heat your wok over high heat until smoking. Add 2 tablespoons vegetable oil, and sear the beef until it just turns opaque (it can still be slightly pink). Remove the beef from the wok and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Reduce the heat to medium, and add another couple tablespoons of oil to the wok. Add the ginger and cook for 1 minute. Add the garlic, sacha sauce, and sugar, and fry this mixture for 2 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the scallions and beef back to the wok, along with the remaining tablespoon of soy sauce. Increase the heat to high, and stir-fry for 1 minute, until the scallions are wilted."
+    }
+  ]
+}

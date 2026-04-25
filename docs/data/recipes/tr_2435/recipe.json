@@ -1,0 +1,165 @@
+{
+  "id": "tr_2435",
+  "title": "Vegetable Lo Mein",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/09/vegetable-lo-mein-5-1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/vegetable-lo-mein/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "vegetable lo mein"
+  ],
+  "nutrition": {
+    "calories": 416,
+    "protein": 14.0,
+    "carbs": 84.0,
+    "fat": 7.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "fresh white noodles or lo mein egg noodles ((450g))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar ((plus 1 teaspoon hot water to dissolve the sugar in))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of five spice powder ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sliced mushrooms ((shiitakes, button mushrooms, or anything you like))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((split at the thick parts and cut into 2-inch lengths))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bell pepper ((red, orange, or yellow; julienned))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small carrot ((julienned))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "snow peas ((trimmed))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "leafy greens ((bok choy, choy sum, etc.))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Boil water in a large pot for the noodles. If using the lo mein egg noodles, you can skip this step, as those noodles do not require any pre-cooking. But if using fresh white noodles, you will have to boil them. Just cook until al dente, drain, and rinse in cold water. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "In a small bowl, combine the soy sauces, sesame oil, dissolved sugar, and five spice powder, if using."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 1 tablespoon oil in a wok over high heat and add the garlic, mushrooms, and the white parts of the scallions. Stir-fry for 30 seconds and add the peppers and carrots. Make sure your wok is searing hot, and then add the Shaoxing wine. Stir-fry for another minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Next, add the snow peas and leafy greens to the wok and cook until the greens are just wilted. Then add your noodles. Make sure that before you add them, they’re somewhat loose and not all clumped together (you can rinse them in warm water to loosen them up before adding them to the wok)."
+    },
+    {
+      "order": 5,
+      "instruction": "Pour your sauce mixture over the noodles and stir-fry until the color of the noodles are uniform. A folding or scoop-and-lift motion works well for that. Once everything is well-combined, dish out the noodles and serve."
+    }
+  ]
+}

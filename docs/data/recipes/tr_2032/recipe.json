@@ -1,0 +1,99 @@
+{
+  "id": "tr_2032",
+  "title": "Chinese Boiled Peanuts",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/08/chinese-boiled-peanuts-8.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-boiled-peanuts/",
+  "servings": 8,
+  "prepTime": 120,
+  "cookTime": 60,
+  "tags": [],
+  "nutrition": {
+    "calories": 312,
+    "protein": 14.0,
+    "carbs": 9.0,
+    "fat": 27.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "20",
+      "unit": "ounces",
+      "name": "fresh raw peanuts, in the shell ((green peanuts, 565g))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "6",
+      "unit": "cups",
+      "name": "water ((or enough to submerge the peanuts))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sea salt ((or to taste; add more if you like them salty))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small cinnamon stick",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  star anise pods",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak the peanuts in water for 30 minutes to loosen any dirt still clinging to the shells. Wash them thoroughly and drain. Repeat as necessary until the soaking water is clear."
+    },
+    {
+      "order": 2,
+      "instruction": "Using your thumb and index finger, crack open one end of each peanut (the pointier side is easier to crack open) by lightly pressing it. This is so the brine can get inside the peanut shell."
+    },
+    {
+      "order": 3,
+      "instruction": "Put the peanuts in a medium pot along with 6 cups water so the peanuts are totally submerged. Add 1 tablespoon sea salt (or to taste), 1 tablespoon Sichuan peppercorns, 1 small cinnamon stick, 3 bay leaves, and 1-2 star anise pods (use 1 for a lighter flavor or 2 for stronger flavor)."
+    },
+    {
+      "order": 4,
+      "instruction": "Bring the peanuts to a boil, cover, lower the heat, and simmer for 45 minutes to 1 hour. This will produce a slightly al dente peanut, which is the way we like it. Increase the time if you like your peanuts softer and periodically taste test test to check the consistency."
+    },
+    {
+      "order": 5,
+      "instruction": "Turn off the heat and leave the cover on; they will continue to cook and absorb the flavors of the briny liquid. Let the boiled peanuts cool to room temperature. It’s best to let them soak overnight in the refrigerator and eat them cold."
+    }
+  ]
+}

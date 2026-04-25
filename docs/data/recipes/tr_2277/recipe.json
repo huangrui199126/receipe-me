@@ -1,0 +1,178 @@
+{
+  "id": "tr_2277",
+  "title": "Fish &amp; Mixed Vegetable Stir-fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/07/fish-mixed-vegetable-stir-fry-1.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/tilapia-and-mixed-vegetable-stir-fry/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [
+    "fish &amp",
+    "mixed vegetables"
+  ],
+  "nutrition": {
+    "calories": 258,
+    "protein": 20.0,
+    "carbs": 14.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  tilapia fillets ((about 12 ounces/340g, cut into 2-3-inch pieces))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dried wood ear mushrooms ((soaked in cold water for 1-2 hours, chopped roughly))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red bell pepper ((cut into chunks))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  long hot green pepper ((cut into chunks))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion ((thinly sliced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((sliced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 inch piece ginger ((peeled and sliced into rounds))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "(vegetable oil)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prep time accounts for soaking the mushrooms. Actual active prep time is more like 10 minutes. Huzzah! You can soak the wood ear mushrooms ahead of time and just store them in water in the fridge until you're ready to use them."
+    },
+    {
+      "order": 2,
+      "instruction": "In a bowl, add your tilapia pieces, soy sauce, wine, sesame oil, cornstarch, and a couple pinches of white pepper. Stir it together and set it aside to marinate while you’re chopping up the veg."
+    },
+    {
+      "order": 3,
+      "instruction": "Chop up your mushrooms, peppers, onion, scallions, and garlic. Peel and slice the ginger."
+    },
+    {
+      "order": 4,
+      "instruction": "Once everything is prepared, put 3 tablespoons oil in a wok over medium heat. Fry the ginger for 1 minute. Then add the garlic and fry for another minute."
+    },
+    {
+      "order": 5,
+      "instruction": "Add your sliced onion and stir-fry for another 2-3 minutes, cranking up the heat to medium-high."
+    },
+    {
+      "order": 6,
+      "instruction": "Add both peppers and stir-fry another minute. Turn the heat up to high and add the wood ears. Keep stirring for another 2 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Add the fish to the wok in one layer over the vegetables. Add 1/3 cup water and cover the pan. Reduce the heat to medium low and steam the veggies and fish for 5-6 minutes, until the fish just turns opaque."
+    },
+    {
+      "order": 8,
+      "instruction": "Uncover the wok and crank the heat up to high again. Add the scallion and gently toss and stir everything together for another 2 minutes. Plate and serve!"
+    }
+  ]
+}

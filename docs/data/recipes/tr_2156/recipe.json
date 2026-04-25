@@ -1,0 +1,133 @@
+{
+  "id": "tr_2156",
+  "title": "Braised Glass Noodles with Pork &amp; Napa Cabbage",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/04/glass-noodles-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/glass-noodles-pork-napa-cabbage/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "braised glass noodles"
+  ],
+  "nutrition": {
+    "calories": 413,
+    "protein": 8.0,
+    "carbs": 25.0,
+    "fat": 32.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 oz. dried sweet potato noodles ((85g))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oil ((plus 3 tablespoons))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. pork belly ((225g, thinly sliced))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 to 2  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  shiitake mushrooms ((fresh or rehydrated dried))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "napa cabbage ((450g, cut into large pieces))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "chicken stock ((or water))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped, optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pre-cook the sweet potato noodles, following the instructions on the package. Drain and toss in a teaspoon of oil to prevent sticking. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 3 tablespoons oil in a wok over high heat until just starting to smoke. Brown the pork belly for about a minute, and then turn the heat down to medium. Remove the pork belly from the wok and set aside. Add the ginger, star anise, and mushrooms, and cook for 1 minute."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn the heat back up to high, and add the napa cabbage. Stir-fry for a minute, and then add the salt, oyster sauce, dark soy sauce and chicken stock (or water). Mix everything well, cover, and simmer for 3 minutes. Mix in the cooked glass noodles and pork belly, cover, and simmer for another 2 minutes. Stir in the chopped scallion (if using) and serve!"
+    }
+  ]
+}

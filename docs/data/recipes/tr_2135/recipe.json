@@ -1,0 +1,185 @@
+{
+  "id": "tr_2135",
+  "title": "Easy Braised Turnip Rice Bowls",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/11/braised-turnip-7-1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/easy-braised-turnip-rice-bowls/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 35,
+  "tags": [
+    "braised turnip"
+  ],
+  "nutrition": {
+    "calories": 321,
+    "protein": 13.0,
+    "carbs": 17.0,
+    "fat": 23.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((smashed and finely chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  scallions ((chopped and separated by white and green parts))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "ground pork ((225g, but any ground meat will work))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1½",
+      "unit": "pounds",
+      "name": "white Chinese turnip or daikon radish ((680g, peeled and cut into ½” x 1” pieces))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  fresh Shiitake mushrooms ((diced))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "water ((470 ml))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "cornstarch ((mixed with 3 tablespoons water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Steamed jasmine rice ((to serve))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil in your wok over low heat. Add the star anise and Sichuan peppercorns. Let them infuse the oil for 10 minutes, taking care not to let them burn."
+    },
+    {
+      "order": 2,
+      "instruction": "Scoop out and discard the aromatics, and leave the oil in the wok. Add the ginger, garlic, and the white parts of the scallion, and turn up the heat to medium-high. Stir for a minute or so. Add the ground meat, and stir-fry until browned. Next, add the turnips and shiitake mushrooms. Stir and mix everything well."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the Shaoxing wine, salt, dark soy sauce, light soy sauce, oyster sauce, sugar, and 2 cups of water. Mix everything well, cover, and let simmer for about 15 minutes over medium heat--until the turnips are cooked through and translucent. While the contents of the woks are simmering, prepare the cornstarch mixture and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Once the turnips are fully cooked through, uncover, turn the heat up to high, add the cornstarch mixture. Stir-fry for a minute––the mixture should thicken into a sauce. Stir in the green parts of the scallions and then serve over rice."
+    }
+  ]
+}

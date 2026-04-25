@@ -1,0 +1,145 @@
+{
+  "id": "tr_2222",
+  "title": "Shanghai Hot Sauce Noodles (Lajiang Mian -上海辣酱面）",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/10/shanghai-hot-sauce-noodles-17-1.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shanghai-hot-sauce-noodles/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 40,
+  "tags": [
+    "hot sauce noodles"
+  ],
+  "nutrition": {
+    "calories": 699,
+    "protein": 35.0,
+    "carbs": 77.0,
+    "fat": 31.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "pork shoulder ((225g, cut into ¼ inch cubes))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "raw shelled and skinned peanuts",
+      "emoji": "🫛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "peanut or vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "doubanjiang ((spicy chili bean sauce/paste))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "onion ((diced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium carrots ((cut into ¼ inch cubes, about ¾ cup))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "five spice tofu ((cut into ¼ inch cubes, 3/4 cup))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "6",
+      "unit": "cups",
+      "name": "chicken stock ((divided))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "dried noodles ((340g))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped, optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Blanch the cubed pork in boiling water for 30 seconds, drain, and rinse. This keeps the final dish clear of any impurities/blood from the meat."
+    },
+    {
+      "order": 2,
+      "instruction": "Fry the peanuts in the oil on low heat for 2 minutes, until just starting to turn golden brown. More oil will be fried out of the peanuts, and the mixture will become fragrant."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the chili bean sauce to the peanuts and oil, and stir for 30 seconds to bring out the color of the red peppers in the sauce and infuse the oil, which is what you are looking for in this dish."
+    },
+    {
+      "order": 4,
+      "instruction": "Next, add the onions and stir fry for 2 minutes on medium low heat until the onion begins to turn translucent."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the carrots, five spice tofu, and sugar, and stir fry for another 3 minutes on medium heat. Next, add 1 cup of chicken stock and the blanched pork and continue to stir fry until the liquid has evaporated (about 5 minutes). Add another cup of stock and repeat the stir-frying again until the liquid has evaporated. This continuous stir-fry melds all the flavors together."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the remaining 4 cups of stock, and bring it to a boil. Turn the heat down to medium low and simmer for another 30 minutes. Check the mixture every 5 minutes while simmering and give it a stir so the sauce on the side of the wok does not burn. The final sauce should have a cup of liquid and lots of oil."
+    },
+    {
+      "order": 7,
+      "instruction": "Boil the noodles according to package directions until al dente. Chewy noodles are always the best for soup!"
+    },
+    {
+      "order": 8,
+      "instruction": "Divide the noodles and sauce among four bowls. Season with a little bit of salt if needed, and then pour over the water that you used to cook the noodles to create the soup. (This is how it’s done traditionally, but alternatively, you can use more hot chicken stock as your soup). Serve hot, garnished with chopped scallions if using."
+    }
+  ]
+}

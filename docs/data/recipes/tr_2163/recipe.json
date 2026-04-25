@@ -1,0 +1,205 @@
+{
+  "id": "tr_2163",
+  "title": "Crispy Stuffed Lotus Root with Pork",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/02/lotus-root-recipe-3.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/stuffed-lotus-root-pork/",
+  "servings": 6,
+  "prepTime": 60,
+  "cookTime": 30,
+  "tags": [
+    "stuffed lotus root"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 14.0,
+    "carbs": 30.0,
+    "fat": 23.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1½",
+      "unit": "pounds",
+      "name": "fresh lotus roots ((680g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil ((for frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "¾",
+      "unit": "pound",
+      "name": "ground pork ((340g; can substitute ground chicken))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water ((60 ml))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((very finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "ginger ((finely minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "all-purpose flour ((30g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "sweet rice flour ((30g; can substitute cornstarch))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "five-spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "water ((80 ml))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "beer ((of your choice))",
+      "emoji": "🍺",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Step 1: Make the meat filling"
+    },
+    {
+      "order": 2,
+      "instruction": "Put all of the meat filling ingredients in a mixing bowl. Stir in one direction for about 5-10 minutes until the meat mixture becomes a very sticky paste. Set it aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Step 2: Assembly"
+    },
+    {
+      "order": 4,
+      "instruction": "Peel, wash, and cut the lotus roots into 1/8-inch slices. Rinse the lotus root slices in cold water to wash away excess starch and so they don’t turn black (again, they're similar to potatoes). Drain. It’s best to spin them in a salad spinner to get rid of all the excess water."
+    },
+    {
+      "order": 5,
+      "instruction": "Take one slice, and spread on a thin layer of meat filling. Top it with another slice of lotus root to create a sandwich. Gently press the two slices together so the meat filling fills the holes of the lotus root on both sides This step will “lock” the two slices together. Repeat until you've used all of the slices. You should be able to make about 15-18 pieces."
+    },
+    {
+      "order": 6,
+      "instruction": "Step 3: Make the batter"
+    },
+    {
+      "order": 7,
+      "instruction": "Add both flours, salt and the five-spice powder to a mixing bowl. Slowly add the water, stirring constantly. Stir thoroughly until any lumps have dissolved. Then stir in the beer. This batter is pretty light. You can thicken it by adding a bit more flour if you like a heavier batter. Also, stir the batter between dipping each lotus root piece, as sweet rice flour tends to settle quickly."
+    },
+    {
+      "order": 8,
+      "instruction": "(Don’t coat the lotus roots until right before frying. If too much liquid gets in between the meat and the lotus roots by coating too early, they will fall apart in your pot of oil.) Speaking of which..."
+    },
+    {
+      "order": 9,
+      "instruction": "Step 4: Frying"
+    },
+    {
+      "order": 10,
+      "instruction": "Now it’s time to prepare the oil for frying. I like to use a small, deep pot because it requires less oil and its depth helps contain the oil, avoiding splatters and burns."
+    },
+    {
+      "order": 11,
+      "instruction": "Fill the pot about 1.5” deep with oil, and heat it to 275 degrees. Once the oil reaches 275 degrees, coat the lotus in the batter and slowly lower into the oil. Fry a few pieces at a time, frying each side for about 6 – 7 minutes. Take them out and set them aside on a plate lined with a paper towel. Repeat until all the lotus sandwiches are fried. Now turn up the heat to bring the oil up to 325 degrees. Re-fry each piece for 3 minutes to really get the color and crunchiness that we are looking for."
+    }
+  ]
+}

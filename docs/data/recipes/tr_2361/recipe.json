@@ -1,0 +1,145 @@
+{
+  "id": "tr_2361",
+  "title": "Shrimp and Broccoli",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/03/shrimp-and-broccoli-13.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shrimp-and-broccoli/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [
+    "shrimp and broccoli"
+  ],
+  "nutrition": {
+    "calories": 206,
+    "protein": 21.0,
+    "carbs": 10.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  sized 16 to 20 count shrimp ((or 12 ounces / 340 grams of whatever shrimp you have on hand; peeled, deveined, and butterflied))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "10",
+      "unit": "ounces",
+      "name": "broccoli florets ((285g))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "low sodium chicken stock ((120 ml, warmed))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "granulated sugar ((or brown sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "cornstarch ((mixed with 2 tablespoons water into a cornstarch slurry))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, prepare the shrimp and broccoli. Next, in a medium pot, set 4 cups of water to a boil. While that’s happening, mix the chicken stock, sugar, soy sauces, oyster sauce, sesame oil and white pepper and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Blanch the broccoli for 30 seconds. Remove and drain. Let the water return to a boil, and blanch the shrimp for 15 seconds. Remove and drain. The shrimp will be about 60-70% cooked."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat the wok over high heat. Pour 2 tablespoons of canola oil around the perimeter of the wok, stir in the garlic, and add the Shaoxing wine. Next, add the chicken stock mixture. Bring the sauce up to a boil, and add the shrimp and broccoli back to the wok."
+    },
+    {
+      "order": 4,
+      "instruction": "Once everything comes to a boil, drizzle in the cornstarch slurry until the sauce thickens and starts to cling to the shrimp and broccoli. There should not be any standing sauce, although you can adjust this depending on your personal preference. Serve with steamed white rice!"
+    }
+  ]
+}

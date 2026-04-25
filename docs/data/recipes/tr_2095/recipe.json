@@ -1,0 +1,137 @@
+{
+  "id": "tr_2095",
+  "title": "Sichuan Dry Fried String Beans",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/10/dry-fried-string-beans-12-1.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/dry-fried-string-beans-sichuan/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [
+    "sichuan string beans"
+  ],
+  "nutrition": {
+    "calories": 247,
+    "protein": 8.0,
+    "carbs": 11.0,
+    "fat": 20.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "string beans ((450g))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  dried red chilies ((deseeded and chopped, optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "ground pork or chicken ((113g))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "dark soy sauce ((optional, mostly for color))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Trim the tough ends off the string beans, and then cut them in half (each piece should be about 3 inches long). Wash them and pat them thoroughly dry with a kitchen towel to get rid of any water."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat ¼ cup of oil in a wok over medium high heat, and shallow fry the string beans in two batches. They are done once they appear wrinkled and slightly scorched. Use a strainer to remove the string beans from the wok and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Once all the string beans are shallow fried, turn off the heat. Scoop the oil out of the pan, except for 1 tablespoon. Turn the heat down to low, and add in the Sichuan peppercorns, ginger, garlic and dried chilies (if using). Stir-fry for about 1 minute, until fragrant."
+    },
+    {
+      "order": 4,
+      "instruction": "Next, add in the ground pork, turn up the heat to high, and stir-fry quickly to break up the pork and brown the meat slightly. Add in the fried string beans, Shaoxing wine, light soy sauce, dark soy sauce, and sugar. Toss everything well, and season with salt to taste. Stir-fry everything over high heat until any excess liquid has cooked off, and serve!"
+    }
+  ]
+}

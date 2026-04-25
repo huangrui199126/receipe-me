@@ -1,0 +1,153 @@
+{
+  "id": "tr_2258",
+  "title": "Korean Black Bean Noodles (Jajangmyeon)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/05/korean-black-bean-noodles-2-1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/korean-black-bean-noodles-jajangmyeon/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 30,
+  "tags": [
+    "korean black bean noodles"
+  ],
+  "nutrition": {
+    "calories": 721,
+    "protein": 24.0,
+    "carbs": 82.0,
+    "fat": 45.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "½",
+      "unit": "pound",
+      "name": "pork belly or any marbled piece of pork ((225g, cut into small cubes))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "daikon or Korean radish",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  small onions ((diced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  zucchini ((cut into ¼-inch cubes))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  small potatoes ((peeled and cut into ¼-inch cubes))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "chunjang ((Korean black bean paste))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 cups water ((depending on your desired consistency))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh Korean noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "potato starch ((or cornstarch, combined with ¼ cup water and 1 teaspoon of sugar in a small bowl))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small seedless cucumber ((cut into thin matchsticks for garnish))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Yellow pickled radish and some additional cut raw onion ((for serving))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat 1 tablespoon of oil in a wok or pan over high heat. Stir fry the pork belly until it’s golden brown and crisped. The secret is high heat and minimal stirring! If there is a significant amount of pork fat pooling in the pan, you can drain that off."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the radish and stir-fry for 1 minute, followed by the onion, zucchini, and potato. Stir-fry for another few minutes, until the potato is translucent."
+    },
+    {
+      "order": 3,
+      "instruction": "Clear a space in the center of the wok or pan, and the remaining 2 tablespoons of oil. Add the Korean black bean paste (chunjang) and let it fry in the center of the pan in the oil for one minute. Now stir everything together."
+    },
+    {
+      "order": 4,
+      "instruction": "Add 2 cups of water, and let the sauce come to a boil. Turn the heat down and let it simmer with the lid on for 10 minutes. (If your sauce is becoming too thick, you can gradually add up to an additional cup of water.) This is the perfect time to cook your Korean noodles (follow the instructions on the package). I didn’t specify the quantity of noodles to use, because this recipe makes quite a lot of sauce, that can be reheated and served with freshly cooked noodles whenever you want them. Just cook the amount that you’d like to eat for each sitting."
+    },
+    {
+      "order": 5,
+      "instruction": "After 10 minutes, check to make sure that the potato is cooked through. Once it’s fully cooked, add the potato starch slurry, and stir until thick and glossy. Finish off with the sesame oil."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve with the noodles, and garnish with the cucumber. On the side, serve with that signature pickled radish and chopped onion."
+    }
+  ]
+}

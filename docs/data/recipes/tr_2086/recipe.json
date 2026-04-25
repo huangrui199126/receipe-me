@@ -1,0 +1,189 @@
+{
+  "id": "tr_2086",
+  "title": "Chinese Tofu Sheet Stir-Fry (千张肉丝)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/10/tofu-skin-stir-fry-14.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-tofu-sheets-stir-fry/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "tofu sheets"
+  ],
+  "nutrition": {
+    "calories": 277,
+    "protein": 15.0,
+    "carbs": 6.0,
+    "fat": 12.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "boneless pork shoulder or loin ((or chicken thigh/breast meat, about 180g))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "ginger ((julienned))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((roughly chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8-10 ounces tofu sheets ((250g, cut into bite-sized pieces))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  long hot green peppers ((cut into bite-sized strips))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Julienne the meat to ¼-inch thickness. Mix the meat together with the marinade ingredients until there is no visible standing liquid. Marinate for 15-20 minutes while you prepare everything else."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat the wok over high heat. When the wok starts smoking, add 2½ tablespoons oil. Immediately reduce the heat to medium, and cook the ginger for 30 seconds. Add the garlic and cook for another 15 seconds."
+    },
+    {
+      "order": 3,
+      "instruction": "Next, add in the pork, turn the heat back up, and cook for 1-2 minutes until the pork has cooked through. Resist the urge to stir too much, so the pork can brown lightly."
+    },
+    {
+      "order": 4,
+      "instruction": "Reduce the heat to medium, and add ¼ teaspoon dark soy sauce. Stir-fry everything well. Add the tofu sheets and peppers. Stir fry everything together, and season with 1 tablespoon Shaoxing wine, 1 tablespoon light soy sauce, ¼ teaspoon sugar, ½ teaspoon sesame oil, and ¼ teaspoon white pepper powder."
+    },
+    {
+      "order": 5,
+      "instruction": "Turn up the heat, and stir-fry everything together for 1-2 minutes. The dish is complete when the peppers are just tender, but still slightly crisp. As you stir-fry, keep an eye on the sauce: if the food is too dry and beginning to stick or burn, add a tablespoon of water. If you end up with an excess of visible sauce, keep stir-frying with the heat on high until everything is just lightly coated in sauce."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "tr_2252",
+  "title": "Chinese Spicy Eight Treasures Stir Fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/09/eight-treasures-stir-fry.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/spicy-eight-treasures-stir-fry/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [
+    "eight treasures"
+  ],
+  "nutrition": {
+    "calories": 384,
+    "protein": 24.0,
+    "carbs": 16.0,
+    "fat": 26.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "spiced bean curd ((cut in ½-inch cubes))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "carrot ((diced in ½-inch cubes))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "frozen shelled edamame ((thawed))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "lean pork ((diced into ½-inch cubes))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "heads",
+      "name": "garlic ((peeled and chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "small dried shrimp ((rinsed and drained))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "raw shelled peanuts ((rinsed and drained))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "green pepper ((diced; long hot peppers can be used for extra heat, or you can use bell peppers if you prefer it mild))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "cooking oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "spicy bean paste ((doubanjiang))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "black bean chili sauce ((Lao Gan Ma brand))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Stir fry the spiced bean curd with a teaspoon of oil over medium heat for 2 minutes. Take it out of wok and set aside. Stir fry the carrot with a teaspoon of oil using medium heat for about two minutes…until softens slightly. Take it out of wok and set aside. Repeat the process another two times with the edamame and the cubed pork and set both aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Then add a tablespoon of oil to the pan and stir-fry the garlic over medium heat for about a minute. Add the shrimp and stir to combine. Add the peanuts and stir for another 3-5 minutes, until they start to smell fragrant. Then add the green pepper and mix well. Now add all the pre-cooked ingredients: the bean curd, carrot, edamame and pork. Continue to stir and cook for another few minutes so that everything comes together. Add cooking wine, spicy bean paste, sugar, sesame oil, and the black bean chili sauce. Stir everything together and keep stirring until most of the liquid has evaporated and all the ingredients are well-coated in sauce. Plate and serve!"
+    }
+  ]
+}

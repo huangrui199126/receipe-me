@@ -1,0 +1,581 @@
+{
+  "id": "tr_2012",
+  "title": "Chinese Hot Pot at Home",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/11/hot-pot-at-home-10.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/hot-pot-how-to/",
+  "servings": 6,
+  "prepTime": 40,
+  "cookTime": 0,
+  "tags": [
+    "hot pot at home"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Hot pot soup base (with water) or stock",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "baby bok choy ((thoroughly washed))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "napa cabbage ((washed, cut into 1-2 inch pieces))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "choy sum ((thoroughly washed))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "spinach ((thoroughly washed))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "pea tips ((thoroughly washed))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "watercress ((thoroughly washed))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "AA Choy/Cai ((washed, trimmed))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chrysanthemum Leaves ((washed, trimmed))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "lotus root ((cut into 1/4 inch thick half moons))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "potato ((cut into 1/4 inch thick half moons))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "sweet potato ((cut into 1/4 inch thick half moons))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "pumpkin/kabocha squash ((cut into 1/4 inch thick half moons))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "daikon radish ((cut into 1-inch chunks))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "tomatoes ((sliced into wedges))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "corn ((whole ears, cut into 1-inch pieces))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "winter melon ((cut into 1-inch chunks))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Enoki mushrooms ((slice 1/2-1 inch of the base off, and separate the bundle of enoki’s into smaller more manageable bundles)",
+      "emoji": "🍄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Wood ears ((soak to reconstitute, rinse any dirt or sand off, and remove any woody ends))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "King mushrooms ((trim the ends, thinly slice))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Shiitake mushrooms ((trim woody stems, slice, and add to the pot early))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oyster mushrooms ((thoroughly cleaned))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Shimeji mushrooms ((separated into individual pieces))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Beef ((brisket, short rib, ribeye, sirloin, flank steak, thinly sliced against the grain))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pork shoulder or loin ((thinly sliced))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pork belly ((thinly sliced))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lamb shoulder or leg ((thinly sliced))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Boneless chicken breast or thighs ((thinly sliced))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fish fillets ((such as tilapia, bass, fluke/flounder, thinly sliced))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Shrimp",
+      "emoji": "🦐",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Scallops",
+      "emoji": "🦐",
+      "section": "",
+      "order": 30
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Squid or cuttlefish",
+      "emoji": "🐟",
+      "section": "",
+      "order": 31
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Beef balls",
+      "emoji": "🥩",
+      "section": "",
+      "order": 32
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pork balls",
+      "emoji": "🥩",
+      "section": "",
+      "order": 33
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fish balls",
+      "emoji": "🐟",
+      "section": "",
+      "order": 34
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Squid balls",
+      "emoji": "🥄",
+      "section": "",
+      "order": 35
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mixed seafood balls",
+      "emoji": "🥄",
+      "section": "",
+      "order": 36
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fish cakes",
+      "emoji": "🐟",
+      "section": "",
+      "order": 37
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fish tofu",
+      "emoji": "🐟",
+      "section": "",
+      "order": 38
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mung bean vermicelli ((soak in warm water for 10 minutes))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 39
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rice vermicelli ((boil to par-cook, rinse in cold water, drain))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 40
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Thin fresh white noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 41
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh spinach noodles",
+      "emoji": "🥬",
+      "section": "",
+      "order": 42
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Shirataki noodles ((add directly to boiling broth, cooks in seconds))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 43
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rice cakes ((the thin ovals are best; the thick Korean-style rice cake logs take too long to cook) )",
+      "emoji": "🍚",
+      "section": "",
+      "order": 44
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Frozen dumplings ((smaller is better; cook time 7-10 minutes))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 45
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Bean threads ((AKA dried bean curd sticks; soak in warm water for 3-4 hours, cut into 2-inch pieces))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 46
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Soy puffs ((left whole or cut in half))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 47
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Frozen tofu ((cut into 1-inch pieces))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 48
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Firm tofu ((cut into 1-inch pieces))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 49
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Dried bean curd rolls",
+      "emoji": "🫘",
+      "section": "",
+      "order": 50
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh tofu sheets/skin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 51
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pressed tofu",
+      "emoji": "🫙",
+      "section": "",
+      "order": 52
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chinese sesame paste or sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 53
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Peanut butter or peanut sauce",
+      "emoji": "🧈",
+      "section": "",
+      "order": 54
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 55
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sha Cha sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 56
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 57
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sichuan peppercorn oil",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 58
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chili oil/sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 59
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chili garlic sauce/sambal oelek",
+      "emoji": "🧄",
+      "section": "",
+      "order": 60
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chinese black vinegar/rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 61
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "White pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 62
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 63
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Minced garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 64
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped scallions",
+      "emoji": "🥄",
+      "section": "",
+      "order": 65
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 66
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fried shallots or garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 67
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place boiling soup base or stock in a wide, shallow pot the center of the table on a portable electric burner."
+    },
+    {
+      "order": 2,
+      "instruction": "Place individual plates of raw ingredients on the table, along with dipping sauce ingredients."
+    },
+    {
+      "order": 3,
+      "instruction": "Have each diner mix their own dipping sauce while the pot of soup comes to a boil. Once boiling, begin adding ingredients to the pot. Be sure to cook ingredients through before consuming, and allow the pot to boil for at least 30 seconds to 1 minute after adding any raw meat or seafood."
+    }
+  ]
+}

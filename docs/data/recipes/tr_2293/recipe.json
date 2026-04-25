@@ -1,0 +1,149 @@
+{
+  "id": "tr_2293",
+  "title": "Shanghai Scallion Flatbread",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/12/shanghai-puffy-pancake-2.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shanghai-scallion-flatbread-qiang-bing/",
+  "servings": 6,
+  "prepTime": 155,
+  "cookTime": 25,
+  "tags": [
+    "shanghai scallion flatbread"
+  ],
+  "nutrition": {
+    "calories": 257,
+    "protein": 6.0,
+    "carbs": 35.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "all purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "active dry yeast ((can substitute same amount of instant yeast))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "tepid water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "ground Sichuan peppercorns ((optional; can substitute five spice powder))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((finely chopped, about 1/2 cup))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons raw sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((plus more for brushing; any neutral oil works)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large mixing bowl, combine the flour, yeast, sugar, and tepid water with a rubber spatula. The dough will be sticky and slightly wet, but still workable. Do your best not to add more flour to the dough from this point on!"
+    },
+    {
+      "order": 2,
+      "instruction": "Knead the dough until it forms a soft, smooth ball. Cover the mixing bowl with a damp kitchen towel and proof in a warm spot until the dough triples in size, 60-90 minutes. I proof my dough inside my microwave, with a large mug of just-boiled water next to it and the microwave door closed."
+    },
+    {
+      "order": 3,
+      "instruction": "Once the dough is done proofing, add the sea salt, white pepper, and Sichuan peppercorns (or five spice powder). Knead for another 5 minutes, until everything is well-combined. If the stickiness of the dough makes it difficult to work with, oil your hands rather than using additional flour."
+    },
+    {
+      "order": 4,
+      "instruction": "Cover the dough with the towel again, and let it rest on the counter for another 15 minutes. At this point, you can very finely chop the scallions (they must be small to distribute evenly throughout the pancake and release more flavor)."
+    },
+    {
+      "order": 5,
+      "instruction": "Knead the dough one more time for 2 minutes to get rid of any air bubbles. Brush a clean, flat work surface (such as a clean counter or cutting board) lightly with oil. Using an oiled rolling pin, roll the dough into a thin rectangle a little less than ¼-inch (0.6 cm) thick."
+    },
+    {
+      "order": 6,
+      "instruction": "Brush the rolled dough with a thin layer of oil, and evenly cover it with the scallions. Roll it up lengthwise into a tight log."
+    },
+    {
+      "order": 7,
+      "instruction": "Roll the log into a thinner tube (this also helps reduce air pockets), and roll the tube into a spiral to form a thick disc. Tuck the end underneath."
+    },
+    {
+      "order": 8,
+      "instruction": "Use your hands and a rolling pin to press the disc down into a 10” circle. Sprinkle both sides liberally with sesame seeds, making sure the entire surface is covered. Press the sesame seeds into the dough with the palm of your hand. (The dough circle will be very soft, so use a bench scraper or large spatula to help you flip it over before sprinkling the other side with sesame seeds too)."
+    },
+    {
+      "order": 9,
+      "instruction": "In a large flat bottomed non-stick or cast iron pan with a lid (I used a 12” cast iron pan), add 3 tablespoons of oil and spread it evenly across the pan’s surface. Place the dough circle into the oiled pan. (Lay it over your rolling pin to transfer it to the pan.) Cover and allow it to rest for another 20 minutes, without turning on the heat!"
+    },
+    {
+      "order": 10,
+      "instruction": "After the dough has rested, turn the heat on to medium, with the lid still on. Set a timer for 12 minutes. After 12 minutes, open the lid and check the bottom. When it’s evenly golden brown, flip the pancake, cover again, and cook for another 6 minutes."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove the lid, and cook for another few minutes to dry out the crust. The pancake is done when both sides are a deep golden brown, and the outer crust is crisp (it should sound hollow when you tap on it). Slice and enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "tr_2228",
+  "title": "Steamed Shrimp with Glass Noodles – Two Ways",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/09/garlicky-steamed-shrimp-1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/steamed-shrimp-glass-noodles-two-ways/",
+  "servings": 4,
+  "prepTime": 40,
+  "cookTime": 5,
+  "tags": [
+    "steamed shrimp"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 oz. shrimp ((340g, cleaned))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 bundle mung bean glass noodles",
+      "emoji": "🫘",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "garlic ((minced or grated))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water ((plus more, to soak the garlic))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 oz. shrimp ((340g, cleaned))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 bundle mung bean glass noodles",
+      "emoji": "🫘",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "minced green chilies",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cilantro (finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Split the shrimp in half to the tail, leaving the tail whole. Soak the glass noodles in warm water for 20 minutes and drain."
+    },
+    {
+      "order": 2,
+      "instruction": "For the garlic version, put the minced garlic into a bowl of hot water for a minute and strain. This takes some of the edge off of the garlic, and makes it sweeter once steamed. Combine the strained garlic with another 1/4 cup fresh water, sugar, light soy, and shaoxing wine."
+    },
+    {
+      "order": 3,
+      "instruction": "For the cilantro green chili version, pound the minced green chilies and 1/4 teaspoon salt together in a mortar and pestle. Set aside for 30 minutes. Then mix in the cilantro, sugar, water, light soy, and shaoxing wine."
+    },
+    {
+      "order": 4,
+      "instruction": "Spread out the glass noodles in two shallow, heat-safe bowls. Fan out equal amounts of shrimp on each plate. Spoon the prepared sauces evenly over each of the shrimp dishes."
+    },
+    {
+      "order": 5,
+      "instruction": "Boil water in a steamer or wok with a steamer rack and place the dishes inside. Cover immediately and steam for about 5 minutes. Remove from heat. The shrimp should be opaque and but not over-cooked. Keep a close eye on it, and adjust the steaming time according to the size of your shrimp."
+    },
+    {
+      "order": 6,
+      "instruction": "Once you take the shrimp out, spoon the liquid over the shrimp and serve immediately."
+    }
+  ]
+}

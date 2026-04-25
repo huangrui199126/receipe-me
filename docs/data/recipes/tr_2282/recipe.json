@@ -1,0 +1,179 @@
+{
+  "id": "tr_2282",
+  "title": "KAITLIN’S SPECIAL NOODLES",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/06/kaitlins-special-noodles-11-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/kaitlins-special-noodles/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-3  fresh or dried red chilis ((sliced thinly, depending on your desired spiciness level))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorns ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "ginger ((finely minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6 oz. ground pork ((170g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic ((finely minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons Lao Gan Ma Black Bean Chili Sauce",
+      "emoji": "🫘",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce ((plus more, to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "peanuts ((chopped, optional))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 package cooked yellow lo mein noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A few big handfuls of any leafy green vegetable",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pour 1/3 cup oil into the wok over medium-low heat and add the chilis. Let the peppers infuse the oil while you prepare the other ingredients. If using, crush the Sichuan peppercorns and add them to the oil as well, keeping the heat low enough so that nothing burns."
+    },
+    {
+      "order": 2,
+      "instruction": "After a few minutes, add the minced ginger, turning up the heat very slightly in order to lightly fry the ginger."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the pork and stir until just cooked through, breaking up big chunks. The heat should be medium to medium-high right about now. Add the minced garlic, a couple splashes of cooking wine, and the ½ teaspoon of sugar. Stir and cook for another minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Then add 2-3 heaping tablespoons of the black bean hot sauce. Stir and cook for a couple minutes to let the flavors meld together."
+    },
+    {
+      "order": 5,
+      "instruction": "Add ½ teaspoon white pepper, 1 tablespoon soy sauce, and ½ teaspoon sesame oil. Stir in the peanuts and the scallions. Stir until the scallions have cooked through."
+    },
+    {
+      "order": 6,
+      "instruction": "Turn the heat up to high and add the noodles. Quickly stir fry the noodles for a few minutes to heat them through. When they’re heated and well-coated with the sauce, add the leafy veggies and stir some more. If the noodles start sticking to the wok, stir faster and lower the heat slightly."
+    },
+    {
+      "order": 7,
+      "instruction": "Taste for salt and add additional soy sauce in small increments to taste. Continue stirring until everything is combined and happy. Serve!"
+    }
+  ]
+}

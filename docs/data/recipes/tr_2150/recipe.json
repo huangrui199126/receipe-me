@@ -1,0 +1,165 @@
+{
+  "id": "tr_2150",
+  "title": "Shredded Pork Stir-Fry with Sweet Bean Sauce",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/04/pork-stir-fry-4-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pork-stir-fry-sweet-bean-sauce/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "pork stir-fry"
+  ],
+  "nutrition": {
+    "calories": 245,
+    "protein": 29.0,
+    "carbs": 14.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "½",
+      "unit": "pound",
+      "name": "pork loin ((225g, or pork tenderloin, cut into thin strips))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine ((or other rice wine))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "ground black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vegetable oil ((plus 3 tablespoons, divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "water ((60 ml))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2½",
+      "unit": "tablespoons",
+      "name": "sweet bean sauce",
+      "emoji": "🫘",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3  medium carrots ((julienned))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A few drops of sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((white part only, thinly sliced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a bowl, add the pork along with ¼ teaspoon salt, 1 teaspoon Shaoxing wine, 1/8 teaspoon ground black pepper, 2 teaspoons cornstarch, and 1 teaspoon vegetable oil. Let marinate for 15 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "In a separate bowl, make the stir-fry sauce by combining 1/4 cup water, 2½ tablespoons sweet bean sauce, ½ teaspoon dark soy sauce, ¼ teaspoon black vinegar, 1 teaspoon sugar, and 1 tablespoon light soy sauce. Mix everything together until the sugar is dissolved completely. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Now we are ready to cook! Heat 1 tablespoon of vegetable oil in a wok over medium heat. Add the carrots, and cook for about a minute. Transfer to a dish and set aside. Be careful not to overcook them--the carrots should still be crunchy."
+    },
+    {
+      "order": 4,
+      "instruction": "In the same wok, heat 2 more tablespoons of oil over high heat. Once the oil starts to smoke slightly, add the marinated pork, and give it a quick stir. Once the pork turns color from pink to white, turn down the heat (to avoid burning). Transfer the pork to a separate bowl and set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "At this point, the wok should still be glistening with oil. Pour in the sauce, turn up the heat, and stir the sauce quickly for a few seconds--it should be bubbling. Toss the carrots and the pork back into the wok, quickly stir-frying to combine. Add a few drops of sesame oil. Once everything is well-coated with sauce, turn off the heat, dish it out, and serve hot with rice! Garnish with scallions, if desired."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "tr_2279",
+  "title": "Chicken and Thai Basil Stir-Fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/07/chicken-thai-basil-7-1.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chicken-and-thai-basil-stir-fry/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "thai basil stir-fry"
+  ],
+  "nutrition": {
+    "calories": 324,
+    "protein": 28.0,
+    "carbs": 16.0,
+    "fat": 17.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  chicken breast",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "freshly squeezed lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small yellow squash ((sliced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium carrot ((sliced))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((sliced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  of a small onion ((sliced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic ((chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red chili pepper ((chopped))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Thai basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut your chicken into slices and put it in a bowl. Season with the fish sauce, soy sauce, lime juice, brown sugar and cornstarch. Stir it up and let it sit while you're preparing the other ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Chop, slice, and dice all the veg and the garlic. When you're ready to cook, heat a wok over medium high heat and add a couple tablespoons of oil. Add the chicken and stir-fry until it's got some color. Take the chicken out of the pan and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Add a little more oil to the pan and add all your vegetables, garlic, and chili. Stir-fry for a few minutes until the vegetables are tender. Add the chicken back to the pan along with the Thai basil and stir-fry until everything is well-combined, and the basil is wilted. Plate, and serve hot with some rice!"
+    }
+  ]
+}

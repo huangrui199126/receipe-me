@@ -1,0 +1,110 @@
+{
+  "id": "tr_2039",
+  "title": "Chinese Roast Pork on Garlic Bread: A Retro Sandwich Recipe",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/04/roast-pork-garlic-bread-sandwich-8.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-roast-pork-garlic-bread/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "chinese roast pork on garlic bread",
+    "roast pork sandwich"
+  ],
+  "nutrition": {
+    "calories": 457,
+    "protein": 29.0,
+    "carbs": 21.0,
+    "fat": 15.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "sliced Chinese roast pork (char siu) ((450g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((mashed))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  Italian or submarine rolls",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "teaspoons",
+      "name": "20g softened butter ((optional))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Chinese hot mustard (to serve)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Duck sauce (to serve)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Slice the Chinese roast pork (char siu) into thin slices."
+    },
+    {
+      "order": 2,
+      "instruction": "Mixed the fresh mashed garlic (you can also use a garlic press) with the olive oil and salt."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut the Italian roll in half. If the roll is very thick, you may want to remove some of the soft bread inside. Spread the garlic and olive oil mixture evenly on one side of the bread and lightly toast it."
+    },
+    {
+      "order": 4,
+      "instruction": "Spread 2 teaspoons butter (if using) on the other side of the bread and repeat with the other roll. You can use the garlic and oil spread on both sides if you do not want to use butter."
+    },
+    {
+      "order": 5,
+      "instruction": "Lay the sliced pork on the sandwich, close it, cut on a diagonal, and plate with a Kosher dill pickle, Chinese hot mustard, and duck sauce on the side."
+    }
+  ]
+}

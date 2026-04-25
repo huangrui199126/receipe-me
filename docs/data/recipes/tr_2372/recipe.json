@@ -1,0 +1,85 @@
+{
+  "id": "tr_2372",
+  "title": "Homemade Hunan Salted Chilies (Duo Jiao - 剁椒)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/09/duo-jiao-5.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/how-to-make-hunan-salted-chilies-duo-jiao/",
+  "servings": 16,
+  "prepTime": 90,
+  "cookTime": 0,
+  "tags": [
+    "hunan salted chilies"
+  ],
+  "nutrition": {
+    "calories": 16,
+    "protein": 1.0,
+    "carbs": 3.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "18",
+      "unit": "ounces",
+      "name": "medium hot red chili peppers ((such as red cherry peppers, red jalapeño, red anaheim, or fresno chilies))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "8",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "clear rice wine ((米酒 - mijiu))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Wash your peppers thoroughly. Let them dry in a colander or wipe them with a clean kitchen towel."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove the stems, seeds, and veins of the peppers. If you want your duo jiao to be very spicy, you can skip this step and chop the entire pepper minus the stems (tread carefully!)."
+    },
+    {
+      "order": 3,
+      "instruction": "Use a sharp cleaver or knife to chop the peppers like you would for a relish—it should be a rough chop, not a fine mince. Transfer the peppers to a clean bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the salt, sugar and clear rice wine. Mix everything thoroughly, and cover the bowl with a clean overturned plate. Let the chopped peppers sit in the brine for 1 hour."
+    },
+    {
+      "order": 5,
+      "instruction": "Next, transfer the peppers to a medium sized canning jar. There should be a ½ inch of room at the top of the jar for liquid to come out of the peppers during the fermentation period."
+    },
+    {
+      "order": 6,
+      "instruction": "Fold a piece of plastic wrap into a square (4 layers) to fit over the jar, and press the plastic into the jar to eliminate as much air as possible between the plastic and the brined peppers."
+    },
+    {
+      "order": 7,
+      "instruction": "Seal the jar and leave in a cool, dark place for 2 weeks. After fermenting the Hunan chopped peppers for 2 weeks at room temperature, refrigerate. At this point, they should be ready to eat but they will keep in the refrigerator for months as long as you use clean utensils when scooping out the peppers to use."
+    }
+  ]
+}

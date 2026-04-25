@@ -1,0 +1,150 @@
+{
+  "id": "tr_2020",
+  "title": "Chinese Braised Duck Legs",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/04/chinese-braised-duck-8.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-braised-duck-legs/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 90,
+  "tags": [
+    "chinese braised duck",
+    "duck legs"
+  ],
+  "nutrition": {
+    "calories": 442,
+    "protein": 50.0,
+    "carbs": 7.0,
+    "fat": 21.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  duck legs",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Shaoxing wine ((can substitute clear rice wine or cooking sherry))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "low sodium chicken stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10-12  scallions ((cut into 2-inch lengths))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  star anise ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bay leaf ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse the duck legs and trim off any excess fat (set aside to render down for long-term storage). Pat dry with a paper towel. Preheat your oven to 400 degrees. Heat a deep skillet or Dutch oven over medium high heat. When the skillet is hot, add the duck legs, skin side down."
+    },
+    {
+      "order": 2,
+      "instruction": "Turn heat down to medium low, and cook until the skin on the duck legs is evenly golden brown. Do not attempt to move the duck legs until you’ve seared them properly. Flip the duck legs and sear on the other side for 1 minute."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove the duck legs from the pot, and pour off the excess duck fat (strain it into a container and refrigerate it for use in other cooking applications)."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the Shaoxing wine, stock, soy sauce, oyster sauce, sesame oil, white pepper, ginger, garlic, and scallions to the pot. Also throw in the star anise and bay leaf, if using. Return the duck legs to the pot, skin side up. The liquid should come halfway up the duck legs but not cover them."
+    },
+    {
+      "order": 5,
+      "instruction": "Bring the liquid to a simmer, and transfer to the oven. Cook for 30 minutes, uncovered."
+    },
+    {
+      "order": 6,
+      "instruction": "After 30 minutes in the oven, lower the heat to 350 degrees, and cook for another 30 minutes (uncovered), or until tender."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve with the braising liquid as a sauce (pour into a fat separator to remove any excess fat), steamed rice, and sauteed greens!"
+    }
+  ]
+}

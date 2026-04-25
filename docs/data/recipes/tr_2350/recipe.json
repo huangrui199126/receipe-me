@@ -1,0 +1,109 @@
+{
+  "id": "tr_2350",
+  "title": "Chengdu-Style Sichuan Fried Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/08/sichuan-fried-rice-2-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/sichuan-fried-rice/",
+  "servings": 6,
+  "prepTime": 30,
+  "cookTime": 35,
+  "tags": [
+    "sichuan fried rice"
+  ],
+  "nutrition": {
+    "calories": 443,
+    "protein": 16.0,
+    "carbs": 53.0,
+    "fat": 18.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "5",
+      "unit": "ounces",
+      "name": "Jinhua ham ((140g, or any standard salt cured ham sold at your Asian grocery store))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "5",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 packet suimi ya cai ((2.8 oz./80g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "7",
+      "unit": "cups",
+      "name": "cooked jasmine rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs ((beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the jinhua ham in a heatproof bowl or plate. Heat up your choice of steaming device (e.g., an actual steamer pot, a wok with water and a metal rack, etc.), and steam the ham for 15 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove from the steamer and cool. Chop up the ham and then mince it finely."
+    },
+    {
+      "order": 3,
+      "instruction": "Next, heat 5 tablespoons of oil in the the wok over high heat. Add the ham and stir fry until it’s lightly crisped at the edges. Add the suimi ya cai and stir fry for 2 minutes until fragrant. Add the scallions and stir-fry until the scallions get lightly blistered."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the rice to the wok and stir fry to distribute the ingredients evenly. Spread the rice out in one layer and let “fry” for 2 minutes. Add the white pepper and Shaoxing wine. Stir the rice to combine."
+    },
+    {
+      "order": 5,
+      "instruction": "Spread out again and let the rice fry for another 2 minutes. Stir to combine, and spread it out and let it fry again. Next, drizzle the beaten eggs over the rice. Stir fry the rice, allowing the egg to cook and distribute throughout. Serve!"
+    }
+  ]
+}

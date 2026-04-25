@@ -1,0 +1,125 @@
+{
+  "id": "tr_2418",
+  "title": "Dim Sum Steamed Spare Ribs with Black Beans",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/12/dim-sum-spare-ribs-7-1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/dim-sum-spare-ribs-w-black-beans/",
+  "servings": 4,
+  "prepTime": 480,
+  "cookTime": 10,
+  "tags": [
+    "steamed spare ribs"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 14.0,
+    "carbs": 8.0,
+    "fat": 20.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "pork ribs ((450g, cut into 1-inch pieces; your butcher can do this for you!))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "long hot green peppers ((roughly chopped and de-seeded))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "long hot red peppers ((roughly chopped and de-seeded))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Chinese fermented black beans ((rinsed thoroughly))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the rib pieces, sugar, salt, wine, sesame oil and white pepper into a bowl and mix until the ribs are coated. Cover and let them marinate in the fridge overnight for best results. If you're strapped for time, 30 minutes is the minimum marinating time. Add cornstarch and water to the marinated ribs and mix well. With the cornstarch, there should be little or no liquid in the mixture."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the ribs on a heatproof plate for steaming. We used small dim sum style plates as you can see in the photos, but you can use a large, shallow heat-proof bowl for the whole batch. Once you have plated the ribs, sprinkle the peppers and the fermented black beans over the top."
+    },
+    {
+      "order": 3,
+      "instruction": "Next, bring some water to a simmer in a metal steamer or in a wok with a steaming rack set in the bottom. Place the plate(s) into your steamer apparatus, cover, and steam for 10 minutes, or until the ribs are opaque and cooked through. Serve as dim sum or as a delicious one plate meal over rice!"
+    }
+  ]
+}

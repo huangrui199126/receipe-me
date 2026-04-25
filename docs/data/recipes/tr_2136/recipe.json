@@ -1,0 +1,153 @@
+{
+  "id": "tr_2136",
+  "title": "Spicy Fried Chicken Wings: Chinese Takeout Style",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/11/spicy-fried-chicken-8-1.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/spicy-fried-chicken-wings/",
+  "servings": 10,
+  "prepTime": 480,
+  "cookTime": 35,
+  "tags": [
+    "spicy fried chicken"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 10.0,
+    "carbs": 3.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  whole chicken wings ((rinsed and pat dry with paper towel))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "dried red chili flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "freshly ground Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1½",
+      "unit": "teaspoons",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1¼",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small egg white ((beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 to 6 cups oil ((for frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Put your chicken wings in a large bowl. In a small bowl, combine the paprika, 1 1/2 tablespoons of dried red chili flakes, white pepper, ground Sichuan peppercorns, cumin, salt, and sugar and mix thoroughly."
+    },
+    {
+      "order": 2,
+      "instruction": "To the chicken wings, add half of the spice mixture and the Shaoxing wine, and mix thoroughly with your hands until the chicken wings are evenly coated. Cover, and let the wings marinate in the refrigerator overnight (a full 24 hours is even better)."
+    },
+    {
+      "order": 3,
+      "instruction": "After the wings have finished marinating, take them out of the refrigerator, and let them come up to room temperature. There may be some liquid at the bottom of the bowl, which is fine. Add the beaten egg white, cornstarch, and flour to the wings, and mix well with a spatula. The wings should be very lightly coated with a thin batter."
+    },
+    {
+      "order": 4,
+      "instruction": "In a deep pot, heat your frying oil to 325F. There should be enough oil so that the wings can be submerged. Fry the wings in small batches for 5 minutes each, and transfer to a sheet pan lined with paper towels."
+    },
+    {
+      "order": 5,
+      "instruction": "After all of the wings are fried, return them to the oil in batches fry a second time for 2 minutes each batch--until they turn golden brown and crispy. Transfer the wings to a stainless steel bowl and sprinkle in the remaining spice mixture. Toss the wings until they are well coated!"
+    },
+    {
+      "order": 6,
+      "instruction": "If you like, per standard practice with fried food, feel free to add more salt to taste before serving!"
+    }
+  ]
+}

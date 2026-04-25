@@ -1,0 +1,153 @@
+{
+  "id": "tr_2084",
+  "title": "Pickled Long Beans with Pork Stir Fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/01/pickled-long-beans-8-1.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-pickled-long-beans-pork/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "pickled long beans"
+  ],
+  "nutrition": {
+    "calories": 343,
+    "protein": 14.0,
+    "carbs": 22.0,
+    "fat": 23.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "ground pork ((225g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "minced ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic ((chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "spicy bean paste ((dou ban jiang))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small green bell pepper ((diced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small red bell pepper ((diced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 to 10  bird’s eye chilies ((thinly sliced, depending on your desired heat level))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 package Chinese pickled long beans ((chopped into ¼” pieces))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, marinate the ground pork. Mix it with 1 tablespoon of the oil, 2 teaspoons cornstarch, 1 teaspoon soy sauce, and 1 teaspoon Shaoxing wine. Set aside while you gather your other ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat the remaining 2 tablespoons of oil in a wok or cast-iron skillet over high heat. Add the pork and stir-fry until cooked through and lightly crisped. Add the ginger and allow to infuse the oil for another minute. Next, add the garlic and cook until the garlic is lightly browned. Add the spicy bean paste and stir to combine."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the diced green and red bell peppers and cook until they are slightly softened. Add the chilies, long beans, sugar, and white pepper, and cook for a few minutes to heat the long beans through. If you want an extra kick, add the chilies early on along with the ginger to really infuse the oil."
+    },
+    {
+      "order": 4,
+      "instruction": "Serve with plenty of white rice!"
+    }
+  ]
+}

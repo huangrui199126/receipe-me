@@ -1,0 +1,147 @@
+{
+  "id": "tr_2088",
+  "title": "San Xian Wontons (Shrimp, Pork &amp; Chicken Wontons)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/11/san-xian-wontons-17.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/san-xian-wontons/",
+  "servings": 12,
+  "prepTime": 120,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 346,
+    "protein": 18.0,
+    "carbs": 44.0,
+    "fat": 10.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "shrimp ((peeled and deveined, coarsely chopped))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "ground pork ((preferably hand-chopped))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "ground chicken ((preferably hand-chopped))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "ginger ((finely minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "scallion ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "tablespoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 packages wonton wrappers",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A large handful of leafy greens",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To make the filling, combine the shrimp, pork, chicken, minced ginger, chopped scallions, vegetable oil, light soy sauce, oyster sauce, sesame oil, white pepper, and water. Using a rubber spatula, mix and fold the mixture in one direction for about 5 to 10 minutes until it becomes sticky, like a paste."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare a large sheet pan lined with parchment paper. Get a small bowl of cold water. Lastly, bring a small pot of water to a boil, so you can taste-test the filling."
+    },
+    {
+      "order": 3,
+      "instruction": "To assemble the wontons, take your square wonton wrapper, dab one side of the square with your finger, and add about a teaspoon of filling in the center. Gently fold the wrapper in half and seal on all sides. Using your finger, brush another dab of water on one corner (of the filling side), and gently bring in and overlap the two corners of the wonton by pressing them together. Place on the parchment-lined sheet pan. Make one more, cook, and taste test the two samples. Make adjustments accordingly to taste before proceeding to make the whole batch."
+    },
+    {
+      "order": 4,
+      "instruction": "To cook the wontons, boil water in a pot, and add the wontons (fresh or frozen, but never defrosted wontons). To prevent the wontons from sticking to the bottom of the pot, stir the boiling water gently so the water is moving when you add in the wontons. Cook uncovered for about 3-5 minutes using medium heat. This is also a good time to blanch some leafy greens to complete the meal. If necessary, add ½ cup cold water if the water is boiling too vigorously. This helps manage the starch levels in the water. The wontons are done once they float to the surface and turn plump."
+    },
+    {
+      "order": 5,
+      "instruction": "Since it’s best to serve wontons with stock or broth, it’s a good idea to heat up the stock or broth at the same time as you’re cooking the wontons. I like to use chicken broth or a mixture of chicken and pork broth, which you have to prepare ahead of time. More times than not, I just use the water that I cooked the wontons in. This is my trick for when I am in a pinch--you can give it a try too. I first add light soy sauce, sesame oil, ground white pepper, and chopped scallions to the soup bowl. Then I ladle in the cooked wontons and some of the cooking water, stir, and salt to taste."
+    }
+  ]
+}

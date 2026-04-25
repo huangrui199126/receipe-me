@@ -1,0 +1,137 @@
+{
+  "id": "tr_2431",
+  "title": "Chinese Salted Pork Bone Soup",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/11/Chinese-pork-bone-soup-4.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-salted-pork-bone-soup/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 140,
+  "tags": [
+    "salted pork bone soup"
+  ],
+  "nutrition": {
+    "calories": 309,
+    "protein": 37.0,
+    "carbs": 10.0,
+    "fat": 12.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil ((or any neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "salted meaty pork neck bones ((cut into 2-inch/5cm pieces))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "8 1/2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger ((about 2-inches/5cm long, ⅛-inch/0.3cm thick))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1.75",
+      "unit": "ounces",
+      "name": "mung bean vermicelli ((about 1 bundle; can substitute with thicker sweet potato glass noodles or about 1 cup cooked rice))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "napa cabbage ((or greens of your choice))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "ground white pepper (to taste)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cilantro ((coarsely chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat your soup pot over high heat until it just starts to smoke. Reduce the heat to medium-high. Add 2 tablespoons of oil to evenly coat the bottom, then add the salted pork bones in a single layer. Brown the bones on all sides until light golden brown, taking care not to burn them, which will cause your soup to taste bitter."
+    },
+    {
+      "order": 2,
+      "instruction": "While the meat is browning, boil the water in a separate pot. Once the meat is done, carefully pour the boiling water into the soup pot."
+    },
+    {
+      "order": 3,
+      "instruction": "Increase the heat to high to quickly bring the soup to a boil. Add the ginger slices, cover, reduce the heat to medium low, and simmer for 1 ½ to 2 hours. (If using, add the soaked dried squid, conch, or dried scallops plus the liquid it soaked in along with the ginger.)"
+    },
+    {
+      "order": 4,
+      "instruction": "Soak the mung bean vermicelli or sweet potato glass noodles, submerging them in cool water so they soften as the soup cooks. They won’t need to cook for very long."
+    },
+    {
+      "order": 5,
+      "instruction": "Wash the napa cabbage (or your leafy green of your choice). Shake off excess water, and cut the cabbage into bite-sized pieces."
+    },
+    {
+      "order": 6,
+      "instruction": "After 1 ½ to 2 hours of cooking, add the napa cabbage. Increase the heat to high to bring the soup to a boil. Cover, reduce the heat to medium, and cook for another 5 minutes until the cabbage is tender (or if using a more tender leafy green like bok choy, cook for 1 to 2 minutes)."
+    },
+    {
+      "order": 7,
+      "instruction": "If you are using cooked rice or potato starch noodles instead of glass noodles, this is the time to add them."
+    },
+    {
+      "order": 8,
+      "instruction": "Season with salt and white pepper to taste. Before serving, add the mung bean vermicelli, scallions, and cilantro. Bring the soup to a boil and serve."
+    }
+  ]
+}

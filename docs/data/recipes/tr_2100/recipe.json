@@ -1,0 +1,141 @@
+{
+  "id": "tr_2100",
+  "title": "Sticky Rice Stuffed Chicken Breast",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/09/sticky-rice-stuffed-chicken-breast-8.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/stuffed-chicken-breast-sticky-rice/",
+  "servings": 4,
+  "prepTime": 35,
+  "cookTime": 45,
+  "tags": [
+    "sticky rice chicken"
+  ],
+  "nutrition": {
+    "calories": 396,
+    "protein": 31.0,
+    "carbs": 24.0,
+    "fat": 20.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "bacon ((chopped))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. cremini or shiitake mushrooms ((roughly chopped))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cooked sticky rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 ½",
+      "unit": "teaspoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  boneless skinless chicken breasts ((butterflied))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sand ginger powder ((or galangal powder - optional))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a wok over high heat, add the chopped bacon and fry until the bacon is crispy and some of the fat has rendered out. Add the chopped mushrooms and sauté until caramelized."
+    },
+    {
+      "order": 2,
+      "instruction": "Stir in the scallions. Transfer to a bowl along with the sticky rice. Add the light soy sauce, dark soy sauce, sesame oil, and five spice powder. Stir until combined."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat your oven to 350 degrees F. Take your butterflied chicken breasts and season them with salt and pepper. Sprinkle with the sand ginger powder if using."
+    },
+    {
+      "order": 4,
+      "instruction": "Divide the sticky rice mixture among the four butterflied chicken breasts, folding them over to seal, and use a couple toothpicks to secure the butterflied halves together."
+    },
+    {
+      "order": 5,
+      "instruction": "In a cast iron skillet over medium high heat, add the vegetable oil. Sear the chicken breasts on both sides (about 2 minutes per side). Deglaze with a couple tablespoons of hot water, and swirl it around the pan. Transfer to the oven, and roast for 15 minutes, or until the chicken is cooked through. Serve!"
+    }
+  ]
+}

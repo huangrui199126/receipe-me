@@ -1,0 +1,273 @@
+{
+  "id": "tr_2427",
+  "title": "Orange Beef",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/11/Orange-beef-16.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/orange-beef/",
+  "servings": 4,
+  "prepTime": 80,
+  "cookTime": 20,
+  "tags": [
+    "orange beef"
+  ],
+  "nutrition": {
+    "calories": 306,
+    "protein": 21.0,
+    "carbs": 24.0,
+    "fat": 14.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "beef flank steak ((or top sirloin))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "orange juice",
+      "emoji": "🍊",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vegetable oil ((or any neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "five spice powder ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "warm water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "orange marmalade",
+      "emoji": "🍊",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "orange juice",
+      "emoji": "🍊",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cornstarch ((for dredging))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "vegetable oil ((plus 1/2 tablespoon))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "broccoli florets",
+      "emoji": "🥦",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "7  whole dried red chili peppers",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "5",
+      "unit": "pieces",
+      "name": "dried Mandarin orange peel ((1 to 1 ½ inches/3 to 4 cm in size))",
+      "emoji": "🍊",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic ((finely chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((sliced at an angle into 2-inch/5cm) pieces)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "cornstarch slurry ((2 teaspoons cornstarch mixed with 1 tablespoon water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 26
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, prepare the beef: Slice the beef against the grain into 2- to 3-inch (5-7cm) pieces, between ⅛- to ¼-inch (about 0.5cm) thick. Add the beef to a medium bowl, along with the water, cornstarch, orange juice, oil, oyster sauce, baking soda, and five spice powder, if using. Marinate for 1 hour."
+    },
+    {
+      "order": 2,
+      "instruction": "Second, mix the sauce: In a medium bowl, add the warm water and sugar. Stir until the sugar is dissolved. Then add the orange marmalade, orange juice, light soy sauce, Shaoxing wine, sesame oil, and white pepper. Stir to combine, and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Put ¼ cup of cornstarch in a shallow bowl or dish. Dredge a few pieces of the marinated beef, shaking off any excess cornstarch. (It’s best to dredge the beef right before adding it to the hot cooking oil—see next step)."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat ⅓ cup of vegetable oil in your wok over high heat, stirring for even heating, until it just starts to smoke. Spread a few beef slices evenly in the wok. Sear the beef in batches (each piece of beef should be in contact with the oil) for 45 seconds to 1 minute on each side, until browned. Drain away any excess oil from the beef, and remove the pieces from the wok. Repeat in batches until you’ve cooked all the beef. Set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "In a pot, bring 4 cups of water to a boil and add ½ teaspoon salt and ½ tablespoon oil. Add the broccoli, and cook for 45 seconds (or a few seconds longer if you like your broccoli softer). Drain and arrange the broccoli in a border around your serving plate. (If you prefer, you can also add the broccoli to the sauce later along with the beef.)"
+    },
+    {
+      "order": 6,
+      "instruction": "Back to your wok. Remove the excess frying oil, leaving 1 tablespoon behind. Over medium-low heat, add the ginger slices, dried chilies, dried orange peel, and star anise. Stir to caramelize the ginger and toast the star anise and dried chilies—about 30 to 60 seconds. Add the garlic and scallions, stir-fry for another 30 seconds."
+    },
+    {
+      "order": 7,
+      "instruction": "Stir in the sauce and increase the heat to medium-high to bring the sauce to a simmer. Once simmering, slowly stir in the cornstarch slurry, and cook until the sauce thickens enough to coat a spoon."
+    },
+    {
+      "order": 8,
+      "instruction": "Toss in the beef (and the broccoli if you’d rather have it stirred into the sauce). Scoop onto the serving plate and serve immediately."
+    }
+  ]
+}

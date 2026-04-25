@@ -1,0 +1,157 @@
+{
+  "id": "tr_2501",
+  "title": "Braised Pork Belly with Pickled Mustard Greens (酸菜卤肉饭)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/12/pork-belly-sour-mustard-greens-18.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pork-belly-pickled-mustard-greens-chinese/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 75,
+  "tags": [
+    "pork belly with pickled mustard"
+  ],
+  "nutrition": {
+    "calories": 659,
+    "protein": 13.0,
+    "carbs": 13.0,
+    "fat": 60.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "17",
+      "unit": "ounces",
+      "name": "pickled mustard greens ((酸菜 - 1 package))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "boneless skin-on pork belly ((can also use skinless pork belly))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small cinnamon stick",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "neutral oil ((such as avocado, canola, or vegetable oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1.4",
+      "unit": "ounce",
+      "name": "rock sugar ((or substitute 3 tablespoons granulated sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 cups water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "5",
+      "unit": "slices",
+      "name": "ginger ((about 2 inches/5cm long, ⅛-inch or 3mm thick))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a colander, rinse the pickled mustard greens a couple times, to reduce some of their saltiness and sourness (rinse more times if you are sensitive to salt). Then squeeze out any excess liquid from the greens with your hands. Cut the stem portion of the greens into ½-inch pieces, and cut the leaf portions a bit larger, so they don’t fall apart during cooking."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut the pork belly into ½-inch (1.25cm) thick pieces. Put the star anise, bay leaves, cinnamon stick, and Sichuan peppercorns into a small tea filter bag (those designed for loose leaf tea), or tie them into a small piece of cheesecloth with kitchen string."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the pork belly to a medium pot with enough water to cover. Bring it to a boil. Once boiling, immediately drain the pork belly through a colander, rinse clean, and set aside. This will give the dish a cleaner flavor and appearance."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat 1 tablespoon of neutral oil in a wok over medium-low heat, and add the rock sugar. Cook until the sugar melts into an amber-colored liquid, and then add the pork belly. Increase the heat to medium-high, and cook for a few minutes to lightly brown the edges of the pork belly pieces."
+    },
+    {
+      "order": 5,
+      "instruction": "Then add the Shaoxing wine, light soy sauce, dark soy sauce, and 2 (or 3 if you want more sauce) cups of water. If you are not using a wok, use 1½ to 2½ cups of water, as the liquid won’t cook off as quickly in a thick-bottomed pot. Add the spice packet you prepared earlier, and bring the contents of the wok to a boil. Once boiling, reduce the heat to medium-low, cover, and simmer for 35 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Meanwhile, in a separate pan, heat the remaining 2 tablespoons of oil over medium-high heat. Cook the ginger slices for 1 minute. Increase the heat to high, and add the pickled mustard greens. Stir, and cook for about 5 to 8 minutes, until the greens are dry and you start hearing a popping sound from the greens in the pan. Remove from the heat. This step is key!"
+    },
+    {
+      "order": 7,
+      "instruction": "Once the pork has simmered for 35 minutes, remove the spice packet, and stir in the cooked pickled greens with the ginger. Simmer for another 15 minutes, or longer if you like the pork belly really tender. Feel free to adjust the sauce level by adding more water if it is too dry (or by turning up the heat to cook off the liquid if it’s too wet). Serve with steamed rice!"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "tr_2018",
+  "title": "Thai Basil Pork Belly",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/06/thai-basil-pork-belly-5.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/thai-basil-pork-belly/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "thai basil pork belly"
+  ],
+  "nutrition": {
+    "calories": 563,
+    "protein": 13.0,
+    "carbs": 6.0,
+    "fat": 64.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  Thai bird chilies ((thinly sliced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "lean pork belly ((thinly sliced))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce ((or Thai thin soy sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Thai black soy sauce ((or 1 teaspoon Chinese dark soy sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "holy basil or Thai basil leaves ((packed))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a wok over medium heat, add the oil, garlic, and chilies. Cook for 1 minute. Crank up the heat to high, and add the pork belly. Stir-fry until caramelized and a little crisp, 2 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the sugar, fish sauce, oyster sauce, and soy sauces. Stir-fry for 1 minute, and add the basil. Stir-fry until the basil is wilted. Serve immediately."
+    }
+  ]
+}

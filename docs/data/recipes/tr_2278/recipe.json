@@ -1,0 +1,81 @@
+{
+  "id": "tr_2278",
+  "title": "Cold Tofu Salad",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/07/cold-tofu-salad-4-1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/cold-tofu-salad/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "tofu salad"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 package tofu “noodles”",
+      "emoji": "🍜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot ((sliced into thin matchsticks))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  long hot green pepper ((sliced into long, thin strips))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 ½",
+      "unit": "teaspoons",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and white pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by blanching your cut carrot and green pepper in some simmering water for one minute. Remove the veggies from the pot and place them into a bowl of ice water to preserve color and crunch."
+    },
+    {
+      "order": 2,
+      "instruction": "In a serving bowl, add the raw tofu noodles with your veggies. Toss in the sesame oil, salt, and white pepper. Mix it together well and garnish with toasted black or white sesame seeds."
+    }
+  ]
+}

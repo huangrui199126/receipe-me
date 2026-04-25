@@ -1,0 +1,149 @@
+{
+  "id": "tr_2164",
+  "title": "Pan Fried Fish: Chinese Whole Fish Recipe",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/01/pan-fried-fish-2-1.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pan-fried-fish/",
+  "servings": 6,
+  "prepTime": 30,
+  "cookTime": 15,
+  "tags": [
+    "pan-fried fish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 41.0,
+    "carbs": 2.0,
+    "fat": 13.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  porgies ((about 1 to 1½ pounds each; 450g-650g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "slices",
+      "name": "ginger ((1/8-inch thick))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "hot water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "fresh ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sesame oil ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Clean the fish, removing all scales, making sure to pay attention to scales on the belly, the head, and near the fins. Even if you have it cleaned at your fish market, fish mongers always tend to miss some scales. Make sure you clean out the inside of the fish as well."
+    },
+    {
+      "order": 2,
+      "instruction": "Let the fish drain in a colander and pat both sides dry with a paper towel. Transfer to a plate. Sprinkle salt on both sides of both fish--use about 1/4 teaspoon in total. Set aside for 15 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat your wok over medium-high heat, and spread 3 tablespoons of oil around the perimeter. Add the ginger. After about 10 seconds, turn the ginger over for another 10 seconds and push them to the side. The wok should be hot but not smoking too much (an indication that the wok is too hot). The ginger should be slightly caramelized but not burned."
+    },
+    {
+      "order": 4,
+      "instruction": "Use a paper towel to pat the fish dry again, and carefully place into the wok in one motion. Do not move the fish! After about 1 minute, turn the heat down to medium; you want to get a nice light crust on the skin without it burning. Tilt the wok carefully one side at a time so the oil distributes around the perimeter of the fish, including the head and the tail. You can add more oil around the perimeter of the wok if you want some extra insurance against sticking."
+    },
+    {
+      "order": 5,
+      "instruction": "Continue frying the fish for 5 to 6 minutes on the first side. At this point, a light crust should have formed, and you can give the wok a little shake now--the fish should slide around easily. If not, you can use a metal spatula to lift the fish slightly and peek underneath to check the color and to make sure the fish is not sticking. The fish should be a nice golden brown."
+    },
+    {
+      "order": 6,
+      "instruction": "If the fish still sticks, then you probably have the heat too low, so turn it up slightly, add a little more oil, and let it cook for another 1 to 2 minutes! Once you have the fish sliding around in the wok or pan and the first side is golden brown, then you are ready for the flip! Carefully slide the spatula under the middle of the fish on the side towards the middle of the wok and in one steady motion, lift and flip it towards the outside of the wok. Repeat the same “flip” for the other fish."
+    },
+    {
+      "order": 7,
+      "instruction": "Let the fish fry on the second side for another 4 minutes and again, add some oil if you think it is necessary. While the fish is frying, dissolve the sugar and hot water in a small bowl, and add the soy sauce, white pepper, and sesame oil (if using). Set aside."
+    },
+    {
+      "order": 8,
+      "instruction": "Shake the wok to make sure the fish is not stuck. Next, add the Shaoxing wine around the perimeter of the wok and let cook off for 30 seconds. Pour the soy sauce mixture around the perimeter of the wok and turn the heat back up until the sauce is simmering (about 30 seconds). Add in the chopped scallions."
+    },
+    {
+      "order": 9,
+      "instruction": "Turn off the heat, and use your spatula to carefully transfer the fish to serving plates. Scoop up the rest of the remaining sauce, pour evenly over the fish and serve!"
+    }
+  ]
+}

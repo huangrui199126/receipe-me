@@ -1,0 +1,137 @@
+{
+  "id": "tr_2443",
+  "title": "Tortilla Jian Bing Wraps (煎饼卷)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/03/tortilla-jian-bing-18.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/tortilla-jianbing-wraps/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "tortilla jian bing"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 13.0,
+    "carbs": 46.0,
+    "fat": 27.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Chinese fried dough stick ((youtiao; store-bought is fine))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large whole wheat flour tortillas ((large enough to fit in a 10-inch / 25 cm pan))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "vegetable oil ((or any neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large eggs ((beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sweet bean sauce (tian mian jiang) ((or to taste; can also substitute hoisin sauce))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "spicy bean sauce (la doubanjiang) ((or to taste))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "chili oil ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons cilantro ((finely chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "We use frozen, store-bought youtiao for this recipe. To toast it, pop one in the oven or toaster oven for 3-5 minutes at 350°F (lean towards the lower end of the range if it has already thawed in your refrigerator). Leave it in the oven, turned off, while you prepare the jian bing so it stays warm, but doesn’t get too crunchy and hard."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a large cast iron or nonstick skillet over medium heat. Add a drizzle of oil, and place a tortilla in the hot skillet, and toast each side for 15-20 seconds, until just warmed through but not crisp. Remove from the heat and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "With the pan still over medium heat, add 1 teaspoon of oil to the pan (you may need more if you are not using a non-stick skillet). Pour one beaten egg into the center of the pan, and immediately swirl it around into an approximate circle shape. Place the wrap on top of the egg, pressing the wrap and the egg together."
+    },
+    {
+      "order": 4,
+      "instruction": "Give the wrap a clockwise twist to loosen the egg from the pan. Flip the wrap, so the egg side is facing up. The egg should be tender and just cooked enough that it doesn’t drip when flipped. If bubbles form, pop them with a fork."
+    },
+    {
+      "order": 5,
+      "instruction": "Use a pastry brush to brush a thin layer of sweet bean sauce over the egg in a thin layer, followed by a thin layer of spicy bean paste, and a drizzle of chili oil to taste. If you’re using all three, be mindful of salt levels. A thin layer goes a long way."
+    },
+    {
+      "order": 6,
+      "instruction": "Sprinkle 1 teaspoon of toasted sesame seeds evenly over the top, followed by half the cilantro, and half the scallions."
+    },
+    {
+      "order": 7,
+      "instruction": "Place the toasted youtiao in the center. Using a spatula (or two), you can roll the jianbing one of two ways: like a burrito where you fold one side in (the ‘bottom’) and then fold the two “wings” on either side in, or simply roll it into a log with both ends open. It helps to use your spatula to make an indentation along each fold so that it stays rolled. Let cook for 1 minute on the seal-side so the jian bing stays closed and has a chance to brown lightly."
+    },
+    {
+      "order": 8,
+      "instruction": "Repeat with the remaining ingredients to make a second jianbing, and enjoy!"
+    }
+  ]
+}

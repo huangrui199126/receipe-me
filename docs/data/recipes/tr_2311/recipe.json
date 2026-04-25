@@ -1,0 +1,81 @@
+{
+  "id": "tr_2311",
+  "title": "Mung Bean Popsicles",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/08/mung-bean-popsicles-10.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/mung-bean-popsicles/",
+  "servings": 10,
+  "prepTime": 480,
+  "cookTime": 40,
+  "tags": [
+    "mung bean popsicles"
+  ],
+  "nutrition": {
+    "calories": 193,
+    "protein": 7.0,
+    "carbs": 42.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "10",
+      "unit": "ounces",
+      "name": "dried mung beans ((285g))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "9 ½",
+      "unit": "cups",
+      "name": "cold water ((divided))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2½",
+      "unit": "tablespoons",
+      "name": "sweet rice flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "rock sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse the dried mung beans in a colander. Transfer to a medium pot and soak in 9 cups of water for at least two hours prior to cooking. Mix the glutinous (sweet) rice flour with ½ cup of cold water until completely dissolved, and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "When two hours have passed, add the sugar to the pot, and bring to a boil with the lid on. Once boiled, turn the heat down and simmer for 30-35 minutes until the mung beans are soft, with the majority still maintaining their shape. During this time, check the beans periodically, because fresher beans cook much faster than older beans. Depending on what you have, you may not need the full 30 minutes to cook the mung beans to the right consistency. Be sure not to overcook them."
+    },
+    {
+      "order": 3,
+      "instruction": "Now turn up the heat, bring the mixture to a boil, and add the glutinous rice flour mixture. (Make sure to give it a stir to recombine before adding.) Stir the mixture quickly, and turn off the heat. Drain and scoop out a cup of cooked beans, and set aside to cool."
+    },
+    {
+      "order": 4,
+      "instruction": "Let the mung bean soup cool completely before adding it to a blender, and pulse it a couple of times to break down the beans without turning it into a puree. Now we’re ready to assemble the popsicles!"
+    },
+    {
+      "order": 5,
+      "instruction": "First, add a spoonful of the cooked beans you set aside earlier to the bottom of each mold (the tip of the popsicle), then pour in the blended mung bean soup, leaving ⅛-inch between the surface of the liquid and the top of the mold, because the mixture will expand after freezing. Once all the molds are filled, lightly pound the mold 10 times against the table to get rid of air bubbles. Cover the molds with your lid, insert the popsicle sticks, and freeze for about 6 hours, or until completely frozen."
+    },
+    {
+      "order": 6,
+      "instruction": "To retrieve the popsicles, take the mold out of the freezer, and let it sit on the counter for about 2 to 3 minutes to defrost slightly. At this point, they should come out easily. Store them individually wrapped with plastic in a zip-top bag in the freezer!"
+    }
+  ]
+}

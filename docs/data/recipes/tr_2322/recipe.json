@@ -1,0 +1,81 @@
+{
+  "id": "tr_2322",
+  "title": "Raw Ginger Scallion Oil",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/06/ginger-scallion-oil-7.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/raw-ginger-scallion-oil/",
+  "servings": 8,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "ginger scallion oil"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "finely minced scallions ((must have white parts, 50g, about 2 large scallions))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "finely minced fresh ginger ((20g, about 10 thin slices))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/3-1/2 cup vegetable oil ((80-120 ml))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "light soy sauce ((to taste; OPTIONAL))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Wash the scallions and pat them thoroughly dry. Thinly slice them into rounds, and then use your knife to mince them further. You should end up with 4 tablespoons finely minced scallions."
+    },
+    {
+      "order": 2,
+      "instruction": "Next, slice 10 rounds of ginger very thinly. Julienne them into matchsticks and mince them finely. (These steps could be done with a food processor.) You should end up with 3 tablespoons finely minced ginger."
+    },
+    {
+      "order": 3,
+      "instruction": "Combine the scallion, ginger, oil, and salt in a bowl (adjusting the oil and salt to your tastes). Mix thoroughly, and it’s ready to serve!"
+    },
+    {
+      "order": 4,
+      "instruction": "If we are enjoying poached chicken (bai qie ji), we split it into two small bowls, and add light soy sauce to one of them to taste."
+    }
+  ]
+}

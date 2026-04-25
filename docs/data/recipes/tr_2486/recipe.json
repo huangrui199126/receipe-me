@@ -1,0 +1,97 @@
+{
+  "id": "tr_2486",
+  "title": "Fluffy Scrambled Eggs with Salted Chilies (Duo Jiao)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/11/fluffy-chinese-scrambled-eggs-chives-duo-jiao-11.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/fluffy-chinese-scrambled-eggs-salted-chilies-duo-jiao/",
+  "servings": 2,
+  "prepTime": 7,
+  "cookTime": 3,
+  "tags": [
+    "chinese scrambled eggs"
+  ],
+  "nutrition": {
+    "calories": 314,
+    "protein": 18.0,
+    "carbs": 3.0,
+    "fat": 14.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  large eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch ((mixed into a slurry with 1 tablespoon water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "neutral oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "Chinese garlic chives ((chopped, about a handful; can also substitute 3 tablespoons finely chopped regular chives or scallion))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Hunan salted chilies (duò jiāo - 剁椒) ((take care to not scoop out excess liquid) )",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a medium bowl, add the eggs, sesame oil, and white pepper. Beat with chopsticks, a fork, or small whisk for about 1 minute, or until you see some frothy bubbles on the surface of the egg. Mix the cornstarch into a slurry with 1 tablespoon of water, and beat into the eggs."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a wok over high heat, or a nonstick skillet over medium-high heat. When it’s really hot, add the oil, followed by the garlic chives. Cook until they’re wilted but still bright green (you don’t want them to brown at all). Add the duo jiao salted chilies, taking care not to scoop the liquid with the peppers, which will make your eggs fry up less evenly. If you’re using regular chives, which are more delicate, reverse the order and add the duo jiao to the wok before the chives to avoid burning them."
+    },
+    {
+      "order": 3,
+      "instruction": "When the wok is steaming again (i.e., really hot), pour in the eggs. They should immediately bubble at the edges. Stir with a wok spatula (or rubber spatula, if using a nonstick skillet) using wide scooping motions to fold the eggs towards the center, swirling any uncooked egg back onto the hot surface of the wok. There’s no need to be strictly uniform—just make sure you’re using big strokes to make fluffy large chunks and constantly moving the eggs to avoid overcooking them."
+    },
+    {
+      "order": 4,
+      "instruction": "When the egg is just set (i.e., there may still be small pockets of runny bits), turn off the heat and plate immediately. The eggs will cook in their residual heat on the way to the dinner table."
+    }
+  ]
+}

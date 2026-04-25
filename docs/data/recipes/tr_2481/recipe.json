@@ -1,0 +1,241 @@
+{
+  "id": "tr_2481",
+  "title": "Kung Pao Beef",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/10/kung-pao-beef-14.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/kung-pao-beef/",
+  "servings": 4,
+  "prepTime": 75,
+  "cookTime": 20,
+  "tags": [
+    "kung pao beef"
+  ],
+  "nutrition": {
+    "calories": 472,
+    "protein": 29.0,
+    "carbs": 12.0,
+    "fat": 36.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "beef flank steak ((cut into small 1/4-inch or 0.6cm thick pieces))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "oil ((any neutral oil with a high smoke point, such as canola or avocado oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "warm water ((or beef/chicken stock))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorn powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil ((any neutral oil with a high smoke point))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "raw peanuts ((shelled and skinned))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil ((any neutral oil with a high smoke point))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "fresh ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  dried red chilies ((deseeded and sliced into small pieces; these can be spicy, so adjust according to your own taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "bell pepper ((diced; preferably red, orange, or yellow bell pepper))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped, white and green parts separated))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a medium bowl, combine the beef, cornstarch, Shaoxing wine, oil, oyster sauce, and baking soda until the beef is evenly coated. Marinate for 1 hour at room temperature."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare the sauce by combining the warm water or stock, light soy sauce, rice vinegar, sugar, cornstarch, hoisin sauce, Sichuan peppercorn powder, dark soy sauce, and sesame oil. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 1 tablespoon of oil in a wok over medium heat, and add the peanuts. Stir constantly (or they’ll burn) for 5 minutes, until golden brown and fragrant. Turn off the heat and stir for another minute using the residual heat in the wok. Set aside to cool. They will turn crunchy once they’re cooled completely. You can also skip this step and use already roasted shelled peanuts."
+    },
+    {
+      "order": 4,
+      "instruction": "Add 2 more tablespoons of oil to the wok. Heat the wok over high heat until it’s just smoking. Sear the beef for 1½ minutes on each side, or until the beef is slightly crispy on both sides. Having a hot wok is really important to avoid overcooking the beef. Reduce the heat to low, and remove the beef from the wok, leaving behind any oil."
+    },
+    {
+      "order": 5,
+      "instruction": "Over low heat, add the ginger and chilies. Toast until fragrant, taking care not to burn them. Add the bell peppers and white portions of the scallion. Cook for 1-2 minutes, until fragrant. Add the garlic, and stir-fry for 20 seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the beef and its juices back to the wok, and increase the heat to high. Stir-fry for 30 seconds."
+    },
+    {
+      "order": 7,
+      "instruction": "Stir up your prepared sauce (the cornstarch will have settled to the bottom, so make sure it’s well-incorporated). Add the sauce to the wok and stir everything together to deglaze it."
+    },
+    {
+      "order": 8,
+      "instruction": "Once the sauce is thickened and simmering, add the peanuts and the green parts of the scallions. There should be no standing sauce, but if it looks a little too thick, you can add a splash of water or stock. Give everything a final stir, turn off the heat, and serve with jasmine rice!"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "tr_2062",
+  "title": "Bang Bang Chicken: The Authentic Sichuan Version",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/08/bang-bang-chicken-8.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/bang-bang-chicken-sichuan/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [
+    "bang bang chicken"
+  ],
+  "nutrition": {
+    "calories": 213,
+    "protein": 15.0,
+    "carbs": 10.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "pound",
+      "name": "chicken breast ((225g))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  seedless cucumber (julienned)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "chicken stock ((i.e., the cooking water from the chicken))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "teaspoons",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "chili oil ((or to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ground Sichuan peppercorn",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, poach the chicken. In a small pot, add 2 cups water, 3 slices ginger and 1 scallion. Bring it to a boil, then add in the chicken breast. Once the water boils again, put the lid on and turn the heat to the lowest setting. Cook for 10-12 minutes. The chicken breast is done if the juice comes out clear when you poke the middle with a chopstick. Transfer the chicken breast to an ice bath to stop the cooking process and keep the chicken moist. Don’t discard the cooking water, as we’ll be using it later in the recipe."
+    },
+    {
+      "order": 2,
+      "instruction": "Second, assemble the plate. Julienne the cucumber and spread it in an even layer on a shallow plate. Now, hammer the chicken with a rolling pin to flatten the meat and break it up into shreds. Layer the chicken on top of the cucumber."
+    },
+    {
+      "order": 3,
+      "instruction": "Third, prepare the sauce. Mix together the following: ½ cup chicken stock (i.e., the cooking water from the chicken), 2 tablespoons light soy sauce, 4 teaspoons Chinese black vinegar, 2 tablespoons sugar, 1½ tablespoons sesame oil, 1 tablespoon chili oil (or to taste), 2 tablespoons toasted sesame seeds, 1 teaspoon ground Sichuan peppercorn, ½ teaspoon salt, and 2 tablespoons finely chopped scallions."
+    },
+    {
+      "order": 4,
+      "instruction": "Finally, pour the sauce over the chicken and cucumber, and serve. Toss the chicken and cucumber to coat with the sauce just before you’re ready to dig in!"
+    }
+  ]
+}

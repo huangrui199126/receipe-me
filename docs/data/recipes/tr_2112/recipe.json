@@ -1,0 +1,157 @@
+{
+  "id": "tr_2112",
+  "title": "Soy Sauce Braised Wild Mushroom Noodles",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/04/mushroom-noodles-6-1.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/soy-sauce-mushroom-noodles/",
+  "servings": 6,
+  "prepTime": 180,
+  "cookTime": 25,
+  "tags": [
+    "mushroom noodles"
+  ],
+  "nutrition": {
+    "calories": 283,
+    "protein": 12.0,
+    "carbs": 42.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  large dried shiitake mushrooms",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "oyster mushrooms",
+      "emoji": "🍄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "beech mushrooms",
+      "emoji": "🍄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  shallots ((finely chopped))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((with the white parts chopped and the green parts julienned))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "dark soy sauce ((preferably mushroom flavored))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "light soy sauce ((or low sodium soy sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "The dried mushroom-soaking water ((plus enough water to yield 2½ cups of liquid))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "fresh wheat noodles ((or other noodles of your choice))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "If you’re using dried shiitake mushrooms, wash them a couple of times to get rid of any dirt first. Then soak them in 2-3 cups of hot water for up to 3 hours until they are completely re-hydrated. Squeeze the water out of the rehydrated Shiitakes, then slice them thinly. Remember to save the mushroom soaking liquid!"
+    },
+    {
+      "order": 2,
+      "instruction": "Next, quickly rinse the fresh oyster mushrooms and beech mushrooms under running water. Spin off any extra water using a salad spinner."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat the oil in a wok or thick-bottomed pot over medium heat. Add the chopped shallots and white parts of the scallions. Cook for a minute or two until the shallots turn translucent. Now turn up the heat to high and add in all of the mushrooms, and spread them evenly across the wok."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn up the heat and let cook for a couple of minutes before stirring. When caramelizing mushrooms, the key is NOT to stir them too much and keep a steady heat to cook off any water in the mushrooms. Only stir when one side is browned slightly, and repeat the searing process until all of the mushrooms are browned and any liquid in the pan has been cooked off."
+    },
+    {
+      "order": 5,
+      "instruction": "Turn the back down to medium, and add the dark soy sauce, light soy sauce, the sugar, and 2½ cups of liquid––the mushroom water and fresh water combined. Cover and simmer for 20 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "In the meantime, boil a large pot of water to cook the noodles according to the package instructions. Once the noodles are cooked, drain, and set aside."
+    },
+    {
+      "order": 7,
+      "instruction": "After the mushrooms have been braising for 20 minutes (there should still be a good amount of sauce in the pan), add the cooked noodles, the sesame oil, and the julienned green parts of the scallions. Toss everything together so the noodles get fully coated in the mushroom sauce. Salt to taste and serve with chili oil, chiu chow sauce, or your choice of spicy condiment on the side."
+    }
+  ]
+}

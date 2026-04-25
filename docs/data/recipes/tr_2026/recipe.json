@@ -1,0 +1,101 @@
+{
+  "id": "tr_2026",
+  "title": "Baked White Pepper Chicken Wings",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/11/white-pepper-chicken-wings-7.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/baked-white-pepper-chicken-wings/",
+  "servings": 6,
+  "prepTime": 30,
+  "cookTime": 40,
+  "tags": [
+    "white pepper chicken wings"
+  ],
+  "nutrition": {
+    "calories": 346,
+    "protein": 24.0,
+    "carbs": 14.0,
+    "fat": 21.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "pounds",
+      "name": "whole chicken wings ((about 14 wings))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 tablespoons white pepper powder ((divided))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "salt ((divided))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorn powder ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vegetable oil ((plus more for brushing))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "all purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large bowl, marinate the chicken wings with ½ - 1 tablespoon white pepper, 1½ teaspoons salt, ½ teaspoon Sichuan pepper powder (if using), and 2 teaspoons oil for at least 20 minutes or up to a day in advance."
+    },
+    {
+      "order": 2,
+      "instruction": "Next, preheat the oven to 475 degrees F/245 degrees C. Combine ½ cup flour, ¼ cup cornstarch, ½ - 1 tablespoon white pepper, ½ teaspoon salt, and ½ teaspoon Sichuan peppercorn powder (if using)."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss the chicken wings in the flour mixture, adding a few handfuls to the marinade bowl until the wings are thoroughly coated. Using the same bowl as the one the wings marinated in is key, as the accumulated liquid in the bowl helps the flour coat them. You may not need all the flour, so add it a handful at a time."
+    },
+    {
+      "order": 4,
+      "instruction": "Space the chicken wings evenly on a baking sheet lined with parchment paper. Brush the wings lightly with oil."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake the chicken wings for 30-40 minutes, flipping halfway through, and cooking until they’re crisp and golden. These would also be great in an air fryer! Season with salt to taste before serving, if desired."
+    }
+  ]
+}

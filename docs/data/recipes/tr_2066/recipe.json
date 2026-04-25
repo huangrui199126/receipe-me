@@ -1,0 +1,101 @@
+{
+  "id": "tr_2066",
+  "title": "Yang Chun Noodle Soup (Yang Chun Mian)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/07/yang-chun-noodles-7.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/yang-chun-noodle-soup/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "yang chun mian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 26.0,
+    "carbs": 56.0,
+    "fat": 21.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 serving thin noodles ((dry or fresh))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2½-3 cups chicken broth ((ideally, homemade))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "pork lard",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "finely chopped scallions",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook one serving of thin noodles according to the package instructions."
+    },
+    {
+      "order": 2,
+      "instruction": "While the noodles are cooking, bring 2 ½ to 3 cups of stock to a boil. Then add pork lard, light soy sauce, dark soy sauce and sugar to your noodle bowl. Stir in the hot stock."
+    },
+    {
+      "order": 3,
+      "instruction": "Once the noodles are cooked, drain them, and add them to the bowl. Sprinkle with chopped scallions, and salt to taste. Serve immediately!"
+    }
+  ]
+}

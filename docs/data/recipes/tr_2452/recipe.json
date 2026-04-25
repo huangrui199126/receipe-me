@@ -1,0 +1,93 @@
+{
+  "id": "tr_2452",
+  "title": "Mango Pudding (芒果布丁)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/06/mango-pudding-2.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/mango-pudding/",
+  "servings": 9,
+  "prepTime": 25,
+  "cookTime": 5,
+  "tags": [
+    "mango pudding"
+  ],
+  "nutrition": {
+    "calories": 55,
+    "protein": 2.0,
+    "carbs": 12.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 2/3",
+      "unit": "cups",
+      "name": "peeled, pitted, and cubed fresh, very ripe mango ((from about 2 mangos; 1 and 2/3 cups packed = 12 ounces/340g))",
+      "emoji": "🥭",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "powdered gelatin",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "water ((divided))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sweetened condensed milk ((can substitute evaporated milk or half and half))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cube your mango and measure it into your food processor or blender. If you have any left over, save it for topping the mango puddings. Blend the mango cubes until completely smooth. Scrape down the sides of the blender or food processor bowl to ensure it all gets into the mixture, then run the food processor again if necessary!"
+    },
+    {
+      "order": 2,
+      "instruction": "If your mango is fibrous, use a rubber spatula to press it through a sieve into a large bowl to remove fibers. (If you have a ripe fresh mango, you shouldn’t have to do this.) You should end up with at least 1 cup of mango puree."
+    },
+    {
+      "order": 3,
+      "instruction": "In a small bowl or measuring cup, add a quarter of the water. Stir in the gelatin. After a few minutes, the gelatin powder will “bloom,” absorbing the water and swelling in size until it’s the consistency of very thick applesauce. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "In a small pot over medium-low heat, dissolve the sugar in the remaining water. It should be just hot enough to dissolve the sugar, but not so hot that it begins to simmer. Add the bloomed gelatin and stir until it’s completely dissolved. Remove from the heat, and cool for 5 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "In a mixing bowl, combine the sugar/water/gelatin mixture, mango puree, and condensed milk. Whisk gently until the mixture is uniform (whisking too fast or vigorously will result in air bubbles). In total, you will have about 3 cups of liquid."
+    },
+    {
+      "order": 6,
+      "instruction": "Lightly brush a 9-inch glass pie pan or an 8-inch or 9-inch square pan (or another mold of choice) with a very thin layer of neutral oil. Pour the mixture into the pan and tap the pan on a towel laid out on your counter to surface any air bubbles. Alternatively, you can pour the mixture through a sieve into the pan to remove air bubbles."
+    },
+    {
+      "order": 7,
+      "instruction": "Chill (no need to cover) for at least 4 hours, or until completely set. Slice into squares and top with additional cubed mango if desired. Serve!"
+    }
+  ]
+}

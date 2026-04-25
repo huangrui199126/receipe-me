@@ -1,0 +1,221 @@
+{
+  "id": "tr_2131",
+  "title": "General Tso's Tofu",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/12/general-tso-tofu-5-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/general-tsos-tofu/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "general tso's tofu"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 13.0,
+    "carbs": 30.0,
+    "fat": 26.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Louisiana hot sauce ((such as Crystal))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "regular or firm tofu ((450g; drained, pat dry, and cut into 1-inch squares))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 ½",
+      "unit": "tablespoons",
+      "name": "sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 to 3 tablespoons cornstarch ((depending on how wet the tofu is))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "⅓",
+      "unit": "cup",
+      "name": "peanut or canola oil ((for shallow frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "7  whole dried Chinese red chili peppers ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  red bell pepper ((cut into large pieces))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water or vegetable stock",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "broccoli florets",
+      "emoji": "🥦",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "cornstarch ((mixed with 1 tablespoon water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix the honey and Louisiana hot sauce in a bowl until well combined. Add the tofu to the bowl, and toss together gently with a spatula until the tofu is well-coated."
+    },
+    {
+      "order": 2,
+      "instruction": "Next, sprinkle the sesame seeds over the tofu, and toss until evenly distributed. Next, sprinkle the cornstarch over the tofu until lightly coated. If the tofu is still too wet, add a little more cornstarch."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 1/3 cup oil in a medium-sized frying pan (we like to use a cast iron skillet) until the oil is about 350F, or when a bamboo chopstick bubbles when inserted into the oil. If you want to make the tofu frying easier, use more oil to achieve a deep fry."
+    },
+    {
+      "order": 4,
+      "instruction": "Carefully place the tofu pieces into the pan, ensuring that the pieces are not touching, and let fry for about 2 minutes. Turn them over to continue frying on the other side. Work quickly and turn the heat down if you need more time for turning, or if you see they are starting to burn. Continue to cook the tofu until a nice crust is formed, and they turn golden brown (about 4-5 minutes time in total). Transfer the tofu pieces to a sheet pan with a slotted spoon."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat your wok over medium heat, and add 1 tablespoon of the oil left from tofu-frying, and add the ginger. After 10 seconds, add the garlic and the whole dried chili peppers, and stir for 15 seconds. Next, stir in the red bell peppers and Shaoxing wine."
+    },
+    {
+      "order": 6,
+      "instruction": "Now add the water or vegetable stock, and let the mixture come up to a boil. Add the broccoli florets."
+    },
+    {
+      "order": 7,
+      "instruction": "Immediately add the soy sauces, rice vinegar, salt, sugar, and sesame oil. Let the mixture come up to a boil. Immediately add the cornstarch mixture slowly while stirring."
+    },
+    {
+      "order": 8,
+      "instruction": "The sauce should be thick enough to coat a spoon. Feel free to add more or less of the cornstarch mixture depending on how thick you like your sauce, but give it 30 seconds to 1 minute between additions, as it does take some time for the sauce to thicken."
+    },
+    {
+      "order": 9,
+      "instruction": "Toss in your fried tofu and give everything a quick stir to make sure the tofu is coated. Serve with steamed rice!"
+    }
+  ]
+}

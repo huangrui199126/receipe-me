@@ -1,0 +1,157 @@
+{
+  "id": "tr_2102",
+  "title": "Chinese Tofu Salad",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/08/chinese-tofu-salad-5-1.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-tofu-salad/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 0,
+  "tags": [
+    "tofu salad"
+  ],
+  "nutrition": {
+    "calories": 145,
+    "protein": 7.0,
+    "carbs": 14.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "red bell pepper ((julienned))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "red onion ((thinly sliced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "carrot ((julienned))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cucumber ((julienned))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "celery ((julienned))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "shredded spiced tofu ((tofu &quot;noodles&quot;))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1½",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Wash the vegetables and dry off any excess water. Julienne the vegetables, and toss everything in a large mixing bowl, along with the tofu."
+    },
+    {
+      "order": 2,
+      "instruction": "In a small bowl, combine the olive oil, minced garlic, sugar, white pepper, light soy sauce, black vinegar, sesame oil, and toasted sesame seeds. Mix everything together until the sugar is completely dissolved."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the sauce mixture to the vegetables and tofu, and top with chopped cilantro. Toss and serve either cold or at room temperature."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "tr_2290",
+  "title": "Osmanthus Cake",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/06/osmanthus-cake-17.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/osmanthus-cake/",
+  "servings": 12,
+  "prepTime": 25,
+  "cookTime": 35,
+  "tags": [
+    "osmanthus cake"
+  ],
+  "nutrition": {
+    "calories": 348,
+    "protein": 6.0,
+    "carbs": 28.0,
+    "fat": 25.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "unsalted butter ((at room temperature))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "oil ((we’ve used neutral flavored coconut oil, regular coconut oil, avocado oil, and vegetable oil with success))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  large eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "osmanthus syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/3",
+      "unit": "cups",
+      "name": "almond flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "self-rising flour ((plus extra for dusting))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "confectioner&#039;s sugar ((sifted))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-5 tablespoons milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "osmanthus syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 400°F. Grease and flour a 9-inch round springform pan. You can also use an 8-inch square pan, but the pan should not have a dark non-stick coating, or it’s likely it will burn."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the room temperature butter, sugar, and vanilla extract to the bowl of an electric mixer fitted with the paddle attachment. Beat on medium speed until light and fluffy, 1 minute. If your coconut oil is solid, add it at the same time as the butter. If it’s liquid, add it after the butter and sugar have had a chance to cream together."
+    },
+    {
+      "order": 3,
+      "instruction": "The mixture may be a little separated if you are using liquid rather than solid coconut oil. That’s okay. Scrape the sides of the bowl, and then add the eggs one at a time, beating well with each addition. It should be golden in color and thickly emulsified. Mix in the osmanthus syrup. Give the bowl another scrape to make sure everything is mixed evenly."
+    },
+    {
+      "order": 4,
+      "instruction": "In a separate bowl, whisk together the almond flour, self-rising flour, and salt. Turn the mixer speed to low, and gradually add the dry ingredients in three batches."
+    },
+    {
+      "order": 5,
+      "instruction": "Pour the mixture into your prepared pan. Immediately place into your preheated oven, and bake for 25 minutes. Reduce the oven temperature to 375°F, and tent the cake with foil. Bake for another 10-15 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "The cake is done when a toothpick inserted into the center comes out clean. NOTE, poking the cake prematurely may cause it to collapse in the center. (If this happens, it’ll still taste good, so don’t worry!). Remove the cake from the oven to cool. It should be a deep brown color."
+    },
+    {
+      "order": 7,
+      "instruction": "Cool for 20 minutes before removing the cake from the pan. A paring knife around the rim of the pan helps loosen it. Let cool completely on a wire rack before glazing."
+    },
+    {
+      "order": 8,
+      "instruction": "If glazing the cake, whisk together the sifted powdered sugar, milk, and osmanthus syrup until you get a smooth glaze. Start with 4 tablespoons of milk and only add the last tablespoon if the glaze looks too thick. Pour over the cooled cake."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "tr_2366",
+  "title": "Coca Cola Chicken Wings",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/08/coca-cola-chicken-wings-10-1.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/coca-cola-chicken-wings/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [
+    "coca cola chicken wings"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 12.0,
+    "carbs": 5.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "chicken wings ((900g))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "cola ((regular, not diet))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "piece",
+      "name": "of dried orange peel ((optional))",
+      "emoji": "🍊",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small cinnamon stick ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Wash and clean the chicken wings. Cut the wings at the joint, and pat the chicken dry with a paper towel."
+    },
+    {
+      "order": 2,
+      "instruction": "Pre-heat the wok until it starts to smoke. Add the oil, and spread it around to coat the bottom of the wok. Now add the ginger and the chicken wings. Spread out the wing pieces in a single layer, and lightly brown them for a few minutes on each side. The wok should be over high heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Now add the cola, Shaoxing wine, dark soy sauce, light soy sauce, and (if using), the orange peel and cinnamon stick. Bring it to a boil, cover the lid, and turn down the heat to medium. Let simmer for 12-15 minutes--until the sauce is almost dry (though there should still be a small pool of sauce at the bottom of the wok). Stir the wings, and add salt to taste."
+    },
+    {
+      "order": 4,
+      "instruction": "Now turn up the heat, and quickly stir the wings until the sauce coats each piece. Serve!"
+    }
+  ]
+}

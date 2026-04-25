@@ -1,0 +1,137 @@
+{
+  "id": "tr_2364",
+  "title": "Red Bean Mochi",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/07/red-bean-mochi-10.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/red-bean-mochi/",
+  "servings": 9,
+  "prepTime": 60,
+  "cookTime": 30,
+  "tags": [
+    "red bean mochi"
+  ],
+  "nutrition": {
+    "calories": 367,
+    "protein": 4.0,
+    "carbs": 56.0,
+    "fat": 15.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "sweet rice flour ((AKA glutinous rice flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "vegetable oil ((for brushing))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "sweet rice flour ((AKA glutinous rice flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "caster sugar/superfine sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "sweetened or unsweetened coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "coconut oil ((melted))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10-14 ounces red bean paste",
+      "emoji": "🫘",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a clean, dry saucepan, add ¼ cup sweet rice flour. Cook for 10 minutes over medium-high heat, until the flour starts to lightly smoke. Stir often to prevent burning. Remove from the heat and let cool completely while you prepare the rest of the mochi components."
+    },
+    {
+      "order": 2,
+      "instruction": "Generously brush an 11x11” square cake pan (non-stick is ideal) with a thin coating of vegetable oil. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare your steamer with water and bring to a boil."
+    },
+    {
+      "order": 4,
+      "instruction": "While the water is heating, mix together the sweet rice flour, cornstarch, caster sugar, coconut milk, and melted coconut oil in a large bowl until smooth, with no lumps."
+    },
+    {
+      "order": 5,
+      "instruction": "Transfer the mixture to the prepared cake pan, and gently tap the pan on the counter to distribute the dough evenly. Once the water in the steamer is boiling, steam the dough for 15 minutes over high heat. Remove from the heat and leave on the counter to cool completely."
+    },
+    {
+      "order": 6,
+      "instruction": "Chill the red bean paste in the refrigerator (covered) for at least 30 minutes. Cold red bean paste is easier to handle--both when rolling the filling into balls and when assembling the mochi."
+    },
+    {
+      "order": 7,
+      "instruction": "With lightly oiled hands, roll the paste into balls (35g each for larger mochi, or 20-25g if you are making 16 smaller mochi with this recipe). Set aside on a plate."
+    },
+    {
+      "order": 8,
+      "instruction": "Once the dough cools, transfer it onto a large piece of wax paper (or a clean, lightly greased countertop brushed with vegetable oil). Use an oiled bench scraper to gradually lift the sticky mochi off the pan."
+    },
+    {
+      "order": 9,
+      "instruction": "Cut the dough into 9 or 16 equal squares (depending on whether you want larger or smaller mochi)."
+    },
+    {
+      "order": 10,
+      "instruction": "Very lightly oil your fingers, take a piece of dough, and place the red bean paste filling in the center. Close the dough around the filling, pinching it closed. Too much oil at this stage will prevent the dough from closing, so oil your fingers just enough to prevent the dough from sticking to your hands when handling."
+    },
+    {
+      "order": 11,
+      "instruction": "Roll the mochi in the cooked sweet rice flour to coat. Toss it lightly between your palms to shake off any excess flour."
+    },
+    {
+      "order": 12,
+      "instruction": "Place each mochi seam side down in a paper cupcake cup. Repeat until all the mochi are assembled."
+    }
+  ]
+}

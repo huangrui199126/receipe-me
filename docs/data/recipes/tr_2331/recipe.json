@@ -1,0 +1,121 @@
+{
+  "id": "tr_2331",
+  "title": "Seitan Puffs with Pea Tips",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/03/pea-tips-seitan-13.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/seitan-puffs-pea-tips/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "seitan puffs"
+  ],
+  "nutrition": {
+    "calories": 88,
+    "protein": 6.0,
+    "carbs": 4.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil  ((any neutral oil, such as vegetable or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "minced ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2-3/4 cup water (quantity depends on your stove&#039;s BTUs and how quickly water cooks off in your wok))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "ounces",
+      "name": "seitan puffs",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "snow pea tips",
+      "emoji": "🫛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil in a wok over medium heat. Cook the ginger and garlic for 30 seconds, taking care not to burn the garlic. Now add the water and seitan puffs. Increase the heat to high, and bring to a boil."
+    },
+    {
+      "order": 2,
+      "instruction": "Stir-fry to coat the puffs with hot liquid to soften. Add the light soy sauce, white pepper, and sesame oil. Stir to mix everything well for a minute until the puffs are half-deflated."
+    },
+    {
+      "order": 3,
+      "instruction": "Now stir in the pea tips and cook until the seitan puffs are completely wilted. While the pea tips cook down, salt to taste. There’s no need to cover the wok at any point. There should still be some standing sauce."
+    },
+    {
+      "order": 4,
+      "instruction": "Once all the pea tips are wilted, serve. The entire cooking time should be no more than 3-5 minutes if you properly preheat your wok."
+    }
+  ]
+}

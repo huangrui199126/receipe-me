@@ -1,0 +1,169 @@
+{
+  "id": "tr_2015",
+  "title": "Chinese Seaweed Salad",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/06/chinese-seaweed-salad-11.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-seaweed-salad/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "chinese seaweed salad"
+  ],
+  "nutrition": {
+    "calories": 87,
+    "protein": 2.0,
+    "carbs": 8.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "fresh kelp ((340 g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((15g, minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 thin slices ginger ((8g, minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  Thai chilies ((thinly sliced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped, white and green parts separated))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Chinese black vinegar ((or to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2-1 teaspoon sesame oil ((to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a pot of water to a boil. Add the kelp, and simmer over medium heat for 5 minutes. Drain and rinse thoroughly in cold water. Drain completely and set aside. (You can also run it through a salad spinner to dry it even more.)"
+    },
+    {
+      "order": 2,
+      "instruction": "Next, make the sauce / dressing. In a large heat-proof bowl, arrange the minced garlic, minced ginger, Thai chilies, and the white parts of the scallions so they’re next to each other at the bottom of the bowl. Don’t pile them on top of each other, as you’ll be pouring hot oil over everything, and you want it in an even layer."
+    },
+    {
+      "order": 3,
+      "instruction": "Add 3 tablespoons of oil to a small pot or saucepan. Add the Sichuan peppercorns and let them infuse the oil over low heat for 10 minutes until fragrant. Take care not to burn the peppercorns."
+    },
+    {
+      "order": 4,
+      "instruction": "Scoop out the peppercorns, and turn up the heat on the oil until it’s just smoking. Then, immediately turn off the heat and pour the oil over the aromatics in your heat-proof bowl. The oil should be hot enough that the aromatics sizzle on contact."
+    },
+    {
+      "order": 5,
+      "instruction": "Carefully stir the oil to evenly distribute the heat. Add the sugar, vinegar, light soy sauce, oyster sauce, sesame oil, salt, and five spice powder. Mix well, and stir in the green parts of the scallions and the cilantro."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour the dressing over the kelp, and toss to coat. Give it a taste, and add salt if needed. Serve."
+    }
+  ]
+}

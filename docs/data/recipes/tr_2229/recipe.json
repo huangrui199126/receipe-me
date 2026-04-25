@@ -1,0 +1,293 @@
+{
+  "id": "tr_2229",
+  "title": "Lanzhou Beef Noodle Soup",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/10/lanzhou-beef-noodle-soup-4-1.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/lanzhou-beef-noodle-soup/",
+  "servings": 6,
+  "prepTime": 30,
+  "cookTime": 300,
+  "tags": [
+    "lanzhou beef noodle soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "lbs",
+      "name": "beef or pork soup bones",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "lbs",
+      "name": "1 kg beef shank",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  of a whole roasting chicken ((or a leftover roasted chicken carcass))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "10",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "about 1 liter chicken stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Spice mix ((see recipe below))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste; I added about a tablespoon))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  of a small Chinese radish ((quartered and thinly sliced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "fresh or dried white noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Hot chili oil ((to taste, see recipe below))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "7  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cinnamon stick",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  large slices of sand ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "fennel seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cumin seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "white peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  licorice root slices ((optional but very much recommended))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "3",
+      "unit": "pieces",
+      "name": "dried orange peel",
+      "emoji": "🍊",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  black cardamom",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  of a small cinnamon stick",
+      "emoji": "🫙",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "crushed red pepper flakes ((just the regular kind you&#x27;d sprinkle on your pizza))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 30
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse the soup bones and pat dry. Roast them on a baking sheet at 400 degrees for 45 minutes. Bring a large pot of water to a boil, and add the beef shank and the chicken (or chicken carcass) to the pot. Bring everything to a boil again. Once boiling, remove the shank and the chicken, discard the water, and clean the pot. This process gets rid of any impurities, and will give your broth a cleaner flavor."
+    },
+    {
+      "order": 2,
+      "instruction": "Put the beef shank and chicken back into the pot along with the roasted bones, 10 more cups of water, and 4 cups chicken stock. Make the spice mix by combining all ingredients and tying them tightly in cheese cloth with a bit of kitchen string. Add this to the pot as well and season with salt. Bring everything to a boil."
+    },
+    {
+      "order": 3,
+      "instruction": "Once boiling, turn down the heat to low and let everything simmer for about 2 hours. After 2 hours have elapsed, remove the beef shank and set aside. Add the sliced radish and continue simmering for another hour. After that, use tongs to pick out and discard the spice pouch, chicken, and soup bones. Taste the broth for salt and adjust the seasoning if needed. The soup base is ready."
+    },
+    {
+      "order": 4,
+      "instruction": "While all that is happening, you can take the time to make your chili oil. In a small pot, add the oil, star anise, cinnamon, and Sichuan peppercorns. Place the pot over very low heat and let everything toast together slowly for 15 minutes. Take care not to burn the spices. Use a slotted spoon to remove the spices, and turn off the heat. Let the oil cool for about 5 minutes, and then add the chili flakes. Slowly toast these in the hot oil until very fragrant (it should almost smell like popcorn), and very red. Stir in the salt and sugar."
+    },
+    {
+      "order": 5,
+      "instruction": "Once the broth and chili oil are done, cook the noodles in a separate pot according to the package instructions. Divide the noodles among 6 bowls. Slice the cooled beef shank into thin slices, and fan them out over the noodles. To finish, add a big ladle of broth and radishes, a spoonful of hot chili oil, and a handful each (don't be shy) of chopped scallion and cilantro."
+    }
+  ]
+}

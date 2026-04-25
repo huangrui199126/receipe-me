@@ -1,0 +1,109 @@
+{
+  "id": "tr_2329",
+  "title": "Hakka Eggs with Preserved Radish (菜脯炒蛋)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/03/eggs-chinese-preserved-radish-10.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/hakka-eggs-preserved-radish/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "eggs with preserved radish"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 6.0,
+    "carbs": 1.0,
+    "fat": 15.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "chopped preserved radish ((luóbo gān - 萝卜干))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion (finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (finely chopped )",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  large eggs (beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse the preserved radish a couple times to wash away some of the excess salt. Taste it to make sure it’s not too salty for you. Drain for 5 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, finely chop the scallions and garlic. Finely chop the preserved radish as well, after it has finished draining."
+    },
+    {
+      "order": 3,
+      "instruction": "Beat 4 eggs, along with the white pepper, sesame oil, and chopped scallion."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat your wok over medium heat until it’s smoking. Add in 1 tablespoon oil, along with the garlic, preserved radish, and sugar. Stir and cook for 1 minute over medium heat. Take care not to burn the garlic."
+    },
+    {
+      "order": 5,
+      "instruction": "Spread the radish roughly in a single layer over the wok, and add the remaining 2 tablespoons oil. Cover the preserved radish with beaten eggs. Use medium heat and cook the eggs until they are set but still tender. Serve with rice porridge."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "tr_2109",
+  "title": "Xi’an Cumin Lamb Burgers",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/05/cumin-lamb-burgers-9-1.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/cumin-lamb-burgers/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 10,
+  "tags": [
+    "cumin lamb burgers"
+  ],
+  "nutrition": {
+    "calories": 541,
+    "protein": 30.0,
+    "carbs": 32.0,
+    "fat": 33.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cumin seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "red chili flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "ground lamb ((450g))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium red onion ((thinly sliced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  jalapeno ((de-seeded and thinly sliced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small red bell pepper ((de-seeded and thinly sliced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "plain Greek Yogurt ((285g))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  Brioche or Potato buns ((for serving))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cucumber ((de-seeded and diced))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a dry pan, toast the cumin seeds, sichuan peppercorns, and red chili flakes. Crush into a coarse powder with a mortar &amp; pestle or spice grinder. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine about half of your spice mixture with the lamb, and form into 4 patties. Season both sides of each patty with salt."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat a grill or cast iron skillet over high heat until searing hot. Sear the burgers until crisp on both sides, about 1-2 minutes per side."
+    },
+    {
+      "order": 4,
+      "instruction": "Set aside on a plate to rest, and cover with foil. Add the onion and peppers to the pan along with a little vegetable oil (if you used a cast iron skillet), and fry until caramelized. If you grilled your burgers outdoors, just fry the onions and peppers in a separate pan. Sprinkle with half of the remaining spice mixture."
+    },
+    {
+      "order": 5,
+      "instruction": "Combine the yogurt with the garlic and season with salt to taste. Stir in the rest of the spice mixture."
+    },
+    {
+      "order": 6,
+      "instruction": "To assemble the burgers, spread some of your yogurt mixture on the bottom of the bun, and top with some diced cucumbers. Top with the burger, the onion/pepper mixture, more yogurt, and fresh cilantro. Serve!"
+    }
+  ]
+}

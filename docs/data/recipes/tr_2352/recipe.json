@@ -1,0 +1,233 @@
+{
+  "id": "tr_2352",
+  "title": "Roast Pork Lo Mein",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/02/pork-lo-mein-14.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pork-lo-mein/",
+  "servings": 4,
+  "prepTime": 45,
+  "cookTime": 15,
+  "tags": [
+    "pork lo mein"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "hot water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "Chinese roast pork (char siu) (julienned into strips)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "carrot ((julienned))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water chestnuts ((sliced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "canned bamboo shoots ((in strips or sliced into bite-sized pieces))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sliced mushrooms ((such as shiitake, oyster, button, or baby portobello) )",
+      "emoji": "🍄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "napa cabbage ((shredded))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "snow peas ((ends trimmed with fibrous string removed))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "mung bean sprouts ((optional))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "14",
+      "unit": "ounces",
+      "name": "cooked lo mein noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((julienned))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare the lo mein sauce by combining the light soy sauce, dark soy sauce, oyster sauce, hot water, sugar, salt, white pepper, and sesame oil in a small bowl. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare the roast pork/char siu, garlic, and all the vegetables (the carrot, water chestnuts, bamboo shoots, mushrooms, napa cabbage, snow peas, and bean sprouts, if using) so they are ready for cooking."
+    },
+    {
+      "order": 3,
+      "instruction": "If using cooked lo mein noodles, rinse them under hot tap water to loosen them and drain thoroughly. If using uncooked noodles, cook them according to package instructions until al dente, rinse in cold water to get rid of excess starch, and drain thoroughly. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Place your wok over medium heat. Add the oil and garlic. After 10 seconds, add the carrots, water chestnuts, bamboo shoots, and sliced mushrooms. Increase the heat to high, and stir-fry for 1 minute."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the roast pork, and stir-fry for another 20 seconds, and then add the Shaoxing wine around the perimeter of the wok."
+    },
+    {
+      "order": 6,
+      "instruction": "Give everything a quick stir, and add the napa cabbage and the lo mein noodles. They should be warm or at room temperature, and not stuck together! (If they are, just rinse them again in warm water to loosen them up.)"
+    },
+    {
+      "order": 7,
+      "instruction": "Pour your pre-mixed sauce evenly over the noodles, and stir-fry with a scooping motion for 1 to 2 minutes, or until the sauce is evenly distributed, making sure to scrape the bottom of the wok to prevent the noodles from sticking. High heat and a well-seasoned wok should also prevent sticking."
+    },
+    {
+      "order": 8,
+      "instruction": "Next, add the snow peas, mung bean sprouts (if using), and scallions. Continue stir-frying until the noodles are heated through and everything is thoroughly mixed. If the lo mein becomes sticky, add 2 or more tablespoons of water until they loosen up."
+    },
+    {
+      "order": 9,
+      "instruction": "Give your lo mein a quick taste and adjust the seasoning to your liking. Add more salt, soy sauce, oyster sauce, sesame oil, or white pepper according to your own personal preference."
+    },
+    {
+      "order": 10,
+      "instruction": "Plate your roast pork lo mein and serve it with homemade chili oil or your favorite hot sauce on the side!"
+    }
+  ]
+}

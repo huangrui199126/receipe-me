@@ -1,0 +1,57 @@
+{
+  "id": "tr_2033",
+  "title": "Hawthorn Iced Tea",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/08/hawthorn-tea-8.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/hawthorn-iced-tea/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 45,
+  "tags": [
+    "hawthorn iced tea"
+  ],
+  "nutrition": {
+    "calories": 32,
+    "protein": 0.0,
+    "carbs": 8.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2 1/2",
+      "unit": "ounces",
+      "name": "dried Chinese Hawthorn berries ((70g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "6",
+      "unit": "cups",
+      "name": "water ((1.4L))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "sugar ((50g))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add the dried hawthorn and water to a medium pot. Bring to a boil. Turn the heat down to a simmer and cook for 45 minutes. Turn the heat off, and add the sugar, stirring until dissolved."
+    },
+    {
+      "order": 2,
+      "instruction": "Allow to cool completely, and then strain in a fine-meshed sieve and serve with ice. If the tea is too tart for your taste, sweeten to taste with honey, which dissolves more easily than sugar."
+    }
+  ]
+}

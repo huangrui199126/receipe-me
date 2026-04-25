@@ -1,0 +1,129 @@
+{
+  "id": "tr_2416",
+  "title": "Honey Glazed Ribs (蜜汁排骨) - Oven Baked",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/06/honey-glazed-ribs-13.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/honey-glazed-ribs/",
+  "servings": 4,
+  "prepTime": 60,
+  "cookTime": 45,
+  "tags": [
+    "honey glazed ribs"
+  ],
+  "nutrition": {
+    "calories": 407,
+    "protein": 28.0,
+    "carbs": 11.0,
+    "fat": 27.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "baby back ribs ((900g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce ((separated))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "15",
+      "unit": "grams",
+      "name": "rock sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "⅓",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Wash the ribs and thoroughly pat them dry with paper towels. Next, marinate the ribs with a mixture of onion powder, garlic powder, 1 tablespoon light soy sauce and 2 tablespoons Shaoxing wine for one hour."
+    },
+    {
+      "order": 2,
+      "instruction": "Next, preheat the oven to 400 degrees, and put the ribs on a baking sheet lined with parchment paper. Bake for 40 to 45 minutes. Turn and flip the ribs every 10 minutes until all sides are golden brown."
+    },
+    {
+      "order": 3,
+      "instruction": "About 10 minutes before the ribs come out of the oven, prepare the sauce. Heat the oil in a wok over medium low heat. Add the rock sugar, and let it melt, taking good care not to burn it. Next, add the water, honey, cider vinegar, and 1 tablespoon of light soy sauce. Turn up the heat slightly to bring the sauce to a low boil, and turn off the heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Once the ribs are done, coat them in the hot (temperature-wise) sauce while the ribs are still hot. Only when the ribs are straight out of the oven will they properly absorb the sauce and get that coveted sheen. Sprinkle with toasted sesame seeds and serve."
+    }
+  ]
+}

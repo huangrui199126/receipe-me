@@ -1,0 +1,145 @@
+{
+  "id": "tr_2397",
+  "title": "Chairman Mao’s Red Braised Pork Belly",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/04/chairman-mao-red-braised-pork-4.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/red-braised-pork-belly-mao/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 90,
+  "tags": [
+    "braised pork belly"
+  ],
+  "nutrition": {
+    "calories": 667,
+    "protein": 12.0,
+    "carbs": 7.0,
+    "fat": 64.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "pork belly ((900g, cut into ¾-inch pieces))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "ginger ((divided))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "sugar ((or 40 grams rock sugar, plus ½ teaspoon))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((diced with the white and green parts separated))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "light soy sauce ((生抽))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "dark soy sauce ((老抽))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cinnamon stick",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  dried chili peppers ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "The first step is to blanch the pork belly, which removes any blood or impurities from the meat. To do this, add the pork belly and 3 slices of ginger to a pot with enough cold water to submerge the pork belly. With the lid on, bring it to a boil. Once the pot boils, turn down the heat and simmer for one more minute. Drain, rinse the pork belly clean, and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "With the wok set over low heat, add the oil and rock sugar (or 3 tablespoons regular sugar). Slowly melt the sugar, taking care to not let it burn. Then add in the pork belly, 3 slices ginger, and the white parts of the scallions. Turn up the heat to medium. Stir and coat the pork belly with the melted sugar."
+    },
+    {
+      "order": 3,
+      "instruction": "Now, add the Shaoxing wine, light soy sauce, dark soy sauce, cinnamon, star anise, bay leaves, dried chili peppers, and water. Stir and make sure everything is submerged. There will be some caramelized sugar on your spatula, dissolve it in the water before covering the wok. Bring the mixture up to a simmer over medium low heat for 1 hour. Check the pork periodically to make sure the sauce doesn’t dry up."
+    },
+    {
+      "order": 4,
+      "instruction": "Once the pork is to your liking in terms of tenderness, turn up the heat to cook off any excess sauce, stirring constantly. The sauce will reduce to a glistening coating on the pork belly. Last, add in the remaining ½ teaspoon sugar and the green parts of the scallions. Stir quickly and serve!"
+    }
+  ]
+}

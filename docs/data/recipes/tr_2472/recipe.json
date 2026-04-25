@@ -1,0 +1,165 @@
+{
+  "id": "tr_2472",
+  "title": "Young Chow Fried Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/08/young-chow-fried-rice-7.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/young-chow-fried-rice/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 10,
+  "tags": [
+    "young chow fried rice"
+  ],
+  "nutrition": {
+    "calories": 532,
+    "protein": 24.0,
+    "carbs": 64.0,
+    "fat": 19.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "cooked rice ((see instructions))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large eggs ((beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "fresh shrimp ((110g, 40-60 size, deveined and shells removed))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion ((finely diced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Virginia ham, cut into cubes ((about 4 ounces/110g))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Chinese Roast Pork",
+      "emoji": "🥩",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "frozen peas ((thawed))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine ((optional))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "romaine or iceberg lettuce ((finely chopped))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "freshly ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook the rice according to the directions on the package. With all fried rice recipes, it's best to use a little bit less water so as to prevent producing a mushy, sticky rice mess that you will not be able to stir-fry properly! After the rice is done, let it cool uncovered. When the steam stops wafting off the fresh-cooked rice, use a fork to fluff the rice up and break it apart. Don’t worry of there are still clumps – you can deal with those in the wok later."
+    },
+    {
+      "order": 2,
+      "instruction": "If you refrigerate the rice overnight, it will definitely clump; you can easily break up the cold rice clumps into individual grains with your hands. Just rinse your hands with cold water periodically if they get too sticky during the process."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat the wok over medium high heat, and add 1 tablespoon of oil, followed by the beaten eggs. Fold and scramble them gently, taking care not to scorch the eggs. Transfer the eggs back into the original egg bowl and set aside. In a pot of boiling water, blanch the shrimp and drain. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat the wok now over high heat. Add 2 tablespoons of oil and the diced onion. Stir-fry until the onions are translucent. Next, add the diced ham and pork, and stir-fry for 30 seconds. Add the rice and stir-fry for 2 minutes, being sure to heat the rice uniformly. Use your wok spatula to flatten out and break up any remaining rice clumps. Add the shrimp and peas, and stir fry continuously for another 2 minutes until the rice is heated through."
+    },
+    {
+      "order": 5,
+      "instruction": "Next sprinkle the salt and sugar over the rice. If using, drizzle the Shaoxing around the perimeter of the wok to get a good sizzle and to cook off some of the alcohol in the wine. Mix everything to ensure the seasonings are uniformly incorporated."
+    },
+    {
+      "order": 6,
+      "instruction": "If the rice looks a little dry, feel free to sprinkle in some water or chicken stock, or if you want to be a bit more authentic, just a touch more oil (be careful with this—too much water content makes it soggy; too much oil makes it greasy). Adding some liquid directly to large clumps of rice will help to break them up."
+    },
+    {
+      "order": 7,
+      "instruction": "Next, mix in the scrambled eggs, scallions, chopped lettuce, and white pepper. Stir fry to combine, until the lettuce is just wilted, and serve!"
+    }
+  ]
+}

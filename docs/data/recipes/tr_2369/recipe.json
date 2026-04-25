@@ -1,0 +1,69 @@
+{
+  "id": "tr_2369",
+  "title": "Rice Cooker Lap Cheong Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/09/Lap-Cheong-Rice-6.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-sausage-rice-cooker-lap-cheong/",
+  "servings": 3,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "lap cheong rice"
+  ],
+  "nutrition": {
+    "calories": 395,
+    "protein": 15.0,
+    "carbs": 50.0,
+    "fat": 14.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "jasmine rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "lap cheong ((Chinese Sausage))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Use your rice cooker cup to measure the amount of rice you’d like (2 cups is good for 3 people)."
+    },
+    {
+      "order": 2,
+      "instruction": "Then fill the rice cooker with water up to the line that corresponds with the number of cups you added. Alternatively, you can use the “finger trick” to simply measure the height of the rice (even it out first) along your finger, and then add enough water to match that height on your finger if you rest it on top of the rice."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the Chinese Sausage (1 link per person is a decent bet), and turn on the rice cooker. The cooker will steam both the rice and the sausage at the same time! Slice the sausage and serve over the rice."
+    },
+    {
+      "order": 4,
+      "instruction": "Measure your desired amount of rice and pour into a medium pot, taking note of the measurement. (You don&#39;t need any special measuring tools for this step. You could just use any cup or mug you have.) Cover the rice with 2 inches of water, and soak for 20 minutes. Once the rice has soaked, drain off the water it was soaking in. You should now just have a pot of soaked rice."
+    },
+    {
+      "order": 5,
+      "instruction": "Measure out fresh water in the same volume as the rice, and pour it into the pot. Add the Chinese sausages on top. Put the pot over the stove on medium high heat. Once the liquid comes to a boil, turn the heat to low, cover, and cook for about 15 minutes, or until all the liquid has cooked off and the rice is fluffy. Slice the sausage and serve over the rice."
+    }
+  ]
+}

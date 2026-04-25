@@ -1,0 +1,273 @@
+{
+  "id": "tr_2234",
+  "title": "Spicy Lamb Buns w/ Honey Soy Drizzle",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/08/spicy-lamb-buns-08.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/spicy-lamb-buns-w-honey-soy-drizzle/",
+  "servings": 6,
+  "prepTime": 120,
+  "cookTime": 30,
+  "tags": [
+    "lamb buns"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 19.0,
+    "carbs": 41.0,
+    "fat": 15.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 oz. lamb loin ((any tender cut will work. leave fat on the lamb))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "cumin powder ((or cumin seeds, crushed in a mortar and pestle or spice grinder))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Sichuan pepper powder ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 ½",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "hot water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "active dry yeast",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "all purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "¾",
+      "unit": "teaspoon",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "butter ((melted))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/2",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "rice wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large carrot ((julienned))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((julienned))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A handful of fresh mint leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A handful of fresh cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 26
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by marinating the lamb. Combine the cumin, cayenne, garlic powder, salt, black pepper, and Sichuan pepper powder, if using, and rub it all over the lamb. Set aside to marinate in the fridge while you assemble the buns."
+    },
+    {
+      "order": 2,
+      "instruction": "To make the buns, start by dissolving the sugar in the hot water in a medium bowl. Once the water has cooled slightly (it should be warm, but not hot), stir in the yeast until dissolved and let stand for ten minutes. In a large mixing bowl, combine the flour, baking powder, baking soda, and salt."
+    },
+    {
+      "order": 3,
+      "instruction": "Once the yeast mixture is foamy, whisk in the milk and yogurt. Pour the wet ingredients into the dry ingredients and mix it all together to form a dough. Knead until the dough comes together into a soft, slightly sticky ball (add a little more flour if necessary, but the dough should still be relatively sticky). Cover with a damp towel and let rise in a warm place for 1 hour."
+    },
+    {
+      "order": 4,
+      "instruction": "Roll the dough out until it’s about an eighth of an inch thick (it will puff up quite a bit while cooking). Cut circles in the dough (about 4 inches in diameter. We just used a small rice bowl to cut out the circles). Continue to re-roll and cut more circles until all the dough is used up. Brush one side with butter and sprinkle with sesame seeds. Leave the dough circles on a floured board and cover with a damp towel."
+    },
+    {
+      "order": 5,
+      "instruction": "Now heat a cast iron pan or skillet until almost smoking. Add 2 tablespoons oil and sear the lamb on all sides, until you get a nice, dark crust on the outside of the meat. Lower the heat to medium and continue cooking for another 7-12 minutes until it reaches your desired doneness. Set the meat aside on a plate to rest."
+    },
+    {
+      "order": 6,
+      "instruction": "While that’s happening, make the drizzle by heating a tablespoon of oil in a small saucepan over medium heat. Add the honey, vinegar, and soy sauce and allow it to bubble until it becomes syrupy. Set aside."
+    },
+    {
+      "order": 7,
+      "instruction": "Now, cook your buns (this doesn’t take long at all!). Heat a pan over medium heat and brush the pan lightly with melted butter. Add the dough circles to the pan, sesame side facing up. Cook for 1-2 minutes and flip. Cook for another 1-2 minutes on the other side and take out of the pan."
+    },
+    {
+      "order": 8,
+      "instruction": "To assemble, grab one of your buns, add some sliced lamb, carrot, scallions, mint, cilantro, and a drizzle of sauce."
+    }
+  ]
+}

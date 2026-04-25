@@ -1,0 +1,201 @@
+{
+  "id": "tr_2056",
+  "title": "Char Kway Teow Malaysian Rice Noodle Stir-fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/08/char-kway-teow-11.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/char-kway-teow/",
+  "servings": 6,
+  "prepTime": 45,
+  "cookTime": 5,
+  "tags": [
+    "char kway teow"
+  ],
+  "nutrition": {
+    "calories": 374,
+    "protein": 15.0,
+    "carbs": 36.0,
+    "fat": 18.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "dried wide rice noodles or 1 pound fresh rice noodles",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "regular soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "shrimp paste or shrimp sauce",
+      "emoji": "🦐",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "⅛",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  Chinese sausages",
+      "emoji": "🥩",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "shrimp ((115g, 31 to 40 size))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "fish cake or fish tofu, thinly sliced ((115g))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "garlic chives",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shaoxing wine ((optional))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg ((lightly beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "mung bean sprouts ((170g))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak the dried noodles in warm water for 30 to 45 minutes. Transfer to a colander and let the excess water drain. If you have fresh rice noodles, cut them into 1½-inch wide strips, and set them aside. You can even try making your own rice noodles at home using Judy’s recipe for Homemade Rice Noodles."
+    },
+    {
+      "order": 2,
+      "instruction": "Add 2 teaspoons dark soy sauce, 2 tablespoons regular soy sauce, 1 tablespoon fish sauce, 1 teaspoon shrimp paste, 1 tablespoon oyster sauce, ⅛ teaspoon ground white pepper, and 1 teaspoon sugar in a small bowl. Mix until combined, and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat your wok to medium heat, and spread 1 tablespoon of vegetable oil around the perimeter of your wok. Add the sliced Chinese sausages and stir-fry for 20 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the 2 cloves of sliced garlic, the shrimp, and the fish tofu. Continue stir-frying for another 20 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Now, turn the wok to high heat. Spread 1 tablespoon shaoxing wine around the perimeter of the wok."
+    },
+    {
+      "order": 6,
+      "instruction": "Stir-fry for another 15 seconds. Add the noodles. Gently fold them into the rest of the ingredients. Gather everything in the middle of the wok to let the sides of the wok superheat. Pour the sauce mixture evenly over the noodles, and spread another tablespoon of vegetable oil around the perimeter of the wok."
+    },
+    {
+      "order": 7,
+      "instruction": "Next, add the garlic chives. Gently mix the noodles (to minimize breakage) while spreading them around the perimeter of the wok to get that wok hay sear from the superheated sides of the wok. Because of the hot wok and the oil, the rice noodles shouldn’t stick."
+    },
+    {
+      "order": 8,
+      "instruction": "While the noodles are searing, work quickly to create a space at the bottom of the wok and add the last tablespoon of oil with the slightly beaten egg. Stir the egg around for 15 seconds to cook it and break it up. You may want to pre-cook the egg the first time if you are more of a beginner cook!"
+    },
+    {
+      "order": 9,
+      "instruction": "Next add the mung bean sprouts and gently mix everything together for 1 minute."
+    },
+    {
+      "order": 10,
+      "instruction": "If your Char Kway Teow looks dry, sprinkle 2 tablespoons of water over the noodles while stir-frying. You can also add a bit more vegetable oil if you like. Serve your Char Kway teow with chlli garlic paste or homemade chili oil on the side."
+    }
+  ]
+}

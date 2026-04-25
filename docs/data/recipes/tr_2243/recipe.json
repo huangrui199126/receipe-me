@@ -1,0 +1,193 @@
+{
+  "id": "tr_2243",
+  "title": "FRIED CHICKEN W/ XINJIANG SPICES",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/05/xijiang-chicken-1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/fried-chicken-w-xinjiang-spices/",
+  "servings": 5,
+  "prepTime": 240,
+  "cookTime": 30,
+  "tags": [
+    "fried chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  chicken drumsticks",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "ground Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 ½",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "¾",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 to 6 cups peanut or vegetable oil ((for frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "a handful of chopped cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cucumber",
+      "emoji": "🥒",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "plain yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic ((finely minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse the chicken and pat dry with paper towels. Transfer to a bowl and add spices, salt, sugar, 1 tablespoon oil, and 1 tablespoon shaoxing wine. Use your hands to combine everything together. Allow to marinate in the refrigerator for at least 4 hours or overnight."
+    },
+    {
+      "order": 2,
+      "instruction": "When ready to cook, take the chicken out of the refrigerator and let it come to room temperature. Add the cornstarch and flour to the chicken and use your hands to mix everything together evenly."
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare your yogurt sauce by simply combining all the ingredients in a small bowl. Set aside. Heat your oil in a small pot or cast iron skillet until it reaches 350 degrees. Fry the chicken in two or three batches for about 5 to 10 minutes, depending upon the size of your drumsticks. If you’re unsure about the doneness, poke a skewer into the thickest part of the drumstick to check if the juices run clear. Drain the fried chicken on paper towels."
+    },
+    {
+      "order": 4,
+      "instruction": "Garnish the chicken with chopped cilantro and serve with your yogurt sauce!"
+    }
+  ]
+}

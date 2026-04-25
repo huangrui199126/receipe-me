@@ -1,0 +1,182 @@
+{
+  "id": "tr_2469",
+  "title": "Sweet and Sour Pork Chops, Peking Style",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/01/sweet-sour-pork-chops-4-1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/sweet-sour-pork-chops/",
+  "servings": 6,
+  "prepTime": 75,
+  "cookTime": 20,
+  "tags": [
+    "peking pork chops",
+    "sweet and sour pork chops"
+  ],
+  "nutrition": {
+    "calories": 232,
+    "protein": 25.0,
+    "carbs": 12.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2 lb. thinly sliced pork chops ((680g, cut in half))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "five spice powder ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "ketchup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Chinese black vinegar ((can substitute balsamic vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "maple syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water ((120 ml))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil ((for frying, plus 1 tablespoon))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "ice water ((45 ml))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cornstarch ((divided))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "toasted sesame seeds and chopped scallion",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinate the pork chops in a mixture of shaoxing wine, soy sauce, and five spice powder (if using). Set aside for at least an hour or overnight. Make the sauce by combining ketchup, Worcestershire sauce, vinegar, hoisin, maple syrup, sesame oil, and 1/2 cup water. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "When you're ready to cook, fill a medium deep pot about halfway with oil. Heat the oil to 375 degrees. In a separate bowl, combine 3 tablespoons ice water, 2 tablespoons flour, 1/2 teaspoon baking soda, and 1 tablespoon cornstarch. Pour over the marinated pork chops and mix until coated."
+    },
+    {
+      "order": 3,
+      "instruction": "Carefully drop a few pork chops at a time into the heated oil and fry in batches for about 3 minutes each batch. Drain on paper towels. Refry the pork chops again for another 1 to 2 minutes just before making the sauce if you like your pork chops crispy. Double frying keeps the pork chops crispy longer after adding them to the sauce."
+    },
+    {
+      "order": 4,
+      "instruction": "Add a tablespoon of oil to your wok (you can take some from the frying oil), placed over medium heat. Swirl the oil around so it coats the wok. Pour in your sauce mixture and bring it to a simmer."
+    },
+    {
+      "order": 5,
+      "instruction": "Mix your last tablespoon of cornstarch with a tablespoon of water to form a slurry. Pour the slurry into the simmering sauce and stir until thickened. Add the cooked pork chops and toss them in the sauce. Plate, and garnish with toasted sesame seeds and chopped scallions. Serve!"
+    }
+  ]
+}

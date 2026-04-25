@@ -1,0 +1,93 @@
+{
+  "id": "tr_2275",
+  "title": "Pan-Fried Tofu with Soy Dipping Sauce",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/08/pan-fried-tofu-7.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pan-fried-tofu-with-soy-dipping-sauce/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "pan-fried tofu"
+  ],
+  "nutrition": {
+    "calories": 197,
+    "protein": 11.0,
+    "carbs": 4.0,
+    "fat": 16.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "firm tofu ((450g))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "chili garlic sauce ((or chili black bean sauce, optional))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut tofu into small rectangles about ½ an inch thick. Heat the vegetable oil in a cast-iron or non-stick skillet over medium high heat and add the tofu. Fry until they’re a soft golden color on both sides, about 7-8 minutes per side."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare the sauce by combining the scallion, soy, garlic, sesame oil and chili sauce (if using) in a small bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Plate the tofu and serve with the sauce."
+    }
+  ]
+}

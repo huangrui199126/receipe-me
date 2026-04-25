@@ -1,0 +1,181 @@
+{
+  "id": "tr_2034",
+  "title": "Pineapple Fried Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/06/pineapple-fried-rice-22.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pineapple-fried-rice/",
+  "servings": 6,
+  "prepTime": 40,
+  "cookTime": 20,
+  "tags": [
+    "pineapple fried rice"
+  ],
+  "nutrition": {
+    "calories": 446,
+    "protein": 20.0,
+    "carbs": 55.0,
+    "fat": 16.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "shrimp ((225g, peeled, deveined, rinsed, and pat dry))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "onion ((150g, diced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "carrot ((75g, diced))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "ham ((or Chinese sausage; 115g, finely diced))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "6",
+      "unit": "cups",
+      "name": "cooked rice ((about 900g))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "peas ((100g))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "pineapple ((diced into 1/2-inch pieces))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs ((beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt ((more to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine ((plus 1 tablespoon, divided))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "vegetable oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce ((or Thai thin soy sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, prepare the shrimp, onion, carrot, ham/Chinese sausage, rice, peas, pineapple, and scallions. If using fresh pineapple, remember to trim away the pineapple core. If using canned pineapple, rinse away any syrup and pat dry with a clean kitchen towel."
+    },
+    {
+      "order": 2,
+      "instruction": "Beat 2 eggs with ¼ teaspoon salt and ½ teaspoon Shaoxing wine. Heat your wok over medium heat until lightly smoking. Add 1 tablespoon oil, and scramble the eggs for 1 minute—until just cooked. Turn off the heat, break the egg into small pieces, transfer to a dish, and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat another 1 tablespoon of oil over medium heat. Cook the shrimp until they turn pink, about 1 minute. Remove from the wok and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat the last 2 tablespoons of oil over medium heat. Cook the onion until translucent. Add the diced carrots and ham, and cook until the carrots are no longer crunchy. Add the rice and 1 tablespoon Shaoxing wine. The steam from the wine will loosen the rice chunks!"
+    },
+    {
+      "order": 5,
+      "instruction": "Stir-fry everything together well, and add in the peas, 1 tablespoon fish sauce, 1 tablespoon light soy sauce, ½ teaspoon ground white pepper, 1 teaspoon sesame oil, the scrambled egg, and the cooked shrimp. Stir-fry everything together for a few minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Finally, add the pineapple and scallions. Mix everything again for a minute or two. To crisp and warm the rice through, you can use your wok spatula to spread the rice in a single layer around the surface area of the wok, making use of all the heat and letting any excess liquid evaporate."
+    },
+    {
+      "order": 7,
+      "instruction": "Salt to taste, and serve immediately!"
+    }
+  ]
+}

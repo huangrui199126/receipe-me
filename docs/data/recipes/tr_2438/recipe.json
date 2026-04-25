@@ -1,0 +1,141 @@
+{
+  "id": "tr_2438",
+  "title": "Ginger Scallion Hokkien Noodles",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/09/hokkien-noodles-ginger-scallion-11-1.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/ginger-scallion-hokkien-noodles/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "hokkien noodles"
+  ],
+  "nutrition": {
+    "calories": 470,
+    "protein": 18.0,
+    "carbs": 69.0,
+    "fat": 13.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "boneless skinless chicken thighs ((cut into thin strips; can substitute boneless skinless chicken breast))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  scallions ((julienned))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red chili ((sliced, optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "cooked hokkien noodles or fresh lo mein noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine ((can substitute clear rice wine or dry sherry))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the chicken with 1 teaspoon cornstarch, 1 teaspoon oil, and 1 teaspoon soy sauce."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a wok over high heat until it&#39;s lightly smoking. Add 1 tablespoon of oil, and stir-fry the chicken until it just turns opaque. Remove from the wok and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Add 2 more tablespoons of oil to the wok, and add the ginger slices. Fry for 1 minute, and add the scallions and red chili. Stir-fry until the scallions begin to wilt, about 10 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the noodles, and stir-fry, adding a sprinkling of hot water if the noodles are stuck together."
+    },
+    {
+      "order": 5,
+      "instruction": "When the noodles have loosened and warmed up, add the Shaoxing wine, 1 1/2 tablespoons light soy sauce, dark soy sauce, and cooked chicken. Stir-fry until combined, about 1-2 minutes. Serve!"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "tr_2145",
+  "title": "Easy Curry Beef Rice Bowls",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/07/curry-beef-3.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/curry-beef-bowls/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 40,
+  "tags": [
+    "curry beef"
+  ],
+  "nutrition": {
+    "calories": 494,
+    "protein": 24.0,
+    "carbs": 22.0,
+    "fat": 34.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion ((finely diced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large russet potato ((cut into a ½-inch dice))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "ground beef ((450g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "curry powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1½",
+      "unit": "teaspoons",
+      "name": "turmeric",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1½",
+      "unit": "cups",
+      "name": "beef broth ((350 ml))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "peas ((optional))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a skillet or wok, heat the oil over medium high heat. Add the onions and garlic and cook until translucent and just slightly caramelized. Add the potatoes. Let cook for 10 minutes, turning the heat down if the potatoes are crisping too much."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the ground beef, breaking it up with a spatula, and cook the beef until browned. Next, add the curry powder, turmeric, cumin, sugar, black pepper, and salt. Stir to combine."
+    },
+    {
+      "order": 3,
+      "instruction": "Make a cornstarch slurry by mixing the beef broth with 1 tablespoon of cornstarch. Add it to the beef mixture and bring to a boil. Simmer for a few minutes until the entire mixture has thickened. You’ll know it’s ready when there’s no more pooling liquid––just a very viscous curry beef!"
+    },
+    {
+      "order": 4,
+      "instruction": "Add the peas (if using). Let the entire mixture simmer, covered, for 10-15 minutes, until the potatoes are fork tender. Season with additional salt to taste, if necessary. Spoon over a bed of rice to serve!"
+    }
+  ]
+}

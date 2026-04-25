@@ -1,0 +1,61 @@
+{
+  "id": "tr_2395",
+  "title": "Chinese Salted Pork Bones",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/11/salted-pork-bones-4.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-salted-pork-bones/",
+  "servings": 8,
+  "prepTime": 60,
+  "cookTime": 0,
+  "tags": [
+    "salted pork bones"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 27.0,
+    "carbs": 1.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "pork neck bones ((the meatier the better; cut into 2-inch/5cm thick pieces))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorns ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak pork bones in water for 1 to 2 hours. This helps remove blood and impurities before salting. After soaking, rinse them in fresh water a couple of times until the water runs clean. Drain and shake off excess water."
+    },
+    {
+      "order": 2,
+      "instruction": "If using Sichuan peppercorns, cook salt and Sichuan peppercorns over medium heat for 5 minutes, or until the salt turns a light golden color. Remove from the heat and cool completely. If you’re not using Sichuan peppercorns, you can skip this cooking step and just add the salt directly to the pork bones."
+    },
+    {
+      "order": 3,
+      "instruction": "In a large bowl, evenly rub the pork bones in the salt (and the Sichuan peppercorns, if using). Cover and marinate for 24 to 48 hours in the refrigerator."
+    }
+  ]
+}

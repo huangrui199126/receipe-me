@@ -1,0 +1,89 @@
+{
+  "id": "tr_2152",
+  "title": "How to Prepare Shrimp for Chinese Cooking",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/03/shrimp-rice-rolls-4.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/how-to-prepare-shrimp/",
+  "servings": 4,
+  "prepTime": 120,
+  "cookTime": 0,
+  "tags": [
+    "how to prepare shrimp"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 pounds shrimp ((peeled and deveined))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "ice water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "ice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place your shrimp into a large mixing bowl, and add sugar, salt and baking soda. Gently massage the ingredients into the shrimp."
+    },
+    {
+      "order": 2,
+      "instruction": "Add ice water and ice to the bowl, and stir everything together. Let your shrimp sit for 1-2 hours, or even overnight in the refrigerator."
+    },
+    {
+      "order": 3,
+      "instruction": "When you&#x27;re ready to use the shrimp, run cold water into the bowl, gently stir the shrimp, and pour the water out. Repeat this twice to remove excess salt, sugar and baking soda."
+    },
+    {
+      "order": 4,
+      "instruction": "Drain. The shrimp are now ready to use."
+    }
+  ]
+}

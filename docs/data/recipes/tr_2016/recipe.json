@@ -1,0 +1,157 @@
+{
+  "id": "tr_2016",
+  "title": "Chinese Cold “Salad” Dressing 凉拌汁",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/06/cold-dish-sauce-7.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-cold-salad-dressing/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "chinese salad dressing"
+  ],
+  "nutrition": {
+    "calories": 92,
+    "protein": 2.0,
+    "carbs": 6.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((minced; 4 cloves = about 15g))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  thin slices ginger ((minced; 3 thin slices = about 8g))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped, with the green and white parts separated))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  Thai chilies ((chopped))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Chinese black vinegar ((or to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oyster sauce ((or vegetarian oyster sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2-1 teaspoon sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cilantro ((chopped; or to taste))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large heat-proof bowl, arrange the minced garlic, minced ginger, the white parts of the chopped scallion, and chopped Thai chilies so they are adjacent to each other at the bottom of the bowl (don’t messily pile them all on top of each other)."
+    },
+    {
+      "order": 2,
+      "instruction": "Now infuse the Sichuan peppercorns in oil. In a small pot, heat 3 tablespoons of vegetable oil with the Sichuan peppercorns over low heat until fragrant, taking care not to burn the peppercorns."
+    },
+    {
+      "order": 3,
+      "instruction": "After about 10 minutes, remove the peppercorns using a fine meshed strainer or slotted spoon. Heat the infused oil just until it begins to smoke. Pour it carefully over the arranged aromatics in the bowl. It will bubble and sizzle! Carefully stir to evenly distribute the heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Now add in the sugar, vinegar, light soy sauce, oyster sauce, sesame oil, salt and five spice powder. Mix well."
+    },
+    {
+      "order": 5,
+      "instruction": "Finally add in the green parts of the chopped scallion and the cilantro. (If pre-making the sauce, leave these last ingredients out and add them right before serving.)"
+    }
+  ]
+}

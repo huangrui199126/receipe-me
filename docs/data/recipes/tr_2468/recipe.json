@@ -1,0 +1,129 @@
+{
+  "id": "tr_2468",
+  "title": "Homemade Sichuan Hot Pot Soup Base",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/10/hot-pot-13.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-hot-pot-soup-base/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "hot pot soup base"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-5  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "10",
+      "unit": "cloves",
+      "name": "garlic ((peeled))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cinnamon stick",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "10",
+      "unit": "cloves",
+      "name": "((smashed))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  whole dried red chilies",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tablespoons",
+      "name": "spicy bean paste ((la doubanjiang))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12-15 cups chicken stock ((or vegetable/mushroom stock))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a wok over medium heat, add the oil and the ginger. Cook the ginger for about a minute until caramelized, taking care not to burn it."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the bay leaves, garlic, cinnamon stick, star anise, and cloves. Cook for another 2 minutes, until very fragrant."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the Sichuan peppercorns, dried chilies (whole), and the spicy bean paste."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook for another 2 minutes, and then add the stock. Bring to a boil and transfer to the pot (it should be relatively wide and shallow) you’ll be using for your hot pot meal."
+    }
+  ]
+}

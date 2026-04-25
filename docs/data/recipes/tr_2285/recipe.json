@@ -1,0 +1,97 @@
+{
+  "id": "tr_2285",
+  "title": "Roast Pork with Five Spice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/06/roast-pork-with-five-spice-3.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/roast-pork-with-five-spice/",
+  "servings": 6,
+  "prepTime": 60,
+  "cookTime": 75,
+  "tags": [
+    "chinese roast pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2.5",
+      "unit": "pounds",
+      "name": "pork belly ((in one big slab))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "ground ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Get a large pot of boiling water on the stove. Add the piece of pork to the water and cook for about ten minutes. This gets some of the blood and fat off the meat. Take the meat out and pat it dry with paper towel."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix all your spices together and rub the pork all over with the spice mixture. Put it in the refrigerator to marinate for 1 hour."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 375 degrees, roast the pork until tender (about 45 minutes – 1 hour)."
+    },
+    {
+      "order": 4,
+      "instruction": "Allow to rest for 10 minutes before serving."
+    }
+  ]
+}

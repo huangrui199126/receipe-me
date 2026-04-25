@@ -1,0 +1,109 @@
+{
+  "id": "tr_2404",
+  "title": "Salt Baked Chicken, A Hakka Favorite (盐焗鸡)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/04/salt-baked-chicken-3-1.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/salt-baked-chicken/",
+  "servings": 6,
+  "prepTime": 120,
+  "cookTime": 90,
+  "tags": [
+    "salt baked chicken"
+  ],
+  "nutrition": {
+    "calories": 264,
+    "protein": 20.0,
+    "carbs": 1.0,
+    "fat": 19.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A whole chicken ((about 3 pounds, 1.35 kg))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "sand ginger powder",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "coarse sea salt ((plus 3 pounds; yes, you read that right))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse the chicken under cold running water. Shake off the excess water and pat the chicken dry with paper towels or a clean dish cloth."
+    },
+    {
+      "order": 2,
+      "instruction": "Brush the Shaoxing wine all over the chicken, including the cavity. Next, combine the sand ginger powder, ground white pepper, and 2 teaspoons salt. Rub the mixture all over the chicken, including the cavity."
+    },
+    {
+      "order": 3,
+      "instruction": "Now set the chicken on a wire rack, and place it over a tray to catch any drippings. It’s best if you can sit the chicken upright so the liquid in its cavity can drip out. You can use a drinking glass to prop it up. Leave the chicken uncovered and let marinate overnight in the refrigerator. The objective is to dry out the chicken skin."
+    },
+    {
+      "order": 4,
+      "instruction": "The next day, take the chicken out of the refrigerator for at least one to two hours before cooking, so the chicken can come up to room temperature. Insert the ginger slices into the cavity and brush the chicken skin with oil. Next, tie up the drumsticks with kitchen twine. Finally, wrap the chicken with a large piece of parchment paper, then wrap it again with a second piece of parchment with the opening on the breast side. Set the chicken aside."
+    },
+    {
+      "order": 5,
+      "instruction": "Now “stir-fry” the rest of the salt in a clean dry wok for about 15 minutes, using medium heat until the salt turns light brown. The salt gets very hot, so be careful not to burn yourself or stir too vigorously. Next, fill a wok or Dutch oven with about a ½-inch of hot salt spread evenly across the bottom. Position the chicken with the breast side up in the center of the pot. Next, add the rest of the hot salt onto the chicken to make sure it’s completely covered. Top your vessel of choice with the lid, and cook over medium heat for 35 minutes. Then turn off the heat, and let it sit on the stove, covered, for another 30 to 40 minutes until the salt is warm to the touch."
+    },
+    {
+      "order": 6,
+      "instruction": "Once the salt is warm to the touch, use a wooden spoon or a spatula to carefully lift the chicken out of the salt. Be very careful--the chicken is still very hot despite sitting with the heat off for 30-40 minutes. Carefully unwrap the parchment paper, and let it cool slightly until it’s not too hot to handle."
+    },
+    {
+      "order": 7,
+      "instruction": "As for how to serve the chicken, this dish is usually served with the meat deboned and pulled apart. You don’t have to follow these steps, but your diners (in our case, Sarah) will appreciate your effort! Plus, the chicken bone and carcass do make a lovely broth. As you pull the meat off the chicken, there will be a lot of juice--do yourself and your diners a favor by pouring the juice over the chicken after it’s plated! For the finishing touch, sprinkle with chopped scallion."
+    }
+  ]
+}

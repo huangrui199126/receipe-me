@@ -1,0 +1,93 @@
+{
+  "id": "tr_2177",
+  "title": "Edamame Beans, Our Way",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/09/edamame-5.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/edamame-beans/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 25,
+  "tags": [
+    "edamame"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 13.0,
+    "carbs": 13.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "fresh or frozen edamame ((450g, in the husks))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-4 cups water ((enough to cover the edamame in the pot))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-1½ tablespoons salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "whole peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare the edamame by trimming away both ends with kitchen shears or a knife. Take care not to cut the beans themselves. This will allow the flavor to get inside the pods."
+    },
+    {
+      "order": 2,
+      "instruction": "In a small pot, boil 3 – 4 cups of water along with the salt, star anise, light soy sauce, whole peppercorns, and garlic. Once the water boils, turn down heat to the lowest setting and let simmer for 15 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "After 15 minutes, turn up the heat, adding the edamame into the pot. Boil for 5 -6 minutes WITHOUT THE LID. Drain and serve! These will keep well in the fridge in a Ziploc bag or covered bowl for about a week."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "tr_2090",
+  "title": "Crispy Hasselback Potatoes with Spicy Bacon Scallion Relish",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/11/hasselback-potatoes-12.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/hasselback-potatoes-bacon/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 80,
+  "tags": [
+    "hasselback potatoes"
+  ],
+  "nutrition": {
+    "calories": 333,
+    "protein": 7.0,
+    "carbs": 40.0,
+    "fat": 17.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  medium russet potatoes ((scrubbed))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "bacon ((chopped))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cumin seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "red chili flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat your oven to 400 degrees F."
+    },
+    {
+      "order": 2,
+      "instruction": "Place each potato between the handles of 2 chopsticks or wooden spoons. Slice the potato into thin slices, leaving 1/4 inch at the bottom unsliced (the chopsticks/spoon handles will prevent you from slicing the potato all the way through). Repeat with the remaining potatoes."
+    },
+    {
+      "order": 3,
+      "instruction": "Place on a parchment-lined baking sheet, and brush thoroughly with olive oil, making sure to get the oil in between all the potato layers. Season with salt and pepper to taste, and roast in the oven for 1 hour and 20 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "When the potatoes are almost done roasting (i.e. when there are about 10 minutes of roasting time left), sautee the bacon in a pan over medium heat until crisp. Lightly smash the cumin seeds using a mortar and pestle, and add to the bacon along with the chili flakes and scallions. Stir, remove from the heat, and sprinkle over the potatoes. Serve!"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "tr_2363",
+  "title": "Stir-fried Cucumbers with Wood Ears and Bean Threads",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/08/Stir-fried-cucumbers-wood-ear-bean-threads-13.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/stir-fried-cucumbers-with-bean-threads-and-wood-ears/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "bean threads",
+    "stir-fried cucumbers",
+    "wood ears"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 6.0,
+    "carbs": 21.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "ounces",
+      "name": "dried bean threads (AKA yuba) ((soaked for 2 hours in warm water until reconstituted - about 2 cups after rehydrating))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "0.5",
+      "unit": "ounce",
+      "name": "dried wood ear mushrooms",
+      "emoji": "🍄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "spicy bean sauce",
+      "emoji": "🫘",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((cut into 2-inch lengths, white and green parts separated))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((thinly sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large seedless cucumber ((about 1 pound/450g, sliced in half lengthwise and then thinly sliced on a diagonal))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "oyster sauce ((or vegetarian oyster sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch ((dissolved into 3 tablespoons water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the bean threads into 2-inch pieces."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring a pot of water to a boil. Add the reconstituted bean threads and wood ears, and blanch for 90 seconds. Drain and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat a wok over medium heat, and add the oil, along with the spicy bean sauce, ginger slices, and the white parts of the scallions."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook for 30 seconds to 1 minute, until the oil turns red and the aromatics are fragrant. Add the garlic, and cook for another 15 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Increase the heat to high, and add the blanched bean threads and wood ears. Stir-fry for 1 minute. Add the Shaoxing wine around the perimeter of the wok, and then add the cucumbers. Stir-fry for 30 seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the light soy sauce, oyster sauce, and sugar. Then add the water and cornstarch mixture. Continue stir-frying until the sauce coats the vegetables. Stir in the green parts of the scallions. Once wilted, remove from the wok to a serving plate."
+    }
+  ]
+}

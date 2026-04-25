@@ -1,0 +1,173 @@
+{
+  "id": "tr_2206",
+  "title": "Buddha's Delight (Vegetarian Lo Han Jai)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/02/buddhas-delight-11-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/buddhas-delight-lo-han-jai/",
+  "servings": 6,
+  "prepTime": 60,
+  "cookTime": 15,
+  "tags": [
+    "buddha's delight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "fresh ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "red fermented bean curd ((hong fu ru))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium leek ((cut into 2 inch pieces))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  dried shiitake mushrooms ((soaked in warm water and sliced))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "dried wood ears ((soaked in warm water; yields about 1 cup))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "dried lily flowers ((soaked in warm water with the tips cut off))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "Napa cabbage ((cut into 2-inch pieces))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fried tofu puffs",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 sticks dried bean threads ((soaked in warm water and cut into 2-inch pieces))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water or vegetable stock",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 small bundle mung bean noodles ((soaked in warm water, drained and cut into shorter pieces with kitchen shears))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat your wok over medium-high heat, and add the oil and ginger. Let the ginger caramelize for about 30 seconds without letting it burn. Add the red fermented bean curd and break it up with your spatula. Add the garlic, the white portions of the leeks (reserve to green portion for later), mushrooms, wood ears, and lily flowers. Stir fry for 1 minute. Add the Shaoxing wine and stir fry for another minute."
+    },
+    {
+      "order": 2,
+      "instruction": "Next, add the napa cabbage, fried tofu, and bean threads, and crank up the heat as high as it will go. Stir-fry for 2 minutes. Add the remaining green portion of the leeks, sesame oil, soy sauce, sugar and water or vegetable stock. Stir everything together, cover the wok, and reduce the heat to medium. Cook for 6 minutes, stirring occasionally."
+    },
+    {
+      "order": 3,
+      "instruction": "Uncover the wok and turn the heat back up to high. Add the mung bean noodles, which should soak up most of the liquid. Keep stirring until most of the liquid has evaporated. Transfer to a large bowl and serve with steamed rice!"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "id": "tr_2181",
+  "title": "Shanghai Wonton Soup",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/08/wonton-soup-10.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shanghai-wonton-soup/",
+  "servings": 4,
+  "prepTime": 240,
+  "cookTime": 10,
+  "tags": [
+    "shanghai wonton soup"
+  ],
+  "nutrition": {
+    "calories": 391,
+    "protein": 20.0,
+    "carbs": 39.0,
+    "fat": 16.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1½",
+      "unit": "pound",
+      "name": "chicken bones ((680g))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1½",
+      "unit": "pound",
+      "name": "pork bones ((680g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "9",
+      "unit": "cups",
+      "name": "water ((2 liters))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "pound",
+      "name": "ground pork ((225g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "slice",
+      "name": "ginger ((finely minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 pack thin wonton wrappers",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A few drops of sesame oil in each bowl",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A pinch of ground white pepper in each bowl",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped scallion ((about ½ a scallion per bowl is plenty))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Making the stock:"
+    },
+    {
+      "order": 2,
+      "instruction": "In a soup pot, bring all the ingredients to a boil, scooping away any impurities (i.e. foam, etc.) that float to the top. Simmer at your burner’s lowest setting for at least 3-4 hours. A slow simmer makes the stock tasty, yet clear. When the stock is finished cooking, add salt to taste. You can also use this stock for other dishes—the flavor is clean and delicious."
+    },
+    {
+      "order": 3,
+      "instruction": "For the pork filling:"
+    },
+    {
+      "order": 4,
+      "instruction": "Mix everything together, stirring in one direction for about 5-8 minutes until the mixture takes on a paste-like texture. This is best done by hand rather than with a mixer—get your arm workout in for the day!"
+    },
+    {
+      "order": 5,
+      "instruction": "Making &amp; Cooking the wontons:"
+    },
+    {
+      "order": 6,
+      "instruction": "To wrap the wontons, place a 1/2 teaspoon of filling on the wrapper. Fold in half, and gently squeeze around the top of the filling, as shown in the photos."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat up the stock if you made it in advance or if it has cooled. In a separate pot, boil the water for cooking the wontons. While you’re waiting, add the sesame oil and ground white pepper to each of your serving bowls."
+    },
+    {
+      "order": 8,
+      "instruction": "Once the water boils, add the wontons, and stir lightly. The wontons are done once they float to the top. Use a slotted spoon to scoop up the wontons, and add them to the soup bowls. Ladle over the stock, top with the chopped scallions, and enjoy!"
+    }
+  ]
+}

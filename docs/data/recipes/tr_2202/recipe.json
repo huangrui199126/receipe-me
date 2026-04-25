@@ -1,0 +1,133 @@
+{
+  "id": "tr_2202",
+  "title": "Coconut Curry Chicken",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/02/coconut-curry-chicken-6-1.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/coconut-curry-chicken/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 35,
+  "tags": [
+    "coconut curry chicken"
+  ],
+  "nutrition": {
+    "calories": 328,
+    "protein": 19.0,
+    "carbs": 16.0,
+    "fat": 22.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "curry powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion ((diced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((smashed))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "14",
+      "unit": "ounces",
+      "name": "coconut milk ((400 ml))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "water or chicken broth ((475 ml))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  plum tomatoes ((diced))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium potatoes ((peeled and cut into bite-sized chunks))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  boneless skinless chicken thighs",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and white pepper ((black pepper may be substituted))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil in a large skillet or Dutch oven over low heat, and immediately add the curry powder. Let it cook in the oil for 1-2 minutes, making sure not to burn it. In the meantime, dice the onion and smash the garlic. Add them to the pot, turn the heat up to medium, and give everything a stir."
+    },
+    {
+      "order": 2,
+      "instruction": "Stir in the coconut milk and water (or chicken broth). Bring to a boil. While you’re waiting for that, dice the tomatoes and prep the potatoes. Add them both to the pot and season with salt, then add the sugar. Cover the lid and simmer for 10-15 minutes, until the potatoes are cooked through."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut the chicken thighs into chunks and season with salt and pepper. Once the potatoes are cooked through, add the chicken to the pot and give everything a stir. Cover the lid and cook for 10 minutes. Adjust seasoning to taste, and serve with rice!"
+    }
+  ]
+}

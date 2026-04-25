@@ -1,0 +1,137 @@
+{
+  "id": "tr_2230",
+  "title": "Scallop Fried Rice with XO Sauce and Crispy Garlic",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/09/scallop-xo-sauce-fried-rice-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/scallop-fried-rice-xo-sauce-crispy-garlic/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "scallop fried rice"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 24.0,
+    "carbs": 52.0,
+    "fat": 26.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "cooked rice ((cooled))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "Bay Scallops or Sea Scallops ((450g, rinsed and patted dry))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  large eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((thinly sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion ((diced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "scallop XO Sauce",
+      "emoji": "🦐",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "It's generally best to prepare the rice the day before, although you can also do it the same day. The best way to do this is to follow the directions on your rice cooker and use a little bit less water so the rice comes out just slightly drier than usual. Let the rice cool uncovered and use a fork to break it up and fluff it. You can also refrigerate it the night before and when you're ready to use it the next day, rinse your hands in water and carefully break up the clumps of rice. The water should prevent or minimize the rice sticking to your hands."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat your wok until it just begins to smoke and add 1 tablespoon oil. Throw in the scallops and sear (without moving them) 60 seconds until they get some good color. Toss them around until they're just opaque and set aside on a plate. Beat the eggs with shaoxing wine and salt and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Wash and dry your wok and heat it over low heat, with 2 tablespoons oil. Add the garlic and spread it around evenly. Let the garlic fry very slowly until they just turn golden. If it goes brown, it's already burned and bitter, so keep a constant watch on it! It should take about 5 minutes for the garlic to get crispy and just start to turn light golden. When they are ready, transfer the crispy garlic to a paper towel to drain and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Leave the infused oil from the garlic in the wok, and raise the heat to medium high. Add the diced onions and stir-fry until translucent. Add in the rice to the onion mixture, and then pour the egg mixture evenly over all the rice. Immediately begin stirring constantly in a scoop and lift motion. This will leave all your rice coated in a thin layer of scrambled egg. After about 90 seconds of stirring, mix in the XO sauce. Season with salt and pepper to taste, and then add in the scallops and scallion. Toss for 30 seconds and serve with the fried garlic sprinkled over the top!"
+    }
+  ]
+}

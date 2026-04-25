@@ -1,0 +1,157 @@
+{
+  "id": "tr_2326",
+  "title": "You Dunzi (油墩子)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/03/you-dunzi-fried-radish-cakes-17.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/you-dunzi/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 30,
+  "tags": [
+    "you dunzi"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 2.0,
+    "carbs": 21.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "all purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "rice flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "18",
+      "unit": "ounces",
+      "name": "daikon radish ((shredded))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  scallions ((1/4 cup, finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "vegetable oil (for frying (can also use peanut or canola oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by making the rice flour batter. In a large bowl, combine the all-purpose flour, rice flour, baking powder, sea salt, sugar, white pepper, and five spice powder. Gradually add in the water, whisking constantly until the mixture is well incorporated into a thin batter. Cover with an overturned plate, and let the batter rest while you prepare the other ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "To make the daikon radish filling, shred the daikon using a food processor with a grating attachment, or a box grater. Squeeze the daikon with your hands to remove as much moisture as possible."
+    },
+    {
+      "order": 3,
+      "instruction": "Wash the cilantro and scallions, and pat them thoroughly dry with a kitchen towel. Coarsely chop the cilantro, and finely chop the scallions. Mix into the daikon until evenly incorporated. Now both the batter and the filling are ready for frying. Don’t be tempted to mix them together."
+    },
+    {
+      "order": 4,
+      "instruction": "In a medium deep pot, heat 3 inches of oil to 350°F. During the preheating process, keep your ladle or the metal tins you’re planning to use in the oil. This preheats them and prevents the you dunzi from sticking while frying."
+    },
+    {
+      "order": 5,
+      "instruction": "When the oil comes up to temperature, empty your ladle of oil (or carefully lift the tins out of the oil using tongs)."
+    },
+    {
+      "order": 6,
+      "instruction": "Immediately fill the ladle or tin with enough batter to cover the bottom in a thin layer. Add the daikon radish filling up to the top rim, ensuring the edges are tidy. Then drizzle another light layer of batter evenly over the top (it shouldn’t be overloaded with batter)."
+    },
+    {
+      "order": 7,
+      "instruction": "Carefully lower the ladle/tin into the hot oil. Fry for 2 minutes to set the you dunzi. It should come out of the ladle easily. Flip it and fry for an additional 3-4 minutes, until golden brown all over. As it cooks, you can assemble the next one."
+    },
+    {
+      "order": 8,
+      "instruction": "Transfer the cooked you dunzi to a wire cooling rack. Repeat until you’ve used all the batter and filling. You might have a little leftover, but this is to ensure that you get at least 8 full-sized radish cakes."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve immediately—just be careful, as they are very hot inside! These are best fresh, but can be reheated in the oven or toaster oven until warmed through and crispy."
+    }
+  ]
+}

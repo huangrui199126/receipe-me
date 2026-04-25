@@ -1,0 +1,113 @@
+{
+  "id": "tr_2317",
+  "title": "Vegan Red Curry Tofu",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/03/red-curry-tofu.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/vegan-red-curry-tofu/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "red curry tofu"
+  ],
+  "nutrition": {
+    "calories": 226,
+    "protein": 9.0,
+    "carbs": 8.0,
+    "fat": 19.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion ((thinly sliced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  tomato ((chopped))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "Thai red curry paste",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "water or vegetable stock",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "fried tofu triangles",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "snap peas ((washed and trimmed))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  of a red bell pepper ((thinly sliced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat 2 tablespoons of oil in a wok or skillet over medium high heat. Add the onions and chopped tomatoes, and fry for 2-3 minutes. Add the red curry paste and fry for another minute."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the coconut milk and water (or stock), and bring to a boil. Add the tofu, turn the heat down to medium low, cover, and simmer for 10 minutes. Stir in the snap peas and bell peppers and simmer for another 3-4 minutes. Season with salt to taste."
+    }
+  ]
+}

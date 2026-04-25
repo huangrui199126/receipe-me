@@ -1,0 +1,117 @@
+{
+  "id": "tr_2146",
+  "title": "How to Velvet Pork for Stir-fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/06/how-to-velvet-pork-15.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/how-to-velvet-pork-for-stir-fry/",
+  "servings": 4,
+  "prepTime": 35,
+  "cookTime": 0,
+  "tags": [
+    "how to velvet pork"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 19.0,
+    "carbs": 1.0,
+    "fat": 5.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "boneless pork ((340g; use pork butt, shoulder, loin, tenderloin, or boneless country ribs))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/8",
+      "unit": "teaspoon",
+      "name": "baking soda ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vegetable oil ((plus more for stir-frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sesame oil ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Slice pork as required for your recipe. In a medium bowl, add the pork, water, Shaoxing wine, oyster sauce, and baking soda (if using)."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix with your hands until the pork is well coated and the liquid is absorbed into the meat. Add the cornstarch, vegetable oil, and optional sesame oil and white pepper (if using). Mix again until everything’s well incorporated. Set aside and let the pork marinate for at least 30 minutes or overnight (if marinating overnight, let the pork come up to room temperature before starting your dish."
+    },
+    {
+      "order": 3,
+      "instruction": "To sear the pork, place your wok over high heat. When it starts to smoke lightly, add 2 tablespoons oil around the perimeter of the wok to coat the surface. Add the pork in one layer, allowing it to sear for 30 seconds. Stir-fry until it has turned opaque, remove from the wok, and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "To blanch, bring water to a boil in your wok. Stir in the pork. Once it turns opaque, blanch for an additional 10 second, and remove from the wok using a spider or strainer. Set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "Now your pork is ready to be added to your stir-fry. Remember, whether searing or blanching, you will cook the pork again in your stir-fry, so avoid overcooking it during the pre-cook step."
+    }
+  ]
+}

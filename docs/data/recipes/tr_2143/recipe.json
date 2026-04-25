@@ -1,0 +1,153 @@
+{
+  "id": "tr_2143",
+  "title": "Pork Chop Sticky Rice Bake with Bacon",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/09/pork-chop-sticky-rice-9-1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pork-chop-sticky-rice-bake/",
+  "servings": 8,
+  "prepTime": 60,
+  "cookTime": 45,
+  "tags": [
+    "pork chop sticky rice"
+  ],
+  "nutrition": {
+    "calories": 467,
+    "protein": 36.0,
+    "carbs": 28.0,
+    "fat": 22.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  boneless center cut pork chops ((about ½ inch thick))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 ½",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 ½",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. shiitake mushrooms ((225g, roughly chopped))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion ((chopped))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "cooked sticky rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "8",
+      "unit": "slices",
+      "name": "bacon",
+      "emoji": "🥓",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix together the pork with the marinade ingredients. Set aside to marinate for about 1 hour."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat the oil in a wok or large skillet over medium heat. Add in the shiitake mushrooms and onions and cook until softened. Stir in the cooked sticky rice and scallions. Stir in the dark soy sauce and season with salt and pepper to taste. Remove from heat, and allow to cool."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat your oven to 375 degrees F. Divide the rice mixture into 6-8 portions (depending on how many pork chops you have), and wrap a pork chop around each portion. Place into a baking dish, rice-side down. Then zigzag a slice of bacon over the top. Pour the chicken broth into the dish, filling all the crevices."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake for about 20 minutes. Then broil on low for about 3-5 minutes, or until the bacon is crisp. Don't walk away as it broils! Watch it to prevent burning. Serve immediately."
+    }
+  ]
+}

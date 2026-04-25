@@ -1,0 +1,69 @@
+{
+  "id": "tr_2299",
+  "title": "Chinese Crispy Noodles",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/10/chinese-fried-crispy-noodles-12.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-crispy-noodles/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "chinese crispy noodles"
+  ],
+  "nutrition": {
+    "calories": 109,
+    "protein": 1.0,
+    "carbs": 9.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "fresh uncooked egg noodles",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "vegetable oil ((or canola oil or any other frying oil of your choice))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "If using fresh egg noodles, there is no need to do anything to prep them, as they will be easy to snap into snackable pieces after frying. If using egg roll or wonton wrappers, cut them into 1x4 inch (2.5x10 cm) strips."
+    },
+    {
+      "order": 2,
+      "instruction": "In a wok or deep medium pot where the oil will only come up about half the height of the pot, heat the oil to 375-400°F (190-204°C). Use a deep fry thermometer/candy thermometer to maintain temperature."
+    },
+    {
+      "order": 3,
+      "instruction": "Take a small handful of the noodles, and carefully drop them into the oil. As soon as they hit the oil, use a pair of wooden or bamboo chopsticks to break them up and prevent them from sticking together as they fry and expand."
+    },
+    {
+      "order": 4,
+      "instruction": "Fry for 20-30 seconds. Using your chopsticks or a slotted spoon, carefully flip the noodles and fry for another 20 seconds, or until evenly golden brown."
+    },
+    {
+      "order": 5,
+      "instruction": "Drain the fried noodles of excess oil, and transfer them to a plate or sheet pan lined with paper towels to cool. Sprinkle salt over the noodles to taste. Repeat until you’ve fried all of your noodles."
+    }
+  ]
+}

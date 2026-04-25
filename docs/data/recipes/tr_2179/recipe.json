@@ -1,0 +1,197 @@
+{
+  "id": "tr_2179",
+  "title": "Moo Shu Pork",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/08/moo-shu-pork-8-1.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/moo-shu-pork/",
+  "servings": 4,
+  "prepTime": 50,
+  "cookTime": 10,
+  "tags": [
+    "moo shu pork"
+  ],
+  "nutrition": {
+    "calories": 324,
+    "protein": 16.0,
+    "carbs": 5.0,
+    "fat": 26.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "pound",
+      "name": "pork ((225g, thinly sliced))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine ((or dry sherry))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "slice",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine ((or dry sherry))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cucumber ((halved, deseeded, then cut on a 45-degree angle))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "rehydrated black wood ears ((washed and drained))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine ((or dry sherry))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, combine the pork with the marinade ingredients and set aside for 20-30 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Then cook the eggs. Whisk together the eggs with the rice wine and salt. Heat 1 tablespoon of oil in a wok over high heat. Add the beaten eggs, scramble, and turn off the heat. Dish out the cooked eggs and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat the wok over high heat once again, and add 2 tablespoons of oil. When the oil starts to smoke, add the pork and sear the meat until lightly browned. Then add the chopped scallion and stir."
+    },
+    {
+      "order": 4,
+      "instruction": "Next, add the sliced cucumbers and wood ear mushrooms. Stir fry to thoroughly combine the ingredients. Now it’s time to add the Shaoxing wine, light soy sauce, oyster sauce and water."
+    },
+    {
+      "order": 5,
+      "instruction": "Stir fry everything well for an additional 30 seconds. Finally add the cooked eggs, stir-fry for another 30 seconds, and serve!"
+    }
+  ]
+}

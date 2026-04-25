@@ -1,0 +1,93 @@
+{
+  "id": "tr_2225",
+  "title": "Shanghai Cai Fan (Rice with Salted Pork and Greens)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/09/shanghai-cai-fan-06.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shanghai-cai-fan-rice-salted-pork-greens/",
+  "servings": 4,
+  "prepTime": 45,
+  "cookTime": 15,
+  "tags": [
+    "shanghai cai fan"
+  ],
+  "nutrition": {
+    "calories": 246,
+    "protein": 4.0,
+    "carbs": 38.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "salted cured pork ((diced))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "pork lard",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "lb",
+      "name": "baby bok choy ((225g, washed and finely chopped))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak the rice in 1 1/4 cups water in a clay pot for 45 minutes to an hour. Once soaked, sprinkle on the salted pork and add a tablespoon of grease or oil. Put the pot over medium heat, uncovered, and bring it to a boil."
+    },
+    {
+      "order": 2,
+      "instruction": "While you wait for rice to boil, heat 1 tablespoon of oil in a wok using medium heat. Add the minced ginger and caramelize a bit. Then add the boy choy, and stir-fry just until wilted. Turn off the heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Once the pot is boiling, cover the pot, turn the heat down to the lowest setting, and let it simmer for 8 minutes. Now take off the lid and add the cooked bok choy (don't pour in any of the cooking liquid from the bok choy) to the top of the rice and cover again. Let it simmer for another 5 minutes. Serve!"
+    }
+  ]
+}

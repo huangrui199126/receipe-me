@@ -1,0 +1,133 @@
+{
+  "id": "tr_2091",
+  "title": "Seafood Congee (海鲜粥)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/11/seafood-congee-2.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/seafood-congee/",
+  "servings": 8,
+  "prepTime": 30,
+  "cookTime": 60,
+  "tags": [
+    "seafood congee"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15.0,
+    "carbs": 20.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "whole shrimp ((heads on, with shells))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  crabs ((about ½ pound total, we used Maryland Blue Crabs))",
+      "emoji": "🦀",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "ginger ((julienned))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "10",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "frozen white rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse the shrimp under cold water, and remove the heads (don’t throw them away though). To clean the shrimp, cut open the back shell using kitchen shears to de-vein. Pat the shrimp dry with paper towels and set aside both the shrimp and the heads in the refrigerator."
+    },
+    {
+      "order": 2,
+      "instruction": "For the crab, lift off the top shell of each crab and rinse clean using Bill’s detailed cleaning instructions in our recipe for Cantonese-style Scallion Ginger Crab for reference. Cut the cleaned crab into 4-6 pieces, and set aside in the refrigerator."
+    },
+    {
+      "order": 3,
+      "instruction": "Now we’re ready to begin cooking! Heat the oil in a thick-bottomed soup pot over medium heat. Stir-fry the shrimp heads along with half of the julienned ginger for a couple of minutes, until they turn crispy and the oil turns a deep red color. Then add in the water, and bring it to a boil. Turn down the heat to medium low, and simmer for 10 minutes. After 10 minutes, turn off the heat, and scoop out/discard the shrimp heads."
+    },
+    {
+      "order": 4,
+      "instruction": "Next, add the frozen white rice and Shaoxing wine, bring to a boil again, and cook for 15 minutes over medium heat. The congee should be bubbling gently. Remember to stir from the bottom periodically to prevent the rice from sticking. After 15 minutes, add in the cleaned shrimp and crab. Stir, cover, and cook for another 10 minutes--until the shrimp and crab are cooked through."
+    },
+    {
+      "order": 5,
+      "instruction": "Before serving, add salt to taste, white pepper, cilantro, scallion, and the rest of the ginger. Serve immediately!"
+    }
+  ]
+}

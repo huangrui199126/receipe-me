@@ -1,0 +1,137 @@
+{
+  "id": "tr_2106",
+  "title": "Garlic Chives with Pork (Cang Ying Tou - 苍蝇头)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/06/garlic-chives-stir-fry-2.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/garlic-chives-pork-cang-ying-tou/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "garlic chives with pork"
+  ],
+  "nutrition": {
+    "calories": 364,
+    "protein": 20.0,
+    "carbs": 9.0,
+    "fat": 28.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "10",
+      "unit": "ounces",
+      "name": "ground pork ((285 g; can also use ground chicken, turkey, or beef))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "tablespoon",
+      "name": "ginger ((finely chopped))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "garlic ((finely chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "fermented black beans ((35 grams, rinsed and drained))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "red long hot peppers ((or red bell peppers, finely diced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "garlic chives ((cut into ⅓-inch pieces))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat your wok over high heat until it starts to smoke slightly. Turn down the heat, and let the wok cool down a bit before adding 1 tablespoon of the oil. (This step of superheating the wok before adding oil prevents the meat from sticking to the wok. This method works well for pan-frying anything--fish included.)"
+    },
+    {
+      "order": 2,
+      "instruction": "Once the oil is heated, turn the heat down to medium, and add the ground pork. Cook it until the meat is lightly browned. Add in the Shaoxing wine, ½ tablespoon light soy sauce, and the sugar. Mix well, turn off the heat, and transfer the cooked meat to a bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Now turn the heat down to low, and add the last 2 tablespoons of oil and the ginger. Cook it for a minute, then add the garlic and fermented black beans. Cook everything for a minute or two, taking care to avoid burning."
+    },
+    {
+      "order": 4,
+      "instruction": "Next, add peppers, and turn the heat up to high. Stir fry everything together, and let it cook for a minute uncovered. Then, add in the cooked pork and garlic chives (if you use scapes, you will need to extend the cooking time at the end for 1-2 minutes with the wok lid on) and stir-fry."
+    },
+    {
+      "order": 5,
+      "instruction": "Now it’s time to add in the remaining light soy sauce (1½ tablespoons) and the sesame oil. Stir-fry to combine. At this point, you can salt to taste, but the fermented black beans are quite salty--I found that I didn’t need to add any salt. But be fast about it, because the garlic chives cook quickly."
+    },
+    {
+      "order": 6,
+      "instruction": "Transfer to a dish and serve with steamed rice."
+    }
+  ]
+}

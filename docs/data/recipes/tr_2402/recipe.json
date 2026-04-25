@@ -1,0 +1,93 @@
+{
+  "id": "tr_2402",
+  "title": "Cooked Lettuce with Oyster Sauce &amp; Garlic",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/07/Chinese-romaine-lettuce-oyster-sauce-6.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/cooked-lettuce-with-oyster-sauce-garlic/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "cooked lettuce"
+  ],
+  "nutrition": {
+    "calories": 149,
+    "protein": 2.0,
+    "carbs": 5.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "10",
+      "unit": "ounces",
+      "name": "romaine lettuce",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((minced, about 2 tablespoons))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce ((or to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce ((or vegetarian oyster sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Separate the romaine into individual leaves. Wash the leaves clean, paying special attention to the base of the stems, which hold the most dirt! Drain, leaving the leaves whole."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring a pot of water to a boil."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, in a small saucepan over medium heat, heat 2 tablespoons of oil. Add the minced garlic, light soy sauce, oyster sauce and 3 tablespoons of water. Bring the mixture to a simmer, and then turn off the heat. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "When your water is boiling, add the remaining 1 tablespoon of oil, along with the romaine lettuce leaves. Cook for about 20 seconds, to lightly wilt the lettuce. Immediately scoop them out of the pot. Drain off any excess water, and lay them on a serving plate"
+    },
+    {
+      "order": 5,
+      "instruction": "Pour the sauce over the top, and serve immediately."
+    }
+  ]
+}

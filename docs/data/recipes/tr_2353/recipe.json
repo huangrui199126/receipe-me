@@ -1,0 +1,77 @@
+{
+  "id": "tr_2353",
+  "title": "Hong Kong Milk Tea",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/02/hong-kong-milk-tea.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/hong-kong-milk-tea/",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 0,
+  "tags": [
+    "milk tea"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 6.0,
+    "carbs": 13.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "cups",
+      "name": "hot water ((1.4L, makes about 4 ½ cups of tea after the boiling process))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "10",
+      "unit": "tablespoons",
+      "name": "tea leaves or fannings",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1⅓",
+      "unit": "cups",
+      "name": "evaporated milk ((315 ml, ⅓ cup per serving))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 to 2 tablespoons sweetened condensed milk (~1 teaspoon per serving, or to taste)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "a fine-meshed strainer lined with a piece of fine cheesecloth  (cheese cloth is optional, to get a perfectly smooth tea)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add 6 cups of very hot water to a pot. Add the tea and bring to a boil. Turn down the heat and simmer for 15 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "From there, pour the tea through a fine-meshed strainer that has cotton cheesecloth tied around it. This is optional to make sure you get every last bit of tea fanning out of your drink."
+    },
+    {
+      "order": 3,
+      "instruction": "Portion out the tea––one serving is a little over 1 cup. Mix in ⅓ cup evaporated milk and about 1 teaspoon sweetened condensed milk, or to taste. Stir thoroughly, and enjoy immediately!"
+    }
+  ]
+}

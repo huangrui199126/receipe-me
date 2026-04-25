@@ -1,0 +1,157 @@
+{
+  "id": "tr_2078",
+  "title": "Chinese Pearl Meatballs with Sticky Rice (珍珠丸子)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/02/pearl-meatballs-11.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pearl-meatballs-sticky-rice/",
+  "servings": 10,
+  "prepTime": 480,
+  "cookTime": 25,
+  "tags": [
+    "chinese pearl meatballs"
+  ],
+  "nutrition": {
+    "calories": 188,
+    "protein": 9.0,
+    "carbs": 13.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  dried bamboo leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "¾",
+      "unit": "cup",
+      "name": "glutinous rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "hand-chopped ground pork with 20% fat",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "⅓",
+      "unit": "cup",
+      "name": "water chestnuts ((minced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "scallions ((just the white parts, minced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "cold water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "tablespoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To start, soak the bamboo leaves by submerging them under water with the weight of a large plate. (You can do this the night before.)"
+    },
+    {
+      "order": 2,
+      "instruction": "Now, soak the glutinous rice in a bowl covered with at least an inch of water above the rice for about 2 hours. While the rice is soaking, prepare the meat filling."
+    },
+    {
+      "order": 3,
+      "instruction": "Weigh about 13 ounces of lean pork and 3 ounces of pork fat. You can use the techniques from our post on How to Grind Meat without a Meat Grinder in Minutes, and hand-chop the pork very finely. It’s also fine to use store-bought ground pork, but make sure it’s 80% lean. In a large bowl, add the ground pork, water chestnuts, ginger, the scallions, water, Shaoxing wine, cornstarch, white pepper, sesame oil, sea salt, and sugar."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir to combine everything well, whipping in just *one* direction for at least 5 minutes until the filling becomes fluffy and sticky. Cover and marinate in the refrigerator for 30 minutes. While the meat is marinating, prepare the steamer. Wash and trim the bamboo leaves, and use them to line the steamer."
+    },
+    {
+      "order": 5,
+      "instruction": "After 2 hours of soaking, drain the glutinous rice, and do your best to shake off any excess water."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove the meat filling from the fridge after the 30 minutes has elapsed. Now it’s time to make the pearls! Take about a tablespoon of meat filling, form a ball and roll it in the glutinous rice so that the whole surface is coated. Roll it between your palms lightly to ensure all the glutinous rice adheres to the meatball. Position the meatballs on the bamboo leaf with about ½ an inch of space in between each meatball."
+    },
+    {
+      "order": 7,
+      "instruction": "To cook, start with cold water with the steamer covered. Steam over high heat for 20 minutes. After steaming, turn off the heat, and let the meatballs sit with the cover on for 3 additional minutes before removing the lid and serving."
+    }
+  ]
+}

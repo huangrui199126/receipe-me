@@ -1,0 +1,153 @@
+{
+  "id": "tr_2368",
+  "title": "Spicy Cold Skin Noodles (Liangpi)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/07/spicy-cold-skin-noodles-liangpi-6.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/cold-skin-noodles-liangpi/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "cold skin noodles"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 17.0,
+    "carbs": 39.0,
+    "fat": 32.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "chili oil ((or to taste; preferably homemade))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorn powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((smashed and finely minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "fresh liangpi noodles ((about 8 ounces; can substitute 100g dried wide rice noodles or mung bean noodles))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "wheat gluten ((can substitute tofu puffs if you&#039;re avoiding gluten))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small cucumber ((julienned))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine all sauce ingredients. Taste and adjust seasoning if needed."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook the noodles according to package instructions and add to a large mixing bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Steam or blanch the beansprouts and wheat gluten. If steaming, steam for about 5 minutes over high heat. If blanching, you can do so for about 30 seconds. Add them to the bowl with the noodles, along with the cilantro and cucumber."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour the sauce into the mixing bowl and toss everything together. Taste once again, and adjust seasonings. Feel free to add more vinegar, soy sauce, salt, chili oil, or sugar to your liking. Serve!"
+    }
+  ]
+}

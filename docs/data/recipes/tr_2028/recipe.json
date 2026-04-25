@@ -1,0 +1,165 @@
+{
+  "id": "tr_2028",
+  "title": "Chicken with Black Bean Sauce",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/08/chicken-with-black-beans-2-1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chicken-black-beans/",
+  "servings": 4,
+  "prepTime": 35,
+  "cookTime": 5,
+  "tags": [
+    "chicken with black beans"
+  ],
+  "nutrition": {
+    "calories": 293,
+    "protein": 28.0,
+    "carbs": 9.0,
+    "fat": 16.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  chicken breasts ((about 12 ounces/340g, cut into 1/8-inch thick slices))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger ((julienned))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((smashed and chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((chopped and separated into white and green parts))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "fermented black beans ((washed and drained))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green bell pepper ((cut into bite-sized pieces))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red bell pepper ((cut into bite-sized pieces))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the chicken and the marinade ingredients in a bowl, and mix until all the liquid is absorbed. Allow to marinate for 30 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Pre-heat your wok over high heat, until it starts to smoke. This step is essential, as it prevents the chicken from sticking to the wok. With your spatula, spread 2 tablespoons of oil over the bottom of the wok. Add the chicken, and quickly spread the pieces into a single layer. Let the chicken cook for about 30 seconds, flip, and cook the other side for another 30 seconds. The chicken is done once it turns opaque––be careful not to overcook it. Turn off the heat, transfer the chicken to a dish, and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Next, heat 1 tablespoon of oil in the wok over medium heat. Add the ginger, and let it cook for 15 seconds. Next, add the garlic, the white parts of the scallions, and the black beans. Stir for another 30 seconds. Now turn up the heat to high. Add the green and red peppers, and stir fry for about a minute. Add the sugar, Shaoxing wine, salt, the chicken, 2 tablespoons of water, and the green parts of the scallion. Quickly stir-fry everything well to coat in the sauce, and serve!"
+    }
+  ]
+}

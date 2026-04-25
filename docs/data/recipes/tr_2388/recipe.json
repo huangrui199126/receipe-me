@@ -1,0 +1,109 @@
+{
+  "id": "tr_2388",
+  "title": "Boiled Daikon Radish: A Light, Healthy Side Dish",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/01/boiled-daikon-2.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/boiled-daikon-radish/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 25,
+  "tags": [
+    "boiled daikon"
+  ],
+  "nutrition": {
+    "calories": 28,
+    "protein": 1.0,
+    "carbs": 6.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "daikon radish",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "slice",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water or stock",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the daikon into half-inch thick, bite-sized pieces. In a pot, add 1 slice ginger, 1 cup water or stock (235ml), 1 tablespoon oyster sauce (16 g), ½ teaspoon salt (2 g), ¼ teaspoon sugar (1 g), ¼ teaspoon ground white pepper (a large pinch), and stir to combine. Add the daikon."
+    },
+    {
+      "order": 2,
+      "instruction": "Cover and bring everything to a boil, then reduce the heat to medium. Cook for 20 minutes until the daikon is fork tender, stirring occasionally."
+    },
+    {
+      "order": 3,
+      "instruction": "Right before serving, add in the chopped scallion, and a few drops of sesame oil (optional). Mix well and serve!"
+    }
+  ]
+}

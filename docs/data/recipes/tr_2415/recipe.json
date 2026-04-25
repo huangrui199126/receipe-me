@@ -1,0 +1,109 @@
+{
+  "id": "tr_2415",
+  "title": "1-2-3-4-5 Ribs",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/10/12345-ribs-12.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/1-2-3-4-5-ribs/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 35,
+  "tags": [
+    "1-2-3-4-5 ribs"
+  ],
+  "nutrition": {
+    "calories": 302,
+    "protein": 13.0,
+    "carbs": 9.0,
+    "fat": 23.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "pork ribs ((680g, the meatier the better, cut into 1.5- to 2-inch pieces))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "5",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Select meaty ribs, and have the butcher cut them into 1.5” to 2” long pieces. Rinse, and pat dry with a paper towel."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat a wok until it starts to smoke lightly (see my post on how to prevent food from sticking to a wok). Add 2 tablespoons oil, along with the ginger slices. Over medium heat, fry the ginger for 1 minute. Add the ribs, turn up the heat to high, and take a few minutes to brown both sides."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn down the heat, and add in 1 tablespoon Shaoxing wine, 2 tablespoons light soy sauce, 3 tablespoons Chinese black vinegar, 4 tablespoons sugar, and 5 tablespoons water. Stir and mix everything well. Turn up the heat to bring it to a boil."
+    },
+    {
+      "order": 4,
+      "instruction": "Once boiling, cover and reduce the heat to medium/low. Simmer for 25 minutes (20 minutes if the ribs are less meaty than mine). Halfway through the process, check to make sure the liquid is not drying up. If so, reduce the heat further and add in a little more water if needed."
+    },
+    {
+      "order": 5,
+      "instruction": "After 25 minutes of simmering, remove the lid. There should be quite a bit of liquid left. Time to turn up the heat to reduce the sauce and make the ribs glisten. With the heat on high, continuously stir and toss the ribs. This process takes only a couple of minutes. Reduce the liquid until there is ¼ cup of liquid left and the ribs are gleaming with sauce! Serve immediately."
+    }
+  ]
+}

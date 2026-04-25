@@ -1,0 +1,125 @@
+{
+  "id": "tr_2160",
+  "title": "Shanghai Shrimp Stir-fry - You Bao Xia (油爆虾)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/02/shanghai-style-shrimp-15.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shrimp-stir-fry-shanghai/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "shanghai shrimp"
+  ],
+  "nutrition": {
+    "calories": 294,
+    "protein": 24.0,
+    "carbs": 2.0,
+    "fat": 20.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "medium shrimp ((450g, size: 21/30))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "oil ((for frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((white portion only, save the green portion for another day))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by preparing the shrimp. Using kitchen shears, trim off the legs and the sharp pointy part at the top of the head. Then devein the shrimp by using a toothpick to carefully expose and pull it out, without damaging the shell (see the photo!). Rinse the shrimp thoroughly, drain, and pat dry with a paper towel."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat the oil in a wok over high heat until it just starts to smoke. Carefully lower the shrimp into the oil in two batches, frying gently for about 5 - 10 seconds with each batch. The shrimp will go opaque very quickly. Immediately scoop them out into a metal strainer, to drain excess oil back into the wok. Set the shrimp aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Now, let the oil heat up again until it's smoking. Lower the shrimp into the oil again (in two separate batches), and fry for another 5 - 10 seconds. The frying time varies depending on shrimp size––over frying will dry out the shrimp."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn off the heat and scoop out the oil into a heat-proof bowl, leaving about 1 tablespoon of oil in the wok. Turn the heat on to low and add in the scallion whites and ginger. Cook for 2 minutes, until fragrant. Add the Shaoxing wine, chicken broth, sugar and vinegar. Turn up the heat, so the mixture comes to a simmer. Stir for 30 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "At this point, you can choose to remove the scallions and ginger from the wok, or simply leave them in there! Finally, add the shrimp back to the wok along with the sesame oil. Stir-fry for 5-10 seconds, until the shrimp are coated in the sauce. Add salt to taste, and serve."
+    }
+  ]
+}

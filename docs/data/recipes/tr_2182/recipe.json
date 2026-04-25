@@ -1,0 +1,69 @@
+{
+  "id": "tr_2182",
+  "title": "Yuanyang Tea (Hong Kong Style Tea Brewed with Coffee)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/08/yuanyang-7.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/yuanyang-tea-hong-kong/",
+  "servings": 10,
+  "prepTime": 0,
+  "cookTime": 20,
+  "tags": [
+    "yuanyang tea"
+  ],
+  "nutrition": {
+    "calories": 49,
+    "protein": 1.0,
+    "carbs": 7.0,
+    "fat": 2.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "black tea leaves (to make 4 1/2 cups (about 1 L) black tea)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4 1/2",
+      "unit": "cups",
+      "name": "brewed coffee ((about 1 L))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5-8 tablespoons sugar ((depends on your preference for sweetness))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "half and half ((180 ml))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First brew your black tea leaves in 4 1/2 cups of water. While the tea is steeping, brew your coffee with your preferred method. Make sure both the tea and coffee are fairly strong!"
+    },
+    {
+      "order": 2,
+      "instruction": "When the coffee and tea are ready, combine them in a large bowl or carafe. Stir the sugar into the coffee/tea mixture and add the half and half. Stir thoroughly and serve!"
+    },
+    {
+      "order": 3,
+      "instruction": "This makes 8-10 servings depending on mug size. You can also serve this tea chilled or with ice!"
+    }
+  ]
+}

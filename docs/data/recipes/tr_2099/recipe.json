@@ -1,0 +1,145 @@
+{
+  "id": "tr_2099",
+  "title": "Tofu with Black Bean Sauce - 豉汁豆腐",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/09/tofu-black-bean-sauce-11-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/tofu-black-bean-sauce/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [
+    "tofu with black bean sauce"
+  ],
+  "nutrition": {
+    "calories": 237,
+    "protein": 13.0,
+    "carbs": 9.0,
+    "fat": 17.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "firm tofu ((450g))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "fermented black beans ((rinsed))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((cut into large pieces, whites and greens separated))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  dried or fresh red chilies ((deseeded and chopped, optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch ((dissolved in 2 tablespoons water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the tofu into ¼-inch thick squares. Pat each piece of tofu dry with a paper towel, and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Place a clean wok or cast iron skillet over high heat until it just starts to smoke. This is an important step to prevent the tofu from sticking. Turn the heat down to medium, and add 2 tablespoons of oil to coat your pan. Pan-fry the tofu on both sides until lightly golden brown. Turn off the heat, and transfer the tofu to a plate."
+    },
+    {
+      "order": 3,
+      "instruction": "Over medium heat, and add 1 tablespoon of oil to your wok, along with the garlic, black beans, the white parts of the scallions, and the chopped chilies. Depending on how hot your chilies are, as well as your own tolerance for spice, you may want to use more or fewer chilies––or none at all. I used 7 dried chilies, de-seeded."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir and cook everything for a minute, taking care not to burn the garlic. Add in the tofu, the Shaoxing wine, light soy sauce, sesame oil, white pepper, sugar, and the green parts of the scallions."
+    },
+    {
+      "order": 5,
+      "instruction": "Stir-fry gently so as to not break up the tofu. When the mixture is bubbling, stir your cornstarch mixture to ensure that the cornstarch is completely dissolved."
+    },
+    {
+      "order": 6,
+      "instruction": "Then add it to the wok, stirring gently and quickly until the sauce has thickened and evenly coats the tofu. Serve immediately!"
+    }
+  ]
+}

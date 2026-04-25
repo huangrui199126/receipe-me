@@ -1,0 +1,149 @@
+{
+  "id": "tr_2142",
+  "title": "Stir-Fried Green Beans with Pork and Chinese Olive Vegetable",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/08/stir-fried-green-beans-7-1.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/stir-fried-green-beans/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "stir-fried green beans"
+  ],
+  "nutrition": {
+    "calories": 254,
+    "protein": 7.0,
+    "carbs": 10.0,
+    "fat": 21.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "ground pork ((or chicken, 115g))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tablespoons",
+      "name": "vegetable oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "green beans ((450g, cut into ½-inch pieces))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "preserved olive vegetable",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6-7  dried chili peppers ((deseeded and chopped into coarse pieces, optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinate the ground pork with 1 teaspoon Shaoxing wine, 1 teaspoon light soy sauce and a pinch of white pepper powder. Let sit for 15 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 1½ tablespoons of oil in your wok over medium heat. Add the green beans, stir-fry, and spread the beans out in a single layer. Let cook for 20 seconds. Then stir and repeat the spreading step several times until the green beans are slightly wilted and cooked through. Turn the heat down to medium if needed to avoid burning. It takes about 5 minutes to cook the green beans this way. Transfer to a dish and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Next, heat 1 tablespoon of oil in your wok over medium heat. Add the minced ginger and garlic. Stir for a few seconds, turn up the heat, and add the pork. Stir-fry the pork until it’s cooked through. Now add the olive vegetable, Shaoxing wine, and sugar. Stir-fry everything to combine. Add the green beans back to the wok along with the dried hot peppers and sesame oil. Stir for about a minute, salt to taste, and serve!"
+    }
+  ]
+}

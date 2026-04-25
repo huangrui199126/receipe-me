@@ -1,0 +1,145 @@
+{
+  "id": "tr_2061",
+  "title": "Homemade Chicken Nuggets with Sichuan Spices",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/08/homemade-chicken-nuggets-sichuan-3.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/homemade-chicken-nuggets-sichuan/",
+  "servings": 6,
+  "prepTime": 30,
+  "cookTime": 20,
+  "tags": [
+    "homemade chicken nuggets"
+  ],
+  "nutrition": {
+    "calories": 399,
+    "protein": 32.0,
+    "carbs": 33.0,
+    "fat": 15.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1 ½",
+      "unit": "pounds",
+      "name": "boneless skinless chicken breast ((680g))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Freshly ground black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Sichuan chili flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "plain dried breadcrumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Vegetable oil (for frying)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the chicken into bite-sized pieces. Season with salt and fresh black pepper. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "In a dry pan, toast the Sichuan peppercorns and chili flakes until fragrant. Grind the spice mixture with a spice grinder or mortar and pestle. Stir in a teaspoon of salt, and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare your breading assembly line by getting 3 shallow dishes. In the first dish, add 2/3 cup all purpose flour. In the second dish, beat 2 eggs together with 2 tablespoons water. In the third and final dish, mix together 1 1/2 cups plain dried breadcrumbs, garlic powder, onion powder, and more salt and pepper to taste."
+    },
+    {
+      "order": 4,
+      "instruction": "Bread the chicken a few pieces at a time by first dredging them in flour, then coating them in egg, and finally coating them in the seasoned breadcrumbs. Shake off any excess breadcrumb and set aside on a plate."
+    },
+    {
+      "order": 5,
+      "instruction": "Meanwhile, heat a ½ inch of vegetable oil in a cast iron skillet over medium heat. When the oil reaches 375 degrees F, and all your chicken has been breaded, fry them in batches until golden on all sides. This will take about 3 minutes per batch, flipping the nuggets as needed. Ensure the oil temperature comes back up to 375 degrees before frying each batch. After they’re fried, immediately sprinkle with your ground spice and salt mixture."
+    },
+    {
+      "order": 6,
+      "instruction": "Repeat until all the chicken nuggets have been fried. Serve!"
+    }
+  ]
+}

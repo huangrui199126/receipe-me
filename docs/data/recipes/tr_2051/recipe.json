@@ -1,0 +1,162 @@
+{
+  "id": "tr_2051",
+  "title": "Easy Stir Fried Cabbage with Glass Noodles",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/11/cabbage-glass-noodles-11.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/stir-fried-cabbage-glass-noodles/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "glass noodles",
+    "stir-fried cabbage"
+  ],
+  "nutrition": {
+    "calories": 244,
+    "protein": 3.0,
+    "carbs": 34.0,
+    "fat": 12.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 small bundles dried glass noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1½",
+      "unit": "pounds",
+      "name": "Taiwanese cabbage ((680g))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "5",
+      "unit": "slices",
+      "name": "ginger ((julienned))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((finely chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-4  dried red chilies",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak 2 small bundles of dried glass noodles in cold water for 5 minutes until slightly softened. Drain and cut the glass noodles in half lengthwise. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Julienne the cabbage thinly. Prepare the stir fry sauce by mixing together 1 tablespoon light soy sauce, ½ teaspoon dark soy sauce, ½ teaspoon black vinegar, ½ teaspoon ground white pepper, 1 teaspoon sesame oil, ¼ teaspoon sugar, and ½ cup water."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 3 tablespoons of oil in a wok over medium heat. Cook the ginger and garlic until the garlic has browned lightly. Add the cabbage, and turn the heat to the highest setting. Stir fry for 1-2 minutes until the cabbage is slightly wilted. Add the dried chilies (if using)."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the prepared sauce and the glass noodles. Stir and mix everything well, turning down the heat a bit if the dish is becoming too dry and risks getting burned. Salt to taste and add the scallions. Stir to combine once more, and serve!"
+    }
+  ]
+}

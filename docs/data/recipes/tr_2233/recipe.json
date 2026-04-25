@@ -1,0 +1,121 @@
+{
+  "id": "tr_2233",
+  "title": "Peking Duck Grilled Cheese",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/08/peking-duck-grilled-cheese-9-1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/peking-duck-grilled-cheese-2/",
+  "servings": 1,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "duck grilled cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "thick Asian milk bread or other high quality soft white bread",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "softened butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "mayonnaise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "chopped green onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "chopped cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "a pinch of five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "Gruyère or cheddar",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "cooked duck with crispy skin ((sliced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  thin cucumber slices",
+      "emoji": "🥒",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  thin, crisp cantaloupe slices",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Take each slice of bread and spread ½ tablespoon butter on each. Make the green onion hoisin spread by combining the mayonnaise, green onion, cilantro, hoisin, and five spice powder in a small bowl. Spread the mixture on the other side of each slice of bread. Heat a skillet over medium-low heat. Place one of the bread slices in the pan, butter side down."
+    },
+    {
+      "order": 2,
+      "instruction": "Top it with the rest of the ingredients in the following order: the cheese, the duck, the cucumber, and the cantaloupe. Top the sandwiches with the remaining slice of bread, butter side up. Grill in the skillet until the bottom is lightly browned, and the cheese begins to melt. Carefully flip the sandwich over, and gently press with your spatula. Grill the other side until the bread is golden and the cheese is gooey."
+    }
+  ]
+}

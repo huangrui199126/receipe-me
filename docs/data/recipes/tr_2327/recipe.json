@@ -1,0 +1,105 @@
+{
+  "id": "tr_2327",
+  "title": "Spicy King Oyster Mushroom Stir-fry (Vegan!)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/03/king-oyster-mushroom-stir-fry-13.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/king-oyster-mushroom-stir-fry-vegan/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "king oyster mushroom"
+  ],
+  "nutrition": {
+    "calories": 224,
+    "protein": 5.0,
+    "carbs": 15.0,
+    "fat": 18.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "king oyster mushrooms ((450g))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "5",
+      "unit": "tablespoons",
+      "name": "vegetable oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "8",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "spicy bean sauce",
+      "emoji": "🫘",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  long hot peppers ((red and/or green, de-seeded and sliced diagonally))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut each oyster mushroom in half lengthwise. Place each mushroom half flat side down, and score with your knife lengthwise. Make the slices deep, without slicing completely through the mushroom. Then make perpendicular cuts across the lengthwise cuts, again making sure not to slice all the way through. Every third cut, slice through the mushroom to create ½ inch pieces."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 4 tablespoons oil in a wok over high heat. Fry the mushrooms lightly in the oil until golden brown on one side. Flip and fry on the other side until golden. Continue frying until the mushrooms are tender. Remove the mushrooms from the oil."
+    },
+    {
+      "order": 3,
+      "instruction": "Reduce the heat to medium low. Add another tablespoon of oil to the wok. Add the ginger, and cook for 1 minute. Add the garlic and cook for another 30 seconds. Stir in the spicy bean sauce and cook for another 30 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the mushrooms back to the wok, along with the light soy sauce and ½ teaspoon sugar. Add the peppers to the wok and stir-fry everything together for another 2 minutes. Serve!"
+    }
+  ]
+}

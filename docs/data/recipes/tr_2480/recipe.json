@@ -1,0 +1,345 @@
+{
+  "id": "tr_2480",
+  "title": "Fujian Fried Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/08/fujian-fried-rice-24.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/fujian-fried-rice/",
+  "servings": 6,
+  "prepTime": 120,
+  "cookTime": 15,
+  "tags": [
+    "fujian fried rice"
+  ],
+  "nutrition": {
+    "calories": 294,
+    "protein": 17.0,
+    "carbs": 38.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-4  small dried shiitake mushrooms",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "0.3",
+      "unit": "ounce",
+      "name": "dried scallops",
+      "emoji": "🦐",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "cooked jasmine rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large eggs ((beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "ounces",
+      "name": "peeled, deveined shrimp ((diced into ½-inch/1cm pieces))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shallot ((chopped))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "frozen peas and carrots",
+      "emoji": "🥕",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "ounces",
+      "name": "boneless pork butt/shoulder  ((or pork belly))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "boneless chicken thighs  ((or chicken breast))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "neutral oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "chicken stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "tablespoons",
+      "name": "neutral oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 30
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "cornstarch ((mixed into a slurry with 2 tablespoons water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 31
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak the dried shiitake mushrooms in hot water for 2 hours (longer is fine) until the mushrooms are fully hydrated. Dice the mushrooms and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Soak the dried scallops in hot water for 1 hour or longer until softened. Use your fingers to break apart the hydrated scallops and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "If you are using freshly cooked rice, spread it out onto a large shallow bowl to cool. If using day-old rice from the refrigerator, rinse your hands in water and break up any large clumps of rice and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Measure and prep the eggs, shrimp, shallots, garlic, and peas and carrots."
+    },
+    {
+      "order": 5,
+      "instruction": "Cut the pork belly into small bite-sized pieces about ½-inch (1cm) thick and wide. Add the 1 teaspoon Shaoxing wine along with ¼ teaspoon each of salt, sugar, five spice powder, and cornstarch. Mix well and set aside."
+    },
+    {
+      "order": 6,
+      "instruction": "Dice the chicken into ½-inch (1cm) cubes and stir in the 1 tablespoon water, 2 teaspoons oyster sauce, 1 teaspoon oil, and ½ teaspoon cornstarch. Set aside to marinate."
+    },
+    {
+      "order": 7,
+      "instruction": "For the rice seasoning sauce, mix ¼ teaspoon sugar, ½ teaspoon salt, 2 teaspoons light soy sauce and 2 tablespoons warm water until everything is dissolved and set aside."
+    },
+    {
+      "order": 8,
+      "instruction": "For the sauce base, combine 2½ cups chicken stock, 2 tablespoons oyster sauce, 2 tablespoons light soy sauce, 2 teaspoons dark soy sauce, ½ teaspoon sesame oil, 1 teaspoon sugar, and 1/8 teaspoon white pepper."
+    },
+    {
+      "order": 9,
+      "instruction": "Now that everything is prepared, you’re ready to fire up the wok and start cooking! Heat the wok over high heat until just smoking, then reduce to medium heat. Coat the wok with 1 tablespoon of oil. Add the beaten eggs. Stir until they’re about 90% cooked, breaking up into smaller pieces. Turn down the heat if needed to prevent the eggs from scorching. Transfer back to the bowl and set aside."
+    },
+    {
+      "order": 10,
+      "instruction": "Increase the heat to high until the wok is lightly smoking. Add ½ tablespoon canola oil around the perimeter of the wok, followed by the rice. Stir-fry until the rice is just heated through. (Day-old refrigerated rice will take longer than freshly cooked rice.)"
+    },
+    {
+      "order": 11,
+      "instruction": "Next, add the rice seasoning sauce and continue stir-frying until the sauce is fully incorporated and the rice is steaming. Mix in the cooked eggs. Stir-fry until thoroughly combined. Transfer to a large shallow serving dish and set aside (there should be enough room in the dish to hold the sauce you will be pouring on top of the rice)."
+    },
+    {
+      "order": 12,
+      "instruction": "Over high heat once again (the wok should be lightly smoking), add another ½ tablespoon oil to the wok, along with the marinated pork. Spread the pork out evenly. Sear for 30 seconds. Then stir-fry for another 30 seconds until the meat is evenly seared. Remove from the wok and set aside."
+    },
+    {
+      "order": 13,
+      "instruction": "Heat the wok until just smoking (you should start feeling confident now—there is a lot of repetition!). Add ½ tablespoon canola oil to the wok, followed by the marinated chicken. Spread the chicken out evenly. Sear for 30 seconds. Stir-fry for another 30 seconds until the meat is evenly seared. Remove from the wok and set aside."
+    },
+    {
+      "order": 14,
+      "instruction": "With the wok set over medium high heat, add the remaining tablespoon of oil to the wok. Add the rehydrated scallops, and stir-fry for 20 seconds or until fragrant. Add the mushrooms and stir-fry for another 20 seconds. Mix in the shallots and the garlic."
+    },
+    {
+      "order": 15,
+      "instruction": "Next, add the shrimp. Stir fry for 30 seconds—just to get a light sear, not to cook it through. Give the prepared sauce base a stir, and pour it into the wok. Let the sauce come up to a simmer. Once it does, stir in the peas and carrots, pork, and chicken."
+    },
+    {
+      "order": 16,
+      "instruction": "Bring the sauce mixture to a simmer again. Stir in the cornstarch slurry until the sauce thickens enough to coat a spoon. Add more cornstarch and water mix if you like the sauce thicker. Scoop the sauce mixture on top of the fried rice, and serve!"
+    }
+  ]
+}

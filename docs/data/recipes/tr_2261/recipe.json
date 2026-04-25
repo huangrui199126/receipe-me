@@ -1,0 +1,149 @@
+{
+  "id": "tr_2261",
+  "title": "Vegetable Five Spice Tofu Stir-Fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/01/DSC_0130-1.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/vegetable-five-spice-tofu-stir-fry/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [
+    "tofu stir-fry"
+  ],
+  "nutrition": {
+    "calories": 144,
+    "protein": 9.0,
+    "carbs": 15.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "five spice tofu ((julienned))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "celery ((julienned))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "king oyster mushrooms ((julienned))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dried shiitake mushrooms ((reconstituted and julienned))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "carrot ((julienned))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "red bell pepper ((julienned))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "teaspoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Wash and julienne the tofu and vegetables."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 2 teaspoons oil in the wok over high heat. Stir-fry the tofu for about 3 minutes until slightly crisp. Remove from pan and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Add 2 more teaspoons oil and cook the celery and king oyster mushrooms for 2 minutes. Add the rest of the vegetables and a pinch of sugar. Cook for 2 minutes, stirring constantly."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the tofu back to the pan along with the shaoxing wine, salt, five spice powder, white pepper, and soy sauce."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook another 3 to 5 minutes and serve."
+    }
+  ]
+}

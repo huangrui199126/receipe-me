@@ -1,0 +1,129 @@
+{
+  "id": "tr_2085",
+  "title": "Cream Cheese Wontons",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/12/cream-cheese-wontons-7.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/cream-cheese-wontons/",
+  "servings": 12,
+  "prepTime": 60,
+  "cookTime": 20,
+  "tags": [
+    "cream cheese wontons"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5.0,
+    "carbs": 24.0,
+    "fat": 12.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. cream cheese ((225g))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  scallions ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 pack wonton wrappers",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Vegetable oil ((for frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Sriracha ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Make the wonton filling by combining the cream cheese, sugar, salt, and scallions."
+    },
+    {
+      "order": 2,
+      "instruction": "Assemble the wontons. Take each wrapper, and dampen the outer edges with a thin layer of water. Place a teaspoon of the cream cheese filling in the middle, and fold in half into a triangle. Bring the two corners on the long side of the triangle together, and seal with another dab of water. Continue until all the wontons are assembled."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat a couple inches of vegetable oil in a small pot until it reaches 375 degrees F. Fry the wontons in batches––about 2 minutes per batch––until golden brown. Definitely use a small pot for this and fry in multiple batches; you’ll use much less oil!"
+    },
+    {
+      "order": 4,
+      "instruction": "Make the dipping sauce by combining all the sauce ingredients, and serve with the wontons."
+    }
+  ]
+}

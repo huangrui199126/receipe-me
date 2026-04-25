@@ -1,0 +1,81 @@
+{
+  "id": "tr_2185",
+  "title": "Bubble Tea Recipe, A Chinese Favorite",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/06/bubble-tea-6-1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/bubble-tea/",
+  "servings": 4,
+  "prepTime": 105,
+  "cookTime": 10,
+  "tags": [
+    "bubble tea"
+  ],
+  "nutrition": {
+    "calories": 247,
+    "protein": 1.0,
+    "carbs": 49.0,
+    "fat": 5.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4 1/2",
+      "unit": "cups",
+      "name": "boiled water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "good black tea leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4 1/2",
+      "unit": "tablespoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black tapioca pearls aka Bubbles aka \"Boba\" ((1/4 cup per glass))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "half and half",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, boil your water. After it reaches a rolling boil, turn off the heat and let sit for 10 minutes or so. Apparently, Chinese tea gurus say that intensely hot boiled water zaps all the nutrients out of the tea leaves, ergo the short cooling process prior to brewing the tea. (As with most things related to Chinese cooking that my mother says that other people say, I can't really confirm whether or not this is actually true, but better safe than sorry...)"
+    },
+    {
+      "order": 2,
+      "instruction": "Put the tea in your favorite kettle (or a large mixing bowl), making sure that it's either in a tea bag (you can actually buy these and fill them with your own selection of teas!) or a few metal tea infusers. (If you haven't got any of this equipment, you can also just strain the tea prior to adding the half and half.) Add the hot water and let steep for 15 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Now you're ready to add the sugar. Mix the tea and sugar thoroughly until the sugar is completely dissolved. Then add the half and half. For anyone who's squeamish about higher fat dairy, it's really not a lot per serving, as this serves four. If you want to sub in regular milk, go right ahead, but the flavor of the finished product is truly authentic with the half and half!"
+    },
+    {
+      "order": 4,
+      "instruction": "Put the tea in the fridge to chill for at least 1 hour. This is preferred over adding ice, so that the tea doesn't get diluted. Also, more authentic! When your tea is close to the optimal temperature, break out your bubbles. Preparing the bubbles entails boiling them in water; you can follow the package instructions. Spoon out 1/4 cup of bubbles per glass and pour the finished tea for a delightfully sweet and refreshing drink!"
+    }
+  ]
+}

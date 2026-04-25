@@ -1,0 +1,77 @@
+{
+  "id": "tr_2365",
+  "title": "Chinese Broccoli (Gai Lan) with Oyster Sauce",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/04/Chinese-broccoli-oyster-sauce-5.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-broccoli-with-oyster-sauce/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 5,
+  "tags": [
+    "gai lan"
+  ],
+  "nutrition": {
+    "calories": 58,
+    "protein": 3.0,
+    "carbs": 9.0,
+    "fat": 2.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "Chinese broccoli ((end trimmed and thoroughly washed))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 tablespoons vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons oyster sauce ((or to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Boil 2 quarts/liters of water in your wok or a large pot, and add the salt and oil directly to the water."
+    },
+    {
+      "order": 2,
+      "instruction": "When the water reaches a good raging boil, carefully add the whole stalks of Chinese broccoli. (Depending on how much you have, you may want to work in two batches.)"
+    },
+    {
+      "order": 3,
+      "instruction": "Use tongs or a pair of chopsticks to submerge the veggies completely and cook for 1-2 minutes, until tender but still a bit crunchy. (If you like the veggies soft, leave them in a bit longer.)"
+    },
+    {
+      "order": 4,
+      "instruction": "Use a pair of tongs or chopsticks to take the Chinese broccoli out of the water. Carefully shake off excess liquid and arrange on a plate. Once they are all plated, you can drain any excess water that may have pooled on the plate."
+    },
+    {
+      "order": 5,
+      "instruction": "Drizzle a couple tablespoons oyster sauce evenly over the veggies and serve!"
+    }
+  ]
+}

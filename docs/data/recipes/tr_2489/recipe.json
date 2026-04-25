@@ -1,0 +1,121 @@
+{
+  "id": "tr_2489",
+  "title": "Chinese Char Siu Grilled Chicken",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/05/char-siu-grilled-chicken-5-1.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/grilled-chicken-char-siu/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 35,
+  "tags": [
+    "char siu chicken"
+  ],
+  "nutrition": {
+    "calories": 386,
+    "protein": 29.0,
+    "carbs": 10.0,
+    "fat": 24.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine ((can substitute rice wine or beer))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  drops red food coloring ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "chicken thighs and drumsticks ((900g))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix together the BBQ sauce by combining the brown sugar, hoisin sauce, Shaoxing wine, five spice powder, pepper, sesame oil, garlic, and red food coloring (if using). Put 1/2 of the BBQ sauce in a small bowl for serving, and set aside. The other half will be used to baste the chicken on the grill."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare a medium-hot grill or preheat the broiler. If using the broiler, line a rimmed baking sheet with aluminum foil."
+    },
+    {
+      "order": 3,
+      "instruction": "Season the chicken with salt to taste, and put the chicken on the grill or, if broiling, put it on the prepared baking sheet. Grill or broil, turning once, for 10 minutes per side––making sure to keep an eye on the chicken to ensure it doesn’t burn."
+    },
+    {
+      "order": 4,
+      "instruction": "Baste the chicken with the other half of the sauce mixture, and continue to grill or broil until the chicken is cooked through (time will vary depending on the size of your chicken thighs and drumsticks). Transfer the chicken to a serving platter, brush with the reserved sauce, and serve."
+    }
+  ]
+}

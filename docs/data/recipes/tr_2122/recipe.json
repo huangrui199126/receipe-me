@@ -1,0 +1,205 @@
+{
+  "id": "tr_2122",
+  "title": "Braised Eggplant with Minced Pork - 肉沫茄子",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/09/braised-eggplant-noodles-2.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/braised-eggplant-pork/",
+  "servings": 4,
+  "prepTime": 35,
+  "cookTime": 30,
+  "tags": [
+    "braised eggplant"
+  ],
+  "nutrition": {
+    "calories": 651,
+    "protein": 25.0,
+    "carbs": 74.0,
+    "fat": 29.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt ((plus more to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "eggplant ((cubed))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "ground pork",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce ((plus 1 tablespoon light soy sauce, divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "10",
+      "unit": "ounces",
+      "name": "dried spaghetti or noodles",
+      "emoji": "🍝",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  bell pepper ((diced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red chili ((chopped))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "ground bean sauce",
+      "emoji": "🫘",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken stock ((or water))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "chopped cilantro ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Dissolve 1 teaspoon of salt into 8 cups of water in a large bowl. Soak the cubed eggplant in the salt water for 15 minutes. After 15 minutes, drain the eggplant, and use your hands or a clean dish towel to squeeze the water out of it. Set aside. This step helps the eggplant cook faster and absorb less oil later on. Win, win!"
+    },
+    {
+      "order": 2,
+      "instruction": "In a separate bowl, mix the ground pork with 2 teaspoons Shaoxing wine, ¼ teaspoon ground white pepper, 2 teaspoons light soy sauce, ½ teaspoon sesame oil, ½ teaspoon cornstarch, and 2 teaspoons water. Marinate for 15-20 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Next, cook the spaghetti (or noodles) according to the package instructions. Drain, and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Meanwhile, heat 1 tablespoon of oil in a clean wok over medium heat, and cook the bell pepper for about a minute. Transfer the peppers to a dish, and set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "Next, heat 3 tablespoons of oil in the wok over low heat. Cook the ginger and garlic for about a minute. Add the chili, and cook for another minute. Add the ground bean sauce, and cook for another minute. Then add the pork, and turn up the heat. When the pork is browned, add the eggplant, and stir-fry everything together thoroughly."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook for a couple of minutes before adding 1 tablespoon light soy sauce, 1 teaspoon dark soy sauce, 2 tablespoon oyster sauce, and 2 cups chicken stock (or water). Mix everything together well, cover, and simmer for 15 minutes over medium heat, or until the eggplant is tender. At this point in the cooking process, there should be plenty of sauce in the wok. The starch from the spaghetti or noodles will help thicken it."
+    },
+    {
+      "order": 7,
+      "instruction": "Lastly, add the bell pepper, cooked noodles, and chopped cilantro to the wok (if using). Mix everything well, add salt to taste, and serve immediately!"
+    }
+  ]
+}

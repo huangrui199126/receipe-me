@@ -1,0 +1,125 @@
+{
+  "id": "tr_2215",
+  "title": "Sichuan Dry Fried Green Beans",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/11/dry-fried-string-beans-9-1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/sichuan-dry-fried-green-beans/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "sichuan green beans"
+  ],
+  "nutrition": {
+    "calories": 149,
+    "protein": 5.0,
+    "carbs": 9.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "green beans ((450g))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "ground pork",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic ((smashed and coarsely diced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  dried red hot peppers ((de-seeded and diced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoon",
+      "name": "sui mi ya cai ((碎米芽菜, store bought))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat your wok over high heat until just starting to smoke, and add the green beans and salt. Immediately lower the heat to medium low, and sear the green beans for about 20 minutes, stirring occasionally. You want to see small scorch marks on the green beans. During this process, gather the rest of the ingredients and have them ready. Once the beans are somewhat tender, take them out of the wok and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat the oil in your wok over medium high heat and brown the pork. Add the garlic and chili, and stir for 30 seconds. Add the sui mi ya cai, and stir everything together. Cook for another minute."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss in the seared green beans, cooking wine, soy sauce, sugar, and sesame oil. Crank the heat back up to high and stir-fry for a final minute. Serve immediately."
+    }
+  ]
+}

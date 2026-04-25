@@ -1,0 +1,137 @@
+{
+  "id": "tr_2089",
+  "title": "Turkey Lo Mein",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/11/turkey-lo-mein-5-1.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/turkey-lo-mein/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "turkey lo mein"
+  ],
+  "nutrition": {
+    "calories": 315,
+    "protein": 13.0,
+    "carbs": 24.0,
+    "fat": 8.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "fresh lo mein egg noodles or cooked lo mein noodles",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "napa cabbage ((shredded))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium carrots ((julienned))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shaoxing wine ((or dry sherry cooking wine))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded leftover Thanksgiving turkey",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((julienned))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "If using dry lo mein noodles or fresh, raw noodles, be sure to follow the directions on the package. For either of these noodle options, you will need to boil and drain them before adding them to a stir-fry. If you’re lucky enough to find them, get the cooked, oiled lo mein noodles that are now readily available from Asian grocery stores. These don’t require pre-cooking, and can be added directly to the wok for stir-frying."
+    },
+    {
+      "order": 2,
+      "instruction": "In a wok over high heat, add a couple tablespoons of oil to the wok, and add the garlic. After 10 seconds, add the cabbage and carrots. Stir-fry on high heat for a minute and add the wine in a circle around the perimeter of the wok."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the cooked noodles and the leftover turkey to the wok and mix well from the bottom up for about 30 seconds. If the noodles aren't coming apart, add about ¼ cup water to loosen them up a bit."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the soy sauce, dark soy sauce, sesame oil, and sugar. Stir-fry for 30 seconds, and add the scallions. Stir-fry for one more minute and serve."
+    }
+  ]
+}

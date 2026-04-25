@@ -1,0 +1,165 @@
+{
+  "id": "tr_2351",
+  "title": "Spicy King Oyster Mushroom Salad",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/04/king-oyster-mushroom-salad-10.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/spicy-king-oyster-mushroom-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "mushroom salad"
+  ],
+  "nutrition": {
+    "calories": 125,
+    "protein": 2.0,
+    "carbs": 6.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3   king oyster mushrooms ((shredded, about 2 cups))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 thin slices  ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped, white and green parts separated))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Thai chili ((optional, or chili oil to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oyster sauce or vegetarian oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2-1 teaspoon sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Shred the mushrooms into strips between your thumb and forefinger. Blanch for 90 seconds in boiling water. Drain with a sieve."
+    },
+    {
+      "order": 2,
+      "instruction": "Now, make the dressing. In a large heatproof bowl, arrange the minced garlic (I was a dummy and forgot to include it for our photos), minced ginger, the white parts of the chopped scallion, and the chopped Thai chilies (if using), so they are adjacent to each other at the bottom of the bowl. (Don’t messily pile them all on top of each other.)"
+    },
+    {
+      "order": 3,
+      "instruction": "Now infuse the Sichuan peppercorns in oil. In a small pot, heat the oil with the Sichuan peppercorns over low heat until fragrant, taking care not to burn the peppercorns."
+    },
+    {
+      "order": 4,
+      "instruction": "After about 10 minutes, remove the peppercorns using a fine meshed strainer or slotted spoon. Heat the infused oil just until it begins to smoke. Pour it carefully over the arranged aromatics in the bowl. It will bubble and sizzle! Carefully stir to evenly distribute the heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Now add in the sugar, light soy sauce, oyster sauce, sesame oil, salt and five spice powder. Mix well. (For this recipe, I omitted the black vinegar from my mom’s original recipe, but you can use it per your tastes.)"
+    },
+    {
+      "order": 6,
+      "instruction": "Finally add in the green parts of the chopped scallion and the cilantro. (If pre-making the sauce, leave these last ingredients out and add them right before serving.)"
+    },
+    {
+      "order": 7,
+      "instruction": "Toss the blanched mushrooms in the dressing, and serve!"
+    }
+  ]
+}

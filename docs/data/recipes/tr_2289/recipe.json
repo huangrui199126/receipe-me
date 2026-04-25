@@ -1,0 +1,125 @@
+{
+  "id": "tr_2289",
+  "title": "Stir Fried Water Spinach with Fermented Tofu",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/10/DSC_0394-1.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/water-spinach-garlic-ginger-fermented-tofu/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "water spinach"
+  ],
+  "nutrition": {
+    "calories": 179,
+    "protein": 4.0,
+    "carbs": 7.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "Chinese water spinach ((about 10 ounces/300g))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 to 4 thin slices ginger ((julienned))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 to 5  dried chili peppers ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 to 4 cloves garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 squares white fermented tofu ((about ½ tablespoon))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Remove the larger, tough stems from the vegetables. You can leave the thinner, tender stems. Wash the vegetables thoroughly in water (a couple soaks and rinses should work) and transfer to a colander to let the excess water drain."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a wok over high heat and add the ginger. Stir for about 10 seconds and then add the dried chilies, garlic, fermented tofu, sugar, salt, and white pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir fry the mixture, keeping the heat on high, and add the greens. Stir-fry, moving the vegetables around the bottom of the wok so nothing burns. Use a folding motion, stir fry the mixture so all of the vegetables get seared evenly. After about a minute of this, move the vegetables into a mound in the middle of the wok. This technique is to allow the sides of the wok to reheat to get the “wok hay” flavor in there."
+    },
+    {
+      "order": 4,
+      "instruction": "After about 30 seconds of high heat, add the wine around the perimeter of the wok and quickly spread your vegetable mound in a circular motion around the wok to get that searing “wok hay” effect for another 15-30 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Plate and serve immediately."
+    }
+  ]
+}

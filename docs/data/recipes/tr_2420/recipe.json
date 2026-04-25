@@ -1,0 +1,161 @@
+{
+  "id": "tr_2420",
+  "title": "Ginger Chicken",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/10/ginger-chicken-14.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/ginger-chicken/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "ginger chicken"
+  ],
+  "nutrition": {
+    "calories": 206,
+    "protein": 24.0,
+    "carbs": 7.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((cut into 2-inch long pieces, with the white and green parts separated))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((cut in half))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "ginger ((1/4 inch thick))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vegetable oil ((can substitute canola oil or avocado oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "24",
+      "unit": "ounces",
+      "name": "boneless skinless chicken thighs ((680g, cut into 1-inch chunks))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  shallots ((cut into quarters))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "low sodium chicken stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "light brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "oyster sauce ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch ((mixed with 1 tablespoon water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Using a cleaver, lightly smash the white parts of the scallions, the garlic, and the ginger (use a firmer hand on the ginger). This releases the flavors of the aromatics for a more flavorful dish."
+    },
+    {
+      "order": 2,
+      "instruction": "Spread the canola oil around the perimeter of the wok, and heat it until it just starts smoking. Add the smashed ginger slices, and fry for 15 seconds."
+    },
+    {
+      "order": 3,
+      "instruction": "Spread the chicken pieces in a single layer in the wok. Sear for 45 seconds. Flip them and fry the other side for another 30 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Add in the white parts of the scallions, garlic, and shallots. Continue to stir-fry over high heat, mixing everything together for another 30 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the Shaoxing wine, and stir-fry again for 20 seconds. Next, add in the chicken stock, brown sugar, soy sauce, dark soy sauce, white pepper, and oyster sauce (optional, but it’ll give the dish a nice additional flavor!). Cover and continue to cook on high heat for 5 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove the cover, and cook for another 7 minutes to reduce the liquid. Mix in the green parts of the scallions, and then immediately stir in the cornstarch and water mixture to thicken the sauce. Add more cornstarch slurry if you like a thicker sauce."
+    }
+  ]
+}

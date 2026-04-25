@@ -1,0 +1,115 @@
+{
+  "id": "tr_2346",
+  "title": "Snow Peas with Chinese Sausage",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/04/snow-peas-chinese-sausage-7.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/snow-peas-with-chinese-sausage/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7.0,
+    "carbs": 9.0,
+    "fat": 15.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil ((any neutral oil, such as vegetable or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 thin slices ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((thinly sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 links Chinese sausage ((thinly sliced on an angle))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  medium onion (sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "snow peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat 2 tablespoons of oil in a wok over medium low heat. Cook the ginger slices for 20 seconds. Add the garlic and Chinese sausage. Increase the heat to medium, and cook for a minute or two until the fat in the sausage turns translucent."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the onions and snow peas. Mix everything well. Add the Shaoxing wine, white pepper, sesame oil, and salt. Stir-fry everything for 1-2 more minutes. If the stir fry is too dry, add 1 tablespoon of water."
+    },
+    {
+      "order": 3,
+      "instruction": "The dish is done once the snow peas are bright green and the onions are cooked, but still have a little bit of crunch."
+    }
+  ]
+}

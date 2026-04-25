@@ -1,0 +1,149 @@
+{
+  "id": "tr_2096",
+  "title": "Sichuan Three Pepper Pork Belly Stir-fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/10/three-pepper-pork-belly-stir-fry-3-1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/sichuan-three-pepper-pork-belly-stir-fry/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "pepper pork belly"
+  ],
+  "nutrition": {
+    "calories": 565,
+    "protein": 9.0,
+    "carbs": 7.0,
+    "fat": 56.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "pork belly ((sliced 1/2-inch thick))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  long hot green peppers ((cut into 1-inch pieces, deseeded if desired, will be less spicy without seeds))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "minced ginger ((sliced to ⅛-inch thickness))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  dried red chili peppers",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorns ((either whole or crushed into a powder depending on your preferred spice-level))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "chili oil ((with chili flakes))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "¾",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat your wok with 1 tablespoon vegetable oil until just smoking, and add the pork belly. Stir fry the pork belly, turning down the heat to medium and cooking the pork until just crispy and browned (about 6 minutes). Remove the pork from the wok and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Turn the wok back up to high heat, and add the long hot green peppers to the leftover oil from frying the pork belly. Stir-fry until just scorched, but not wilted, and set aside along with the pork belly."
+    },
+    {
+      "order": 3,
+      "instruction": "At this point, there should still be leftover oil in the wok. Turn the heat down to medium, and add the ginger. Gently stir until fragrant. Add the dried red peppers, garlic, and the Sichuan peppercorns if you are using the whole peppercorns. Some people enjoy the whole peppercorns, but others don’t--especially if you bite into one! For this dish, I don’t mind them whole, but if you would rather grind them, hold off on adding them to the dish at this point."
+    },
+    {
+      "order": 4,
+      "instruction": "Gently stir-fry for another 30 seconds. It’s important to toast the dried peppers and garlic but not burn them, or it will result in a bitter flavor!"
+    },
+    {
+      "order": 5,
+      "instruction": "Next, turn the heat back up to high, and stir in the pork belly and peppers you set aside before. If you’re using the powdered Sichuan peppercorns, add them to the dish now."
+    },
+    {
+      "order": 6,
+      "instruction": "Add in the chili oil (making sure to get some of the flakes, not just the oil itself), salt, and sugar, and stir fry everything together. Next, add the Shaoxing wine around the perimeter of the wok."
+    },
+    {
+      "order": 7,
+      "instruction": "Add the scallions on top, and stir fry for another 60 seconds until the pork is well-coated with all the spices."
+    }
+  ]
+}

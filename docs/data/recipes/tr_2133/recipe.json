@@ -1,0 +1,101 @@
+{
+  "id": "tr_2133",
+  "title": "Stir-fried Chinese Mustard Greens (Xuelihong)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/11/chinese-mustard-greens-8-1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-mustard-greens/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 3,
+  "tags": [
+    "chinese mustard greens"
+  ],
+  "nutrition": {
+    "calories": 121,
+    "protein": 3.0,
+    "carbs": 6.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((smashed and chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A small handful of dried red chili peppers ((de-seeded and cut))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1¼",
+      "unit": "pounds",
+      "name": "mustard greens ((550g, thoroughly washed and cut into 1 cm long pieces))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1½",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "organic chicken bouillon ((optional))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil oil in a wok over medium heat. Add the garlic and chili peppers and cook for about a minute, being sure to avoid burning the garlic."
+    },
+    {
+      "order": 2,
+      "instruction": "Now add the mustard greens, turning the heat up to the highest setting. Add the sugar, sesame oil, and salt (and organic chicken bouillon if using). Stir and mix everything well."
+    },
+    {
+      "order": 3,
+      "instruction": "Cover the lid, and let it cook for about 45 seconds to a minute. Now uncover, stirring the greens one more time. Plate and serve immediately!"
+    }
+  ]
+}

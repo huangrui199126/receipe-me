@@ -1,0 +1,117 @@
+{
+  "id": "tr_2232",
+  "title": "Hunan Steamed Fish with Salted Chilies (Duo Jiao Yu)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/08/hunan-steamed-fish-10-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/hunan-steamed-fish-salted-chilies-tofu-duo-jiao-yu/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "hunan steamed fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 oz. tilapia or flounder filet ((340g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 oz. firm tofu ((340g))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4 - 1/3 cup jarred hunan chili peppers ((try finding the &quot;Tantan Xiang&quot; brand at your Chinese grocery store))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fermented black beans ((whole black beans, not black bean sauce; rinsed and drained))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "a small bunch of cilantro ((roughly chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "noodles ((optional -- see note at the bottom of the post))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Select a large shallow bowl or plate with a 1-inch rim around the sides that will fit nicely into your wok with a shallow steamer rack set up at the bottom. Rinse your fish fillet and pat it dry with a paper towel. Slice the tofu into neat 1/2-inch thick rectangles."
+    },
+    {
+      "order": 2,
+      "instruction": "Arrange the tofu on your plate/shallow bowl in two rows. Place the fish filet on top of the tofu. If the fillet is too big for the plate, you can fold the thin tail end and tuck it underneath the rest of the fillet so it fits snugly onto the plate."
+    },
+    {
+      "order": 3,
+      "instruction": "Combine the soy sauce, peppers, and sugar into a bowl and mix well. Spread the mixture evenly over the fish and tofu. Rinse the black beans and strain them so any small particles are washed away. Sprinkle them over the top of the dish."
+    },
+    {
+      "order": 4,
+      "instruction": "Boil 2 cups of water in your wok and turn the heat off. Place the shallow steamer rack in the bottom of the wok, and the plate on top of the rack. Turn the heat back on and wait for the water to come to a gentle simmer. Cover the wok and let the dish steam for 12 minutes, or until the fish is opaque and you can poke a butter knife into it with no resistance."
+    },
+    {
+      "order": 5,
+      "instruction": "You can see that the there is quite a bit of liquid that comes out during the steaming process. Spoon some of that liquid over the top of everything, and garnish with chopped cilantro and scallion. Serve immediately with rice!"
+    }
+  ]
+}

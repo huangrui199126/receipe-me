@@ -1,0 +1,157 @@
+{
+  "id": "tr_2319",
+  "title": "Shortcut Sticky Rice Dumplings (Zongzi)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/05/zongzi-21.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/lazy-sticky-rice-dumpling-shortcut-zongzi/",
+  "servings": 6,
+  "prepTime": 360,
+  "cookTime": 90,
+  "tags": [
+    "sticky rice dumplings"
+  ],
+  "nutrition": {
+    "calories": 675,
+    "protein": 18.0,
+    "carbs": 66.0,
+    "fat": 37.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "uncooked sticky rice ((also called glutinous rice or &quot;sweet rice&quot;))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8-10  dried bamboo leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "pound",
+      "name": "pork belly",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt ((plus 1 teaspoon, divided))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "raw shelled peanuts",
+      "emoji": "🫛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3  Chinese sausages ((lap cheung; cut into small chunks))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak the uncooked sticky rice overnight (or at least 6 hours). Soak the dried bamboo leaves for at least 3 hours (or overnight). After soaking, wash and rinse each leaf front and back, keeping them in a large bowl or tub of water so they don’t dry out."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut the pork belly into ½ inch bite-sized pieces, marinate it with 1 tablespoon light soy sauce, 1/2 teaspoon salt, ½ teaspoon dark soy sauce, 1 tablespoon Shaoxing wine, 1/2 teaspoon sugar, and ½ teaspoon white pepper. Marinate for 1 – 2 hours in the refrigerator."
+    },
+    {
+      "order": 3,
+      "instruction": "Soak the peanuts for 1 hour. Then boil for 10 minutes, drain, and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Drain the soaked sticky rice completely. Mix the rice with 1 tablespoon light soy sauce and 1 teaspoon salt in a large bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the peanuts to the rice along with the Chinese sausages and scallions. (If adding cooked salted duck egg yolks and/or soaked dried seafood, you can mix them into the rice as well)."
+    },
+    {
+      "order": 6,
+      "instruction": "Line a bamboo steamer (or large shallow heatproof bowl) with 6-7 bamboo leaves. These bamboo leaves will provide flavor to the rice as well as prevent it from sticking. All with a layer of rice mixture, a layer of pork belly, another layer of rice mixture, and a layer of pork belly on top. Make sure everything is evenly distributed (so it can cook evenly)."
+    },
+    {
+      "order": 7,
+      "instruction": "Cover the mixture with the remaining bamboo leaves to trap in moisture as well as the bamboo leaf aroma. If using a bamboo steamer, you can simply put on the cover. If using a heatproof bowl to steam, you can use a toothpick to keep the bamboo leaves in place on top of the rice."
+    },
+    {
+      "order": 8,
+      "instruction": "Place the rice in the steamer, starting with cold water. Turn on the heat to high, and once the water starts to boil, steam for 60-90 minutes. Check periodically to make sure there is still water in the steamer, and add hot water if needed."
+    },
+    {
+      "order": 9,
+      "instruction": "Keep in the steamer on low heat until ready to serve. The rice will harden if cooled. Serve hot!"
+    }
+  ]
+}

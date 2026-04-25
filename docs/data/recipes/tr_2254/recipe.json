@@ -1,0 +1,73 @@
+{
+  "id": "tr_2254",
+  "title": "All-Purpose Chinese Steamed Bun Dough (Man Tou)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/03/DSC_00612.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/purpose-chinese-bun-dough-man-tou/",
+  "servings": 10,
+  "prepTime": 150,
+  "cookTime": 20,
+  "tags": [
+    "mantou"
+  ],
+  "nutrition": {
+    "calories": 194,
+    "protein": 6.0,
+    "carbs": 40.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "all purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "instant yeast",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cup",
+      "name": "lukewarm water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix all the dry ingredients together in a large bowl. Add the water, and knead until it forms a smooth dough. Cover the dough with a cloth and let it rise for about 2 hours. Roll the dough ball into a log (the size depends on how large or small you want your man tou), and cut it into however many equal pieces you'd like."
+    },
+    {
+      "order": 2,
+      "instruction": "Arrange them in a steamer lined with cheese cloth, about 2 inches apart. Cover the steamer and let the buns rise for another 15 minutes. Turn on the heat to medium high and steam the buns for 20 minutes. Serve! To re-heat, just steam them again for about 5 minutes. Don't be tempted to use the microwave, because they'll dry out!"
+    }
+  ]
+}

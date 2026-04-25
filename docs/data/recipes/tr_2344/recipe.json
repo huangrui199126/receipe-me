@@ -1,0 +1,77 @@
+{
+  "id": "tr_2344",
+  "title": "Salted Egg Yolk Sauce",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/04/salted-duck-egg-sauce-5.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/salted-egg-yolk-sauce/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "salted egg yolk sauce"
+  ],
+  "nutrition": {
+    "calories": 116,
+    "protein": 3.0,
+    "carbs": 1.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  salted duck egg yolks ((12 egg yolks = about 6 ounces/170g) )",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "oil ((such as peanut oil, vegetable oil, canola oil, or light olive oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt ((optional, or to taste; we use sea salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Lay out the cooked salted duck egg yolks evenly on a baking sheet lined with parchment paper. Using cooked salted duck yolks sold in vacuum-sealed packages is the most economical option. Bake for 10 minutes, until they begin to release oil. Cool completely."
+    },
+    {
+      "order": 2,
+      "instruction": "If you are using homemade, raw salted duck egg yolks, crack open the eggs and remove the yolks. Under a gentle stream of water, rinse the yolks clean of any white. Roll each yolk in 1 teaspoon Shaoxing wine or Baijiu (Chinese hard liquor) if you have it. Lay them out on a baking sheet and bake them at 350°F for 15 minutes, or until they start to release oil. Cool completely."
+    },
+    {
+      "order": 3,
+      "instruction": "Transfer the yolks to a food processor, and pulse until they have a very fine, powder-like consistency."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the oil, sugar, salt (if using), and powdered yolks to a nonstick pan set over medium/low heat. Stir and cook for 8-10 minutes, until the sauce is bubbling very slightly around the perimeter of the pan. Do not use high heat, or the sauce may burn."
+    },
+    {
+      "order": 5,
+      "instruction": "Cool, and store in a clean, air-tight container. It will keep in the refrigerator for 1 month as long as you use a clean utensil to scoop out what you need each time. (Cross contamination shortens the shelf life of anything)."
+    }
+  ]
+}

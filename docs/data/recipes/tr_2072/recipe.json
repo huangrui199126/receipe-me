@@ -1,0 +1,169 @@
+{
+  "id": "tr_2072",
+  "title": "Dry Pot Cauliflower",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/05/dry-pot-cauliflower-8.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/dry-pot-cauliflower/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "dry pot cauliflower"
+  ],
+  "nutrition": {
+    "calories": 423,
+    "protein": 9.0,
+    "carbs": 11.0,
+    "fat": 39.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "pork belly ((225g, thinly sliced into bite-sized pieces))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "salt ((plus ½ teaspoon, divided))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "light soy sauce ((plus 1 tablespoon, divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine ((plus 1 tablespoon, divided))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "cauliflower ((450g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "10",
+      "unit": "cloves",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "ginger ((julienned))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  dried chilies ((chopped, optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  of a red bell pepper ((sliced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((cut into 2-inch lengths))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare the pork belly. Marinate it with ¼ teaspoon salt, 1 teaspoon light soy sauce, and 2 teaspoons Shaoxing wine. Set aside. Wash the cauliflower and cut it into bite sized pieces."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat the oil in a wok set over medium heat. Cook the garlic cloves for a minute. Add the ginger and chilies (if using), and cook for another minute. Add the pork, turn up the heat, and cook until the meat turns opaque."
+    },
+    {
+      "order": 3,
+      "instruction": "Next, add the cauliflower and red bell peppers. Stir-fry for 1 minute. Add ½ teaspoon salt, 1 tablespoon light soy sauce, 1 tablespoon Shaoxing wine, 1 teaspoon sesame oil, ½ teaspoon ground white pepper, 1 tablespoon oyster sauce, ¼ teaspoon sugar, and ½ cup water. Stir, cover, and cook for 1- 2 minutes. (I like more tender cauliflower, so I cook it for 2 minutes.)"
+    },
+    {
+      "order": 4,
+      "instruction": "Uncover, add the scallions, give it a stir, and serve!"
+    }
+  ]
+}

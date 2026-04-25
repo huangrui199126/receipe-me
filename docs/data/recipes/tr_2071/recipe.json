@@ -1,0 +1,113 @@
+{
+  "id": "tr_2071",
+  "title": "Braised Chinese Vegan Chicken",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/05/vegetarian-chicken-2.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/vegan-chicken-braised-chinese/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 35,
+  "tags": [
+    "chinese vegan chicken"
+  ],
+  "nutrition": {
+    "calories": 399,
+    "protein": 32.0,
+    "carbs": 9.0,
+    "fat": 27.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil ((plus 1 tablespoon, divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "vegan chicken ((sliced 1/4-inch thick))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "12",
+      "unit": "g",
+      "name": "rock sugar ((or 1 tablespoon granulated sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((chopped with the white and green parts separated))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2 ½",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "tablespoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 ½",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place a wok over high heat until it starts to smoke slightly. Add 3 tablespoons of oil to coat the wok. Add the sliced vegan chicken, and arrange it in a single layer. If you have a smaller wok, you can do this step in two batches, adding more oil if needed (this is also a good time to use your non-stick pan if you have one, which will require less oil). Turn the heat down to medium. Lightly brown both sides of the vegan chicken. Remove from the wok and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Add 1 tablespoon of oil to the wok along with the sugar, using low heat to slowly melt the sugar until it completely dissolves. Next, add in the ginger and white parts of the scallion and cook for a minute. Add in Shaoxing wine, light soy sauce, dark soy sauce, and the water. Bring the mixture to a boil, cover the lid, and simmer over low heat for 5-8 minutes. You don’t want too much of the liquid to cook off, so check it every so often."
+    },
+    {
+      "order": 3,
+      "instruction": "Now add the pan-fried vegan chicken slices to the sauce. Gently mix together, cover, and simmer for 5 minutes. Uncover, add the green parts of the scallions, stir gently, and serve."
+    },
+    {
+      "order": 4,
+      "instruction": "This dish is tasty when hot, at room temperature, or cold right out of the refrigerator! I made this recipe a couple of times to test it, and I almost ate a whole plate by myself. I hope you fall in love with it too!"
+    }
+  ]
+}

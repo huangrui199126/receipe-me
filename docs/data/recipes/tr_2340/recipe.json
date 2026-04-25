@@ -1,0 +1,81 @@
+{
+  "id": "tr_2340",
+  "title": "Gong Zai Mein (HK Breakfast) 港式公仔面",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/01/gong-zai-mian-hong-kong-5.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/gong-zai-mein-hong-kong-breakfast/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "gong zai mein"
+  ],
+  "nutrition": {
+    "calories": 617,
+    "protein": 22.0,
+    "carbs": 58.0,
+    "fat": 33.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 slices Spam ((about 1/4 inch or 0.6 cm thick))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 package &quot;gong zai&quot; Doll brand chicken flavored instant noodles",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "minced scallions ((green parts only))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring 2 cups of water to a boil in a medium pot."
+    },
+    {
+      "order": 2,
+      "instruction": "Fry the Spam in a pan until it’s golden brown around the edges. Turn off the heat, leaving it in the pan to keep it warm. Also start frying an egg sunny side up. Cover with a lid, and cook until the white is no longer runny, but the egg yolk is still soft."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, cook the noodles. Things will move quickly, so keep an eye on your egg to make sure it does not overcook. Stir the seasoning packets into the water, followed by the noodles, and cook for 2 ½ minutes, stirring to break them up. (At some point, you may need to take your egg off the heat to avoid overcooking.)"
+    },
+    {
+      "order": 4,
+      "instruction": "Pour the noodles and into your serving bowl, and arrange the spam and the egg over the top. Sprinkle with the scallions and serve immediately."
+    }
+  ]
+}

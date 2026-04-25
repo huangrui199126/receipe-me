@@ -1,0 +1,85 @@
+{
+  "id": "tr_2110",
+  "title": "Enoki Mushrooms with Garlic & Scallion Sauce",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/05/enoki-mushrooms-12-1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/enoki-mushrooms-garlic-scallion-sauce/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "enoki mushrooms"
+  ],
+  "nutrition": {
+    "calories": 112,
+    "protein": 4.0,
+    "carbs": 10.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "14",
+      "unit": "ounces",
+      "name": "enoki mushrooms ((400g))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Be gentle when handling these enoki mushrooms. Trim away about 1-inch of the root section. Use your fingers to tear the enoki mushrooms into small bite size bundles and line them up neatly. Rinse clean and drain."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare a wok with boiling water, and blanch the enoki mushrooms in two batches, cooking each batch for about 1 minute. Drain off the water and transfer the mushrooms to your serving plate."
+    },
+    {
+      "order": 3,
+      "instruction": "In a small saucepan, heat the oil over medium heat. Add the garlic, and cook for about 10 seconds (no need to brown the garlic). Now add the light soy sauce, sugar, and scallions. Bring the sauce to a boil, and turn off the heat. Don’t overcook the garlic and scallions--we want that fresh and sweet taste! Slowly pour the sauce over the enoki mushrooms, and serve."
+    }
+  ]
+}

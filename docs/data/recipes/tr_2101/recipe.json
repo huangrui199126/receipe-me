@@ -1,0 +1,117 @@
+{
+  "id": "tr_2101",
+  "title": "10-Minute Sesame Noodles Recipe (Ma Jiang Mian)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/09/sesame-noodles-8.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/sesame-noodles/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "sesame noodles"
+  ],
+  "nutrition": {
+    "calories": 674,
+    "protein": 24.0,
+    "carbs": 85.0,
+    "fat": 29.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 oz. fresh wheat noodles ((or 1 serving of dried noodles))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "½",
+      "unit": "tablespoon",
+      "name": "sesame paste",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "peanut butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 teaspoons rice vinegar ((optional to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "5",
+      "unit": "tablespoons",
+      "name": "hot water ((or braised meat sauce))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chili oil ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook the noodles according to the package instructions."
+    },
+    {
+      "order": 2,
+      "instruction": "While the noodles are cooking, make the sauce by mixing together the sesame paste, peanut butter, light soy sauce, rice vinegar (optional), vegetable oil, sugar, and water. Stir in one direction until it turns into a smooth, even paste."
+    },
+    {
+      "order": 3,
+      "instruction": "Once the noodles are cooked, drain them and toss with the prepared sauce, chopped scallions, and chili oil (if desired). It's best to mix the noodles while they are still hot!"
+    }
+  ]
+}

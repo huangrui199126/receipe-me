@@ -1,0 +1,109 @@
+{
+  "id": "tr_2063",
+  "title": "Sha Cha Chicken",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/08/sha-cha-chicken-3.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/sha-cha-chicken/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "sha cha chicken"
+  ],
+  "nutrition": {
+    "calories": 251,
+    "protein": 25.0,
+    "carbs": 6.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "boneless skinless chicken breast ((thinly sliced; can also substitute boneless skinless chicken thighs))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 tablespoons minced ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Sha Cha Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  scallions",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a medium bowl, add the sliced chicken breast, 1 teaspoon soy sauce, 2 teaspoons cornstarch and 1 tablespoon vegetable oil. Mix well. Heat your wok over high heat until smoking. Add 2 tablespoons vegetable oil, and sear the chicken until it just turns opaque (it can still be slightly pink). Remove the chicken from the wok and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Reduce the heat to medium, and add another couple tablespoons of oil to the wok. Add the ginger and cook for 1 minute. Add the garlic, sha cha sauce, and sugar, and fry this mixture for 2 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Then add the chicken back to the wok along with the scallions and the remaining tablespoon of soy sauce. Increase the heat to high, and stir-fry for 1 minute, until the scallions are wilted. Serve immediately with steamed rice!"
+    }
+  ]
+}

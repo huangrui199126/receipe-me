@@ -1,0 +1,129 @@
+{
+  "id": "tr_2224",
+  "title": "Spicy Griddled Tofu “Steaks”",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/09/griddled-tofu-4-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/spicy-griddled-tofu-steaks/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "tofu steaks"
+  ],
+  "nutrition": {
+    "calories": 162,
+    "protein": 10.0,
+    "carbs": 3.0,
+    "fat": 12.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "firm tofu",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cumin seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "ground Sichuan peppercorn powder ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "red chili pepper powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil ((plus 1 teaspoon))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Open the package of tofu and place on a plate to drain for 10 minutes. Slice it into ¾-inch thick pieces. Use a mortar and pestle to roughly crush the cumin seeds and add the Sichuan peppercorn powder if using, chili powder, garlic powder, and salt. Mix well."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine 1 teaspoon oil, hoisin, and soy sauce in small bowl. Heat two tablespoons of oil in a cast iron skillet or nonstick pan over high heat and carefully place the tofu in the pan."
+    },
+    {
+      "order": 3,
+      "instruction": "Next, sprinkle about half of the dried spices evenly over the tofu and let cook for 3-5 minutes. When the bottom is golden brown, flip the tofu. Brush the tofu with about half of the sauce and sprinkle over the rest of the spices. Cook for 3 minutes and flip the tofu over again."
+    },
+    {
+      "order": 4,
+      "instruction": "Brush the other side with the remaining sauce, sprinkle with scallion and cilantro, and serve."
+    }
+  ]
+}

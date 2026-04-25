@@ -1,0 +1,145 @@
+{
+  "id": "tr_2118",
+  "title": "Ching Po Leung Cantonese Herb Pork Bone Soup",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/02/chinese-tonic-4-1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/ching-po-leung-soup/",
+  "servings": 8,
+  "prepTime": 60,
+  "cookTime": 240,
+  "tags": [
+    "pork bone soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1½",
+      "unit": "pounds",
+      "name": "pork bones ((try to find bones with more meat on them))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "fresh ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "45",
+      "unit": "grams",
+      "name": "dried Chinese yam",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "60",
+      "unit": "grams",
+      "name": "Chinese pearl barley",
+      "emoji": "🫛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "25",
+      "unit": "grams",
+      "name": "dried lotus seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "20",
+      "unit": "grams",
+      "name": "fox nut barley",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "10",
+      "unit": "grams",
+      "name": "dried goji berries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "15",
+      "unit": "grams",
+      "name": "polygonatum odoratum",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "10",
+      "unit": "grams",
+      "name": "dried longan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  dried honey dates",
+      "emoji": "🍯",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large piece of dried seafood",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 quarts cold water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak the pork bones in cold water for an hour. Rinse thoroughly and drain. The soaking process helps to get rid of any impurities or blood, to keep the soup clear."
+    },
+    {
+      "order": 2,
+      "instruction": "In a large stock pot, add the pork bones, and fill with enough cold water to fully submerge the pork bones. Turn up the heat and bring to a boil. Next, turn off the heat, dump everything into a colander, and rinse the pork bones clean. Wash the soup pot as well. This process will help to get rid of any remaining impurities in the pork bones to ensure a clear soup."
+    },
+    {
+      "order": 3,
+      "instruction": "Now put the pork bones back in the pot, and add the ginger, all of the dried ingredients, and three quarts of cold water. Bring everything to a boil, and then immediately turn the heat down to simmer. Let the soup simmer for 3 to 4 hours."
+    },
+    {
+      "order": 4,
+      "instruction": "Before serving, skim off any fat from the surface of the soup. Salt to taste, and serve hot, along with some soy sauce on the table for dipping your pork into."
+    }
+  ]
+}

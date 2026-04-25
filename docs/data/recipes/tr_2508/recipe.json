@@ -1,0 +1,262 @@
+{
+  "id": "tr_2508",
+  "title": "Chicken Egg Foo Young",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/04/egg-foo-yung-15.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/egg-foo-young-chicken/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 20,
+  "tags": [
+    "chicken",
+    "egg foo young"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28.0,
+    "carbs": 20.0,
+    "fat": 26.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "10",
+      "unit": "ounces",
+      "name": "boneless skinless chicken breast or thighs ((280g, cut into small cubes))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch ((divided))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vegetable or peanut oil ((plus 4-6 cups for frying, depending on the size of your wok))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion ((about 1 ½ cups diced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "mung bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  large eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vegetable or peanut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "turmeric",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "3 1/4",
+      "unit": "cups",
+      "name": "low sodium chicken stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix the cubed chicken with 1 tablespoon of water until the water is absorbed by the chicken (for more on this technique, check out our Spicy Chicken Stir-fry recipe). Add 1 teaspoon soy sauce and 1 teaspoon cornstarch until well combined, and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Next, make the gravy. In a medium pot or saucepan, heat 1 tablespoon of oil over medium heat. Add 1 tablespoon of flour to make a roux, and cook for 15-20 seconds. Stir in the turmeric, paprika, garlic powder, and onion powder. Let fry for 15 seconds, and whisk in the chicken stock."
+    },
+    {
+      "order": 3,
+      "instruction": "Bring the mixture to a simmer, and add the soy sauce, oyster sauce, sesame oil, and freshly ground white pepper to taste. The gravy should be slightly thickened from the roux. Mix the cornstarch with the ¼ cup of chicken stock or water to make a slurry (i.e. until the cornstarch is completely dissolved), and slowly stir in two-thirds of the mixture. Let cook for 30 seconds. Add more of the cornstarch slurry if necessary, until the gravy is thick enough to coat a spoon. Add salt or more soy sauce to your own taste. Be careful not to over-salt the gravy. Cover and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Next, sear the chicken. Heat 1 tablespoon of oil in your wok until it just starts to smoke, and add in the marinated chicken cubes. Sear for 1 minute on each side, and then stir-fry for another minute until just cooked through. Transfer back to the marinating bowl, and set aside to cool."
+    },
+    {
+      "order": 5,
+      "instruction": "In a wok or deep pot, pre-heat your 6 cups of frying oil to 350F. Use a candy thermometer to check the temperature––too high a temperature will result in burned Egg Foo Young patties, and too low a temperature will give you greasy patties or will make your patties fall apart!"
+    },
+    {
+      "order": 6,
+      "instruction": "Meanwhile, place the cooled chicken, diced onion, and bean sprouts into a mixing bowl. Add the eggs, sesame oil, and second teaspoon of cornstarch. Do not add any salt or seasonings to this mixture, or your Egg Foo Young patties may not hold together when frying!"
+    },
+    {
+      "order": 7,
+      "instruction": "Use a large soup ladle or hoak (a Chinese ladle that’s often used together with a Chinese spatula) to fold the mixture together until just combined. The eggs should look like they are slightly beaten and only just mixed with the rest of the ingredients. If you over-mix the eggs, the whole mixture will become too watery and will not form a patty during frying."
+    },
+    {
+      "order": 8,
+      "instruction": "Using your ladle, work quickly to slowly drop three separate scoops of the mixture into the wok for the first batch (you can also work in batches of 2 if your wok is smaller). Each scoop should be about 3/4 cup of the mixture. The correct technique is to tilt your ladle close to the oil, and pour the mixture starting from the edge where the oil meets the wok. Pour it slowly so the ladle barely touches the oil. Don’t let the egg cook while it’s in the ladle, or it will stick to the ladle, and you won’t have a smooth drop for the next Egg Foo Young patty."
+    },
+    {
+      "order": 9,
+      "instruction": "Let the patties fry for about 40 seconds. You can also use your wok spatula to gently flip some hot oil on top of the uncooked patty to speed the cooking time. When each patty is solid and turning golden brown, use your wok spatula to turn them over in the same order that you dropped them into the oil."
+    },
+    {
+      "order": 10,
+      "instruction": "After another 60 seconds, scoop each patty onto a mesh strainer, giving it a few gentle taps to remove excess oil. Place each patty on a wire rack over a sheet pan to drain until all of your patties are cooked."
+    },
+    {
+      "order": 11,
+      "instruction": "Transfer the Egg Foo Young patties from the cooling rack to a serving plate (ideally these are served individually, rather than on a big family-style platter), pour the gravy over the top, add a sprinkling of scallions and toasted sesame seeds, and serve with additional gravy on the side."
+    }
+  ]
+}

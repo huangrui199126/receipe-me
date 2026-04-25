@@ -1,0 +1,129 @@
+{
+  "id": "tr_2141",
+  "title": "Caramelized Soy Sauce Noodles with Sweet Potato & Mushrooms",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/09/soy-sauce-noodles-5.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/soy-sauce-noodles/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [
+    "soy sauce noodles"
+  ],
+  "nutrition": {
+    "calories": 416,
+    "protein": 10.0,
+    "carbs": 45.0,
+    "fat": 23.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1 ½",
+      "unit": "tablespoons",
+      "name": "light or regular soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine ((or dry sherry))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "6",
+      "unit": "tablespoons",
+      "name": "vegetable oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium sweet potato ((peeled and julienned))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. shiitake mushrooms ((225g, thinly sliced))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "yakisoba ((450g, udon, or lo mein noodles also work))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "each finely chopped cilantro and scallion ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a medium bowl, mix together the soy sauce, dark soy sauce, wine, sesame oil, brown sugar, and water."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 3 tablespoons oil in a wok over medium high heat, and add the julienned sweet potatoes. Stir-fry for about 5 minutes, allowing the sweet potatoes to brown. Remove from the wok and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Add another 3 tablespoons of oil to the wok (still over medium high heat), and add the mushrooms. Stir-fry until the mushrooms are softened and slightly browned, splashing in a little more oil if it’s too dry."
+    },
+    {
+      "order": 4,
+      "instruction": "Crank up the heat to high, and add in the noodles, cooked sweet potato, and sauce mixture. Stir-fry and quickly toss everything together. Serve, sprinkled with cilantro and scallion (if using)."
+    }
+  ]
+}

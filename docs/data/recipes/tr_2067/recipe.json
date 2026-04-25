@@ -1,0 +1,157 @@
+{
+  "id": "tr_2067",
+  "title": "Lao Gan Ma Noodles & The Godmother of The Godmother Sauces",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/05/chongqing-noodles-13.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/lao-gan-ma-noodles/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "lao gan ma noodles"
+  ],
+  "nutrition": {
+    "calories": 710,
+    "protein": 12.0,
+    "carbs": 86.0,
+    "fat": 36.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "scallions ((minced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "your favorite “godmother” sauce/lao gan ma ((or to taste))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "za-cai ((pickled mustard stems, finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "toasted sesame seeds ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "⅓",
+      "unit": "cup",
+      "name": "raw peanuts",
+      "emoji": "🫛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "200",
+      "unit": "grams",
+      "name": "dried rice noodles",
+      "emoji": "🍚",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "leafy greens of choice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First prepare the sauce base in a large bowl by mixing together the light soy sauce, dark soy sauce, Chinese black vinegar, scallion, ginger, garlic, “godmother” sauce, sesame oil, za-cai, and sesame seeds."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat the oil in a wok using medium heat, and wok fry the peanuts for 5 to 7 minutes until cooked through. Take out the peanuts and drizzle the hot oil left in the wok into the sauce base."
+    },
+    {
+      "order": 3,
+      "instruction": "Boil the rice noodles per package instructions. Once the rice noodles are a minute away from done, add in the leafy greens to blanch. Cook for the remaining minute, and then drain the noodles and the greens. Pour the sauce base over the noodles, stir to combine, and top with chopped cilantro and peanuts."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "tr_2406",
+  "title": "Braised Spring Bamboo Shoots - Yóu Mèn Sun 油焖笋",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/03/braised-bamboo-shoots-10-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/braised-spring-bamboo-shoots/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "bamboo shoots"
+  ],
+  "nutrition": {
+    "calories": 66,
+    "protein": 2.0,
+    "carbs": 4.0,
+    "fat": 5.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "bamboo shoots ((450g, fresh or frozen, tough outer layers removed))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "neutral oil ((such as vegetable or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  thin slices ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar or rock sugar ((rock sugar is preferred, if you have it on hand))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Before we begin, a note: if you’re using fresh winter bamboo shoots, it’s a good idea to blanch the bamboo first...once they are cut. You will also need to increase the simmering time when using winter bamboo."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 3 tablespoons of oil in a wok over medium heat. Add the ginger and cook for about 30 seconds. Turn down the heat, and add the rock sugar, allowing it to dissolve completely in the oil. Now add the bamboo and turn up the heat; stir and mix everything well. Cook for a few minutes––until the edges of the bamboo start to brown slightly."
+    },
+    {
+      "order": 3,
+      "instruction": "Now add the Shaoxing wine, light soy sauce, dark soy sauce, and water. Stir to combine. Cover and simmer for about 10 minutes over medium heat. After 10 minutes, uncover the pan, turn up the heat to reduce the liquid, and add a couple of drops of oil before plating. It sounds hokey, but this will give the dish an attractive sheen!"
+    }
+  ]
+}

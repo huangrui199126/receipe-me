@@ -1,0 +1,121 @@
+{
+  "id": "tr_2216",
+  "title": "Chinese Five Spice Fried Chicken Drumsticks",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/10/five-spice-fried-chicken-5.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/five-spice-fried-chicken-drumsticks/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 45,
+  "tags": [
+    "five spice fried chicken"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 29.0,
+    "carbs": 20.0,
+    "fat": 41.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  chicken legs",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and black pepper ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "five-spice powder ((divided))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 ½",
+      "unit": "cups",
+      "name": "all-purpose flour ((190g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2 ½",
+      "unit": "teaspoons",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "peanut or vegetable oil ((for frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse your chicken legs under cold running water. Put them in a large bowl and season with salt, pepper, garlic powder, and half of the five-spice powder. In a medium bowl, whisk together your 2 eggs and tablespoon of water. Add to the chicken, and toss everything together."
+    },
+    {
+      "order": 2,
+      "instruction": "In shallow baking dish, stir together the flour, baking powder, white pepper, and the other half of the five spice powder. Fill a cast iron skillet slightly less than halfway with oil, and heat to 360 degrees."
+    },
+    {
+      "order": 3,
+      "instruction": "Take each drumstick and allow the excess egg to drip off. Thoroughly coat in the flour mixture, and shake off any excess. Lay them in the oil, four at a time."
+    },
+    {
+      "order": 4,
+      "instruction": "Fry each batch of chicken for 14 minutes, maintaining a temperature of 350 degrees (the oil will cool right down when you add the chicken), and flipping them about halfway through, until crispy and golden brown. Serve!"
+    }
+  ]
+}

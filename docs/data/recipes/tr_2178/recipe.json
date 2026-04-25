@@ -1,0 +1,153 @@
+{
+  "id": "tr_2178",
+  "title": "Cumin Lamb",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/09/cumin-lamb-2.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/cumin-lamb/",
+  "servings": 4,
+  "prepTime": 35,
+  "cookTime": 10,
+  "tags": [
+    "cumin lamb"
+  ],
+  "nutrition": {
+    "calories": 445,
+    "protein": 20.0,
+    "carbs": 4.0,
+    "fat": 38.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "lamb ((450g, preferably shoulder, cut into ½-inch by 2-inch pieces))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil ((optional, if you have a fattier cut of lamb))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing rice wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cumin seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  red chili peppers ((chopped))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "Sichuan red pepper flakes ((or chili powder))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Large handful of chopped cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pad lamb dry with paper towel before cutting. Once cut, combine the lamb with the marinade ingredients in a bowl. Set aside and let marinate for 30 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Once the lamb has been marinated, heat a wok over medium heat. Add the cumin seeds to the wok and dry toast them until fragrant. Turn off the heat, remove the cumin from the wok, and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Now heat the wok over the highest setting until it starts to smoke. Add two tablespoons of oil to coat the wok, and then immediately add the lamb. Sear the meat until it turns brown and starts to crisp slightly. The high heat will sear the meat, but keep it tender as well."
+    },
+    {
+      "order": 4,
+      "instruction": "Now add the cooked cumin seeds, chili, red pepper flakes (or powder), sugar, scallions, cilantro, and salt. Toss everything together quickly (so that the scallion and cilantro are just wilted), and transfer to a serving dish. Serve hot with plenty of white rice!"
+    }
+  ]
+}

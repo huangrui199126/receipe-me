@@ -1,0 +1,277 @@
+{
+  "id": "tr_2307",
+  "title": "Lion's Head Meatballs",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/01/lion-head-meatballs.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/lions-head-meatballs/",
+  "servings": 8,
+  "prepTime": 40,
+  "cookTime": 40,
+  "tags": [
+    "lion's head meatballs"
+  ],
+  "nutrition": {
+    "calories": 238,
+    "protein": 11.0,
+    "carbs": 6.0,
+    "fat": 18.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "fatty ground pork ((450g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "slice",
+      "name": "ginger ((8g, minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((minced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "plain breadcrumbs ((25g))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3.5",
+      "unit": "ounces",
+      "name": "water chestnuts ((100g, canned))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "vegetable oil ((to fry the meatballs))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((cut into 2-inch lengths, white and green parts separated))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "10",
+      "unit": "g",
+      "name": "rock sugar ((or 2.5 packed teaspoons brown sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch ((mixed into a slurry with 1 tablespoon water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "baby bok choy  ((for serving, optional))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Make sure to find fatty ground pork. You can choose a fatty piece of pork shoulder and have the butcher grind it, or use our hand-chopping method to grind your own. A 70/30 meat to fat ratio is best, but 80/20 is also acceptable. Transfer the ground pork to a large mixing bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the minced ginger and scallions, egg, breadcrumbs, Shaoxing wine, light soy sauce, oyster sauce, white pepper, five spice powder, cornstarch, and water."
+    },
+    {
+      "order": 3,
+      "instruction": "Whip everything in one direction for about 10 minutes, until the meat mixture resembles a paste. This step is very important to making sure the meatballs have the right texture and don’t fall apart during frying."
+    },
+    {
+      "order": 4,
+      "instruction": "Smash the water chestnuts with the side of your cleaver or knife and finely mince them. Add to the meat mixture and continue to mix everything together for 5 more minutes. Use a rubber spatula to scrape everything together."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat enough oil to submerge the meatballs in a small, deep pot (a small pot requires less oil) to 350 degrees F/175 degrees C. Just be sure there’s enough oil to cook the meatballs evenly, but that the oil will not overflow during frying."
+    },
+    {
+      "order": 6,
+      "instruction": "With oiled hands, divide the meat mixture into 8 to 9 equal portions and shape each into a ball. Carefully lower the meatballs one at a time into the heated oil, and fry in batches (2 minutes per batch) until they’re evenly golden brown. Remove the par-cooked meatballs with a slotted spoon and set aside."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat 1 tablespoon oil in a wok over low heat. Add the ginger and white parts of the scallions, and cook for 1 minute. Then add the sugar and cook until dissolved."
+    },
+    {
+      "order": 8,
+      "instruction": "Add 1 tablespoon Shaoxing wine, 1 ½ tablespoons light soy sauce, 1/4 teaspoon dark soy sauce, 1 tablespoon oyster sauce and 1 ½ cup water. Stir and bring the liquid to a boil."
+    },
+    {
+      "order": 9,
+      "instruction": "Once boiling, add the fried meatballs. Cover and cook for 12-15 minutes over medium/low heat, flipping the meatballs halfway through."
+    },
+    {
+      "order": 10,
+      "instruction": "After simmering, there should be about ¾ cup liquid left. Remove the meatballs from the liquid and arrange on your serving plate. (I served these with blanched baby bok choy. Just add a teaspoon or two of vegetable oil to boiling water for that “shiny” look, and blanch for 30 seconds)."
+    },
+    {
+      "order": 11,
+      "instruction": "Mix your cornstarch slurry, and pour into the sauce to thicken. Once it’s thick enough to coat the back of a spoon, stir in ¼ teaspoon sesame oil and the green parts of the scallions. Once the scallions are wilted, drizzle the sauce over the meatballs."
+    }
+  ]
+}

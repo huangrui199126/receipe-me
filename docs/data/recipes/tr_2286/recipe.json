@@ -1,0 +1,129 @@
+{
+  "id": "tr_2286",
+  "title": "Chinese Banquet Fried Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/06/banquet-fried-rice-11-1.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/banquet-fried-rice/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "chinese banquet fried rice"
+  ],
+  "nutrition": {
+    "calories": 391,
+    "protein": 14.0,
+    "carbs": 54.0,
+    "fat": 13.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "cooked rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs ((beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "handful",
+      "name": "of chopped carrot",
+      "emoji": "🥕",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "handful",
+      "name": "of chopped onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "handful",
+      "name": "of chopped ham",
+      "emoji": "🥓",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "frozen peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and white pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat a splash of oil in your wok over medium high heat. Scramble your eggs and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Add a bit more oil to the pan and cook your onions and carrots for about 2 minutes, or until slightly soft."
+    },
+    {
+      "order": 3,
+      "instruction": "Add your ham and stir-fry for an additional 2 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Add peas and rice. Stir-fry to warm everything through."
+    },
+    {
+      "order": 5,
+      "instruction": "Season with salt, white pepper, and soy sauce. Stir in scallions."
+    },
+    {
+      "order": 6,
+      "instruction": "Continue to stir fry for another 3 minutes. Serve!"
+    }
+  ]
+}

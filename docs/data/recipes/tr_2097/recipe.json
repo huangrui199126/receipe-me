@@ -1,0 +1,105 @@
+{
+  "id": "tr_2097",
+  "title": "Salted Chili & Chinese Chive Frittata",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/10/egg-frittata-3-1.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chili-chive-frittata/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "chinese chive frittata"
+  ],
+  "nutrition": {
+    "calories": 272,
+    "protein": 9.0,
+    "carbs": 5.0,
+    "fat": 24.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  large eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "⅛",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "5",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1½",
+      "unit": "cups",
+      "name": "Chinese chives ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "hunan chili peppers ((or to taste––they are quite salty!))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, beat the eggs, sugar, Shaoxing wine, white pepper, and sesame oil in a bowl. Heat a skillet (cast iron or non-stick works best) over medium-high heat with 5 tablespoons of oil."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the chives, and stir-fry until just wilted. Add the hunan chilies and distribute evenly."
+    },
+    {
+      "order": 3,
+      "instruction": "Pour the eggs evenly over the mixture. If you’d like to just scramble the eggs, gently stir them until they’re just cooked, being careful not to break up the eggs too much."
+    },
+    {
+      "order": 4,
+      "instruction": "If you are making a frittata, lower the heat to medium, and let the egg cook until mostly solidified. When you are ready to flip the frittata, carefully slide it onto a plate, place the pan over the plate, and quickly flip the whole thing so the frittata flips out into the pan. Continue to cook until there’s no more runny egg, and serve! It’s a little tricky, but if you want that wow factor, say a prayer, and go for it!"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "tr_2484",
+  "title": "Super Easy Grilled Ribs",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/08/grilled-ribs-6.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/grilled-ribs-super-easy/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 35,
+  "tags": [
+    "grilled ribs"
+  ],
+  "nutrition": {
+    "calories": 564,
+    "protein": 41.0,
+    "carbs": 4.0,
+    "fat": 42.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "pounds",
+      "name": "baby back ribs",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorn powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine  ((or dry cooking sherry))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil ((any neutral oil, such as canola or vegetable oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Using a sharp chef’s knife or cleaver, cut the ribs into individual pieces between each rib bone. If you hit thicker bits at the ends of the ribs, just maneuver your blade until you hit soft meat or cartilage to avoid damaging your knife on the hard bones."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the ribs In a large mixing bowl, and add the salt, sugar, garlic powder, onion powder, Sichuan peppercorn powder, cumin, Shaoxing wine, and water. Using your hands, mix the ribs together until every rib is well-coated, and there is no visible standing liquid. This will take a few minutes of mixing. Cover with an overturned plate and marinate in the refrigerator overnight."
+    },
+    {
+      "order": 3,
+      "instruction": "1 hour before you grill the ribs, take them out of the refrigerator and let them come up to room temperature."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat your grill over high heat (we used gas here for convenience, so adjust cooking settings and times for your own personal grill setup). Right before grilling, pour the oil over the ribs, and mix well."
+    },
+    {
+      "order": 5,
+      "instruction": "When the grill is hot, use tongs to space the ribs a couple inches (about 5 cm) apart (depending on whether you have the luxury of space relative to other items you may be cooking). Flip them every 3-5 minutes or so, making sure to brown each side of the rib. You know your own grill, so use visual cues to gauge the cooking times and heat levels. After about 20-30 minutes, the ribs should be crisp and golden on all sides. Serve immediately—no need for them to rest!"
+    }
+  ]
+}

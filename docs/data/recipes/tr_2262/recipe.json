@@ -1,0 +1,141 @@
+{
+  "id": "tr_2262",
+  "title": "Easy Mushroom Noodle Stir fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/01/DSC_01012.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/mushroom-noodles/",
+  "servings": 2,
+  "prepTime": 60,
+  "cookTime": 10,
+  "tags": [
+    "mushroom noodles"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 36.0,
+    "carbs": 89.0,
+    "fat": 29.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "7  dried shiitake mushrooms",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 ¼",
+      "unit": "cup",
+      "name": "onions or scallions",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6 oz. ground pork ((170g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. fresh or dried noodles ((225g))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 ½",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dark mushroom soy sauce",
+      "emoji": "🍄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Wash the dried mushrooms well and soak for 1 to 2 hours. Drain the water that the mushrooms have been soaking in through a coffee filter and set aside 1 cup for use later (if you’re not a fan of a stronger mushroom taste, you can also substitute chicken or vegetable stock). Cut the stems off and discard. Then slice the mushrooms thinly."
+    },
+    {
+      "order": 2,
+      "instruction": "Dice your onions or scallions and set aside. If using scallions, you can reserve some of the green part, slice thinly into lengthwise slivers and toss into cold water. They will curl up nicely and serve as a nice garnish. Have the ground pork at the ready as well. Mix cornstarch and water to make a slurry and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Boil the noodles in about 2 quarts of water until they are al dente, rinse in warm water and drain."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat the wok on high and add 1 tablespoon of oil. Add the ground pork and toss for a minute until lightly browned. Add the onion and give it a quick toss for a minute and then add the mushrooms and shaoxing wine. Stir-fry for another minute and add the mushroom water, soy sauce, dark soy sauce, sesame oil, and a few turns of the white pepper grinder. Reduce to medium-low heat and let simmer for about 5 minutes. If your mushrooms did not have enough time to soak, you may want to add a few tablespoons more of water and let cook for a few minutes longer."
+    },
+    {
+      "order": 5,
+      "instruction": "Add your cornstarch slurry to the mixture until it thickens enough to just coat a spoon. At this point, if your noodles are sticky, then give them a quick rinse with hot water in the colander to loosen them up and toss them into the wok/coat them in the sauce. Transfer your noodles to a bowl, garnish with scallions and serve!"
+    }
+  ]
+}

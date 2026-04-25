@@ -1,0 +1,93 @@
+{
+  "id": "tr_2381",
+  "title": "Oyster Sauce Baked Chicken Wings",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/10/oyster-sauce-baked-chicken-wings-6.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/oyster-sauce-baked-chicken-wings/",
+  "servings": 6,
+  "prepTime": 65,
+  "cookTime": 30,
+  "tags": [
+    "baked chicken wings"
+  ],
+  "nutrition": {
+    "calories": 331,
+    "protein": 26.0,
+    "carbs": 2.0,
+    "fat": 24.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "3 1/2",
+      "unit": "pounds",
+      "name": "chicken wings ((flats and drumettes) )",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ground black pepper ((finely ground))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ground white pepper ((finely ground))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large bowl, toss the wings in the salt, black pepper, white pepper, garlic powder, oyster sauce, and sesame oil. Let the wings marinate for at least 1 hour or overnight for best results."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat the oven to 400°F/200°C."
+    },
+    {
+      "order": 3,
+      "instruction": "Transfer the wings to a sheet pan lined with non-stick foil or parchment paper. Bake for 25-35 minutes until golden brown, rotating the pan once at the halfway point. Towards the end of the baking time, just make sure the edges aren’t burning! Serve."
+    }
+  ]
+}

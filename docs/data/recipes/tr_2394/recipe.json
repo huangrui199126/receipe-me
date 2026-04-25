@@ -1,0 +1,125 @@
+{
+  "id": "tr_2394",
+  "title": "Spicy Bamboo Shoot Salad",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/11/spicy-bamboo-salad-9.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/spicy-bamboo-shoot-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "bamboo shoot salad"
+  ],
+  "nutrition": {
+    "calories": 19,
+    "protein": 1.0,
+    "carbs": 3.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "7",
+      "unit": "ounces",
+      "name": "thin poached spring bamboo shoots",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 cloves garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Sichuan chili flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "Sichuan peppercorn oil ((or to taste, optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cilantro ((leaves and stems, roughly chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Tear the bamboo shoots into small strips with your hands."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the garlic and Sichuan chili flakes to a small bowl. Heat the oil and pour over the garlic and flakes—they should sizzle and immediately smell fragrant."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir in the sugar, oyster sauce, rice vinegar, light soy sauce, and Sichuan peppercorn oil if using. Toss with the shredded bamboo. Season with salt to taste, and garnish with cilantro."
+    }
+  ]
+}

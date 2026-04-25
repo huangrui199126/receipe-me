@@ -1,0 +1,93 @@
+{
+  "id": "tr_2504",
+  "title": "Homemade Chinese Salted Pork (腌咸肉)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/01/salted-pork-12-1.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/homemade-chinese-salted-pork/",
+  "servings": 20,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "salted pork"
+  ],
+  "nutrition": {
+    "calories": 532,
+    "protein": 10.0,
+    "carbs": 1.0,
+    "fat": 54.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "½",
+      "unit": "pound",
+      "name": "coarse sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4½",
+      "unit": "pounds",
+      "name": "pork belly",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a clean, dry wok or cast iron skillet over medium heat, add the sea salt and Sichuan peppercorns. Stir the mixture for 25-30 minutes, until the salt starts to turn light brown. BE VERY CAREFUL during this process. Although there isn’t much indication in the form of steam or smoke from the mixture as you stir, the sea salt does get extremely hot, so handle with care! Once the sea salt turns light brown, turn off the heat, and let the mixture cool."
+    },
+    {
+      "order": 2,
+      "instruction": "Now rinse the pork belly under cold water, and pat it thoroughly dry with paper towels. Once the sea salt mixture has cooled, but is still warm to the touch, remove ⅓ cup and set it aside. Place the pork belly on a rimmed sheet pan or in a casserole dish, and rub (press) the remaining salt mixture evenly onto the pork belly on ALL sides, the goal is to get the salt and Sichuan peppercorns onto the pork belly. Weigh down the pork belly with a couple of flat stones or bricks that have been wrapped in foil. Cover with plastic wrap and transfer to the refrigerator."
+    },
+    {
+      "order": 3,
+      "instruction": "Take out your pork belly and pour off any liquid that collected in the pan. After all the liquid is drained, evenly apply the ⅓ cup of the salt mixture that you put aside the day before."
+    },
+    {
+      "order": 4,
+      "instruction": "Put the stones/bricks back on, cover the pork belly with plastic wrap, and put back in the refrigerator."
+    },
+    {
+      "order": 5,
+      "instruction": "Take the pork belly out and pour off any liquid."
+    },
+    {
+      "order": 6,
+      "instruction": "Put the stones/bricks back on top of the pork, replace the plastic wrap, and put it back in the refrigerator."
+    },
+    {
+      "order": 7,
+      "instruction": "Take out the pork belly, and rinse it under cold water to wash away all the peppercorns and visible sea salt crystals."
+    },
+    {
+      "order": 8,
+      "instruction": "Pat it dry with paper towels, string it up with thick kitchen twine, and hang it in a place that’s cool and dry (and where no critters will be able to get to it) for 4-5 days until the meat is dry to the touch, but not too hard to cut. You don’t want to dry out the meat too much, or it will become tough and difficult to slice."
+    },
+    {
+      "order": 9,
+      "instruction": "P.S. Feel free to marinate the pork for a couple of days longer if you like it saltier."
+    },
+    {
+      "order": 10,
+      "instruction": "Your salted pork belly is ready!"
+    },
+    {
+      "order": 11,
+      "instruction": "Store it in a zip-top bag in the freezer!"
+    }
+  ]
+}

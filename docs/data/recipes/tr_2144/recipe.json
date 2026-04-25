@@ -1,0 +1,125 @@
+{
+  "id": "tr_2144",
+  "title": "Ginger Garlic Shrimp Fried Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/08/ginger-garlic-fried-rice-6-1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/ginger-garlic-shrimp-fried-rice/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 25,
+  "tags": [
+    "shrimp fried rice"
+  ],
+  "nutrition": {
+    "calories": 544,
+    "protein": 27.0,
+    "carbs": 63.0,
+    "fat": 20.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "vegetable oil ((60 ml, plus 1 tablespoon))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "10",
+      "unit": "ounces",
+      "name": "shrimp ((280g, peeled and deveined, optional))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "ounces",
+      "name": "ginger ((55g, minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1½",
+      "unit": "heads",
+      "name": "of garlic ((minced, about ¼ cup))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "cooked white rice ((cooled))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "⅛",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs ((beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat your wok over high heat. Add 1 tablespoon of oil to coat. Quickly stir-fry the shrimp until they're just cooked. They should be pink, but ever-so slightly translucent. Avoid overcooking them (you will be adding them back to the wok later). Transfer them to a bowl and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Add ¼ cup oil to the wok and heat over medium-high heat. Add the ginger and fry until fragrant (the color will darken, but the ginger will not necessarily become crisp). Next, add the garlic. It should be lightly toasted; if it’s still white in color, it needs more cooking time. In total, it will take about 10 minutes time to cook the ginger and garlic."
+    },
+    {
+      "order": 3,
+      "instruction": "Next, turn the heat up to high and add the rice to the wok. Stir-fry the rice so the ginger/garlic mixture is evenly distributed. Spread the rice out in one layer so it can evenly toast. Occasionally stir-fry the rice and re-spread it. Next, season the rice with the soy sauce, Shaoxing wine, and white pepper. Continue to stir-fry for another 3-5 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Next, pour the eggs evenly over the rice, and stir-fry quickly to distribute. The egg will coat the grains of rice, and you’ll have egg throughout instead of large clumps. If you’d prefer to pre-scramble the eggs and then stir them in at this step, you can do that too."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the shrimp and the scallions, stir-fry to combine, and serve!"
+    }
+  ]
+}

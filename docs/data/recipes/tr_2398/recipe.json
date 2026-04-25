@@ -1,0 +1,173 @@
+{
+  "id": "tr_2398",
+  "title": "Dongbei Guo Bao Rou (Crispy Sweet &amp; Sour Pork)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/05/guo-bao-rou-7.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/guo-bao-rou-dongbei/",
+  "servings": 4,
+  "prepTime": 35,
+  "cookTime": 35,
+  "tags": [
+    "guo bao rou"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30.0,
+    "carbs": 68.0,
+    "fat": 17.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "pork loin ((450g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt ((plus another ½ teaspoon, divided))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "water ((plus 1 ½ cups, divided))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "230",
+      "unit": "grams",
+      "name": "potato starch ((about 1⅓ cup))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "sugar ((about 115 grams))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "150",
+      "unit": "ml",
+      "name": "rice vinegar ((4.5% acidity, about ½ cup))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil for frying",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "minced ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "minced garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  of a small carrot ((julienned))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  scallions ((the white parts only, julienned))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Slice the pork loin into ¼-inch thick slices. Marinate with 1 tablespoon light soy sauce, ½ teaspoon salt, 1 tablespoon Shaoxing wine, and 3 tablespoons water, working the ingredients thoroughly into the pork pieces. Cover and transfer to the refrigerator."
+    },
+    {
+      "order": 2,
+      "instruction": "In a medium bowl (large enough to fit all the pork), dissolve the potato starch in 1½ cups of water, and stir until completely dissolved. Set aside for 15 minutes, or until the potato starch has completely settled to the bottom."
+    },
+    {
+      "order": 3,
+      "instruction": "Now prepare the sauce by mixing the sugar, vinegar, ½ teaspoon salt, and sesame oil together. Stir to dissolve, and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Take your potato starch, and slowly drain out the majority of the water, leaving behind the potato starch paste. Add the pork slices to the bowl, and use your hands to ensure the pork is completely coated in the wet potato starch. Add a tablespoon of water at a time if the mixture is too dry and hard to work with."
+    },
+    {
+      "order": 5,
+      "instruction": "Prepare the oil for frying in a deep pot or wok, heating it slowly to 250 - 300 degrees F––no higher, or the pork will overcook. Carefully lower the pork pieces, one at a time, into the oil, leaving space in between, as they tend to stick together. Fry each batch for 2 minutes, transferring the fried pork to a wire rack to drain. When all of the pork has been fried once, bring the oil back up to 250 - 300 degrees F and fry the pork again in batches for about 30 seconds each batch."
+    },
+    {
+      "order": 6,
+      "instruction": "Now you’re ready to put together the rest of the dish. If you fried the pork in your wok, carefully pour the hot oil into a heat-proof container, leaving about 1 tablespoon of it behind."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat the wok over medium heat. Cook the ginger and garlic briefly. Add the sauce mixture, turn up the heat, and cook for about 2-3 minutes. You should have about ⅓ cup of sauce in the wok after it’s reduced. Next, add the carrot, scallions, cilantro, and fried pork. Stir quickly so there is a thin layer of sauce coating each piece of pork. Serve immediately!"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "tr_2393",
+  "title": "Three Cup Chicken (San Bei Ji)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/02/three-cup-chicken-8.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/three-cup-chicken-san-bei-ji/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [
+    "three cup chicken"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 18.0,
+    "carbs": 4.0,
+    "fat": 21.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  dried chili ((halved))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "pounds",
+      "name": "chicken wings",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "warm water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-5 teaspoons dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Small bunch of Thai basil leaves or 2 scallions, cut into 2-inch/5cm lengths",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by putting the sesame oil, vegetable oil, ginger, garlic, and red chili into your wok over medium heat. Let the aromatics infuse the oil for a couple minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Then turn up the heat to high, and add the chicken wings to the wok all in one layer. Sear the chicken until golden brown on both sides. Then add 1/4 cup warm water, ¼ cup Shaoxing wine, dark soy sauce (2-5 teaspoons, depending on how dark you’d like the dish to be), 1 1/2 tablespoons light soy sauce, and 2 teaspoons sugar."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir and cover the wok. Turn the heat down to medium and simmer for 15 minutes to cook the chicken through (cook for 20 minutes if you want the chicken to be more tender)."
+    },
+    {
+      "order": 4,
+      "instruction": "Then remove the cover and turn up the heat to rapidly reduce the sauce for a few minutes until it clings to the chicken and gives it a rich, dark color. Make sure to stir the chicken during this process to prevent burning."
+    },
+    {
+      "order": 5,
+      "instruction": "Throw in your Thai basil and/or scallions and fry another minute until it’s wilted. Serve!"
+    }
+  ]
+}

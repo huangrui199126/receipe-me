@@ -1,0 +1,161 @@
+{
+  "id": "tr_2083",
+  "title": "Pickled Long Beans with Pork Noodle Soup",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/01/pickled-long-bean-noodle-soup.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pickled-long-bean-noodle-soup/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "pickled long beans"
+  ],
+  "nutrition": {
+    "calories": 633,
+    "protein": 33.0,
+    "carbs": 69.0,
+    "fat": 28.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "ground pork ((225g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "minced ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic ((chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small green bell pepper ((diced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small red bell pepper ((diced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 to 10  bird’s eye chilies ((thinly sliced, depending on your desired heat level))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 package Chinese pickled long beans ((chopped into ¼” pieces))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Choice of noodles to serve",
+      "emoji": "🍜",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "8",
+      "unit": "cups",
+      "name": "Chicken broth ((about 2 cups per serving))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, marinate the ground pork. Mix it with 1 tablespoon of the oil, 2 teaspoons cornstarch, 1 teaspoon soy sauce, and 1 teaspoon Shaoxing wine. Set aside while you gather your other ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat the remaining 2 tablespoons of oil in a wok or cast-iron skillet over high heat. Add the pork and stir-fry until cooked through and lightly crisped. Add the ginger and allow to infuse the oil for another minute. Next, add the garlic and cook until the garlic is lightly browned."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the diced green and red bell peppers and cook until they are slightly softened. Add the chilies, long beans, sugar, and white pepper, and cook for a few minutes to heat the long beans through. If you want an extra kick, add the chilies early on along with the ginger to really infuse the oil."
+    },
+    {
+      "order": 4,
+      "instruction": "To prepare the noodle soup, place the noodles and soup in a bowl, and top with a few spoonfuls of the pickled long bean stir-fry. Add salt and/or chili oil to taste."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "tr_2175",
+  "title": "Buffalo Chicken Potstickers",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/11/buffalo-chicken-dumplings-11.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/buffalo-chicken-potstickers/",
+  "servings": 8,
+  "prepTime": 60,
+  "cookTime": 15,
+  "tags": [
+    "buffalo chicken potstickers"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 23.0,
+    "carbs": 29.0,
+    "fat": 26.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion ((finely chopped))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "stalks",
+      "name": "celery ((finely chopped))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "ground chicken ((450g))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Frank’s hot sauce ((120 ml, add more or less depending on your spice tolerance))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "shredded cheddar cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "48  dumpling wrappers ((round wrappers))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "blue cheese ((30g, crumbled))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green onion ((finely chopped))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sour cream or greek yogurt ((120g))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat pan over medium heat and add 2 tablespoons oil. Cook the onions and celery until translucent and transfer to a mixing bowl, along with the ground chicken, hot sauce, cheese, and salt and pepper to taste."
+    },
+    {
+      "order": 2,
+      "instruction": "Wet the edges of each dumpling wrapper with water, add about 2 teaspoons of filling in the center, and fold in half. You can also pleat them as shown in this post."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 2 tablespoons oil in a cast iron or nonstick pan over medium to medium high heat and add the potstickers. When they’re golden brown on the bottom, add 1/3 cup water to the pan. Cover and steam the potstickers until the water is evaporated."
+    },
+    {
+      "order": 4,
+      "instruction": "While that’s going, mix the blue cheese and the chopped green onion with the sour cream or yogurt. Season with salt and pepper to taste. Serve the dumplings along with the blue cheese sauce."
+    }
+  ]
+}

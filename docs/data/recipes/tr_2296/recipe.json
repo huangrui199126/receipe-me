@@ -1,0 +1,181 @@
+{
+  "id": "tr_2296",
+  "title": "Sticky Rice Mushroom Shumai w/ Homemade Wrappers (Vegan)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/12/sticky-rice-shumai-9-1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/sticky-rice-mushroom-shumai-w-homemade-wrappers-vegan/",
+  "servings": 6,
+  "prepTime": 45,
+  "cookTime": 30,
+  "tags": [
+    "vegan shumai"
+  ],
+  "nutrition": {
+    "calories": 476,
+    "protein": 11.0,
+    "carbs": 97.0,
+    "fat": 4.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "all-purpose flour ((plus extra for dusting))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "uncooked sticky rice ((aka sweet rice, glutinous rice))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "15  dried shiitake mushrooms ((cleaned, soaked in warm water until softened, and diced))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  shallots ((minced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "mushroom soy sauce ((dark soy sauce))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "five-spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "warm water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "frozen peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by making the dough. Mix the flour, salt and boiling water together in a mixing bowl, handle with care and knead until you get a smooth dough. Put in a bowl covered with a damp towel, and let the dough rest for 1-2 hours. You can also cover it tightly and let it rest in the refrigerator overnight if you want to make it ahead of time."
+    },
+    {
+      "order": 2,
+      "instruction": "To make the filling, cook the sticky rice. You can either steam it (full instructions on how to pre-cook sticky rice using a soaking and steaming method here) or follow your rice cooker&#x27;s instructions if it has a special setting for sticky rice. Heat the oil in a wok over medium heat, and add the mushrooms and shallots. Stir-fry for a few minutes, until the shallots are translucent. Add the scallions, shaoxing wine, salt, soy sauces, five spice powder, sesame oil, and water. Cook for another minute. Stir in the cooked rice and peas. Turn off the heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Divide the dough into four pieces. Working one piece at a time (cover the rest of the dough with a damp cloth to prevent it from drying out), roll the dough into a long rope and cut it into small pieces about the size of an acorn. This method is similar to the one we used for dumpling wrappers."
+    },
+    {
+      "order": 4,
+      "instruction": "To assemble the shumai, first prepare the steamer, lining it with a layer of damp cheese cloth, or by brushing it with oil to prevent sticking."
+    },
+    {
+      "order": 5,
+      "instruction": "Dust a clean surface with flour and roll out each piece of dough into a small circle about 3.5 inches in diameter. No worries if it’s not perfect. In this case, uneven edges are encouraged. They’ll give you a nice ruffled edge when assembled."
+    },
+    {
+      "order": 6,
+      "instruction": "Place a bit of the sticky rice mixture in the middle, and squeeze the wrapper around it to form the shape you want. Place them in the steamer about an inch apart."
+    },
+    {
+      "order": 7,
+      "instruction": "Steam the shumai for about 5 minutes and serve immediately with the dipping sauce of your choice!"
+    }
+  ]
+}

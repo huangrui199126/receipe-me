@@ -1,0 +1,81 @@
+{
+  "id": "tr_2023",
+  "title": "How to Make Five Spice Powder",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/12/five-spice-powder-6.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/how-to-make-five-spice-powder/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "five spice powder"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "ground Chinese cassia cinnamon ((1 part))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "fennel seeds ((2 parts))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Sichuan peppercorns ((1 part))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cloves ((1/3 part))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  star anise ((for calculations, consider this equivalent to 1 part))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sand ginger powder ((1 part; equivalent to about 4 grams dried sand ginger slices, optional))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Gather your cinnamon, fennel seeds, Sichuan peppercorns, cloves, star anise, and sand ginger (if using). Take any of the whole spices you have and toast them in a dry pan over low heat until fragrant."
+    },
+    {
+      "order": 2,
+      "instruction": "Transfer to a blender or spice grinder, and blend all the spices into a fine powder. Store in a sealed container away from heat or light. Use within 24 months."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "tr_2324",
+  "title": "Simple Pan-fried Belt Fish",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/01/belt-fish-recipe-14.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pan-fried-belt-fish/",
+  "servings": 6,
+  "prepTime": 220,
+  "cookTime": 20,
+  "tags": [
+    "belt fish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 27.0,
+    "carbs": 3.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "belt fish",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2 - 2 teaspoons sea salt ((to taste, but 2 teaspoons is ideal))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "ginger ((finely julienned))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "all purpose flour ((optional))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "oil ((for pan-frying; use vegetable oil, canola oil, or any other neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "finely chopped scallions ((optional garnish))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Using a dull knife or the side of a scissor blade, scrape the shiny silvery outer layer off the entire fish. This step is optional, but the silvery part of the fish skin can taste fishy. Trim away the fish gills, remove the guts, the black membrane, and scrape all hints of blood off the big center bone that runs the length of the fish."
+    },
+    {
+      "order": 2,
+      "instruction": "Thoroughly rinse the fish clean. Shake off the excess water, and cut into 2-inch sections."
+    },
+    {
+      "order": 3,
+      "instruction": "Transfer the fish to a bowl. Sprinkle salt evenly all over the fish, and add the Shaoxing wine and julienned ginger. Marinate for 3 hours or overnight, uncovered in the refrigerator. Arrange the fish pieces on a large plate or sheet pan so the surface moisture evaporates."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove all the ginger pieces from the fish."
+    },
+    {
+      "order": 5,
+      "instruction": "Now you have two options. You can fry the fish as is, or you can coat the fish in flour. If you are using the flour coating, simply add the flour to a shallow bowl or plate, and coat the fish on both sides. Shake off any excess."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat a flat-bottomed cast iron skillet over medium heat until it starts to smoke lightly. (If using a non-stick pan, you do not need to do this. Just heat it over medium heat)."
+    },
+    {
+      "order": 7,
+      "instruction": "Add 3 tablespoon of oil, and arrange the fish with an inch or so of space between pieces. Pan-fry them until golden brown on both sides. Depending on the size of the original fish, the cooking time for each batch is about 10-15 minutes. Pan-fried fish takes patience to achieve the golden color. Don’t rush it. It’s fully cooked when the fish easily detaches from the center bone."
+    },
+    {
+      "order": 8,
+      "instruction": "Garnish with chopped scallions (if using), and serve."
+    }
+  ]
+}

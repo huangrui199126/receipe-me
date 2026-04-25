@@ -1,0 +1,135 @@
+{
+  "id": "tr_2043",
+  "title": "Soy Sauce Braised Instant Pot Pork Belly",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/01/instant-pot-pork-belly.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/instant-pot-pork-belly/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 50,
+  "tags": [],
+  "nutrition": {
+    "calories": 776,
+    "protein": 14.0,
+    "carbs": 4.0,
+    "fat": 77.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "5",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "rose-flavored rice wine (mei kwei lu) or shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "light soy sauce ((240 ml))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¾",
+      "unit": "cup",
+      "name": "dark soy sauce ((180 ml))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "sugar ((115 g))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "water ((1.2 L))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2½",
+      "unit": "pounds",
+      "name": "pork belly",
+      "emoji": "🥩",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Grab your Instant Pot. Turn on the sauté setting, and add the oil and ginger. Let it caramelize for about 30 seconds. Then add the scallions and cook another 30 seconds. Add the star anise, rice wine, light soy sauce, dark soy sauce, sugar, salt, and water."
+    },
+    {
+      "order": 2,
+      "instruction": "Close the lid of the instant pot, and make sure you have your vent set so it is not venting. Cook for 5 minutes on the high pressure setting."
+    },
+    {
+      "order": 3,
+      "instruction": "Safely release pressure, open the lid when safe, and carefully lower the pork belly into the instant pot."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook the pork for 20 minutes on the high pressure setting. Allow the pressure to release naturally once the timer has gone off. Once safe to open, retrieve the pork belly, and cut into smaller chunks as desired."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve over rice with sauce spooned over the top, along with a stir-fried green veggie of your choice."
+    },
+    {
+      "order": 6,
+      "instruction": "Let the braising liquid cool, and store it in containers in the freezer. When you need it again, let it thaw in the refrigerator and throw it back in the instant pot with an additional ½ cup Shaoxing wine, ½ cup of soy sauce, ¼ cup of dark soy sauce, 1 teaspoon salt, and 2 tablespoons of sugar to bring it back to the right flavor concentrations."
+    }
+  ]
+}

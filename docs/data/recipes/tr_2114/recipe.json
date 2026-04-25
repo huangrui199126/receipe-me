@@ -1,0 +1,79 @@
+{
+  "id": "tr_2114",
+  "title": "The After-School Special",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/03/after-school-special-9-1.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/after-school-special/",
+  "servings": 2,
+  "prepTime": 0,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 306,
+    "protein": 10.0,
+    "carbs": 54.0,
+    "fat": 5.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Any dried pasta",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "White pepper ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chili oil ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "scallions ((chopped, optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook the pasta according to package directions. Drain. Toss with soy sauce and sesame oil to taste. If using, mix in white pepper, chili oil, and scallions to taste."
+    },
+    {
+      "order": 2,
+      "instruction": "Make sure to add condiments in small quantities as you’re mixing the noodles together, especially the soy sauce––it can get salty very quickly. Add the soy sauce a teaspoon at a time."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "tr_2241",
+  "title": "Cantonese Chicken &amp; Salted Fish Fried Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/07/salted-fish-fried-rice-5.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/cantonese-chicken-salted-fish-fried-rice/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "salted fish fried rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  chicken breast",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  medium onion ((chopped))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/3-1/2 cup Chinese salt-cured fish ((finely diced))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-5 cups cooked rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "finely chopped lettuce",
+      "emoji": "🥬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat 1 tablespoon of oil in your wok over very high heat, sear the chicken until lightly browned, and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat your other 2 tablespoons of oil in the wok over very high heat (the flame should be roaring the entire time you’re making this dish), and add the onion. Cook it until turns translucent, and add the fish. Cook for another couple minutes, until that funky (in a good way), heady aroma hits the air."
+    },
+    {
+      "order": 3,
+      "instruction": "Then add the cooked rice and chicken and stir everything well until heated through. Now add the wine, sesame oil and salt to taste. Stir for another minute, add the lettuce and chopped scallion, and give it all a final stir. Serve!"
+    }
+  ]
+}

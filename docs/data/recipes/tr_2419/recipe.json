@@ -1,0 +1,133 @@
+{
+  "id": "tr_2419",
+  "title": "Shanghai Sweet and Sour Ribs",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/09/shanghai-sweet-sour-ribs-11-1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shanghai-sweet-sour-ribs/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 40,
+  "tags": [
+    "sweet and sour ribs"
+  ],
+  "nutrition": {
+    "calories": 389,
+    "protein": 17.0,
+    "carbs": 6.0,
+    "fat": 32.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "pork ribs ((900g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "shaoxing wine ((divided))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  thin slices ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  scallions ((white parts only, chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "sugar ((rock sugar is preferred if you have it))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "toasted sesame seeds ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Clean the ribs and pat them dry with a paper towel. Marinate the ribs with 1 tablespoon light soy sauce and 1 tablespoon shaoxing wine for 15 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 1 tablespoon oil in a flat bottomed pan over medium heat and brown the ribs on all sides. Set aside on a plate."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat another tablespoon of oil in a clean wok over medium heat, and cook the ginger and scallions until fragrant, about 3 minutes. Take them out of the wok and set aside. Add another tablespoon of oil, and with the wok on low heat, add the sugar. Stir and let it melt. Add the ribs and coat them with the melted sugar. Turn off the heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the second tablespoon of shaoxing wine, dark soy sauce, vinegar, water, and the cooked ginger and scallion. Turn up the heat and bring everything to a boil. Then cover and simmer on low heat for 30 minutes, stirring occasionally to prevent sticking. After 30 minutes, if there's still too much liquid in the pot, take off the lid and turn up the heat, stirring continuously until the sauce has thickened and the ribs are coated and sticky."
+    },
+    {
+      "order": 5,
+      "instruction": "It's best to serve these ribs at room temperature. Garnish with toasted sesame seeds if desired."
+    }
+  ]
+}

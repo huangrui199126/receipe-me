@@ -1,0 +1,157 @@
+{
+  "id": "tr_2187",
+  "title": "Crab Fried Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/06/crab-fried-rice-6-1.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/crab-fried-rice/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "crab fried rice"
+  ],
+  "nutrition": {
+    "calories": 397,
+    "protein": 19.0,
+    "carbs": 47.0,
+    "fat": 14.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-4 tablespoons oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "cooked white rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine ((optional))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs ((beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cooked lump crab meat ((half of a 16 oz. can/225g))",
+      "emoji": "🦀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cilantro ((chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, prep all of your ingredients, including your aromatics--ginger, garlic, cilantro, and scallion. Prep the beaten eggs as well and set them aside. Only when you have all the ingredients prepared and ready to go should you start cooking."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat the cooking oil in a wok over medium-high heat. Add the ginger first, stirring for 30 seconds. Then add the garlic. When the garlic is just cooked (before it starts to turn golden), add the cooked rice to the wok, and turn up the heat to high. Stir fry the rice for 3 minutes or so until it's thoroughly combined with the ginger/garlic mixture and/or warmed through if you're using leftover rice."
+    },
+    {
+      "order": 3,
+      "instruction": "Now for the flavorings: add the white pepper, fish sauce, soy sauce, and shaoxing wine to the rice. If it's not quite salty enough for you or if you know you won't be eating it with added hot sauce, now is the time to add salt to taste. Stir-fry to combine."
+    },
+    {
+      "order": 4,
+      "instruction": "Using your spatula, spread the rice out into an even layer along the surface of the wok. Pour the beaten egg evenly over the rice. Stir the rice until all of the egg is cooked and incorporated. The egg coats the rice and makes for a most excellent savory experience. Much better than broken up bits/huge chunks of scrambled egg throughout."
+    },
+    {
+      "order": 5,
+      "instruction": "Before adding the crab, use your spatula to once more spread the rice evenly in the wok. Add the crab to the rice and stir fry thoroughly. When the crab is warmed through, add the scallion and cilantro and stir-fry briefly until the herbs are just wilted. Serve and finish with a squeeze of lime and your favorite chili oil!"
+    }
+  ]
+}

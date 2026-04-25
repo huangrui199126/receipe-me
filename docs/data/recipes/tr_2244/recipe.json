@@ -1,0 +1,165 @@
+{
+  "id": "tr_2244",
+  "title": "Easy Roasted Cauliflower Stir-Fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/05/roasted-cauliflower-stir-fry-1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/easy-roasted-cauliflower-stir-fry/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "cauliflower stir-fry"
+  ],
+  "nutrition": {
+    "calories": 202,
+    "protein": 9.0,
+    "carbs": 12.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "sliced lean pork",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "shaoxing wine ((or dry sherry))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "One medium head of cauliflower ((cut into florets))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "6",
+      "unit": "cloves",
+      "name": "garlic ((coarsely chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  dried red chilies ((halved))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((cut into large pieces))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "shaoxing wine ((or dry sherry))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 450 degrees. Combine the pork with the marinade ingredients in a small bowl and set aside. On a parchment-lined baking sheet, spread out the cauliflower in a single layer and drizzle with olive oil. Season with salt and pepper and roast until crisp and golden, about 20 minutes. Stir the cauliflower halfway through baking."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 2 tablespoons of oil in your wok over medium heat. Add the garlic, chilies, and ginger, and cook for about 2 minutes, making sure they don’t burn. Turn up the heat to high, add the pork, and cook until browned."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir in the cauliflower (keep the heat on high), and cook for a minute. Add the scallion, sesame oil, wine, and the soy sauces. Season with additional salt if needed. Cover the lid and bring everything to a simmer. Uncover, give everything another stir, and serve over rice!"
+    }
+  ]
+}

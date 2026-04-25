@@ -1,0 +1,89 @@
+{
+  "id": "tr_2375",
+  "title": "Salted Duck Eggs",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/08/homemade-salted-duck-eggs-6.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/salted-duck-eggs/",
+  "servings": 12,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "salted duck eggs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  duck eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 quart water ((about 1 L, depending on the size of your container and the size of your eggs))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "sea salt ((70g))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "baijiu ((120ml, 55 proof Chinese hard liquor; can substitute whiskey))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "First, wash the eggs in plain water until clean."
+    },
+    {
+      "order": 2,
+      "instruction": "Carefully arrange the eggs in the container they’ll be brined in. Add enough water to cover the eggs so they are completely submerged. This step is to find out how much water you need, so do not discard the water."
+    },
+    {
+      "order": 3,
+      "instruction": "Carefully remove the eggs from the water, and let them sunbathe for 3-4 hours in the early morning sun; reduce the sunbathing time to 1-2 hours if the temperature is higher than 65F, but it should still be early morning sun! Turn the eggs every hour. The late morning hot sun may result in cracked eggs during the salting process."
+    },
+    {
+      "order": 4,
+      "instruction": "Meanwhile, transfer the water in the container to a clean pot—I used about 1 quart of water (if you’re using aromatics, it’s time to add them now!). Stir in ¼ cup salt and bring to a boil. Turn off the heat, cover, and cool completely to room temperature. In the meantime, take the container, and let it dry out completely in the sun."
+    },
+    {
+      "order": 5,
+      "instruction": "Pour ½ cup of Chinese baijiu (or whiskey) into a large bowl, carefully take the eggs, and turn them over in the baijiu. ½ cup of baijiu isn’t enough to submerge them, so you’ll have to roll them around every 10 minutes so they are soaking at all times. Soak the eggs in the baijiu for 1 hour."
+    },
+    {
+      "order": 6,
+      "instruction": "Once the salt water is completely cooled and your container is dry, add the eggs back to the glass container one by one. Pour in the baijiu used to soak the eggs along with the cooled salt water. Arrange the eggs with a clean utensil to make sure they are all completely submerged."
+    },
+    {
+      "order": 7,
+      "instruction": "Cover tightly so that the container is thoroughly sealed, and store in a cool, dry place for 30 to 60 days. Egg sizes vary, so brining time will vary as well. You can cook one after 30 days to see if it’s done. Try again in 10-15 days if it&#x27;s not quite there!"
+    },
+    {
+      "order": 8,
+      "instruction": "To cook the duck eggs for your morning congee and other uses, submerge the salted duck egg in a pot of boiling water, and cook over medium heat for 10-12 minutes."
+    }
+  ]
+}

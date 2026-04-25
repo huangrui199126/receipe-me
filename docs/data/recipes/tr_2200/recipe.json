@@ -1,0 +1,249 @@
+{
+  "id": "tr_2200",
+  "title": "Big Plate Chicken (Chinese Da Pan Ji) with Noodles",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/03/big-pot-chicken-7-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/big-plate-chicken-noodles/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 30,
+  "tags": [
+    "big plate chicken"
+  ],
+  "nutrition": {
+    "calories": 564,
+    "protein": 36.0,
+    "carbs": 64.0,
+    "fat": 18.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  boneless skinless chicken thighs",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cinnamon stick",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "fresh ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic ((roughly chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6 -10  whole dried red chilies ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium potatoes ((peeled and cut into bite-sized pieces))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot ((thinly sliced))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 5 cups water ((start with 3 cups and add more as needed))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. dried noodle of your choice ((preferably a thicker-style flat noodle))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red bell pepper ((cut into chunks))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green bell pepper ((cut into chunks))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((sliced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by marinating the chicken. Cut the chicken thighs into bite-sized pieces and transfer to a bowl with the marinade ingredients. Set aside for 20 minutes while you prep the rest of the ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "When you're ready to cook, heat the oil in a wok over low heat. Add the star anise, cinnamon stick, bay leaves, ginger, garlic, Sichuan peppercorns, chilies, and sugar. Cook this mixture for 2 minutes, making sure they don’t burn. Add the chicken and turn up the heat. Stir-fry until the chicken is seared."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the potatoes and carrots and stir-fry for a minute. Then add the dark soy sauce, light soy sauce, shaoxing wine, and 3 cups water. Bring to a boil and reduce the heat to medium. Cover the wok and cook for 15 minutes, until the potatoes are tender."
+    },
+    {
+      "order": 4,
+      "instruction": "While the chicken is cooking, bring a pot of water to a boil. Follow the package instructions to cook the noodles. Drain."
+    },
+    {
+      "order": 5,
+      "instruction": "Once the potatoes are cooked through, by now, there should be at least 1 1 1/2 cups of liquid in the wok so add more water if needed.To your wok, stir in the bell peppers. Cover and simmer for another 5 minutes. Taste the dish and season with salt to taste. Now transfer the noodles to a large plate, and cover with your chicken and vegetables. Sprinkle with scallions and serve immediately!"
+    },
+    {
+      "order": 6,
+      "instruction": "Note: If you want more sauce, add a little more water to the wok. If the sauce is too thin, just turn up the heat to reduce and thicken the sauce."
+    }
+  ]
+}

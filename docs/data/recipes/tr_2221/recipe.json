@@ -1,0 +1,351 @@
+{
+  "id": "tr_2221",
+  "title": "Shanghai Pan-Fried Pork Buns (上海生煎馒头)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/10/shengjian-mantou-28.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shanghai-pan-fried-pork-buns-shengjian-mantou/",
+  "servings": 10,
+  "prepTime": 120,
+  "cookTime": 20,
+  "tags": [
+    "pan-fried pork buns",
+    "shengjian bao",
+    "shengjian mantou"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 13.0,
+    "carbs": 31.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "pound",
+      "name": "pork skin",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "pound",
+      "name": "pork and/or chicken bones ((preference for chicken bones) )",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "ground pork ((70% lean 30% fat))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoons",
+      "name": "ginger ((grated))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "scallions ((minced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "aspic ((diced into ¼-inch pieces))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cake flour ((can substitute 1 ¾ cups all-purpose flour and ¼ cup cornstarch sifted together))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "all purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "instant yeast",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "water ((may need an additional tablespoon depending on the humidity))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "neutral oil ((such as avocado oil or vegetable oil, for brushing))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "neutral flavored cooking oil ((such as avocado, vegetable, or canola oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "toasted sesame seeds ((black and white sesame seeds both work))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 28
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add the pork skin and bones to a thick-bottomed medium pot with just enough water to cover them. Bring to a boil, and boil for 1 minute. Turn off the heat, and rinse the pork skin and bones under running water to clean them. Clean the pot as well."
+    },
+    {
+      "order": 2,
+      "instruction": "Trim away all the fat under the pork skin and cut into very thin slices. This makes it easier for the collagen to release."
+    },
+    {
+      "order": 3,
+      "instruction": "Fill the clean pot with 3 cups of water. Add the pork skin and bones, along with the Shaoxing wine, ginger, and scallion. Bring to a boil, and lower the heat to medium low. Simmer for 1 hour. (It should bubble gently at a low simmer)."
+    },
+    {
+      "order": 4,
+      "instruction": "After 1 hour, the pork skin should be very tender, and the stock should look thick and almost milky. Strain to remove all solids, and add salt to taste. Let the liquid solidify in a covered container in the refrigerator overnight."
+    },
+    {
+      "order": 5,
+      "instruction": "This should yield 1½ cups of aspic, the perfect amount for this recipe."
+    },
+    {
+      "order": 6,
+      "instruction": "In a large bowl, combine the ground pork, Shaoxing wine, salt, sesame oil, sugar, water, dark soy sauce, light soy sauce, ground white-pepper, grated ginger, and minced scallions. Whip in one direction for 5 minutes until it has the texture of a thick paste."
+    },
+    {
+      "order": 7,
+      "instruction": "Dice the aspic into ¼-inch cubes. Carefully stir it into the filling to evenly distribute. Transfer the bowl to the refrigerator. Chill for at least 1 hour, preferably 1 ½ - 2 hours while you make the dough."
+    },
+    {
+      "order": 8,
+      "instruction": "In the bowl of an electric mixer, add the cake flour, all purpose flour, salt, and instant yeast. Attach the dough hook, and turn the mixer on to the lowest setting. Slowly stream in the water. Knead the dough for 10 minutes until smooth. The dough should be soft but hold its shape."
+    },
+    {
+      "order": 9,
+      "instruction": "Shape the dough into a smooth ball, brush the top with oil, and cover the mixing bowl with a plate. Proof at room temperature for 30 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "These buns will go straight into the pan as you assemble them, so prepare the pan first by lightly oiling it with a neutral flavored cooking oil. A wide non-stick pan works best. A cast-iron pan also works, but can be more challenging when it comes to preventing the buns from sticking. You’ll need to pre-heat it until it’s just smoking, cover it with a thin layer of cooking oil, and let it cool completely. Now you’re ready to assemble your buns."
+    },
+    {
+      "order": 11,
+      "instruction": "Once the dough finishes proofing, knead it for 3 minutes on the lowest setting of your stand mixer. (If kneading by hand, knead for 5 minutes.) Remove ⅓ of the dough, and keep the rest covered to prevent it from drying out."
+    },
+    {
+      "order": 12,
+      "instruction": "When you’re ready to start rolling out the dough, take your filling out of the refrigerator. If it’s warm in your kitchen (especially in the summertime), rest the bowl of filling in an ice bath to keep it cold while you assemble the buns."
+    },
+    {
+      "order": 13,
+      "instruction": "On a clean and lightly-floured surface, roll the dough into a long tube and cut it into small 20 gram pieces, measured with a kitchen scale. Keep in mind, this recipe makes about 30 buns, so your piece of dough (⅓ of the total) should divide into ten 20g pieces."
+    },
+    {
+      "order": 14,
+      "instruction": "Take each piece, roll it into a round ball, and press to flatten. Roll it out using a rolling pin from edge to center, rotating the dough as you roll. You should have a 4-inch round wrapper where the edges are thinner than the center."
+    },
+    {
+      "order": 15,
+      "instruction": "Add about 2 tablespoons of filling in the center, and pleat to close the top. Make sure you keep your fingers as clean as possible during this process. Wet or greasy fingers make it challenging to seal the buns."
+    },
+    {
+      "order": 16,
+      "instruction": "As you make the buns, arrange them in your pre-oiled pan. Placing them pleated-side down is traditional, but only do this if you&#039;re confident that your buns are well shaped and sealed. If not, place them pleated side up! Each bun should have half an inch of surrounding clearance. (You&#039;ll see I put them a bit closer together in my pan, which made them more difficult to separate!)"
+    },
+    {
+      "order": 17,
+      "instruction": "Once the pan is filled with your first batch of buns, immediately move it to the stove, and turn on the heat to medium. Add enough oil such that the buns are sitting in about ⅛-inch of oil."
+    },
+    {
+      "order": 18,
+      "instruction": "As the oil heats up, move the pan around so the edges of the pan are also heated. The oil should start bubbling lightly all around the pan as the buns slowly begin to shallow-fry. DO NOT be tempted to turn up the heat. We don’t want to burn the bottoms. Also, at this point, DO NOT touch the buns with any kitchen tool WHATSOEVER. They can be easily damaged, as they are not yet set."
+    },
+    {
+      "order": 19,
+      "instruction": "After about 8-10 minutes, the oil should be bubbling evenly. The bottom edges of the buns should be beginning to brown lightly, and the buns will expand a little as they cook."
+    },
+    {
+      "order": 20,
+      "instruction": "At this stage, add enough water so it comes up about ½ an inch (1.25 cm) in the pan. The water should come up about a third of buns’ height. Immediately cover the pan with a tight-fitting lid, and cook for another 8-10 minutes on medium-low heat."
+    },
+    {
+      "order": 21,
+      "instruction": "Next, uncover the pan. The water should be mostly gone. Sprinkle the sesame seeds and chopped scallions over the top, put the lid back on, and cook for another 5 minutes over medium-low heat. (If there’s still a significant amount of water left in the pan at this point, you can turn up the heat slightly, but do take care not to burn the buns.)"
+    },
+    {
+      "order": 22,
+      "instruction": "The buns are done once you’ve cooked off all the water and the bottoms are golden brown. Use a dull kitchen tool to remove the buns, and avoid puncturing them. A stiff rubber spatula works well."
+    },
+    {
+      "order": 23,
+      "instruction": "Serve immediately with Shanghai rice vinegar or just eat it as is, taking care with the hot soup inside!"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "tr_2392",
+  "title": "Simple, Spicy Pan-fried Noodles",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2020/05/simple-spicy-pan-fried-noodles-10.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/simple-spicy-pan-fried-noodles/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "pan-fried noodles"
+  ],
+  "nutrition": {
+    "calories": 617,
+    "protein": 11.0,
+    "carbs": 63.0,
+    "fat": 38.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "fresh Hong Kong Style Pan-Fried Noodles ((450g))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Vegetable oil ((for cooking))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lao Gan Ma spicy black bean sauce ((or other chili oil/chili sauce of your choice))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a large pot of water to a boil. Drop in the noodles and boil for 1 minute. Drain thoroughly."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a couple tablespoons of vegetable oil in a non-stick pan over medium-high heat. Take about a quarter of the noodles and spread them evenly in the pan."
+    },
+    {
+      "order": 3,
+      "instruction": "Let them cook until golden brown on both sides. Slide onto a serving plate and toss with about two teaspoons of soy sauce, a teaspoon of sesame oil, and some chili sauce."
+    },
+    {
+      "order": 4,
+      "instruction": "Repeat with remaining batches, or refrigerate the blanched noodles (covered) for up to 2 days and pan-fry noodles as needed!"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "tr_2408",
+  "title": "Taro Cake (Chinese Wu Tao Gou)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/01/taro-cake-10-1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/taro-cake-wu-tao-gou/",
+  "servings": 12,
+  "prepTime": 45,
+  "cookTime": 45,
+  "tags": [
+    "taro cake"
+  ],
+  "nutrition": {
+    "calories": 328,
+    "protein": 12.0,
+    "carbs": 58.0,
+    "fat": 5.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((plus more for pan-frying and greasing the pans))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 links Chinese sausage ((chopped into small bite size pieces; you can also substitute 4 ounces/115g bacon))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "dried shrimp ((roughly chopped, optional))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  scallions ((chopped, about 2 cups))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "taro ((cut into ½-inch/1cm cubes))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "white pepper powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "water ((divided))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "rice flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "glutinous rice flour ((AKA sweet rice flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil in wok over medium heat. Add Chinese sausage, pan-fry for 2 minutes. Add the dried shrimp, stir-fry for another minute. Add the scallions and taro, and stir-fry for 3 minutes. Season with 2 teaspoons salt, 1 teaspoon white pepper powder and 2 teaspoons sesame oil. Now add two thirds of the water (2 1/2 cups/630ml if making the whole recipe), making sure all the ingredients are evenly submerged. Cover with the lid, turn the heat down to medium low, and simmer for 8 minutes. Now uncover the lid, shut off the heat, and let it cool slightly."
+    },
+    {
+      "order": 2,
+      "instruction": "In a large bowl, mix the rice flour, the glutinous rice flour, and the remaining third of the water (1 1/2 cups/315 ml if making the whole recipe) together until well combined. Now add the taro mixture (no need to wait for it to cool completely). Mix thoroughly until a cement-like paste forms."
+    },
+    {
+      "order": 3,
+      "instruction": "Generously oil two standard 9-inch round cake pans, and divide the mixture between the two pans. Spread the mixture evenly in the pan, making sure there are no air pockets in the mixture."
+    },
+    {
+      "order": 4,
+      "instruction": "Steam the taro cakes in your double decker steamer for 45 minutes. Make sure you start with enough water so the water does not dry out halfway. No double decker steamer? Just steam the two pans in two separate times. More over, if you are using a bamboo steamer, add hot water to your wok every 10 minutes to prevent the water from drying out and burning your bamboo steamer. After 45 minutes, insert a toothpick into the taro cakes; if it comes out clean, then it’s done."
+    },
+    {
+      "order": 5,
+      "instruction": "Once the taro cakes are cooled completely, you can seal the taro cakes tightly in a ziplock bag and freeze them for later. If you’d like to eat them now, simply slice into rectangles. Heat a couple tablespoons of oil in a skillet over medium heat, and pan fry the slices of taro cake on both sides until golden brown and crispy. Sprinkle with salt and serve. You can put out a little oyster sauce for dipping, or just eat these plain!"
+    }
+  ]
+}

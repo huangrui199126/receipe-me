@@ -1,0 +1,357 @@
+{
+  "id": "tr_2257",
+  "title": "Sichuan Hot Pot",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/10/hot-pot-14-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/hot-pot/",
+  "servings": 4,
+  "prepTime": 60,
+  "cookTime": 10,
+  "tags": [
+    "sichuan hot pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-5  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "10",
+      "unit": "cloves",
+      "name": "garlic ((peeled))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cinnamon stick",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  whole dried red chilies",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 package spicy hot pot soup base",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12-15 cups chicken stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sacha sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chili oil or paste",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chinese black vinegar ((or rice vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame paste ((or peanut butter))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped peanuts",
+      "emoji": "🫛",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped scallions",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Thinly shaved beef or lamb",
+      "emoji": "🥩",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced chicken",
+      "emoji": "🍗",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Assorted fish balls ((you can buy these pre-made at Asian grocery stores))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Thinly sliced fish fillets ((tender white fish like tilapia or sea bass work well for this))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Tofu sheets",
+      "emoji": "🫙",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Firm tofu ((sliced))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Soy puffs ((fried tofu puffs))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Straw mushrooms",
+      "emoji": "🍄",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Shiitake mushrooms",
+      "emoji": "🍄",
+      "section": "",
+      "order": 30
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Wood ear mushrooms",
+      "emoji": "🍄",
+      "section": "",
+      "order": 31
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 32
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Glass noodles ((mung bean vermicelli))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 33
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Prepared frozen dumplings or wontons",
+      "emoji": "🥄",
+      "section": "",
+      "order": 34
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chinese rice cakes",
+      "emoji": "🍚",
+      "section": "",
+      "order": 35
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Bok choy ((or choy sum))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 36
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Green leaf lettuce",
+      "emoji": "🥬",
+      "section": "",
+      "order": 37
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Napa cabbage",
+      "emoji": "🥬",
+      "section": "",
+      "order": 38
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "For the soup base:"
+    },
+    {
+      "order": 2,
+      "instruction": "In a wok over medium heat, add the oil and the ginger. Cook the ginger for about a minute until caramelized, making sure it doesn't burn. Add the bay leaves, whole garlic cloves, cinnamon stick, star anise, and cloves. Cook for another 2 minutes, until very fragrant."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the Sichuan peppercorns, dried chilies (whole), and the spicy hot pot soup base. Cook for another 2 minutes, and then add the chicken stock. Bring to a boil and transfer to the pot you'll be using for your hot pot meal. You want the pot to be relatively wide and at least 6 inches deep."
+    },
+    {
+      "order": 4,
+      "instruction": "To make the dipping sauce, simply combine whatever mix of ingredients you like."
+    },
+    {
+      "order": 5,
+      "instruction": "To assemble the hotpot, simply plug in your hot plate, place the prepared pot of broth on top, and bring to a low boil or simmer. Place all of your prepared ingredients around it, have everyone mix up their own dipping sauces, and dive in. Each person just takes whatever they want, adds it to the pot, waits for it to cook, and then dips it into their sauce. As the water evaporates as you're cooking, add boiling water to the pot as needed. You can also serve rice with hot pot (we do), but it's not mandatory."
+    }
+  ]
+}

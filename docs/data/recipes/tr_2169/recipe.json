@@ -1,0 +1,113 @@
+{
+  "id": "tr_2169",
+  "title": "Cured Pork Belly with Leeks",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/12/cured-pork-stir-fry-7-1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pork-belly-stir-fry-with-leeks/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "cured pork belly"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 5.0,
+    "carbs": 14.0,
+    "fat": 24.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5 oz. cured pork belly ((thinly sliced))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  of a red bell pepper ((thinly sliced))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 oz. leeks ((washed and cut on an angle into 1” pieces))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine ((or dry sherry))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste; though you might not need it))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil in a wok over low heat. Add the pork belly and cook just until the fat is translucent (don’t cook it for too long, or it will become tough). Add the red bell pepper and turn the heat up to medium."
+    },
+    {
+      "order": 2,
+      "instruction": "After stir-frying for about 30 seconds, turn the heat all the way up to high and toss in the leeks, along with the Shaoxing wine, white pepper, sesame oil, sugar and light soy sauce. Continue to stir-fry until the leeks are wilted. Serve!"
+    }
+  ]
+}

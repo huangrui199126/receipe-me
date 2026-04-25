@@ -1,0 +1,129 @@
+{
+  "id": "tr_2312",
+  "title": "Red Cooked Pork (Hong Shao Rou): Grandma’s Version",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/08/hong-shao-rou-red-cooked-pork.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/red-cooked-pork-hong-shao-rou-grandmas-version/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 120,
+  "tags": [
+    "red cooked pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 slabs pork belly ((cut into 1 ½ inch thick pieces; totaling about 1 ½ -2 pounds, or about 700-900g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-5  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "sugar ((rock sugar is preferred))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water ((plus more, if needed))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 package tofu puffs",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by cutting up your pork belly."
+    },
+    {
+      "order": 2,
+      "instruction": "Then fill a pot with cold water and submerge your eggs. Put the pot on the stove and gently bring it to a boil. Once it’s boiling, boil the eggs for 5 minutes. Take them out and put them into a bowl of ice water to cool for 5 minutes before peeling."
+    },
+    {
+      "order": 3,
+      "instruction": "After that’s done, boil some more water in a large pot. Add the pork to the boiling water and blanch for about 3 minutes to get rid of excess fat and other impurities. Drain and rinse the meat."
+    },
+    {
+      "order": 4,
+      "instruction": "Make sure your wok is clean and dry. Over medium low heat, add about 3 tablespoons of sugar to the dry wok (no oil) and toss the sugar around. You’ll see it start to turn an amber color. Let it melt until it becomes almost a syrup."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the meat to the pan in 1 layer (still no oil necessary). Let the meat brown on all sides, about 10 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Then add ½ cup shaoxing wine, 2 tablespoons dark soy sauce, 2 tablespoons regular soy sauce and a cup of water. Stir."
+    },
+    {
+      "order": 7,
+      "instruction": "Cover the wok and simmer over medium-low heat for 1 hour. Check it periodically to make sure that it’s not too dry, adding a little water when necessary."
+    },
+    {
+      "order": 8,
+      "instruction": "By then, your eggs should be cooled off. Peel them and score them lengthwise to let the sauce into the crevices of each hard-boiled egg. Add them to the pan and gently coat them in the sauce, being careful not to break them up. Simmer for another 15 minutes (add water if needed) and then take the eggs out of the pan. Taste the sauce at this point for salt. If it needs a little more, add a dash of soy sauce 1 teaspoon at a time, until it’s right. We found that you didn’t need much more beyond the initial 2 tablespoons, but use your own judgment."
+    },
+    {
+      "order": 9,
+      "instruction": "Then add your tofu and stir in gently. Simmer for another 20 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Give everything another stir and add your eggs back in."
+    }
+  ]
+}

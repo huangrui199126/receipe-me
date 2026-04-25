@@ -1,0 +1,89 @@
+{
+  "id": "tr_2205",
+  "title": "Tiger Skin Peppers",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/01/tiger-skin-peppers-9-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/tiger-skin-peppers/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "tiger skin peppers"
+  ],
+  "nutrition": {
+    "calories": 133,
+    "protein": 0.0,
+    "carbs": 10.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  long hot green peppers ((de-seeded and cut in half))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "warm water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "Chinese black rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "sea salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "peanut or avocado oil ((any oil with a high smoking point and light flavor))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by preparing your peppers be de-seeding them. Be sure not to touch your face or eyes before washing your hands thoroughly with soap and warm water. Once de-seeded, cut the peppers in half."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the water, sugar, vinegar, and a pinch of salt in a bowl and set aside. Heat the wok over medium heat and spread the oil around the perimeter of the wok. The oil should be hot but not smoking. Add the peppers to the wok and spread them around evenly so they are all in contact with the wok surface."
+    },
+    {
+      "order": 3,
+      "instruction": "After about 1 minute, start tossing the peppers with your spatula, making sure the peppers cook evenly. You know the wok is the right temperature if you gently press a pepper to the wok and you feel it searing and trying to bounce back. Turn the temperature down if the peppers look like they are starting to burn. Continue tossing and turning the peppers for another 5 minutes to make sure all sides get a nice \"tiger skin\" sear."
+    },
+    {
+      "order": 4,
+      "instruction": "Once the peppers have that uniform \"tiger skin\" look, turn the heat up to medium high and add in the vinegar mixture. Stir fry for about 30 seconds until the sauce is reduced slightly. Serve with a sprinkling of sea salt."
+    }
+  ]
+}

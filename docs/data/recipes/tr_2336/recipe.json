@@ -1,0 +1,117 @@
+{
+  "id": "tr_2336",
+  "title": "40 Garlic Chicken with an Asian Twist",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/06/40-garlic-chicken-11.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/40-garlic-chicken-with-an-asian-twist/",
+  "servings": 8,
+  "prepTime": 5,
+  "cookTime": 55,
+  "tags": [
+    "40 garlic chicken"
+  ],
+  "nutrition": {
+    "calories": 421,
+    "protein": 30.0,
+    "carbs": 6.0,
+    "fat": 29.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "lbs",
+      "name": "chicken pieces ((bone-in, skin-on chicken breasts, thighs, or legs))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "40",
+      "unit": "cloves",
+      "name": "garlic ((peeled))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "shaoxing wine ((60 ml))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "dry vermouth ((60 ml))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "chicken stock ((160 ml))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "small handful of cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a cast iron skillet or Dutch oven over medium high heat. Rinse the chicken, pat dry, and season with salt and pepper. Brown the chicken on each side until crisp. Preheat your oven to 350° F."
+    },
+    {
+      "order": 2,
+      "instruction": "Transfer the chicken to a deep roasting pan or baking dish and set aside. Add the garlic cloves and ginger to the pan where you cooked the chicken; cook until caramelized, about 8 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the soy sauce, Shaoxing wine, and vermouth, and cook for another 2 minutes, deglazing the pan as you go. Add the chicken stock and bring to a boil. Pour over the chicken and transfer to the oven. Roast for 25-30 minutes, and garnish with cilantro."
+    }
+  ]
+}

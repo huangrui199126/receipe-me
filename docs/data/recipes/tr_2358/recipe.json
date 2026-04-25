@@ -1,0 +1,145 @@
+{
+  "id": "tr_2358",
+  "title": "Eggplant \"Unagi\"",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/07/eggplant-unagidon-9.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/eggplant-unagi/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 25,
+  "tags": [
+    "eggplant unagi"
+  ],
+  "nutrition": {
+    "calories": 209,
+    "protein": 3.0,
+    "carbs": 20.0,
+    "fat": 15.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "Japanese or Chinese eggplant ((about 2-3 eggplants))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "mirin",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4 - 1/2 teaspoon sugar ((to taste))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "steamed rice ((for serving))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Peel the eggplants, and slice them in half crosswise, so you have thick pieces that are about 6 inches (15 cm) long. Place the pieces in a heatproof dish."
+    },
+    {
+      "order": 2,
+      "instruction": "Boil water in your steamer (or your wok with a bamboo steamer, or even just a pan with a steamer rack and lid. Read more about how to set up a steamer). Steam the eggplant over medium heat for 16-18 minutes, until a knife pierces through the eggplant easily."
+    },
+    {
+      "order": 3,
+      "instruction": "After they’ve been steamed and are cool enough to handle, slice the steamed eggplants in half lengthwise, but not all the way through! Open each piece up like a book. Use two forks to open up the flesh of the eggplant even more. This creates more surface area for the sauce you’ll braise it in later."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat 2 tablespoons of oil in a nonstick skillet over medium high heat. Pan-fry the eggplant on both sides until golden brown on each side. (If you need additional oil, you can add 1 more tablespoon)."
+    },
+    {
+      "order": 5,
+      "instruction": "Meanwhile, combine the light soy sauce, mirin, water, dark soy sauce, oyster sauce, fish sauce, and sugar in a small bowl."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour the sauce mixture into the eggplant, and simmer until reduced by half. Run each piece of eggplant through the sticky sauce before placing onto a bed of steamed rice. Top with sesame seeds and scallions. Serve."
+    }
+  ]
+}

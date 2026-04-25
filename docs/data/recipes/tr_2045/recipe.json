@@ -1,0 +1,141 @@
+{
+  "id": "tr_2045",
+  "title": "Ma Lai Go Chinese Steamed Cake",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/01/ma-lai-go-18.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/ma-lai-go-chinese-steamed-cake/",
+  "servings": 8,
+  "prepTime": 60,
+  "cookTime": 35,
+  "tags": [
+    "ma lai go"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5.0,
+    "carbs": 36.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs (at room temperature)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "vegetable oil ((60 ml))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "¾",
+      "unit": "cup",
+      "name": "lightly packed dark brown sugar ((120 g))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1½",
+      "unit": "teaspoons",
+      "name": "vanilla extract ((8 ml))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "⅓",
+      "unit": "cup",
+      "name": "evaporated milk ((80 ml, at room temp))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1½",
+      "unit": "tablespoons",
+      "name": "vanilla pudding mix / custard powder ((18 g - we used Bird’s Custard Powder))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cake flour ((120 g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "⅛",
+      "unit": "teaspoon",
+      "name": "salt ((1 g))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3½",
+      "unit": "teaspoons",
+      "name": "baking powder ((14 g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "softened butter or vegetable shortening for greasing cake pan, if using ((5 g))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A dusting of all purpose flour for cake pan (if using)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add 3 large eggs, ¼ cup vegetable oil, and ¾ cup lightly packed dark brown sugar to a mixing bowl. Use an electric mixer, and beat on high for 5 minutes until well-combined and fluffy."
+    },
+    {
+      "order": 2,
+      "instruction": "Scrape the bottom of the bowl and add 1½ teaspoons vanilla extract, ⅓ cup evaporated milk, and 1½ tablespoons custard powder. Beat for 1 minute."
+    },
+    {
+      "order": 3,
+      "instruction": "Sift 1 cup cake flour, ⅛ teaspoon salt, and 3½ teaspoons baking powder. Fold into the batter gently until incorporated. Try to break up any large lumps, but don’t overwork the batter––some smaller lumps are okay!"
+    },
+    {
+      "order": 4,
+      "instruction": "Let the batter sit for 30 minutes. The dry ingredients absorb, and the baking powder has a chance to do its thing. While the batter is resting, line a 9 inch bamboo steamer basket with parchment paper. You can also use a 9 inch cake pan greased with vegetable shortening or butter and lightly coated with all-purpose flour. Lightly buttering and flouring the metal cake pan is important step, even if it is non-stick!"
+    },
+    {
+      "order": 5,
+      "instruction": "Gently stir the batter again in a folding motion—just enough to ensure the batter is mixed uniformly, but not too much since air pockets have already started to form in the batter. You will also see that the batter has thickened and most lumps have disappeared."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour the batter into the bamboo steamer basket lined with parchment paper or your prepared cake pan. Let the batter sit and settle for another 10 minutes while you heat up your steamer."
+    },
+    {
+      "order": 7,
+      "instruction": "Place the Ma Lai Go into your steamer setup of choice, and steam on medium high heat—for 30 minutes if using a bamboo steamer, and 35 minutes if using a metal cake pan. To find out if the cake is done, insert a toothpick in the center of the cake. If it come out clean, then it’s done. Transfer to a baking rack and slice once cooled slightly."
+    }
+  ]
+}

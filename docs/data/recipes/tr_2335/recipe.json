@@ -1,0 +1,141 @@
+{
+  "id": "tr_2335",
+  "title": "Easy Oven-Baked Asian Dry Rub Chicken",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/03/baked-chicken-thighs-8.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/easy-asian-dry-rub-chicken/",
+  "servings": 6,
+  "prepTime": 720,
+  "cookTime": 30,
+  "tags": [
+    "asian dry rub chicken"
+  ],
+  "nutrition": {
+    "calories": 255,
+    "protein": 18.0,
+    "carbs": 2.0,
+    "fat": 19.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "ground Sichuan peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 ½",
+      "unit": "teaspoons",
+      "name": "galangal powder ((or sand ginger powder))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ginger powder",
+      "emoji": "🫚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  bone-in skin-on chicken thighs ((trimmed of excess fat))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine all the spices to make the dry rub. There is enough dry rub to make 12 chicken thighs, so you can either save half of the dry rub for another time, or double the amount of chicken used."
+    },
+    {
+      "order": 2,
+      "instruction": "Rinse the chicken and pat dry with a paper towel. Use half of the dry rub for 6 chicken thighs, ensuring you get an even coating of spices all over the chicken. Cover with plastic wrap and marinate in the refrigerator overnight (or at least 6 hours)."
+    },
+    {
+      "order": 3,
+      "instruction": "After the chicken is done marinating, preheat the oven to 400 degrees F. Transfer the chicken to a cast iron skillet or baking dish and roast for 15 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Use a spoon or brush to baste the chicken with any drippings at the bottom of the skillet/baking dish."
+    },
+    {
+      "order": 5,
+      "instruction": "Feel free to remove the chicken from the oven to baste. When you're done, return the chicken to the oven for another 10 to 15 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "After 10-15 minutes, use a meat thermometer to check that the internal temperature near the bone is 165 degrees Fahrenheit. When the chicken is done, baste it one more time with the drippings, and garnish with scallions."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve your oven baked dry rub chicken with rice and your choice of vegetable to complete the meal!"
+    }
+  ]
+}

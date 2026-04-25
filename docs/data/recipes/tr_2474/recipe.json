@@ -1,0 +1,103 @@
+{
+  "id": "tr_2474",
+  "title": "Chinese Walnut Cookies",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/07/walnut-cookies-14.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-walnut-cookies/",
+  "servings": 6,
+  "prepTime": 45,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 461,
+    "protein": 8.0,
+    "carbs": 49.0,
+    "fat": 27.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cake flour ((270 g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "baking soda ((3 g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "baking powder ((2 g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "8",
+      "unit": "tablespoons",
+      "name": "butter or lard",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sugar ((115 g))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt ((1 g))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg ((beaten and divided; the egg I used weighed about 62 g with shell on))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "finely chopped toasted walnuts, plus 12 raw walnut halves ((75 g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sift the cake flour, baking soda and baking powder together and set aside. Mix the butter, sugar, and salt in a large mixing bowl, stir thoroughly until the mixture is creamed. Now add the flour mixture to the butter mixture along with the finely chopped walnuts. Beat the egg, put aside 2 teaspoons of the beaten egg and add the rest to the dough mixture. Work the mixture into a dough ball. You can do this by hand or with an electric mixer. Just note that the dough might be lightly crumbly, but it should come together when you take the time and work it into a ball."
+    },
+    {
+      "order": 2,
+      "instruction": "Line a baking sheet with parchment paper. On a clean surface, divide the dough into 12 equal pieces and roll each into a ball, position them on the baking sheet a couple inches apart. All of the cookies should fit onto one pan."
+    },
+    {
+      "order": 3,
+      "instruction": "Take the walnut halves and gently press one into each cookie. Let the cookies rest for 15 to 20 minutes while covered with a clean kitchen towel."
+    },
+    {
+      "order": 4,
+      "instruction": "While that’s happening, preheat the oven to 350 degrees F. Once the dough is done resting, brush each with the beaten egg that you put aside and then bake for 20 minutes. Turn off the oven and let the cookies sit inside the oven for another 5 minutes before taking them out. Let cool and enjoy!"
+    }
+  ]
+}

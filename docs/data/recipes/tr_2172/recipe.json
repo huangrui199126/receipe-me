@@ -1,0 +1,133 @@
+{
+  "id": "tr_2172",
+  "title": "Sichuan Napa Cabbage Stir-fry (Suan La Bai Cai)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/11/cabbage-stir-fry-9-1.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/hot-sour-cabbage-stir-fry/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 5,
+  "tags": [
+    "sichuan napa cabbage"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 2.0,
+    "carbs": 9.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tablespoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "canola oil ((or vegetable oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((smashed and chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-6  dried red chilies ((deseeded and chopped))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "napa cabbage ((450g, bai cai, stems only, sliced at an angle))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by making the sauce by mixing together all the sauce ingredients until the sugar is dissolved. In another small bowl, dissolve the cornstarch in 1 tablespoon water to make a slurry. Set aside. (Remember, cornstarch settles quickly, so remember to stir the slurry again before adding it to the dish later)."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat the oil in a wok over medium low heat. Add the garlic, chilies, and scallions, and cook for 1 minute. Add the cabbage and turn up the heat to high. Stir-fry for 2 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Now add the prepared sauce and cook for another minute. Season with salt to taste (though you may not need it, as the soy sauce is pretty salty). Stir in the cornstarch slurry and stir-fry for one more minute, until the sauce is thickened. Serve with steamed rice."
+    }
+  ]
+}

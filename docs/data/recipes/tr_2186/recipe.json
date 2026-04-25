@@ -1,0 +1,157 @@
+{
+  "id": "tr_2186",
+  "title": "Fried Pork Chops with an Asian Twist",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/06/fried-pork-chops-2-1.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/fried-pork-chops/",
+  "servings": 4,
+  "prepTime": 75,
+  "cookTime": 15,
+  "tags": [
+    "fried pork chops"
+  ],
+  "nutrition": {
+    "calories": 506,
+    "protein": 33.0,
+    "carbs": 30.0,
+    "fat": 27.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  pork shoulder chops ((about 3/4 inch thick, washed and pat dry))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "oil ((for frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "granulated garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "fresh ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "fresh ground black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place pork chops in a bowl, add all of the marinade ingredients, and mix well. The cornstarch should provide some body to the marinating liquid so the flavors stick to the chops. Set aside for at least 1 hour."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat the oil in a large cast iron pan to 350 degrees F. Make the dredge by combining the flour, pepper (both kinds), and salt in a shallow bowl. Dredge each pork chop with the flour mixture."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the pork chops in the oil 2 at a time to fry for about 4 minutes on each side or until crispy and golden brown. Place on paper towels to drain. Serve with greens and iced tea!"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "tr_2055",
+  "title": "Su-Style Red Bean Mooncakes (苏式月饼)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/09/red-bean-mooncakes-24.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/red-bean-mooncakes-su-style/",
+  "servings": 24,
+  "prepTime": 180,
+  "cookTime": 30,
+  "tags": [
+    "red bean mooncakes"
+  ],
+  "nutrition": {
+    "calories": 203,
+    "protein": 5.0,
+    "carbs": 46.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 recipe sweet red bean paste filling",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "all-purpose flour ((415g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "sugar ((20g))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "¾",
+      "unit": "cup",
+      "name": "lard ((160g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "lukewarm water ((250 ml, about 140 degrees F /60 degrees C))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cake flour ((265g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "⅔",
+      "unit": "cup",
+      "name": "lard ((140g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by making the red bean paste. You can either follow our instant pot red bean paste recipe, or our stovetop version."
+    },
+    {
+      "order": 2,
+      "instruction": "Then make the soft dough. In a large mixing bowl, mix together 3 cups of flour and 2 tablespoons sugar. Form a well in the flour, and add ¾ cup of lard. Slowly add 1 cup of lukewarm water in 3-4 batches, mixing with a rubber spatula. Keep folding the lard into the flour with a spatula to form a smooth dough ball. Cover with clear plastic wrap and let it rest in the refrigerator for 30 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "To make the pastry dough, combine 2 cups of cake flour with ⅔ cup lard. Knead and form the dough ball. Cover with clear plastic wrap, and chill in the fridge for 30 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "To assemble the mooncakes: after both kinds of dough have chilled for 30 minutes, take them out and weigh each ball. Take the total weight of both balls of dough (we’ll be combining them), and divide it by the number of balls of red bean paste filling that you have (you will have made these balls of filling when following the recipe for the filling). This will give you the amount of dough needed for each mooncake. I needed 55 grams of dough to make 1 mooncake."
+    },
+    {
+      "order": 5,
+      "instruction": "Now transfer the soft dough onto a clean and lightly-floured flat surface. Divide the soft dough as well as the pastry dough into two equal portions, and do the next step in two batches, especially if you don’t have a large surface."
+    },
+    {
+      "order": 6,
+      "instruction": "On a floured surface, press the soft dough into a large disc, and add the pastry dough in the middle. Close all sides to form a large ball. Remember to keep flouring the work surface as needed to prevent it from sticking. With a rolling pin, roll it into a rectangle shape about ¼-inch thick. Then fold the rectangle shape into a tri-fold. Roll it out again into a rectangle shape that’s about ⅛-inch thick. Roll up the sheet on the long-side into a tube and do your best to roll it tight. Now cut the tube into cylinders, each weighing as much as you calculated with the help of a kitchen scale."
+    },
+    {
+      "order": 7,
+      "instruction": "Now take one dough segment and stand it upright so that the swirls are facing up, and press it flat. With a rolling pin, roll the dough into a 4-inch disc (it should be slightly thinner around the outer edges and thicker in the middle). Add a ball of sweet red bean paste filling in the center, then close all the sides until it’s sealed tight and no filling is visible. Put the seam side down, gently flattening the ball into a round disc that’s 1-inch thick. Place it on a baking sheet lined with parchment paper, seam side down, with at least an inch of space on all sides. Repeat until you’ve made all the mooncakes. At this point, you can also stamp the mooncakes with a design using 10 drops of red food coloring mixed with ⅛ teaspoon water. Simply dip your stamp (or a star anise pod) into the \"ink,\" shake off any excess, and stamp the center of the mooncakes)."
+    },
+    {
+      "order": 8,
+      "instruction": "Preheat the oven to 375 degrees F, with a rack positioned in the middle of the oven. Bake the mooncakes for 15 minutes. Then carefully flip each mooncake, return to the oven, and bake for another 15 minutes. Cool before handling, and eat them with care, as they’re very flaky and crumbly!"
+    }
+  ]
+}

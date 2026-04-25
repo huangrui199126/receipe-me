@@ -1,0 +1,157 @@
+{
+  "id": "tr_2384",
+  "title": "Pork Sung Buns",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2016/03/pork-sung-bun-3.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/pork-sung-buns/",
+  "servings": 12,
+  "prepTime": 180,
+  "cookTime": 15,
+  "tags": [
+    "pork sung buns"
+  ],
+  "nutrition": {
+    "calories": 319,
+    "protein": 11.0,
+    "carbs": 41.0,
+    "fat": 12.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "heavy cream ((160 ml, at room temperature))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk ((235 ml, at room temperature))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg ((at room temperature))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "sugar ((70g))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cake flour ((70g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "cups",
+      "name": "bread flour ((500g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "active dry yeast ((11g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "mayonnaise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "pork sung ((also called pork floss, 115g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions ((washed, dried, and finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Egg wash ((whisk together 1 egg with 1 teaspoon water))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sugar ((dissolved in 2 teaspoons hot water to make a simple syrup))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In the bowl of a mixer, add the heavy cream, milk, egg, sugar, cake flour, bread flour, yeast, and salt (add everything to the mixer in that order). Using the dough hook attachment, turn on the mixer to “stir.” Let it go for 15 minutes, occasionally stopping the mixer to push the dough together."
+    },
+    {
+      "order": 2,
+      "instruction": "After 15 minutes, the dough is ready for proofing. Cover the bowl with a damp towel and place in a warm spot for 1 hour. The dough will grow to 1.5X its original size. Check out our original milk bread recipe for photos of this process!"
+    },
+    {
+      "order": 3,
+      "instruction": "After the hour of proofing, put the dough back in the mixer and stir for another 5 minutes to get rid of air bubbles. Dump the dough on a lightly floured surface and cut into 12 equal pieces. Cover the dough pieces with a dry cloth while assembling the buns."
+    },
+    {
+      "order": 4,
+      "instruction": "Take each piece of dough and roll it out into a rough 4x6\" rectangle. Spread a very thin layer of mayonnaise onto the dough, and then sprinkle with pork sung and chopped scallion. Roll it up lengthwise into a tight cigar shape. Cut the cigar in half lengthwise, with about an inch on one end still attached, so that the piece of dough almost looks like a pair of pants. Twist the dough together, with the cut sides facing up, and tuck the ends underneath the bun. Transfer to a parchment-lined baking sheet, and sprinkle with sesame seeds. Repeat the process until all the buns are assembled."
+    },
+    {
+      "order": 5,
+      "instruction": "Cover the buns with a clean, dry kitchen towel, and allow to rise for another hour. Preheat the oven to 350 degrees F. Before baking, brush each bun with egg wash. Bake for 13 - 15 minutes, until golden brown. After baking, remove the buns from the oven and immediately brush each bun lightly with simple syrup. This is what gives these pork sung buns their signature shine!"
+    }
+  ]
+}

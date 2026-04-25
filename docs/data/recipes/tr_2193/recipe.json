@@ -1,0 +1,173 @@
+{
+  "id": "tr_2193",
+  "title": "Vegetable Noodles With Shrimp",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/04/glass-noodles-shrimp-8-1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/vegetable-noodles-with-shrimp/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 25,
+  "tags": [
+    "vegetable noodles"
+  ],
+  "nutrition": {
+    "calories": 421,
+    "protein": 33.0,
+    "carbs": 58.0,
+    "fat": 7.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion ((diced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "dried shrimp ((soaked, optional))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. dried broad bean noodles ((soaked 30 minutes))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium zucchini ((sliced into noodles))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large carrot ((sliced into noodles))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 oz. large shrimp ((peeled and deveined))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((julienned))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cilantro ((to garnish, optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prep all of your ingredients and have them ready before you start cooking. Heat a wok over medium high heat and add the oil, onion, garlic, and dried shrimp. Stir-fry until the onion is translucent. Add the shaoxing wine and stir-fry for another 30 seconds. Add the chicken stock, salt, sugar and broad bean noodles. Turn down heat to low and let everything simmer for about 10 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the zucchini and carrot “noodles,\" along with the soy sauce, sesame oil and white pepper. Turn the heat up to medium and cook for another 5 to 10 minutes, reducing almost all of the liquid. If you like your noodles a bit more soupy, you can add more chicken stock."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir in the shrimp and scallions and cook for another 2 minutes, or until the shrimp is just cooked through. Garnish with cilantro and serve!"
+    }
+  ]
+}

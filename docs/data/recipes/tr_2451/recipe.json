@@ -1,0 +1,182 @@
+{
+  "id": "tr_2451",
+  "title": "Beef and Pepper Stir-fry",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/03/beef-pepper-stir-fry-6-1.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/beef-and-pepper-stir-fry/",
+  "servings": 4,
+  "prepTime": 35,
+  "cookTime": 10,
+  "tags": [
+    "beef and hot pepper",
+    "beef and pepper stir-fry"
+  ],
+  "nutrition": {
+    "calories": 249,
+    "protein": 20.0,
+    "carbs": 11.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "flank steak ((sliced into thin strips))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "baking soda ((optional tenderizer))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  long hot green peppers ((de-seeded and julienned into 3-inch/8cm strips))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  long hot red pepper ((de-seeded and julienned into 3-inch/8cm strips))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "chicken stock ((optional))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add all the marinade ingredients to the beef in a bowl, mix well, and set aside for 30 minutes at room temperature."
+    },
+    {
+      "order": 2,
+      "instruction": "When you&#39;re ready to cook, place a wok over high heat until it&#39;s almost smoking, then add the oil. Sear the beef until it&#39;s just browned but still a little rare. Turn off the heat while you transfer the beef to a separate bowl. Leave any oil/fat in the wok."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat the wok back up over medium-high heat and add the garlic and peppers. Stir-fry for 20 seconds, then spread the Shaoxing wine around the wok to de-glaze it."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir-fry for another 20 seconds and add the beef back to the wok along with any juices from the bowl. Add salt, sugar, light soy sauce, dark soy sauce, and white pepper. Turn the heat back up to high and stir-fry for another 1 to 2 minutes, or until the peppers turn darker."
+    },
+    {
+      "order": 5,
+      "instruction": "If you like more sauce, add the chicken stock to further de-glaze the wok and reduce the liquid slightly. The cornstarch from the marinade will help thicken the sauce. Plate and serve immediately with rice."
+    }
+  ]
+}

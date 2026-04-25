@@ -1,0 +1,125 @@
+{
+  "id": "tr_2281",
+  "title": "Stir Fried Fava Beans with Szechuan Peppercorns",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2013/07/fava-beans-szechuan-peppercorns.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/fava-beans-with-szechuan-peppercorns/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "fava beans"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 9.0,
+    "carbs": 25.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "fresh fava beans ((or frozen ones, defrosted; 450g))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Sichuan peppercorns ((aka Szechuan peppercorns))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "scallions ((finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  dried chilis",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((finely chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt ((or to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in wok over medium-high heat. Add garlic, Sichuan peppercorn, dried chili, and half of the chopped scallion. Cook for a minute, stirring vigorously to make sure nothing burns."
+    },
+    {
+      "order": 2,
+      "instruction": "Add fava beans and stir fry for about 2 minutes. Add salt, white pepper, sesame oil, shaoxing wine and 2 tablespoons water and stir fry until the beans are cooked through and soft."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir in the remaining scallion, plate and serve."
+    }
+  ]
+}

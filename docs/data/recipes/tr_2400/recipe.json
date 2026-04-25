@@ -1,0 +1,113 @@
+{
+  "id": "tr_2400",
+  "title": "Ong Choy with XO sauce",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/05/water-spinach-12.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/ong-choy-xo-sauce/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 5,
+  "tags": [
+    "water spinach"
+  ],
+  "nutrition": {
+    "calories": 187,
+    "protein": 3.0,
+    "carbs": 6.0,
+    "fat": 18.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "fresh Ong Choy ((water spinach))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "canola or vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-6  thin slices of ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic ((sliced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "XO sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "⅛",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare the Ong Choy by first cutting off the larger, tough bottoms of the stems. You want to leave the more tender parts of the stems, because part of the experience of eating water spinach is the hollow stems, which complement the tender leaves, giving a nice overall crunchy texture."
+    },
+    {
+      "order": 2,
+      "instruction": "We like to wash our veggies thoroughly (3 times), and after the last rinse, we give everything a good shake in a large colander to drain the excess water. See our Chinese leafy green vegetables page for a complete description, and tips on how we like to wash our veggies!"
+    },
+    {
+      "order": 3,
+      "instruction": "Heat your wok over high heat, and add the oil and ginger. Stir for about 10 seconds to let the ginger infuse the oil, and then add the garlic and the XO sauce."
+    },
+    {
+      "order": 4,
+      "instruction": "Give the mixture a quick stir--your wok should be close to smoking now, and add the Ong Choy, immediately moving the vegetables around with your spatula. The vegetables should cool the wok a bit, but it is important to stir the vegetables right away, and use a folding motion with your spatula to mix the oil and sauce evenly in with the vegetables."
+    },
+    {
+      "order": 5,
+      "instruction": "If the vegetables get too tightly tangled into a ball, just use your wok spatula to spread the vegetables out in an even layer so each piece gets its fair share of oil and sauce. Season with sugar and salt."
+    },
+    {
+      "order": 6,
+      "instruction": "After about a minute of stir frying, your vegetables should be coated evenly with the oil and sauce. Next, move the vegetables into a mound in the middle of the wok, keeping the heat on high. This technique is to allow the sides of the wok to super heat, so you can get that elusive “wok hay” signature flavor you taste at your favorite Chinese restaurants."
+    },
+    {
+      "order": 7,
+      "instruction": "After about 30 seconds of high heat, there should be some liquid building up at the bottom of the wok--this actually protects your vegetables from burning and produces some steam to help the vegetables cook nicely. Next, use your wok spatula to spread your vegetable mound in a circular motion around the wok to get that searing “wok hay” effect for another 15-30 seconds. An essential technique is to turn your wok spatula upside down when spreading the water spinach around the side of the wok to get that sear."
+    },
+    {
+      "order": 8,
+      "instruction": "Plate and serve immediately. If you’re feeling generous, add a bit more XO sauce on top for extra flavor and garnish."
+    }
+  ]
+}

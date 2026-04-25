@@ -1,0 +1,153 @@
+{
+  "id": "tr_2425",
+  "title": "Steamed Money Bag Dumplings",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/01/money-bag-dumplings-23.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/money-bag-dumplings/",
+  "servings": 4,
+  "prepTime": 120,
+  "cookTime": 15,
+  "tags": [
+    "money bag dumplings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "ounces",
+      "name": "dried shiitake mushrooms ((soaked overnight or in hot water for at least 2 hours until rehydrated; save the soaking water))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "ginger ((minced))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "carrot ((finely diced))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "bamboo shoots ((finely diced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vegetarian oyster sauce ((or regular oyster sauce, if the dish doesn’t have to be vegetarian))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "scallions ((mostly green parts, finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "16  cilantro stems ((each about 5 inches/13 cm long; substitutions include young scallions, chives, and garlic chives))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "16  Hong-Kong-Style yellow dumpling wrappers ((substitutions: tofu skin, soaked tofu sheets, blanched yellow napa cabbage leaves) )",
+      "emoji": "🥬",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Take your rehydrated shiitake mushrooms, squeeze out excess water, and trim away any tough stems. Finely dice them, and set aside. Also prepare the minced ginger, carrots, and bamboo shoots"
+    },
+    {
+      "order": 2,
+      "instruction": "Heat your wok over medium low heat, and add the oil. Cook the ginger and carrots for about 1 minute. Add the mushrooms and bamboo shoots, increase the heat to medium, and stir-fry for 2-3 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the Shaoxing wine, light soy sauce, and vegetarian oyster sauce. Stir to combine, and cook the mixture until the mushrooms are tender and there is no standing liquid. Stir in the scallions, remove from the wok, and cool completely."
+    },
+    {
+      "order": 4,
+      "instruction": "Meanwhile, make the ties for your money bags. Bring a medium pot of water to a boil, and prepare a medium bowl of cold/ice water. Blanch the cilantro stems for 5-10 seconds, and immediately shock them in cold water to stop the cooking process. Drain, and gently squeeze them dry, being careful to keep the stems intact."
+    },
+    {
+      "order": 5,
+      "instruction": "Open the package of dumpling wrappers, and cover with a damp towel to make sure they don’t dry out. Roll each wrapper out so it is about 4 inches (10 cm) in diameter. Add a tablespoon of filling to the middle, ensuring there is enough slack to tie the money bags."
+    },
+    {
+      "order": 6,
+      "instruction": "Gently close the wrapper over the filling pinching the bundle together but leaving the top of the bag fanned out. Use one of the cilantro “strings” to tie it closed."
+    },
+    {
+      "order": 7,
+      "instruction": "Repeat until all of the filling is used. Now you’re ready to steam. A bamboo steamer works best here, as it allows steam to escape and won’t cause excess condensation to make your money bag dumplings soggy (which can happen with glass or metal steamer lids."
+    },
+    {
+      "order": 8,
+      "instruction": "Line the bamboo steamer with parchment, cabbage leaves, or cheesecloth to prevent them from sticking. Arrange the dumplings in the steamer, about 1 inch apart."
+    },
+    {
+      "order": 9,
+      "instruction": "Set the steamer in a clean wok of boiling water (read our post on how to use a bamboo steamer), and steam for 3 minutes. You can also pan-fry these, following the same process we use for our Japanese gyoza."
+    },
+    {
+      "order": 10,
+      "instruction": "If using tofu sheets, tofu skins or napa cabbage as wrappers, increase the steaming time to about 15 minutes."
+    }
+  ]
+}

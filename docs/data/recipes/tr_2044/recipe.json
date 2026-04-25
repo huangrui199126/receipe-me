@@ -1,0 +1,157 @@
+{
+  "id": "tr_2044",
+  "title": "Cumin Potatoes",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2019/02/cumin-potatoes-10.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/cumin-potatoes-vegan-vegetarian/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 35,
+  "tags": [
+    "cumin potatoes"
+  ],
+  "nutrition": {
+    "calories": 188,
+    "protein": 4.0,
+    "carbs": 18.0,
+    "fat": 12.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "baby Yukon gold potatoes ((or any other small waxy variety))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cumin seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion ((diced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "A dash of crushed chili flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Boil the potatoes in a pot of water for 15 minutes or until cooked through. When a fork goes through without any resistance, they’re ready."
+    },
+    {
+      "order": 2,
+      "instruction": "Drain and cool slightly before using the flat side of a large knife to lightly flatten them enough so that the skin breaks open, but each potato is still intact. Don’t over-press, or they’ll crumble!"
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 2 tablespoons of oil in a flat-bottomed non-stick pan or cast iron skillet. Lightly brown the potatoes on both sides. You can skip this step if you are short on time. Just know that browning gives the potatoes a more roasted taste and robust flavor."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat the last 1 tablespoon of oil in your wok over medium-high heat. Add 1 teaspoon cumin seeds, 2 cloves minced garlic, and the diced onion. Cook for about a minute, until the onion turns translucent. Next, add the potatoes, 2 teaspoons light soy sauce, ¼ teaspoon sugar, 1 teaspoon cumin powder, 1 tablespoon water, 1 teaspoon sesame oil and a dash of crushed chili flakes to taste."
+    },
+    {
+      "order": 5,
+      "instruction": "Gently stir using a wok spatula to coat the potatoes in the spices. Salt to taste, and add the scallion and cilantro. Gently mix everything well one more time before transferring to a serving dish."
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "tr_2378",
+  "title": "Noodle Soup with Pork and Pickled Greens",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/08/pickled-vegetable-noodle-soup-3-1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/noodle-soup-pork-pickled-greens/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "noodle soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "shredded pork",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "chicken stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-5  dried chilies ((de-seeded and roughly chopped; optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "pickled mustard greens ((find this at any Chinese grocery store))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. noodles ((dried or fresh))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a small bowl, combine the pork, salt, cornstarch, sesame oil, shaoxing wine, and white pepper. Set aside to marinate while preparing other ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring a pot of water to a boil for your noodles, and cook the noodles according to package directions. Drain. In another medium pot, add your chicken stock and bring to a boil. Keep warm on the stove."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat a tablespoon of oil in your wok over high heat and brown the pork. Add the chilies and the pickled vegetables. Stir-fry for a couple minutes, making sure the heat is still high. Add the sugar, give everything a final stir, and turn off the heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Lay the noodles in your serving bowls and ladle in the hot broth. Top with your pork and vegetable mixture, and top each bowl with a few drops of sesame oil and chopped scallion."
+    },
+    {
+      "order": 5,
+      "instruction": "Commence slurping!"
+    }
+  ]
+}

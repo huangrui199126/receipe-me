@@ -1,0 +1,133 @@
+{
+  "id": "tr_2339",
+  "title": "Quick Egg Stir-Fry with Peppers",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2021/03/egg-stir-fry-peppers-16.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/quick-egg-stir-fry-with-peppers/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "egg stir-fry"
+  ],
+  "nutrition": {
+    "calories": 186,
+    "protein": 6.0,
+    "carbs": 5.0,
+    "fat": 15.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  large eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "teaspoons",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4 + 1/8 teaspoon salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "long hot green peppers ((or your choice, de-seeded if desired and cut into bite-sized pieces))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic ((chopped))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Beat the eggs with 1 teaspoon Shaoxing wine, white pepper powder, sesame oil, and ¼ teaspoon salt. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a dry, clean wok over medium heat. Without adding any oil, dry fry the peppers for 3-5 minutes to blister and soften them. Transfer to a dish, and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Increase the heat to high. Add 2 tablespoons of oil to coat the bottom of the wok. Immediately add the egg. Cook until the eggs are solid, yet still soft. Transfer to a dish (separate from the peppers)."
+    },
+    {
+      "order": 4,
+      "instruction": "Reduce the heat to medium. Add the remaining 1 tablespoon of oil to the wok. Cook the garlic for 20 seconds. Stir in the peppers. Immediately add the light soy sauce, 1/8 teaspoon salt, and sugar. Stir and mix well."
+    },
+    {
+      "order": 5,
+      "instruction": "Quickly add the eggs, scallions, and 1 tablespoon Shaoxing wine. Increase the heat to high, and mix everything well. It doesn’t need to cook further at this stage—just stir to incorporate and let the flavors meld. Serve."
+    }
+  ]
+}

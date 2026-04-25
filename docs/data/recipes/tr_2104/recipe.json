@@ -1,0 +1,109 @@
+{
+  "id": "tr_2104",
+  "title": "Chinese Pickled Cucumbers (酱黄瓜)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2017/06/chinese-pickled-cucumbers-7.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-pickled-cucumbers/",
+  "servings": 4,
+  "prepTime": 60,
+  "cookTime": 5,
+  "tags": [
+    "pickled cucumbers"
+  ],
+  "nutrition": {
+    "calories": 58,
+    "protein": 3.0,
+    "carbs": 13.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  English/hothouse cucumbers ((best to use seedless cucumber for this))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "teaspoons",
+      "name": "sugar ((divided))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1½",
+      "unit": "teaspoons",
+      "name": "salt ((divided))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Chinese black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic ((smashed))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  dried chili peppers ((de-seeded, optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse off the cucumbers and wipe them dry. Trim off both ends, and cut each cucumber into 4 equal sections. Cut each section into 6 equal-sized strips. Transfer to a bowl and add ½ teaspoon sugar and 1 teaspoon salt. Toss, cover, and refrigerate for 1 hour."
+    },
+    {
+      "order": 2,
+      "instruction": "At the same time, make the sauce by combining 2 ½ teaspoons sugar, ½ teaspoon salt, 1 tablespoon black vinegar, 2 tablespoons light soy sauce, ¼ teaspoon dark soy sauce, 2 bay leaves, 4 cloves of garlic, and the chili peppers. Stir and make sure the sugar and salt are completed dissolved."
+    },
+    {
+      "order": 3,
+      "instruction": "Once the cucumber has marinated for 1 hour in the fridge, dump out the liquid from the bowl they were sitting in. You should be able to get rid of at least ¼ cup of liquid. Now add the prepared sauce, and mix everything well. Cover and marinate in the refrigerator overnight. The cucumbers should be ready to serve the next morning with a hot bowl of congee!"
+    }
+  ]
+}

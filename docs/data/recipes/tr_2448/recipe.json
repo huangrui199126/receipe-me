@@ -1,0 +1,109 @@
+{
+  "id": "tr_2448",
+  "title": "Spicy Enoki Mushrooms with Garlic",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2022/05/spicy-enoki-mushrooms-7.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/spicy-enoki-mushrooms-garlic/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "spicy enoki mushrooms"
+  ],
+  "nutrition": {
+    "calories": 111,
+    "protein": 8.0,
+    "carbs": 23.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "cloves",
+      "name": "garlic ((minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Thai chili ((chopped))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "neutral oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "14",
+      "unit": "ounces",
+      "name": "fresh enoki mushrooms ((divided into bundles and washed))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "garlic chives ((cut into 2-inch/5cm lengths))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Put the garlic and Thai chili in a small heatproof bowl. Heat the oil in a medium skillet over medium-high heat until shimmering. Pour the hot oil over the garlic and chili—it will sizzle. Then add the oyster sauce, light soy sauce, dark soy sauce, and sugar."
+    },
+    {
+      "order": 2,
+      "instruction": "Put the pan back over the heat, and add half the enoki mushrooms to the pan in 1 layer, followed by the chives, and then the rest of the mushrooms. Pour the sauce mixture over the mushrooms."
+    },
+    {
+      "order": 3,
+      "instruction": "Bring to a simmer, cover, and simmer for 1-2 minutes, just until the mushrooms and chives are wilted. Serve immediately."
+    }
+  ]
+}

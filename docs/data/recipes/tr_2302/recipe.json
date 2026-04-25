@@ -1,0 +1,113 @@
+{
+  "id": "tr_2302",
+  "title": "Braised Pork Belly Dong Po Rou",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/10/braised-pork-belly-3-1.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/braised-pork-belly-dong-po-rou/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 210,
+  "tags": [
+    "dong po rou"
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 12.0,
+    "carbs": 17.0,
+    "fat": 60.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "pound",
+      "name": "slab of pork belly ((900g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "bunches",
+      "name": "scallions ((washed and cut in half lengthwise))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "8",
+      "unit": "slices",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "Shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tablespoons",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 - 5 oz. rock sugar ((depending on desired level of sweetness))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Wash the pork belly as a whole piece. Blanch it whole in boiling water for one minute and drain. This process gets rid of any impurities and also allows you to more easily cut the pork belly into same-size pieces. Cut the pork into 3 x 3 inch pieces. You can also make them 2 x 2 inches if you like them smaller. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "In a medium clay pot (preferably) or a medium (4-quart) regular pot, lay the scallions on the bottom in a thick, even layer. The scallions should cover the entire bottom of the pot. Space the ginger slices evenly over the scallions."
+    },
+    {
+      "order": 3,
+      "instruction": "Next lay the pork belly skin-side down on top of the ginger and scallions. Pour over the Shaoxing wine, light soy sauce, and dark soy sauce. Add the rock sugar to the pot as well."
+    },
+    {
+      "order": 4,
+      "instruction": "Now cover the pot and place it over medium high heat. Once the liquid in the pot comes to a boil, immediately turn down the heat to low and simmer for 90 minutes. No need to stir."
+    },
+    {
+      "order": 5,
+      "instruction": "After 90 minutes, you have 2 choices:"
+    },
+    {
+      "order": 6,
+      "instruction": "Turn the pork belly skin-side up in the pot, cover, and let simmer for another 90 minutes. With the heat at the lowest setting, there should be plenty of liquid in the pot to cook the pork through the entire process––no need to add additional liquid."
+    },
+    {
+      "order": 7,
+      "instruction": "Transfer the pork to a heat-proof plate, skin-side up (I used the small clay pots you see in the photos). Drizzle with some of the braising liquid, and place in a steamer for another 90 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Both methods should yield tender, delicious results! When serving, transfer the pork pieces to a plate. At this point, you can heat the braising liquid in a saucepan to reduce the sauce and drizzle it over the pork."
+    }
+  ]
+}

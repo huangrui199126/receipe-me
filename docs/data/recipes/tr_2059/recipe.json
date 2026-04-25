@@ -1,0 +1,113 @@
+{
+  "id": "tr_2059",
+  "title": "Pork Belly Green Pepper Pinchos with Lemon Zest",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2014/03/pinchos-recipe-5-1.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/trio-pinchos/",
+  "servings": 16,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "pinchos"
+  ],
+  "nutrition": {
+    "calories": 134,
+    "protein": 3.0,
+    "carbs": 8.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. pork belly",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  long hot green peppers",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small baguette ((sliced))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "sea salt ((plus more for garnish))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "lemon zest ((plus more for garnish))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "parsley ((chopped, for garnish))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Slice the pork belly ¼ inch thick slices. Remove the seeds from the peppers, and cut into 1-inch pieces. Slice the baguette and lay the slices on a baking sheet. Drizzle with olive oil and toast them lightly in the oven. In a bowl, combine the garlic powder, chili powder, black pepper, salt, and lemon zest. Rub the spices into the pork belly."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a tablespoon of olive oil in a cast iron pan over medium high heat, and sear the pork belly and peppers on both sides. The pork should be nicely browned but not too crispy. The peppers should be wilted and browned. Assemble the pinchos by placing the pork belly on each piece of toasted bread with a seared pepper on top. Sprinkle with a little more sea salt, lemon zest, and chopped parsley."
+    }
+  ]
+}

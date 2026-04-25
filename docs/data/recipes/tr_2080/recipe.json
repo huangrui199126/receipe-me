@@ -1,0 +1,161 @@
+{
+  "id": "tr_2080",
+  "title": "Chinese Beef Stir-Fry with YouTiao (Chinese Fried Dough)",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2018/01/chinese-beef-stir-fry-youtiao-9-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/chinese-beef-stir-fry-youtiao/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "beef stir-fry with youtiao"
+  ],
+  "nutrition": {
+    "calories": 274,
+    "protein": 21.0,
+    "carbs": 15.0,
+    "fat": 15.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "flank steak ((340g, sliced into 2-inch long pieces))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vegetable oil ((plus 2 tablespoons))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "pieces",
+      "name": "Chinese fried dough ((you tiao))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light brown sugar ((or granulated sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "minced shallot or red onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "beef stock ((or chicken stock))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "Zhenjiang black vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cornstarch ((mixed with 1 tablespoon water))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "scallion ((chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a bowl, combine the beef, with 1 teaspoon cornstarch, a pinch of baking soda, and 2 teaspoons oil. Set aside for 10 minutes, or until the beef comes up to room temperature."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut your Chinese fried dough (you tiao) into 2-inch pieces and place them on a sheet pan. Heat in an oven at 300 degrees F for 8 minutes, or until they are slightly crispy."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat your wok over high heat until just smoking, and spread 1 tablespoon of oil around the wok. Add the beef and sear for 2 to 3 minutes just until browned. Remove from the wok and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Over medium low heat, add another tablespoon of oil to the wok, along with the sugar. Once the sugar has melted, add in the shallots. After 2 to 3 minutes, add the stock, soy sauces, and vinegar. Bring the liquid to a simmer, and then add the beef and any juices from the bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "While the beef and sauce are simmering, slowly stir in the cornstarch and water mixture until the sauce is thick enough to coat a spoon."
+    },
+    {
+      "order": 6,
+      "instruction": "Toss in the toasted fried dough and mix for 20 seconds, or until everything is coated in sauce. Transfer to a plate, and garnish with toasted sesame seeds and scallions. Serve with steamed white rice."
+    }
+  ]
+}

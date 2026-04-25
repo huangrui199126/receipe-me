@@ -1,0 +1,175 @@
+{
+  "id": "tr_2207",
+  "title": "Shumai",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/01/shumai-13-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shumai/",
+  "servings": 5,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 311,
+    "protein": 22.0,
+    "carbs": 20.0,
+    "fat": 14.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10 oz. ground pork ((280g))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "teaspoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "shrimp ((225g, peeled, deveined, roughly chopped))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  shiitake mushrooms ((soaked and finely chopped))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "ginger ((grated; may substitute 1 teaspoon pressed ginger juice))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallions ((very finely chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "20  egg dumpling wrappers ((circular shaped))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "frozen peas ((optional))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To make the filling, start by mixing the pork with all the marinade ingredients. Stir the ground pork in one direction (clockwise or counterclockwise) for 5 minutes, until it resembles a fine paste. In a separate bowl, mix the chopped shrimp with salt and oil. Mix one direction for 1 minute and set both mixtures aside in the fridge while you prepare the rest of the ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Chop the shiitake mushrooms, ginger and scallions. Add these to a large bowl along with the pork mixture and shrimp mixture. Add the oyster sauce to the bowl, and stir the whole thing together in one direction for 5 minutes. You can also do this in a food processor, but I think mixing by hand gives it a better texture. The filling is ready."
+    },
+    {
+      "order": 3,
+      "instruction": "Lightly brush the bottom of your steamer with oil or line it with damp cheesecloth. You’re ready to assemble the shumai. Take a wonton skin and add about 1 ½ teaspoons filling to the center. Follow the photos and turn up the sides of the wonton skin around the filling. Lightly squeeze to shape the shumai. Add the green peas to the top for decoration, if using, and place in the steamer. Space the shumai about 1 inch apart."
+    },
+    {
+      "order": 4,
+      "instruction": "Steam the shumai for 12 minutes over medium to high heat. Enjoy them while they’re hot!"
+    }
+  ]
+}

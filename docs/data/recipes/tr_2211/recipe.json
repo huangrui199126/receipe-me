@@ -1,0 +1,153 @@
+{
+  "id": "tr_2211",
+  "title": "Thai Basil Shrimp Fried Rice",
+  "image": "https://thewoksoflife.com/wp-content/uploads/2015/01/shrimp-fried-rice-13-1.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://thewoksoflife.com/shrimp-fried-rice-thai-basil/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "thai basil shrimp fried rice"
+  ],
+  "nutrition": {
+    "calories": 489,
+    "protein": 23.0,
+    "carbs": 51.0,
+    "fat": 21.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "broccoli florets",
+      "emoji": "🥦",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "oil ((divided))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 oz. shrimp ((225g, peeled and deveined))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion ((thinly sliced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "cooked rice ((cool and fluff with a fork))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "shaoxing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "ground white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs ((beaten))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "Thai basil ((roughly chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a pot of salted water to a boil. Blanch broccoli for 30 seconds and drain, rinsing under cold water to stop the cooking process."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat your wok over high heat until smoking slightly and add 2 tablespoons oil. Cook the shrimp, making sure to get a good sear, until just barely cooked through. Remove from the wok and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "With the heat still on high, add another 2 tablespoons of oil and add the onion. Stir-fry for 2 minutes, until softened. Add the cooked rice to the wok, and mix, breaking up any large clumps of rice in the process. Add the fish sauce, shaoxing wine, sesame oil, soy sauces, salt and white pepper. Give everything a good stir."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the egg to the rice and stir rapidly, so that the egg cooks and forms a kind of glaze over each grain of rice. Add the broccoli and shrimp back to the pan, along with the Thai basil. Give everything a final stir for another minute or two, and serve."
+    }
+  ]
+}

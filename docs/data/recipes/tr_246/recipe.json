@@ -1,0 +1,119 @@
+{
+  "id": "tr_246",
+  "title": "Ham and Cheese French Toast Roll Ups",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/Ham-and-Cheese-Fresh-Toast-Roll-Up-1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/ham-cheese-french-toastie-roll-ups/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 263,
+    "protein": 13.3,
+    "carbs": 29.2,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "fresh sandwich bread ((I used white, but you could use wholemeal, wholegrain etc) (see notes))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "of melting cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg ((large))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "milk ((full cream or low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  small slices of ham ((around 50g / 1.5 oz))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Optional - cut the crusts off the bread."
+    },
+    {
+      "order": 2,
+      "instruction": "Use a rolling pin to flatten the bread."
+    },
+    {
+      "order": 3,
+      "instruction": "Divide the ham between the bread and lay it out in a strip about 1cm / 1/3\" wide along the bottom edge of the bread. Cut to fit neatly if necessary - that's what I did."
+    },
+    {
+      "order": 4,
+      "instruction": "Top each with 2 slices of cheese, or scatter grated cheese along the ham."
+    },
+    {
+      "order": 5,
+      "instruction": "Starting from the bottom, roll the bread up and finish with the seam side down."
+    },
+    {
+      "order": 6,
+      "instruction": "Place the egg, milk and salt in a flat dish and use a fork to whisk."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat butter in a large fry pan over medium high heat."
+    },
+    {
+      "order": 8,
+      "instruction": "Dip the roll ups in the egg, rolling to coat all over. Then place in the fry pan. Place all roll ups in the same pan."
+    },
+    {
+      "order": 9,
+      "instruction": "Cook the roll ups for 45 seconds to 1 minute, then turn 90 degrees. Repeat again 2 more times (so 4 sides of each roll up is browned)."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove from pan and serve immediately."
+    }
+  ]
+}

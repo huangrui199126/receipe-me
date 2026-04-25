@@ -1,0 +1,195 @@
+{
+  "id": "tr_258",
+  "title": "Spaghetti Bolognese",
+  "image": "https://www.recipetineats.com/tachyon/2018/07/Spaghetti-Bolognese.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spaghetti-bolognese/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "bolognese sauce",
+    "meat sauce",
+    "spagetti bolognese"
+  ],
+  "nutrition": {
+    "calories": 510,
+    "protein": 40.9,
+    "carbs": 53.2,
+    "fat": 12.6
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped (brown, yellow or white))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   beef mince (ground beef) (OR half pork, half beef (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125 ml)  dry red wine ((sub water or beef broth/stock))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  beef bouillon cubes (, crumbled OR granulated beef bouillon (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 28 oz  can crushed tomato ((or tomato passata))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "white sugar (, if needed (Note 3))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  dried bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "sprigs",
+      "name": "fresh thyme ((or 1/2 tsp dried thyme or oregano))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking salt (kosher salt)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 13 oz   spaghetti (, dried)",
+      "emoji": "🍝",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan cheese (and finely chopped parsley (optional))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté - Heat oil in a large pot or deep skillet over medium high heat. Add onion and garlic, cook for 3 minutes or until light golden and softened."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook beef - Turn heat up to high and add beef. Cook, breaking it up as your go, until browned."
+    },
+    {
+      "order": 3,
+      "instruction": "Reduce wine - Add red wine. Bring to simmer and cook for 1 minute, scraping the bottom of the pot, until the alcohol smell is gone."
+    },
+    {
+      "order": 4,
+      "instruction": "Simmer - Add the remaining ingredients. Stir, bring to a simmer then turn down to medium so it bubbles gently. Cook for 20 - 30 minutes (no lid), adding water if the sauce gets too thick for your taste. Stir occasionally."
+    },
+    {
+      "order": 5,
+      "instruction": "Slow simmer option: really takes this to another level, if you have the time! Add 3/4 cup of water, cover with lid and simmer on very low for 2 - 2.5 hours, stirring every 30 minutes or so. (Note 5) Uncover, simmer 20 minutes to thicken sauce. (Note 6 for slow cooker)"
+    },
+    {
+      "order": 6,
+      "instruction": "Taste and add more salt it desired. Serve over spaghetti - though if you have the time, I recommend tossing the sauce and pasta per steps below."
+    },
+    {
+      "order": 7,
+      "instruction": "Bring a large pot of salted water to boil. Add pasta and cook per packet directions MINUS 1 minute."
+    },
+    {
+      "order": 8,
+      "instruction": "Scoop out a mug of pasta cooking water and set aside, then drain the pasta."
+    },
+    {
+      "order": 9,
+      "instruction": "Add pasta into the bolognese sauce with about 1/2 cup (125 ml) of reserved pasta water over medium heat. Toss gently for 1 1/2 - 2 minutes, or until the spaghetti turns red and the sauce thickens."
+    },
+    {
+      "order": 10,
+      "instruction": "Divide between bowls. Garnish with parmesan and parsley if desired."
+    }
+  ]
+}

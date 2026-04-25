@@ -1,0 +1,227 @@
+{
+  "id": "tr_816",
+  "title": "Curried Rice (Basmati rice)",
+  "image": "https://www.recipetineats.com/tachyon/2019/02/Curried-Rice_9.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/curried-rice-basmati-rice-recipe/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "basmati rice recipes",
+    "curry rice",
+    "rice pilaf"
+  ],
+  "nutrition": {
+    "calories": 365,
+    "protein": 12.0,
+    "carbs": 56.0,
+    "fat": 10.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "yellow curry powder ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "chilli powder ((adjust spiciness to taste) (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "40",
+      "unit": "g",
+      "name": "(3 tbsp)  butter ((or ghee or oil) (Note 3))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger (, finely chopped or grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(275g)   uncooked basmati rice ((Note 4))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  small carrot (, peeled and grated)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "(560 ml)   chicken or vegetable broth, low sodium ((Note 5))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(300g)  frozen peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(150g)  cashews (, roasted, unsalted)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "coriander/cilantro leaves (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Yogurt (, for serving (optional))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse rice until water runs pretty clear, then drain well. (Note 4)"
+    },
+    {
+      "order": 2,
+      "instruction": "Melt butter in a small to medium pot (or large saucepan) over medium high heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add garlic and ginger, cook 30 seconds. Add onion and cook for 2 minutes until partly translucent."
+    },
+    {
+      "order": 4,
+      "instruction": "Add carrot and cook for 2 - 3 minutes until softened and sweet."
+    },
+    {
+      "order": 5,
+      "instruction": "Add rice and stir to coat all the grains in the oil."
+    },
+    {
+      "order": 6,
+      "instruction": "Add Spices and mix to coat the rice."
+    },
+    {
+      "order": 7,
+      "instruction": "Add broth, peas, salt and pepper, stir. If any rice is protruding above the surface, poke it under the liquid."
+    },
+    {
+      "order": 8,
+      "instruction": "When the entire surface of the liquid is simmering, stir once, place lid on and immediately turn heat down to LOW."
+    },
+    {
+      "order": 9,
+      "instruction": "Cook for 14 minutes, do not peek while cooking!"
+    },
+    {
+      "order": 10,
+      "instruction": "Lift lid slightly and quickly tilt pot to check to ensure liquid has been absorbed. Clamp lid back on and remove from heat."
+    },
+    {
+      "order": 11,
+      "instruction": "Stand for 10 minutes, undisturbed."
+    },
+    {
+      "order": 12,
+      "instruction": "Use a rubber spatula to gently fluff the rice. (Note 6)"
+    },
+    {
+      "order": 13,
+      "instruction": "Add most of the cashews and coriander, stir through."
+    },
+    {
+      "order": 14,
+      "instruction": "Transfer to serving bowl, sprinkle with remaining cashews and coriander. See in post for serving ideas."
+    }
+  ]
+}

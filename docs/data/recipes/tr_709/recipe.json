@@ -1,0 +1,138 @@
+{
+  "id": "tr_709",
+  "title": "Lime Marinated Grilled Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2016/04/Lime-Chicken_2.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lime-marinated-grilled-chicken/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "lime chicken",
+    "lime marinade for chicken"
+  ],
+  "nutrition": {
+    "calories": 274,
+    "protein": 32.0,
+    "carbs": 10.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "600-750g / 1.2 - 1.5 lb  chicken breasts (4 pieces) or boneless thigh ( (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest of 1 lime ((zest before juicing))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "lime juice ((1 - 2 limes))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped cilantro/coriander ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fish sauce (OR 2 tbsp soy sauce) ( (Note 2))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Use fist (or rolling pin!) to pound fat end of chicken breast to about 1.7 cm / 2/3\" thickness (not required for thigh)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place chicken and Marinade in a ziplock bag, massage to distribute marinade evenly. Place on a plate or bowl and refrigerate for 24 hours (min 12 hrs, max 48 hrs - Note 3)"
+    },
+    {
+      "order": 3,
+      "instruction": "Remove chicken, discard Marinade. Cook using one method below."
+    },
+    {
+      "order": 4,
+      "instruction": "STOVE:&nbsp;Heat oil in a large skillet over medium high heat. Cook chicken for 3 minutes on each side or until caramelised and golden brown (see video!).&nbsp;"
+    },
+    {
+      "order": 5,
+      "instruction": "BBQ: Brush grills with oil and heat to medium high (or medium if your BBQ is strong). Cook chicken for 3 minutes on each side until caramelised (see video!)."
+    },
+    {
+      "order": 6,
+      "instruction": "OVEN:&nbsp;Preheat oven to 425F/220C. Bake 15 minutes, then flick broiler/grill on high and grill for 3 minutes to caramelise surface &amp; finish cooking."
+    },
+    {
+      "order": 7,
+      "instruction": "Transfer chicken to a serving plate, cover loosely with foil and rest for 3 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Garnish with extra coriander/cilantro, lime wedges and chilli if desired, then serve!"
+    }
+  ]
+}

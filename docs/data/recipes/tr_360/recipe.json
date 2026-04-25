@@ -1,0 +1,122 @@
+{
+  "id": "tr_360",
+  "title": "Sticky Baked Chicken Thighs",
+  "image": "https://www.recipetineats.com/tachyon/2019/02/Sticky-Baked-Chicken-Thighs_5.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sticky-baked-chicken-thighs/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 25,
+  "tags": [
+    "baked chicken thighs",
+    "boneless skinless chicken thighs"
+  ],
+  "nutrition": {
+    "calories": 297,
+    "protein": 34.0,
+    "carbs": 13.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 1.4lb   chicken thighs (, skinless boneless (5-7 pieces), Note 1)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "ketchup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "brown sugar (, lightly packed)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "soy sauce (, all purpose or light (NOT dark))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Worcestershire Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "clove",
+      "name": "garlics (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/420°F (200°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Pan - Use a pan large enough to fit the thighs lying flat (not bunched up/folded). Line pan with foil (you&#39;ll thank me later), place thighs in pan."
+    },
+    {
+      "order": 3,
+      "instruction": "Glaze 1 - Mix Glaze ingredients together. Spoon over about 2/3 of the Glaze on the surface of each (not underside), reserve rest."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake 15 minutes, remove pan."
+    },
+    {
+      "order": 5,
+      "instruction": "Flick to grill/broiler on high, adjust shelf to be 20cm/8&quot; from heat source."
+    },
+    {
+      "order": 6,
+      "instruction": "Glaze 2 - Spoon pan juices over chicken. Then spoon/dab remaining Glaze onto chicken."
+    },
+    {
+      "order": 7,
+      "instruction": "Broil chicken for 8 to 10 minutes until surface is nicely caramelised."
+    },
+    {
+      "order": 8,
+      "instruction": "Rest - Remove and stand for a few minutes (uncovered) before serving with pan juices."
+    }
+  ]
+}

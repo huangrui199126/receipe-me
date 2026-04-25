@@ -1,0 +1,152 @@
+{
+  "id": "tr_509",
+  "title": "Nicoise Salad (French salad with tuna)",
+  "image": "https://www.recipetineats.com/tachyon/2021/02/Salade-Nicoise-v2_3-SQ.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/nicoise-salad-french-salad-with-tuna/",
+  "servings": 4,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "french salad",
+    "nicoise salad",
+    "salade nicoise",
+    "tuna salad"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  baby/chat potatoes ((Note 1))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "120g/ 4 oz   green beans (, trimmed)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  tomatoes (, each cut into 8 - 10 wedges)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  baby cos lettuce (romaine) (, cut or torn into large bite size pieces)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  hard-boiled eggs (, peeled and quartered)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "¾ cup/ 100g  unpitted black olives ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250 - 300g/ 8 - 10oz  canned chunk tuna in oil (, drained and broken into large chunks (Note 3))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small garlic clove (, minced/grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Dressing: Shake ingredients in a jar."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook ptoatoes: Boil potatoes until tender. Drain and leave to fully cool. Slice into halves."
+    },
+    {
+      "order": 3,
+      "instruction": "Blanch beans: Boil green beans until tender or done to your liking. Drain and refresh under cold running water to quickly cool. Drain, pat well to dry."
+    },
+    {
+      "order": 4,
+      "instruction": "Arrange the cos leaves on a large, wide plate."
+    },
+    {
+      "order": 5,
+      "instruction": "Scatter and layer the remaining ingredients artfully around the plate, finishing with the eggs, olives and chunks of tuna. Drizzle with dressing over and serve!"
+    }
+  ]
+}

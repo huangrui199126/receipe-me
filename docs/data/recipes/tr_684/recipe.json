@@ -1,0 +1,273 @@
+{
+  "id": "tr_684",
+  "title": "Vindaloo",
+  "image": "https://www.recipetineats.com/tachyon/2021/07/Beef-Vindaloo_0-SQ.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vindaloo/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 150,
+  "tags": [
+    "beef curry",
+    "indian curry",
+    "spicy curry",
+    "vindaloo",
+    "vindaloo curry"
+  ],
+  "nutrition": {
+    "calories": 441,
+    "protein": 35.0,
+    "carbs": 12.0,
+    "fat": 29.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 1.6 lb  beef chuck (, cut into 3cm / 1.2\" cubes (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "Kashmiri chilli powder - TEST spiciness before using!  ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "coriander seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "cumin seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  cardamom pods ((green))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cinnamon powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh ginger (, roughly chopped)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  garlic cloves ((yes, 10!))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fenugreek seeds ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "turmeric powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "7",
+      "unit": "tbsp",
+      "name": "white vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp  ghee or unsalted butter ((Note 4))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped (brown, yellow, white))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger (, finely grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "black mustard seeds ((Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  curry leaves (, fresh (Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "beef stock (, low sodium (if using homemade, add 1/2 tsp salt))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "coriander/cilantro leaves (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Salt beef: Toss beef in salt."
+    },
+    {
+      "order": 2,
+      "instruction": "Check spiciness of kashmiri chilli powder and adjust if desired. See Spiciness Note below."
+    },
+    {
+      "order": 3,
+      "instruction": "Curry Paste: Place Curry Paste ingredients in a Nutribullet or small food processor with 1 cup of the water. Blitz until smooth. Pour over beef. Pour remaining 1 cup water into Nutribullet, shake (to clean out remaining curry paste), then pour/scrape over beef."
+    },
+    {
+      "order": 4,
+      "instruction": "Marinate beef: Mix beef in curry paste, cover, then marinate 2 hours. (Note: marinade is fairly thin - the water cooks down during slow cooking.)"
+    },
+    {
+      "order": 5,
+      "instruction": "Preheat oven to 190°C/375°F (170°C fan)."
+    },
+    {
+      "order": 6,
+      "instruction": "Curry sauce: Melt ghee over medium high. Cook onion, ginger and garlic until they become translucent - about 3 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Mustard seeds: Add black mustard seeds then cook until onion is tinged with gold. Stir in tomato paste, cook 1 minute."
+    },
+    {
+      "order": 8,
+      "instruction": "Puree sauce: Add beef stock, stir. Transfer into a jug then use a stick blender to puree until smooth. Pour back into the pot."
+    },
+    {
+      "order": 9,
+      "instruction": "Add beef: Add beef and curry leaves, stir then bring to boil."
+    },
+    {
+      "order": 10,
+      "instruction": "Slow cook: Cover with a lid, then place in the oven for 2 hours or until beef is fall apart tender and the sauce has darkened in colour and thickened. (See Note 7 if sauce hasn&#039;t reduced enough)."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve: Garnish with coriander, then serve over basmati rice with a side of naan!"
+    }
+  ]
+}

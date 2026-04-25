@@ -1,0 +1,159 @@
+{
+  "id": "tr_125",
+  "title": "Chorizo &amp; Kale Risotto",
+  "image": "https://www.recipetineats.com/tachyon/2016/04/Chorizo-Risotto_1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chorizo-kale-risotto/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 668,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "chicken broth/stock (, salt reduced)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "tomato passata ((Note 1))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "(12oz)  chorizo (, some sliced and the remainder finely chopped (Note 7))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped (brown, white or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "arborio rice ((risotto rice), uncooked (Note 2))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "white wine ((sub with chicken broth or water))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "kale leaves (, removed from stalk, torn into bite size pieces (packed) (Note 3))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 4  + tbsp butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Freshly grated parmesan cheese ((optional))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Whisk together Stock ingredients in a small saucepan over medium low heat. Once heated, turn down to low and keep warm. (Note 4)"
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a pot or large skillet over high heat. Add chorizo and cook until golden brown. Remove into a bowl and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "There should be some red oil in the skillet from the chorizo. If not, add a bit of oil."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn heat down to medium. Cook onion and garlic for 5 minutes until translucent."
+    },
+    {
+      "order": 5,
+      "instruction": "Add rice and stir to coat grains in oil until translucent."
+    },
+    {
+      "order": 6,
+      "instruction": "Add wine, turn up the heat to medium high and simmer, stirring, until most of the wine has evaporated."
+    },
+    {
+      "order": 7,
+      "instruction": "Turn heat down to medium low and add 1 cup of stock. Stir leisurely until mostly absorbed into the rice, then add another cup of stock. Continue 1 cup at a time until the risotto is just cooked - squeeze a grain, it should still be firm but cooked through - about 15 minutes. Make the risotto as saucy (or not) as you want - liquid will absorb in the next step so lean towards saucier than what you want."
+    },
+    {
+      "order": 8,
+      "instruction": "When the risotto is done (Note 5), remove it from the stove."
+    },
+    {
+      "order": 9,
+      "instruction": "Add butter (the more the better!) and stir energetically - this will activate the starch and make it creamy. Stir chorizo in then partially stir kale through the risotto. Plonk the lid on and let it rest for 3 minutes (kale will wilt in this step)."
+    },
+    {
+      "order": 10,
+      "instruction": "Adjust salt and pepper to taste. Serve immediately! (Note 6)"
+    }
+  ]
+}

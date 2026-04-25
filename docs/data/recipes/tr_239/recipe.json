@@ -1,0 +1,151 @@
+{
+  "id": "tr_239",
+  "title": "Strawberry Cheesecake Sundae Pots",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/Cheesecake-Sundae-Pots_square1-1.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/strawberry-cheesecake-sundae-pots/",
+  "servings": 6,
+  "prepTime": 25,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "225",
+      "unit": "g",
+      "name": "/8 oz   cream cheese (, softened)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1⁄2  cup  confectioners’ sugar ((icing sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1⁄2  tsp  vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1⁄2  tsp  lemon zest",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3⁄4  cup  heavy whipping cream (, whipped)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1⁄2 cups  lightly crushed graham crackers",
+      "emoji": "🥓",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "packed brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "salted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 9 oz  punnet of strawberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "caster sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1⁄4  cup cold water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Beat the cream cheese, confectioners’ sugar, vanilla and lemon zest until light and fluffy."
+    },
+    {
+      "order": 2,
+      "instruction": "Fold in the whipped cream. Then cover and refrigerate for at least 2 hours, or until required (will keep for 3 days)."
+    },
+    {
+      "order": 3,
+      "instruction": "Puree half the strawberries."
+    },
+    {
+      "order": 4,
+      "instruction": "Quarter the remaining berries (if large, otherwise halve)."
+    },
+    {
+      "order": 5,
+      "instruction": "Combine the sugar and water in a pan and stir over low heat to dissolve the sugar, then turn up the heat to medium high and cook for 4 to 5 minutes without stirring until a golden caramel forms."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from heat, stir in puree carefully (it may spit) then return to low heat and stir until smooth."
+    },
+    {
+      "order": 7,
+      "instruction": "Let cool, then add reserved berries. Refrigerate until required."
+    },
+    {
+      "order": 8,
+      "instruction": "Combine the crushed crackers, brown sugar and butter in a bowl and mix well."
+    },
+    {
+      "order": 9,
+      "instruction": "In a clear glass, place some graham cracker crumble in the base."
+    },
+    {
+      "order": 10,
+      "instruction": "Spoon over cheesecake mousse and top with strawberry caramel."
+    }
+  ]
+}

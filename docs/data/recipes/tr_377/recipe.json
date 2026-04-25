@@ -1,0 +1,195 @@
+{
+  "id": "tr_377",
+  "title": "One-pan Baked Butter Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2023/11/One-pan-baked-butter-chicken_9.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pan-baked-butter-chicken/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 45,
+  "tags": [
+    "butter chicken",
+    "easy curry recipe",
+    "oven curry"
+  ],
+  "nutrition": {
+    "calories": 545,
+    "protein": 30.0,
+    "carbs": 8.0,
+    "fat": 44.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.2 kg/ 2.4lb (6 pieces) bone-in chicken thighs (, skin removed (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "plain yoghurt (, full fat)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ginger (, finely grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (, finely grated or crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "turmeric powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "garam masala ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "chilli powder ((pure, not US blend) or cayenne pepper powder)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 tbsp/ 30g  melted ghee or butter ((Note 3))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "tomato passata ((US: tomato puree) (Note 4))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "heavy / thickened cream ((or regular cream, or coconut milk))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "coriander leaves (cilantro) (, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Basmati rice (or other plain rice)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Naan ((easy - no kneading required!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C / 400°F (180°C fan-forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Coat chicken - Mix the marinade ingredients in a bowl, then add the chicken and toss to coat."
+    },
+    {
+      "order": 3,
+      "instruction": "Optional marinade - overnight. (Note 5)"
+    },
+    {
+      "order": 4,
+      "instruction": "Assemble - Mix Sauce ingredients in a 23 x 33cm / 9 x 13&quot; baking dish. Place chicken in, smooth side up. Scrape residual marinade out of bowl and dab onto chicken surface."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake 45 minutes, basting with sauce at the 30 minute and 40 minute mark. The sauce will change from pink to orangey-red (Note 6 for sauce thickening)."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve - Rest for 5 minutes. Then serve over basmati rice, garnished with coriander if desired! Naan for mopping would make everyone extra happy. :)"
+    }
+  ]
+}

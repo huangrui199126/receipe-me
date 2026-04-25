@@ -1,0 +1,111 @@
+{
+  "id": "tr_88",
+  "title": "Creamy Healthy Broccoli Soup",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Broccoli-Soup1-1.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-healthy-broccoli-soup/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 166,
+    "protein": 10.7,
+    "carbs": 25.7,
+    "fat": 3.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large head of broccoli",
+      "emoji": "🥦",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  potato (, peeled and roughly chopped into cubes about 1.5cm / 1/2\" cubes)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  white or brown onion (, roughly diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500 ml  vegetable stock / broth",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 250 ml  milk ((low fat, cow or soy))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut / break broccoli into florets into pieces about half the size of a golf ball. Roughly cut most of the stem, other than the main stem, into thumb size pieces. Discard the main stem, or keep for another use."
+    },
+    {
+      "order": 2,
+      "instruction": "Place all ingredients except milk, salt and pepper in pot, put on lid, bring to boil then turn down heat to medium and let it rapidly simmer for 8 to 10 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove lid, add milk, bring back to boil, then remove from heat and whizz with hand held blender."
+    },
+    {
+      "order": 4,
+      "instruction": "You can thicken the soup by cooking it for longer on the stove on a medium low heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Season to taste with salt and pepper, serve with croutons if desired."
+    },
+    {
+      "order": 6,
+      "instruction": "Cut stale bread into cubes, lightly spray with olive oil, spread on baking stray and bake for 3 to 5 minutes. Sprinkle with salt then top on soup."
+    }
+  ]
+}

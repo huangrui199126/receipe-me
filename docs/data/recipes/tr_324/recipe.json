@@ -1,0 +1,122 @@
+{
+  "id": "tr_324",
+  "title": "Honey Garlic Salmon (5 Ingredients, 15 Minutes)",
+  "image": "https://www.recipetineats.com/tachyon/2015/03/Honey-Garlic-Salmon.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/honey-garlic-salmon-5-ingredients-15-minutes/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "honey garlic salmon",
+    "quick salmon recipe"
+  ],
+  "nutrition": {
+    "calories": 583,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "soy sauce (all purpose or light soy sauce)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white vinegar ((or sub with any other vinegar except balsamic))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove (or 2 small) (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  salmon or trout fillets, skinless ((6oz / 200g each))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely sliced chives or shallots/scallions",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Take salmon out of the fridge 20 minutes before cooking. Pat salmon skin dry with a paper towel and sprinkle with salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk together the Sauce ingredients in a small bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Drizzle oil in a non stick fry pan and heat over medium high heat (or just under, if your stove runs hot). Place salmon in the pan, and cook the first side for 3 - 4 minutes until golden. Turn, then cook the other side for 2 - 3 minutes or until golden."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour Sauce over salmon. Cook for 1 minute or until it starts to thicken slightly. Check the side of the salmon to tell how cooked through the middle is - I like mine medium rare inside. (Note 1). If Sauce thickens too much before your salmon is cooked to your taste, just add water 1 tbsp at a time."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove onto serving plates."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve salmon drizzled with Sauce, sprinkled with sesame seeds and chives/shallots, if desired."
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "tr_1032",
+  "title": "Roasted Broccolini with Tahini Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2020/08/Roasted-Broccolini-with-Tahini-Sauce_4-SQ.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roasted-broccolini-with-tahini-sauce-ottolenghi-recipe/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "broccolini",
+    "tahini sauce"
+  ],
+  "nutrition": {
+    "calories": 182,
+    "protein": 7.0,
+    "carbs": 15.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/1 lb  broccolini (, ends trimmed (3 standard bunches in Australia))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "tahini",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2.5",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  garlic clove (, pressed through garlic crusher or grated using microplan (to make sauce smooth))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "flaked almonds, pine nuts or pistachios (, toasted (Note 2))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/425°F (200°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Sauce: Mix Tahini Sauce ingredients until combined. It should be loose enough so it can be drizzled, but not too runny. Set aside 15 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss broccolini: Pile broccolini on tray, drizzle with oil, sprinkle with salt, pepper and garlic."
+    },
+    {
+      "order": 4,
+      "instruction": "Roast for 12 - 15 minutes until the broccolini floret ends are dark brown and crunchy (the best part!), and the broccolini stem is just tender. (But if you want it really soft, lower temp to 180C/350F and cook 20 min)."
+    },
+    {
+      "order": 5,
+      "instruction": "Plate up: Transfer to serving plate, allow to cool until warm. Drizzle over tahini sauce, sprinkle with almonds or pine nuts and serve! Excellent served warm OR at room temp."
+    },
+    {
+      "order": 6,
+      "instruction": "The Tahini Sauce goes brilliantly with other roasted vegetables too, including: carrots, cauliflower, broccoli, green beans and asparagus."
+    }
+  ]
+}

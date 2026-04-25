@@ -1,0 +1,99 @@
+{
+  "id": "tr_19",
+  "title": "Watermelon Salad",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/Watermelon-Salad-v2.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/watermelon-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lbs   watermelon",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small Spanish red onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "red wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2 tbs fresh mint (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "75",
+      "unit": "g",
+      "name": "/ 3 oz   Danish feta cheese (, crumbled into medium size pieces)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Whole mint sprigs (, to garnish)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the flesh from the melon and cut into bite size pieces, removing and discarding the seeds, and set aside. Peel and halve the onion, and thinly slice."
+    },
+    {
+      "order": 2,
+      "instruction": "In a small bowl, combine the vinegar, salt, pepper, and whisk until salt is dissolved. Slowly whisk in the olive oil, a few drops at a time. Add in the chopped mint, taste, and adjust seasonings."
+    },
+    {
+      "order": 3,
+      "instruction": "In a large bowl, combine the melon, onion, and feta. Pour the dressing over the melon mixture and toss gently until everything is coated and evenly mixed. Garnish with mint sprigs."
+    }
+  ]
+}

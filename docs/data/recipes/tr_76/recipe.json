@@ -1,0 +1,167 @@
+{
+  "id": "tr_76",
+  "title": "Cheesy Jalapeno Bacon Stuffed Baguette with Garlic Butter",
+  "image": "https://www.recipetineats.com/tachyon/2015/05/Stuffed-Baguette_680px_MAIN.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cheesy-jalapeno-bacon-stuffed-baguette-with-garlic-butter/",
+  "servings": 25,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 104,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250g   bacon, diced (I used lean bacon)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  x 20\" / 50 cm baguette / french stick",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250g   Philadelphia cream cheese, softened (full or low fat)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cheddar cheese, shredded (Note 1)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "mozzarella cheese, shredded",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "packed jalapeños, finely chopped (if using fresh, deseed it. Or use canned, drained)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "finely chopped scallions/shallots, green and white part (packed)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a pan over high heat. Add bacon and cook until lightly browned. Remove onto a plate lined with a paper towel to drain excess fat. Set aside to cool."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut the ends off the baguette and cut the baguette in half (or quarters - makes it easier to stuff)."
+    },
+    {
+      "order": 4,
+      "instruction": "Use a long knife (preferably bread knife) to cut the bread out, leaving about a 1/2\" / 1.5cm wall of bread and crust. (Note 2)"
+    },
+    {
+      "order": 5,
+      "instruction": "Place the bacon, cream cheese, cheddar and mozzarella cheese, jalapeños, scallions/shallots and pepper in a bowl and mix until combined."
+    },
+    {
+      "order": 6,
+      "instruction": "Use a knife or piping bag to stuff the mixture inside the baguettes."
+    },
+    {
+      "order": 7,
+      "instruction": "Garlic Butter: melt butter with the garlic and salt in the microwave or on the stove."
+    },
+    {
+      "order": 8,
+      "instruction": "Brush the baguette with garlic butter (or you can do this after you slice it)."
+    },
+    {
+      "order": 9,
+      "instruction": "Slice the baguette into 1 1/4cm / 1/2\" slices."
+    },
+    {
+      "order": 10,
+      "instruction": "Keep the slices pressed up against each other, and transfer to a large piece of foil."
+    },
+    {
+      "order": 11,
+      "instruction": "Wrap the baguette, then bake for 15 to 20 minutes, or until the bread is crusty and the cheese inside is melted."
+    },
+    {
+      "order": 12,
+      "instruction": "For optimal experience, serve warm!"
+    }
+  ]
+}

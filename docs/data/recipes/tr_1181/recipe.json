@@ -1,0 +1,135 @@
+{
+  "id": "tr_1181",
+  "title": "Pig Out Salsa (Chorizo, Black Bean and Corn Salsa)",
+  "image": "https://www.recipetineats.com/tachyon/2017/06/Chorizo-Black-Bean-Corn-Salsa-2.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chorizo-black-bean-and-corn-salsa/",
+  "servings": 4,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250 - 300 g / 8 - 10 oz    chorizo ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "corn kernels (, canned drain or raw cooked)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "black beans ((from can, drained))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   cherry tomatoes (, quartered (Note 2))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "finely chopped coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "white wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Chop chorizo into small pieces."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a large skillet over high heat. Add garlic and chorizo and cook for 4 - 5 minutes until golden all over. Set aside to cool, but not cold (oil will harden)."
+    },
+    {
+      "order": 3,
+      "instruction": "Shake Dressing in a jar until well combined."
+    },
+    {
+      "order": 4,
+      "instruction": "Place beans, tomato, corn, onion and coriander in a bowl. Pour over Chorizo, including all the oil in the skillet, and the Dressing. Toss and serve!"
+    }
+  ]
+}

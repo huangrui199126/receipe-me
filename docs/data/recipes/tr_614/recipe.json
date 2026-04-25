@@ -1,0 +1,150 @@
+{
+  "id": "tr_614",
+  "title": "Asian Chicken (Asian marinade)",
+  "image": "https://www.recipetineats.com/tachyon/2016/06/Asian-Marinated-Chicken_5.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/asian-marinated-chicken/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "asian chicken",
+    "asian marinade"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 1.5 lb / 500 - 750g   chicken thigh fillets (, skinless boneless)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger (, freshly grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato ketchup",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine OR Mirin ((Note 1))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 3 tbsp Sriracha ((adjust spiciness to taste))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely sliced shallots / green onions",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely sliced red chilies",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Marinade ingredients together. Add chicken and mix to coat. Marinade in the fridge for a minimum of 1 hour or up to overnight."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a large non stick skillet or BBQ over medium high heat. (See notes for other cooking methods) Add chicken and cook until each side is dark golden brown and chicken is cooked through (about 3 minutes each side). Transfer to plate, cover loosely with foil and rest for 3 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Garnish with chillies, shallots and sesame seeds if desired. Serve with white rice and slices of cucumber."
+    }
+  ]
+}

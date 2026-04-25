@@ -1,0 +1,125 @@
+{
+  "id": "tr_649",
+  "title": "French Toast",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/French-Toast_3.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/french-toast/",
+  "servings": 2,
+  "prepTime": 2,
+  "cookTime": 10,
+  "tags": [
+    "french toast"
+  ],
+  "nutrition": {
+    "calories": 314,
+    "protein": 7.0,
+    "carbs": 37.0,
+    "fat": 14.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "brioche or white sandwich bread (, slightly stale (Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "30 – 40g / 2 – 3 tbsp   butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large eggs ((~60g / 2 oz each))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "/ 125 ml  milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cinnamon powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz  strawberries, halved",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Maple syrup, butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Whisk together Egg Mixture in a bowl. Vigorous whisk = avoid cinnamon floating on top."
+    },
+    {
+      "order": 2,
+      "instruction": "Melt 15g / 1 tbsp butter in a non stick skillet over medium heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Dunk a piece of bread quickly into the egg mixture, coating both sides. Place in pan. Repeat with more slices to fill the pan, but don’t crowd it (do 2 or 3 at a time)."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook for 2 ½ - 3 minutes on each side until the surface is golden, then transfer to serving plates."
+    },
+    {
+      "order": 5,
+      "instruction": "Add more butter into the pan and cook remaining bread."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve with butter and plenty of maple syrup, and Macerated Strawberries if using!"
+    },
+    {
+      "order": 7,
+      "instruction": "Toss strawberries with sugar, set aside for 20 minutes+. The strawberries will soften and sweat, and create a bit of syrup."
+    }
+  ]
+}

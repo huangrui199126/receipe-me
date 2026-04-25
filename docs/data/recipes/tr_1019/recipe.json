@@ -1,0 +1,135 @@
+{
+  "id": "tr_1019",
+  "title": "Mango Daiquiris",
+  "image": "https://www.recipetineats.com/tachyon/2017/01/Mango-Daiquiris-9.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mango-daiquiri/",
+  "servings": 750,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 133,
+    "protein": 1.1,
+    "carbs": 22.2,
+    "fat": 0.5
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large ripe mango ((1 1/4 cups of flesh))",
+      "emoji": "🥭",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "90",
+      "unit": "ml",
+      "name": "/ 3 oz   white rum ((I use Bacardi))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sugar syrup ((adjust to taste) (Note 1))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  heaped cup of ice cubes ((or 1 cup crushed ice), plus more to serve)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Strawberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime slices",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mint",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Chill glasses in the fridge."
+    },
+    {
+      "order": 2,
+      "instruction": "Place Daiquiri ingredients in the blender in the order listed (ice last, blends better)."
+    },
+    {
+      "order": 3,
+      "instruction": "Whizz until ice is blitzed. Taste test then adjust sour with lime and sweetness with sugar."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour into glasses - this recipe makes the perfect amount to fill 4 martini glasses."
+    },
+    {
+      "order": 5,
+      "instruction": "Garnish with strawberries, lime and mint if desired. Serve cold."
+    },
+    {
+      "order": 6,
+      "instruction": "Puree mango using a stick blender or food processor."
+    },
+    {
+      "order": 7,
+      "instruction": "Pour into 1 litre / 1 quart or larger jar or bottle. Add bacardi, sugar syrup and 1/2 cup water (Note 3). Refrigerate until chilled. Also refrigerate the limes and glasses."
+    },
+    {
+      "order": 8,
+      "instruction": "Once chilled, add lime juice and ice cubes into the bottle. Shake well, then serve, straining the ice cubes. You can also put some crushed ice into the glasses, but remember that as the ice melts, it will dilute the cocktail."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "tr_806",
+  "title": "KFC Potato and Gravy",
+  "image": "https://www.recipetineats.com/tachyon/2020/02/Pouring-gravy-over-mashed-potato.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/kfc-potato-and-gravy-recipe/",
+  "servings": 8,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "kfc mashed potato",
+    "kfc potato and gravy recipe",
+    "mashed potato"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 5.0,
+    "carbs": 32.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 batch homemade KFC Gravy",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.5kg/ 3lb   Sebago (Aus dirt brushed), Russet (US), Maris Piper (UK) ( or other starchy potatoes)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "salt ((for water))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "75",
+      "unit": "g",
+      "name": "(5 tbsp)   unsalted butter, cubed",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125ml)  cream (heavy / thickened)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(185ml)  milk, full fat",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Freshly ground black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Peel and cut potatoes into 3cm / 1.25\" cubes."
+    },
+    {
+      "order": 2,
+      "instruction": "Place in a pot, add 1 tbsp salt and water so it's 5cm / 2\" above potatoes."
+    },
+    {
+      "order": 3,
+      "instruction": "Bring water to a boil, then boil for 15 minutes until potatoes are very soft and starting to fall apart."
+    },
+    {
+      "order": 4,
+      "instruction": "Drain, leave in colander to steam dry for 3 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Meanwhile, melt butter in a saucepan over medium high heat. Add cream and milk, heat until just before simmer - do not let it boil. Remove from stove."
+    },
+    {
+      "order": 6,
+      "instruction": "Pass potato through a potato ricer (Note 1) or use a masher with holes. Do not use beater - will make it dense."
+    },
+    {
+      "order": 7,
+      "instruction": "Add hot milk mixture, 1/2 tsp salt and 1/4 tsp pepper. GENTLY stir until mixed through."
+    },
+    {
+      "order": 8,
+      "instruction": "Taste for salt and pepper, add more if needed."
+    },
+    {
+      "order": 9,
+      "instruction": "Transfer into serving bowl. Pour over Gravy and serve immediately with anything and everything!"
+    },
+    {
+      "order": 10,
+      "instruction": "For a KFC at home experience, serve with homemade Fried Chicken (it&#x27;s better than KFC!)"
+    }
+  ]
+}

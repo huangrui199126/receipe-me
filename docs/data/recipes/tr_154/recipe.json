@@ -1,0 +1,123 @@
+{
+  "id": "tr_154",
+  "title": "Maple Syrup Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/Maple-Syrup-Dressing-2.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/maple-syrup-dressing/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "pure maple syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "olive oil ((extra virigin is ok))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "pure maple syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place ingredients in a jar. Shake until well combined and creamy."
+    },
+    {
+      "order": 2,
+      "instruction": "Store: Keep in the fridge for 2 to 3 weeks."
+    },
+    {
+      "order": 3,
+      "instruction": "Single Batch: This will dress 4 large handfuls of leafy greens / fresh salad, or about 500g / 1 lb roasted sweet potato or pumpkin place o 2 handfuls of rocket lettuce / arugula."
+    }
+  ]
+}

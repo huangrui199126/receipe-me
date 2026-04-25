@@ -1,0 +1,95 @@
+{
+  "id": "tr_113",
+  "title": "Shredded Beef Burritos",
+  "image": "https://www.recipetineats.com/tachyon/2015/09/Beef-Burritos_680px_1.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/shredded-mexican-beef-burritos-freezer-friendly/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  large extra soft flour tortillas ((10\"/26cm))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2 to 2 cups shredded cheese ((I used Monterey Jack))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 to 4 cups Mexican Shredded Beef plus sauce (, tossed or separated (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "Mexican Red Rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/14oz  can corn kernels (, drained)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/14oz  can black beans (, drained)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Microwave half the tortillas very briefly to warm them up (15 seconds or so). This ensures they don't crack when you roll them."
+    },
+    {
+      "order": 2,
+      "instruction": "Place 1 tortilla on a workbench - cover the rest with a tea towel to keep them warm."
+    },
+    {
+      "order": 3,
+      "instruction": "Place cheese down the middle of the tortilla, then top with 1/3 cup of beef, some corn, beans, then 1/4 cup rice."
+    },
+    {
+      "order": 4,
+      "instruction": "Roll the burrito up. (Note 2) Wrap in foil to hold it together."
+    },
+    {
+      "order": 5,
+      "instruction": "If you are serving it immediately, heat a skillet over medium heat. Cook the burritos for around 4 to 5 minutes on each side to make the tortilla brown and heat the inside through."
+    },
+    {
+      "order": 6,
+      "instruction": "If freezing, place in the freezer. To reheat, you can either bake from frozen (with foil on) at 350F/180C for about 40 to 45 minutes, or thaw and cook in the skillet per above. You could microwave it (remove the foil) but I like my burritos a bit crispy!"
+    }
+  ]
+}

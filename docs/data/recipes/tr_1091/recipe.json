@@ -1,0 +1,129 @@
+{
+  "id": "tr_1091",
+  "title": "Homemade Vegetable Stock",
+  "image": "https://www.recipetineats.com/tachyon/2021/04/Homemade-Vegetable-Stock_8-SQ.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/homemade-vegetable-stock/",
+  "servings": 4,
+  "prepTime": 0,
+  "cookTime": 120,
+  "tags": [
+    "vegetable stock"
+  ],
+  "nutrition": {
+    "calories": 113,
+    "protein": 3.0,
+    "carbs": 26.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "litres",
+      "name": "/  2 quarts  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium carrots ((unpeeled), cut in 3 (180g/6oz each))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, quartered (~250g/8oz))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  celery stem (, cut in 4 pieces (~180g/6oz))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves, (smashed (Note 1))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  parsley stems",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bay leaf",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  thyme sprig",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "coriander seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt (, kosher/cooking for store bought level salted vegetable stock (Note 2))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Simmer 2 hours: Place all ingredients in a large pot. Bring to simmer over high heat, then reduce heat to low and simmer for 2 hours without a lid. The water should not be bubbling, it should just ripple gently. Stock should reduce by about half."
+    },
+    {
+      "order": 2,
+      "instruction": "Strain, pressing juices out of the vegetables. You should have 1 litre / 1 quart (4 cups) of stock. If you have much more than this, return the strained liquid into the pot and simmer to continue to reduce."
+    },
+    {
+      "order": 3,
+      "instruction": "How to use: Use in place of store-bought stock in any recipe - 1:1 ratio."
+    },
+    {
+      "order": 4,
+      "instruction": "Storage: Keeps in the fridge for 5 days, or freeze for 3 months. I usually freeze in 1 cup portions in jars, small ziplock bags (freeze flat for efficient use of space and faster defrosting) or in plastic containers."
+    }
+  ]
+}

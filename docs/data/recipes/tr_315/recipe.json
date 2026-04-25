@@ -1,0 +1,110 @@
+{
+  "id": "tr_315",
+  "title": "Brown Sugar Glazed Carrots",
+  "image": "https://www.recipetineats.com/tachyon/2018/11/Brown-Sugar-Roast-Carrots_3.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/brown-sugar-glazed-carrots/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "glazed carrots",
+    "roasted carrots"
+  ],
+  "nutrition": {
+    "calories": 191,
+    "protein": 2.0,
+    "carbs": 30.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb   carrots (, peeled (Note 1))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(40g)  brown sugar (, loosely packed (Note 2))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "butter (30g) (, melted (or olive oil))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley (, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220C/425F (standard) or 200C/400F (fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut carrot on the diagonal into 4cm / 1.75” lengths. Halve thicker end so they are all roughly the same width."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss in a bowl with sugar, butter, garlic, oil, salt and pepper. Pour onto tray, spread out."
+    },
+    {
+      "order": 4,
+      "instruction": "Roast 15 minutes. Toss, then roast a further 10 minutes until soft and caramelised on the edges with plenty of glaze left on the tray."
+    },
+    {
+      "order": 5,
+      "instruction": "Toss carrots in the glaze, sprinkle with parsley if using. Serve warm."
+    }
+  ]
+}

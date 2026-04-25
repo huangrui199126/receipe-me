@@ -1,0 +1,325 @@
+{
+  "id": "tr_382",
+  "title": "Massaman Curry",
+  "image": "https://www.recipetineats.com/tachyon/2018/08/Massaman-Curry_3.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/massaman-curry/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 120,
+  "tags": [
+    "massaman curry"
+  ],
+  "nutrition": {
+    "calories": 747,
+    "protein": 38.0,
+    "carbs": 27.0,
+    "fat": 56.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemongrass ((Note 1))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  dried red Asian chillis ((not Thai! Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eschallots (, peeled (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic (, unpeeled)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 cm / 2.25\"   galangal piece (, peeled, cut into 3/4 cm / 1/2\" slices (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 - 6 tbsp water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "ground cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "ground nutmeg",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cardamom",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 1.4lb   beef chuck (, cut into 4cm / 2.5\" cubes (Note 5))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "500",
+      "unit": "ml",
+      "name": "/ 2 cups   beef broth (, low sodium)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65 ml  vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "400",
+      "unit": "ml",
+      "name": "/ 14 oz   coconut milk ((full fat, 1 can))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cinnamon quill",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "tamarind paste/puree ((Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium-small potatoes (, peeled and cut into 2.5cm / 1\" pieces)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "peanuts (, roughly chopped)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely sliced red chilli ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Asian fried shallots ((optional, Note 7))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Steamed jasmine rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 26
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Remove reedy outer layers and trim lemongrass per Note 1.&nbsp;"
+    },
+    {
+      "order": 2,
+      "instruction": "Reserve all the trimmings (for beef). Finely chop the white part (for paste."
+    },
+    {
+      "order": 3,
+      "instruction": "Place Beef ingredients in a medium saucepan. Liquid should almost cover beef but not completely - if not, add water."
+    },
+    {
+      "order": 4,
+      "instruction": "Add lemongrass trimmings."
+    },
+    {
+      "order": 5,
+      "instruction": "Bring to boil over high heat, then reduce heat and simmer gently for 1.5 - 2 hours until beef is fork tender."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove beef. If there's much more than 1.5 cups liquid, simmer to reduce. Set liquid aside."
+    },
+    {
+      "order": 7,
+      "instruction": "Place heavy based skillet over high heat until smoking (no oil)."
+    },
+    {
+      "order": 8,
+      "instruction": "Add eschalot, garlic and galangal in skillet. Get a nice char on them, then remove (~1.5 minutes)."
+    },
+    {
+      "order": 9,
+      "instruction": "Add dried chillies into skillet, char 10 seconds or so on each side until charred, then remove."
+    },
+    {
+      "order": 10,
+      "instruction": "Once cool enough to handle: Grate galangal. Peel garlic.&nbsp;Break chillies in half, shake out seeds and discard."
+    },
+    {
+      "order": 11,
+      "instruction": "Wipe the skillet used above or use a clean one. Heat on medium heat, add&nbsp;Spice Paste Dried Spices. Toast for 30 seconds or until they start to smell fragrant - do not let them burn. Immediately transfer into bowl."
+    },
+    {
+      "order": 12,
+      "instruction": "Place chillies in food processor. (Note 8) Blitz until finely chopped."
+    },
+    {
+      "order": 13,
+      "instruction": "Add galangal, finely chopped lemongrass, the toasted Spice Paste Dried Spices, and remaining Spice Paste ingredients, starting with 4 tbsp water.&nbsp;Blitz until smooth - add more water if required."
+    },
+    {
+      "order": 14,
+      "instruction": "Place oil in a pot or large skillet over medium high heat. Add curry paste and cook for 3 minutes until the liquid has cooked out and it's thick and fragrant."
+    },
+    {
+      "order": 15,
+      "instruction": "Add coconut milk, stir to incorporate."
+    },
+    {
+      "order": 16,
+      "instruction": "Add cinnamon, star anise and reserved beef braising liquid. Reduce heat to medium and simmer for 3 minutes."
+    },
+    {
+      "order": 17,
+      "instruction": "Stir in fish sauce, tamarind and sugar, stir."
+    },
+    {
+      "order": 18,
+      "instruction": "Add potatoes and cook for 7 minutes or until potatoes are tender, turning as required."
+    },
+    {
+      "order": 19,
+      "instruction": "Add beef and simmer for 2 minutes or until sauce has reduced and thickened."
+    },
+    {
+      "order": 20,
+      "instruction": "Adjust: saltiness with fish sauce, sour with tamarind and sweet with sugar.&nbsp;The taste should be sweet, salty and sour, with more emphasis on the sweet and sour notes. Top up with a little water if the curry seems too thick"
+    },
+    {
+      "order": 21,
+      "instruction": "Serve over jasmine rice, garnished with peanuts (essential!) plus optional crispy Asian shallots and fresh chillies."
+    }
+  ]
+}

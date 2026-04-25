@@ -1,0 +1,172 @@
+{
+  "id": "tr_435",
+  "title": "Salmon with Herb & Garlic Cream Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2021/01/Salmon-in-Creamy-Herb-Garlic-Sauce_4-SQ.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-herb-garlic-salmon-sauce/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "creamy herb and garlic salmon sauce",
+    "pan seared salmon",
+    "salmon sauce",
+    "sauce for salmon"
+  ],
+  "nutrition": {
+    "calories": 538,
+    "protein": 34.0,
+    "carbs": 4.0,
+    "fat": 40.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  salmon fillets (, skinless (~180g/6oz each) (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "15",
+      "unit": "g",
+      "name": "/ 1 tbsp  butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "dry white wine ((or more chicken stock) (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "chicken or vegetable stock/broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cream (, heavy/thickened )",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parmesan (, finely grated (grate your own, Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "tarragon leaves* (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "chervil* (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "parsley* (, finely chopped, plus more for garnish)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Season: Pat salmon dry, then sprinkle with salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Pan-sear: Heat oil in a large non stick skillet over medium high heat. Add salmon, presentation side down, and cook for 3 minutes until golden brown."
+    },
+    {
+      "order": 3,
+      "instruction": "Flip: Turn salmon and cook the other side for another 2 minutes, until the internal temperature registers 49°C / 120°F (for medium-rare, recommended) or until cooked to your taste (Note 5)."
+    },
+    {
+      "order": 4,
+      "instruction": "Butter baste: When it&#039;s almost cooked, add the butter. Melt, then spoon over the salmon a few times."
+    },
+    {
+      "order": 5,
+      "instruction": "Rest: Remove salmon onto plate, and cover loosely with foil to keep warm."
+    },
+    {
+      "order": 6,
+      "instruction": "Sauté garlic: Add garlic and stir for 20 seconds or until light golden."
+    },
+    {
+      "order": 7,
+      "instruction": "Reduce wine: Add white wine, turn up heat to high. Bring to simmer while stirring base of the pan to dissolve all the golden bits into the sauce. Cook 1 minute or until it most evaporates and the wine-y smell is gone."
+    },
+    {
+      "order": 8,
+      "instruction": "Thicken cream &amp; stock: Add cream and chicken stock, then simmer on medium heat for 2 - 3 minutes until reduced and slightly thickened."
+    },
+    {
+      "order": 9,
+      "instruction": "Add parmesan &amp; herbs: Stir through parmesan (this will thicken sauce more), then the herbs. Taste sauce and see if more salt and pepper is needed."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve: Serve salmon with Creamy Sauce, ensuring there&#039;s something on the plate to soak up all that amazing sauce! Mashed Potato rates highly. See above video for list of suggestions (including side salads)."
+    }
+  ]
+}

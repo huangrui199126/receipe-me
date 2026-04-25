@@ -1,0 +1,141 @@
+{
+  "id": "tr_850",
+  "title": "Our best No Mayo Coleslaw",
+  "image": "https://www.recipetineats.com/tachyon/2020/08/No-Mayo-Coleslaw_9-SQ.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/best-no-mayo-coleslaw/",
+  "servings": 10,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "no mayo coleslaw"
+  ],
+  "nutrition": {
+    "calories": 99,
+    "protein": 1.0,
+    "carbs": 9.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  large head green cabbage (or 1/2 small head) (, shredded (~12 cups, Note 1))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium fennel bulb (, trimmed, halved and shaved at 1.5 mm on a mandolin (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red apple ((any kind is fine), halved and thinly sliced (1.5 mm thick))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dill leaves, roughly chopped ((about 1 whole bunch))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "caraway seeds ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  small clove garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "apple cider vinegar (, or less to taste (Note 6))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "caster sugar ((Note 5))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt ((Note 5))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Dressing: Shake Dressing ingredients in a jar."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss! Place cabbage, fennel, apple and dill in a very large bowl. Pour over Dressing, toss well."
+    },
+    {
+      "order": 3,
+      "instruction": "Sprinkle with caraway seeds then toss again."
+    },
+    {
+      "order": 4,
+      "instruction": "Set aside for at least 1 hour to allow cabbage to wilt. Give it a good toss, then transfer to serving bowl and serve!"
+    },
+    {
+      "order": 5,
+      "instruction": "Storage: Keeps perfecty for 3 to 4 days in the fridge. Dressing stops apple from going brown. Best to bring to room temperature before serving."
+    }
+  ]
+}

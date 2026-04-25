@@ -1,0 +1,192 @@
+{
+  "id": "tr_255",
+  "title": "Baked Mac and Cheese",
+  "image": "https://www.recipetineats.com/tachyon/2020/11/Baked-Mac-and-Cheese-pull-shot.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baked-mac-and-cheese/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 60,
+  "tags": [
+    "baked mac and cheese",
+    "best mac and cheese",
+    "mac and cheese recipe",
+    "macaroni and cheese"
+  ],
+  "nutrition": {
+    "calories": 551,
+    "protein": 23.0,
+    "carbs": 48.0,
+    "fat": 29.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz  macaroni (elbow pasta)",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "(15g)  unsalted butter  ((or 2 tsp oil))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30g)  unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "(60g)  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "milk (, warmed (low or full fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "freshly shredded cheese, gruyere best ((followed by cheddar and Colby) (Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "freshly shredded mozzarella cheese (, or more other cheese of choice (Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook pasta: Bring a large pot of water to the boil. Add macaroni and cook per packet directions MINUS 1 minute."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss in butter: Drain, return pasta to pot, add butter and toss until melted. Set aside to cool while making the Sauce (Optional - Note 3)."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix together Topping. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven to 180°C/350°F (all oven types)."
+    },
+    {
+      "order": 5,
+      "instruction": "Make roux: In a large saucepan or in an ovenproof skillet (I use my 26cm/9&quot; Lodge cast iron skillet), melt butter over medium heat. Add flour and cook, stirring constantly, for 1 minute."
+    },
+    {
+      "order": 6,
+      "instruction": "Add milk: Add about 1 cup of the milk and mix to dissolve the paste into the milk. Then add remaining milk and mix until lump free (use whisk if required)."
+    },
+    {
+      "order": 7,
+      "instruction": "Add Seasonings: Mix in salt and Seasonings if using."
+    },
+    {
+      "order": 8,
+      "instruction": "Thicken sauce: Cook, stirring/whisking regularly, for 5 - 8 minutes until thickened to a cream consistency. When the Sauce coats the back of a wooden spoon, you should be able to draw a path with your finger."
+    },
+    {
+      "order": 9,
+      "instruction": "Add cheese: Remove from stove, add cheese and stir - cheese doesn&#39;t need to melt."
+    },
+    {
+      "order": 10,
+      "instruction": "Check salt: Adjust salt to taste (if you use recommended cheeses, you won&#39;t need more)."
+    },
+    {
+      "order": 11,
+      "instruction": "Assemble: Pour Sauce into pot with Macaroni. Stir quickly, then pour back into the skillet (I did this) or a baking dish (Note 4). Sprinkle with breadcrumb topping."
+    },
+    {
+      "order": 12,
+      "instruction": "Bake for 25 minutes or until top is light golden. Don&#39;t bake too long otherwise you&#39;ll bake away the Sauce!"
+    },
+    {
+      "order": 13,
+      "instruction": "Serve: Serve immediately! I sprinkled mine with a bit of fresh parsley. See notes for best make-ahead method."
+    }
+  ]
+}

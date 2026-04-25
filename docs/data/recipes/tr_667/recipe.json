@@ -1,0 +1,192 @@
+{
+  "id": "tr_667",
+  "title": "Baked sausage breakfast hash",
+  "image": "https://www.recipetineats.com/tachyon/2025/06/Baked-breakfast-hash-sausage-potatoes_4.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baked-sausage-breakfast-hash/",
+  "servings": 4,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "breakfast hash",
+    "oven baked hash",
+    "potato hash",
+    "sausage hash"
+  ],
+  "nutrition": {
+    "calories": 723,
+    "protein": 29.0,
+    "carbs": 33.0,
+    "fat": 52.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 1.6lb  potatoes",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "smoked paprika ((sub regular))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried thyme ((sub any dried herb))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "onion powder ((sub more garlic powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "garlic powder ((sub more onion))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / table salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red capsicum / bell pepper (, cut into 2.5cm/1\" squares)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion (, cut into 1cm / 0.4\" wedges)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of   salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 4 oz  streaky bacon (, cut into 2.5cm/1&quot; squares)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1 lb  good pork sausages (, or any sausage you want (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Eggs - as many as you want! ((and can fit))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "parsley (, roughly chopped (optional garnish))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Hot buttered toast ((optional))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bake seasoned potatoes 15 minutes at 200°C/400°F (180°C fan). Toss capsicum and onion with oil, salt &amp; pepper, add to tray, toss. Dot with sausage meat (squeeze out), sprinkle with bacon, bake 35 minutes, tossing at the 20 minute mark. Reduce oven to 180°C/350°F (160°C fan). Make wells, crack in eggs, bake 7 minutes or until set to your taste."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat the oven to 200°C / 400°F (180°C fan-forced)."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss the potatoes with the oil and seasoning in a bowl. Spread on a lined tray, just big enough to hold everything in snugly rather than spread in a single layer (Note 3). Bake for 15 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Capsicum and onion - Meanwhile, in the still-dirty potato bowl, toss the capsicum and onion with the oil, salt and pepper. Add to tray, then toss with the potatoes."
+    },
+    {
+      "order": 5,
+      "instruction": "Sausage &amp; bacon - Squeeze dollops of the sausage meat out of the casings and dot them randomly on top (you could cut the sausages using a knife, but that just isn&#39;t as fun). Scatter with bacon."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake 35 minutes - Bake 20 minutes. Toss, then bake for a further 15 minutes, or until potatoes are soft."
+    },
+    {
+      "order": 7,
+      "instruction": "Lower oven to 180°C/350°F (160°C fan)."
+    },
+    {
+      "order": 8,
+      "instruction": "Eggs - Push the potato aside to make holes for the eggs. Crack eggs in. Return to oven for 7 minutes or until eggs are done to your liking (I like runny yolks which means just-set whites!)."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve - Scatter with parsley, then serve!"
+    }
+  ]
+}

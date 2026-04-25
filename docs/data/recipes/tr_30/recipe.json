@@ -1,0 +1,211 @@
+{
+  "id": "tr_30",
+  "title": "Shepherd's Pie Potato Skins",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/Shepherds-Pie-Potato-Skins-2-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/shepherds-pie-potato-skins/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 528,
+    "protein": 26.1,
+    "carbs": 75.6,
+    "fat": 13.9
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   lamb or beef mince ((ground meat))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  onion ((brown, white or yellow), diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "frozen mixed vegetables ((pea, corn, carrots) (or fresh))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "beef stock/broth ((or 1 stock / bouillon cube dissolved in hot water))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "½",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  large potatoes (, scrubbed clean (about 400g/13oz each))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½ to 1 cup milk ((full or low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "butter ((optional – but highly recommended))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Prick the potatoes with a fork (about 6 times on each potato) and microwave on high for 5 minutes. Then turn and microwave for a further 5 minutes. Pierce with a knife to check if they are cooked."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove from microwave (use a dish cloth). Cut off the tops and scoop out the center using a spoon, leaving a fairly thin skin (about 0.5 cm / 0.2”)."
+    },
+    {
+      "order": 4,
+      "instruction": "Place the potato scooped out in a bowl. Add milk, butter and salt and mash with a potato masher until smooth, or to your liking."
+    },
+    {
+      "order": 5,
+      "instruction": "If you want to pipe the filling, place the mashed potato into a piping back with a large star tip nozzle."
+    },
+    {
+      "order": 6,
+      "instruction": "Meanwhile, make the filling. Heat the olive oil in a large fry pan over medium high heat."
+    },
+    {
+      "order": 7,
+      "instruction": "Add onion and garlic, sauté for 2 minutes until softened."
+    },
+    {
+      "order": 8,
+      "instruction": "Turn up heat to high. Add mince beef (ground beef) and cook, breaking up the mince as you go, until nicely browned and cooked – about 3 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Sprinkle over flour and stir to combine."
+    },
+    {
+      "order": 10,
+      "instruction": "Add remaining ingredients and stir to combine. Bring to simmer and continue to stir until the sauce is thick and glossy – around 2 minutes."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove from heat."
+    },
+    {
+      "order": 12,
+      "instruction": "Fill each potato with the Filling so it is slightly heaped. Push down lightly to pack the filling in well."
+    },
+    {
+      "order": 13,
+      "instruction": "Pipe over the mashed potato, or scoop it on with a spoon then fluff it up with a fork. You probably won’t use all of it – save the remainder or serve it on the side."
+    },
+    {
+      "order": 14,
+      "instruction": "Place in the oven and bake for 15 to 20 minutes until the mashed potato is starting to brown on the ridges."
+    },
+    {
+      "order": 15,
+      "instruction": "Serve immediately!"
+    }
+  ]
+}

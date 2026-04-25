@@ -1,0 +1,211 @@
+{
+  "id": "tr_178",
+  "title": "Easy Chinese Honey Sesame Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2016/02/Chinese-Honey-Sesame-Chicken_6.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easy-chinese-honey-sesame-chicken/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 425,
+    "protein": 40.1,
+    "carbs": 26.3,
+    "fat": 17.2
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   chicken thighs (, cut into 1.2cm/ 1/2\" slices (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame paste OR tahini ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "sesame seeds (, toasted)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "plain flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine ((Shaoshing / Shaoxing wine) or sherry (or use chicken broth/stock))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "chicken broth / stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "rice wine vinegar or Chinese black vinegar ((or ordinary white vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "soy sauce (, all purpose ordinary (Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "cornstarch / cornflour mixed with 2 tbsp water",
+      "emoji": "🌾",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "oil ((vegetable, canola, peanut))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion/shallot stem (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "sesame seeds (, toasted)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200C/430F with shelf placed on the highest level. Spray baking tray with oil."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix sesame paste and soy sauce in a bowl (to loosen it up, easier to coat chicken). Add chicken, salt and sesame seeds."
+    },
+    {
+      "order": 3,
+      "instruction": "Place flour in a separate bowl and coat chicken in flour, shaking off excess. Place chicken on baking tray."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake for 12 minutes. Remove from oven."
+    },
+    {
+      "order": 5,
+      "instruction": "Flick to broiler/grill as high as it will go with shelf about 15cm/6\" from the heat source."
+    },
+    {
+      "order": 6,
+      "instruction": "Turn chicken. Broiler/grill for 5 minutes until golden and quite crispy (Note 4), then remove."
+    },
+    {
+      "order": 7,
+      "instruction": "Meanwhile, mix together Sauce in one bowl and Cornstarch in another."
+    },
+    {
+      "order": 8,
+      "instruction": "Heat oil in a wok or skillet (I used a skillet) over medium heat. Add garlic and cook for 30 seconds until fragrant but not browned."
+    },
+    {
+      "order": 9,
+      "instruction": "Add Sauce and bring to bubble. Add Cornstarch and cook for 30 seconds until it thickens into a thick syrup."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove the Sauce immediately from the stove and pour over the chicken."
+    },
+    {
+      "order": 11,
+      "instruction": "Toss chicken in Sauce then sprinkle over Sesame Seeds and Shallots/Scallions to serve. Serve with rice."
+    }
+  ]
+}

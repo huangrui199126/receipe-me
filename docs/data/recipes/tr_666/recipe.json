@@ -1,0 +1,160 @@
+{
+  "id": "tr_666",
+  "title": "Bread and Butter Pudding",
+  "image": "https://www.recipetineats.com/tachyon/2020/09/Bread-Butter-Pudding_4-SQ.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/bread-and-butter-pudding/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "bread and butter pudding",
+    "leftover bread recipes",
+    "pudding recipes",
+    "winter dessert"
+  ],
+  "nutrition": {
+    "calories": 426,
+    "protein": 9.0,
+    "carbs": 50.0,
+    "fat": 22.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  heaped cups white bread, preferably slightly stale, cut into 2.5 cm / 1&quot; cubes  ((see Note 1 if for pre-sliced bread))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sultanas or raisins (or more!)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "milk ((low or full fat, not zero fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "heavy / thickened cream  ((or any other cream, Note 2 for more milk option))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "/ 40g  unsalted butter, melted and cooled",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cinnamon powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp   unsalted butter, melted - for top pre baking",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "20",
+      "unit": "g",
+      "name": "/ 1 1/2 tbsp   unsalted butter, melted - for brushing post baking ((optional))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Icing sugar / powdered sugar, for dusting",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Ice cream, cream, custard, chocolate sauce, caramel sauce, etc",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (all oven types)"
+    },
+    {
+      "order": 2,
+      "instruction": "Egg Mixture: Place eggs in a large bowl, whisk briefly. Add remaining Egg Mixture ingredients and whisk."
+    },
+    {
+      "order": 3,
+      "instruction": "Soak Bread: Add bread and sultanas, briefly mix, then set aside for 3 minutes to allow egg mixture to soak through the bread."
+    },
+    {
+      "order": 4,
+      "instruction": "Transfer to baking dish: Pour into a baking dish (10 cup / 2.5 litre / 2.5 quart). If you have lots of sultanas on the surface, poke them below the surface (Note 3)."
+    },
+    {
+      "order": 5,
+      "instruction": "Drizzle then bake: Drizzle over melted butter, then bake for 25 - 30 minutes or until golden on top and the inside is set but still slightly wobbly (poke to check)."
+    },
+    {
+      "order": 6,
+      "instruction": "Brush with remaining 1 1/2 tbsp melted butter (optional), then dust with icing sugar."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve - rest for a few ninutes, then serve immediately, with toppings of choice! My favourites are ice cream, custard and cream."
+    }
+  ]
+}

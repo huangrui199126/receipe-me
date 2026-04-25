@@ -1,0 +1,158 @@
+{
+  "id": "tr_1006",
+  "title": "Kimchi Fried Rice",
+  "image": "https://www.recipetineats.com/tachyon/2021/03/Kimchi-Fried-Rice_7-SQ.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/korean-kimchi-fried-rice/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 6,
+  "tags": [
+    "fried rice recipe",
+    "kimchi fried rice",
+    "korean fried rice",
+    "korean rice dish",
+    "korean side dish",
+    "spicy fried rice"
+  ],
+  "nutrition": {
+    "calories": 243,
+    "protein": 6.0,
+    "carbs": 39.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil (, toasted, separated (1 tsp + 1 tsp))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/7oz  enoki mushrooms ((Note 1))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil (, vegetable, peanut or canola)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "gochujang ((Korean chilli paste, Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(packed) kimchi ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "kimchi juice (, from the kimchi above (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "cooked (, day old white rice (Note 4))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fried egg (, runny yolk, sunny-side up)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Green onions (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crispy seaweed strips ((Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Strain kimchi juice – Place kimchi in a sieve set over a bowl. Press firmly to extract as much juice as you can. We need juice for the sauce, and to reduce the wetness of the kimchi so it doesn&#039;t make the rice soggy."
+    },
+    {
+      "order": 2,
+      "instruction": "Measure kimchi juice – Measure out 3 tablespoons of the kimchi juice and set aside. (Note 3 if you&#039;re short)."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook enoki mushrooms – Heat 1 tsp sesame oil in a large non-stick pan over medium-high heat. Add enoki mushrooms, about 1/2 tsp garlic, plus a pinch of salt and pepper. Cook for 1 1/2 minutes until just-wilted, then remove to a plate."
+    },
+    {
+      "order": 4,
+      "instruction": "Garlic and gochujang – Return pan to the stove. Add oil. Add garlic and cook for 20 seconds until it&#039;s lightly golden. Add gochujang and cook for 30 seconds until it dries out a bit – just move it around in a lump, breaking it up a bit as you can."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook kimchi – Add kimchi and cook for 1 minute, just to heat it through (kimchi doesn&#039;t need to be cooked) and drive off any excess moisture."
+    },
+    {
+      "order": 6,
+      "instruction": "Add rice and kimchi juice – Add rice and kimchi juice, toss well for 1 1/2 minutes until the rice is fully stained red. Toss well to ensure the gochujang mixed with the kimchi disperses throughout the rice."
+    },
+    {
+      "order": 7,
+      "instruction": "Enoki mushrooms and 1 tsp sesame oil – Add the enoki mushrooms and remaining 1 teaspoon of sesame oil. Toss through rice."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve, topped with garnishes of choice!"
+    }
+  ]
+}

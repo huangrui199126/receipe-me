@@ -1,0 +1,109 @@
+{
+  "id": "tr_1095",
+  "title": "Incredible, Simple French Carrot Salad",
+  "image": "https://www.recipetineats.com/tachyon/2019/10/Carrot-Salad_9.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/carrot-salad-with-honey-dijon-dressing/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "carrot salad"
+  ],
+  "nutrition": {
+    "calories": 125,
+    "protein": 1.0,
+    "carbs": 9.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  carrots (, medium, peeled)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green onion stems (, finely sliced on the diagonal)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "parsley (, finely chopped (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice (, fresh)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Grate the carrot use a standard box grater (or the shredder attachment of food processor). Aim for strands about 4cm/1.5&quot; long."
+    },
+    {
+      "order": 2,
+      "instruction": "Place in a bowl with green onion and parsley."
+    },
+    {
+      "order": 3,
+      "instruction": "Shake Dressing ingredients in a jar. Pour over carrot, toss then serve."
+    }
+  ]
+}

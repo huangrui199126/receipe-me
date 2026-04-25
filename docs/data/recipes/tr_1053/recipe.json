@@ -1,0 +1,102 @@
+{
+  "id": "tr_1053",
+  "title": "Creamy Cucumber Salad with Lemon Yogurt Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2019/10/Cucumber-Salad-Mint-Yogurt_1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-cucumber-salad-lemon-yogurt-dressing/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "creamy cucumber salad",
+    "dressing for cucumber salad"
+  ],
+  "nutrition": {
+    "calories": 109,
+    "protein": 3.0,
+    "carbs": 8.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  cucumbers (, standard (or 2 long Telegraph/English cucumbers) (Note 1))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "mint leaves (, finely chopped (or 2 tsp dried mint))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "yogurt (, full fat (Greek or plain))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt and pepper (, each)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Dressing: Mix ingredients then leave for 20 minutes for the flavours to develop."
+    },
+    {
+      "order": 2,
+      "instruction": "Cucumber: Cut cucumber in half lengthwise, then slice into 3mm / 1/8&quot; thick slices."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss: Place cucumber, onion and mint in a bowl. Pour over Dressing and toss, then serve."
+    }
+  ]
+}

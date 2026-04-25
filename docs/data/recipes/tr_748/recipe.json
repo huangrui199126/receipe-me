@@ -1,0 +1,254 @@
+{
+  "id": "tr_748",
+  "title": "Panang Curry - real, from scratch",
+  "image": "https://www.recipetineats.com/tachyon/2023/08/Panang-curry-prawn_8-close-up.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/panang-curry/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 30,
+  "tags": [
+    "panang curry",
+    "thai curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "700g/ 1.4 lb  whole raw prawns/shrimp ((ie shell on), medium ~8cm / 3\"long - Note 1)",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "/ 12 oz  boneless, skinless chicken thighs (, cut into 7mm/ 1/3&quot; slices)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "chicken stock/broth (, low-sodium (not fish/seafood - Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "dried Chinese chillies (not Thai!) ((24 x 6cm/2.5&quot; long, 1/2 cup (15g) once deseeded chopped) - Note 3)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "roasted peanuts unsalted",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  lemongrass stems (, finely grated (2 x 20cm/8&quot; lengths) - Note 4)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eschalots (, roughly chopped (1/2 cup))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "galangal, finely grated  ((~1.5cm / 0.6&quot; piece) - Note 5)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "shrimp paste in bean oil ( - Note 6)",
+      "emoji": "🦐",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each ground coriander, cumin, nutmeg",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "(packed) finely sliced kaffir lime leaves ( (~ 6 leaves) - Note 7)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "coconut cream (, full-fat (standard Aus 270ml small can ok))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "4 1/2",
+      "unit": "tsp",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/7oz  green beans (, trimmed, cut in half (~1 1/2 cups))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  Thai basil leaves ( - Note 8)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Jasmin rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "unsalted peanuts (, finely chopped)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Red cayenne peppers (, finely sliced (optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Thai basil leaves (, 3 leaves per serving - Note 8)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Simmer - Peel and devein prawns, reserving heads and shells. Bring chicken stock to a simmer in a small pot on high heat. Add prawn heads &amp; shells, bring back to a simmer, then reduce to low heat. Simmer uncovered for 15 minutes, periodically crushing the heads lightly with a potato masher and skimming off any orange scum."
+    },
+    {
+      "order": 2,
+      "instruction": "Strain into a jug, discarding heads. You should have just over 300 ml (1 1/4 cups) of stock. Leave undisturbed to let the sediment settle (~ 5min+)."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut chillies in half then tap / squeeze out seeds (use a chopstick if needed for stubborn seeds). Discard seeds (spicy!). Chop chilli."
+    },
+    {
+      "order": 4,
+      "instruction": "Soak dried chillis in 2 cups of boiling water for 30 minutes. Drain in a colander, reserve soaking liquid."
+    },
+    {
+      "order": 5,
+      "instruction": "Peanuts - Put peanuts in a tall jar that comfortably fits the head of a stick blender (or use a small blender). Cover the jar opening with your hand and pulse until finely ground."
+    },
+    {
+      "order": 6,
+      "instruction": "Blitz paste - Add drained chillis and remaining Curry Paste ingredients, along with 1/4 cup of the reserved chilli soaking liquid. Blend, scraping down the sides as you go, for about 30 seconds until smooth, using extra chilli water only if needed to help blend."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook curry paste - Heat oil in a large deep frying pan over medium-low heat. Cook curry paste for 5 minutes, stirring constantly. The paste should be drier, darker, smelling aromatic and no longer raw."
+    },
+    {
+      "order": 8,
+      "instruction": "Sauce – Add 1 cup (250 ml) prawn stock, being careful to pour off just the clearer liquid and leaving the sediment behind. Stir in the coconut cream, sugar, fish sauce and salt. Mix in the green beans."
+    },
+    {
+      "order": 9,
+      "instruction": "Simmer for 2 minutes until the sauce thickens and the beans are half cooked."
+    },
+    {
+      "order": 10,
+      "instruction": "Add prawns, stir, then simmer for another 2 minutes until the prawns are cooked. Stir in the Thai basil leaves. The final taste should lean mostly savoury and sweet, and medium spiciness."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve over jasmine rice garnished with chopped peanuts, chilli and more Thai basil leaves!"
+    }
+  ]
+}

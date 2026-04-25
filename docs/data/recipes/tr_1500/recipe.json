@@ -1,0 +1,89 @@
+{
+  "id": "tr_1500",
+  "title": "Sugar Cookie Hot Chocolate.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/12/Sugar-Cookie-Hot-Chocolate-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/sugar-cookie-hot-chocolate/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "hot chocolate"
+  ],
+  "nutrition": {
+    "calories": 736,
+    "protein": 17.0,
+    "carbs": 64.0,
+    "fat": 32.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "4 1/2",
+      "unit": "cups",
+      "name": "whole milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "sweetened condensed milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "semi-sweet or dark chocolate (chopped)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "almond extract",
+      "emoji": "🥜",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "whipped cream (marshmallows, sugar cookies and or coarse sugar, for topping)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add the milk, sweetened condensed milk, cocoa powder, chocolate, vanilla, and almond extract (if using) to a large pot. Place the pot over medium low heat until the milk is scalding, but not boiling. Be sure to stir the pot often to make sure nothing is sticking to the bottom and burning."
+    },
+    {
+      "order": 2,
+      "instruction": "Once the hot chocolate is steaming, ladle into mugs and dollop with whipped cream. Add marshmallows, cookies and a sprinkle of sugar if desired. Drink!"
+    }
+  ]
+}

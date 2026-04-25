@@ -1,0 +1,154 @@
+{
+  "id": "tr_1615",
+  "title": "Banana Oatmeal with Ricotta, Honey, Orange and Toasted Buckwheat.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/02/Banana-Oatmeal-with-Ricotta-Honey-Orange-and-Toasted-Buckwheat-4-1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/banana-oatmeal-ricotta-honey-orange-toasted-buckwheat/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "banana",
+    "buckwheat",
+    "honey",
+    "oatmeal",
+    "orange",
+    "ricotta"
+  ],
+  "nutrition": {
+    "calories": 1184,
+    "protein": 17.0,
+    "carbs": 92.0,
+    "fat": 44.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "old fashioned oats",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "milk of choice (I like goat milk (almond milk or coconut milk)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of sea salt or kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "dollops of fresh whole milk ricotta",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  banana (sliced)",
+      "emoji": "🍌",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  orange (sliced)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "drizzle of honey or honeycomb",
+      "emoji": "🍯",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "raw buckwheat groats",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "maple syrup or honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "coconut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a medium saucepan, combine the oats, milk and water. Bring the mixture to a low boil and then simmer over medium low heat, stirring often until the liquid has been absorbed and the oats have thickened, about 15 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove from the heat and stir in the vanilla (if using) and salt. If your oatmeal gets too thick, thin with more milk."
+    },
+    {
+      "order": 3,
+      "instruction": "Top with a dollops of ricotta, bananas, oranges plus a drizzle of honey. Finish with toasted buckwheat (see below)"
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat the oven to 350 degrees F. Line a baking sheet with parchment paper."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the buckwheat, maple or honey and coconut oil. Sprinkle with salt. Toss well to combine, making sure everything is evenly coated. Bake for 10 minutes or until the buckwheat is toasted."
+    }
+  ]
+}

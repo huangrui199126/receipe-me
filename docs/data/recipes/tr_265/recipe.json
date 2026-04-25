@@ -1,0 +1,128 @@
+{
+  "id": "tr_265",
+  "title": "How to cook rice - perfectly and easily",
+  "image": "https://www.recipetineats.com/tachyon/2019/09/Cooked-white-rice.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/how-to-cook-rice/",
+  "servings": 3,
+  "prepTime": 1,
+  "cookTime": 13,
+  "tags": [
+    "how to cook rice",
+    "how to cook rice on the stove",
+    "ratio of rice to water",
+    "steamed white rice"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 4.0,
+    "carbs": 45.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "white rice (- short, medium or long grain, uncooked (Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "white rice (- short, medium or long grain (Note 1, 2))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "boiling water ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "white rice (- short, medium or long grain (Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "boiling water ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Check rice type: This recipe is for the following white rice types: long grain, medium grain, short grain (excluding sushi rice). See separate recipes for: basmati, jasmin and brown rice."
+    },
+    {
+      "order": 2,
+      "instruction": "DO NOT RINSE your rice (read intro above for why)."
+    },
+    {
+      "order": 3,
+      "instruction": "Bring to simmer - Place water and rice in a large saucepan over medium high heat. Once the entire surface of the water is bubbling gently(and it gets a bit foamy, see video), turn heat down to low and cover with lid."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook 13 minutes - Cook for 13 minutes. Do not stir, do not remove lid. Water should now all be absorbed - tilt to check."
+    },
+    {
+      "order": 5,
+      "instruction": "Rest - Remove from stove, still with lid, and leave for 10 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Fluff - Remove lid, fluff with rice paddle or fork, and serve!"
+    },
+    {
+      "order": 7,
+      "instruction": "Preheat oven to 200°C/390°F (180°C fan forced)."
+    },
+    {
+      "order": 8,
+      "instruction": "Pot - Use a small casserole pot about 24cm/10&quot; wide with a lid. (Note 4)"
+    },
+    {
+      "order": 9,
+      "instruction": "Bake 35 minutes - Place boiling water and rice in pot, cover with lid and bake for 35 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Rest &amp; fluff - Remove from oven, and leave for 10 minutes with the lid still on. Remove lid, fluff with rice paddle or fork, and serve! (Makes 6 cups)"
+    },
+    {
+      "order": 11,
+      "instruction": "Place rice and boiling water in tall microwave proof container (Note 5)."
+    },
+    {
+      "order": 12,
+      "instruction": "Microwave on high for 12 minutes with NO LID (1100 - 1200W microwaves)."
+    },
+    {
+      "order": 13,
+      "instruction": "Rest &amp; fluff - Remove, cover with lid, leave for 10 minutes. Remove lid, fluff with rice paddle or fork, and serve!"
+    }
+  ]
+}

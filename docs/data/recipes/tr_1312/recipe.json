@@ -1,0 +1,127 @@
+{
+  "id": "tr_1312",
+  "title": "Seafood Spaghetti Marinara",
+  "image": "https://www.recipetineats.com/tachyon/2016/06/Seafood-Marinara-Spaghetti_2.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/seafood-spaghetti-marinara/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 660,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "oz",
+      "name": "/ 180g   dried spaghetti pasta ((or other long pasta of choice))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "olive oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "10",
+      "unit": "oz",
+      "name": "/ 300g   seafood Marinara mix (, or make your own (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely chopped (~1/2 cup))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "white wine ((any) (Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "tomato passata/tomato puree ((Note 3) OR 600g/20oz canned crushed tomato + 1/2 cup water)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped fresh parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a large pot of salted water to boil. Cook pasta according to packet directions, but reduce the cooking time by 1 minute (because the pasta will finish cooking in the sauce). RESERVE 1 mug of pasta water, then drain the pasta."
+    },
+    {
+      "order": 2,
+      "instruction": "Separate the seafood mix based on cook time. Longest cook time: fish and medium / large prawns, medium cook time: small prawns, shortest cook time: calamari."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 1 1/2 tbsp oil in a large skillet over high heat. Add fish and large prawns first, cook for 30 seconds. Add small prawns, cook for 30 seconds. Add calamari, cook for 1 minute. Immediately transfer everything to a bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Reduce heat to medium high. Heat remaining 1 tbsp oil, then add garlic and onion. Cook for 3 minutes until onion is translucent."
+    },
+    {
+      "order": 5,
+      "instruction": "Add wine and bring to simmer, scraping the bottom of the skillet to mix the brown bits into the liquid. Simmer for 1 minute or until alcohol smell has evaporated."
+    },
+    {
+      "order": 6,
+      "instruction": "Add tomato passata, sugar, salt &amp; pepper. Low heat to medium high, bring to simmer and cook for 2 minutes. Adjust salt and pepper to taste."
+    },
+    {
+      "order": 7,
+      "instruction": "Add pasta, seafood, around 1/2 cup of reserved pasta cooking water into the sauce. Toss gently and cook for 1 to 2 minutes or until the sauce has thickened and coats the pasta."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve, garnished with fresh parsley. (See Note 4 re: parmesan cheese)"
+    }
+  ]
+}

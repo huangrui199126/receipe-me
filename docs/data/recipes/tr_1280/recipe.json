@@ -1,0 +1,158 @@
+{
+  "id": "tr_1280",
+  "title": "Hot Ham and Cheese Sliders",
+  "image": "https://www.recipetineats.com/tachyon/2023/12/Hot-Ham-and-Cheese-Sliders_2.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/hot-ham-and-cheese-sliders/",
+  "servings": 12,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "baked ham and cheese sandwiches",
+    "hot ham and cheese sliders"
+  ],
+  "nutrition": {
+    "calories": 332,
+    "protein": 16.0,
+    "carbs": 23.0,
+    "fat": 20.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  standard or 24 small soft white roll slab ((23 x 33cm / 9 x 13&quot; slab) - Note 1)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "American mustard ( (ie bright yellow stuff) - Note 2)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "350g/ 12 oz   ham (, shaved or thinly sliced (up to 500g/1lb, Note 3))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250g/ 8 oz  Swiss cheese ( or other melting cheese slices (10 - 12 slices))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "(7 tbsp)  unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "American mustard ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "poppyseeds ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder ((sub fresh garlic, finely minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C / 350°F (160°C fan-forced). Line the base of a 23 x 33cm / 13 x 9&quot; pan with paper (Note 5)"
+    },
+    {
+      "order": 2,
+      "instruction": "Savoury Butter - Mix ingredients together."
+    },
+    {
+      "order": 3,
+      "instruction": "Assemble base - Cut the slab of rolls in half horizontally. Spread base and lid with the 1/3 cup mustard. Place bread in pan, top with ham then cheese. NO LID YET!"
+    },
+    {
+      "order": 4,
+      "instruction": "Bake topless - Bake 10 minutes until the cheese is melted. (Note 6)"
+    },
+    {
+      "order": 5,
+      "instruction": "Smother - Remove bread from oven. Top with bread lid, pour/spoon over butter, leaving no patch naked."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake covered - Cover with foil, bake 20 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Pierce for soakage - Remove foil. Pierce the intersections where the corners of the rolls meet to encourage pooled butter to soak into the bread."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake uncovered for 10 minutes or until top is crusty."
+    },
+    {
+      "order": 9,
+      "instruction": "Cut while hot then serve!"
+    }
+  ]
+}

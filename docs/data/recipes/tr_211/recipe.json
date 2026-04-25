@@ -1,0 +1,151 @@
+{
+  "id": "tr_211",
+  "title": "Smoked Salmon and Egg Breakfast Mille-feuille",
+  "image": "https://www.recipetineats.com/tachyon/2015/07/Breakfast-Mille-feuille_680px_5-Main.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/smoked-salmon-and-egg-breakfast-mille-feuille/",
+  "servings": 8,
+  "prepTime": 5,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 213,
+    "protein": 11.1,
+    "carbs": 7.0,
+    "fat": 15.7
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "sheet",
+      "name": "store bought frozen puff pastry (, thawed (25 cm x 25cm / 10\" x 10\"))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cream or full cream milk ((double this for creamier eggs - Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 to 3/4 tsp salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "6",
+      "unit": "oz",
+      "name": "/ 200g   smoked salmon",
+      "emoji": "🐟",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "crème fraîche ((Note 2), plus more for serving (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "chives (, finely chopped, plus more for garnish)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut the puff pastry in half, then each half into 4 pieces to make 8 pieces that are 6 cm x 12.5 cm / 2.5\" x 5\"."
+    },
+    {
+      "order": 3,
+      "instruction": "Place on a baking tray lined with parchment paper (baking paper) or sprayed with oil."
+    },
+    {
+      "order": 4,
+      "instruction": "Whisk the eggs in a bowl. Then brush the puff pastry with the eggs, taking care not to brush the cut sides (optional step - makes the pastry more golden)."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake for 15 to 20 minutes, or until puffed and golden."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from the oven and split each piece in half horizontally (so you have a top and bottom)."
+    },
+    {
+      "order": 7,
+      "instruction": "Place on a rack to cool."
+    },
+    {
+      "order": 8,
+      "instruction": "Whisk the cream into the eggs."
+    },
+    {
+      "order": 9,
+      "instruction": "Melt butter in a pan over medium heat if you have gas or medium high for electric. Don't let the butter brown. Add the eggs and don't touch it for 20 seconds."
+    },
+    {
+      "order": 10,
+      "instruction": "Then use a wooden spoon with a flat edge (or egg flip) to gently scrape the bottom and fold the eggs over. Continue to do this for 30 seconds to 1 minute, until the eggs are mostly cooked but still wet."
+    },
+    {
+      "order": 11,
+      "instruction": "Turn the stove off, add salt and pepper and keep folding until the eggs are just before done to your liking (they will continue to cook for a bit). Remove from the stove."
+    },
+    {
+      "order": 12,
+      "instruction": "Mix the crème fraîche and chives together in a small bowl."
+    },
+    {
+      "order": 13,
+      "instruction": "Place the bottom half of each puff pastry piece on a serving platter. Divide the eggs between them, top with smoked salmon then spread with crème fraîche mixture. Place the top half of the puff pastry on the salmon."
+    },
+    {
+      "order": 14,
+      "instruction": "Serve immediately with extra crème fraîche on the side, if desired."
+    }
+  ]
+}

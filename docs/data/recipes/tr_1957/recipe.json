@@ -1,0 +1,233 @@
+{
+  "id": "tr_1957",
+  "title": "Mrs. Mooney's Secret Gumbo",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/02/Mrs.-Mooneys-Secret-Gumbo-18.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/mrs-mooneys-secret-gumbo/",
+  "servings": 8,
+  "prepTime": 25,
+  "cookTime": 200,
+  "tags": [
+    "gumbo"
+  ],
+  "nutrition": {
+    "calories": 698,
+    "protein": 27.0,
+    "carbs": 18.0,
+    "fat": 29.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large red pepper (diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large green pepper (diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large yellow pepper (diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  celery stalks (diced)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (diced (optional, original recipe does not call for it))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "large can diced tomatoes (14, I like to use fire roasted)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "dried basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "creole seasoning (rounded)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 teaspoons cayenne pepper (less if you do not want it too hot (more if you do))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "8",
+      "unit": "cups",
+      "name": "chicken broth (two 1 quart cartons)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "andouille sausage (sliced + halved again into half circles (NO substitutions))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  boneless skinless chicken thighs (may sub chicken breast if desired)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "file powder (for serving)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "white rice (for serving)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "beer bread  (for serving)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large bowl combine the chopped peppers (red, green and orange), chopped celery, garlic and onion, if using (I typically leave the onion out). Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "In a small to medium size bowl combine the oregano, thyme, basil, creole seasoning, chili powder, cayenne pepper, pepper and salt. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Before you begin the next step, make sure you have completed steps 1 and 2. It is very important to have all your ingredients prepped and ready go."
+    },
+    {
+      "order": 4,
+      "instruction": "Grab a seat. No literally, grab a sit. You cannot walk away from the roux over the next 20-30 minutes. Heat a large heavy bottom soup pot over medium-low heat. Add the canola oil and flour to the pot and whisk to combine. Stir the roux EVERY 15-25 SECONDS. You will be able to smell the flour starting to brown. Continue to gently brown flour without burning it until the mixture turns the color of peanut butter or a dark caramel. This can take 30 minutes or so but it is the heart of the recipe. If you burn it, start over. This time just keep stirring and keep an eye on it! It took me 25 minutes to achieve a dark peanut butter color."
+    },
+    {
+      "order": 5,
+      "instruction": "Once you have your roux made, add all your vegetables (everything in the bowl). The roux will bubble and thicken up immediately into a paste which coats the vegetables. Let the veggies cook over medium heat for about 10 minutes, stirring every couple minutes or so. Sprinkle spice mixture over the vegetables, stir and cook 3-5 minutes longer."
+    },
+    {
+      "order": 6,
+      "instruction": "Add chicken broth, canned tomatoes, chicken thighs and sausage to the pot. Bring the gumbo to a boil, reduce the heat and simmer, covered for at least 3 hours or up to all day (the longer the better for flavors to blend). The gumbo should be the consistency of stew. If too much of the liquid evaporates add water to thin and if there is too much liquid leave the top off the soup and cook 30 minutes longer. Once the meat has cooked through, skim fat from top and lightly shred the chicken. Serve over rice and sprinkle with file powder (sassafras powder) if you have it. [Beer Bread | https://www.halfbakedharvest.com/5-ingredient-beer-bread/] is great with this meal!"
+    }
+  ]
+}

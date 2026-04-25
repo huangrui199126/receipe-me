@@ -1,0 +1,221 @@
+{
+  "id": "tr_1065",
+  "title": "Crispy Herb Baked Chicken with Gravy",
+  "image": "https://www.recipetineats.com/tachyon/2019/12/Herb-Baked-Chicken-and-Gravy_4-HERO.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crispy-baked-chicken-with-gravy/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 35,
+  "tags": [
+    "baked chicken",
+    "baked chicken thighs",
+    "crispy baked drumsticks",
+    "juicy roast chicken",
+    "oven roasted chicken"
+  ],
+  "nutrition": {
+    "calories": 331,
+    "protein": 27.0,
+    "carbs": 1.0,
+    "fat": 24.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or canola or peanut oil, NOT butter or olive oil, Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1.8",
+      "unit": "kg",
+      "name": "/ 3.6 lb  whole chicken, butterflied / spatchcocked",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1.8",
+      "unit": "kg",
+      "name": "/ 3.6 lb  large chicken thighs with bone in, skin on AND drumsticks (mix)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried rosemary",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried sage ((or 1/2 tsp ground sage))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "dried marjoram",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt ((coarse / kosher salt, OR 1 3/4 tsp sea salt flakes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(375ml)  chicken stock/broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "dark soy sauce or gravy browner liquid",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pat chicken skin dry with paper towels. Leave chicken in fridge overnight, uncovered, to dry skin out."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 240°C/ 465°F (220°C fan)."
+    },
+    {
+      "order": 3,
+      "instruction": "Line tray with foil then baking / parchment paper, place rack on tray (Note 4)"
+    },
+    {
+      "order": 4,
+      "instruction": "Mix Rub in a bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Pat chicken skin dry with paper towel."
+    },
+    {
+      "order": 6,
+      "instruction": "Drizzle with oil and rub all over, then sprinkle with Rub. Use hands to rub herbs all over the chicken, getting right into all the cracks and crevices. Place on rack."
+    },
+    {
+      "order": 7,
+      "instruction": "Thigh + drumsticks - Arrange thigh pieces skin side up, and for drumsticks the side with the most skin up."
+    },
+    {
+      "order": 8,
+      "instruction": "Butterflied/spatchcocked - Arrange breast side up with tail end of chicken pointed back towards back of oven, neck end closest to door."
+    },
+    {
+      "order": 9,
+      "instruction": "Thighs + drumsticks - roast for 35 minutes or until internal temperature is 75°C/165°F, or juices run clear when pierced in the middle."
+    },
+    {
+      "order": 10,
+      "instruction": "Butterflied/spatchcocked - roast for 45 minutes, or until internal temperature is: 66°C / 151°F for the breast AND 75°C/165°F when inserted into the joint between the leg and the thigh."
+    },
+    {
+      "order": 11,
+      "instruction": "Extra browning - if skin isn&#x27;t browned/crispy enough, flick grill/broiler on high for 1 - 3 minutes. CAREFUL - browns super quick!"
+    },
+    {
+      "order": 12,
+      "instruction": "Tent VERY loosely with foil (to preserve crispy skin) for 5 minutes."
+    },
+    {
+      "order": 13,
+      "instruction": "Scrape every bit of juice, fat and all the brown stuff off the tray into a saucepan."
+    },
+    {
+      "order": 14,
+      "instruction": "Turn stove onto medium. Once juices are bubbling, add flour and whisk to combine."
+    },
+    {
+      "order": 15,
+      "instruction": "Slowly pour in broth, whisking as you go."
+    },
+    {
+      "order": 16,
+      "instruction": "Add soy sauce or gravy browner and pepper."
+    },
+    {
+      "order": 17,
+      "instruction": "Continue stirring for 3 to 5 minutes - as it becomes steamy, gravy will thicken."
+    },
+    {
+      "order": 18,
+      "instruction": "Once it becomes a syrupy consistency (see video), remove from stove. Adjust salt to taste right at end, then pour into jug."
+    },
+    {
+      "order": 19,
+      "instruction": "Carve up the chicken as you would a roast chicken. Cut breast into 3 or 4 pieces. Cut thighs in half along the bone."
+    },
+    {
+      "order": 20,
+      "instruction": "Pile it all up onto a plate, garnish with parsley or other fresh herbs. Serve with gravy!"
+    }
+  ]
+}

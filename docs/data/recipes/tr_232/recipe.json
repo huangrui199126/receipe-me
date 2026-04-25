@@ -1,0 +1,135 @@
+{
+  "id": "tr_232",
+  "title": "Easy Thanksgiving Menu",
+  "image": "https://www.recipetineats.com/tachyon/2017/11/Thanksgiving-Menu-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easy-thanksgiving-christmas-menu/",
+  "servings": 8,
+  "prepTime": 90,
+  "cookTime": 600,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Juicy Slow Cooker Turkey Breast &amp; Gravy",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Cranberry Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Easy Cheesy Potato Bake",
+      "emoji": "🥔",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "OR Make Ahead Mashed Potato",
+      "emoji": "🥔",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Wild Rice Salad",
+      "emoji": "🍚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Brussel Sprout Salad with Hazelnuts (, Bacon and Apple)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "OR one of these Salad Dressings (with a simple garden or leafy salad)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Creamy Corn Casserole (, Skillet Corn Bread, or Corn Bread Muffins)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Soft NO KNEAD Dinner Rolls ((these are world famous!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Pumpkin Cake with Cream Cheese Frosting for dessert.",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cranberry Sauce - serve at room temperature."
+    },
+    {
+      "order": 2,
+      "instruction": "Pumpkin Cake - store at room temperature."
+    },
+    {
+      "order": 3,
+      "instruction": "Soft No Knead Dinner Rolls - make and rise dough, then form into balls then do the 2nd rise in the baking pan in the refrigerator overnight. Then bake just before serving (20 min)."
+    },
+    {
+      "order": 4,
+      "instruction": "Creamy Corn Casserole, Skillet Corn Bread and Corn Bread Muffins all reheat extremely well in the microwave."
+    },
+    {
+      "order": 5,
+      "instruction": "Easy Cheesy Potato Bake reheats well but if you have the oven time, this is one that is really great made fresh."
+    },
+    {
+      "order": 6,
+      "instruction": "Make Ahead Mashed Potato can be made ahead then reheated in the microwave."
+    },
+    {
+      "order": 7,
+      "instruction": "Morning - prepare turkey and place in slow cooker. Start cooking based on serving time. Turkey is best served fresh for optimum juiciness."
+    },
+    {
+      "order": 8,
+      "instruction": "Prepare salads - keep salad components separate (including dressing). Toss just before serving."
+    }
+  ]
+}

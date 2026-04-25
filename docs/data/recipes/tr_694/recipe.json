@@ -1,0 +1,177 @@
+{
+  "id": "tr_694",
+  "title": "Simple Bean Soup from El Bulli (world's all time greatest restaurant!)",
+  "image": "https://www.recipetineats.com/tachyon/2021/09/El-Bulli-Bean-Soup-with-Picada_21-SQ.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/el-bullis-bean-soup-with-picada/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 45,
+  "tags": [
+    "bean soup",
+    "el bulli recipe",
+    "picada recipe",
+    "vegan soup",
+    "vegetarian soup"
+  ],
+  "nutrition": {
+    "calories": 304,
+    "protein": 15.0,
+    "carbs": 42.0,
+    "fat": 12.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove ((large), minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  brown onion  (, (1 large, 2 small), finely chopped (~180g/6oz))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "fresh thyme (, chopped (sub 1/8 tsp dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "fresh rosemary (, chopped (sub 1/8 tsp dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bay leaf (, fresh (or 1/2 dried))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "tomato passata ((Note 1))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 x 400g/14oz cans cannellini beans (, drained (Note 2 for dried))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "vegetable stock",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh parsley leaves (, roughly chopped (ie chop then lightly pack in))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove ((medium), roughly chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "whole hazelnuts (, skin on (or almonds))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking / kosher salt ((or 1/4 tsp table salt) (Note 4))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Saute onion and herbs 8 minutes: Heat oil in a large heavy based pot over medium heat. Add garlic, onion, herbs and cook, stirring regularly, for 8 minutes until the onions are a deep golden brown and sweet."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook tomato passata 8 minutes: Add tomato passata and cook over low heat for another 8 minutes until the tomato changes from red and watery to dark brown a d very thick. Don&#39;t skimp on this step, it&#39;s key for flavour!"
+    },
+    {
+      "order": 3,
+      "instruction": "Simmer: Stir in the beans followed by the vegetable stock. Adjust heat so it&#39;s bubbling very gently and simmer for 15 minutes with the lid off."
+    },
+    {
+      "order": 4,
+      "instruction": "Blitz: Transfer 2/3 cup (150ml) of soup into a jug or jar large enough to fit the head of a blender stick. Blitz until smooth then stir it back into the soup to thicken the broth."
+    },
+    {
+      "order": 5,
+      "instruction": "Stir in Picada: Just before serving, stir in 2 tablespoons of Picada. Taste and add more salt if needed (canned beans differ in salt). Then serve immediately."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve: Dollop each bowl with 1 teaspoon of remaining Picada. Crusty bread highly recommended (easy Artisan, no yeast bread or French brioche)."
+    },
+    {
+      "order": 7,
+      "instruction": "Toast hazelnuts: Preheat a small skillet over medium heat. Add hazelnuts and toast, shaking the skillet regularly, until there are golden patches and they smell nutty."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove most skin: Transfer hazelnuts to a clean tea towel. Bundle up and rub vigorously with hands to remove most of the skin (which is bitter). (No need to do this with almonds)"
+    },
+    {
+      "order": 9,
+      "instruction": "Blitz: Roughly chop hazelnuts then add into a jug just large enough to fit the head of a stick blender with remaining ingredients. Blitz until it&#39;s like pesto - not completely smooth. Use per recipe."
+    }
+  ]
+}

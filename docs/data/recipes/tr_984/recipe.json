@@ -1,0 +1,134 @@
+{
+  "id": "tr_984",
+  "title": "Devilled eggs",
+  "image": "https://www.recipetineats.com/tachyon/2025/02/Devilled-eggs_8.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/devilled-eggs/",
+  "servings": 18,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "devilled eggs",
+    "egg recipes"
+  ],
+  "nutrition": {
+    "calories": 59,
+    "protein": 3.0,
+    "carbs": 0.2,
+    "fat": 5.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  large eggs ((50-55g / 2 oz each in shell, fridge cold (Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Tabasco or other hot sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "mayonnaise (, whole egg mayo preferred, or kewpie)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4 heaped teaspoon cooking salt / kosher sale ((Note 3))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "50 g/ 3 tbsp   cold unsalted butter (, cut into 1 cm / 0.2\" cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Paprika (, regular/sweet, or smoked)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "chives (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Hard boil eggs, halve, blitz yolks with Filling ingredients except butter, then blitz in butter. Pipe (18 - 20 pieces), garnish, serve!"
+    },
+    {
+      "order": 2,
+      "instruction": "Large pot - Bring a large pot with 15cm / 6 water to the boil. Lower eggs in gently using a spider or slotted spoon. Lower heat a tiny bit if needed to stop the eggs from jostling around so much they crack."
+    },
+    {
+      "order": 3,
+      "instruction": "Boil and swirl - Boil eggs for 10 minutes. Swirl the water every minute for the first 6 minutes, using the handle of a wooden spoon. Give the water 4 or 5 fast stirs in one direction to make the water and eggs swirl in the water. The centrifugal force will make the yolks cook centred in the egg white (ie no thin broken egg white walls) (Note 4)."
+    },
+    {
+      "order": 4,
+      "instruction": "Peel - Fill a sink with cold tap water. Remove eggs from the boiling water using a slotted spoon or spider. Leave for 5 minutes until cool enough to handle. Tap the base then peel under water (it&#39;s easier)."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove yolks - Cut eggs in half and remove the yolks using a teaspoon."
+    },
+    {
+      "order": 6,
+      "instruction": "Filling - Place the yolks and all filling ingredients EXCEPT butter in a small food processor (Note 5). Blitz until yolks are broken up. Add butter and blitz, scraping down the sides as needed, until the butter is blended through. The filling should be creamy (smear with back of spoon to check)."
+    },
+    {
+      "order": 7,
+      "instruction": "Choose the best 18 to 20 egg white halves. (Note 6) Brush yolk crumbs off the cut surface."
+    },
+    {
+      "order": 8,
+      "instruction": "Pipe - Transfer filling into a piping bag fitted with a nozzle of your choice (I use a star). Fill so it&#39;s mounded - I do about the same amount as a whole yolk."
+    },
+    {
+      "order": 9,
+      "instruction": "Sprinkle with paprika and chives. Serve! (Best enjoyed at room temperature rather than fridge cold as the filling is creamier.)"
+    }
+  ]
+}

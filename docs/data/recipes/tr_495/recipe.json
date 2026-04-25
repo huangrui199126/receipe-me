@@ -1,0 +1,239 @@
+{
+  "id": "tr_495",
+  "title": "Lamb korma curry",
+  "image": "https://www.recipetineats.com/tachyon/2024/05/Lamb-korma_main.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lamb-korma-curry/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 150,
+  "tags": [
+    "korma curry",
+    "lamb curry",
+    "lamb korma"
+  ],
+  "nutrition": {
+    "calories": 604,
+    "protein": 33.0,
+    "carbs": 23.0,
+    "fat": 44.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large onions (, cut into 1cm/1/2\" squares (brown or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  large garlic cloves (, peeled, halved)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4cm/ 1.5&quot;  piece ginger (, peeled, sliced 3mm/0.2\" thick)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cashews (, roasted, unsalted (~20 cashews))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "ghee ((Note 1), or unsalted butter)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 1.6 lb  lamb shoulder ((Note 2), trimmed off excess fat, cut into 4-5 cm / 2&quot; cubes)",
+      "emoji": "🐑",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "ground turmeric",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tsp",
+      "name": "ground ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "5 1/2",
+      "unit": "tsp",
+      "name": "garam marsala ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "kashmiri chilli powder ((or smoked paprika + cayenne - Note 4))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken stock/broth (, low-sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  cardamom pods ((green), lightly crushed, wrapped and tied in muslin or cheesecloth (Note 5))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  cinnamon sticks",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "coconut cream (, full-fat (Note 6))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cream (, full-fat (any type - thickened/heavy, pure etc)(Note 6))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Basmati rice (or other plain white rice of choice)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Naan (, for dunking! (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cashews finely chopped ((optional sprinkle))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Coriander/cilantro leaves (, roughly chopped (optional garnish))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Onion puree – Place the onion, garlic and ginger into a tall container that fits the head of a stick blender. Blitz until smooth – about 5 to 10 seconds. Scrape into a bowl, set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Cashew puree - In the same jar, while covering the mouth of the jar with your hand (to prevent flying cashew comets), blitz the cashews and water with the stick blender until smooth, about 10 seconds. , Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat the oven to 180°C/350°F (160°C fan-forced)."
+    },
+    {
+      "order": 4,
+      "instruction": "Reduce onion puree – Melt and heat ghee in a ~24 cm/ 10&quot; oven-proof pot over high-heat. Cook the onion puree, stirring regularly, for 8 minutes until it has reduced by half. Don’t let it caramelise."
+    },
+    {
+      "order": 5,
+      "instruction": "Add lamb, reduce to medium-high heat then stir until the meat changes from red to light brown. Don’t try to brown the meat (it won&#39;t happen)."
+    },
+    {
+      "order": 6,
+      "instruction": "Sauce - Add turmeric, ground ginger, garam marsala and kashmiri chilli, then stir through. Pour in the stock (the liquid should just barely cover the meat). Add cardamom pod sachet and cinnamon sticks, then stir. Bring to a simmer, cover with a lid then transfer to the oven."
+    },
+    {
+      "order": 7,
+      "instruction": "Slow cook – Cook for 1 1/2 hours. Stir in Cashew Puree, put the lid back on then return to the oven for another 30 minutes. The sauce should have thickened to a creamy consistency and lamb should be tender end to pull apart with forks with no effort. (Note 6)"
+    },
+    {
+      "order": 8,
+      "instruction": "Creamy sauce - Place the pot on a low heat. Add the sugar, salt, coconut cream and cream, then stir. Simmer for 2 minutes, then you’re done!"
+    },
+    {
+      "order": 9,
+      "instruction": "Serve over basmati rice with a sprinkle of cashew nuts and coriander, if desired. Naan for dunking highly recommended!"
+    }
+  ]
+}

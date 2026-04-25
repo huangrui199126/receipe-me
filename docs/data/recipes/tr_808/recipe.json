@@ -1,0 +1,118 @@
+{
+  "id": "tr_808",
+  "title": "Homemade sausage patties",
+  "image": "https://www.recipetineats.com/tachyon/2023/09/Homemade-pork-sausage-patties_2.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/homemade-pork-sausage-patties/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "homemade sausage patties",
+    "pork patties"
+  ],
+  "nutrition": {
+    "calories": 199,
+    "protein": 11.0,
+    "carbs": 1.0,
+    "fat": 17.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1 lb  pork mince (ground pork) ((sub chicken, turkey))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried ground sage ((secret ingredient! Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried thyme (, crushed with fingers (Note 2))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "onion powder ((sub more garlic powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder ((sub more onion powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking / kosher salt ((or 1/2 tsp table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sugar ((optional))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Ketchup for serving",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Make patties - Place sausage pattie ingredients in a bowl and mix well with your hands. Divide into 8 and form 1 cm / 0.4&quot; thick patties. Make a shallow dent in the middle of the surface - this prevents the patties from doming as they cook."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook 4 minutes - Heat 1 tablespoon of oil in a large non stick pan over medium high heat. Cook half the patties for 2 minutes on each side until golden. Transfer to a paper towel lined plate. Heat remaining oil and cook remaining patties."
+    },
+    {
+      "order": 3,
+      "instruction": "Serve with ketchup! (See recipe card intro for serving ideas)"
+    }
+  ]
+}

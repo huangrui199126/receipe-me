@@ -1,0 +1,275 @@
+{
+  "id": "tr_1988",
+  "title": "Breakfast Chimichangas with Avocado + Cajita Cheese.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2013/12/Breakfast-Chimichangas-with-Avocado-+-Cajita-Cheese-6.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/breakfast-chimichangas-avocado-cajita-cheese/",
+  "servings": 8,
+  "prepTime": 40,
+  "cookTime": 20,
+  "tags": [
+    "avocado",
+    "chimichanga",
+    "cotja"
+  ],
+  "nutrition": {
+    "calories": 828,
+    "protein": 39.0,
+    "carbs": 43.0,
+    "fat": 50.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  sweet onion (diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  jalapeno (seeded and diced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  potato (chopped)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "ground chorizo (or chorizo with the casings removed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  large eggs (beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "milk (I use 2%)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  large flour tortillas",
+      "emoji": "🌾",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "canola oil (if you are frying the chimichangas)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "black beans (drained and rinsed if using canned)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large ripe avocdos",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "greek yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  lime (juiced)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper (taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sharp cheddar cheese (shredde)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "pepper jack cheese (shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 pint grape tomatoes (halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cotija cheese (crumbled)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8-12  pickled jalapenos",
+      "emoji": "🥄",
+      "section": "",
+      "order": 26
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To make the beans. Mash the black beens until smooth, but still a little chunky. Stir in the chili, garlic powder, salt and pepper. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "To make the cilantro-avocado crema. In a blender or food processor, combine the cilantro, avocados, greek yogurt, lime juice and a pinch of salt + pepper. Blend until smooth. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat a large skillet over medium heat, add 1 tablespoon olive oil. Throw in the onion and cook, stirring to coat. Cook until the onions are soft and fragrant. Add the garlic, diced jalapeños and diced potatoes. Cover and cook cook another 10 minutes. Add the chorizo, cumin and oregano. Cook, stirring until just beginning to brown, about 5 minutes. Scoop the chorizo out of the skillet with a slotted spoon and transfer to a plate. Wipe the skillet out with a paper towel."
+    },
+    {
+      "order": 4,
+      "instruction": "Return the skillet to medium to medium-low heat and heat the remaining 1 tablespoon oil. Add the egg mixture and cook, stirring, about 3 minutes. Add the chorizo and cook, stirring about 2 to 4 minutes more depending on the desired firmness of the eggs."
+    },
+    {
+      "order": 5,
+      "instruction": "To assemble. Warm the tortillas in a microwave for just a few seconds. Using a rubber spatula or the back of a spoon, spread a little of the beans towards the end of each tortilla. Add the chorizo + egg mixture directly over the beans. Fold the sides of the line of ingredients and roll up the tortilla (try and roll them tight). Using some kitchen twine (or I just used some christmas string lying around), tie the twine tightly around the burrito. Repeat with the remaining ingredients."
+    },
+    {
+      "order": 6,
+      "instruction": "To fry the chimichangas. Preheat the oven to 450 degrees. Fill a large pot with an inch of oil and bring it to 350 degrees F. When the oil is hot, add 2 burritos at a time, seam-side down, adjusting the temperature to keep the oil at 350 degrees F. Cook until golden on the bottom, then roll and cook all sides, about 3 to 5 minutes total. Transfer to a paper towel-lined plate. Repeat with the remaining chimichangas."
+    },
+    {
+      "order": 7,
+      "instruction": "Place the chimichangas on a baking sheet and cut off the twine. Top each one with equal amounts of cheddar and pepper jack. Cook until the cheese melts, about 2-5 minutes. Transfer each to a serving plate and top evenly with cilantro-avocado crema, tomatoes, pickled jalapeños and crumbled cotija cheese."
+    },
+    {
+      "order": 8,
+      "instruction": "To bake the chimichangas. Preheat the oven to 450 degrees F. Put the chimichangas seam-side down on the baking sheet. Bake for 4-5 minutes until crisp. Remove from the oven and top each one with equal amounts to cheddar and pepper jack. Place back in the oven until the cheese melts, about 2-5 minutes. Transfer each to a serving plate and top evenly with cilantro-avocado crema, tomatoes, pickled jalapeños and crumbled cotija cheese."
+    }
+  ]
+}

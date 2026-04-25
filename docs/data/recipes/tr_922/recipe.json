@@ -1,0 +1,178 @@
+{
+  "id": "tr_922",
+  "title": "Chicken Vegetable Ramen Noodles",
+  "image": "https://www.recipetineats.com/tachyon/2019/01/Chicken-Ramen-Noodles_2a.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-vegetable-ramen-noodles/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 8,
+  "tags": [
+    "ramen noodle recipe",
+    "ramen noodles"
+  ],
+  "nutrition": {
+    "calories": 383,
+    "protein": 15.0,
+    "carbs": 43.0,
+    "fat": 7.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  packets ramen or other instant noodles (, discard seasoning (Note 1))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7oz   chicken thighs, cut into bite size pieces ((Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "(315 ml)   water, plus more as needed",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (, cut into matchsticks)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small red capsicum / bell pepper (, sliced )",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cabbage (, finely sliced (any type))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dark soy sauce ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Oyster sauce ((or Hoisin, Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Hoisin sauce ((or more Oyster sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Mirin ((Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely sliced green onion / shallots",
+      "emoji": "🧅",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Sauce."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a large skillet over high heat. Add onion and garlic, cook for 1 1/2 minutes until starting to go golden."
+    },
+    {
+      "order": 3,
+      "instruction": "Add chicken and cook just until the outside mostly changes from pink to white."
+    },
+    {
+      "order": 4,
+      "instruction": "Add Sauce and cook for 1 minute until chicken is quite caramelised."
+    },
+    {
+      "order": 5,
+      "instruction": "Add carrot and capsicum, cook for 1 minute (chicken should now be nicely caramelised, see video)."
+    },
+    {
+      "order": 6,
+      "instruction": "Push chicken and veg to the side to make enough space for the noodles.&nbsp;Add water, place noodles in water."
+    },
+    {
+      "order": 7,
+      "instruction": "When the water starts simmering on the edges, leave noodles for 45 seconds then turn."
+    },
+    {
+      "order": 8,
+      "instruction": "Leave for 30 seconds, then untangle the noodles, then toss through the chicken and veg."
+    },
+    {
+      "order": 9,
+      "instruction": "Add cabbage, toss for 1 minute until sauce reduces to coat the noodles and the noodles are cooked. (Note 6)"
+    },
+    {
+      "order": 10,
+      "instruction": "Serve immediately, garnished with green onions."
+    }
+  ]
+}

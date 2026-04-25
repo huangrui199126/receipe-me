@@ -1,0 +1,165 @@
+{
+  "id": "tr_444",
+  "title": "Tuna Pasta Bake",
+  "image": "https://www.recipetineats.com/tachyon/2017/06/Tuna-Pasta-Bake.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tuna-pasta-bake/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "tuna pasta bake"
+  ],
+  "nutrition": {
+    "calories": 411,
+    "protein": 32.4,
+    "carbs": 46.9,
+    "fat": 11.6
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 28 oz  crushed tomato ((Note 1))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "tomato paste (optional, thickens sauce slightly)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(185ml)  water ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Italian mixed herbs (, or other dried herbs of choice)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "425",
+      "unit": "g",
+      "name": "/ 15 oz  can chunk tuna ((preferably in oil), drained (Note 3))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7 oz  spiral pasta ((or other pasta of choice))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(150g)  shredded mozzarella cheese ((Note 4))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive Oil (, for drizzling)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook pasta per packet directions, minus 1 minute. Drain, rinse under tap water to stop it sticking together, set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, make the sauce. Heat an ovenproof skillet over medium high heat. Add garlic and onion, cook for 3 minutes until golden."
+    },
+    {
+      "order": 4,
+      "instruction": "Add tomato, water, herbs, salt and pepper and tomato paste if using. Stir, bring to simmer, lower heat to medium and simmer energetically for 5 minutes (stir every now and then) until it thickens."
+    },
+    {
+      "order": 5,
+      "instruction": "Adjust salt to taste. Also add a touch of sugar if it tastes a bit sour (depends on quality of tomato)."
+    },
+    {
+      "order": 6,
+      "instruction": "Turn the stove off, add pasta, stir in."
+    },
+    {
+      "order": 7,
+      "instruction": "Add tuna and GENTLY stir it in - don't break up the tuna so it disintegrates into mush. Leave some chunks on the surface (nice when it is golden)."
+    },
+    {
+      "order": 8,
+      "instruction": "Drizzle with oil, top with cheese then bake for 20 minutes until golden and you get those nice crusty bits you see in the photos."
+    },
+    {
+      "order": 9,
+      "instruction": "Stand for 3 minutes then serve!"
+    }
+  ]
+}

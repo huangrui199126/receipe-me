@@ -1,0 +1,121 @@
+{
+  "id": "tr_261",
+  "title": "Ultra Crispy Smashed Potatoes",
+  "image": "https://www.recipetineats.com/tachyon/2018/02/Crispy-Smashed-Potatoes_4a_1500px.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crispy-smashed-potatoes/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 90,
+  "tags": [
+    "smashed potatoes"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 1.4 lb   small potatoes (12 - 14) ((Note 1))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 1.2kg / 2 - 2.4lb  medium potatoes (6 - 8)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "salt ((for boiling))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp   unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt ((for sprinkling))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley (, optional garnish)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook potatoes: Bring a pot of water to the boil, add 1 tbsp salt. Cook potatoes until soft - small ones should take around 20 to 25 minutes, medium ones might take 30 minutes. It&#039;s ok if the skin splits. Alternatively, steam or microwave them."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 200°C/390°F (180°C fan)."
+    },
+    {
+      "order": 3,
+      "instruction": "Steam dry: Drain the potatoes and let them dry in the colander for 5 minutes or so."
+    },
+    {
+      "order": 4,
+      "instruction": "Smash! Place on the tray then use a large fork or potato masher to squish them, keeping them in one piece. Thin = crisper. Thicker = fluffier insides. (Both good!) More nubbly surface = better crunch!"
+    },
+    {
+      "order": 5,
+      "instruction": "Steam dry again: Leave on the tray to steam dry for 5 minutes or so - makes them crispier!"
+    },
+    {
+      "order": 6,
+      "instruction": "Drizzle: Drizzle with butter, then olive oil. Sprinkle with salt and pepper."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake: Bake for 45 minutes (small potatoes) to 55 minutes (medium) or until deep golden and crispy. Do not flip!"
+    },
+    {
+      "order": 8,
+      "instruction": "Serve hot, sprinkled with parsley if desired."
+    }
+  ]
+}

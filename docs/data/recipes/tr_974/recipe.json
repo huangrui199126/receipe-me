@@ -1,0 +1,135 @@
+{
+  "id": "tr_974",
+  "title": "Pea, Zucchini and Pesto Orzo (Risoni)",
+  "image": "https://www.recipetineats.com/tachyon/2014/11/Green-Vegetable-Pesto-Risoni-Orzo-51.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pea-zucchini-pesto-orzo-risoni/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 484,
+    "protein": 16.1,
+    "carbs": 69.3,
+    "fat": 16.6
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "risoni",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "basil pesto (, preferably homemade (see notes for recipe))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion ((brown, yellow or white), diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "zucchini (, diced)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "frozen peas (, preferably defrosted)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan cheese (, freshly grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place about 8 cups of water in a large saucepan and bring to boil."
+    },
+    {
+      "order": 2,
+      "instruction": "Add risoni and cook for 4 minutes, then add peas and cook for a further 1 minute. Note: The risoni will be slightly underdone at this point. It will finish cooking in the remaining steps."
+    },
+    {
+      "order": 3,
+      "instruction": "Scoop out 1/2 cup of the water from the saucepan, then drain the risoni and set aside until ready to add to the pan."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat olive oil in a fry pan over medium high heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Add garlic and onion and sauté for 1 minute until starting to soften."
+    },
+    {
+      "order": 6,
+      "instruction": "Add zucchini and sauté for a further 2 - 3 minutes until both the zucchini and onion are softened and the onion is starting to turn a light golden brown."
+    },
+    {
+      "order": 7,
+      "instruction": "Add pesto, risoni, pasta water reserved in step 3, salt and pepper. Bring the water to a simmer and stir for 1 minute until the water is absorbed."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve immediately, garnished with freshly grated parmesan."
+    }
+  ]
+}

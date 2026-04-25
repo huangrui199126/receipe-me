@@ -1,0 +1,179 @@
+{
+  "id": "tr_1387",
+  "title": "One Pot Greek Chicken and Lemon Rice",
+  "image": "https://www.recipetineats.com/tachyon/2015/04/One-Pot-Greek-Chicken-Lemon-Rice-Overhead_square.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pot-greek-chicken-lemon-rice/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 50,
+  "tags": [],
+  "nutrition": {
+    "calories": 667,
+    "protein": 75.9,
+    "carbs": 34.2,
+    "fat": 23.4
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  chicken thighs, skin on, bone in ((about 1 kg / 2 lb) (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2  lemons, use the zest + 4 tbsp lemon juice ((Note 7))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil, separated",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion, finely diced",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(180g)  long grain rice (, uncooked (Note 6))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(375 ml)  chicken broth / stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(185 ml)  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley or oregano (optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh lemon zest (highly recommended)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the Chicken and Marinade ingredients in a ziplock bag and set aside for at least 20 minutes but preferably overnight."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 180°C/350°F."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove chicken from marinade, but reserve the Marinade."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat 1/2 tbsp olive oil in a deep, heavy based skillet (Note 2) over medium high heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Place the chicken in the skillet, skin side down, and cook until golden brown, then turn and cook the other side until golden brown. Remove the chicken and set aside."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour off fat and wipe the pan with a scrunched up ball of paper towel (to remove black bits), then return to the stove."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat 1 tbsp olive oil in the skillet over medium high heat. Add the onion and sauté for a few minutes until translucent. Then add the remaining Rice ingredients and reserved Marinade."
+    },
+    {
+      "order": 8,
+      "instruction": "Let the liquid come to a simmer and let it simmer for 30 seconds. Place the chicken on top then place a lid on the skillet (Note 3). Bake in the oven for 35 minutes. Then remove the lid and bake for a further 10 minutes, or until all the liquid is absorbed and the rice is tender (so 45 minutes in total)."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove from the oven and allow to rest for 5 to 10 minutes before serving, garnished with parsley or oregano and fresh lemon zest, if desired."
+    }
+  ]
+}

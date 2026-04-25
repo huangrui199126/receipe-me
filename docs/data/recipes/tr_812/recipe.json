@@ -1,0 +1,169 @@
+{
+  "id": "tr_812",
+  "title": "Fluffy Ricotta Pancakes",
+  "image": "https://www.recipetineats.com/tachyon/2016/03/Ricotta-pancakes_2-SQ.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fluffy-ricotta-pancakes/",
+  "servings": 9,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [
+    "ricotta pancakes"
+  ],
+  "nutrition": {
+    "calories": 148,
+    "protein": 6.0,
+    "carbs": 18.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "ricotta cheese (, full fat (Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs ((55g/2oz each))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "caster sugar (superfine sugar)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "milk ((full fat best but low fat fine))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white vinegar ((or other clear or clear-ish vinegar, Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/3",
+      "unit": "cups",
+      "name": "plain/all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "baking soda (bi0carb) (or 3/4 tsp extra baking powder (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "(15g)  butter (, melted (Note 4))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250g   strawberries (, halved or quartered)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "caster/superfine sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Maple syrup (, for dousing)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Whisk wet - Place the Wet ingredients in a bowl and whisk vigorously to combine. You should have little ricotta curd bits in it, but you don&#39;t want giant ricotta clumps."
+    },
+    {
+      "order": 2,
+      "instruction": "Add dry - Scatter the Dry ingredients across the surface then whisk until combined. The batter is a little thicker than standard pancake batter."
+    },
+    {
+      "order": 3,
+      "instruction": "Lightly butter pan - Heat a non-stick pan over medium heat until hot (I use 2 pans). Brush lightly with melted butter (or melt a bit then wipe off excess with paper towels - Note 4)."
+    },
+    {
+      "order": 4,
+      "instruction": "Batter - Pour in 1/4 cup batter - it should just about spread evenly into a round but may need a bit of coaxing. (I use an ice cream scoop - Note 5)"
+    },
+    {
+      "order": 5,
+      "instruction": "Cook 3 minutes - Cook the first side for 1 1/2 minutes or until golden brown (turn heat down if browning too fast). Flip then cook the other side for 1 1/2 minutes or until golden. Remove onto a plate."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook remaining - If your non-stick coating is good, you won&#39;t need more butter though a very light brush of melted butter every 2nd or 3rd pancake won&#39;t hurt. Continue cooking, lowering the heat as you go as the pan gets hotter. You should get 9 to 10 in total. Keep cooked pancakes stacked so they keep each other warm (or use a low 50C/125F oven)."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve ricotta pancakes with macerated strawberries (below), softened butter and copious amounts of maple syrup!"
+    },
+    {
+      "order": 8,
+      "instruction": "Toss together strawberries and sugar in a small bowl. Set aside for 20 minutes to allow them to sweat and soften slightly. (Even overnight in fridge is fine.) Serve on pancakes!"
+    }
+  ]
+}

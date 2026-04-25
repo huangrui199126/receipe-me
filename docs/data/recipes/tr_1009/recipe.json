@@ -1,0 +1,132 @@
+{
+  "id": "tr_1009",
+  "title": "Rum raisin ice cream (easy, no ice cream maker!)",
+  "image": "https://www.recipetineats.com/tachyon/2023/01/Rum-and-raisin-ice-cream-in-cone.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/rum-raisin-ice-cream/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "easy ice cream",
+    "no churn ice cream",
+    "rum raisin ice cream",
+    "strawberry ice cream"
+  ],
+  "nutrition": {
+    "calories": 495,
+    "protein": 6.0,
+    "carbs": 50.0,
+    "fat": 26.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "raisins ((separate with fingers))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "rum ( (preferably Jamaican! Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 x 395g / 14oz can condensed milk ((Note 3))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "rum, dark or golden ( (preferably Jamaican! Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "allspice powder (, optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "thickened/heavy cream, fridge cold ((any whipping cream works))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Ice cream cones",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rum raisin chocolate (, finely chopped (pictured in post))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Chop - Roughly chop the raisins (about in half) and break them up with your fingers so they are not stuck together."
+    },
+    {
+      "order": 2,
+      "instruction": "Soak - Heat the rum in a small saucepan on medium high, just until hot. Add raisins, spread to submerge as best you can. Then leave to soak for 30 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Pour off excess - The raisins should absorb most of the rum. If not, see Note 4."
+    },
+    {
+      "order": 4,
+      "instruction": "Condensed milk &amp; flavourings - Place the condensed milk, rum, vanilla and all-spice in a bowl. Briefly beat just to combine with a handheld beater (or mix by hand), then stir in the rum soaked raisins."
+    },
+    {
+      "order": 5,
+      "instruction": "Whipped cream - Place the cream in a separate large bowl and beat on high with an electric beater for 2 1/2 to 3 minutes until well whipped (stand mixer 1 - 1 1/2 minutes). We&#39;re not looking for &quot;soft whipped&quot; here, we want stiff peaks and good aeration!"
+    },
+    {
+      "order": 6,
+      "instruction": "Fold together - Fold about 1 cup whipped cream into the condensed milk mixture. Once mostly incorporated (some lumps is fine), pour the condensed milk mixture into the cream and gently continue folding until smooth (minimise folding as less aeration = denser ice cream). To help remove lumps, &quot;smear&quot; visible cream bits across the surface or against the side of the bowl rather than vigorously stirring."
+    },
+    {
+      "order": 7,
+      "instruction": "Freeze 12 hours - Spread in a 1.5 litre / 1.5 quart container (Note 6). Cover with lid or cling wrap. Freeze at least 12 hours."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve! To scoop, you&#39;ll only need to leave it out for a minute or two, like real ice cream! Then scoop and serve in bowls or in cones. I topped mine with chopped rum raisin chocolate, because, why not? :)"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "id": "tr_1800",
+  "title": "The Brooklyn Blackout Cake.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/02/The-Brooklyn-Blackout-Cake.-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/brooklyn-blackout-cake/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 45,
+  "tags": [
+    "chocolate",
+    "chocolate cake"
+  ],
+  "nutrition": {
+    "calories": 792,
+    "protein": 11.0,
+    "carbs": 154.0,
+    "fat": 33.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 stick (8 tablespoons) unsalted butter (softened at room temperature, 1 stick)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sugar (use 1 1/2 cups for a sweater cake)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs (at room temperature)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "pure vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "instant coffee (optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "unsweetened cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "cake flour (or 2 cups flour + 1/4 cornstarch)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "buttermilk",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "water plus 1/2 cup water (separated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "unsweetened cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "6",
+      "unit": "tablespoons",
+      "name": "unsalted butter, cold and cut into 1-inch cubes",
+      "emoji": "🧈",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "pure vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  stick (8 tablespoons) salted butter (softened to room temperature)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "powdered sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "unsweetened cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 tablespoons heavy whipping cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 350 degrees F. Grease two 8-inch round cake pans. Line with parchment paper, then butter/spray with cooking spray."
+    },
+    {
+      "order": 2,
+      "instruction": "In a stand mixer (or using a hand mixer), cream the butter and canola oil together. Add the sugar and mix until light and fluffy. One by one, add the eggs, mixing after each addition. With the mixer running at low speed, add the vanilla, cocoa, coffee, baking powder, baking soda, and salt. Mix until combined. With the mixer still running on low speed, add about 1/3 of the cake flour, then about 1/3 of the buttermilk, and beat until combined. Repeat with the remaining cake flour and buttermilk, beating until combined."
+    },
+    {
+      "order": 3,
+      "instruction": "Pour the batter among the 2 cake pans and bake 30 to 35 minutes, until the tops are just set and no longer wiggly in the center. Remove and let cool in the pan for 15 minutes, then grab 2 large flat plates, line them with wax or parchment paper and invert the cakes onto the paper lined plates. Cover and let the cakes cool completely before slicing + frosting."
+    },
+    {
+      "order": 4,
+      "instruction": "While the cake is cooking, make the pudding. Pour 2 1/2 cups of the water, the sugar, honey and cocoa powder into a large saucepan and bring to a boil over medium-high heat, whisking occasionally. Meanwhile, in a small bowl, whisk the remaining 1/2 cup very cold water and the cornstarch together until smooth. Whisk the corn starch mixture into the cocoa mixture. Bring the mixture to a boil, whisking constantly. Cook, whisking constantly, until very thick, 3 to 4 minutes. Remove from the heat and stir in the butter and vanilla. Pour into a bowl. Cover with plastic wrap and chill in the fridge until firm, about 45 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "To make the frosting, add the butter and powdered sugar to the bowl of a stand mixer (or use a hand held mixer). Beat the butter and powdered sugar together until the butter is light and fluffy, about 2 minutes. Add the cocoa powder and vanilla and beat, scrapping down the sides as needed another 2 minutes or until there are no streaks of white. Add 1 tablespoon of the heavy cream and whip the frosting for 2-4 minutes or until light and fluffy. If desired add the remaining tablespoon of the heavy cream (I normally do) and whip until combined. Taste the frosting and add more powdered sugar if you like a sweeter or thicker frosting."
+    },
+    {
+      "order": 6,
+      "instruction": "To assemble the cake, use a long serrated knife to cut the cake layers in half horizontally. Take the ugliest layer of cake and crumble it into fine crumbs (or put it in the food processor) for topping and then reserve the other 3 cake halves for the cake. Place a cake layer on a cake plate or serving platter (reserve the most even layer for the top) and spread with cooled pudding. Top with another layer of cake, then pudding, then the final layer of cake. Now take the butter frosting and frost over the top and sides of the cake. If desired, you can now cover the frosted cake in any remaining pudding, I did. Use your hands to coat the cake with the reserved cake crumbs, pressing the crumbs gently into the pudding. Chill until ready to serve, at least 2 hours."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": "tr_1106",
+  "title": "Sticky Glazed Christmas Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2020/12/Sticky-Glazed-Christmas-Chicken_1-SQ.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sticky-glazed-christmas-chicken/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 60,
+  "tags": [
+    "christmas chicken",
+    "glazed chicken",
+    "holiday chicken",
+    "spiced chicken",
+    "sticky chicken wings"
+  ],
+  "nutrition": {
+    "calories": 564,
+    "protein": 35.0,
+    "carbs": 21.0,
+    "fat": 37.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1.2",
+      "unit": "kg",
+      "name": "/ 2.4 lb  chicken thighs, skin on, bone in ( (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 1.6 lb  chicken drumsticks (, or more thighs (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "5",
+      "unit": "tsp",
+      "name": "orange zest (2 oranges)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "orange juice ((from the zested oranges))",
+      "emoji": "🍊",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cider vinegar ((sub white wine, sherry or champagne vinegar))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "brown sugar (, lightly packed)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ground cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "allspice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ground ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  whole star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  oranges (, cut into wedges or halved then sliced)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "good value leafy greens (- like endive, watercress, for the bed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "orange zest curls ((Note 3))",
+      "emoji": "🍊",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Marinade ingredients in a jug. Pour over chicken in a large ziplock bag (Note 2). Massage to coat, then marinate chicken for ideally 24 hours (bare minimum is 3 hrs, 12 hrs is ok)."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 200°C/390°F (180°C fan)."
+    },
+    {
+      "order": 3,
+      "instruction": "Line 2 trays with foil then parchment/baking paper (you&#039;ll thank me later)."
+    },
+    {
+      "order": 4,
+      "instruction": "Distribute chicken on trays, then pour the marinade over. Roast 30 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Roast for a further 20 minutes, basting with pan juices 2 or 3 more times until the chicken is deep golden and sticky. At first, the juices will be watery but in the final 10 minutes or so, they will thicken and darken. Once this happens, baste more frequently and heavily. (Note 4)"
+    },
+    {
+      "order": 6,
+      "instruction": "When the top tray is almost ready, switch the tray positions (ie move bottom tray up and put the top tray undenerath) so they finish at the same time. GOAL: Deep golden and sticky chicken!"
+    },
+    {
+      "order": 7,
+      "instruction": "Before plating up, baste again with the sticky juices."
+    },
+    {
+      "order": 8,
+      "instruction": "Serving suggestion: Spread leafy greens on a platter, pile on sticky chicken. Decorate with orange slices or wedges."
+    }
+  ]
+}

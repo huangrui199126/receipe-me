@@ -1,0 +1,125 @@
+{
+  "id": "tr_1104",
+  "title": "Empanada dipping sauce",
+  "image": "https://www.recipetineats.com/tachyon/2023/04/Empanada-sauce.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/empanada-sauce/",
+  "servings": 4,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "empanada sauce"
+  ],
+  "nutrition": {
+    "calories": 182,
+    "protein": 3.0,
+    "carbs": 13.0,
+    "fat": 15.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium tomatoes ((125g/4oz each), cut in half and core cut out)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, kept whole, peeled)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "ground cayenne or pure chilli ((not US chili powder mix))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "lime juice ((sub lemon or vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sliced green onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Beef empanadas",
+      "emoji": "🥩",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 220°C/425°F (200°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Roast tomato 20 min - Toss the tomatoes and garlic with the olive oil in a bowl. Place the tomatoes on the tray, cut side up, then roast for 20 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Roast garlic 15 min - Add garlic to the tray and roast for another 15 minutes until the edges of the tomato are browned. Remove from oven and cool on tray."
+    },
+    {
+      "order": 4,
+      "instruction": "Blitz - Transfer to a container that just fits the head of a stick blender. Add all remaining ingredients except the green onion. Blitz until smooth - about 5 seconds. Add the green onion and blitz until it&#39;s finely chopped."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve with empanadas - or corn chips, vegetable sticks, bread!"
+    }
+  ]
+}

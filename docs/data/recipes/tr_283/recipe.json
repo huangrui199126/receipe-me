@@ -1,0 +1,120 @@
+{
+  "id": "tr_283",
+  "title": "Garlic Butter Salmon recipe",
+  "image": "https://www.recipetineats.com/tachyon/2021/03/Garlic-Butter-Salmon_9-SQ.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/garlic-butter-salmon-recipe/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 8,
+  "tags": [
+    "butter salmon",
+    "creamy herb and garlic salmon sauce",
+    "pan seared salmon",
+    "quick salmon recipe"
+  ],
+  "nutrition": {
+    "calories": 464,
+    "protein": 36.0,
+    "carbs": 1.0,
+    "fat": 35.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  salmon fillets ((180g/6oz each), skinless and boneless)",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt (, cooking / kosher)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "garlic (~2 cloves) (, finely minced by hand (don&#039;t use a garlic press))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "90",
+      "unit": "g",
+      "name": "/ 6 tbsp  salted butter (, cut into cubes (or unsalted + 1/4 tsp salt))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "lemon juice (, plus more to taste)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Season salmon: Take salmon out of fridge 30 minutes prior to cooking. Sprinkle both sides with salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Sear salmon 3 mins: Heat oil in large non stick skillet over medium-high heat. Add salmon, presentation side (ie. curved side) down, and cook for 3 minutes until golden."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn, cook 1 min, then add butter: Turn salmon and cook the other side for 1 minute. THEN put the butter in."
+    },
+    {
+      "order": 4,
+      "instruction": "Baste 1 1/2 minutes: Once butter is melted and foaming, add garlic and immediately start spooning the bubbling butter continuously over the salmon for 1 1/2 minutes. To do this, tilt the pan slightly so the butter pools on one side. Use a large spoon to scoop the butter up and spoon it over the salmon."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove salmon from stove: Check Internal temperature of salmon. It should be 50°C/122°F for medium-rare (optimum juiciness pull temp). Remove salmon to a plate. Rest for 3 minutes – it will rise to 53°C/127°F. (See Note 2 for internal temperatures)"
+    },
+    {
+      "order": 6,
+      "instruction": "Add lemon juice to butter: Put pan back on unlit stove to keep butter hot. Add lemon juice."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve: Place salmon on serving plates. Spoon over butter (be judicious, it&#039;s rich!), garnish with a sprinkle of parsley. Pictured in the post with Cauliflower Mash and leafy greens with French Vinaigrette."
+    }
+  ]
+}

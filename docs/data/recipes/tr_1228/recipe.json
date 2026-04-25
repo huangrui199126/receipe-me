@@ -1,0 +1,126 @@
+{
+  "id": "tr_1228",
+  "title": "Christmas Leftovers Toasted Bread Bowl",
+  "image": "https://www.recipetineats.com/tachyon/2018/12/Bread-Bowl-Sandwich-Christmas-Leftover-Ham-Turkey_6.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/bread-bowl-sandwich/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [
+    "bread bowl sandwich",
+    "muffuletta"
+  ],
+  "nutrition": {
+    "calories": 574,
+    "protein": 29.0,
+    "carbs": 52.0,
+    "fat": 27.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  round or oval bread loaf ((Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10 oz  ham, turkey and other cooked meat slices",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "roughly chopped antipasto things ((olives, sun dried tomato, chargrilled peppers, artichokes, feta etc))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 - 6 slices cheese of choice ((I used Swiss in the video))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  big handfuls baby spinach ((~75g / 2.5oz))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp   salted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix butter and garlic."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut the top off the bread loaf. Pick out bread from the loaf and the lid, leaving a wall and floor about 1.5cm / 3/5\" thick."
+    },
+    {
+      "order": 4,
+      "instruction": "Place bread on a large sheet of foil on a baking tray."
+    },
+    {
+      "order": 5,
+      "instruction": "Dab / brush inside with butter. Layer with: half spinach, turkey, antipasto things, remaining spinach, ham, cheese."
+    },
+    {
+      "order": 6,
+      "instruction": "Tuck flappy bits inside the loaf, top with lid."
+    },
+    {
+      "order": 7,
+      "instruction": "Brush with butter all over. Wrap with foil."
+    },
+    {
+      "order": 8,
+      "instruction": "Weigh down with something flat and heavy - cast iron skillet is ideal."
+    },
+    {
+      "order": 9,
+      "instruction": "Bake for 20 minutes. Remove skillet and foil."
+    },
+    {
+      "order": 10,
+      "instruction": "Bake for a further 10 minutes until golden."
+    },
+    {
+      "order": 11,
+      "instruction": "Cut into thick slices and serve immediately!"
+    }
+  ]
+}

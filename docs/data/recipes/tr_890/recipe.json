@@ -1,0 +1,142 @@
+{
+  "id": "tr_890",
+  "title": "Bacon Pasta with tomato pasta sauce",
+  "image": "https://www.recipetineats.com/tachyon/2017/05/Bacon-Tomato-Pasta-3.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tomato-bacon-pasta/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "bacon pasta",
+    "tomato pasta with bacon"
+  ],
+  "nutrition": {
+    "calories": 567,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "160",
+      "unit": "g",
+      "name": "/ 5 oz  spaghetti or other long strand pasta of choice",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "olive oil ((or butter))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "150 - 180 g / 5 - 6 oz  bacon (, diced)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely diced (brown, white, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz  canned crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of sugar (, if needed (Note 1))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Have the ingredients lined up and ready to start cooking at the same time."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring a large pot of water to the bowl. Add a pinch of salt. Cook pasta according to packet but MINUS 2 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, heat oil in a skillet over high heat. Add bacon and cook for 1 minute, then add garlic and onion and cook for 3 minutes or until onion is translucent and bacon is golden. Drain excess fat if desired."
+    },
+    {
+      "order": 4,
+      "instruction": "Scoop out a mug of pasta cooking water, then pour about 1/2 cup into the skillet. Bring to simmer and stir, scraping the skillet to dissolve in all the golden bits stuck on the pan into the liquid."
+    },
+    {
+      "order": 5,
+      "instruction": "Add tomato, bring to simmer and cook for 2 minutes, then turn down to medium high."
+    },
+    {
+      "order": 6,
+      "instruction": "Drain pasta, or if you timed it right, use tongs to transfer it straight from the pot into the skillet."
+    },
+    {
+      "order": 7,
+      "instruction": "Toss gently using two wooden spoons for 2 minutes, or until the sauce is no longer sitting in the skillet, it's all on the pasta (see video). If it gets too thick, just add an extra splash of the pasta cooking water."
+    },
+    {
+      "order": 8,
+      "instruction": "Season with salt and pepper (remember bacon is salty!)."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve immediately, garnished with parmesan, parsley and final drizzle of olive oil if desired."
+    }
+  ]
+}

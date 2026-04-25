@@ -1,0 +1,222 @@
+{
+  "id": "tr_1298",
+  "title": "Beef Steak Fajitas",
+  "image": "https://www.recipetineats.com/tachyon/2016/03/Steak-Fajitas.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/beef-fajitas/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "beef fajitas",
+    "steak fajitas"
+  ],
+  "nutrition": {
+    "calories": 392,
+    "protein": 30.0,
+    "carbs": 39.2,
+    "fat": 13.6
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   beef steak ((rump and skirt are ideal) (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "/ 1/4 cup   orange juice (, fresh (1 orange))",
+      "emoji": "🍊",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "coriander powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder ((optional))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "chipotle powder ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  bell peppers/capsicum (, sliced (Note 3))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion (, halved and sliced (brown, yellow, white))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12   tortillas (, small)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Avocado",
+      "emoji": "🥑",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cilantro/coriander",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Tomatoes (, sliced, or Pico de gallo)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the Marinated Beef ingredients in a ziplock bag, massage to coat then refrigerate for 2 hour to overnight."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove beef from marinade 30 minutes prior to cooking (to bring to room temperature) and pat dry with paper towels. Discard marinade."
+    },
+    {
+      "order": 3,
+      "instruction": "Drizzle 1/2 tbsp of oil on each side of the beef (1 tbsp in total)."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat the BBQ or a skillet on high heat. Cook beef to your liking. (Note 4)"
+    },
+    {
+      "order": 5,
+      "instruction": "Remove beef onto a plate and cover loosely with foil."
+    },
+    {
+      "order": 6,
+      "instruction": "Return skillet to stove, still on high heat, and heat 1/2 tbsp oil. Add onions, sprinkle with salt and pepper, and cook until soft and charred. Remove onto serving plate."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat remaining 1/2 tbsp oil in the skillet. Add bell pepper/capsicum, sprinkle with salt and pepper, and cook until charred. Remove onto plate."
+    },
+    {
+      "order": 8,
+      "instruction": "Slice beef thinly against the grain (Note 5)."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve with warmed tortillas and fixings of choice. (Note 6)"
+    }
+  ]
+}

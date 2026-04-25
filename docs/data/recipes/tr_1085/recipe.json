@@ -1,0 +1,114 @@
+{
+  "id": "tr_1085",
+  "title": "Indian Salad with Tomato and Mint Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2018/08/Indian-Salad-Tomato-with-Mint-Dressing_2.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/indian-salad-tomato-mint-dressing/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "indian salad",
+    "mint dressing"
+  ],
+  "nutrition": {
+    "calories": 54,
+    "protein": 2.0,
+    "carbs": 9.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large ripe tomatoes, (, sliced into rounds)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  red onion (, very thinly sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "of garam marsala (, to taste (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 250g   plain yoghurt",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "mint leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice (, or to taste)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Couple of pinches of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  tbsp+ water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Blitz ingredients in a food processor until it becomes a smooth, bright green sauce."
+    },
+    {
+      "order": 2,
+      "instruction": "Use extra water to thin to a pourable consistency."
+    },
+    {
+      "order": 3,
+      "instruction": "Put the tomatoes in a bowl. Sprinkle with pinch of salt, mix with your hands and leave to rest for 10 minutes (extracts a bit of juice, makes them juicier)."
+    },
+    {
+      "order": 4,
+      "instruction": "Drain the tomatoes. Mix with the onion in a serving bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Drizzle dressing over the tomato salad."
+    },
+    {
+      "order": 6,
+      "instruction": "Sprinkle with a pinch of garam marsala if desired."
+    }
+  ]
+}

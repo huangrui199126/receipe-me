@@ -1,0 +1,143 @@
+{
+  "id": "tr_142",
+  "title": "Grilled Mexican Corn with Chipotle Adobo Sauce (Mexicano Restaurant Copycat)",
+  "image": "https://www.recipetineats.com/tachyon/2015/05/Corn-with-Adobo-Mayo.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/grilled-mexican-corn-with-chipotle-adobo-sauce-mexicano-restaurant-copycat/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 138,
+    "protein": 4.0,
+    "carbs": 18.1,
+    "fat": 6.9
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "chipotle in adobo sauce ((1 chipotle + sauce totalling 1 1/2 tbsp) (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "whole egg mayonnaise ((Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried oregano flakes",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 to 6  corn on the cob",
+      "emoji": "🌽",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "freshly grated parmesan cheese ((Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "ancho chili powder (, chipotle powder or smoky paprika)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges (, for serving)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the Chipotle Adobo Mayo ingredients in a small food processor and blend until smooth. (Note 3)"
+    },
+    {
+      "order": 2,
+      "instruction": "BBQ: Heat the grill side on high. Grill corn for around 8 minutes, or until charred all over and cooked through."
+    },
+    {
+      "order": 3,
+      "instruction": "Stovetop: Boil a large pot of water. Add the corn and boil for 10 minutes. Drain and let the corn steam dry in the colander for a few minutes. Heat a skillet with 1 tbsp of olive oil over high heat. Add the corn and cook all over until nicely charred."
+    },
+    {
+      "order": 4,
+      "instruction": "Allow the corn to cool slightly."
+    },
+    {
+      "order": 5,
+      "instruction": "Place the parmesan in a shallow dish."
+    },
+    {
+      "order": 6,
+      "instruction": "Use a pastry brush to generously slather each corn with the Chipotle Adobo Mayo."
+    },
+    {
+      "order": 7,
+      "instruction": "Roll the corn in the parmesan."
+    },
+    {
+      "order": 8,
+      "instruction": "Sprinkle with a pinch of ancho chili powder, and serve with lime wedges on the side."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "tr_1835",
+  "title": "Simple Salty Sweet Potato Skin Chips.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/11/Simple-Salty-Sweet-Potato-Skin-Chips-1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/simple-salty-sweet-potato-skin-chips/",
+  "servings": 3,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "skins",
+    "sweet potato"
+  ],
+  "nutrition": {
+    "calories": 508,
+    "protein": 3.0,
+    "carbs": 43.0,
+    "fat": 4.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "pieces",
+      "name": "The skins from 5 fully baked sweet potatoes (torn into *)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "tablespoon",
+      "name": "Canola oil (for frying (or 1 olive oil for baking)*)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sea salt (for sprinkling)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Assorted fresh herbs (I used sage and rosemary (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add the oil to a large pot and heat to 350 degree F. Add the skins a few at a time and fry, turning once with a slotted spoon or tongs, until golden brown, 1 to 3 minutes depending on the size and thickness of your skins."
+    },
+    {
+      "order": 2,
+      "instruction": "Transfer to paper towels to drain. Sprinkle generously with sea salt and chopped herbs if desired. Serve warm or at room temperature. I recommend eating within a few hours of frying, as the skins that have flesh on them get soft after being stored in a bag."
+    }
+  ]
+}

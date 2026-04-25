@@ -1,0 +1,149 @@
+{
+  "id": "tr_1379",
+  "title": "Baklava",
+  "image": "https://www.recipetineats.com/tachyon/2018/09/Baklava_1.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baklava/",
+  "servings": 24,
+  "prepTime": 45,
+  "cookTime": 70,
+  "tags": [
+    "baklava"
+  ],
+  "nutrition": {
+    "calories": 319,
+    "protein": 4.0,
+    "carbs": 26.0,
+    "fat": 23.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "40",
+      "unit": "sheets",
+      "name": "filo/phyllo pastry ((2 x 375g or 1 x 1lb pack, Note 1 for pack sizes))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   walnuts ((other nuts Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "285",
+      "unit": "g",
+      "name": "/ 10 oz   unsalted butter (, melted and slightly cooled)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cinnamon powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 200g  white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "/ 185 ml   water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 170 g  honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "You will need a 23 x 33 cm / 9 x 13\" baking pan."
+    },
+    {
+      "order": 2,
+      "instruction": "For best results, thaw phyllo pastry overnight in the fridge (even if the pack says otherwise) then take out of the fridge 30 minutes prior."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut phyllo to the size of the baking pan."
+    },
+    {
+      "order": 4,
+      "instruction": "Keep pastry covered with a damp tea towel at all times."
+    },
+    {
+      "order": 5,
+      "instruction": "Place nuts and cinnamon in a food processor. Pulse 15 times or until fine crumbs - don't let it turn into powder."
+    },
+    {
+      "order": 6,
+      "instruction": "Preheat oven to 160C / 325F."
+    },
+    {
+      "order": 7,
+      "instruction": "Base: Brush base of pan with butter. Lay over one sheet of phyllo. Brush with butter. Repeat to use 10 sheets, brushing every single sheet with butter. Scatter over 3/4 cup walnuts."
+    },
+    {
+      "order": 8,
+      "instruction": "Mid layers: Cover with 5 sheets of phyllo, brushing every sheet with butter. Top with 3/4 cup walnuts. Repeat 3 more times."
+    },
+    {
+      "order": 9,
+      "instruction": "Top: Cover with 10 sheets of phyllo, brushing every sheet with butter, including the final layer."
+    },
+    {
+      "order": 10,
+      "instruction": "Cut the baklava into 4 long strips, then cut on the diagonal to make diamonds. (Note 3)"
+    },
+    {
+      "order": 11,
+      "instruction": "Bake for 1 hour - 1 hr 15 minutes until golden brown. Meanwhile, make syrup (needs time to cool)"
+    },
+    {
+      "order": 12,
+      "instruction": "Remove from oven and immediately pour over syrup."
+    },
+    {
+      "order": 13,
+      "instruction": "Leave to soak for at least 6 hours, preferably overnight."
+    },
+    {
+      "order": 14,
+      "instruction": "Check to ensure each piece is cut all the way through, then serve. Keeps for a week!"
+    },
+    {
+      "order": 15,
+      "instruction": "Place ingredients in a saucepan over medium high heat. Bring to a simmer, stir to dissolve sugar. Lower heat to medium and simmer for 3 minutes, remove from heat and cool."
+    }
+  ]
+}

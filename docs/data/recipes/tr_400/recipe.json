@@ -1,0 +1,252 @@
+{
+  "id": "tr_400",
+  "title": "Vietnamese Chicken Pho soup (Pho Ga)",
+  "image": "https://www.recipetineats.com/tachyon/2020/05/Chicken-Pho_2-SQ.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vietnamese-chicken-pho-soup-pho-ga/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 90,
+  "tags": [
+    "chicken pho",
+    "chicken pho from scratch",
+    "pho recipe",
+    "pho soup"
+  ],
+  "nutrition": {
+    "calories": 501,
+    "protein": 20.0,
+    "carbs": 87.0,
+    "fat": 8.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil (, vegetable or canola (or other plain oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  onions (, halved (skin on fine))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5cm/ 2&quot;   piece of ginger (, sliced 0.75cm / 1/3\" thick (unpeeled))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "litres",
+      "name": "/ 2 quarts  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1.5",
+      "unit": "kg",
+      "name": "/ 3 lb  chicken thighs, bone in skin on  ((Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small bunch coriander/cilantro ((Note 2))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  star anise pods ((was short in photo &amp; video!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cinnamon stick",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fennel seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "coriander seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "8",
+      "unit": "tsp",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "6",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt ((Cooking/kosher salt, or 1/2 tsp table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "360",
+      "unit": "g",
+      "name": "/ 13 oz  dried rice noodles (, thin flat (or 600g fresh))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green onions stems (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "bean sprouts ((Note 3))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 small bunch EACH Thai Basil, min, coriander/cilantro ((Note 4))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  limes (, cut into 4 wedges)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sriracha",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Red chillies (, finely sliced (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Char onion &amp; ginger - Heat oil in a 6 litre / 6 quart pot (Note 5) over high heat. Place ginger and onion facedown, leave undisturbed for 2 minutes until they blacken. Turn and leave for another 2 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Put everything in pot - Add water and remaining Broth ingredients EXCEPT salt. Bring it a simmer, then lower heat so it&#039;s simmering VERY gently with the lid on, but open a crack (Note 6)."
+    },
+    {
+      "order": 3,
+      "instruction": "Simmer gently 1.5 hours. Scoop off scum (dirty foam) that rises to surface once or twice during the simmering."
+    },
+    {
+      "order": 4,
+      "instruction": "Strain &amp; measure - Remove chicken, then strain broth into a clean pot - you should have 1.5 litres / 1.5 quarts. If you have more, simmer to reduce. If less, top it up with water."
+    },
+    {
+      "order": 5,
+      "instruction": "Salt broth - Add salt, bring broth to a gentle simmer. Broth should be slightly on the salty side - it dilutes when you add the noodles."
+    },
+    {
+      "order": 6,
+      "instruction": "Keep broth warm until ready to serve"
+    },
+    {
+      "order": 7,
+      "instruction": "Shred chicken meat, discard bones and skin. (Note 6 Leftover Chicken ideas)"
+    },
+    {
+      "order": 8,
+      "instruction": "Place Toppings out on the table."
+    },
+    {
+      "order": 9,
+      "instruction": "Reheat chicken (can briefly dunk in broth!)."
+    },
+    {
+      "order": 10,
+      "instruction": "Prepare noodles per packet directions, just prior to serving. Drain very well (excess water dilutes broth)."
+    },
+    {
+      "order": 11,
+      "instruction": "Place noodle in bowls. Top with chicken, ladle over 375ml / 1.5 cups broth. Sprinkle with green onion."
+    },
+    {
+      "order": 12,
+      "instruction": "Pile on Toppings of choice, add a squeeze of lime into the broth. Consume immediately!"
+    }
+  ]
+}

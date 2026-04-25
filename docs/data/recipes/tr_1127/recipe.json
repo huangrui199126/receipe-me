@@ -1,0 +1,159 @@
+{
+  "id": "tr_1127",
+  "title": "Emergency Corn Chowder Soup",
+  "image": "https://www.recipetineats.com/tachyon/2019/09/Emergency-Corn-Chowder__1.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/corn-chowder-soup/",
+  "servings": 3,
+  "prepTime": 3,
+  "cookTime": 12,
+  "tags": [
+    "corn chowder",
+    "corn soup",
+    "easy soup recipes"
+  ],
+  "nutrition": {
+    "calories": 441,
+    "protein": 17.0,
+    "carbs": 71.0,
+    "fat": 13.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "oil ( or butter)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "bacon (, streaky!)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/14oz   can creamed corn ((1 can))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/14oz   can corn kernels (, drained (1 can))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 2/3",
+      "unit": "cups",
+      "name": "(400ml)   chicken stock ( / broth (1 empty can*))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(200ml)   milk (, any fat % (1/2 empty can*))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  potato (, diced into 1.5 cm/ 1/2\" small cubes)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125 ml)  milk (, any fat % (1/4 empty can*))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "cornflour / corn starch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place oil then bacon in pot. Turn stove onto medium high heat then cook until bacon is golden on both sides."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove bacon and chop once cooled."
+    },
+    {
+      "order": 3,
+      "instruction": "If there's loads of excess fat in the pot, drain some."
+    },
+    {
+      "order": 4,
+      "instruction": "Add garlic and stir for 20 seconds. Add creamed corn, kernels, chicken stock, milk, potato, salt and pepper."
+    },
+    {
+      "order": 5,
+      "instruction": "Stir, bring to simmer then adjust to medium. Simmer 5 minutes until potato is just tender."
+    },
+    {
+      "order": 6,
+      "instruction": "Soup Thickener: Mix together milk and cornflour, then pour into soup."
+    },
+    {
+      "order": 7,
+      "instruction": "Stir and simmer for 1 minute until it thickens into a creamy soup (see video for thickness)."
+    },
+    {
+      "order": 8,
+      "instruction": "Add more salt if needed."
+    },
+    {
+      "order": 9,
+      "instruction": "Ladle into bowls, top with green onion and bacon. Devour!"
+    }
+  ]
+}

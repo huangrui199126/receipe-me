@@ -1,0 +1,127 @@
+{
+  "id": "tr_532",
+  "title": "Creamy Mashed Cauliflower",
+  "image": "https://www.recipetineats.com/tachyon/2019/05/Cauliflower-Mash_7.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-mashed-cauliflower/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "cauliflower mash",
+    "cauliflower mashed potato",
+    "mashed cauliflower"
+  ],
+  "nutrition": {
+    "calories": 111,
+    "protein": 4.0,
+    "carbs": 9.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2lb   cauliflower florets ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, peeled, whole)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30g)   unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(25g)  parmesan cheese (, shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(55g)  sour cream (, optional)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 3 tbsp cooking water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper (, to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Melted butter, parsley, pepper",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the larger florets in half or quarter so they're all about the same size."
+    },
+    {
+      "order": 2,
+      "instruction": "Add cauliflower and garlic into a large pot of boiling water and cook for 10 minutes until very soft."
+    },
+    {
+      "order": 3,
+      "instruction": "Scoop out a mug of cooking water."
+    },
+    {
+      "order": 4,
+      "instruction": "Drain well, then transfer to food processor."
+    },
+    {
+      "order": 5,
+      "instruction": "Add remaining ingredients, starting with no water, blitz until smooth. (Use handheld blender stick if you don&#x27;t have food processor)"
+    },
+    {
+      "order": 6,
+      "instruction": "Use reserved cooking water to adjust consistency to taste and help puree smooth."
+    },
+    {
+      "order": 7,
+      "instruction": "Adjust salt and pepper to taste"
+    },
+    {
+      "order": 8,
+      "instruction": "Transfer to serving bowl, drizzle with melted butter and garnish with parsley if desired."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve as a side with anything that you'd usually serve with mashed potato!"
+    }
+  ]
+}

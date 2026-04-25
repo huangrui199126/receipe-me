@@ -1,0 +1,115 @@
+{
+  "id": "tr_160",
+  "title": "Throw Together Salad #1: Rocket (Arugula), Beetroot, Walnuts and Feta w/Balsamic Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/Throw-Together-Salad-Rocket-Arugula-Beetroot-Walnut-Feta-Balsamic-Honey-Dressing-1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/rocket-aragula-beetroot-walnuts-feta-wbalsamic-dressing/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 205,
+    "protein": 4.8,
+    "carbs": 13.1,
+    "fat": 15.6
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   canned baby beetroot (, halved or quartered if they are large)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 4 oz   baby rocket ((arugula) leaves)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "feta ((preferably Danish, otherwise Greek), or goats cheese)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "walnuts (, lightly crushed with your fingers)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "balsamic vinegar ((ordinary, not aged or glazed))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the Dressing ingredients in a jar, and shake well. You might need a spoon to break up the honey to mix it in properly. Adjust salt to your taste."
+    },
+    {
+      "order": 2,
+      "instruction": "Place rocket lettuce in a serving bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Scatter over beetroot. No need to toss - because of the weight, it should disperse throughout fairly well."
+    },
+    {
+      "order": 4,
+      "instruction": "Crumble over the feta and scatter with walnuts."
+    },
+    {
+      "order": 5,
+      "instruction": "Drizzle over dressing and serve."
+    }
+  ]
+}

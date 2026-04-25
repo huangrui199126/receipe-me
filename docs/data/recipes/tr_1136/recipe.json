@@ -1,0 +1,99 @@
+{
+  "id": "tr_1136",
+  "title": "Roasted Sweet Potato Stacks",
+  "image": "https://www.recipetineats.com/tachyon/2017/10/Sweet-Potato-Stacks.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roasted-sweet-potato-stacks/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 45,
+  "tags": [],
+  "nutrition": {
+    "calories": 110,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1.2",
+      "unit": "kg",
+      "name": "/ 2.4 lb   sweet potato (, unpeeled weight, about 5 - 6.5 cm / 2 - 2.7\" wide)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp   unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped fresh rosemary ((or 1 tbsp dried, or other herbs of choice))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 375F/190C (standard) or 350F/180C (fan/convection)."
+    },
+    {
+      "order": 2,
+      "instruction": "Peel the potatoes, then slice thinly (about 2 mm / 1/10\" thick). Transfer into a large bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Add remaining ingredients. Toss well with your hands."
+    },
+    {
+      "order": 4,
+      "instruction": "Place piles of the slices in the muffin tin. Don't worry if they are higher than the rim - they shrink about 25%."
+    },
+    {
+      "order": 5,
+      "instruction": "Top each stack with about 1/2 tsp of the remaining butter mixture in the bowl."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake for 45 minutes, or until the edge of the top slices are starting to brown and the inside of the stacks are cooked (use skewer or knife to check)."
+    },
+    {
+      "order": 7,
+      "instruction": "Use a fork and knife to remove the stacks from the muffin tin. Optional: Brush tops with residual butter in muffin tin. Serve as soon as possible."
+    }
+  ]
+}

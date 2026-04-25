@@ -1,0 +1,235 @@
+{
+  "id": "tr_140",
+  "title": "Hash Brown Crust Quiche Lorraine",
+  "image": "https://www.recipetineats.com/tachyon/2014/12/Hash-Brown-Crust-Quiche-Lorraine-11.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/hash-brown-crust-quiche-lorraine/",
+  "servings": 8,
+  "prepTime": 25,
+  "cookTime": 75,
+  "tags": [],
+  "nutrition": {
+    "calories": 311,
+    "protein": 15.6,
+    "carbs": 15.6,
+    "fat": 20.7
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1.2",
+      "unit": "lb",
+      "name": "/ 600g   starchy potatoes ((Note 1) OR 4 cups (not packed) frozen shredded hash browns, thawed)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Butter (, for greasing)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray ((or olive oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  egg yolks",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk ((preferably full cream, but low fat will also work))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of freshly grated nutmeg ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "6",
+      "unit": "oz",
+      "name": "/ 180g   bacon (, cut into large dice (about 1cm x 0.5cm / 2/3\" x 1/5\"))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, diced (or half a large onion))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "grated cheese ((tasty, cheddar or gruyere))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 425F/220C with the oven shelf in the top 1/3 of the oven."
+    },
+    {
+      "order": 2,
+      "instruction": "Grease a 9\"/ 23cm pie dish (Note 2)"
+    },
+    {
+      "order": 3,
+      "instruction": "If shredding potatoes yourself, peel and grate the potatoes. Place the shredded potatoes into a colander and rinse for 10 seconds, using your hands to move the grated potatoes around, until the water runs clear."
+    },
+    {
+      "order": 4,
+      "instruction": "Take a handful of the rinsed grated potatoes OR the thawed frozen shredded hash browns and squeeze the excess water out, then place into a large bowl. Repeat with remaining potato. You should have about 4 cups of shredded potato."
+    },
+    {
+      "order": 5,
+      "instruction": "Add melted butter and salt and mix to combine."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour the shredded potato into the pie dish. Use a large dessert spoon to spread the hash browns over the base and side of the pie dish."
+    },
+    {
+      "order": 7,
+      "instruction": "Use your hands or a spatula to pat down the base of the hash brown crust so it is fairly firmly packed."
+    },
+    {
+      "order": 8,
+      "instruction": "Spray the hash brown crust with oil spray (I used olive oil spray)."
+    },
+    {
+      "order": 9,
+      "instruction": "Bake the crust for 30 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "While the crust is baking, melt 1/2 tbsp butter in a fry pan over medium high heat."
+    },
+    {
+      "order": 11,
+      "instruction": "Add onion, garlic and bacon into the fry pan. Saute until the onion is translucent and the bacon is just starting to brown (but not crisp)."
+    },
+    {
+      "order": 12,
+      "instruction": "Remove from the stove and set aside to cool slightly."
+    },
+    {
+      "order": 13,
+      "instruction": "Place Egg Mixture ingredients in a bowl and whisk to combine."
+    },
+    {
+      "order": 14,
+      "instruction": "When the crust is light golden brown on the surface of the base and golden brown on the walls of the crust (around 30 minutes), remove from the oven."
+    },
+    {
+      "order": 15,
+      "instruction": "Scatter the bacon onion mixture across the base, then the cheese."
+    },
+    {
+      "order": 16,
+      "instruction": "Then pour the Egg Mixture in."
+    },
+    {
+      "order": 17,
+      "instruction": "Return the quiche to the oven and turn the oven down to 180C/350F."
+    },
+    {
+      "order": 18,
+      "instruction": "Bake for 25 minutes, or until the Filling is set. Test this either by inserting a skewer into the centre (it should come out clean) or by touching the centre gently (it should spring back)."
+    },
+    {
+      "order": 19,
+      "instruction": "Let it rest for 5 to 10 minutes before serving."
+    }
+  ]
+}

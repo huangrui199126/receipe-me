@@ -1,0 +1,264 @@
+{
+  "id": "tr_1040",
+  "title": "Baked Parmesan Crusted Salmon with Lemon Cream Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2016/11/Parmesan-Crusted-Salmon-6-Square.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baked-parmesan-crusted-salmon-with-lemon-cream-sauce/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "baked salmon",
+    "salmon for christmas",
+    "side of salmon",
+    "whole salmon recipe"
+  ],
+  "nutrition": {
+    "calories": 427,
+    "protein": 33.7,
+    "carbs": 12.0,
+    "fat": 25.3
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (1 - 1.4 kg / 2 - 2.8 lb)  side of salmon ( (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3- 4 tbsp Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((50g) (Note 2))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp   butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "grated parmesan (, store bought  (1/2 cup fresh grated) (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped fresh parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped fresh dill",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest of 1 lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2tbsp  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  eschallot / finely chopped ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "dry white wine ((Note 5))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "heavy cream / thickened cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "lemon juice ((plus more to taste))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Watercress",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh dill",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Take salmon out of the fridge to bring to room temperature."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 200°C / 390°F (180°C fan)."
+    },
+    {
+      "order": 3,
+      "instruction": "Spread panko on baking tray, spray generously with oil then bake for 3 to 5 minutes until light golden brown. (Note 6) Scrape into bowl immediately."
+    },
+    {
+      "order": 4,
+      "instruction": "Add butter and stir, then add remaining Parmesan Crumb ingredients."
+    },
+    {
+      "order": 5,
+      "instruction": "Line same tray with foil. Place salmon on foil."
+    },
+    {
+      "order": 6,
+      "instruction": "Spread Dijon on salmon using a butter knife. Just a thin coating - like buttering toast."
+    },
+    {
+      "order": 7,
+      "instruction": "Sprinkle Crumb all over."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake for 20 minutes for just cooked juicy perfection, or to taste. (Note 7)"
+    },
+    {
+      "order": 9,
+      "instruction": "Remove from oven. Loosen salmon from foil using egg flip or butter knife - skin will hopefully be stuck to foil."
+    },
+    {
+      "order": 10,
+      "instruction": "Plate watercress on serving platter."
+    },
+    {
+      "order": 11,
+      "instruction": "Use foil to lift salmon onto watercress on serving plate, then slide out the foil from under it (see video under recipe). Serve with Lemon Cream Sauce and lemon wedges on the side."
+    },
+    {
+      "order": 12,
+      "instruction": "Melt butter in a saucepan over medium high heat. Add eschalots and cook for 2 minutes. Add wine and bring to boil. Leave to boil rapidly for 5 minutes or until reduced by 3/4 or so."
+    },
+    {
+      "order": 13,
+      "instruction": "Turn heat down to medium. Add cream, sugar, salt and pepper. Stir, then add lemon juice and mustard. Stir again. Simmer for 2 to 3 minutes or until thickened (see video). Adjust salt, pepper and lemon to taste. Be generous with the salt - remember the salmon is not marinated, the only salt is in the topping."
+    },
+    {
+      "order": 14,
+      "instruction": "Optional: strain. I don't bother."
+    },
+    {
+      "order": 15,
+      "instruction": "Allow to cool for 10 minutes or so. It will thicken as it cools. It can be served warm or at room temperature."
+    }
+  ]
+}

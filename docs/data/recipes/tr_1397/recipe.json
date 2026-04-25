@@ -1,0 +1,98 @@
+{
+  "id": "tr_1397",
+  "title": "Roasted Cauliflower",
+  "image": "https://www.recipetineats.com/tachyon/2020/12/Parmesan-Roasted-Cauliflower_5.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roasted-cauliflower/",
+  "servings": 5,
+  "prepTime": 5,
+  "cookTime": 25,
+  "tags": [
+    "cooking cauliflower in the oven",
+    "roasted cauliflower"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2.0,
+    "carbs": 6.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large head cauliflower",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "parsley (, roughly chopped, for sprinkling (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "parmesan (, finely grated (store bought, sandy type))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "panko breadcrumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/425°F (200°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss cauliflower in a large bowl with oil, salt, pepper and garlic if using. (You can do this on the tray, but you'll need more oil). Add parmesan and Panko breadcrumbs at this point, if using."
+    },
+    {
+      "order": 3,
+      "instruction": "Spread on tray. Roast 20 minutes. Flip cauliflower, roast a further 5 minutes until you have golden edges and it's soft all the way through."
+    },
+    {
+      "order": 4,
+      "instruction": "Serve immediately, sprinkled with parsley if using."
+    }
+  ]
+}

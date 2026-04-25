@@ -1,0 +1,117 @@
+{
+  "id": "tr_809",
+  "title": "Garlic Noodles",
+  "image": "https://www.recipetineats.com/tachyon/2023/09/Garlic-noodles-with-egg-close-up.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/garlic-noodles/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 6,
+  "tags": [
+    "garlic noodles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 14.0,
+    "carbs": 45.0,
+    "fat": 25.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "140g/ 5oz  dried ramen or noodle cakes ((2 cakes) - Note 1 for other options)",
+      "emoji": "🍜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(6 cloves)  garlic, finely minced ((yep, a lot!))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "oyster sauce ((sub vegetarian oyster sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fish sauce ((sub soy sauce - Note 2))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "Maggi seasoning ((sub soy sauce - Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "noodle cooking water (, more if needed (Note 4))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(tightly packed) finely grated parmesan ( (freshly grated, Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "green onion (, thinly sliced (~1 stem))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Noodles - Cook the noodles in a large saucepan per packet directions. Scoop out ~1/2 cup cooking water. Strain noodles and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Sauce - Melt butter in the same saucepan over medium heat. Add garlic and cook, stirring until soft. Add oyster sauce, fish sauce, Maggi seasoning and 1/4 cup cooking water. Stir to combine."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss - Add cooked noodles, parmesan and green onion. Toss until the noodles are all coated, and the sauce is not pooled in the bottom of the saucepan. Add more cooking water 1 tbsp at the time, if needed to loosen the noodles."
+    },
+    {
+      "order": 4,
+      "instruction": "Serve immediately!"
+    },
+    {
+      "order": 5,
+      "instruction": "Serving suggestion: fried egg and broccolini cooked with the noodles*, tossed with Asian Sesame Dressing you always have in your fridge. :)* Broccolini takes about 3 minutes, so put it into the water before/after/with the noodles depending on the noodle cooking time."
+    }
+  ]
+}

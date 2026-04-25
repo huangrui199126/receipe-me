@@ -1,0 +1,131 @@
+{
+  "id": "tr_242",
+  "title": "Magic Spanish Romesco Sauce / Dip",
+  "image": "https://www.recipetineats.com/tachyon/2016/01/Magic-Spanish-Romesco-Sauce_1.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/magic-spanish-romesco-sauce-dip/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  red capsicum / bell peppers ((Note 1))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  garlic cloves",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "white sandwich bread (, crusts removed (Note 2))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "natural almonds ((Note 3))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sherry vinegar ((or red or white wine vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cayenne pepper ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat barbecue grill OR gas stove on high and chargrill capsicum using until black and blistered all over. (Note 4)"
+    },
+    {
+      "order": 2,
+      "instruction": "Place in a bowl and cover for at least 20 minutes. The capsicum will cool down and sweat, allowing the skin to slide off easily. Peel and discard the skin, and the seeds, place in blender."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 180C/350F. Place tomato and garlic on foil, drizzle with 2 tsp oil, and wrap."
+    },
+    {
+      "order": 4,
+      "instruction": "Place foil packet on a tray, add bread and almonds onto the tray. Bake for 5 minutes until bread is golden, remove almonds and bread. Tear bread into pieces, place in blender with almonds."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake garlic and tomato for a further 25 minutes or until tomato is tender. Open foil, allow to cool until you can handle it. Peel tomato, add to blender. Squeeze garlic from skins, place in blender."
+    },
+    {
+      "order": 6,
+      "instruction": "Add remaining ingredients, whizz until smooth. Adjust salt and pepper to taste."
+    },
+    {
+      "order": 7,
+      "instruction": "Store in the fridge for up to 1 week. Refer to Notes for ideas for how to use!"
+    }
+  ]
+}

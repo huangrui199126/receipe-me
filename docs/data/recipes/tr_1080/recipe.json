@@ -1,0 +1,191 @@
+{
+  "id": "tr_1080",
+  "title": "Cauliflower and Chickpea Curry",
+  "image": "https://www.recipetineats.com/tachyon/2016/09/Cauliflower-Chickpea-Curry_6.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cauliflower-and-chickpea-curry/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 344,
+    "protein": 10.7,
+    "carbs": 44.1,
+    "fat": 15.8
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ginger (finely grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large garlic cloves (minced.)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion (chopped (brown, white, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "coriander powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "tumeric powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "chicken stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 28 oz can crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 4 cups (packed cauliflower small florets (1 small / 1/2 large cauliflower))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz can chickpeas (drained)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar - optional (Note 1)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "frozen peas (75g)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "garam masala powder (Note 2)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander / cilantro leaves (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Yoghurt (to serve (highly recommended))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large deep skillet or pot over medium high heat. Add garlic and ginger, cook for 1 minute. Add onion and cook for 6 - 8 minutes or until golden and caramelised."
+    },
+    {
+      "order": 2,
+      "instruction": "Add coriander, turmeric, cumin and paprika. Cook for 1 minute."
+    },
+    {
+      "order": 3,
+      "instruction": "Add chicken stock and tomato. Stir to combine, bring to simmer and cook for 5 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Add cauliflower and chickpeas. Cook for 15 minutes or until cauliflower is soft and sauce has thickened. If sauce is thickening too quickly (Note 3), put the lid on. Adjust salt to taste, and add sugar if using."
+    },
+    {
+      "order": 5,
+      "instruction": "Add peas and garam masala. Cook for 2 minutes, then remove from stove. Stir through most of the coriander."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve curry with basmati rice or plain white rice, garnished with reserved coriander and yoghurt on the side."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "tr_1010",
+  "title": "Taco Slaw",
+  "image": "https://www.recipetineats.com/tachyon/2025/01/Taco-slaw_8.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/taco-slaw-excellent-for-tacos/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "prawn taco",
+    "shrimp taco"
+  ],
+  "nutrition": {
+    "calories": 31,
+    "protein": 1.0,
+    "carbs": 3.0,
+    "fat": 2.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6 tightly packed cups green cabbage (, finely shredded (about 1/4 head))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "green onion (, finely sliced on the diagonal)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "finely chopped coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sour cream ((sub plain yogurt))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "mayonnaise (OR 1 tbsp olive oil (ie halve amount))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lime zest",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((halve for table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix the dressing ingredients in a large bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss - Add the Slaw ingredients then toss well with hands or tongs."
+    },
+    {
+      "order": 3,
+      "instruction": "Set aside for at least 1 hour until the cabbage becomes wilted and floppy. Toss again then use in tacos!"
+    }
+  ]
+}

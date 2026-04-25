@@ -1,0 +1,215 @@
+{
+  "id": "tr_721",
+  "title": "Palak Paneer – Indian Spinach Curry with Homemade Fresh Cheese",
+  "image": "https://www.recipetineats.com/tachyon/2021/02/Indian-Palak-Paneer_4-SQ.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/palak-paneer-indian-spinach-curry-with-cheese/",
+  "servings": 6,
+  "prepTime": 45,
+  "cookTime": 25,
+  "tags": [
+    "palak paneer",
+    "spinach curry",
+    "vegetarian curry"
+  ],
+  "nutrition": {
+    "calories": 510,
+    "protein": 16.0,
+    "carbs": 27.0,
+    "fat": 39.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  batch homemade Paneer ((Indian fresh cheese; recipe linked below))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  ghee or unsalted butter ((for pan frying, Note 2))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "30g/2 tbsp  ghee or unsalted butter ((Note 2))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2  onions (, finely chopped (brown or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fenugreek seeds (whole) ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ground coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt (, kosher/cooking salt (if using table salt, reduce by 1/4 tsp))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger (, finely grated (20g))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  tomatoes (, peeled, seeded and diced (Note 4))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green chilli (, finely sliced (cayenne, Note 5))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "700g/ 1.4lb  fresh spinach leaves (English spinach) (, thoroughly washed and roughly chopped (~9 cups very tightly packed) (Note 6))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "+ 1 tbsp  cream ((pure, heavy or thickened))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Saute onion &amp; spices: Melt butter in a large pot over medium heat. Add onion, fenugreek, cumin, coriander, salt and pepper. Cook for 3 minutes until onion is softened but not golden."
+    },
+    {
+      "order": 2,
+      "instruction": "Add garlic and ginger, cook for 2 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the tomato and chilli, cook for 3 minutes on a medium heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Add spinach: Add about 1/3 of the spinach – or as much as you can handle in the pot (!) – and stir until wilted. Then add more spinach along with the water, cook again until wilted. Repeat until all the spinach is wilted."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook 10 minutes: Cook, stirring every now and then, for 10 minutes still on a medium heat."
+    },
+    {
+      "order": 6,
+      "instruction": "Cream &amp; lemon: Add the cream and lemon juice. Cook, stirring gently, for 3 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Puree half spinach: Remove half the spinach into a tall container and blend it to a puree using a stick blender. Pour pureed spinach back into the pot, and stir to combine."
+    },
+    {
+      "order": 8,
+      "instruction": "Add Pan Fried Paneer: Gently stir in golden pan-fried paneer (see below). Stir gently to mix through."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve over basmati rice with fluffy, chewy homemade naan on the side!"
+    },
+    {
+      "order": 10,
+      "instruction": "Cut paneer into 1.25cm / ½&quot; thick slices. Then cut each slice into 2.5cm x 2 x 1.25cm thick pieces / 1 x ⅘&quot; x ½&quot; pieces – approximately!"
+    },
+    {
+      "order": 11,
+      "instruction": "Melt half the ghee or butter in a non-stick pan over medium-high heat."
+    },
+    {
+      "order": 12,
+      "instruction": "Place half the paneer in the pan and cook for 1 - 1 1/2 minutes until light golden - I tend to make it deep golden because colour = more flavour, but traditional is just a hint of gold Turn, then cook the other side until light golden."
+    },
+    {
+      "order": 13,
+      "instruction": "Remove onto paper towel-lined plate. Repeat with remaining butter and paneer. Use per recipe."
+    }
+  ]
+}

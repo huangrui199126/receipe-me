@@ -1,0 +1,257 @@
+{
+  "id": "tr_1872",
+  "title": "Smoky Chipotle Cheddar Burgers with Mexican Street Corn Fritters.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/08/Smoky-Chipotle-Cheddar-Burgers-with-Mexican-Street-Corn-Fritters.-11.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/smoky-chipotle-cheddar-burgers-mexican-street-corn-fritters/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [
+    "burger",
+    "cheddar",
+    "cheeseburger",
+    "corn",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 1028,
+    "protein": 54.0,
+    "carbs": 77.0,
+    "fat": 55.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "ground turkey or ground chicken",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3/4  whole panko bread crumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 in chipotle chiles adobo from a can (minced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "thick sharp cheddar cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  brioche burger buns (toasted)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  avocados mashed lightly with lime juice (2T cilantro, pinch of salt + pepper)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "[chipotle mayo | https://www.halfbakedharvest.com/bourbon-caramelized-bacon-heirloom-tomato-blt-wfried-eggs-smoked-gouda/]",
+      "emoji": "🥓",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  jalapeno (seeded + minced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green onions (finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "milk (any % you prefer)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "sweet yellow corn (about 2 ears)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-6 ounces cotija cheese (crumbled)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "canola oil (for frying)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To prepare the burgers add the ground turkey or chicken to a medium bowl. Add the panko, lime juice, garlic, chipotle chiles, brown sugar, oregano, cumin, smoked paprika and a pinch of both salt and pepper. Mix until just combined and then form the meat into 4 equal size patties. Place on a plate and put in the fridge until ready to cook."
+    },
+    {
+      "order": 2,
+      "instruction": "To make the corn fritters, add the flour, baking powder, chili powder, smoked paprika, salt, pepper and milk to a bowl. Stir until combined. Fold in the corn, cilantro and cotija cheese. It should be the consistency of a very thick pancake batter, if needed add a tablespoon more of milk. Preheat the oven to 300 degrees F. Preheat your grill to medium high heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add oil to a large saucepan and heat over medium high heat. When the oil is hot add a about 1-2 teaspoons of batter to the pot. Fry for 1-2 minutes or until golden brown. Remove with a slotted spoon and drain on a paper towel, then repeat with remaining batter. Keep the fritters warm in the oven until the burgers are ready."
+    },
+    {
+      "order": 4,
+      "instruction": "Meanwhile turn up your grill or a grill pan to high heat. Grill the burgers for 4 to 5 minutes per side for medium rare or longer for your desired doneness. Add the cheddar cheese during the last minute of cooking."
+    },
+    {
+      "order": 5,
+      "instruction": "Spread a little mayo over the bottom of the toasted buns. Divide the burgers among the buns. Spread the mashed avocados over the burgers and top with street corn fritters. Add the top bun. DEVOUR."
+    }
+  ]
+}

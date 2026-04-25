@@ -1,0 +1,170 @@
+{
+  "id": "tr_828",
+  "title": "Kedgeree - British curried rice and fish",
+  "image": "https://www.recipetineats.com/tachyon/2023/04/Kedgeree_3.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/kedgeree/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [
+    "fish and rice",
+    "kedgeree"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 cups/ 1 litre  chicken stock/broth (, low-sodium (Note 5))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/1 lb  smoked haddock or cod (, skin-on (or other smoked fish, Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "long grain rice (, uncooked)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "75",
+      "unit": "g",
+      "name": "/ 5 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "15  curry leaves ((optional, Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  green cardamom pods (, lightly crushed (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  brown onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "curry powder ((anything! Use spicy if you want, I use mild))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "turmeric powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "frozen peas (, thawed)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "coriander/cilantro leaves (, roughly chopped (sub green onion or parsley))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  hard boiled eggs (, halved or quartered (9 minute cook))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Poach fish - Bring chicken stock to a boil in a large saucepan or small pot. Place fish in (it should all be just about submerged, Note 4) and adjust heat so the stock is barely rippling. Poach it gently for 8 minutes or until the fish flakes apart. Remove fish onto a large plate."
+    },
+    {
+      "order": 2,
+      "instruction": "Flake fish - When cool enough to handle, discard skin (gently scrape with a butter knife) and flake fish into large pieces, checking for any bones."
+    },
+    {
+      "order": 3,
+      "instruction": "Reserve stock - Measure out 1/2 cup of the poaching liquid and set aside for later (drizzle on at end to juice up the rice)."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook rice 13 min - Add rice into the poaching liquid in the saucepan. Bring to a simmer over high heat. Cover with lid then reduce heat to low. Cook for 13 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Rest rice 10 min - Remove the saucepan from the stove with the lid on and rest for 10 minutes. Fluff rice using a rubber spatula."
+    },
+    {
+      "order": 6,
+      "instruction": "Curried butter - While the rice is resting, melt the butter in a very large (30cm/12&quot;) non stick skillet or pot, over medium-high heat. Add the cardamom pods and curry leaves and stir for 30 seconds. Add the onions, garlic and sauté for 5 minutes until browning at the edges, stirring regularly."
+    },
+    {
+      "order": 7,
+      "instruction": "Toss rice - Lower heat to medium. Stir in the curry powder and turmeric, and then the rice. Toss the rice in the spiced butter until well coated and uniformly yellow. Pour over the reserved 1/2 cup of fish poaching stock, and toss to mix through (it moistens the rice)."
+    },
+    {
+      "order": 8,
+      "instruction": "Season with salt if required - Check the rice for seasoning. If you used store-bought packet stock, you should find there&#39;s enough natural saltiness already. Otherwise season to taste and mix rice well."
+    },
+    {
+      "order": 9,
+      "instruction": "Peas &amp; fish - Stir through the peas and most of the coriander (hold some back for garnish). Then gently fold through the fish, taking care to keep some pieces in large chunks."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve - Spoon out rice onto one large platter or individual plates to serve. Top with boiled egg halves, and garnish with the remaining coriander. EAT!"
+    }
+  ]
+}

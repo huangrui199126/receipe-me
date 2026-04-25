@@ -1,0 +1,151 @@
+{
+  "id": "tr_1226",
+  "title": "Cheeseburger Party Meatballs",
+  "image": "https://www.recipetineats.com/tachyon/2016/11/Cheeseburger-Meatballs-5.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cheeseburger-party-meatballs/",
+  "servings": 25,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 59,
+    "protein": 6.0,
+    "carbs": 1.9,
+    "fat": 2.9
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   beef mince ((ground beef))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "Worcestershire Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((or 3/4 cup normal breadcrumbs))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6 - 8  processed cheese slices ((Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Baby gherkins",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Ketchup (, to serve)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Meatball ingredients in a bowl and use your hands to combine."
+    },
+    {
+      "order": 2,
+      "instruction": "Refrigerate for 30 minutes (firms up, easier to handle). If in a rush, add more breadcrumbs until mixture is roll-able."
+    },
+    {
+      "order": 3,
+      "instruction": "Scoop up heaped tablespoons and dollop onto work surface with the flick of the wrist. Repeat with remaining mixture. Then roll into balls."
+    },
+    {
+      "order": 4,
+      "instruction": "Cut cheese into small squares to top each meatball."
+    },
+    {
+      "order": 5,
+      "instruction": "Cut larger gherkins in half, lengthwise."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat oil in a skillet over medium high heat. Add meatballs in batches and cook, shaking the pan so they roll around, until browned all over and cooked through - 5 minutes. Between batches, drain excess oil (but keep some to cook next batch)."
+    },
+    {
+      "order": 7,
+      "instruction": "Place cooked meatballs on a large plate that fits in your microwave. Top with cheese and a gherkin and secure with a toothpick."
+    },
+    {
+      "order": 8,
+      "instruction": "Microwave for 60 - 90 seconds or until cheese melts. Serve warm with ketchup!"
+    }
+  ]
+}

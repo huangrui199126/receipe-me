@@ -1,0 +1,179 @@
+{
+  "id": "tr_90",
+  "title": "Grilled Vegetables Platter",
+  "image": "https://www.recipetineats.com/tachyon/2014/12/Chargrilled-Vegetable-Platter-1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/grilled-vegetable-platter/",
+  "servings": 4,
+  "prepTime": 8,
+  "cookTime": 7,
+  "tags": [],
+  "nutrition": {
+    "calories": 182,
+    "protein": 5.1,
+    "carbs": 20.1,
+    "fat": 11.3
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red capsicum ((bell pepper), cut into slices)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion (, peeled and cut into 12 wedges)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large eggplant (, sliced vertically into 1/2 cm / 1/5\" slices)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  zucchinis (, sliced vertically into thin slices)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  squash (, sliced into thin slices)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley or coriander leaves and lemon wedges (, for garnish)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Greek yoghurt",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  garlic clove (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Squeeze of lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra pinch of cumin (, for garnish)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the Yoghurt Sauce ingredients in a bowl and mix. Set aside in the fridge until required."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat the outdoor grill on high (hot plate side). Or a heavy based pan on the stove on high heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Drizzle olive oil on the hot plate / fry pan."
+    },
+    {
+      "order": 4,
+      "instruction": "Place vegetables on the grill / fry pan and cook until charred (about 1 1/2 - 2 minutes). Turn over then cook the other side until charred (about 1 1/2 minutes). Don't worry if the vegetables are a bit undercooked, they will continue to cook while resting."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove from the hot plate / fry pan and place in a bowl. Sprinkle the vegetables in the bowl with a pinch of salt and pepper."
+    },
+    {
+      "order": 6,
+      "instruction": "Repeat with remaining vegetables, and pile the vegetables on top of each other in the bowl. Don't forget to add a pinch of salt and pepper on each layer of vegetables."
+    },
+    {
+      "order": 7,
+      "instruction": "Cover and let it cool to room temperature."
+    },
+    {
+      "order": 8,
+      "instruction": "If you are making this ahead, place the vegetables in the refrigerator until required. Bring to room temperature before serving."
+    },
+    {
+      "order": 9,
+      "instruction": "To serve, place the vegetables on a platter, drizzle over olive oil (the more generous the better!) then garnish with parsley/coriander leaves and lemon wedges (if using). Place the yoghurt on the side (garnish with a pinch of cumin powder) and serve with flatbread or crusty bread."
+    }
+  ]
+}

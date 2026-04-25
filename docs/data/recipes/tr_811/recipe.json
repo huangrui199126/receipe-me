@@ -1,0 +1,172 @@
+{
+  "id": "tr_811",
+  "title": "Mediterranean Brown Rice Salad",
+  "image": "https://www.recipetineats.com/tachyon/2020/09/Brown-Rice-Salad_8-SQ.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/brown-rice-salad/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 40,
+  "tags": [
+    "brown rice recipe",
+    "brown rice salad",
+    "rice salad",
+    "rice side dish"
+  ],
+  "nutrition": {
+    "calories": 179,
+    "protein": 3.0,
+    "carbs": 21.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "cooked brown rice (, cooled but not cold)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  tomatoes (, diced)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  cucumbers (, diced (or 1 long English/continental cucumber))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, chopped (sub 2 stems green onion))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "40g/ 4 cups tightly packed  baby rocket/arugula (, roughly chopped (or baby spinach))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "coriander/cilantro leaves (, roughly chopped (Note 2))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "fresh dill leaves (, roughly chopped (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic cloves (, minced using garlic press)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Dijon mustard ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt (, kosher/cooking salt (1/2 tsp table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "black olive slices",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/7oz  halloumi (, sliced then pan fried in a little olive oil until golden and crispy)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Other topping options: feta, parmesan, nuts (Note 4)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Dressing ingredients in a jar and shake well to combine."
+    },
+    {
+      "order": 2,
+      "instruction": "Place Salad ingredients in a big bowl. Drizzle over Dressing, toss well."
+    },
+    {
+      "order": 3,
+      "instruction": "Transfer to serving bowl. If using Halloumi, pile on top."
+    },
+    {
+      "order": 4,
+      "instruction": "Serve!"
+    }
+  ]
+}

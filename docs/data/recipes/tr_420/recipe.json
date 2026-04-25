@@ -1,0 +1,257 @@
+{
+  "id": "tr_420",
+  "title": "Lamb tagine",
+  "image": "https://www.recipetineats.com/tachyon/2023/08/Lamb-tagine_4.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lamb-tagine/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 120,
+  "tags": [
+    "lamb tagine"
+  ],
+  "nutrition": {
+    "calories": 442,
+    "protein": 32.0,
+    "carbs": 30.0,
+    "fat": 24.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.6 kg/ 3.2lb  boneless lamb shoulder, trim the fat, then ( cut in 3.5cm / 1.5&quot; cubes (1kg/2lb after trimming))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb  lamb stewing meat or shoulder, already trimmed of fat (cut in 3.5cm / 1.5&quot; cubes)",
+      "emoji": "🐑",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  brown onions (, diced (1cm / 0.3\" cubes))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "grated ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  cinnamon sticks",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "chicken stock/broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dried apricots (, whole (Note 2 for olives option))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tsp lemon zest ((just use 1 whole lemon, Note 3 for preserved lemon))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ground coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ground cardamom",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "turmeric powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "fennel powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cayenne pepper ((can reduce for less spicy - Note 4))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "ground cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "ground ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "slivered almonds (, toasted (Note 5))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "coriander/cilantro leaves roughly chopped",
+      "emoji": "🌿",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2 batches couscous ((I just use plain, but you can add the fruit and nuts if you want))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°F/350°F (160°C fan). (Note 6 re: other cook methods)"
+    },
+    {
+      "order": 2,
+      "instruction": "Spice mix - Mix the ingredients in a bowl then set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Brown lamb - Toss lamb with the salt and pepper. Heat the oil in a large oven-proof dutch oven (with a lid) over high heat. Brown the lamb in 3 batches, turning to colour the pieces all over, about 3 minutes. Remove into a bowl, then repeat with remaining lamb. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Aromatics - Turn heat down to medium high. Add onion and garlic, cook for 3 minutes until soft. Add tomato paste, ginger, cinnamon and spice mix. Cook for 1 1/2 minutes, stirring constantly."
+    },
+    {
+      "order": 5,
+      "instruction": "Sauce - Add chicken stock and water, stir, then return the lamb into the pot."
+    },
+    {
+      "order": 6,
+      "instruction": "Slow cook 1 hr 45 min - Bring to a simmer, cover with a lid then cook in the oven for 45 minutes. Add apricots, put the lid back on and cook for another 1 hour, checking halfway to ensure the sauce hasn&#39;t reduced all the way (if you&#39;re concerned, add 1/2 cup water)."
+    },
+    {
+      "order": 7,
+      "instruction": "Lemon finish - Lamb should be tender - check! Gently stir in lemon zest."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve over plain couscous, sprinkled with almonds and coriander."
+    }
+  ]
+}

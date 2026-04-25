@@ -1,0 +1,95 @@
+{
+  "id": "tr_1213",
+  "title": "Mojito",
+  "image": "https://www.recipetineats.com/tachyon/2019/10/Mojito-3.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mojito/",
+  "servings": 1,
+  "prepTime": 3,
+  "cookTime": 0,
+  "tags": [
+    "cocktail recipe",
+    "mojito",
+    "mojito cocktail"
+  ],
+  "nutrition": {
+    "calories": 204,
+    "protein": 1.0,
+    "carbs": 16.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "30",
+      "unit": "ml",
+      "name": "/ 1 oz  lime juice (, fresh)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "30",
+      "unit": "ml",
+      "name": "/ 1 oz  sugar syrup (, homemade (Note 1))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  mint leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "60",
+      "unit": "ml",
+      "name": "/ 2 oz  white rum ((I use Bicardi, Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125ml)  club soda / soda water ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges or slices",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mint sprigs",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place lime juice, rum and sugar syrup in tall glass. Use a muddler (Note 4) to bruise the mint to release flavour."
+    },
+    {
+      "order": 2,
+      "instruction": "Fill glass with ice, pour over rum and soda water, then stir."
+    },
+    {
+      "order": 3,
+      "instruction": "Garnish with lime slice and mint leaves. Serve immediately!"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "id": "tr_1371",
+  "title": "Greek Kofta Kebabs",
+  "image": "https://www.recipetineats.com/tachyon/2024/08/Greek-lamb-kofta-kebabs_5.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/greek-kofta-kebabs/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "greek koftas",
+    "kofta kebabs",
+    "lamb mince recipe"
+  ],
+  "nutrition": {
+    "calories": 508,
+    "protein": 23.0,
+    "carbs": 6.0,
+    "fat": 44.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1 lb  lamb mince ((or beef, or 50/50 beef/lamb, Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large garlic cloves (, crushed using garlic press or finely grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "paprika ((regular/sweet, not smoked))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4 1/2",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "curry powder (, not spicy, any brand fine (Kalimera secret ingredient! Note 2))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  skewers (, optional (I use 18cm/7.5&quot;))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "plain yogurt (, preferably Greek (full-fat best))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "mayonnaise (, preferably whole-egg)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "American yellow mustard ((ie the bright yellow American stuff!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "paprika ((sweet/regular, not smoked or spicy))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  Greek pita bread (, pockets or flatbreads, warmed (TIPS - Note 4!))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  tomatoes (, halved and sliced)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely sliced or chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Iceberg lettuce (, finely sliced (or other leafy greens))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 20
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauce - Mix the ingredients in a bowl and set aside to let the flavours meld while you make the kofta kebabs."
+    },
+    {
+      "order": 2,
+      "instruction": "Kofta kebabs - Put all the ingredients in a bowl and mix well with your hands until the spices are mixed through. Divide into 8, shape into 13cm/5\" logs. Thread onto skewers then flatten slightly to about 1.25cm / 0.5\" thick (Note 5)."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook - Heat 1 tbsp oil in a large non stick pan over medium high heat. Cook half the koftas for 2 minutes on each side until golden, then about 30 seconds on each short edge (just for a bit of colour). Reduce the heat if they're browning too fast. Transfer to a serving plate, loosely cover with foil to keep warm. Cook the remaining koftas. (Scrape out loose burnt bits, if any. You shouldn't need extra oil.)"
+    },
+    {
+      "order": 4,
+      "instruction": "Serve and assemble! Pile the lettuce, tomato and onion on the plate and put the sauce in a bowl. To assemble, take a warm pita bread and smear some sauce down the middle. Top with lettuce and 1 or 2 koftas (removed from the skewers), tuck tomato down the side and sprinkle with onion. Fold and EAT!"
+    }
+  ]
+}

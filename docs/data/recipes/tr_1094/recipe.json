@@ -1,0 +1,223 @@
+{
+  "id": "tr_1094",
+  "title": "Acqua Pazza - Italian Poached Fish",
+  "image": "https://www.recipetineats.com/tachyon/2021/02/Acqua-Pazza_0-SQ.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/acqua-pazza-italian-poached-fish/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 40,
+  "tags": [
+    "acqua pazza",
+    "poached fish",
+    "steamed fish"
+  ],
+  "nutrition": {
+    "calories": 599,
+    "protein": 43.0,
+    "carbs": 36.0,
+    "fat": 26.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 x 180g/6oz snapper fillets, or other white fish, (, skin on, bones and scales removed (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  red onion (, sliced 1cm / 1/3\" thick)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  fennel (medium) (, sliced sliced 1cm / 1/3&quot; thick)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  large red chilli (cayenne pepper) (, seeds removed and finely chopped (Note 2))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "15  red cherry tomatoes (, halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  yellow cherry tomatoes (, halved (or more red))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "chardonnay (not too woody) (, or other dry white wine (Note 3))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "basil (, finely sliced (keep stems), plus more for garnish)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped (keep stems))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  crusty baguette (, cut 4 to 6 slices on a diagonal, 1cm / 1/3&quot;  thick)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, halved (for rubbing))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté fennel and onion: Heat oil in a non-stick skillet over medium heat. Add fennel and onion, cook 4 minutes until softened but not golden."
+    },
+    {
+      "order": 2,
+      "instruction": "Garlic and chilli: Add garlic and chilli, cook for 1 minute until garlic is softened."
+    },
+    {
+      "order": 3,
+      "instruction": "Tomatoes: Add cherry tomatoes, cook for 4 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Reduce wine: Turn stove up to high, add wine and simmer rapidly for 2 - 3 minutes until reduced by half."
+    },
+    {
+      "order": 5,
+      "instruction": "Simmer sauce: Add water and salt, and the basil &amp; parsley stems if you kept them. Bring to boil, then lower stove to medium and simmer for 20 - 25 minutes until sauce reduces by about 2/3 (it will thicken from tomatoes breaking down)."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook fish: Sprinkle flesh side of fish with salt, then place on sauce skin side down (it will mostly sit above sauce). Cover with lid (or foil or tray) and cook for 6 minutes or until internal temperature registers 55°C/131°F (for medium, no rare/raw left with optimum juiciness)."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove fish: Remove lid, transfer fish to plate."
+    },
+    {
+      "order": 8,
+      "instruction": "Add herbs: Remove basil and parsley stems. Stir basil and parsley into sauce. Taste sauce, add more salt if required."
+    },
+    {
+      "order": 9,
+      "instruction": "Place 2 crostini in a shallow bowl. Spoon over a bit of the chunky sauce, top with fish. Spoon remaining sauce around."
+    },
+    {
+      "order": 10,
+      "instruction": "Garnish with extra basil and a drizzle of olive oil. Serve immediately."
+    },
+    {
+      "order": 11,
+      "instruction": "Preheat oven to 180°C/350°F (all types)."
+    },
+    {
+      "order": 12,
+      "instruction": "Brush olive oil on bread, sprinkle with a bit of salt. Flip and repeat. Bake 10 minutes, turning halfway, or until fully crispy."
+    },
+    {
+      "order": 13,
+      "instruction": "Rub bread lightly on one side with cut face of garlic. Use warm or at room temperature."
+    }
+  ]
+}

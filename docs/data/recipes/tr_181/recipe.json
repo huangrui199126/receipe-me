@@ -1,0 +1,131 @@
+{
+  "id": "tr_181",
+  "title": "Cajun Blackened Fish {+ Video}",
+  "image": "https://www.recipetineats.com/tachyon/2016/02/Cajun-Blackened-Fish_3.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cajun-blackened-fish/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 199,
+    "protein": 28.7,
+    "carbs": 2.6,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dry mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt ((table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "cayenne pepper ((or to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Good grind of black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  firm white fish fillets ((about 150g/5oz each) (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine Spice Mix in a shallow dish and mix."
+    },
+    {
+      "order": 2,
+      "instruction": "Coat both sides of the fish fillets with the Spice Mix, shaking off excess."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a large heavy based skillet over medium high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Add fish and cook until the rub turns black, then flip and cook the other side until the fish is cooked to your taste. (Note 2)"
+    },
+    {
+      "order": 5,
+      "instruction": "Serve immediately. I served mine with a buttery Corn Rice Salad - refer to the Notes for the recipe."
+    }
+  ]
+}

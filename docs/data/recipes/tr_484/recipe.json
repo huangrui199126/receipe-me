@@ -1,0 +1,167 @@
+{
+  "id": "tr_484",
+  "title": "Smoky Roasted Tomato Soup",
+  "image": "https://www.recipetineats.com/tachyon/2024/05/Roasted-tomato-soup_0-square.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/smoky-roasted-tomato-soup/",
+  "servings": 5,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5.0,
+    "carbs": 19.0,
+    "fat": 18.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.5kg/ 3 lb  tomatoes (, halved, cut a \"V\" out of the top to remove the core (Note 1))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  garlic cloves (, NOT peeled)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "smoked paprika (, optional (Note 2))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "litre",
+      "name": "(4 cups)  vegetable stock/broth",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 tsp+ white sugar (, only if needed (Note 3))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cream (, optional, plus extra for drizzling (sub 30g/2tbsp butter, Note 4))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "roughly chopped fresh basil leaves (, NOT CRITICAL (Note 5))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Grilled cheese!",
+      "emoji": "🧀",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 220°C/425°F (200°C fan-forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss &amp; squidge - Place the tomatoes and unpeeled garlic cloves on a tray. Drizzle/sprinkle with the oil, paprika, salt and pepper. Toss to coat, squidging the cut face of the tomato in the oil on the tray to thoroughly coat. Arrange tomatoes cut face up."
+    },
+    {
+      "order": 3,
+      "instruction": "Roast for 40 to 45 minutes or until there is some charring on the tomatoes (see photos)."
+    },
+    {
+      "order": 4,
+      "instruction": "Sauté - Heat the oil in a large pot over medium high heat. Sauté the garlic and onion for 3 minutes or until the onion is translucent."
+    },
+    {
+      "order": 5,
+      "instruction": "Tomatoes - Remove the garlic cloves from the baking tray. Scrape all the tomatoes and juices into the pot. Squeeze garlic flesh into the pot. Add vegetable stock."
+    },
+    {
+      "order": 6,
+      "instruction": "Blitz with a stick blender until smooth (or do this in a food processor or blender)."
+    },
+    {
+      "order": 7,
+      "instruction": "Simmer - Bring to a simmer then lower heat to medium and simmer for 10 minutes. Stir in the cream."
+    },
+    {
+      "order": 8,
+      "instruction": "Ladle into bowls, drizzle with cream and garnish with basil. Dunk in grilled cheese and enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "tr_226",
+  "title": "Spicy Parmesan Party Popcorn",
+  "image": "https://www.recipetineats.com/tachyon/2015/02/Spicy-Parmesan-Popcorn-FINAL.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spicy-parmesan-party-popcorn/",
+  "servings": 16,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 101,
+    "protein": 1.7,
+    "carbs": 1.2,
+    "fat": 10.3
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "vegetable oil ((not required if air popping with a popcorn maker))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "popping corn",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 to 2/3 cups freshly grated parmesan cheese ((finely grated) (Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "fine salt ((Not flakes because it won't stick. Table salt is fine))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cayenne pepper ((or chilli) (adjust to your taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "paprika ((optional - this is for a bit of extra colour))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pop the popcorn in a popcorn maker or on the stove (see steps 2 and 3)."
+    },
+    {
+      "order": 2,
+      "instruction": "Make popcorn on the stove: Heat oil in a large pot over medium heat. Add a few pieces of popcorn - if the corn slowly spins in the oil then the oil is hot enough."
+    },
+    {
+      "order": 3,
+      "instruction": "Add remaining popcorn and cover with a lid. Once the popcorn starts popping, shake the pot gently every now and then."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove from heat when the popping stops (when you can count to 3 between pops) and transfer to a large bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Combine the salt, cayenne pepper and paprika in a small bowl and mix to combine (\"Spice Mix."
+    },
+    {
+      "order": 6,
+      "instruction": "Get a large serving bowl and place 1/3 of the popcorn in it. Spray generously with olive oil then sprinkle over 1/3 of the parmesan and 1/3 of the Spice Mix.Repeat twice more. Do not toss. The flavourings will naturally toss through as people start to dig in."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve immediately."
+    }
+  ]
+}

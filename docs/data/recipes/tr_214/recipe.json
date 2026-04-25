@@ -1,0 +1,85 @@
+{
+  "id": "tr_214",
+  "title": "Japanese Salmon with Mirin and Soy Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Salmon-Soy-Mirin.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/japanese-salmon-mirin-soy-sauce/",
+  "servings": 2,
+  "prepTime": 1,
+  "cookTime": 6,
+  "tags": [
+    "japanese salmon recipe"
+  ],
+  "nutrition": {
+    "calories": 307,
+    "protein": 35.0,
+    "carbs": 11.1,
+    "fat": 14.4
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  salmon fillets ((5 oz / 150 g each))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "mirin",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sake",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine all ingredients except the oil in a ziplock bag, remove as much air as possible and marinade overnight (or minimum 3 hours)."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 1/2 tbsp oil in a non stick pan over medium heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add salmon skin side down, cook for 2 to 3 minutes until crispy. Check the skin to ensure it isn't cooking too quickly - if it is, then turn down the heat and/or remove the pan from the stove briefly to allow the temperature to decrease."
+    },
+    {
+      "order": 4,
+      "instruction": "Drizzle over remaining marinade in the ziplock bag over the flesh side. Flip and cook the flesh side for 2 minutes, or to your liking. I like salmon medium rare so the inside is very moist and just cooked."
+    },
+    {
+      "order": 5,
+      "instruction": "Rest for a couple of minutes, remembering that the salmon will continue to cook while resting, then serve."
+    }
+  ]
+}

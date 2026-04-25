@@ -1,0 +1,82 @@
+{
+  "id": "tr_430",
+  "title": "How to make Grilled Corn",
+  "image": "https://www.recipetineats.com/tachyon/2019/07/Grilled-Corn_0.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/how-to-grill-corn/",
+  "servings": 4,
+  "prepTime": 2,
+  "cookTime": 10,
+  "tags": [
+    "bbq corn",
+    "grilled corn"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  whole corn on the cob",
+      "emoji": "🌽",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 tbsp/ 30g   melted butter (, salted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Softened butter (, salted (not optional))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat BBQ (grill side) until very hot."
+    },
+    {
+      "order": 2,
+      "instruction": "Peel husk off the corn."
+    },
+    {
+      "order": 3,
+      "instruction": "Place corn on the BBQ (no oil required)."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook for 10 minutes, turning every couple of minutes, until there's little charred bits and the kernels are tender when pierced with a knife, but still JUICY! Overcooked corn is shrivelled, dry and sad."
+    },
+    {
+      "order": 5,
+      "instruction": "In the last minute, brush with melted butter and roll around."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve corn with softened butter, sprinkled with parsley if desired!"
+    }
+  ]
+}

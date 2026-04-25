@@ -1,0 +1,101 @@
+{
+  "id": "tr_268",
+  "title": "Pumpkin Soup - Classic and Easy",
+  "image": "https://www.recipetineats.com/tachyon/2017/10/Pumpkin-Soup-2.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/classic-pumpkin-soup/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "pumpkin soup"
+  ],
+  "nutrition": {
+    "calories": 189,
+    "protein": 3.0,
+    "carbs": 22.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1.2",
+      "unit": "kg",
+      "name": "/ 2.4 lb  pumpkin (any type) ( OR butternut squash, unpeeled weight (Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, sliced (white, brown, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, peeled whole)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "vegetable or chicken broth/stock (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 3/4 cup cream (, half and half or milk (Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the pumpkin into 3cm / 2.25&quot; slices. Cut the skin off and scrape seeds out (video is helpful). Cut into 4cm / 1.5&quot; chunks."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the pumpkin, onion, garlic, broth and water in a pot - liquid won&#x27;t quite cover all the pumpkin. Bring to a boil, uncovered, then reduce heat and let simmer rapidly until pumpkin is tender (check with butter knife) - about 10 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove from heat and use a stick blender to blend until smooth (Note 3 for blender)."
+    },
+    {
+      "order": 4,
+      "instruction": "Season to taste with salt and pepper, stir through cream (never boil soup after adding cream, cream will split)."
+    },
+    {
+      "order": 5,
+      "instruction": "Ladle soup into bowls, drizzle over a bit of cream, sprinkle with pepper and parsley if desired. Serve with crusty bread!"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "tr_457",
+  "title": "Vietnamese pickled carrots and daikon (radish)",
+  "image": "https://www.recipetineats.com/tachyon/2024/03/Vietnamese-pickled-carrot-and-daikon_9.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vietnamese-pickled-carrots-daikon/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "pickled vegetables"
+  ],
+  "nutrition": {
+    "calories": 624,
+    "protein": 38.0,
+    "carbs": 46.0,
+    "fat": 31.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium carrots (, peeled cut into 3mm / 1/10&quot; batons (Note 1))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  large daikon (white radish) (, peeled, cut the same as carrots (Note 1))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "rice wine vinegar ((sub apple cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pickle - In a large bowl, dissolve the salt and sugar in the hot water. Stir in vinegar. Add carrots and daikon - they should just about be covered."
+    },
+    {
+      "order": 2,
+      "instruction": "2 hours - Leave for 2 hours until the vegetables are slightly floppy."
+    },
+    {
+      "order": 3,
+      "instruction": "Using - Drain well to use, or just take out what you need (no liquid, just the vegetables)."
+    },
+    {
+      "order": 4,
+      "instruction": "Storing - The vegetables will keep in the fridge for 2 months, in the pickling liquid. Use airtight glass containers or jars (not plastic)."
+    }
+  ]
+}

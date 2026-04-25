@@ -1,0 +1,153 @@
+{
+  "id": "tr_414",
+  "title": "Chinese Cashew Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2019/01/Cashew-Chicken_7-SQ.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-cashew-chicken/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 6,
+  "tags": [
+    "cashew chicken"
+  ],
+  "nutrition": {
+    "calories": 559,
+    "protein": 26.0,
+    "carbs": 21.0,
+    "fat": 41.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornstarch / cornflour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "soy sauce  (, all purpose or light (Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine or Mirin ((Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "Dash",
+      "name": "of white pepper ((sub black))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  chicken thigh (, skinless boneless, cut into 2.5cm/1\" pieces (Note 3))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "peanut oil (or vegetable oil)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, chopped into 1.75 cm / 3/4\" pieces(yellow, brown or white))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green capsicum / bell pepper (, chopped into 2 cm / 0.8\" pieces)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "roasted cashews (, unsalted)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauce: Mix cornflour and soy sauce until there's no lumps. Then add remaining Sauce ingredients and mix."
+    },
+    {
+      "order": 2,
+      "instruction": "Marinate: Transfer 2 tbsp Sauce to chicken, mix to coat. Set aside for 10 minutes+."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook: Heat oil over high heat in a wok or heavy based skillet. Add the garlic and onion, cook for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Add chicken and cook for 2 minutes. Add capsicum and cook for 1 minute."
+    },
+    {
+      "order": 5,
+      "instruction": "Add Sauce and water. Bring to simmer and cook, stirring, for 1 minute or until Sauce thickens."
+    },
+    {
+      "order": 6,
+      "instruction": "Stir through cashews, remove from stove. Serve immediately with rice - or for a low carb, low cal option, try Cauliflower Rice!"
+    }
+  ]
+}

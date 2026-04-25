@@ -1,0 +1,179 @@
+{
+  "id": "tr_939",
+  "title": "Quick Satay Peanut Stir Fry (any protein)",
+  "image": "https://www.recipetineats.com/tachyon/2017/07/Quick-Satay-Stir-Fry.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/satay-peanut-stir-fry/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 7,
+  "tags": [],
+  "nutrition": {
+    "calories": 363,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "fish sauce ((Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "grated ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "curry powder ((any - I use hot!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "crunchy peanut butter ((smooth also ok))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "300 - 350 g / 10 - 12 oz   beef (, chicken or pork thinly sliced (or peeled prawns/shrimp) (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic (, finely chopped (Note 3))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large carrot (, julienned (Note 4))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  big handful bean sprouts ((~1 1/2 cups packed))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "finely sliced shallots / green onions ((plus more for garnish))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "crushed peanuts (, plus more for garnish (optional))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Sauce ingredients EXCEPT WATER together in a small bowl. Then mix in water (easier to combine)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place beef in a bowl, add 1 tbsp Sauce. Mix, set aside 10 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a wok or large heavy based skillet over high heat. Add garlic and stir until golden (~10 sec) then add onion. Cook for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Add beef. Cook for 1 1/2 minutes or until it mostly turns brown (some red spots ok). If using pork, chicken or prawns, cook until almost cooked through."
+    },
+    {
+      "order": 5,
+      "instruction": "Add carrots, bean sprouts and Sauce. Cook until veggies are wilted."
+    },
+    {
+      "order": 6,
+      "instruction": "Add peanuts and shallots, stir."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve immediately with rice or noodles, garnished with extra shallots and peanuts if desired. (For a low carb, low cal option, try Cauliflower Rice!)"
+    }
+  ]
+}

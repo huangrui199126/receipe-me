@@ -1,0 +1,78 @@
+{
+  "id": "tr_803",
+  "title": "Rocket Salad with Balsamic Dressing and Shaved Parmesan",
+  "image": "https://www.recipetineats.com/tachyon/2019/09/Rocket-Salad-with-Balsamic-Dressing_1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/rocket-salad-with-balsamic-dressing/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "arugula salad",
+    "rocket salad"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 2.0,
+    "carbs": 2.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5 oz   rocket / arugula ((4 big handfuls))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "15",
+      "unit": "g",
+      "name": "/ 0.5oz  parmesan (, shaved finely using vegetable peeler)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Shake Balsamic Dressing in jar."
+    },
+    {
+      "order": 2,
+      "instruction": "Place rocket in a bowl, drizzle with Dressing then toss."
+    },
+    {
+      "order": 3,
+      "instruction": "Transfer to serving bowl. Shave over parmesan. Serve immediately."
+    }
+  ]
+}

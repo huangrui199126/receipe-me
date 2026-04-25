@@ -1,0 +1,207 @@
+{
+  "id": "tr_1501",
+  "title": "Cheese Fondue Board.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/12/Cheese-Fondue-Board-3.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/cheese-fondue-board/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "cheeseboard",
+    "finger food",
+    "party food"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 38.0,
+    "carbs": 7.0,
+    "fat": 43.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "shredded swiss cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "shredded gruyere cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "white wine (may use chicken broth)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of freshly grated nutmeg",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "kosher salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "shredded cheddar",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "shredded aged gouda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "beer (may use chicken broth)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "crumbled blue cheese (optional)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "kosher salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "assorted crackers and breads",
+      "emoji": "🍞",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "assort winter fruits and vegetables",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "thinly sliced grilled steak and or assorted deli meats",
+      "emoji": "🥩",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "honey and or honeycomb",
+      "emoji": "🍯",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "toasted nuts (I love marcona almonds (walnuts, and pistachios))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add the cheese to a bowl and toss with the cornstarch."
+    },
+    {
+      "order": 2,
+      "instruction": "Rub the inside of a fondue pot with garlic; discard garlic. Pour the wine into the fondue pot, and place over medium-low heat. When liquid starts to bubble, start adding the cheese by the handful, stirring until melted and combined. Season with nutmeg, salt and pepper. Keep over low heat until ready to serve."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the cheese to a bowl and toss with the cornstarch."
+    },
+    {
+      "order": 4,
+      "instruction": "Rub the inside of a fondue pot with garlic; discard garlic. Pour the beer into the fondue pot, and place over medium-low heat. When liquid starts to bubble, start adding the cheese by the handful, stirring until melted and combined. Stir in the mustard powder and season with salt and pepper. If using the blue cheese stir it in now until melted and smooth. Keep over low heat until ready to serve."
+    },
+    {
+      "order": 5,
+      "instruction": "Place the fondues on a large board or serving table. Arrange the breads, fruits, vegetables, meats, honey and nuts around the fondue pots. Serve."
+    }
+  ]
+}

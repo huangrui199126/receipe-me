@@ -1,0 +1,85 @@
+{
+  "id": "tr_512",
+  "title": "Shortbread Cookies",
+  "image": "https://www.recipetineats.com/tachyon/2019/03/Shortbread-Cookies.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/shortbread-cookies/",
+  "servings": 24,
+  "prepTime": 5,
+  "cookTime": 30,
+  "tags": [
+    "shortbread cookies"
+  ],
+  "nutrition": {
+    "calories": 135,
+    "protein": 1.0,
+    "carbs": 13.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   salted butter, softened (2 x US sticks, 1 cup) (or unsalted + ¼ tsp salt)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(90g)  icing sugar (powdered sugar) ((Note 2))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(300g)  plain / all purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 160C/325F (standard) or 150C/300F (fan forced / convection)."
+    },
+    {
+      "order": 2,
+      "instruction": "Butter and line a 31.5 x 23.5 cm / 9 x 13\" pan with baking paper with overhang."
+    },
+    {
+      "order": 3,
+      "instruction": "Beat butter until smooth (or use very soft butter and a wooden spoon). Add icing sugar and beat until combined."
+    },
+    {
+      "order": 4,
+      "instruction": "Add half the flour and beat until mostly combined – it will resemble wet sand. Then beat in the remainder. Use your hands to bring it together into a smooth ball of dough – knead lightly if required."
+    },
+    {
+      "order": 5,
+      "instruction": "Roughly press down into a rectangle shape, then transfer into the pan. Press into the pan. Optional: Roll over the top using a small rolling pin or glass (that’s what I used) for a smooth surface. Don’t press down too hard – it makes the cookies firmer"
+    },
+    {
+      "order": 6,
+      "instruction": "Bake for 20 minutes until edges are very light golden and most of the surface is still pale gold."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove from the oven. Working quickly, cut into desired shape (I do 8 x 3 bars, like Walker’s shortbread biscuits) and prick all over with a fork (optional)."
+    },
+    {
+      "order": 8,
+      "instruction": "Return to the oven for 8 minutes or until the surface is light golden – not browned. Turn the oven off, crack it open ajar, then leave to cool for at least 1 hour in the oven."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove from the oven, use paper overhang to remove the biscuits from the pan. Cool fully on rack. Serve with tea!!"
+    }
+  ]
+}

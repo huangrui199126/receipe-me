@@ -1,0 +1,178 @@
+{
+  "id": "tr_1052",
+  "title": "Teriyaki Chicken Meatballs",
+  "image": "https://www.recipetineats.com/tachyon/2020/04/Teriyaki-Chicken-Meatballs-SQ.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/teriyaki-chicken-meatballs/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [
+    "chicken meatballs",
+    "teriyaki meatballs"
+  ],
+  "nutrition": {
+    "calories": 463,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65ml   soy sauce (, all purpose / ordinary (Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65ml   cooking sake (, or sub with Chinese cooking wine or dry sherry (Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65ml   Mirin ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white sugar ((brown also ok))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¾",
+      "unit": "cup",
+      "name": "/ 180 ml   water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   chicken mince (ground chicken) (or pork or turkey)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg ((preferably small 50g / 1.4 oz))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((or ¾ cup normal breadcrumbs))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 ½",
+      "unit": "tsp",
+      "name": "cooking sake (, or sub with Chinese cooking wine or dry sherry (Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "½",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced green onions / scallions (, for garnish (optional))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds (, for garnish (optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Meatball ingredients in a bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Place cornflour in a bowl with 1 tbsp of the water, then mix until lump free. Then add the soy sauce, sake, mirin and sugar, mix."
+    },
+    {
+      "order": 3,
+      "instruction": "Add 2 tsp of Teriyaki Sauce into the Meatball bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Add remaining water into the Sauce and mix. Set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "Mix Meatball mixture with your hands. Measure out 1 heaped tablespoon and roll into balls. See Note 3 for tips if mixture is too sticky."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat oil in a large skillet over medium high heat. Add all the meatballs and cook, rolling to brown all over, for 5 minutes. They will still be a bit raw inside."
+    },
+    {
+      "order": 7,
+      "instruction": "Turn heat down. Give the Sauce a quick mix then add it into the pan. Bring to a simmer then cook for 2 - 3 minutes or until it thickens into a glossy sauce that coats the meatballs."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve over rice, garnished with green onions and sesame seeds if desired."
+    }
+  ]
+}

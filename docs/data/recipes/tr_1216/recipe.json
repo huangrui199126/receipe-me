@@ -1,0 +1,163 @@
+{
+  "id": "tr_1216",
+  "title": "Cheese and Ham Pancakes (Pikelets!)",
+  "image": "https://www.recipetineats.com/tachyon/2017/12/Ham-and-Cheese-Pancakes-5.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cheese-ham-pancakes/",
+  "servings": 13,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 140,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 150 g  plain flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "215",
+      "unit": "ml",
+      "name": "/ 3/4 cup + 2 tbsp    milk ((Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "/ 150 g  grated cheddar cheese ((Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "/ 225g   chopped ham ((Note 3))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shallots / scallions (, finely sliced (about 4 stalks))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream ((highly recommend, or use yoghurt))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra chopped shallots",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra chopped ham (, cooked)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place flour, baking powder, salt and pepper in a bowl. Mix to combine."
+    },
+    {
+      "order": 2,
+      "instruction": "Make a well in the centre. Add egg and milk. Mix until flour is incorporated - small lumps is fine (see video / photo in post)."
+    },
+    {
+      "order": 3,
+      "instruction": "Add cheese, ham and shallots. Stir through - it should have a soft dropping consistency."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat a non stick pan over medium high heat (or medium if your stove is strong)."
+    },
+    {
+      "order": 5,
+      "instruction": "If using extra ham for toppings: cook it in just 1 tsp butter until golden, then remove onto paper towels to drain."
+    },
+    {
+      "order": 6,
+      "instruction": "For the pancakes: Add about 2 tsp butter, swirl to melt."
+    },
+    {
+      "order": 7,
+      "instruction": "Place 1/4 cup batter in the pan (Note 4), then roughly spread into a 7cm / 3\" circle. Repeat to fill the pan (I do 3 in a small pan, 4 in a large)."
+    },
+    {
+      "order": 8,
+      "instruction": "Cook for 2 minutes until the underside is deep golden. Don't wait for bubbles like normal pancakes, they won't appear."
+    },
+    {
+      "order": 9,
+      "instruction": "Flip and cook the other side for 1 1/2 minutes. Remove onto a rack."
+    },
+    {
+      "order": 10,
+      "instruction": "Add a bit of extra butter and repeat with remaining batter."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve with dollops of sour cream (virtually mandatory!), sprinkled with extra cooked ham and shallots, if desired."
+    }
+  ]
+}

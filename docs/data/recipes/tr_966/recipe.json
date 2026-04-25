@@ -1,0 +1,121 @@
+{
+  "id": "tr_966",
+  "title": "Spicy edamame",
+  "image": "https://www.recipetineats.com/tachyon/2024/07/Spicy-edamame-47582.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spicy-edamame/",
+  "servings": 4,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "edamame"
+  ],
+  "nutrition": {
+    "calories": 156,
+    "protein": 8.0,
+    "carbs": 14.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "300g/10oz  frozen edamame in the pods ((ie not shelled), preferably not brined (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "grapeseed oil ((or other plain flavoured oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "garlic (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sambal oelek (, adjust/omit to taste (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil (, toasted)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Japanese soy sauce ((sub light soy or all-purpose soy, NOT dark soy - Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "mirin ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "miso paste ((any type, not critical if you omit))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Spicy garlic sauce - Heat the oil in a small pan over medium low heat. Cook the garlic until very light golden, then add everything else. Stir, then simmer on low for 1 minute. Remove from stove."
+    },
+    {
+      "order": 2,
+      "instruction": "Edamame - Bring a large pot of water to the boil and add the salt. Put the frozen edamame in the water. Bring it back up to the boil then cook for 2 minutes (Note 5 - ignore the packet times, they always say too long!). Drain well, shaking off excess water."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss - Transfer edamame into a bowl, pour over sauce, toss. Transfer into a serving bowl - scrape out every drop of sauce! Serve warm or at room temperature."
+    },
+    {
+      "order": 4,
+      "instruction": "To eat, pick up a sauce-slathered pod. Bite the pod so the soybeans pop out into your mouth, and suck all the sauce off the skin. Discard the skin, repeat and repeat!"
+    }
+  ]
+}

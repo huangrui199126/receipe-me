@@ -1,0 +1,119 @@
+{
+  "id": "tr_230",
+  "title": "Brussel Sprout Salad",
+  "image": "https://www.recipetineats.com/tachyon/2016/10/Brussel-Sprout-Salad-2.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/brussel-sprout-salad/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 332,
+    "protein": 13.7,
+    "carbs": 10.7,
+    "fat": 27.2
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "name": "/ 50g   hazel nuts",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "180",
+      "unit": "g",
+      "name": "/ 6oz   bacon, chopped",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red apple",
+      "emoji": "🍎",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10 oz   brussels sprouts",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F. Toast hazelnuts for 5 minutes or until golden brown. Cool then roughly chop. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Either place the bacon on the baking tray used for the hazelnuts and bake until golden, or cook in a skillet. Drain on paper towels."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut apple into matchsticks, keeping the skin on. Toss in lemon juice."
+    },
+    {
+      "order": 4,
+      "instruction": "Shave brussels sprouts finely using a slicer or food processor."
+    },
+    {
+      "order": 5,
+      "instruction": "Place Dressing ingredients in a jar and shake well. Adjust salt and pepper to taste."
+    },
+    {
+      "order": 6,
+      "instruction": "Place Salad ingredients in a bowl, toss with Dressing. Set aside for 5 minutes before serving (to soften the brussels sprouts slightly)."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "id": "tr_65",
+  "title": "Creamy Mushroom and Spinach Orzo (Risoni) (One Pot)",
+  "image": "https://www.recipetineats.com/tachyon/2015/05/Spinach-Parmesan-Creamy-Risoni-2_in-pan.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-mushroom-and-spinach-orzo-risoni-one-pot/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 542,
+    "protein": 27.3,
+    "carbs": 67.9,
+    "fat": 19.2
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1.2",
+      "unit": "lb",
+      "name": "/ 600g   mushrooms (, sliced (I used button mushrooms))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "butter, unsalted",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "/ 375 ml  milk ((I used low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "/ 750 ml  chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "orzo / risoni, uncooked ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "parmesan cheese (, grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250g   frozen spinach ((1 box), thawed, excess water squeezed out)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the olive oil in a large non stick pan over high heat (if you aren't using non stick, use more oil)."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the mushrooms and cook until softened (around 3 minutes). Remove from the pan and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Lower the heat to medium and melt the butter in the pan. Add garlic and onion, and sauté until the onion becomes translucent - around 3 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the flour, stir it in and cook for 1 minute."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the milk and chicken broth and use a whisk to mix the butter flour mixture into the liquid."
+    },
+    {
+      "order": 6,
+      "instruction": "Increase heat to medium high. Add the orzo/risoni, salt and pepper, stir once, then put a lid on (Note 2). Bring it to a simmer, then leave it to cook for around 8 to 10 minutes or until the orzo/risoni is cooked but still slightly firm, and it is still quite saucy. Note: If you have a strong stove, turn it down slightly so it just simmers)."
+    },
+    {
+      "order": 7,
+      "instruction": "While the orzo is cooking, break up the spinach into little pieces with your fingers."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove the pan from the stove. Stir through the parmesan, spinach and cooked mushrooms. Check if more salt or pepper is required."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve immediately, garnished with more parmesan and fresh finely chopped parsley, if desired."
+    }
+  ]
+}

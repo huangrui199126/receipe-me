@@ -1,0 +1,179 @@
+{
+  "id": "tr_196",
+  "title": "Mapo Tofu",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/DSC_0005-Version-2-450x450-1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mapo-tofu-mince-tofu-spicy-sauce/",
+  "servings": 2,
+  "prepTime": 7,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 344,
+    "protein": 18.6,
+    "carbs": 13.4,
+    "fat": 22.3
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil ((peanut, vegetable or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ginger (, finely chopped or minced)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "scallions/shallots (, minced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "5",
+      "unit": "oz",
+      "name": "/ 150 g   ground/minced pork ((or beef or chicken))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "chili bean sauce (, adjust to taste (see notes))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "12",
+      "unit": "oz",
+      "name": "/ 300 g   Firm Tofu ((see notes))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "chicken or vegetable stock powder",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Hoisin Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Sake or Chinese Wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a bowl, combine cornflour with a splash of water, mix to combine, then add remaining Sauce ingredients and mix well."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut the tofu into 1/2 \"/ 1 cm cubes."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in wok over high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Add garlic and ginger and stir fry for 10 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Add scallions/shallots and stir fry for 30 seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Add mince and stir fry until the outside is brown, breaking up clumps."
+    },
+    {
+      "order": 7,
+      "instruction": "Add Chili Bean Sauce and stir fry for 30 seconds."
+    },
+    {
+      "order": 8,
+      "instruction": "Add tofu and sauce, and gently stir to cook the sauce until it becomes thick and saucy (about 1 to 2 minutes)."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve with rice."
+    }
+  ]
+}

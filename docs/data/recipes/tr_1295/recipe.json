@@ -1,0 +1,159 @@
+{
+  "id": "tr_1295",
+  "title": "Pulled Pork Carnitas Quesadillas",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/DSC_0100-1.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pulled-pork-carnitas-quesadillas-caramelized-onions/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 5,
+    "protein": 27.6,
+    "carbs": 58.2,
+    "fat": 19.2
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded Pork Carnitas ((Mexican Pulled Pork))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded mozzarella cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8   tortillas",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "corn kernels ((frozen or canned))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "diced red capsicum ((bell pepper))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley or coriander (, finely chopped (optional garnish))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  brown onions (, halved and finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Caramelised Onions: Melt butter in a fry pan over medium heat. Add onions and cook for 7 minutes, stirring every now and then so they cook evenly. Add remaining Caramelized Onion ingredients and cook for a further 5 minutes, stirring occasionally until sticky and caramelised. Remove from heat and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Brown Pork Carnitas (optional): Heat 1/2 tbsp oil in a fry pan over high heat. Add Pork Carnitas and press down lightly with a spatula to help crisp up. When the Pork Carnitas are heated through and the underside is golden brown and crisp (about 1 to 1/2 minutes), remove from pan (do not flip)."
+    },
+    {
+      "order": 3,
+      "instruction": "Lay out the tortillas. Divide the cheese between the tortillas, scattering evenly across half of each tortilla. Top with pork carnitas, corn, capsicum and Caramelised Onion. Season to taste with pepper and salt. (Note: Different cheeses have different levels of saltiness, so be careful not to over season.) Fold the tortillas in half."
+    },
+    {
+      "order": 4,
+      "instruction": "To freeze: Wrap each tortilla tightly in cling wrap and freeze until required. Defrost before cooking."
+    },
+    {
+      "order": 5,
+      "instruction": "To cook: Heat 1/2 tbsp olive oil in a large pan over medium high heat. Add as many quesadillas as will fit in the pan. Cook until nicely browned on the underside (about 1 1/2 minutes), then flip over the folded edge. Cook the other side until browned, then remove from pan. Tip: Keep cooked quesadillas warm in a very low oven. Keep then in spread out in a single layer so they stay crisp."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve immediately, garnished with parsley if desired."
+    }
+  ]
+}

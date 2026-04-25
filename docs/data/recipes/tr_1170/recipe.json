@@ -1,0 +1,162 @@
+{
+  "id": "tr_1170",
+  "title": "Sesame Crusted Tofu Steaks with Teriyaki Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2021/09/Crispy-Sesame-Tofu-Steaks-hero-SQ.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sesame-crusted-tofu-steaks/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "tofu recipe",
+    "tofu steaks"
+  ],
+  "nutrition": {
+    "calories": 298,
+    "protein": 15.0,
+    "carbs": 14.0,
+    "fat": 20.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  extra firm or hard tofu (, cut into 10 x 5 x 1.5cm slices (4 x 2 x 0.6\"), 100g / 3.5oz each (Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "flour (, plain/all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg (, lightly whisked)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "white sesame seeds ((Note 2) (yes, you really need 4 tbsp!))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "black sesame seeds ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "canola/vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely sliced 1mm thick (optional, Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green onion (, finely sliced (for garnish))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "soy sauce (, preferably Japanese all-purpose, else light soy sauce (Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "mirin (, preferably Japanese (Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cooking sake (, preferably Japanese (Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Season tofu: Pat tofu dry with paper towels. Sprinkle with salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare crust coating: Place flour, egg and sesame in separate bowls (medium shallow bowls or tupperware best)."
+    },
+    {
+      "order": 3,
+      "instruction": "Sesame crust: Press tofu into flour, shake off excess. Dip in egg, then let excess drip off before coat in sesame seeds, pressing to adhere all over. Repeat with remaining tofu."
+    },
+    {
+      "order": 4,
+      "instruction": "Crispy garlic: Heat oil in a non stick skillet over medium heat. Add garlic and cook until golden and crisp. Remove and drain on paper towels."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook tofu: Turn heat up to medium-high. Place tofu in skillet and cook for 1 1/2 minutes until the sesame smells nutty and becomes crisp. Turn carefully and cook the other side for 1 1/2 minutes. Then use tongs to prop the tofu steaks up on its sides to sear the edges until crisp - about 30 seconds each side should do it (see video for my technique)."
+    },
+    {
+      "order": 6,
+      "instruction": "Drain: Remove tofu to paper towel lined plate."
+    },
+    {
+      "order": 7,
+      "instruction": "Teriyaki Sauce: Lower heat to medium then add Teriyaki Sauce ingredients. Simmer for 1 minute until it reduces to a syrupy consistency, then remove skillet from stove."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve: Place tofu steak on plate. Spoon over Teriyaki Sauce (it clings to sesame, don&#39;t worry, crust stays crispy). Sprinkle with garlic and green onion. Devour, then declare, &quot;I LOVE TOFU!!&quot;."
+    }
+  ]
+}

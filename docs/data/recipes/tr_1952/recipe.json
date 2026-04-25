@@ -1,0 +1,103 @@
+{
+  "id": "tr_1952",
+  "title": "Super Healthy Peanut Butter Date Special K-Bars.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/03/Super-Healthy-Peanut-Butter-Date-Special-K-Bars.-1.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/super-healthy-peanut-butter-date-special-k-bars/",
+  "servings": 20,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "bars",
+    "peanut butter",
+    "special k"
+  ],
+  "nutrition": {
+    "calories": 221,
+    "protein": 4.0,
+    "carbs": 19.0,
+    "fat": 12.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "packed medjool dates (pitted + chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "creamy peanut butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons almond milk (coconut milk or regular milk)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-5 cups corn flakes * (use gluten free corn flakes for a gluten free bar)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10-12 ounces dark chocolate (chopped)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Grease a 9x13 inch baking dish with cooking spray or line with parchment paper. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the dates and salt to the bowl of a food processor and process until they form a thick paste. Add the peanut butter and 2 tablespoons milk, process until smooth and creamy. Scoop the mixture out and into a microwave safe bowl, microwave 30 seconds, stir and microwave another 30 seconds. Continue until the mixture is warm and melty. This took me 1 minute. Stir in the vanilla. If the mixture seems too stiff add 1 more tablespoon milk, but no more. If you add too much milk the cereal will become soggy."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the cereal to a large bowl. Slowly mix in the peanut butter mixture until throughly combined. Press the cereal into the prepared baking dish in an even layer."
+    },
+    {
+      "order": 4,
+      "instruction": "Microwave the chocolate on 30 second intervals, stirring after each, until melted. This took me about 1 1/2 minutes. Spoon the melted chocolate over the bars in an even layer. Cover the pan and place them in the fridge for 1 1/2 -2 hours or until firm. You may also put them in the freezer for 30 minutes, but I find the fridge works best."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove the bars 10 minutes prior to serving, cut and store in the fridge."
+    }
+  ]
+}

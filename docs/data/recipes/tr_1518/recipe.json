@@ -1,0 +1,133 @@
+{
+  "id": "tr_1518",
+  "title": "Thai Pomegranate Chicken Khao Soi Noodle Soup.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/11/Thai-Pomegranate-Chicken-Khao-Soi-Noodle-Soup-8.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/thai-pomegranate-chicken-khao-soi-noodle-soup/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "chicken noodle soup"
+  ],
+  "nutrition": {
+    "calories": 997,
+    "protein": 47.0,
+    "carbs": 47.0,
+    "fat": 15.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Thai Red curry paste or Khao Soi Paste (see Note)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 (14 ounce) cans coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "low sodium chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "skinless chicken breast or thighs",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small winter squash (sliced into thin wedges)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "pomegranate molasses",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "egg noodles",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "arils from 1 pomegranate",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "cilantro (chili, and limes, for garnish)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the olive oil in a large stockpot over medium heat. Add the curry paste and cook for 1-2 minutes until fragrant. Pour in the coconut milk and chicken broth, stirring to combine. Bring the soup to a boil and add the chicken and squash. Reduce the heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through and the squash tender."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove the chicken from the soup and let cool. Shred with two forks."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir the fish sauce and pomegranate molasses into the soup. Slide the shredded chicken back in. Simmer 5-10 minutes or until heated through."
+    },
+    {
+      "order": 4,
+      "instruction": "Meanwhile bring a large pot of salted water to a boil over high heat. Boil the noodles according to package directions. Drain."
+    },
+    {
+      "order": 5,
+      "instruction": "Divide the soup among bowls and top each bowl with noodles. Top with pomegranate arils, if desired garnish with cilantro, chili, and limes. Eat!"
+    }
+  ]
+}

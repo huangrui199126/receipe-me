@@ -1,0 +1,169 @@
+{
+  "id": "tr_768",
+  "title": "Prawn Stir Fry (Shrimp)",
+  "image": "https://www.recipetineats.com/tachyon/2021/06/Prawn-Stir-Fry-Shrimp_8-SQ.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/prawn-stir-fry/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 7,
+  "tags": [
+    "prawn stir fry"
+  ],
+  "nutrition": {
+    "calories": 235,
+    "protein": 21.0,
+    "carbs": 11.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "light soy sauce ((sub all purpose soy, Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine ((sub Mirin or dry sherry, Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "oyster sauce ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sesame oil (, toasted (Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornflour/cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "white pepper ((sub black pepper))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil (, peanut, canola or vegetable)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz  medium prawns (, raw, peeled and deveined (equiv. 500g/1lb whole prawns, Note 5))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, sliced, brown or white)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger (, finely julienned (~2cm / 0.7&quot; piece))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "garlic (, finely chopped (~ 2 cloves))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "bunches",
+      "name": "broccolini (, trimmed, cut into 5cm / 2&quot; lengths, (~1 1/2 cups. Sub normal broccoli))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 4 oz  snow peas (, thin string removed from both sides)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Steam broccolini: Steam broccolini until crisp-tender, about 2 - 3 minutes (remember it will cook more in the stir fry). Set aside to drain and dry."
+    },
+    {
+      "order": 2,
+      "instruction": "Stir Fry Sauce: Put all Stir Fry Sauce ingredients except water into a bowl. Mix until cornflour is dissolved. Then stir in water."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook then remove prawns: Heat oil in a wok or large skillet on medium to medium-high heat. Add prawns and spread them in a single layer. Cook for 1 1/2 minutes, then turn and cook the other side for 1 minute until cooked through. Try not to make the prawns too golden (they are only lightly browned in stir fries). Remove prawns to a bowl. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook onion, garlic and ginger: Add more oil if the pan seems a bit dry. Still on medium-high heat, add onion and cook for 1 minute. Then add ginger and garlic and cook for another 1 minute until onion is starting to soften but not colour."
+    },
+    {
+      "order": 5,
+      "instruction": "Add snow peas, then broccolini: Add snow peas and toss until coated with oil. Then add broccolini and toss through."
+    },
+    {
+      "order": 6,
+      "instruction": "Add Sauce and thicken: Give the Sauce a stir (to dissolve cornflour settled at bottom), then pour into skillet. Cook, stirring, until sauce thickens to syrup consistency (about 1 minute) and coats the ingredients nicely."
+    },
+    {
+      "order": 7,
+      "instruction": "Add prawns back in: Then add the prawns back in (including any juices in the bowl). Toss for another 30 seconds until prawns are warmed through."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve: Serve with rice!"
+    }
+  ]
+}

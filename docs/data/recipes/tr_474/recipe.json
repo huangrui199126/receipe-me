@@ -1,0 +1,242 @@
+{
+  "id": "tr_474",
+  "title": "Dal (Indian Lentil Curry)",
+  "image": "https://www.recipetineats.com/tachyon/2018/07/Dal_0-2.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/dal-indian-lentil-curry/",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 90,
+  "tags": [
+    "dal",
+    "lentil curry"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "/ 30 g  ghee (, or 1 tbsp oil + 1 tbsp/15g butter (Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green cayenne chillies (, deseeded and cut into chunks (optional) (Note 2))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion (, finely chopped (brown or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ginger (, finely chopped (1.5cm / 3/5\"))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  fresh curry leaves (, or 6 dried (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  tomato (, chopped)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dried chana dal (, yellow split peas or other yellow lentils (Note 4 for other lentils))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "/ 1 litre   water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "turmeric powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "garam marsala",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "/ 20g   ghee (, or half each butter + oil (Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  eschalot or 1/4 small onion (, halved lengthways and sliced (Note 5))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black mustard seeds ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  dried chillies (, broken in half, seeds removed (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh coriander/cilantro sprigs ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Steamed basmati rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak Lentils: Rinse lentils and leave to soak in plenty of water for 1 hour. Drain in colander."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat ghee/oil in a heavy based saucepan over high heat. Add green chillies and fry for a minute until starting to blister."
+    },
+    {
+      "order": 3,
+      "instruction": "Add onions and fry until softened."
+    },
+    {
+      "order": 4,
+      "instruction": "Lower heat to medium, add garlic, ginger and curry leaves. Cook for 1 minute until garlic starts to turn golden and smells amazing."
+    },
+    {
+      "order": 5,
+      "instruction": "Add tomatoes and cumin, cook until tomatoes start to break down and thicken to a paste - about 2 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Add lentils, water, tumeric and salt. Stir, bring to simmer, cover and simmer gently for 1 hour. Stir two or three times during the hour."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove lid and simmer gently for 30 minutes to thicken, stirring every now and then. The dal is ready when it has a consistency like porridge - some lentils should be intact but some have broken down to thicken the sauce."
+    },
+    {
+      "order": 8,
+      "instruction": "Stir through garam masala at the end. Adjust salt if desired."
+    },
+    {
+      "order": 9,
+      "instruction": "Pour over Tadka, if using, and stir through."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve Dal over rice, garnished with a sprig of coriander if desired."
+    },
+    {
+      "order": 11,
+      "instruction": "Heat ghee in a small pan over medium heat until hot but not smoking."
+    },
+    {
+      "order": 12,
+      "instruction": "Add cumin and mustard seeds, stir until cumin is slightly golden."
+    },
+    {
+      "order": 13,
+      "instruction": "Then add chillies and cook for 20 seconds, then add eschallots and cook until tinged with gold. Don't let the spices burn!"
+    },
+    {
+      "order": 14,
+      "instruction": "Immediately pour into Dahl."
+    }
+  ]
+}

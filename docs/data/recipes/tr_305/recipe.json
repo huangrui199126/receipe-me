@@ -1,0 +1,82 @@
+{
+  "id": "tr_305",
+  "title": "My best Grilled Cheese Sandwich",
+  "image": "https://www.recipetineats.com/tachyon/2023/07/Grilled-Cheese-sandwich-photo-main.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/grilled-cheese-sandwich/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 7,
+  "tags": [
+    "cheese toastie",
+    "grilled cheese sandwich"
+  ],
+  "nutrition": {
+    "calories": 807,
+    "protein": 33.0,
+    "carbs": 67.0,
+    "fat": 46.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "sourdough bread (, sliced 1.3–1.5cm thick (0.5 - 0.6\") - Note 1)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "30g/ 2 tbsp  SALTED butter (, for spreading on bread (or unsalted + pinch of salt))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "(heaped) vintage cheddar cheese or gruyere, (freshly grated (or other melting cheese of choice) - Note 2)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "30g/ 1/3 cup  mozzarella, ( freshly grated - Note 2)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Butter bread - Slather both sides of each piece of bread with the butter (yes, all 4 sides!)."
+    },
+    {
+      "order": 2,
+      "instruction": "Light toast - Heat a heavy-based skillet or frying pan over medium low heat (no oil or butter). Place both pieces of bread in the skillet and lightly toast for 1 minute to warm it through and create a light crust. (When we flip, this gives the cheese a head start)."
+    },
+    {
+      "order": 3,
+      "instruction": "Pile on cheese - Flip one slice of bread, then pile on the cheddar cheese followed by the mozzarella. Place the other slice of bread on top, with the hot toasted side in contact with the cheese."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook 3 minutes - Cook for 3 minutes or until the bread is evenly golden and crisp, pressing down lightly with a spatula every now and then. If it&#39;s browning too quickly, remove remove from the stove to cool down a bit and lower heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Flip, 3 minutes - Turn the sandwich over, and cook the other side for 3 minutes or until the bread is golden and the cheese is melted."
+    },
+    {
+      "order": 6,
+      "instruction": "Devour - Transfer to cutting board. Cut in half in one swift motion. Admire cheese pull. Devour."
+    }
+  ]
+}

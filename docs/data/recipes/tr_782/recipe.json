@@ -1,0 +1,124 @@
+{
+  "id": "tr_782",
+  "title": "Flourless Chocolate Cake",
+  "image": "https://www.recipetineats.com/tachyon/2017/07/Flourless-Chocolate-Cake-SQ.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/flourless-chocolate-cake/",
+  "servings": 10,
+  "prepTime": 10,
+  "cookTime": 45,
+  "tags": [
+    "almond chocolate cake",
+    "almond flour chocolate cake",
+    "flourless chocolate cake",
+    "gluten free chocolate cake"
+  ],
+  "nutrition": {
+    "calories": 369,
+    "protein": 8.0,
+    "carbs": 30.0,
+    "fat": 26.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "dark chocolate chips ((Note 1))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 1 stick   unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs (at room temperature (60g/2oz each+) (Note 2))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cocoa powder (, sfited (preferably Dutch processed i.e. the more expensive stuff))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "almond meal / almond flour ((or hazelnut flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F (160°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Butter and line a 20cm / 8&quot; spring form pan."
+    },
+    {
+      "order": 3,
+      "instruction": "Melt chocolate and butter in microwave in 30 second bursts, stirring in between until smooth."
+    },
+    {
+      "order": 4,
+      "instruction": "Whisk in sugar. Add eggs and vanilla, whisking well until combined,"
+    },
+    {
+      "order": 5,
+      "instruction": "Switch to wooden spoon. Add cocoa powder, baking powder and almond meal, fold through until just combined."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour batter into pan, bake 45 min until top has thin crust and skewer comes out clean, not smeared with batter."
+    },
+    {
+      "order": 7,
+      "instruction": "Cool cake in the pan for 10 minutes, then remove sides. Cool completely on rack before carefully removing base."
+    },
+    {
+      "order": 8,
+      "instruction": "Dust with cocoa powder then serve. I served mine with strawberries and dollop cream, but it doesn't need it!"
+    }
+  ]
+}

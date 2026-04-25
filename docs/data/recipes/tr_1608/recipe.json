@@ -1,0 +1,262 @@
+{
+  "id": "tr_1608",
+  "title": "Hawaiian Tequila Chicken Salad.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/03/Hawaiian-Tequila-Chicken-Salad-With-Pineapple-Vinaigrette-1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/hawaiian-tequila-chicken-salad-pineapple-vinaigrette/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [
+    "chicken",
+    "tequila"
+  ],
+  "nutrition": {
+    "calories": 646,
+    "protein": 19.0,
+    "carbs": 25.0,
+    "fat": 28.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "boneless chicken breasts or tenders",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "tequila",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "organic ketchup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "juice of 1 lime",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  jalapeno (seeded + chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 in chipotle chili adobo (chopped + 1 tablespoon of the adobo sauce)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  of a ripe pineapple (peeled + cut into half moons)",
+      "emoji": "🍎",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "heads",
+      "name": "romaine lettuce (chopped)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "watercress or spinach",
+      "emoji": "🥬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh cilantro (roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Persian cucumber (sliced)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  avocado (sliced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  grapefruit and or kiwi (peeled + chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "heirloom cherry tomatoes (halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "flaked coconut (for topping)",
+      "emoji": "🥥",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "[wonton chips | https://www.halfbakedharvest.com/hawaiian-ahi-tuna-poke-bowl-video/] (optional)",
+      "emoji": "🐟",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "pineapple juice",
+      "emoji": "🍎",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 inch fresh ginger root (peeled)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "peanut butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sriracha",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "peanut or sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh basil + cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 26
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large gallon size zip-top bag, combine the tequila, olive oil, soy sauce, ketchup, lime juice, garlic, jalapeno and chipotle pepper + 1 tablespoon of the adobo sauce. Add the chicken and rub the marinade into the chicken, making sure the chicken has been well seasoned. Place in the fridge for 30 minutes or up to 12 hours."
+    },
+    {
+      "order": 2,
+      "instruction": "When ready to cook the chicken, heat a large cast iron skillet or grill pan over medium-high heat. Once hot, grill the chicken for 7-8 minutes and then flip and continue cooking for another 7-8 minutes or until the chicken is cooked through. Cooking times will vary depending on the size and thickness of your chicken. Remove from the heat and allow to rest 5 minutes, then slice."
+    },
+    {
+      "order": 3,
+      "instruction": "To the hot pan, add the pineapple and sear until both side until lightly golden and caramelized, about 4 minutes per side. Remove from the heat."
+    },
+    {
+      "order": 4,
+      "instruction": "In a large salad bowl, toss together the lettuce, watercress, cilantro, cucumber, grapefruit and tomatoes. Add the avocado, pineapple and sliced chicken. Serve with the vinaigrette. EAT!"
+    },
+    {
+      "order": 5,
+      "instruction": "Combine all the ingredients except the basil and cilantro to a blender or food processor and blend until smooth. Now add the basil and cilantro, pulse until combined. Season with salt if needed."
+    }
+  ]
+}

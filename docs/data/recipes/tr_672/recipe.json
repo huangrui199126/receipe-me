@@ -1,0 +1,178 @@
+{
+  "id": "tr_672",
+  "title": "Honey Mustard Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2016/08/Honey-Mustard-Chicken_3.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/honey-mustard-chicken/",
+  "servings": 4,
+  "prepTime": 7,
+  "cookTime": 10,
+  "tags": [
+    "honey mustard chicken",
+    "honey mustard sauce"
+  ],
+  "nutrition": {
+    "calories": 453,
+    "protein": 58.9,
+    "carbs": 24.0,
+    "fat": 13.8
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 1.4 lb  chicken tenderloin or chicken breast cut into thick strips ((Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "mayonnaise ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cornstarch / cornflour or 2 tsp flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "+ 1/2 tbsp  olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "chicken broth / stock ((250ml))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Dijon mustard ((70g))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "honey ((85g))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp wholegrain mustard, adjust to taste",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sprigs thyme or 1/2 dried thyme ((Note 4))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley, finely chopped",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sprinkle chicken with salt and pepper, then toss with Seasoning if using."
+    },
+    {
+      "order": 2,
+      "instruction": "Thickener: In a small bowl, mix together the mayonnaise and flour."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 1 1/2 tbsp oil in a skillet over medium high heat. Add chicken and cook for 2 minutes on each side or until golden. Remove onto a plate."
+    },
+    {
+      "order": 4,
+      "instruction": "Reduce heat to medium. Add remaining oil in the middle of the skillet and put garlic straight onto the puddle of oil. Sauté for 20 seconds or until golden (don't let it burn)."
+    },
+    {
+      "order": 5,
+      "instruction": "Add chicken broth, bring to simmer, scraping the bottom of the fry pan."
+    },
+    {
+      "order": 6,
+      "instruction": "Whisk in Dijon Mustard and honey, then whisk in Thickener (make sure you scrape it all in)."
+    },
+    {
+      "order": 7,
+      "instruction": "Add thyme and wholegrain mustard, if using."
+    },
+    {
+      "order": 8,
+      "instruction": "Cook for 1 - 2 minutes or until starting to thicken. Adjust salt and pepper to taste."
+    },
+    {
+      "order": 9,
+      "instruction": "Return chicken and any juices pooled on the plate into the sauce. Turn to coat and reheat through - about 1 1/2 minutes - or until sauce is thickened to your taste."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve on mashed potato, garnished with parsley, with a simple side salad."
+    }
+  ]
+}

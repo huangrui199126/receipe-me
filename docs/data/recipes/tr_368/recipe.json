@@ -1,0 +1,93 @@
+{
+  "id": "tr_368",
+  "title": "Baked Brie",
+  "image": "https://www.recipetineats.com/tachyon/2019/10/Baked-Brie_3-SQ.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baked-brie-with-maple-syrup-thyme/",
+  "servings": 6,
+  "prepTime": 3,
+  "cookTime": 15,
+  "tags": [
+    "baked brie"
+  ],
+  "nutrition": {
+    "calories": 161,
+    "protein": 9.0,
+    "carbs": 6.0,
+    "fat": 12.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250 - 500g / 8 - 16 oz  round brie (or camembert (good value is fine! Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "honey or maple syrup ((optional))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  thyme sprig ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crostini",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "purple grapes ((or green, optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (all oven types)."
+    },
+    {
+      "order": 2,
+      "instruction": "Unwrap brie and place in a small, shallow ovenproof dish slightly larger than the brie (to be used for serving) OR a piece of crumbled baking / parchment paper (for transference). (Note 2)"
+    },
+    {
+      "order": 3,
+      "instruction": "Oven: Bake for 15 to 20 minutes (for 250g/80z), or until melted through. For 500g/1lb brie, increase to 25 minutes. To check, gently touch the centre of the brie - it should feel very soft, like it is about to collapse if you press any harder."
+    },
+    {
+      "order": 4,
+      "instruction": "Microwave option: 2 minutes on high (no one will know!) in 30 second increments."
+    },
+    {
+      "order": 5,
+      "instruction": "Carefully transfer to serving plate / board - it&#39;s delicate (transfer on paper if you used paper)."
+    },
+    {
+      "order": 6,
+      "instruction": "Drizzle with honey, top with sprig of thyme (if using)."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve immediately with crostini on the side for scooping. Provide a knife to cut through the rind and a cheese or pate knife (or similar) to scoop cheese up onto crostini or crackers (plain or fruit/nut flavoured)."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "tr_774",
+  "title": "Italian Almond Cookies (Ricciarelli) - gluten free!",
+  "image": "https://www.recipetineats.com/tachyon/2021/05/Italian-Almond-Cookies_6-SQ.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/italian-almond-cookies-ricciarelli/",
+  "servings": 20,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "almond cookies",
+    "italian cookies"
+  ],
+  "nutrition": {
+    "calories": 127,
+    "protein": 4.0,
+    "carbs": 11.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "almond meal or blanched ground almonds ((Note 1))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "caster / superfine sugar ((Note 2))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lemon zest ((1 lemon))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 drops natural almond extract",
+      "emoji": "🥜",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "dried cherries (, chopped (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  egg whites (, at room temperature (from 2 large eggs, Note 4))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Extra egg white",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "flaked almonds",
+      "emoji": "🥜",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 190°C/375°F (170°C fan). Line 2 trays with baking/parchment paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine Dry Ingredients: Place the almond meal, sugar, zest, almond extract and salt in a bowl. Whisk together until zest and almond extract is evenly distributed. Add the cherries and set aside"
+    },
+    {
+      "order": 3,
+      "instruction": "Beat eggs whites: Using an electric mixer or a whisk, beat the egg whites and honey to soft peaks (Note 5). About 2 minutes on Speed 8 of a handheld beater, or 1 1/2 minutes on Speed 6 of a stand mixer."
+    },
+    {
+      "order": 4,
+      "instruction": "Fold the beaten egg whites gently into the almond mixture. You will seemingly knock most of the air out of the meringue, that&#039;s ok! (You actually haven&#039;t :) )."
+    },
+    {
+      "order": 5,
+      "instruction": "Place Extra egg white in a small bowl and whisk with a fork until foamy. Place flaked almonds in another bowl."
+    },
+    {
+      "order": 6,
+      "instruction": "Form 2.5cm/1&quot; balls: Scoop up about 1 tablespoon of the mixture and shape into a rough ball (2.5cm/1&quot; ball). I do this using 2 eating spoons - we don&#039;t need perfect balls here."
+    },
+    {
+      "order": 7,
+      "instruction": "Coat in egg whites: Drop the ball into foamy egg whites. Use 2 forks to turn to coat, then pick up and place in the flaked almonds."
+    },
+    {
+      "order": 8,
+      "instruction": "Almond coating: Coat cookies with the almonds, pressing them on to cover as completely as you can. Don&#039;t worry if you get some double layers or pieces sticking out - no need to be neat or thorough here!"
+    },
+    {
+      "order": 9,
+      "instruction": "Bake 13 minutes: Place on prepared tray 2.5cm / 1&quot; apart. Bake for 13-15 minutes until golden brown. Start checking at 12 minutes to be sure the nuts aren’t burning"
+    },
+    {
+      "order": 10,
+      "instruction": "Cool: Transfer to rack to cool completely before serving."
+    },
+    {
+      "order": 11,
+      "instruction": "Store: Store in an airtight container. They last up to 10 days in a storage container or can be frozen"
+    }
+  ]
+}

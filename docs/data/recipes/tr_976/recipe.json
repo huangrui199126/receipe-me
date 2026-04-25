@@ -1,0 +1,153 @@
+{
+  "id": "tr_976",
+  "title": "Rissoles!",
+  "image": "https://www.recipetineats.com/tachyon/2017/09/Beef-Rissoles-1_-2.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/rissoles/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "rissoles"
+  ],
+  "nutrition": {
+    "calories": 357,
+    "protein": 29.0,
+    "carbs": 12.0,
+    "fat": 21.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small brown onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((or normal))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   beef mince ((ground beef) (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small zucchini",
+      "emoji": "🥒",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small carrot",
+      "emoji": "🥕",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "oregano ((or sub with other favourite herbs))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Worcestershire Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Tomato Ketchup!",
+      "emoji": "🍅",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Grate the onion into a large bowl using a box grater (see video). Add panko, mix briefly to coat in the onion juices."
+    },
+    {
+      "order": 2,
+      "instruction": "Grate zucchini and carrot into the bowl. Add remaining Rissoles ingredients. Mix well. Scoop up about 1/4 cup of mixture, form a 1.7cm / 2/3\" thick pattie. Indent the middle slightly (Note 2, see photos in post). Repeat with remaining mixture - you should make 10 - 12."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a skillet over medium heat. Add half the patties and cook for 4 minutes or until dark golden. Press LIGHTLY with spatula, if you press hard, you'll press the juices out!"
+    },
+    {
+      "order": 4,
+      "instruction": "Flip and cook the other side for 3 - 4 minutes until golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Transfer to plate, repeat with remaining rissoles."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve with tomato ketchup!"
+    }
+  ]
+}

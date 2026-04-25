@@ -1,0 +1,150 @@
+{
+  "id": "tr_317",
+  "title": "Pork Tenderloin with Honey Garlic Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2019/05/Honey-Garlic-Pork-Tenderloin_1.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pork-tenderloin-with-honey-garlic-sauce/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "baked pork tenderloin",
+    "pork tenderloin"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 38.0,
+    "carbs": 29.0,
+    "fat": 9.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  pork tenderloin ((pork fillet), 500g/1lb each (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil ((or butter))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, very finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "cider vinegar ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "soy sauce, light or all purpose ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "honey ((or maple syrup))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix Sauce ingredients together."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix Rub ingredients then sprinkle over the pork."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil in a large oven proof skillet (Note 3) over high heat. Add pork and sear until golden all over."
+    },
+    {
+      "order": 5,
+      "instruction": "When pork is almost seared, push to the side, add garlic and cook until golden."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour sauce in. Turn pork once, then immediately transfer to the oven."
+    },
+    {
+      "order": 7,
+      "instruction": "Roast 15 - 18 minutes or until the internal temperature is 68C / 155F (Note 4)."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove pork onto plate, cover loosely with foil and rest 5 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Place skillet with sauce on stove over medium high heat, simmer rapidly for 3 minutes until liquid reduces down to thin syrup."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove from stove, put pork in and turn to coat in sauce."
+    },
+    {
+      "order": 11,
+      "instruction": "Cut pork into thick slices and serve with sauce!"
+    }
+  ]
+}

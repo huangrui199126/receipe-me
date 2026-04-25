@@ -1,0 +1,148 @@
+{
+  "id": "tr_653",
+  "title": "Thai Chilli Basil Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2017/03/Thai-Chilli-Basil-Chicken_6.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/thai-basil-chicken-stir-fry/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "thai basil chicken",
+    "thai chicken",
+    "thai recipes",
+    "thai stir fry"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 19.0,
+    "carbs": 5.0,
+    "fat": 29.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "225",
+      "unit": "g",
+      "name": "/ 7oz  chicken thigh fillets (, skinless boneless, cut into bite size pieces)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green onion (, cut into 4cm / 2&quot; lengths.)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "Thai basil leaves (, loosely packed (Holy Basil if you can find it) (Note 1))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, large, finely chopped (Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  birds eye or Thai chilli (, deseeded and finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "oil ((peanut, vegetable or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "light soy sauce ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dark soy sauce ((or all purpose) (Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Steamed jasmine rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Put Sauce ingredients in a small bowl and mix to combine."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in wok or pan over high heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add garlic and chilli and cook for 10 seconds. Don't inhale - the chilli will make you cough!"
+    },
+    {
+      "order": 4,
+      "instruction": "Add the white part of the green onions and chicken and fry until cooked, around 2 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Add Sauce and cook for 1 minute until the water reduces to make a thick glossy sauce."
+    },
+    {
+      "order": 6,
+      "instruction": "Toss through green part of green onions and basil leaves. Stir until just wilted, then serve immediately with steamed jasmine rice."
+    }
+  ]
+}

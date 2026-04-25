@@ -1,0 +1,291 @@
+{
+  "id": "tr_289",
+  "title": "Vietnamese Pho recipe",
+  "image": "https://www.recipetineats.com/tachyon/2019/04/Beef-Pho_6.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vietnamese-pho-recipe/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 180,
+  "tags": [
+    "beef pho",
+    "pho",
+    "pho recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large onions (, halved)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5oz   ginger (, sliced down the centre)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  cinnamon quills",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  cardamon pods",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "((the spice cloves!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "coriander seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1.5",
+      "unit": "kg",
+      "name": "/ 3lb   beef brisket",
+      "emoji": "🥩",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2lb   meaty beef bones",
+      "emoji": "🥩",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2lb   marrow bones ((leg, knuckle), cut to reveal marrow)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3.5",
+      "unit": "litres",
+      "name": "/ 3.75 quarts   water ((15 cups))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "40",
+      "unit": "ml",
+      "name": "/ 3 tbsp   fish sauce ((Note 2))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 1.5 oz   dried rice sticks ((or 120g/4oz fresh) (Note 3))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 1 oz   beef tenderloin, raw, very thinly sliced ((Note 4))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 5  brisket slices ((used for broth))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Beansprouts, handful",
+      "emoji": "🫘",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Thai basil, 3 - 5 sprigs",
+      "emoji": "🌿",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Coriander/cilantro, 3 - 5 sprigs ((or more basil))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges*",
+      "emoji": "🍋",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely sliced red chilli*",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Hoisin sauce*",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sriracha* ((for spiciness))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat a heavy based skillet over high heat (no oil) until smoking."
+    },
+    {
+      "order": 2,
+      "instruction": "Place onion and ginger in pan cut side down. Cook for a few minutes until it's charred, then turn. Remove and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Toast Spices lightly in a dry skillet over medium high heat for 3 minutes.&nbsp;"
+    },
+    {
+      "order": 4,
+      "instruction": "Rinse bones &amp; brisket then cover with water in large stock pot."
+    },
+    {
+      "order": 5,
+      "instruction": "Boil for 5 minutes, then drain."
+    },
+    {
+      "order": 6,
+      "instruction": "Rinse each bone and brisket under tap water."
+    },
+    {
+      "order": 7,
+      "instruction": "Wipe pot clean, bring 3.5 litres / 3.75 quarts water to boil."
+    },
+    {
+      "order": 8,
+      "instruction": "Add bones and brisket, onion, ginger, Spices"
+    },
+    {
+      "order": 9,
+      "instruction": "Add onion, ginger, Spices, sugar and salt - water should just barely cover everything."
+    },
+    {
+      "order": 10,
+      "instruction": "Cover with lid, simmer 3 hours."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove brisket (should be fall-apart tender), cool then refrigerate for later."
+    },
+    {
+      "order": 12,
+      "instruction": "Simmer remaining soup UNCOVERED for 40 minutes."
+    },
+    {
+      "order": 13,
+      "instruction": "Strain broth into another pot, discard bones and spices. Should be about 2.5 litres / 2.65 quarts (10 cups), if loads more, reduce."
+    },
+    {
+      "order": 14,
+      "instruction": "Add fish sauce, adjust salt and sugar if needed. Broth should be beefy, fragrant with spices, savoury and barely sweet."
+    },
+    {
+      "order": 15,
+      "instruction": "Prepare rice noodles per packet, just prior to serving."
+    },
+    {
+      "order": 16,
+      "instruction": "Place noodles in bowl. Top with raw beef and brisket."
+    },
+    {
+      "order": 17,
+      "instruction": "Ladle over about 400 / 14 oz hot broth - will cook beef to medium rare."
+    },
+    {
+      "order": 18,
+      "instruction": "Serve with Toppings on the side!"
+    }
+  ]
+}

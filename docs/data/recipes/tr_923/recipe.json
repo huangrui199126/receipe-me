@@ -1,0 +1,191 @@
+{
+  "id": "tr_923",
+  "title": "Pasta Salad with Sun Dried Tomatoes and Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2018/06/Pasta-Salad-with-Chicken_3.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pasta-salad/",
+  "servings": 5,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 602,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "375",
+      "unit": "g",
+      "name": "/ 12 oz   spiral pasta (, or other pasta of choice)",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "220",
+      "unit": "g",
+      "name": "/ 7 oz   jar sun dried tomato strips in oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(packed) shredded cooked chicken",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 1 1/2 cups  cherry tomatoes (, halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "75",
+      "unit": "g",
+      "name": "/ 2.5 oz   baby spinach ((2 big handfuls))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small red onion, quartered and finely sliced",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "mixed dried herbs ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 3 oz   feta, crumbled",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "/ 85 ml  oil from sun dried tomatoes",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "mixed dried herbs ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Drain oil from the jar of sun dried tomatoes."
+    },
+    {
+      "order": 2,
+      "instruction": "Measure out 1/3 cup of the oil, top with extra virgin olive oil if short. Reserve excess oil for another purpose."
+    },
+    {
+      "order": 3,
+      "instruction": "Add remaining Dressing ingredients. Mix well."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook pasta in a large pot of salted boiling water per packet directions."
+    },
+    {
+      "order": 5,
+      "instruction": "Drain, then rinse briefly under cold water. Leave to cool."
+    },
+    {
+      "order": 6,
+      "instruction": "Transfer into large bowl. Add spinach, chicken, tomato, onion, pour over Dressing."
+    },
+    {
+      "order": 7,
+      "instruction": "Toss well, sprinkle with dried herbs, toss again."
+    },
+    {
+      "order": 8,
+      "instruction": "Just before serving, sprinkle with crumbled feta. Best served at room temperature."
+    },
+    {
+      "order": 9,
+      "instruction": "SCOOP OUT a mug of pasta cooking water just before draining. Add 3 tbsp water to Dressing, shake well. Use this Dressing per above, but reserve 3 tbsp to freshen up pasta salad on Day 2 onwards."
+    },
+    {
+      "order": 10,
+      "instruction": "Freshen up pasta salad: Bring to room temp or briefly microwave (cold pasta = dry) to warm gently. Toss with Reserved Dressing then serve."
+    }
+  ]
+}

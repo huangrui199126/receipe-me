@@ -1,0 +1,243 @@
+{
+  "id": "tr_663",
+  "title": "Minestrone Soup",
+  "image": "https://www.recipetineats.com/tachyon/2020/07/Minestrone-Soup_8-SQ.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/minestrone-soup/",
+  "servings": 5,
+  "prepTime": 20,
+  "cookTime": 45,
+  "tags": [
+    "chunky soup",
+    "minestrone soup",
+    "winter soup"
+  ],
+  "nutrition": {
+    "calories": 394,
+    "protein": 23.0,
+    "carbs": 46.0,
+    "fat": 14.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5oz  bacon (, finely chopped)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "800g/ 28oz  crushed tomato ((or 700g passata))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken stock/broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/ 14oz  canned kidney beans (, drained)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "EACH salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "small pasta (, like ditalini, tiny shells, risoni/orzo, baby macaroni, alphabet or star pasta)",
+      "emoji": "🍝",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "parmesan (, grated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  celery rib* (, chopped 1.5cm / 1/2\" pieces)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large carrot* (, peeled and diced 1.5cm / 1/2\" pieces)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  zucchini* (, chopped 1.5cm / 1/2\" pieces)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  potato* (, cut into 1.5cm / 1/2\" pieces (peel if needed))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 3oz  green beans* (, trimmed then cut into 2cm / 3/5\" lengths)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2oz/ 60g  baby spinach ((or frozen spinach, kale or similar - can leave out))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "More parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crusty bread for dunking!",
+      "emoji": "🍞",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil over high heat in a very large pot."
+    },
+    {
+      "order": 2,
+      "instruction": "Add bacon, cook until starting to turn golden (~2 min) then add garlic and onion."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook until onion is translucent and bacon is light golden ~ 2minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Add carrot, celery and zucchini. Stir for 1 minute to coat in flavour."
+    },
+    {
+      "order": 5,
+      "instruction": "Add crushed tomato, chicken stock, water, tomato paste, Worcestershire sauce, kidney beans, salt and pepper."
+    },
+    {
+      "order": 6,
+      "instruction": "Stir, bring to simmer, then place lid on and adjust heat so it's simmering gently."
+    },
+    {
+      "order": 7,
+      "instruction": "Simmer 20 minutes, then add potato and beans."
+    },
+    {
+      "order": 8,
+      "instruction": "Simmer 5 minutes, then add pasta. Cook for time per pasta packet MINUS 1 1/2 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove from stove, stir through parmesan and baby spinach. Taste and adjust for salt and pepper."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve, garnished with extra parmesan and a sprinkle of parsley if desired. Warm crusty bread on the side would certainly be the cherry on top!"
+    }
+  ]
+}

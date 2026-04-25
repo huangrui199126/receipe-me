@@ -1,0 +1,142 @@
+{
+  "id": "tr_1038",
+  "title": "The Best Pound Cake",
+  "image": "https://www.recipetineats.com/tachyon/2021/06/Pound-Cake_4-SQ.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/best-pound-cake/",
+  "servings": 10,
+  "prepTime": 20,
+  "cookTime": 50,
+  "tags": [
+    "best pound cake",
+    "pound cake"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 4.0,
+    "carbs": 29.0,
+    "fat": 16.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "milk (, full fat, at room temperature)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs (, at room temperature (150 - 165g / 6oz total including shell, Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cake flour (, sifted (if using cup measures, measure after sifting, Note 2))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "caster sugar (superfine sugar)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "13",
+      "unit": "tbsp",
+      "name": "(185 grams) butter, unsalted, softened to 18°C / 64°F; (Note 4)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 180°C/350°F (165°C fan) with the shelf arranged so the loaf pan will sit in the middle of the oven."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare pan: Grease a 21.5 x 11.4 x 6.9cm / 8.5 x 4&quot; loaf pan with unsalted butter, then dust with flour, knocking out excess (Note 2)"
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk wet: In a medium bowl, lightly whisk together the milk, eggs and vanilla. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Whisk dry: Place the flour, sugar, baking powder and salt in a large bowl or stand mixer. Beat for 30 seconds on Speed 1 using an electric beater or the stand mixer."
+    },
+    {
+      "order": 5,
+      "instruction": "Add butter and half eggs: Add the softened butter and 1/2 of the egg mixture. Beat on Speed 1 until incorporated (about 30 - 40 secs) – it will become a thick batter. Increase to Speed 7 and continue to beat for 1 minute."
+    },
+    {
+      "order": 6,
+      "instruction": "Add half of remaining egg mix: Scrape down the bowl. Add half the remaining egg mixture (ie. 1/4 of the original total) and beat 20 seconds on Speed 7."
+    },
+    {
+      "order": 7,
+      "instruction": "Add remaining egg mix: Scrape down the sides again. Add all the remaining egg mixture (ie. 1/4 of the original total) and beat 20 seconds."
+    },
+    {
+      "order": 8,
+      "instruction": "Fill pan: Scrape batter into the prepared loaf pan and smooth the top."
+    },
+    {
+      "order": 9,
+      "instruction": "First bake (30 min): Bake for 30 minutes until top begins to split slightly."
+    },
+    {
+      "order": 10,
+      "instruction": "Cut split (optional): Working quickly, open the oven (do not take pan out) and make a light cut with a small, sharp knife along the split (15 cm / 6&quot;) to help the split to open up nicely. Work fast – do not leave oven open for long or the cake will collapse."
+    },
+    {
+      "order": 11,
+      "instruction": "Second bake (20 min): Bake another 20-25 minutes until a skewer inserted in the centre comes out clean. If the cake is getting dark you can cover it with a loose sheet of foil towards the end of the bake time."
+    },
+    {
+      "order": 12,
+      "instruction": "Cool: Cool in the pan for 10 minutes then turn out onto a wire rack to cool completely."
+    },
+    {
+      "order": 13,
+      "instruction": "Serving: Serve thick slices with any of the following or a combination – whipped cream and fruit (traditional); just butter; butter + honey (pictured in post); a fruit compote; mascarpone or thick yogurt with crushed nuts (pistachio would be fabulous!). See in post for more ideas."
+    }
+  ]
+}

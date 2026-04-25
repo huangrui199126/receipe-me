@@ -1,0 +1,117 @@
+{
+  "id": "tr_1061",
+  "title": "Chocolate Covered Strawberries",
+  "image": "https://www.recipetineats.com/tachyon/2017/01/Chocolate-Covered-Strawberries-9-SQjpg.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chocolate-covered-strawberries/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "chocolate covered strawberries"
+  ],
+  "nutrition": {
+    "calories": 47,
+    "protein": 0.7,
+    "carbs": 5.7,
+    "fat": 2.5
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(175g)  chocolate chips ((Note 1))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "vegetable oil ((or grapeseed oil, canola, peanut or other neutral oil) (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   strawberries ((~25 strawberries, depends on size, Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Desiccated coconut",
+      "emoji": "🥥",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crushed nuts",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sprinkles",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Other coating of choice",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Line a tray with baking paper (parchment paper)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place chocolate in a microwave proof bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Microwave on high in 30 second bursts, stirring in between, until smooth (see video)."
+    },
+    {
+      "order": 4,
+      "instruction": "Pick up a strawberry by its stem, or gather up the leaves around the stem to get a grip hold on the strawberry."
+    },
+    {
+      "order": 5,
+      "instruction": "Dip into the chocolate, rolling to coat most of it (see video), the place onto the tray."
+    },
+    {
+      "order": 6,
+      "instruction": "Repeat with remaining strawberries."
+    },
+    {
+      "order": 7,
+      "instruction": "If using coconut / nuts or other coating, dip into the coating then lay on tray."
+    },
+    {
+      "order": 8,
+      "instruction": "Refrigerate for 30 minutes or until chocolate is firm."
+    },
+    {
+      "order": 9,
+      "instruction": "Best served within 12 hours of making. (Note 4)"
+    }
+  ]
+}

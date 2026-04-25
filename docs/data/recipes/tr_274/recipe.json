@@ -1,0 +1,247 @@
+{
+  "id": "tr_274",
+  "title": "Oven Pork Ribs with Barbecue Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2019/08/Oven-Pork-Ribs-with-Barbecue-Sauce-SQ.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/oven-baked-barbecue-pork-ribs/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 135,
+  "tags": [
+    "barbecue pork ribs",
+    "oven pork ribs",
+    "spice rub for pork ribs"
+  ],
+  "nutrition": {
+    "calories": 814,
+    "protein": 38.0,
+    "carbs": 39.0,
+    "fat": 55.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "2.5",
+      "unit": "tsp",
+      "name": "paprika powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "garlic powder ((sub with onion powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "onion powder ((sub with garlic powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cayenne pepper ((omit for not spicy))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 2.5kg / 4 - 5lb  pork ribs (2 racks)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "sweet alcoholic apple cider (hard cider) (, or apple juice (Note 2))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "apple cider vinegar ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "tomato ketchup ((or Aussie tomato sauce))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water ((or use remaining apple cider!))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "molasses (, orginal (not blackstrap, Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Tabasco or cayenne pepper ((optional, for spiciness))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the Rub ingredients and rub onto both sides of the ribs (most on meaty side). Set aside to marinate for 20 minutes (or overnight)."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 160°C/320°F (all oven types)."
+    },
+    {
+      "order": 3,
+      "instruction": "Place ribs on a tray in a single layer. Pour apple cider underneath the ribs, cover with foil then bake for 1 hour 30 minutes or until the meat is pretty tender (Note 5)."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove from oven, turn up to 180°C/350°F. Remove foil, drizzle with olive oil, then return ribs to oven for 15 minutes or until rub becomes nice and crusty."
+    },
+    {
+      "order": 5,
+      "instruction": "Line a new tray with foil then baking / parchment paper (you&#x27;ll thank me later)."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove ribs from oven, transfer to lined tray. Pour any juices from tray over the ribs."
+    },
+    {
+      "order": 7,
+      "instruction": "Flip ribs so the bonier side is up. Slather with Barbecue Sauce, then bake 10 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove from oven, then turn ribs over so the meaty side is up. Slather with Barbecue Sauce, bake 5 minutes. Repeat 2 or 3 more times until you&#x27;ve got a thick glaze on the ribs."
+    },
+    {
+      "order": 9,
+      "instruction": "Cut ribs into individual or multiple rib portions and serve with remaining Barbcue Sauce!"
+    },
+    {
+      "order": 10,
+      "instruction": "Place all ingredients in a saucepan and simmer over medium heat, stirring occasionally, for 45 minutes or until thickened."
+    },
+    {
+      "order": 11,
+      "instruction": "Adjust to taste: sweetness with brown sugar / honey, salt and sour with vinegar. Use for glazing ribs and as a sauce for serving."
+    }
+  ]
+}

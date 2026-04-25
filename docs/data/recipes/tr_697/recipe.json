@@ -1,0 +1,195 @@
+{
+  "id": "tr_697",
+  "title": "Croque Monsieur (French hot ham and cheese sandwich)",
+  "image": "https://www.recipetineats.com/tachyon/2021/04/Croque-Monsieur_0-SQ.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/croque-monsieur-french-ham-cheese-sandwich/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "croque monsier",
+    "grilled cheese",
+    "ham and cheese sandwich"
+  ],
+  "nutrition": {
+    "calories": 1440,
+    "protein": 67.0,
+    "carbs": 83.0,
+    "fat": 94.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cream ((pure or heavy / thickened))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "/ 25g  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "flour (, plain / all-purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt (, kosher/cooking salt)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "nutmeg (, preferably freshly ground)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "sourdough bread (, 1.5cm / ⅗&quot; thick (Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "8",
+      "unit": "slices",
+      "name": "Swiss or gruyere cheese ((165g / 6 oz, enough for 2 layers a sandwich) (Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 4 oz  ham slices (, preferably smoked)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "gruyere cheese (, shredded (packed cup, Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "parmesan (, finely shredded (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/390°F (180°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat milk and cream: Place milk and cream in a saucepan over medium heat. Heat until steaming, but don&#039;t let it boil. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Make roux: Melt butter in a separate small saucepan over medium heat, then turn the heat down to low. Add flour and cook, stirring almost constantly, for 3 minutes. Don&#039;t let it brown."
+    },
+    {
+      "order": 4,
+      "instruction": "Add hot milk: While stirring, add half the milk. Once incorporated into the roux, mix in remaining milk, nutmeg, salt and pepper."
+    },
+    {
+      "order": 5,
+      "instruction": "Thicken: Mix for 30 seconds to a minute or until it thickens into a spreadable and soft butter-like consistency (ie. not runny). If you have lumps, whisk until gone. Remove from heat (it is OK if it cools)."
+    },
+    {
+      "order": 6,
+      "instruction": "Spread with Bechamel: Spread half the béchamel over the 4 slices of bread, as though you are buttering them to make normal sandwiches! (Reserve half the béchamel for topping)"
+    },
+    {
+      "order": 7,
+      "instruction": "Cheese + Dijon: Top two pieces of bread with 2 slices of gruyere or Swiss cheese each (fold as needed to make them fit). Then spread the cheese with half the Dijon Mustard (this might sound weird, but see in post for why we do this!)."
+    },
+    {
+      "order": 8,
+      "instruction": "Ham + Dijon: Top with ham, then spread ham with remaining Dijon mustard."
+    },
+    {
+      "order": 9,
+      "instruction": "Top each of the two slices with 2 more slices of cheese (again, folding as needed), then close sandwiches with the other slices."
+    },
+    {
+      "order": 10,
+      "instruction": "Melt butter in a skillet over medium to medium-high heat. Place sandwiches in the skillet, and cook for 2 minutes, pressing down lightly with an egg flip or spatula, until a deep golden brown."
+    },
+    {
+      "order": 11,
+      "instruction": "Turn and cook the other side until golden brown. Transfer to a baking tray."
+    },
+    {
+      "order": 12,
+      "instruction": "Topping: Slather remaining béchamel thickly on the upper pieces of bread. Sprinkle with Gruyere, then parmesan."
+    },
+    {
+      "order": 13,
+      "instruction": "Bake and broil: Bake 15 minutes, then switch to the grill/broiler for 3 minutes and grill until the top is golden and bubbling."
+    },
+    {
+      "order": 14,
+      "instruction": "Immediately transfer to warmed serving plates, with knives and fork for serving (it&#039;s too messy to eat with hands.) For a traditional French bistro experience, add a side of fries and leafy greens lightly dressed in French Dressing or a basic vinaigrette. Devour and weep with joy! (Over the sandwich that is, not the salad!)"
+    }
+  ]
+}

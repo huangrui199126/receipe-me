@@ -1,0 +1,229 @@
+{
+  "id": "tr_731",
+  "title": "Falafel",
+  "image": "https://www.recipetineats.com/tachyon/2018/09/Falafel_4.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/falafel-recipe/",
+  "servings": 20,
+  "prepTime": 25,
+  "cookTime": 10,
+  "tags": [
+    "falafel recipe"
+  ],
+  "nutrition": {
+    "calories": 76,
+    "protein": 2.0,
+    "carbs": 7.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "225",
+      "unit": "g",
+      "name": "/ 8 oz   dried chick peas ((Note 1))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "parsley leaves (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "coriander/cilantro leaves (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  scallions/shallots (, white and light green part only finely chopped (Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "of garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking powder ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "flour  ((plain/all purpose) OR chickpea flour)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "500",
+      "unit": "ml",
+      "name": "/ 2 cups+   vegetable oil ((Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "tahini",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt ((adjust to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pita bread or other flatbreads",
+      "emoji": "🍞",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Tabbouleh ((recipe below))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Hummus ((optional extra))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Shredded lettuce, tomato slices, sliced red or white onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place chickpeas in a large bowl and pour over plenty of cold water. Leave to soak 12 + hours (even 2 days is fine)."
+    },
+    {
+      "order": 2,
+      "instruction": "Drain chickpeas well. Place in food processor, add remaining Falafel ingredients."
+    },
+    {
+      "order": 3,
+      "instruction": "Blitz for 2 to 3 minutes on high, scraping down sides as necessary, until the chickpeas are very small grains. Mixture should look like smooth guacamole from the outside (see video)."
+    },
+    {
+      "order": 4,
+      "instruction": "Scoop up heaped tablespoons and shape into balls (or dome, disc or torpedo), place on a tray. Should make around 20, about 2.5cm / 1\" wide."
+    },
+    {
+      "order": 5,
+      "instruction": "Refrigerate for 30 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour oil in a skillet or large pot - at least 1.7 cm / 2/3\" depth (Note 4). Heat on medium high to 180 - 190C / 355F (or drop a bit in, should sizzle energetically)."
+    },
+    {
+      "order": 7,
+      "instruction": "Place a ball in a large spoon (or tongs) and slide ball in. Cook in batches for around 4 minutes, using 2 forks to roll, until deep golden and super crusty on the outside."
+    },
+    {
+      "order": 8,
+      "instruction": "Drain on paper towels. Repeat with remaining falafel."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve fresh out of the fryer with Sauce of choice! Make falafel wraps or plates with tabbouleh, tomato, onion, and Sauces of choice. See Notes 5 and 6."
+    },
+    {
+      "order": 10,
+      "instruction": "Combine tahini and lemon juice, and mix well. The mixture will stiffen."
+    },
+    {
+      "order": 11,
+      "instruction": "Stir in the water 1 tbsp at a time and it will loosen again. The final consistency should be like a thick drizzle sauce (see video). Season to taste with salt."
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "tr_1162",
+  "title": "Pistachio Pear Tart",
+  "image": "https://www.recipetineats.com/tachyon/2021/04/Pistacchio-Pear-Tart_2-SQ.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pistachio-pear-tart/",
+  "servings": 10,
+  "prepTime": 15,
+  "cookTime": 90,
+  "tags": [
+    "autumn dessert",
+    "pear dessert",
+    "pear tart",
+    "pistachio pear tart",
+    "tart recipe"
+  ],
+  "nutrition": {
+    "calories": 318,
+    "protein": 4.0,
+    "carbs": 48.0,
+    "fat": 14.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Sweet Tart Crust ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  pears ((of equal size, 220g/7oz each, ~10cm/4&quot; tall, Note 2))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemon (, to acidulate water and stop pears from going brown (Note 3))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "litres",
+      "name": "/ 2 quarts  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "vanilla extract (or 1/4 tsp vanilla powder (Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 7 tbsp  unsalted butter (, softened, cut into 1cm / 0.4&quot; cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "caster sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large eggs (, 55-60g / 2 oz each,  at room temperature)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "pistachios (unsalted, roasted) (, shelled and skinned (blitz until fine powder))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "pistachios (unsalted, roasted) (, finely chopped (for sprinkling))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "apricot jam (, mixed with 1 tsp water and warmed in microwave (for glazing))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Make and bake Tart Crust, then fully cool before using."
+    },
+    {
+      "order": 2,
+      "instruction": "Peel, remove stem, then halve and core (I use melon baller). Keep peeled pears in a separate bowl of water with a squeeze of lemon juice (to stop them going brown)."
+    },
+    {
+      "order": 3,
+      "instruction": "Place 2L / 2 quarts water, sugar and vanilla in a pot and bring it to a boil. Lower heat so the water is rippling but there are no large bubbles breaking on surface. Beads of tiny bubbles is fine."
+    },
+    {
+      "order": 4,
+      "instruction": "Place pears into pot, poach for 20 - 25 minutes until pears are soft all the way through. Check with a knife on the side, not top of pears. (Note 5)."
+    },
+    {
+      "order": 5,
+      "instruction": "Once cooked, drain on paper towels until fully cool."
+    },
+    {
+      "order": 6,
+      "instruction": "Mix butter and sugar with a wooden spoon until smooth."
+    },
+    {
+      "order": 7,
+      "instruction": "Add eggs one at a time, whisking each until fully incorporated before adding the next."
+    },
+    {
+      "order": 8,
+      "instruction": "Mix in pistachio until fully incorporated."
+    },
+    {
+      "order": 9,
+      "instruction": "Preheat oven to 200°C/390°F (180°C fan)."
+    },
+    {
+      "order": 10,
+      "instruction": "Spread pistachio mixture in tart crust, and smooth the surface."
+    },
+    {
+      "order": 11,
+      "instruction": "Place 7 pear halves on top in a radial pattern with the narrow ends pointing inwards. Cut the 8th half so it will fit in the centre, and place in middle of tart. Slightly push pears in so that they&#039;re partially submerged (see reference photo / video above)."
+    },
+    {
+      "order": 12,
+      "instruction": "Bake for 35 minutes. Remove from oven."
+    },
+    {
+      "order": 13,
+      "instruction": "While still warm, brush with apricot jam glaze to make it shiny, then sprinkle with chopped pistachios."
+    },
+    {
+      "order": 14,
+      "instruction": "Fully cool, then slice to serve. It&#039;s beautiful just served as-is. Optional extras: a dollop of creme fraiche (pictured in post), whipped cream or ice cream."
+    }
+  ]
+}

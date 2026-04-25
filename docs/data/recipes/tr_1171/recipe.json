@@ -1,0 +1,87 @@
+{
+  "id": "tr_1171",
+  "title": "No Washing Up Ham, Egg &amp; Cheese Pockets",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/No-Washing-Up-Ham-Cheese-Pockets-1-2.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/no-washing-up-ham-egg-cheese-pockets/",
+  "servings": 2,
+  "prepTime": 3,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 415,
+    "protein": 25.0,
+    "carbs": 34.8,
+    "fat": 20.1
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  soft large wraps / tortillas ((approx 23 cm / 9\" diameter) (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "110-150 g / 3.5-5 oz   ham slices ((Note 3))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 2/3 cups grated cheddar or tasty cheese ((or any other melting cheese) (Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F (all oven types)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place 2 pieces of foil on a work surface and spray with oil (any)."
+    },
+    {
+      "order": 3,
+      "instruction": "Place tortilla on foil. Place ham in the middle of the tortilla, making sure you arrange it so it is flat, not a mound (harder to keep egg in place). Even better, create a shallow crater shape using off ham off cuts and shavings."
+    },
+    {
+      "order": 4,
+      "instruction": "Place cheese in the middle of the ham, the form into a ring."
+    },
+    {
+      "order": 5,
+      "instruction": "Working quickly (one pocket at a time), crack an egg into the ring then fold the bottom and top edges in, then the left and right side to form a package (see video below recipe). Then wrap in foil. DO NOT TURN UPSIDE DOWN!!! (Egg will leak)"
+    },
+    {
+      "order": 6,
+      "instruction": "Place on baking tray."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake for 25 minutes. Check to ensure yolk is cooked by poking the pocket, you will feel the dome shape of the yolk. The base and edges should be crispy and the top will be soft."
+    },
+    {
+      "order": 8,
+      "instruction": "Unwrap immediately (otherwise will sweat and lose crispiness). Serve hot!"
+    }
+  ]
+}

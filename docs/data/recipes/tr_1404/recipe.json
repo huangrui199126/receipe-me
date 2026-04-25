@@ -1,0 +1,119 @@
+{
+  "id": "tr_1404",
+  "title": "French Salad Dressing (French Vinaigrette)",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/French-Dressing-2-1.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/french-vinaigrette/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "eschalots / French shallots (, finely chopped (Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "red or white wine vinegar ((or sherry or champagne vinegar))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "Dijon Mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "extra virgin olive oil ((or more if you want richer))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "eschalots / French shallots (, finely chopped (Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "red or white wine vinegar ((or sherry or champagne vinegar))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon Mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil ((I use 5 tbsp))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place ingredients in a jar and shake well until combined. Adjust salt and pepper to taste. Let rest for 5 minutes before using, or keep up to 2 weeks."
+    },
+    {
+      "order": 2,
+      "instruction": "Small Batch: Use to dress 4 handfuls of leafy greens."
+    }
+  ]
+}

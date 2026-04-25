@@ -1,0 +1,92 @@
+{
+  "id": "tr_1824",
+  "title": "Goat Cheese Stuffed Phyllo Swirls with Pomegranate Honey + Pistachios",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/12/Goat-Cheese-Stuffed-Phyllo-Swirls-with-Pomegranate-Honey-Pistachios.-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/goat-cheese-stuffed-phyllo-swirls-pomegranate-honey-pistachios/",
+  "servings": 7,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "goat cheese",
+    "honey",
+    "phyllo",
+    "pomegranate"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 54.0,
+    "carbs": 361.0,
+    "fat": 50.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "16",
+      "unit": "sheets",
+      "name": "phyllo dough (thawed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoons",
+      "name": "stick unsalted butter (melted, 8)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "10.5",
+      "unit": "ounces",
+      "name": "fresh goat cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "arils from one pomegranate ([how to de-seed a pomegranate | https://www.halfbakedharvest.com/deseed-pomegranate-pictures/])",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "chopped pistachios (for topping)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 375 degrees F. Line a baking sheet with parchment."
+    },
+    {
+      "order": 2,
+      "instruction": "On a clean work surface, gently layer a piece of phyllo dough flat. Brush with butter and then top with another sheet of phyllo dough, brush the top with butter."
+    },
+    {
+      "order": 3,
+      "instruction": "Crumble about an eighth of the goat cheese along the long edge of the phyllo dough. Now gently roll the phyllo dough up and over the cheese loosely to create a log. Spiral the log into a spiral shape. Don't worry if you have some places where the dough tears, it will be fine. Place the spiral onto the prepared baking sheet. Repeat with the remaining dough."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake the spirals for 20-25 minutes or until lightly golden and crisp. Remove from the oven and drizzle with honey. Top with pomegranates and pistachios. Serve warm or at room temperature. Warm is obviously best though!"
+    }
+  ]
+}

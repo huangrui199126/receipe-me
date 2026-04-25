@@ -1,0 +1,161 @@
+{
+  "id": "tr_779",
+  "title": "Macaroni Salad",
+  "image": "https://www.recipetineats.com/tachyon/2017/12/Macaroni-Salad_4-1.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/macaroni-salad/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "coleslaw"
+  ],
+  "nutrition": {
+    "calories": 319,
+    "protein": 7.0,
+    "carbs": 37.0,
+    "fat": 15.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 1/2 lb   macaroni elbow pasta",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "salt  ((to cook pasta))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "celery (, finely sliced (1 stalk))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "red capsicum / bell peppers (, finely diced  (1 small))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "green onions (, finely sliced (1 large stem))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium carrot (, grated (using standard box grater))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "mayonnaise ((Hellmann&#x27;s, Best Foods, S&amp;W or other whole egg mayonnaise))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "yoghurt or sour cream (, full or low fat)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring large pot of water to the boil - 4 to 5 litres / quarts. Add salt then add pasta. Cook per packet directions."
+    },
+    {
+      "order": 2,
+      "instruction": "Drain pasta then cool."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, mix Dressing ingredients in a bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Place pasta in a bowl. Add remaining Macaroni Salad ingredients. Pour over Dressing."
+    },
+    {
+      "order": 5,
+      "instruction": "Toss. Adjust salt / sugar / sour (vinegar) / mayo to taste."
+    },
+    {
+      "order": 6,
+      "instruction": "Set aside for at least 20 minutes. Then serve at room temperature (not cold). It's great the next day too!"
+    }
+  ]
+}

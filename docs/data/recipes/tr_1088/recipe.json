@@ -1,0 +1,138 @@
+{
+  "id": "tr_1088",
+  "title": "One-pan baked sausage & lentils",
+  "image": "https://www.recipetineats.com/tachyon/2023/03/Baked-sausage-with-lentils_9-SQ.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pan-baked-sausage-and-lentils/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 50,
+  "tags": [
+    "baked lentils",
+    "baked sausages"
+  ],
+  "nutrition": {
+    "calories": 926,
+    "protein": 50.0,
+    "carbs": 53.0,
+    "fat": 56.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eschallots/shallots (, peeled, halved, finely sliced (sub 1 large onion, Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cumin seeds ((don't skip this!))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "puy lentils / French lentils ((sub green/brown lentils, Note 3))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  small carrots (, peeled, quartered, diced into 8mm/ 1/3\" cubes)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking salt ((kosher salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "chicken broth/stock (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 x 85g/3oz  pork sausages ((Note 3))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pre-heat oven to 200°C/400°F (180°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Cooking vessel - Use a metal roasting pan ~23 x 33 cm / 9 x 13&quot;. Fold a sheet of baking/parchment paper (large enough to cover pan) in half and cut 4 x ~10cm/4&quot; slits (steam vents! Note 4). Else, use foil - just tear steam vents."
+    },
+    {
+      "order": 3,
+      "instruction": "Sauté aromatics - Put the pan directly on the stove (really, it&#39;s ok!) and heat the olive oil over medium high heat. Add eschallots and garlic, sauté for 3 minutes until soft. Add cumin seeds and stir for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Lentils &amp; stock - Add dried lentils, carrot, salt, pepper and stock. Bring to a simmer."
+    },
+    {
+      "order": 5,
+      "instruction": "Sausages &amp; paper - Gently place the sausages on top (don&#39;t press in). Cover with the paper, gently pressing so it &quot;sticks&quot; to the stock."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake for 25 minutes on the middle shelf. Remove paper and bake for 20 more minutes to brown the sausages."
+    },
+    {
+      "order": 7,
+      "instruction": "Rest 5 min - Remove from the oven. Rest for 5 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve the sausages with lentils. The flavour-loaded lentils are saucy so they act as the sauce for the sausages! Also pictured in post - baby spinach with Everyday Dressing."
+    }
+  ]
+}

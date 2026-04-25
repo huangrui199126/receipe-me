@@ -1,0 +1,252 @@
+{
+  "id": "tr_1727",
+  "title": "BBQ Chicken and Grilled Corn Rice Bowls with Berry Smashed Avocado.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/06/BBQ-Chicken-and-Grilled-Corn-Rice-Bowls-with-Berry-Smashed-Avocado-1.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/bbq-chicken-and-grilled-corn-rice-bowls-with-berry-smashed-avocado/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 25,
+  "tags": [
+    "avocado",
+    "bbq chicken",
+    "grilled corn",
+    "rice bowl"
+  ],
+  "nutrition": {
+    "calories": 960,
+    "protein": 41.0,
+    "carbs": 130.0,
+    "fat": 50.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "jasmine or basmati rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "fresh cilantro + basil (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "boneless skinless chicken breast or tenders (cubed (or leave whole))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "of your favorite [BBQ Sauce | https://www.halfbakedharvest.com/homemade-barbecue-sauce-just-like-sweet-baby-rays/]",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "apricot preserves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  peaches (halved + pits removed)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  ears corn (husk on)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "6",
+      "unit": "tablespoons",
+      "name": "butter (softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "worcheshire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ancho chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "cayenne",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt + pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "fresh cilantro + basil (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  ripe avocados (peeled + pitted)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "juice of 1 lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh basil (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh berries ((I used blueberries and raspberries))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cherry tomatoes (halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "goat cheese (crumbled)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Make the rice. Add the water to a medium size pot, bring to a low boil and add the rice. Stir to combine and place the lid on the pot, then turn the heat down to the lowest setting possible. Allow the rice to cook ten minutes on low and then turn the heat off completely. Let the rice sit on the stove, covered, for another 20 minutes (don't take any peeks inside!). After 20 minutes remove the lid and fluff the rice with a fork. Stir in the basil + cilantro. Note that rice can cook differently for everyone, this is just what works for me."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, preheat the grill to medium high heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the chicken to a bowl and toss with the BBQ sauce, apricot preserves and 1 tablespoon olive oil. Thread the chicken on the skewers (or leave the chicken whole). Toss the halved peaches in the remaining olive oil."
+    },
+    {
+      "order": 4,
+      "instruction": "Grill the chicken for 3-4 minutes per side, gently flipping 2-3 times until chicken is cooked through and has light char marks. While the chicken is grilling, grill the peaches for about 2 minutes on each side, or until tender, and grill the corn for about 10 minutes, turning 2-3 times during cooking. You can also use a grill pan or just cook everything on the stove."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove everything from the grill and let cool 5 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Meanwhile, add the butter, worchestire, ancho chili powder, smoked paprika, cumin, cayenne and a good pinch of salt + pepper to bowl. Mix well to combine. Stir in the cilantro and basil. Shuck the corn and rub the herbed BBQ butter all over the corn."
+    },
+    {
+      "order": 7,
+      "instruction": "Add the mashed avocados to a bowl. Stir in the lemon juice, basil and salt to taste. Mix well and fold in the berries."
+    },
+    {
+      "order": 8,
+      "instruction": "To assemble the bowls, divide the rice among 4 bowls or plates. Top each bowl of rice with equal amounts of chicken. Slice the peaches and add them to the bowls. Next add the buttered corn and a large dollop of the avocado/berry mix. Top with the fresh tomatoes and goat cheese. Serve with any remaining BBQ butter. EAT!"
+    }
+  ]
+}

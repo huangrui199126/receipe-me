@@ -1,0 +1,129 @@
+{
+  "id": "tr_392",
+  "title": "Chinese Chicken and Corn Soup",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/Chinese-Chicken-Corn-Soup-2.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-chicken-corn-soup/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "chinese corn soup"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 31.7,
+    "carbs": 37.3,
+    "fat": 11.8
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(500ml)  chicken or vegetable broth/stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "(16oz/420g)  creamed corn",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "soy sauce ((all purpose or light))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine (OR Mirin or Dry Sherry (can omit))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ginger (, minced or finely chopped)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced or finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cornflour / cornstarch (, mixed with a splash of cold water)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg (, whisked)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded cooked chicken",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and white pepper (, to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "sliced scallions / shallots ((optional))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place broth, creamed corn, soy sauce, Chinese cooking wine, ginger, garlic and cornflour / water mixture in a saucepan over high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring to boil, then turn down the heat to medium and stir occasionally. Cook for 5 minutes or until slightly thickened."
+    },
+    {
+      "order": 3,
+      "instruction": "Adjust seasoning with salt, turn off heat, and slowly whisk in the egg so it cooks in \"ribbons\" throughout the soup. This also thickens the soup."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the chicken, season with white pepper, and serve, garnished with scallions."
+    }
+  ]
+}

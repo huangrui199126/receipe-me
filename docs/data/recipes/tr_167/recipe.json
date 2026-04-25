@@ -1,0 +1,119 @@
+{
+  "id": "tr_167",
+  "title": "Creamy Feta Dressing with Iceberg Wedges",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/DSC_0014-Version-21-680x1024-1.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-feta-dressing-iceberg-wedges/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  iceberg lettuce",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(packed) crumbled feta (preferably Danish or another soft feta)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "whole egg mayonnaise",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "plain yoghurt",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 to 3/4 cup milk ((use milk to adjust consistency))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Juice of half a lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "clove",
+      "name": "garlic (, crushed, or 1 tsp garlic powder)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "chopped fresh oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the iceberg lettuce into 8 wedges, being careful to cut evenly through the centre of the core so each wedges holds together."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the feta and mayonnaise into a medium size bowl and use a fork to mash it into a paste. If you use a creamier feta - like Danish - it will be easier to mash into a smooth paste."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the yoghurt, half the milk, lemon juice, garlic and oregano, and whisk vigorously to make the dressing smooth."
+    },
+    {
+      "order": 4,
+      "instruction": "Use the remainder of the milk to get the consistency to your taste. I like mine reasonably thick so it sticks to the lettuce. If you make it thinner, it is suitable for tossing through salads."
+    },
+    {
+      "order": 5,
+      "instruction": "Season to taste. Always season last because the saltiness of fetas and mayonnaise differ."
+    },
+    {
+      "order": 6,
+      "instruction": "Place 1 or 2 wedges onto each plate and drizzle dressing to serve."
+    }
+  ]
+}

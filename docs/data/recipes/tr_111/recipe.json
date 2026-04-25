@@ -1,0 +1,171 @@
+{
+  "id": "tr_111",
+  "title": "White Chicken Enchiladas",
+  "image": "https://www.recipetineats.com/tachyon/2015/08/White-Enchiladas_Plated-Featured.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/white-chicken-enchiladas/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 708,
+    "protein": 53.0,
+    "carbs": 39.5,
+    "fat": 38.6
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "light sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped jalapeños OR canned green chilies ((Note 2))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "shredded cooked chicken ((I used poached chicken breast))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "frozen corn",
+      "emoji": "🌽",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sliced scallions",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "grated cheese ((Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 to  rtillas ((flour or corn))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt butter over medium heat in a skillet. Add flour and cook for 1 minute."
+    },
+    {
+      "order": 2,
+      "instruction": "Add milk, whisk until thickened - about 30 seconds to 1 minute. Add sour cream and chicken broth. Whisk and cook for 2 minutes - it should thicken slightly. Stir through cumin, jalapeños, salt and pepper. Remove from heat and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 4,
+      "instruction": "Mix together 1/4 cup White Sauce, chicken, corn, scallions, 1 cup of grated cheese, salt and pepper."
+    },
+    {
+      "order": 5,
+      "instruction": "Pop the tortillas in the microwave for 15 seconds to warm through (so they don't crack when rolled up)."
+    },
+    {
+      "order": 6,
+      "instruction": "Divide filling between tortillas, and roll them up like a cigar."
+    },
+    {
+      "order": 7,
+      "instruction": "Smear 2 tbsp of White Sauce in baking dish. Place enchiladas in the dish, seam side down. Pour over remaining White Sauce, scatter with remaining cheese."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake for 25 minutes, until bubbly and golden. Serve hot!"
+    },
+    {
+      "order": 9,
+      "instruction": "Optional: Serve Pico de Gallo to top it or serve it on the side. I added avocado to my base Pico de Gallo Recipe."
+    }
+  ]
+}

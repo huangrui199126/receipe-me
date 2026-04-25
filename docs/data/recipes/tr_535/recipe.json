@@ -1,0 +1,196 @@
+{
+  "id": "tr_535",
+  "title": "Sticky Chinese Chicken Wings",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/Sticky-Chinese-Chicken-Wings_5.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sticky-chinese-chicken-wings/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 50,
+  "tags": [
+    "baked wings",
+    "chicken wing marinade",
+    "chinese chicken wings",
+    "sticky chicken wings"
+  ],
+  "nutrition": {
+    "calories": 362,
+    "protein": 50.2,
+    "carbs": 8.0,
+    "fat": 13.1
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "kg",
+      "name": "/3 lb   chicken wings (, cut into drumettes and wingettes (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sesame oil (, toasted )",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine ((Shaoxing wine, sub Mirin, dry sherry))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "soy sauce (, light or all purpose)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar or honey",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "ketchup (or Aussie tomato sauce)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "chilli garlic sauce (or sambal oelek (adjust spiciness to taste))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ginger (, finely grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely sliced shallots/scallions",
+      "emoji": "🧅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely sliced fresh chili",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Marinade ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Place wings in large bowl, pour over Marinade and toss well. Set aside for 10 minutes - do not marinate for longer than 1 hour. (Note 3)"
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat the oven to 180C/350F."
+    },
+    {
+      "order": 4,
+      "instruction": "Line baking tray with foil then greaseproof paper (you&#x27;ll thank me later)."
+    },
+    {
+      "order": 5,
+      "instruction": "Shake excess marinade off wings (but reserve the marinade) and spread on baking tray - can be fairly snug but not super squished (use 2 trays if needed)."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake 45 - 50 minutes, basting with a brush at 25 minutes and 35 minutes, using the reserved marinade and juieces on the tray."
+    },
+    {
+      "order": 7,
+      "instruction": "The meat should be able to be pulled off the bones quite easily, they should be just starting to char on the edges and a sticky, dark red/golden colour all over."
+    },
+    {
+      "order": 8,
+      "instruction": "Sprinkle with garnishes - coriander/cilantro leaves, sesame seeds, chilli, sliced shallots/scallions - then serve!"
+    }
+  ]
+}

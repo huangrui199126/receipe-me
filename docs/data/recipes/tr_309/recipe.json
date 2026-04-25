@@ -1,0 +1,118 @@
+{
+  "id": "tr_309",
+  "title": "Baked Fish with Lemon Cream Sauce (One Baking Dish!)",
+  "image": "https://www.recipetineats.com/tachyon/2019/07/Baked-Fish-with-Lemon-Cream-Sauce_9-SQ.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baked-fish-with-lemon-cream-sauce/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "baked fish",
+    "lemon cream sauce for fish"
+  ],
+  "nutrition": {
+    "calories": 282,
+    "protein": 34.1,
+    "carbs": 1.0,
+    "fat": 16.1
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  x 150- 180g / 5 - 6 oz fish fillets (, about 1.5cm / 1/2\" thick, skinless and boneless (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 4 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cream, heavy / thickened  ((See Note 2 for sub options))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt &amp; pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "eschallots (French onion) (, finely chopped (Note 3))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley and lemon slices (, to serve)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C / 390°F (all oven types)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place fish in a baking dish - ensure the fish isn't crammed in too snugly. See video or photos in post. Sprinkle both sides of fish with salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Place butter, cream, garlic, mustard, lemon juice, salt and pepper in a microwave proof jug or bowl. Microwave in 2 x 30 sec bursts, stirring in between, until melted and smooth."
+    },
+    {
+      "order": 4,
+      "instruction": "Sprinkle fish with shallots, then pour over sauce."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake for 10 - 12 minutes, or until fish is just cooked. Remove from oven and transfer fish to serving plates. Spoon over sauce, and garnish with parsley and lemon wedges if using."
+    }
+  ]
+}

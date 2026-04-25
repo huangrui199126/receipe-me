@@ -1,0 +1,127 @@
+{
+  "id": "tr_1109",
+  "title": "Asian Side Salad",
+  "image": "https://www.recipetineats.com/tachyon/2019/10/Asian-Side-Salad_3.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/asian-side-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "asian salad",
+    "asian side salad",
+    "chinese salad"
+  ],
+  "nutrition": {
+    "calories": 153,
+    "protein": 2.0,
+    "carbs": 8.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce ((light or all purpose, not dark soy))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "peanut oil ((or canola, vegetable or other neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "rice vinegar ((sub cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ginger (, minced)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 4oz mixed leafy salad greens",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8oz cherry tomatoes (, halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "crispy fried shallots ((Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Shake Dressing ingredients in a jar."
+    },
+    {
+      "order": 2,
+      "instruction": "Place Salad ingredients except fried shallots in a bowl. Drizzle with Dressing and toss."
+    },
+    {
+      "order": 3,
+      "instruction": "Sprinkle with fried shallots and served immediately!"
+    }
+  ]
+}

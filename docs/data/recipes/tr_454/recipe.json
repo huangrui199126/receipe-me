@@ -1,0 +1,151 @@
+{
+  "id": "tr_454",
+  "title": "Penne all'Arrabbiata (spicy tomato pasta)",
+  "image": "https://www.recipetineats.com/tachyon/2023/10/Penne-Arrabbiata-4.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/penne-all-arrabbiata-spicy-tomato-pasta/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "arrabbiata penne",
+    "arrabbiata sauce",
+    "penne all'arrabbiata"
+  ],
+  "nutrition": {
+    "calories": 567,
+    "protein": 17.0,
+    "carbs": 91.0,
+    "fat": 16.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/ 14oz  penne or ziti (, or other pasta of choice (short or long))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cooking / kosher salt (, for cooking pasta)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red cayenne pepper chilli (, finely chopped (with seeds) (Note 2))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "chilli flakes ((red pepper flakes))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 28 oz  canned crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "white sugar (, only if needed (Note 3))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "parmesan (, finely grated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "finely chopped parsley (, optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté - Heat oil in a large pot over medium heat. Add garlic and stir for 10 seconds. Add cayenne and chilli flakes. Cook for 1 minute, or until garlic is light golden."
+    },
+    {
+      "order": 2,
+      "instruction": "Add tomato, salt and pepper. Rinse out the tomato cans with the water and add into the pot."
+    },
+    {
+      "order": 3,
+      "instruction": "Simmer - Turn up the heat to high, stir, then once it comes to a simmer, turn back down to medium heat and simmer for 15 minutes. (Taste check at 10 min – if sour, add the sugar.)"
+    },
+    {
+      "order": 4,
+      "instruction": "Cook pasta - Meanwhile, bring a large pot of water to the boil with the 1 tablespoon of salt. Add pasta and cook per packet directions."
+    },
+    {
+      "order": 5,
+      "instruction": "Save water – Just before draining, give the pot a big stir (to agitate the starch) then scoop out 1 cup of the water and set aside. (Note 4) Drain pasta."
+    },
+    {
+      "order": 6,
+      "instruction": "Toss – Add pasta into the sauce along with 1/2 cup of the pasta cooking water. Toss well (still on the stove) until the pasta is coated with the pasta sauce. Use extra pasta cooking water if needed, to loosen."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve - Divide between bowls and serve immediately with parmesan and parsley, if using."
+    }
+  ]
+}

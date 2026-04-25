@@ -1,0 +1,250 @@
+{
+  "id": "tr_962",
+  "title": "Vietnamese Peanut Sauce Lettuce Wraps",
+  "image": "https://www.recipetineats.com/tachyon/2024/01/Vietnamese-lettuce-wraps-with-peanut-sauce_8.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vietnamese-lettuce-wraps-with-peanut-sauce/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 0,
+  "tags": [
+    "lettuce wraps",
+    "vietnamese lettuce wraps"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18.0,
+    "carbs": 40.0,
+    "fat": 9.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10 oz  peeled whole cooked prawns/shrimp (, medium (600g/1.2lb unpeeled whole prawns - this is what I use) - Note 1)",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "75",
+      "unit": "g",
+      "name": "/ 2.5 oz  dried vermicelli noodles ((or glass noodles or rice))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 large or 16 -20 small  lettuce leaves ((I used baby cos/romaine), eg iceberg, butter lettuce)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 batch quick pickled carrots and daikon (, below *recommended* OR 2 carrots finely julienned (use plain))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "beansprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  cucumbers (, julienned)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "mint leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "coriander/cilantro sprigs ((sub with chives + extra mint))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  birds eye red chilli (, finely sliced (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "roasted peanuts (, finely chopped (recommended))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "natural peanut butter (, smooth (ie not sweetened) - Note 2)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "hoisin",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp lime juice (, sub rice vinegar)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "LOW FAT coconut milk ((Note 3))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove (, finely grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 tsp+  sambal oelak ((or other chilli sauce/paste of choice), can omit (adj to taste))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dark soy ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium carrots (, peeled cut into 2 mm / 1/10″ batons)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  large white radish (daikon) (, peeled, cut the same as carrots)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "rice wine vinegar ((sub apple cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pickle first - Put the boiling water, salt and sugar in a bowl. Mix to to dissolve, then add vinegar. Submerge vegetables and leave for 2 hours. Drain then use per recipe (or store in fridge submerged in liquid)."
+    },
+    {
+      "order": 2,
+      "instruction": "Peanut sauce - Mix the peanut sauce ingredients and set aside for the flavours to meld while you prepare the platter. Start with 1 tbsp lime juice and add more if you want tarter."
+    },
+    {
+      "order": 3,
+      "instruction": "Prawns (shrimp) - Cut the prawns in half horizontally and remove the vein."
+    },
+    {
+      "order": 4,
+      "instruction": "Noodles - Soak the noodles in boiling water per packet directions. Rinse under cold water (to prevent stickiness) then drain very well."
+    },
+    {
+      "order": 5,
+      "instruction": "Lay it all out - Pile everything onto a giant platter or put things in little bowls, then let everybody help themselves!"
+    },
+    {
+      "order": 6,
+      "instruction": "Assemble - Here&#39;s my order: lettuce leaf, noodles first, then veg* (carrots, bean sprouts etc), prawns, stuff herbs down the side, drizzle with sauce, sprinkle with peanuts and chilli. Bundle and bite!"
+    }
+  ]
+}

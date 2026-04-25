@@ -1,0 +1,107 @@
+{
+  "id": "tr_1556",
+  "title": "BBQ Nachos.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/06/Leftover-Summer-BBQ-Recipes-3-Ways-1-2.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/leftover-summer-bbq-recipes-3-ways/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "bbq",
+    "bbq nachos",
+    "nachos"
+  ],
+  "nutrition": {
+    "calories": 1229,
+    "protein": 37.0,
+    "carbs": 25.0,
+    "fat": 38.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bag tortilla chips",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  ears sweet corn (kernels removed from the cob)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded cheddar cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded pepper jack cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded pork",
+      "emoji": "🥩",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "BBQ sauce + more for serving",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-6  fried eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Guacamole (mango salsa and sour cream or Greek yogurt, for serving)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 425 degrees F."
+    },
+    {
+      "order": 2,
+      "instruction": "Spread the tortilla chips out on a parchment lined baking sheet, or 9×13 inch baking pan. Sprinkle the corn over the top of the tortilla chips in an even layer. Top with half the cheese. Sprinkle on the shredded pork in an even layer and top with the remaining cheese."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the baking dish into the oven and bake for 6-8 minutes, until cheese is melted."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove the baking sheet from the oven and top nachos with guacamole and fried eggs. Serve immediately!"
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "id": "tr_2000",
+  "title": "Sugar Cookie Hot Cocoa Cupcakes",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2013/12/Hot-Chocolate-Sugar-Cookie-Cupcakes-2.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/sugar-cookie-hot-cocoa-cupcakes/",
+  "servings": 12,
+  "prepTime": 30,
+  "cookTime": 25,
+  "tags": [
+    "cookies",
+    "cupcakes",
+    "sugar"
+  ],
+  "nutrition": {
+    "calories": 823,
+    "protein": 6.0,
+    "carbs": 97.0,
+    "fat": 40.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "7",
+      "unit": "tablespoons",
+      "name": "unsalted butter (softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg yolk (at room temperature)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (at room temperature)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "buttermilk",
+      "emoji": "🧈",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "strong brewed coffee (warm)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "heavy cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "tablespoon",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "semi-sweet chocolate (chopped or use semi-sweet chocolate chips)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "instant coffee (optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "unsalted salted butter (softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "powdered sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "heavy whipping cream (or more to your liking)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  large egg whites",
+      "emoji": "🥚",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "cream of tarter",
+      "emoji": "🥛",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 30
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  candy canes",
+      "emoji": "🥄",
+      "section": "",
+      "order": 31
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "red food coloring",
+      "emoji": "🥄",
+      "section": "",
+      "order": 32
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "silver sparkly sprinkles",
+      "emoji": "🥄",
+      "section": "",
+      "order": 33
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 350 degrees F . Line a 12-cup cupcake/muffin pan with cupcake liners. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "To make the cookies. In a large bowl or bowl of a stand mixer cream the butter, sugar and vanilla until light and fluffy, about a full 3-5 minutes. Add the egg yolk and mix until evenly combined. Add 1/2 cup of the flour, baking soda and salt, beating until the dough forms a ball. Add the remaining 1/2 cup of flour and beat until the dough forms a ball. It will seem crumbly at first, but it will come together. Beat in the milk. Roll the dough into rounded tablespoon size balls and then press the balls into the bottom of 12 cupcake liners. Place the cupcake pan in the fridge while you make the cupcake batter. You will have leftover cookie dough (YES!!). I would make some cookies with it!"
+    },
+    {
+      "order": 3,
+      "instruction": "To make the cupcake batter: In a medium bowl, combine the flour, cocoa powder, baking powder, baking soda and salt. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "In a large bowl whisk the canola oil, eggs, vanilla and sugar until smooth and combined. Stir in half the flour mixture and the coffee until lightly combined. Stir in the remaining flour and the buttermilk until just combined. DO not over mix, batter will be thick. Divide the batter among the 12 cupcake molds, placing the batter right over the cookie dough. Bake 18-20 minutes or until a toothpick inserted into the middle comes out clean. (I baked mine 20 minutes and they were perfect.) Allow the cupcakes to cool completely before filling with ganache and frosting."
+    },
+    {
+      "order": 5,
+      "instruction": "To make the buttercream frosting: In the bowl of a stand mixer (or large bowl with a hand mixer) beat together the butter and powdered sugar until smooth and fluffy, about 5 minutes. Add the vanilla, pinch of salt and heavy cream and beat another 3 minutes or until the frosting is light and fluffy. Add more cream to your liking. If desired, color half the frosting red with a drop or two of red food coloring."
+    },
+    {
+      "order": 6,
+      "instruction": "To make the marshmallow frosting: Bring a small pot of water to a simmer. In a heat proof bowl, add the egg whites, sugar and cream of tarter. Place the bowl over the simmering water and whisk constantly for 4 minutes. Remove from the heat and beat the mixture, starting on low speed and gradually increasing the speed until stiff peaks form. Stir in the vanilla. If desired, color half the frosting red with a drop or two of red food coloring."
+    },
+    {
+      "order": 7,
+      "instruction": "Make the ganache. In a microwave safe bowl add the cream, butter and chocolate. Microwave on 30 second intervals, stirring after each until smooth. Stir in the instant coffee until dissolved and smooth."
+    },
+    {
+      "order": 8,
+      "instruction": "To assemble the cupcakes use a small paring knife to cut a cone-shaped piece from the center of each cupcake. Fill the hole with the the chocolate ganache and if there is room return the top of the cupcake to the hole. Pipe or spread on either the marshmallow frosting or the buttercream frosting."
+    },
+    {
+      "order": 9,
+      "instruction": "To swirl the frosting, spoon half of the red frosting into one piping bag (or use a ziplock bag) and half white frosting into the another piping bag. See my photo above. Place both the bags of frosting into a larger bag fitted with a piping tip. Pipe onto cupcakes as desired. Take one candy cane and break it in half. Dip one side of the candy cane into a little of the frosting and then roll the top in the sprinkles (it is helpful to add the sprinkles to a bowl). Stick the pole right in the middle of the cupcake. And your are done! Store cupcakes in an airtight container at room temperature for up to 3 days and in the refrigerator for up to 5."
+    }
+  ]
+}

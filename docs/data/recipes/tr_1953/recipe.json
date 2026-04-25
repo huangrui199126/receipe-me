@@ -1,0 +1,300 @@
+{
+  "id": "tr_1953",
+  "title": "Hawaiian Hula Pork Fajitas with Pineapple Slaw + Coconut Rice.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/03/Hawaiian-Hula-Pork-Fajitas-with-Pineapple-Slaw-+-Coconut-Rice.-13.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/hawaiian-hula-pork-fajitas-pineapple-slaw-coconut-rice/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 240,
+  "tags": [
+    "fajita",
+    "pineapple",
+    "pork",
+    "slaw"
+  ],
+  "nutrition": {
+    "calories": 645,
+    "protein": 22.0,
+    "carbs": 49.0,
+    "fat": 15.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "pounds",
+      "name": "pork shoulder roast (or butt)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "pineapple juice",
+      "emoji": "🍎",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "brown sugar (lightly packed)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "ketchup (preferably organic)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons sriracha (depending on your taste (I used 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8-12  flour tortillas (warmed)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "sharp cheddar cheese (shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  avocado (diced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "greek yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoons",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoon",
+      "name": "fresh pineapple juice",
+      "emoji": "🍎",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "orange zest",
+      "emoji": "🍊",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "shredded cabbage",
+      "emoji": "🥬",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "green onions (chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh pineapple (diced)",
+      "emoji": "🍎",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  jalapeno (seeded + chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "uncooked jasmine or basmati rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "light (canned coconut milk)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "coconut water",
+      "emoji": "🥥",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "unsweetened (flaked coconut)",
+      "emoji": "🥥",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "coconut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 28
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 350 degrees F."
+    },
+    {
+      "order": 2,
+      "instruction": "In a 4 cup glass measuring cup or large bowl combine the pineapple juice, ginger, garlic, brown sugar, soy sauce, ketchup, sriracha and rice vinegar. Whisk to combine."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat a heavy bottom dutch oven or roasting pot over medium-high heat and add olive oil. Season the pork all over with salt and pepper. Once hot, add pork and sear on all sides until golden brown (about 2 minutes per side). Remove the whole pot from the heat and slowly pour in half of the pineapple sauce + 2 cups water. Place a lid on the pot and place in the preheated oven. Roast the pork for 3-4 hours or until the pork is falling off the bone and shreds easily. Check the pork half way through cooking to ensure that there is liquid at least half way up the pork at all times."
+    },
+    {
+      "order": 4,
+      "instruction": "Shred the pork and add the remaining pineapple sauce. I used all the sauce, but we like things very saucy over here, so only use what you wish. Take the shredded pork and toss well with the sauce, then place on the stove to warm throughout, about 5-10 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Grease the bowl of your crockpot."
+    },
+    {
+      "order": 6,
+      "instruction": "In a 4 cup glass measuring cup or large bowl combine the pineapple juice, ginger, garlic, brown sugar, soy sauce, ketchup, sriracha and rice vinegar. Whisk to combine."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat a heavy bottom dutch oven or roasting pot over medium-high heat and add oil. Season the pork all over with salt and pepper. Once hot, add pork and sear on all sides until golden brown (about 2 minutes per side). Remove the pork and place it in the crockpot. Pour in half of the pineapple juice mixture. Place a lid on the crockpot and cook on low for 7-8 hours or on high for 4-6 hours. Shred the pork and toss well with the sauce, if desired add more sauce to the crockpot and toss well."
+    },
+    {
+      "order": 8,
+      "instruction": "About 30 minutes before you are ready to eat make the rice. Add the coconut milk and coconut water to a medium size pot. Bring to a low boil and then add the rice, salt, unsweetened coconut and coconut oil. Stir to combine, then place the lid on the pot and turn the heat down to the lowest setting possible. Allow the rice to cook ten minutes on low and then turn the heat off completely and let the rice sit on the stove, covered for another 20 minutes (don't take any peeks inside!). After 20 minutes remove the lid and fluff the rice with a fork. Serve inside the fajitas or on the side. Note that rice can cook differently for everyone, this is just what works for me."
+    },
+    {
+      "order": 9,
+      "instruction": "Well the rice is cooking make the slaw, in a medium size bowl whisk together the greek yogurt, rice vinegar, pineapple juice, brown sugar, orange zest, salt and pepper. Add the cabbage, green onions, cilantro, pineapple and jalapeño. Toss well."
+    },
+    {
+      "order": 10,
+      "instruction": "To assemble the fajitas, sprinkle a tortilla with cheese, add some rice, the pork and then the pineapple slaw. Sprinkle on the diced avocados."
+    }
+  ]
+}

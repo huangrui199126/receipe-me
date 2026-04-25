@@ -1,0 +1,234 @@
+{
+  "id": "tr_1337",
+  "title": "Marinated Roast Beef",
+  "image": "https://www.recipetineats.com/tachyon/2019/05/Marinated-Roast-Beef_7-1.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/marinated-roast-beef/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 70,
+  "tags": [
+    "roast beef",
+    "roast beef marinade"
+  ],
+  "nutrition": {
+    "calories": 518,
+    "protein": 63.0,
+    "carbs": 23.0,
+    "fat": 17.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "kg",
+      "name": "/ 3 lb   Bolar Blade (pictured in post), Top Blade Roast, Eye of Round Roast,  Oyster Blade Roast",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced (2.5 tsp jar))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Worcestershire Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried rosemary",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  potatoes (, cut into 5cm/2\" chunks)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  carrots (, peeled cut into 4cm/1.7\" pieces)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "beef broth ((stock), low sodium)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "black pepper (, coarsely ground)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Marinade ingredients in a large ziplock bag."
+    },
+    {
+      "order": 2,
+      "instruction": "Add beef, marinade for 2 days (24 hrs min, 3 days max)."
+    },
+    {
+      "order": 3,
+      "instruction": "De-chill - Take beef out of fridge 1 hour prior."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven to 240C/450F (both fan and regular ovens)."
+    },
+    {
+      "order": 5,
+      "instruction": "Toss vegetables - Put the vegetables in an ovenproof skillet. Remove beef from marinade. Pour all the marinade onto the vegetables and toss. Top with the beef."
+    },
+    {
+      "order": 6,
+      "instruction": "High temp roast - Drizzle beef with oil, roast 20 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Keep roasting - Turn oven down to 180C/350F (160C fan-forced), roast for a further 35 - 40 minutes or until a meat thermometer inserted into the centre registers 44°C / 111°F for medium rare (Note 3 for other doneness). Note - thinner and smaller pieces than pictured / per ingredients will cook faster, so check earlier!"
+    },
+    {
+      "order": 8,
+      "instruction": "Rest - Remove beef onto plate, cover loosely in foil and rest for 20 - 30 minutes (internal temp will rise to 52°C / 125°F which is perfect medium rare!)."
+    },
+    {
+      "order": 9,
+      "instruction": "Brown vegetables - Return vegetables to oven to brown a bit, if needed."
+    },
+    {
+      "order": 10,
+      "instruction": "To serve, slice beef thinly. Serve roast veg and juices in the skillet OR make gravy (below)!"
+    },
+    {
+      "order": 11,
+      "instruction": "Remove vegetables, leave juices in skillet. Skim excess off fat from surface, leave behind 2 tbsp."
+    },
+    {
+      "order": 12,
+      "instruction": "Flour - Place on medium high heat on stove. Add flour and stir for 1 minute."
+    },
+    {
+      "order": 13,
+      "instruction": "Stock - Slowly add beef stock while stirring. If needed, use whisk to remove lumps."
+    },
+    {
+      "order": 14,
+      "instruction": "Thicken - Bring to simmer for 2 minutes until thickens to gravy consistency. Stir in pepper and salt, if needed (taste to check). Serve with beef."
+    }
+  ]
+}

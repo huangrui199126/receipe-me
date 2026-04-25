@@ -1,0 +1,151 @@
+{
+  "id": "tr_1347",
+  "title": "Creamy Garlic Prawn Pasta",
+  "image": "https://www.recipetineats.com/tachyon/2017/11/Creamy-Garlic-Prawn-Pasta-4.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-garlic-prawn-pasta/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "creamy prawn pasta",
+    "creamy shrimp pasta",
+    "garlic prawn pasta"
+  ],
+  "nutrition": {
+    "calories": 864,
+    "protein": 38.0,
+    "carbs": 71.0,
+    "fat": 45.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "12",
+      "unit": "oz",
+      "name": "/ 350g   fettuccine (, or other long strand pasta of choice)",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp   unsalted butter (, separated)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  small or medium peeled prawns / shrimp (, raw or 1kg / 2 lb whole unpeeled (Note 1))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, finely minced with a knife)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Chardonnay or other dry white wine ((Note 2 for sub))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "heavy / thickened cream (or regular cream, pouring cream etc, full fat (Note 3))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "chicken broth ((or fish or vegetable broth), preferably low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(75 g)  finely grated parmesan cheese ((freshly grated) (Note 4))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped parsley (, optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan (, for serving)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook pasta - Bring to boil a large pot of water. Add a big pinch of salt and the pasta, then cook per packet MINUS 1 minute - it will finish cooking in the sauce later so we want it slightly under. (Note 5)."
+    },
+    {
+      "order": 2,
+      "instruction": "Reserve water - Just before draining, scoop out 1 cup of pasta cooking water and set aside, we need this to thicken the sauce later. Drain pasta."
+    },
+    {
+      "order": 3,
+      "instruction": "Lightly cook prawns in 2 batches - Meanwhile, melt about 1/3 of the butter in a large non stick skillet over medium high heat. Add half the prawns, spread out, and cook for 1 1/2 minutes, then turn and toss using 2 spatulas for another 1 - 1 1/2 minutes until just barely cooked (the prawns will cook more in the sauce). Remove prawns into a bowl. Repeat - add half the remaining butter, cook the remaining prawns then remove."
+    },
+    {
+      "order": 4,
+      "instruction": "Sauté garlic - In the same skillet, add the remaining butter. Once melted, add the garlic and stir for 20 seconds until fragrant (don&#39;t let it burn, lower heat it needed)."
+    },
+    {
+      "order": 5,
+      "instruction": "Deglaze - Add wine and stir. Simmer rapidly for 2 minutes, scraping the pan to dissolve any bits stuck to it into the liquid, until wine mostly evaporates (see video)."
+    },
+    {
+      "order": 6,
+      "instruction": "Sauce - Add cream, broth and parmesan. Stir until the parmesan is melted, then leave to simmer for 1 1/2 minutes until it thickens slightly - it will still be quite watery though which is fine, it will thicken more in next step."
+    },
+    {
+      "order": 7,
+      "instruction": "Toss &amp; thicken sauce - Add prawns, pasta plus about 1/4 cup of reserved pasta water. Toss pasta energetically (still on stove on medium high) and in 1 to 2 minutes, the sauce will thicken and start clinging to the pasta. It will seem like nothing is happening at first but trust the process, it will happen! If you take it too far and the sauce gets too thick, add a small splash of remaining reserved pasta cooking water to loosen and toss again (you can do this repeatedly as needed)."
+    },
+    {
+      "order": 8,
+      "instruction": "Finish - Add most of the parsley and a grind of black pepper, taste and check if you need salt (I don&#39;t need more), then give it a quick toss."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve immediately, garnished with remaining parsley and parmesan if desired."
+    }
+  ]
+}

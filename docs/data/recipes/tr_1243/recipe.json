@@ -1,0 +1,315 @@
+{
+  "id": "tr_1243",
+  "title": "Chicken Parmigiana",
+  "image": "https://www.recipetineats.com/tachyon/2020/09/Chicken-Parmigiana_7-SQ.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-parmigiana/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 40,
+  "tags": [
+    "chicken parmesan",
+    "chicken parmigiana",
+    "parmi"
+  ],
+  "nutrition": {
+    "calories": 633,
+    "protein": 46.0,
+    "carbs": 25.0,
+    "fat": 38.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  chicken breasts (300g/10z each) (, halved horizontally to form 6 pieces (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt (, cooking / kosher (or 3/4 tsp table salt, Note 3))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Italian mixed herbs ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "flour (, plain/all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced using garlic press)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "Italian mixed herbs ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "panko breadcrumbs ((sub normal, Note 5))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parmesan (, finely grated (store bought sand-like is best) (Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "olive oil ((or vegetable or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "onion or eschallots (, very finely chopped (Note 7))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "red pepper flakes  ((chilli flakes), optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "Italian mixed herbs ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "white wine (, anything (optional, Note 10))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz  tomato passata ((aka tomato puree) (Note 8))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "chicken stock/broth ((or water))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  basil leaves (, roughly chopped (sub pinch of dried - or omit))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "mozzarella cheese (, shredded (or enough slices to cover))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "parmesan (, finely grated (best to grate your own, Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  basil leaves (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 27
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sprinkle both sides of chicken with salt, pepper and Italian herbs. Refrigerate for 30 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a saucepan over medium heat. Add garlic and onion, cook for 3 minutes until onion is translucent."
+    },
+    {
+      "order": 3,
+      "instruction": "Add red pepper flakes and herbs, stir for 15 seconds. Add wine, turn up heat and let it simmer rapidly until mostly evaporated and winey smell is gone."
+    },
+    {
+      "order": 4,
+      "instruction": "Add tomato, chicken stock, salt and pepper. Cover, then simmer 10 minutes on low until thickened. Cover and keep warm."
+    },
+    {
+      "order": 5,
+      "instruction": "Preheat oven to 180°C/350°F."
+    },
+    {
+      "order": 6,
+      "instruction": "Crumbing set up: Spread flour out in a shallow bowl. Whisk Egg Dredge in a separate shallow bowl. Mix Crumbing ingredients in a third shallow bowl or pan."
+    },
+    {
+      "order": 7,
+      "instruction": "Dredge &amp; crumb: Press both sides of chicken into flour, then shake off excess. Coat in egg, letting excess drip off, then place in Crumbing, pressing to adhere."
+    },
+    {
+      "order": 8,
+      "instruction": "Transfer to plate and repeat with remaining chicken."
+    },
+    {
+      "order": 9,
+      "instruction": "Line a tray with paper towels and place rack on tray."
+    },
+    {
+      "order": 10,
+      "instruction": "Heat 1.5 - 2cm / 2/3\" oil in a skillet over medium high heat to 180°C/350°F (Note 9)."
+    },
+    {
+      "order": 11,
+      "instruction": "Carefully place 2 or 3 pieces of chicken in. Cook 2 minutes until underside is golden, then carefully turn and cook the other side for 1 1/2 minutes."
+    },
+    {
+      "order": 12,
+      "instruction": "Transfer to rack, then repeat with remaining chicken. (Note 12 - oil clean and reuse)"
+    },
+    {
+      "order": 13,
+      "instruction": "Place chicken on a tray. Spoon 1/3 cup sauce over the chicken - cover around 80% of the chicken, leave the ends crispy."
+    },
+    {
+      "order": 14,
+      "instruction": "Sprinkle sauce with basil, then mozzarella cheese (pile it on in mounds to use it all up), then sprinkle with parmesan. Drizzle oil over parmesan."
+    },
+    {
+      "order": 15,
+      "instruction": "Bake 15 minutes until cheese is melted and there's a few brown spots - no longer, otherwise chicken will overcook."
+    },
+    {
+      "order": 16,
+      "instruction": "Remove from oven, sprinkle with extra basil if desired. Serve immediately (with leftover Tomato Sauce, if you&#039;d like!)"
+    }
+  ]
+}

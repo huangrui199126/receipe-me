@@ -1,0 +1,263 @@
+{
+  "id": "tr_884",
+  "title": "Chinese Steamed Pork Buns",
+  "image": "https://www.recipetineats.com/tachyon/2018/06/Chinese-BBQ-Pork-Buns_5.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-steamed-pork-buns/",
+  "servings": 12,
+  "prepTime": 50,
+  "cookTime": 20,
+  "tags": [
+    "dim sum",
+    "pork buns",
+    "yum cha"
+  ],
+  "nutrition": {
+    "calories": 226,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "active dry yeast powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65 ml   warm water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/125 ml   warm water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "/70g  white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 300g   plain flour ((all purpose))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 155g  cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65 ml   vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "finely chopped escalot or white onion ((Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "soy sauce (, regular or light (not dark))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "oyster sauce ((can sub Hoisin))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornflour dissolved in 1 tbsp water",
+      "emoji": "🌾",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "Chinese Barbecue Pork (, diced (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Yeast Activation: Place yeast, sugar and water in a small bowl. Mix, then set aside for 10 minutes until it becomes foamy."
+    },
+    {
+      "order": 2,
+      "instruction": "Place flour, cornflour and sugar in a stand mixer bowl fitted with a dough hook. Mix briefly to combine."
+    },
+    {
+      "order": 3,
+      "instruction": "Add yeast mixture, oil and water. Mix on low speed for 3 minutes until a smooth ball of dough forms. It should be soft and elastic, not so sticky it gets stuck all over your hands. Adjust with a touch of flour/water if required to get the dough consistency right."
+    },
+    {
+      "order": 4,
+      "instruction": "Cover with cling wrap and place in a warm dry place for 2 hours until it doubles in volume. (Note 3). Meanwhile, make Filling."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove cling wrap, scatter over baking powder. Return to stand mixer and mix on low for 2 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Turn dough out onto work surface, sprinkle with flour. Knead lightly to form a smooth round disc."
+    },
+    {
+      "order": 7,
+      "instruction": "Cut dough into 4 pieces. Take one piece, roll into an even log, cut into 3 pieces (so 12 pieces in total)."
+    },
+    {
+      "order": 8,
+      "instruction": "Take one piece of dough, cover remaining with cling wrap or tea towel."
+    },
+    {
+      "order": 9,
+      "instruction": "Roll into round 4.5\" / 11 cm in diameter, making the edges thinner."
+    },
+    {
+      "order": 10,
+      "instruction": "Place dough in hand, put 1 1/2 tbsp of Filling in the centre."
+    },
+    {
+      "order": 11,
+      "instruction": "Pinch 8 pleats around the edges. Then gather the pleats together one by one to seal the bun. Pinch the top the twist."
+    },
+    {
+      "order": 12,
+      "instruction": "Repeat with remaining dough - make 12 in total."
+    },
+    {
+      "order": 13,
+      "instruction": "Cover buns loosely with cling wrap and leave in a warm place for 15 minutes."
+    },
+    {
+      "order": 14,
+      "instruction": "Line a large bamboo steamer (or other steamer) with parchment paper punctured with holes (Note 4)."
+    },
+    {
+      "order": 15,
+      "instruction": "Place 6 to 8 buns on paper, cover with steamer lid."
+    },
+    {
+      "order": 16,
+      "instruction": "Pour about 4 cm / 1 1/2 inches in a wok / pot (steamer should not touch water) and bring to rapid simmer over medium high."
+    },
+    {
+      "order": 17,
+      "instruction": "Place steamer in wok, then cook for 12 minutes. Check water halfway through, top up if required."
+    },
+    {
+      "order": 18,
+      "instruction": "Buns are ready when they spring back when touched, and the buns have formed a smooth skin."
+    },
+    {
+      "order": 19,
+      "instruction": "Remove steamer from wok, serve warm!"
+    },
+    {
+      "order": 20,
+      "instruction": "Heat oil in a saucepan over medium heat. Add eschalots and cook for 2 minutes."
+    },
+    {
+      "order": 21,
+      "instruction": "Add sugar, soy sauce, oyster sauce, sesame oil and water. Mix."
+    },
+    {
+      "order": 22,
+      "instruction": "While stirring, slowly pour cornflour mixture in. Mix until smooth."
+    },
+    {
+      "order": 23,
+      "instruction": "Stir in pork. Cook until sauce is thickened, 1 - 1 1/2 minutes (see video for consistency). Set aside to cool (thickens when cools)."
+    }
+  ]
+}

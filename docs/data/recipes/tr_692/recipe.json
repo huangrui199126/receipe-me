@@ -1,0 +1,209 @@
+{
+  "id": "tr_692",
+  "title": "Shredded Beef Chili Con Carne",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/Shredded-Beef-Chili.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/shredded-beef-chili-con-carne/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 480,
+  "tags": [
+    "chili",
+    "chilli con carne",
+    "pulled beef chili",
+    "shredded beef chilli con carne",
+    "slow cooker chili"
+  ],
+  "nutrition": {
+    "calories": 401,
+    "protein": 36.0,
+    "carbs": 16.0,
+    "fat": 22.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "kg",
+      "name": "/ 4lb  beef chuck roast ((Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "EACH salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  onions (, diced (brown, yellow, white))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large red capsicum/bell pepper (, seeds removed and diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125ml)  beef broth/stock ((or water))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 28oz  canned red kidney beans (, drained (2 x 400g/14oz cans))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "800g/28oz  crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(250 ml)  beef broth/stock",
+      "emoji": "🥩",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "EACH cumin, onion powder, garlic powder, oregano, smoked paprika ((or plain paprika))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cayenne pepper (, or to taste (spiciness))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "cornflour / corn starch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(65ml)  beef broth/stock or water",
+      "emoji": "🥩",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the beef into four equal sizes. Season with salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 1/2 the oil in a heavy based skillet over high heat. Brown beef well all over - about 1 1/2 minute on each side, then remove onto a plate."
+    },
+    {
+      "order": 3,
+      "instruction": "Add a touch more oil if needed."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the garlic, onion and capsicum (bell peppers) and saute until caramelised, around 2 to 3 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Add 1/2 cup beef broth, bring to simmer, scraping the bottom of the skillet to dissolve brown bits into the liquid. Simmer for 30 seconds then scrape it all into the slow cooker."
+    },
+    {
+      "order": 6,
+      "instruction": "In the slow cooker, add the beans, tomato, tomato paste, beef broth and Chili Spices. Stir, then add beef - it won&#x27;t be fully submerged, beef juices will raise liquid level (see video)."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook on low for 8 hours."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove beef from slow cooker and shred with two forks."
+    },
+    {
+      "order": 9,
+      "instruction": "Mix cornflour and 1/4 cup beef stock, then pour into slow cooker. Add beef, then slow cook for a further 20 minutes to allow sauce to thicken."
+    },
+    {
+      "order": 10,
+      "instruction": "Adjust seasoning to taste with salt and pepper."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve with garnishes of choice, such as sour cream, guacamole or diced avocado, grated cheese, coriander/cilantro. Serve either with corn chips or cornbread for dunking, or serve over rice!"
+    }
+  ]
+}

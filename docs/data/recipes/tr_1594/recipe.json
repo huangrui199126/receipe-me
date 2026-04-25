@@ -1,0 +1,95 @@
+{
+  "id": "tr_1594",
+  "title": "Strawberry Rosehip Frozen Yogurt.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/04/Strawberry-Rosehip-Frozen-Yogurt-1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/strawberry-rosehip-frozen-yogurt/",
+  "servings": 3,
+  "prepTime": 20,
+  "cookTime": 5,
+  "tags": [
+    "frozen yoghurt",
+    "rosehip",
+    "strawberry"
+  ],
+  "nutrition": {
+    "calories": 752,
+    "protein": 25.0,
+    "carbs": 71.0,
+    "fat": 5.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "full-fat coconut milk or milk of your choice",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "honey*",
+      "emoji": "🍯",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "rosehips or 2 rosehip tea bags (optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoons",
+      "name": "vanilla bean (seeds removed or 2 vanilla)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "fresh or frozen strawberries (hulled)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "plain greek yogurt (0% (2% or full-fat all work))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add the milk and honey to a small saucepan and heat over low heat until they begin simmer and steam, do not boil the milk. Add the rosehips (or tea bags) and vanilla bean seeds. Cover and let steep for 10 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Strain the milk through a fine mesh strainer. Discard the rosehips and vanilla bean. Add the milk to a blender and add the 2 cups strawberries. Blend until completely smooth. Add the greek yogurt and blend until combined. Chop the remaining 1 cup strawberries and add to the blender, blend until the strawberries are evenly mixed, but not pureed. If you do not want any strawberry chunks, just add the strawberries all at once to the blender when you add the milk and blend."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the mixture in the fridge to chill."
+    },
+    {
+      "order": 4,
+      "instruction": "Once chilled, churn the mixture in your ice cream maker according to the makers directions. Eat as soft serve and then freeze the leftovers for eating later!"
+    },
+    {
+      "order": 5,
+      "instruction": "Alternately, if you do not have an ice cream maker, you can freeze the yogurt mixture in a gallon size ziplock bag. Once frozen, break the yogurt into chunks and add to a food processor or blender. Pulse until whipped and smooth. Eat or freeze until frozen!"
+    }
+  ]
+}

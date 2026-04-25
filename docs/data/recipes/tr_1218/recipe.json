@@ -1,0 +1,255 @@
+{
+  "id": "tr_1218",
+  "title": "Oven Baked Chicken with Rice Pilaf (Cranberry, Walnut and Apple)",
+  "image": "https://www.recipetineats.com/tachyon/2017/12/Baked-Chicken-with-Rice-Pilaf-2.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/oven-baked-chicken-and-rice-pilaf-cranberry-walnut-apple/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 65,
+  "tags": [],
+  "nutrition": {
+    "calories": 718,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  chicken thigh fillets (, bone in (about 220g / 7oz each) (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "(3.5 tbsp)  unsalted butter ((or sub with oil of choice))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(270g)  long grain white rice (, uncooked (Note 2))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "(315 ml)  apple juice",
+      "emoji": "🍎",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(375 ml)  chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(120g)  dried cranberries (or other dried fruit of choice)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(125g)  walnuts , roughly chopped (or other nuts of choice)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red apple (, cut into small dice)",
+      "emoji": "🍎",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "dried rosemary",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "(100g)  apricot jam ((or other jam - Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "All Spice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200C/390F (standard) or 180C/350F (fan/convection)."
+    },
+    {
+      "order": 2,
+      "instruction": "Use a baking dish about 22 x 33cm / 9 x 13\"."
+    },
+    {
+      "order": 3,
+      "instruction": "Scatter onion and garlic in baking dish, dollop butter over. Bake for 15 minutes, then remove."
+    },
+    {
+      "order": 4,
+      "instruction": "If your chicken has skin on it, remove it (just pull it off). Otherwise, the rice will be too greasy."
+    },
+    {
+      "order": 5,
+      "instruction": "Whisk together Sticky Chicken Glaze. Add chicken, turn to coat."
+    },
+    {
+      "order": 6,
+      "instruction": "Add rice, apple juice, chicken broth and Rice Herbs into the pan with the onion. Stir."
+    },
+    {
+      "order": 7,
+      "instruction": "Add cranberries and walnuts. Stir."
+    },
+    {
+      "order": 8,
+      "instruction": "Top with chicken - it will be partly submerged. Save glaze in bowl."
+    },
+    {
+      "order": 9,
+      "instruction": "Cover with foil. Bake 20 minutes. Remove foil - don't worry if there's still liquid (Note 4)."
+    },
+    {
+      "order": 10,
+      "instruction": "Spoon all remaining Glaze onto chicken. Optional: spray with oil (gives chicken a slightly nicer finish). Bake for another 30 - 35 minutes until chicken is browned."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove pan from oven. Rest 5 minutes. Remove chicken, add apple, then use fork to fluff rice."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve chicken with rice pilaf, garnished with fresh parsley if desired."
+    }
+  ]
+}

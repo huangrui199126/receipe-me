@@ -1,0 +1,91 @@
+{
+  "id": "tr_169",
+  "title": "Glazed Stovetop Carrots",
+  "image": "https://www.recipetineats.com/tachyon/2015/11/Stovetop-Glazed-Carrots_2.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/glazed-stovetop-carrots/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  carrots (, peeled, cut into quarters lengthwise then halved)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley (, finely chopped, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil in a very large skillet over medium high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Add carrots and shake the pan so they are (almost all) cut side down. Cook for 5 to 7 minutes without stirring until golden brown."
+    },
+    {
+      "order": 3,
+      "instruction": "Add remaining ingredients except parsley. Stir once then allow to cook until the water is evaporated and carrots start to caramelise - about 3 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir once or twice until caramelised, then transfer to serving dish."
+    },
+    {
+      "order": 5,
+      "instruction": "Sprinkle with parsley and serve warm"
+    }
+  ]
+}

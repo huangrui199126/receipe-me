@@ -1,0 +1,159 @@
+{
+  "id": "tr_658",
+  "title": "Crumpet recipe",
+  "image": "https://www.recipetineats.com/tachyon/2020/07/Crumpets-recipe_1-SQ.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crumpet-recipe/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "crumpet recipe",
+    "homemade crumpets",
+    "how to make crumpets"
+  ],
+  "nutrition": {
+    "calories": 134,
+    "protein": 3.0,
+    "carbs": 21.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "(1 cup)  white flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "200",
+      "unit": "ml",
+      "name": "(3/4 cup + 1 tbsp)  warm water (, tap water (200g) (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt (, cooking/kosher salt (1/4 tsp table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "yeast (, instant/rapid rise OR dry active yeast (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "warm water ((just tap water))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "unsalted butter (, melted (or vegetable oil))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place flour, water and salt in a bowl and whisk for 2 minutes (electric beater 1 minute on speed 5)."
+    },
+    {
+      "order": 2,
+      "instruction": "Yeast Mixture - Dissolve Yeast into 1 tbsp warm water in a small bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Add Yeast Mixture, sugar and baking powder into bowl, then whisk for 30 seconds (or 15 sec speed 5)."
+    },
+    {
+      "order": 4,
+      "instruction": "Cover with cling wrap or plate, then place in a very warm place for 15 to 30 minutes until the surface gets nice and foamy. It will only increase in volume by ~10 - 15%."
+    },
+    {
+      "order": 5,
+      "instruction": "Grease 2 or 3 rings with butter (approx 9 cm / 3.5&quot; wide, though any ring or metal shaper will do, Note 3) (TIP: Non stick rings - brush with melted butter. Everything else - smear with butter)"
+    },
+    {
+      "order": 6,
+      "instruction": "Brush non stick skillet lightly with melted butter then place rings in the skillet."
+    },
+    {
+      "order": 7,
+      "instruction": "Turn stove on medium high (medium for strong stoves) and bring to heat (Note 4 for \"sizzle test\")."
+    },
+    {
+      "order": 8,
+      "instruction": "Pour 1/4 cup batter into the rings (65ml), about 1cm / 2/5&quot; deep (will rise ~60%)."
+    },
+    {
+      "order": 9,
+      "instruction": "Cook for 1 1/2 minutes - bubbles should start appearing on the surface (but not popping yet)."
+    },
+    {
+      "order": 10,
+      "instruction": "Turn heat down to medium, cook for 1 minute - some bubbles should pop around the edges."
+    },
+    {
+      "order": 11,
+      "instruction": "Turn heat down to medium low, cook for a further 2 1/2 to 4 minutes, until the surface is &quot;set&quot; and it&#039;s clear there will be no more bubbles popping! (At this stage you can help the final bubbles pop with a skewer!)"
+    },
+    {
+      "order": 12,
+      "instruction": "Remove rings (you might need to run knife around to loosen)."
+    },
+    {
+      "order": 13,
+      "instruction": "Then flip and cook the other side for 20 to 30 seconds for a blush of colour."
+    },
+    {
+      "order": 14,
+      "instruction": "Transfer to write rack (golden side down) and fully cool."
+    },
+    {
+      "order": 15,
+      "instruction": "Can be eaten once cool, but it's even better the next day (Note 5)."
+    },
+    {
+      "order": 16,
+      "instruction": "Toast in a toaster until the base is crispy."
+    },
+    {
+      "order": 17,
+      "instruction": "Slather generously with butter, then spread of choice (honey is perfection) and devour immediately!"
+    }
+  ]
+}

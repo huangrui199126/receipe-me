@@ -1,0 +1,155 @@
+{
+  "id": "tr_998",
+  "title": "Fish Seasoning - for any fish",
+  "image": "https://www.recipetineats.com/tachyon/2021/06/Fish-Seasoning-Flathead-_6-SQ.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fish-seasoning-spice-mix/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "fish seasoning",
+    "spice mix for fish",
+    "spices for fish"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 38.0,
+    "carbs": 1.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "celery salt ((or 3/4 tsp salt])",
+      "emoji": "🧂",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "mace",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "allspice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "ground clove",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "ginger powder",
+      "emoji": "🫚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "cayenne pepper ((or pure chilli powder))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "ground cardamom",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "750",
+      "unit": "g",
+      "name": "/ 1.5lb  fish fillets (, skinless, boneless (I used flathead, Note 2))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "45",
+      "unit": "g",
+      "name": "/ 3 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  Extra unsalted butter – for drizzling ((optional))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Fish Seasoning: Place ingredients in a bowl and mix to combine. It will keep for months in an airtight container. This quantity is enough for 750g / 1.5lb fish (serves 4 people)"
+    },
+    {
+      "order": 2,
+      "instruction": "Season fish: Sprinkle Seasoning on both sides of fish. Lightly rub to spread Seasoning."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook fish in two batches: Melt 30g / 2tbsp butter in large non-stick skillet over medium high heat. Cook fish until golden on each side (see Cook times below). Remove to a plate."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook remaining fish: Melt remaining butter in skillet and cook remaining fish."
+    },
+    {
+      "order": 5,
+      "instruction": "Rest: Rest fish for 3 minutes before serving with extra butter sauce (see next step)."
+    },
+    {
+      "order": 6,
+      "instruction": "Extra butter sauce (optional): Add extra butter into pan over medium heat and melt until foaming. Drizzle over fish when serving."
+    }
+  ]
+}

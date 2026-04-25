@@ -1,0 +1,179 @@
+{
+  "id": "tr_1382",
+  "title": "Greek Meatballs",
+  "image": "https://www.recipetineats.com/tachyon/2017/03/Greek-Meatballs-4-portrait.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/greek-meatballs/",
+  "servings": 5,
+  "prepTime": 20,
+  "cookTime": 12,
+  "tags": [],
+  "nutrition": {
+    "calories": 513,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion, grated",
+      "emoji": "🧅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  beef mince (ground beef) (or lamb!)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 6.5oz  pork mince (ground pork), or more beef",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 60g  panko breadcrumbs (or use normal)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh parsley, finely chopped",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  large mint leaves, finely chopped (spearmint if you can, it's authentic)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "flour (any white)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley (optional, for garnish)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Tzatziki (Note 5) or Greek yoghurt",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Grate the onion straight into a large bowl, then add remaining Meatball ingredients. Use your hands to mix well for a few minutes until the mixture is quite smooth and very well combined."
+    },
+    {
+      "order": 2,
+      "instruction": "Optional: Refrigerate for 1 hour - makes them easier to roll + retains round shape when cooking."
+    },
+    {
+      "order": 3,
+      "instruction": "Measure out heaped tablespoons and dollop onto a work surface - should make around 32 - 35. Then roll into balls."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat most of the oil in a large skillet over medium high heat (medium if you have a strong gas stove). Use enough oil to cover the surface of the skillet."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook in 2 to 3 batches: Dredge meatballs lightly in flour, shaking off excess, then place in the skillet. Roll them around and cook for 5 - 6 minutes, until nicely browned all over. Remove onto plate, cover to keep warm and repeat with remaining meatballs."
+    },
+    {
+      "order": 6,
+      "instruction": "BAKING: Alternatively, spray generously with oil (preferably olive oil) then bake at 180C/350F for 20 minutes or until browned. The pan frying method is the traditional way and the meatballs are slightly juicier."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve as a starter as part of a mezze platter with pita bread and tzatziki, or make dinner plates by adding a salad like a Greek Salad!"
+    }
+  ]
+}

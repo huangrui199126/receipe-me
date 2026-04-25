@@ -1,0 +1,117 @@
+{
+  "id": "tr_767",
+  "title": "How to cook brown rice",
+  "image": "https://www.recipetineats.com/tachyon/2020/09/Perfectly-Cooked-Brown-Rice_7-SQ.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/how-to-cook-brown-rice/",
+  "servings": 3,
+  "prepTime": 1,
+  "cookTime": 30,
+  "tags": [
+    "brown basmati rice",
+    "brown rice",
+    "brown short grain rice",
+    "how to cook brown rice",
+    "long grain brown rice"
+  ],
+  "nutrition": {
+    "calories": 229,
+    "protein": 5.0,
+    "carbs": 48.0,
+    "fat": 2.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "brown rice - medium grain, long grain or basmati",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "8",
+      "unit": "cups",
+      "name": "water ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "short grain brown rice ((medium grain ok too))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "BOILING water ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Quick cooking rice (ie par boiled) (- will not work)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Brown jasmine (- not yet tested)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinsing rice: only required if you purchased from bulk bins. If you rinse, reduce water by 1/4 cup for baked version."
+    },
+    {
+      "order": 2,
+      "instruction": "Boil water: Bring water to a boil in a small pot or large saucepan over high heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Boil rice: Add rice, then boil rice until just cooked, a tiny bit firmer than you want (it gets softer during Rest step). Use these times as a guide (Note 3):- Medium and long grain rice: 30 minutes- Basmati rice: 12 minutes (1st check) to 14 minutes"
+    },
+    {
+      "order": 4,
+      "instruction": "Drain VERY well (key tip! Note 4): Drain rice in a colander, shaking the pot well to remove as much water as you can, and shaking the colander to remove excess water from the rice. Pot should steam dry from residual heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Rest: Return rice to now-dry pot. Put lid on and put it back on the turned off stove. Leave for 10 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Fluff and serce: Fluff rice with fork and serve."
+    },
+    {
+      "order": 7,
+      "instruction": "Preheat oven to 180°C/350°F (all oven types)."
+    },
+    {
+      "order": 8,
+      "instruction": "Combine rice and water: Pour rice and boiling water into a 20cm/8&quot; square pan or round casserole pot. Cover with lid or foil."
+    },
+    {
+      "order": 9,
+      "instruction": "Bake 1 hour 15 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Rest, fluff &amp; serve: Remove from oven, stand 10 minutes then fluff with fork and serve."
+    }
+  ]
+}

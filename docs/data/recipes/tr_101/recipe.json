@@ -1,0 +1,119 @@
+{
+  "id": "tr_101",
+  "title": "Cheese and Bacon Potato Skins",
+  "image": "https://www.recipetineats.com/tachyon/2016/01/Cheese-Bacon-Potato-Skins_5.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cheese-and-bacon-potato-skins/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 45,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "lb",
+      "name": "/ 1 kg (about 8-10)  medium potatoes (, scrubbed clean (Note 1))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "10",
+      "unit": "oz",
+      "name": "/ 300 g   streaky fatty bacon (, diced (Note 2))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "grated cheese ((tasty, cheddar, gruyere, Monterey Jack))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion/shallot stem (, finely sliced (green party only))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prick each potato 4 times with a fork, then place them on the outer edge of the microwave turntable. Microwave on high for 8 minutes, then turn the potatoes and microwave on high for another 8 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Use a sharp knife to cut the potatoes in half. Use a spoon to scoop out the potato, leaving a thin skin about 1/2cm/ 1/6\" thick."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 4,
+      "instruction": "Spread bacon on a tray and bake for 8 minutes, or until LIGHT golden and the fat has melted."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove bacon onto a paper towel lined plate using a slotting spoon. RESERVE bacon fat on tray."
+    },
+    {
+      "order": 6,
+      "instruction": "Place potato skins upside down on the tray. Use a brush to brush the bacon fat on the tray onto the potato skin. Sprinkle with salt and pepper."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake for 15 to 20 minutes, or until the skin is quite crispy."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove baking tray from the oven and turn the potato skins over."
+    },
+    {
+      "order": 9,
+      "instruction": "Sprinkle with salt and pepper. Fill the potato skins with 2/3 of the bacon, then top with cheese."
+    },
+    {
+      "order": 10,
+      "instruction": "Top with remaining bacon."
+    },
+    {
+      "order": 11,
+      "instruction": "Bake for 10 minutes or until cheese is melted."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve with sour cream, sprinkled with scallions."
+    }
+  ]
+}

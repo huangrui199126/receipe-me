@@ -1,0 +1,132 @@
+{
+  "id": "tr_1555",
+  "title": "Simple Summer Cheese Board.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/06/Simple-Summer-Cheese-Board-1-2.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/simple-summer-cheese-board/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "cheese",
+    "fruit",
+    "mozzeralla",
+    "prosciutto"
+  ],
+  "nutrition": {
+    "calories": 324,
+    "protein": 27.0,
+    "carbs": 36.0,
+    "fat": 44.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-4  wheeles of cheese (I like one hard, one soft and one funky)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "honey and or honeycromb",
+      "emoji": "🍯",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "grilled bread or assorted crackers",
+      "emoji": "🍞",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salami",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "fresh berries and figs",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "stone fruits",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "green olives",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "marcona almonds (walnuts or pistachios)",
+      "emoji": "🥜",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "fresh mozzarella (cut into 1 inch cubes)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "thinly sliced prosciutto",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "kosher salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Remove your cheese from the fridge 1 hour prior to serving. Room temperature is best for cheese boards."
+    },
+    {
+      "order": 2,
+      "instruction": "Arrange the cheese on a large platter or cutting board. Drizzle the funky cheese with honey. Arrange the grilled bread around the cheese. Add the salami and Grilled Prosciutto Wrapped Mozzarella (below). Fill the board in with berries, stone fruits, fresh figs and green olives. Finish with nuts, sprinkle them on or around the cheese."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat your grill or a grill pan to medium-high. Oil the grate to ensure the prosciutto does not stick."
+    },
+    {
+      "order": 4,
+      "instruction": "Wrap each piece of mozzarella tightly in prosciutto. Lay the flat side down on the grill and grill for 2-3 minutes per side. Remove and sprinkle with salt + pepper. Serve on your cheese board or with fresh fruits and aged balsamic."
+    }
+  ]
+}

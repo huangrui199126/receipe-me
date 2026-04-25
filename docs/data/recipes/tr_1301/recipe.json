@@ -1,0 +1,297 @@
+{
+  "id": "tr_1301",
+  "title": "Birria Tacos",
+  "image": "https://www.recipetineats.com/tachyon/2025/09/Birria-tacos_4.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/birria-tacos/",
+  "servings": 22,
+  "prepTime": 30,
+  "cookTime": 180,
+  "tags": [
+    "birria",
+    "birria recipe",
+    "birria tacos",
+    "birria tacos recipe",
+    "quesabirria"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "25",
+      "unit": "g",
+      "name": "(0.9 oz)  guajillo chillies, dried ((~4 pieces, heaped 3/4 cup once chopped) (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "45",
+      "unit": "g",
+      "name": "(1.6 oz)  ancho chillies, dried ((~2-3 pieces, 1 cup once chopped) (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "6",
+      "unit": "g",
+      "name": "(0.2 oz)  chillies de arbol, dried ((~6 pieces, 2 tbsp once chopped) (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "chilli soaking water ((reserve after simmering))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  garlic cloves (, peeled)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 small onion (, roughly sliced (~tennis ball size))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 medium tomato (, roughly sliced (180g))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or canola oil) (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.3 kg/2.6 lb   chuck beef (, cut into 6 large pieces (or boneless beef short ribs - 1.8kg/3.6 lb bone-in) (Note 3))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "beef stock / broth (, low sodium)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "10",
+      "unit": "cloves",
+      "name": "((or 1/4 tsp ground cloves))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cinnamon stick ((substitute 1/4 tsp powder, but it's not quite the same))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  bay leaves (, preferably fresh else dried)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "apple cider vinegar ((or regular white vinegar, red or white wine vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((halve for table salt, +30% for flakes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "20 - 25  corn tortillas ((14.5cm/6&quot; wide) (Note 4))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  white onion (, diced (Note 5))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "finely chopped coriander / cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "cups",
+      "name": "(350g)  shredded Colby, Monterey Jack or (Oaxaca cheese (if you can get it) (Note 6))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges (, optional)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Your favorite salsa or hot sauce (, optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Simmer chopped chillies 10 min. Strain, blitz Adobo paste. Brown beef, cook off adobo paste, slow-cook beef 2 1/2 hrs (lid on). Remove meat, shred, skim fat off braising liquid (&quot;Birria Oil&quot;). Toss beef in skillet with 1 cup braising liquid (aka Consomme). Heat 1 tsp Birria oil over low heat, wipe pan with tortilla, remove, repeat x2 with 1/2 tsp oil each. Top tortilla with cheese, beef, onion, coriander, fold over, pan fry until crisp. Serve with Birria Consomme for dunking!"
+    },
+    {
+      "order": 2,
+      "instruction": "Use gloves if you&#39;re sensitive to working with chilli!"
+    },
+    {
+      "order": 3,
+      "instruction": "Deseed - Trim and discard stems. Cut lengthwise, remove and discard the seeds. Roughly chop into 1 - 1.5cm / 1/4&quot; pieces."
+    },
+    {
+      "order": 4,
+      "instruction": "Simmer - Put chillis in a large saucepan of boiling water. Simmer rapidly for 10 minutes to soften, until flesh is mushy (skin stays intact but softens)."
+    },
+    {
+      "order": 5,
+      "instruction": "Reserve 1/2 cup of chilli-simmering water. Drain chilli in a sieve, lightly press out residual liquid."
+    },
+    {
+      "order": 6,
+      "instruction": "Birria Adobo (paste) - Place cooked chillies, reserved 1/2 cup chilli water and remaining Adobo ingredients in a tall jug large enough to fit the head of a stick blender. Blitz for 20 seconds until as smooth as possible (it&#39;s not completely smooth, see video). You can also do this in a small food processor, NutriBullet or blender (Note 7)."
+    },
+    {
+      "order": 7,
+      "instruction": "Sear beef - Heat the oil in a large heavy based pot over high heat (I use my 24cm / 9.6&quot; dutch oven). Add half the beef and sear each side aggressively until it&#39;s dark golden brown (about 1 - 1 1/2 minutes each side). Remove to a bowl and repeat with remaining beef."
+    },
+    {
+      "order": 8,
+      "instruction": "Cook off Adobo - Add the paste to same pan and stir for 2 minutes in oil (lower heat if spitting aggressively)."
+    },
+    {
+      "order": 9,
+      "instruction": "Slow cook 2 1/2 hours - Add all Birria braising ingredients, stir, then add the beef. Bring to a boil then lower heat until it&#39;s simmering very gently (small gentle bubbles every now and then). Cover with a lid and cook for 2 1/2 hours, or until beef shreds easily (short ribs take 3 - 3.5 hrs). (Note 8 for slow cooker)"
+    },
+    {
+      "order": 10,
+      "instruction": "Shred - Remove the beef to a clean pan and shred well. Add the 1/2 teaspoon of salt and toss meat to distribute."
+    },
+    {
+      "order": 11,
+      "instruction": "Birria oil - Skim off as much of the red oil floating on braising liquid surface as possible (ideally 6 tbsp+) and place in a separate bowl (this is the &quot;Birria Oil&quot;). Precious stuff!"
+    },
+    {
+      "order": 12,
+      "instruction": "Soak beef - Pour 1 cup of the braising liquid (&quot;Birria Consommé&quot;) into a large non-stick pan over medium-high heat. Let it simmer for 15 seconds, then add all the beef and toss in the sauce until it&#39;s all absorbed by the beef, there should be almost none pooled in the pan. Move beef back into the shredding pan, scraping the non-stick pan clean."
+    },
+    {
+      "order": 13,
+      "instruction": "Birria Consommé - Taste and check for salt, add more if needed. It should be on the slightly salty side (because it&#39;s used for dipping) but not too salty to drink a small cup like soup. Keep warm to use for dipping once tacos are done."
+    },
+    {
+      "order": 14,
+      "instruction": "Red tortillas - Heat 1 teaspoon Birria Oil in the same non-stick pan over medium-low heat. Put a tortilla in and &quot;wipe&quot; around to make the underside red. Once the tortilla is soft (no need to flip) - about 10 seconds - remove to a work surface red side down. Repeat twice more, heating 1/2 teaspoon Birria Oil for each tortilla."
+    },
+    {
+      "order": 15,
+      "instruction": "Stuff - Spread cheese on half of each tortilla, top with beef, then onion and coriander/cilantro."
+    },
+    {
+      "order": 16,
+      "instruction": "Crisp! Fold over then pan-fry 3 Birria Tacos at a time (in the same pan) over medium-high heat for 2 minutes on each side, until golden-red and crispy."
+    },
+    {
+      "order": 17,
+      "instruction": "Serve - Remove and serve while hot with the Birria Consommé for dunking! (Drink leftover consommé, it might be the best soup broth you have this year)."
+    }
+  ]
+}

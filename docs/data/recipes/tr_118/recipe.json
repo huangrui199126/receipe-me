@@ -1,0 +1,171 @@
+{
+  "id": "tr_118",
+  "title": "Slow Cooker Beef and Broccoli",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/Slow-Cooker-Beef-Broccoli-2-450x450-1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/slow-cooker-beef-broccoli/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 180,
+  "tags": [],
+  "nutrition": {
+    "calories": 354,
+    "protein": 20.0,
+    "carbs": 14.2,
+    "fat": 24.6
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 16 oz   chuck steak or other beef cut suitable for slow cooking",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 16 oz   broccoli florets ((about 6 cups, 1 giant broccoli or 2 medium))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "corn flour ((corn starch))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water ((see note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely sliced fresh ginger ((note 1))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "soy sauce ((normal dark soy sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "Chinese cooking wine (rice wine) or dry sherry ((note 5))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  dashes white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the beef into thin slices against the grain (which means at 90 degrees to the direction of the fibres in the meat)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place beef in slow cooker."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix the corn flour with the water, then add to the slow cooker."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the Sauce ingredients to the slow cooker."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook on HIGH for 3 hours (or pressure cook on high for 40 minutes)."
+    },
+    {
+      "order": 6,
+      "instruction": "Steam or boil broccoli until \"tender crisp\" (just cooked, still bright green and still crisp)."
+    },
+    {
+      "order": 7,
+      "instruction": "Add to beef and sauce, toss to combine. Serve over rice."
+    },
+    {
+      "order": 8,
+      "instruction": "Let the beef and sauce cool."
+    },
+    {
+      "order": 9,
+      "instruction": "Meanwhile, blanch the broccoli very briefly, then run under cold water or plunge into ice water to stop from cooking further."
+    },
+    {
+      "order": 10,
+      "instruction": "Drain broccoli, then combine with the beef and sauce."
+    },
+    {
+      "order": 11,
+      "instruction": "Place into ziplock bags or airtight containers and freeze or refrigerate."
+    },
+    {
+      "order": 12,
+      "instruction": "To cook, thaw then reheat in the microwave, covered. Be careful not to heat for too long because otherwise the broccoli will overcook."
+    },
+    {
+      "order": 13,
+      "instruction": "Serve with rice."
+    }
+  ]
+}

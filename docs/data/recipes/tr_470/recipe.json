@@ -1,0 +1,70 @@
+{
+  "id": "tr_470",
+  "title": "Espresso Martini",
+  "image": "https://www.recipetineats.com/tachyon/2019/09/Espresso-Martini_2.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/espresso-martini/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "coffee cocktail",
+    "espresso martini"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 1.0,
+    "carbs": 10.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "40",
+      "unit": "ml",
+      "name": "/ 1 1/3oz  Vodka",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "20",
+      "unit": "ml",
+      "name": "(2/3 oz)  Kahlua",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "20",
+      "unit": "ml",
+      "name": "(2/3 oz)  espresso coffee (, cooled)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  coffee beans (, garnish)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the vodka, kahlua and espresso in a cocktail shaker with ice."
+    },
+    {
+      "order": 2,
+      "instruction": "Shake vigorously 10 times, then pour briskly into a cocktail glass. (Scrape out foam inside if necessary)"
+    },
+    {
+      "order": 3,
+      "instruction": "Garnish wtih 3 coffee beans and serve immediately."
+    }
+  ]
+}

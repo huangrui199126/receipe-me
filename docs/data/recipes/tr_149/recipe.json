@@ -1,0 +1,83 @@
+{
+  "id": "tr_149",
+  "title": "Cinnamon Sugar Tortilla Crisps",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/DSC_0091-680x680-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cinnamon-sugar-tortilla-crisps/",
+  "servings": 48,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 9,
+    "protein": 0.1,
+    "carbs": 1.2,
+    "fat": 0.5
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3   tortillas",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "butter (, spreadable)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 350F/180C."
+    },
+    {
+      "order": 2,
+      "instruction": "Spread butter onto each tortilla, like you are buttering toast. Alternatively, melt the butter and brush onto tortillas."
+    },
+    {
+      "order": 3,
+      "instruction": "Sprinkle generously with cinnamon sugar."
+    },
+    {
+      "order": 4,
+      "instruction": "Stack the tortillas, then cut into strips, or triangles."
+    },
+    {
+      "order": 5,
+      "instruction": "Spread in a single layer on a baking tray (3 tortillas should almost perfectly fit)."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake for 5 to 8 minutes until golden and crisp."
+    },
+    {
+      "order": 7,
+      "instruction": "Eat warm or at room temperature."
+    }
+  ]
+}

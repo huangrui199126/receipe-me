@@ -1,0 +1,168 @@
+{
+  "id": "tr_698",
+  "title": "One Pot Pasta Bolognese",
+  "image": "https://www.recipetineats.com/tachyon/2020/09/One-Pot-Pasta-Bolognese_6-SQ.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pot-pasta-bolognese/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "bologese sauce",
+    "meat sauce",
+    "one pot pasta",
+    "spagetti bolognese"
+  ],
+  "nutrition": {
+    "calories": 552,
+    "protein": 35.0,
+    "carbs": 71.0,
+    "fat": 14.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  beef mince (ground beef) (, I use lean)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 24.5 oz  tomato passata (tomato puree) ((Note 1))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "beef broth ((or stock cubes + water, Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Italian mixed herbs ((options, see Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4 - 1/2 tsp chilli flakes (red pepper flakes) (, adjust to taste)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Worcestershire Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "/ 12 oz  spaghetti (, uncooked (other pasta - Note 4))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Saute onion &amp; garlic: Heat oil in a large pot over high heat. Cook garlic and onion for 2 minutes until translucent."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook beef: Add beef and cook, breaking it up as you go."
+    },
+    {
+      "order": 3,
+      "instruction": "Add tomato: Once beef has all changed from red to brown, add tomato passata."
+    },
+    {
+      "order": 4,
+      "instruction": "Rinse out bottle: Pour some beef stock into the empty bottle, shake, then pour into the pot."
+    },
+    {
+      "order": 5,
+      "instruction": "Add everything else: Add remaining beef stock and all remaining ingredients except spaghetti. Give it a good stir, then let it come up to the boil."
+    },
+    {
+      "order": 6,
+      "instruction": "Add spaghetti: Add pasta, fanning it out around the pot. Leave for 30 seconds to start softening, then start pushing it in under the liquid."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook pasta: Once fully submerged, cook for 12 minutes, stirring every minute or so, and more towards the end. At about the 8 minute mark, lower the heat to medium otherwise the base might catch (but ensure it is still bubbling gently - you don&#039;t want pasta just bloating in warm water)."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove from stove, toss well: Take it off the stove once the pasta is JUST cooked, the tiniest bit firmer than you want, and when still saucy. Toss it for about 30 seconds or so - the sauce will reduce further, the pasta will finish cooking."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve immediately, garnished with parmesan."
+    }
+  ]
+}

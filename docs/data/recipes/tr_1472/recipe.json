@@ -1,0 +1,115 @@
+{
+  "id": "tr_1472",
+  "title": "Rainbow Frozen Yogurt Pops",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2017/05/Rainbow-Frozen-Yogurt-Pops-1.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/rainbow-frozen-yogurt-pops/",
+  "servings": 18,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "frozen pops",
+    "fruit snack",
+    "yogurt snack"
+  ],
+  "nutrition": {
+    "calories": 236,
+    "protein": 6.0,
+    "carbs": 26.0,
+    "fat": 5.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "plain greek yogurt ((full fat works best))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "fresh or frozen fruit (strawberries, blackberries, blueberries, raspberries, bananas, pineapple, mangos, kiwi)",
+      "emoji": "🍎",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "plain Cheerios",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "rolled oats",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "peanuts, roughly chopped",
+      "emoji": "🫛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "coconut oil or butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "1. In a blender, combine 1 cup of yogurt, 1 tablespoon honey, 1/4 teaspoon vanilla, and 1 cup of fruit, blend until smooth and creamy. Repeat this process with the remaining yogurt and fruit to create your desired rainbow colors.&nbsp;2.&nbsp;To assemble, layer the granola (recipe follows) and yogurt evenly among 16 popsicles molds or paper dixie cups, creating layers with the colors of yogurt, if desired. Insert popsicles sticks and then cover the tops and freeze until firm, about 4 hours. To remove the popsicles run the mold under hot water for 10 seconds and then pull the popsicles out of the molds. Store in the freezer."
+    },
+    {
+      "order": 2,
+      "instruction": "1. Preheat the oven to 350 degrees F. Line a baking sheet with parchment paper.2. On the baking sheet, combine the Cheerios, oats and nuts. In a small saucepan, melt together the honey and coconut oil or butter. Remove from the heat and stir in the vanilla. Pour the mix over the Cheerios and toss to combine. Place in the oven and bake for 10 minutes, toss and bake another 10 minutes or until the oats are golden. Remove and let cool."
+    }
+  ]
+}

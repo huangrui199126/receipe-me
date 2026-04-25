@@ -1,0 +1,154 @@
+{
+  "id": "tr_1058",
+  "title": "Asian Mushroom Ramen Noodles",
+  "image": "https://www.recipetineats.com/tachyon/2019/03/Mushroom-Ramen-Noodles_3.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/asian-mushroom-ramen-noodle-recipe/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "asian mushroom noodles",
+    "asian mushrooms"
+  ],
+  "nutrition": {
+    "calories": 289,
+    "protein": 8.0,
+    "carbs": 34.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  packets ramen or other instant noodles (, uncooked, discard seasoning (Note 1))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or other neutral flavoured oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz   mushrooms (, sliced (any type))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil ((or more oil) (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  green onion stems ((shallots/scallions))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "(315 ml)   water, plus more as needed",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dark soy sauce ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Oyster sauce ((or Hoisin, Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Hoisin sauce ((or more Oyster sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "mirin ((Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Sauce ingredients in a small bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut green onion into 5cm/2\" lengths. Separate white/pale green part from green part."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a large skillet over high heat.&nbsp;Add mushrooms and cook for 3 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the garlic and sesame oil, cook until mushrooms and garlic are golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Add Sauce, give it a quick stir. Add white part of green onions. Cook 1 minute until mushrooms are caramelised."
+    },
+    {
+      "order": 6,
+      "instruction": "Push mushrooms to the side to make a big well in the centre."
+    },
+    {
+      "order": 7,
+      "instruction": "Add water then squidge noodle cakes in."
+    },
+    {
+      "order": 8,
+      "instruction": "Cook 45 seconds, then flip. Cook 30 seconds then break up the noodles."
+    },
+    {
+      "order": 9,
+      "instruction": "Add green part of green onions and toss well, adding more water if needed to make it saucy."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve immediately!"
+    }
+  ]
+}

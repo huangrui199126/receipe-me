@@ -1,0 +1,151 @@
+{
+  "id": "tr_46",
+  "title": "Chicken and Spinach Strata (Bread Bake)",
+  "image": "https://www.recipetineats.com/tachyon/2014/08/Chicken-Spinach-Strata-Baking-Dish-1-1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-spinach-bread-bake-strata/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 470,
+    "protein": 37.3,
+    "carbs": 34.1,
+    "fat": 20.9
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "7",
+      "unit": "cups",
+      "name": "french bread (, cut into 2 cm / 1 inch cubes)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "grated cheese ((any melting cheese is fine - tasty, cheddar, mozzarella))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   frozen spinach ((2 packets, chopped))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded or diced chicken (, or any other cooked protein, ham or bacon)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley (, finely chopped (garnish - optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "grated parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Defrost the spinach in the microwave (4 minutes on high), then squeeze out excess water."
+    },
+    {
+      "order": 2,
+      "instruction": "Make Egg mixture: Place ingredients into a bowl and whisk until combined."
+    },
+    {
+      "order": 3,
+      "instruction": "Spread half the bread into the base of a baking dish 25cm x 25cm (10\" x 10\")."
+    },
+    {
+      "order": 4,
+      "instruction": "Layer with the spinach, then chicken then top with half the cheese."
+    },
+    {
+      "order": 5,
+      "instruction": "Top with remaining bread. Squish the bread down to compress (this helps the egg mixture to be soaked up evenly)."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour over egg mixture - try to cover all the bread evenly."
+    },
+    {
+      "order": 7,
+      "instruction": "Top with remaining cheese, then squish down to help the bread soak up the egg mixture."
+    },
+    {
+      "order": 8,
+      "instruction": "Set aside for at least 15 minutes, preferably 30 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "To freeze: Cover tightly and place in freezer. Defrost completely before cooking."
+    },
+    {
+      "order": 10,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 11,
+      "instruction": "Cover baking dish with foil and bake for 20 minutes. Remove foil, then bake for a further 10 minutes until golden on top."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve immediately, sprinkled with parsley if desired."
+    }
+  ]
+}

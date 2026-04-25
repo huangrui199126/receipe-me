@@ -1,0 +1,115 @@
+{
+  "id": "tr_1641",
+  "title": "Pomegranate and Peppermint Moscow Mules.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/12/Pomegranate-and-Peppermint-Moscow-Mules-VIDEO-1.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/pomegranate-peppermint-moscow-mules-video/",
+  "servings": 1,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "moscow muie",
+    "peppermint",
+    "pomegranate"
+  ],
+  "nutrition": {
+    "calories": 516,
+    "protein": 1.0,
+    "carbs": 90.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "crushed ice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "ginger beer",
+      "emoji": "🍺",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "pomegranate juice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 ounces vodka (depending on your taste)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fresh lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "pomegranate arils (for topping)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "candied mint (for garnish (recipe below))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh mint leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Fill your glass with ice. Add the ginger beer, pomegranate juice, vodka and lime juice. Stir to combine. Garnish with pomegranate arils and candied mint. DRINK."
+    },
+    {
+      "order": 2,
+      "instruction": "Gently dip each mint leave in water and then cover in sugar. Place on a wax paper lined cookie sheet. Repeat with the remaining leaves. Allow the leaves to dry 3-6 hours at room temperature. The mint can be made 1 day ahead and stored in an airtight container at room temperature."
+    }
+  ]
+}

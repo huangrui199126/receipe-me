@@ -1,0 +1,88 @@
+{
+  "id": "tr_1039",
+  "title": "Cosmopolitan Cocktails",
+  "image": "https://www.recipetineats.com/tachyon/2019/10/Cosmopolitan-cocktail_0.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cosmopolitan-cocktails/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "cointreau cocktail",
+    "cosmopolitan cocktail",
+    "cosmos",
+    "vodka cocktail"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 1.0,
+    "carbs": 20.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "60ml/ 2 oz   Vodka ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "30ml/ 1 oz   Cointreu",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "90ml/ 3 oz   cranberry juice (, sweet (not unsweetened, Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lime juice (, fresh)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Ice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Orange peel (, optional garnish)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Fill cocktail shaker with ice."
+    },
+    {
+      "order": 2,
+      "instruction": "Add vodka, cointreau, cranberry juice and lime. Shake vigorously 10 times."
+    },
+    {
+      "order": 3,
+      "instruction": "Strain into chilled martini glass. Garnish with orange peel."
+    }
+  ]
+}

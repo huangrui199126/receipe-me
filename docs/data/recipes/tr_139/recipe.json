@@ -1,0 +1,167 @@
+{
+  "id": "tr_139",
+  "title": "Italian Sausage Quiche",
+  "image": "https://www.recipetineats.com/tachyon/2015/02/Italian-Sausage-Quiche-2.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/italian-sausage-quiche/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 70,
+  "tags": [],
+  "nutrition": {
+    "calories": 386,
+    "protein": 15.6,
+    "carbs": 14.9,
+    "fat": 29.4
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "sheets",
+      "name": "frozen shortcut pastry ((Note 1), thawed OR one 9\"/23cm ready made pie crust)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, diced (brown, white, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "12",
+      "unit": "oz",
+      "name": "/ 350g   Italian sausages (, casings removed)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dried Mixed Italian Herbs ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "grated cheddar cheese ((or tasty, provolone, monterey jack or any other flavoured melting cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "cherry tomatoes (, halved and seeds scooped out)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Lightly spray a 9\"/23cm quiche flan or pie dish with oil."
+    },
+    {
+      "order": 3,
+      "instruction": "Line with the pastry, trimming the excess. Use the extra 1/2 sheet to fill in any gaps as 1 sheet of pastry is slightly too small for a standard flan. Press to seal well."
+    },
+    {
+      "order": 4,
+      "instruction": "Cover pastry with parchment (baking) paper, then fill with raw rice or dried beans to weigh it down."
+    },
+    {
+      "order": 5,
+      "instruction": "Place in the oven and bake for 20 minutes, then remove parchment paper and rice/beans. Return to the oven for a further 10 minutes until golden. Remove from oven."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat oil in a fry pan over high heat. Add the garlic and onions and sauté for 2 minutes. Then add the sausage and cook, using a spatula to break it up into pieces. Cook until the sausage is browned, then remove the pan from the stove (sausage can stay in the pan)."
+    },
+    {
+      "order": 7,
+      "instruction": "Whisk the eggs, milk, herbs, salt and pepper in a bowl until combined."
+    },
+    {
+      "order": 8,
+      "instruction": "Scatter half the cheese in the pie crust, then most of the sausage mixture. Pour over the egg mixture, top with remaining cheese and sausage. Then gently place the cherry tomatoes on the surface (cut side down)."
+    },
+    {
+      "order": 9,
+      "instruction": "Carefully transfer to the oven. Bake for 40 minutes until golden brown on top and the filling has set."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove from the oven and let rest for 10 minutes before serving."
+    }
+  ]
+}

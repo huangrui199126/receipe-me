@@ -1,0 +1,132 @@
+{
+  "id": "tr_956",
+  "title": "Gazpacho",
+  "image": "https://www.recipetineats.com/tachyon/2023/01/Gazpacho_3.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/gazpacho/",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "cold soup",
+    "gazpacho",
+    "summer food",
+    "tomato soup"
+  ],
+  "nutrition": {
+    "calories": 189,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb  ripe tomatoes ((~7), cut into 8 wedges, core removed)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cucumber (20cm/8&quot; long) (, peeled and diced into 1cm / 1/2&quot; cubes)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red capsicum/bell pepper (, cut into 1.5 cm / 1/2\" cubes)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "red onion (, finely diced (Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "extra virgin olive oil (, + extra for serving)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "sherry vinegar ((sub white wine or champagne vinegar))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crusty bread",
+      "emoji": "🍞",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cucumber (, cut into small cubes (optional))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinate - Toss all the gazpacho ingredients together in a large bowl. Cover then set aside to marinate, preferably 12 to 24 hours, or at least 3 hours. (Note 3)"
+    },
+    {
+      "order": 2,
+      "instruction": "Blitz - Transfer everything into a blender and blitz on high until smooth. (Or use a tall jug with a hand blender). For 100% perfectly smooth, pass through a fine mesh strainer or food mill and discard solids (Note 2)"
+    },
+    {
+      "order": 3,
+      "instruction": "Serve - Pour into a bowl. Rest for 15 minutes to let the bubbles subside. Stir, then ladle into bowls."
+    },
+    {
+      "order": 4,
+      "instruction": "Garnish - Top with diced cucumber, if using, and a swish of olive oil. Serve with crusty bread!"
+    }
+  ]
+}

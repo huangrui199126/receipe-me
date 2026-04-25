@@ -1,0 +1,177 @@
+{
+  "id": "tr_1680",
+  "title": "Chocolate Chip Banana Bread French Toast Muffins with Cinnamon Streusel.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/09/Chocolate-Chip-Banana-Bread-French-Toast-Muffins-with-Cinnamon-Streusel-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/chocolate-chip-banana-bread-french-toast-muffins-with-cinnamon-streusel/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [
+    "banana bread",
+    "chocolate",
+    "cinnamon",
+    "french toast",
+    "muffins"
+  ],
+  "nutrition": {
+    "calories": 187,
+    "protein": 15.0,
+    "carbs": 88.0,
+    "fat": 36.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  large eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  very ripe bananas (mashed)",
+      "emoji": "🍌",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoons",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "ground flax seed meal (optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8-10 cups cubed [Challah Bread | https://www.halfbakedharvest.com/simple-whole-wheat-challah-bread/]",
+      "emoji": "🍞",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "semi-sweet or dark chocolate chips (optional)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "pure maple syrup (butter + bananas, for serving)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "butter (cut into cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "walnuts (chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Grease a 12 cup muffin tin with cooking spray, butter or canola oil."
+    },
+    {
+      "order": 2,
+      "instruction": "In a medium bowl, whisk together the milk, eggs, mashed bananas (I just mash mine with a fork in the bowl) honey, vanilla, ground flax and cinnamon."
+    },
+    {
+      "order": 3,
+      "instruction": "To the milk/egg mixture, add the cubed challah bread and the chocolate chips. Gently toss to coat, being careful to not break up the bread cubes too much. Divide the bread among the muffin cups, pouring any remaining milk/egg mixture left in the bowl over the muffins."
+    },
+    {
+      "order": 4,
+      "instruction": "Cover the muffins with plastic wrap and refrigerate for 30 minutes or up to overnight."
+    },
+    {
+      "order": 5,
+      "instruction": "When ready to bake, preheat the oven to 350 degrees F. and remove the muffins from the fridge. Let sit at room temp."
+    },
+    {
+      "order": 6,
+      "instruction": "While the oven preheats make the streusel, in a small bowl, combine butter, brown sugar, flour, cinnamon, and walnuts. Mix together with your hands, until you have a crumbly mixture. Remove the muffins from the refrigerator and sprinkle the muffins evenly with the streusel topping."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake for 25-35 minutes or until tops are golden brown. Let the muffins cool for 5 minutes. Use a butter knife to loosen the edges and then pop them out. Serve with maple syrup, butter and bananas if desired."
+    }
+  ]
+}

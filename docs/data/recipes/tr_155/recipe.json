@@ -1,0 +1,79 @@
+{
+  "id": "tr_155",
+  "title": "Pomegranate Molasses Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/Pomegranate-Molasses-Dressing-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pomegranate-molasses-dressing/",
+  "servings": 4,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "pomegranate molasses",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "red wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Dijon mustard ((or English mustard, not hot))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "honey ((or 2 tsp sugar, any))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place all ingredients in a jar and shake well. Adjust salt and pepper to taste."
+    },
+    {
+      "order": 2,
+      "instruction": "Store for 3+ weeks in the fridge in an airtight container."
+    }
+  ]
+}

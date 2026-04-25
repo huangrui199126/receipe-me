@@ -1,0 +1,240 @@
+{
+  "id": "tr_278",
+  "title": "Easy slow cooker BBQ pulled pork",
+  "image": "https://www.recipetineats.com/tachyon/2019/11/Close-up-of-pulled-pork-with-BBQ-Sauce.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pulled-pork-with-bbq-sauce/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 600,
+  "tags": [
+    "bbq pulled pork",
+    "pork butt recipe",
+    "pork shoulder recipe",
+    "pulled porkl"
+  ],
+  "nutrition": {
+    "calories": 416,
+    "protein": 36.9,
+    "carbs": 37.6,
+    "fat": 11.3
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3.5-4.5kg/ 5-7lb   pork butt / pork shoulder (, bone in, fat cap on (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "beer (, apple cider or apple juice (Note 2))",
+      "emoji": "🍺",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "paprika powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "apple cider vinegar ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "tomato ketchup ((or Aussie tomato sauce))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water ((or use remaining beer!))",
+      "emoji": "🍺",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "molasses (, orginal (not blackstrap, Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Tabasco ( or cayenne pepper (optional, for spiciness))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 20
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix the Rub together, then rub all over the pork."
+    },
+    {
+      "order": 2,
+      "instruction": "Place in a slow cooker, pour over beer. Slow cook on low for 10 hours. Pork should be tender enough to easily shred."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 180°C / 350°F."
+    },
+    {
+      "order": 4,
+      "instruction": "Transfer from slow cooker into a roasting pan (reserve liquid)."
+    },
+    {
+      "order": 5,
+      "instruction": "Scoop fat off surface of juices in slow cooker and drizzle over pork (about 1/3 cup), then roast pork for 20 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from oven, cut thick layer of fat off top and discard. Spoon over 1/4 cup fat from slow cooker juices, then roast 15 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Shred pork using 2 forks. Pour over BBQ sauce, toss gently."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve stuffed in sliders with Coleslaw, or make a Southern dinner plate with Coleslaw, Mac and Cheese, Corn bread, steamed corn &amp; green beans tossed in butter, with Margaritas to quench your thirst!"
+    },
+    {
+      "order": 9,
+      "instruction": "Place all ingredients in a saucepan and simmer over medium heat, stirring occasionally, for 45 minutes or until thickened."
+    },
+    {
+      "order": 10,
+      "instruction": "Add 3/4 - 1 cup of juices from slow cooker until sauce is syrup consistency."
+    },
+    {
+      "order": 11,
+      "instruction": "Adjust to taste: sweetness with brown sugar / honey, salt and sour with vinegar. Use per recipe."
+    }
+  ]
+}

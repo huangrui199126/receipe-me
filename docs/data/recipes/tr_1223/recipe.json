@@ -1,0 +1,118 @@
+{
+  "id": "tr_1223",
+  "title": "Blood Orange Salad",
+  "image": "https://www.recipetineats.com/tachyon/2021/08/Blood-Orange-Salad-SQ.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/blood-orange-salad/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 0,
+  "tags": [
+    "blood orange salad",
+    "orange salad"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  red onion (, finely sliced or shaved using mandolin 1 mm thick (~1/2 cup))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "white wine vinegar ((for pickling and dressing))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "kosher / cooking salt ((Note 3))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  blood oranges ((Note 1))",
+      "emoji": "🍊",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  fennel (, medium, finely sliced or shaved using mandolin 1 mm (4 packed cups, Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "parsley leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Lightly pickle onion: Mix sugar and vinegar, then add onion and set aside for 15 minutes to lightly pickle (vinegar should just about cover onion). Drain, reserve pickling vinegar."
+    },
+    {
+      "order": 2,
+      "instruction": "Slice oranges, reserve juice: Cut rind from oranges, then slice into rounds. Reserve all juice on cutting board - you want around 2 teaspoons (if you’re short, sacrifice a slice or two)."
+    },
+    {
+      "order": 3,
+      "instruction": "Blood Orange Drizzle Dressing: Measure out 2 tsp pickling vinegar, shake/whisk with the reserved 2 tsp juice, 2 tbsp EVOO with a pinch of salt and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Lightly dress fennel: Toss fennel in 1 tbsp onion pickling juice, remaining 2 tbsp olive oil, 1/4 tsp salt and 1/8 tsp pepper."
+    },
+    {
+      "order": 5,
+      "instruction": "Assembling: Place 1/2 orange rounds on plate. Pile over 2/3 the fennel, litter with onion, parsley, place half remaining orange slices on top. Top with remaining fennel, oranges then onion. Sprinkle with parsley leaves. Just before serving, drizzle over the Blood Orange Dressing, mainly on the oranges so it doesn’t stain the fennel too much. Serve immediately!"
+    }
+  ]
+}

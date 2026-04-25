@@ -1,0 +1,158 @@
+{
+  "id": "tr_340",
+  "title": "Pavlova!!",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/Pavlova-4-copy.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pavlova-recipe/",
+  "servings": 10,
+  "prepTime": 10,
+  "cookTime": 90,
+  "tags": [
+    "pavlova",
+    "pavlova recipe"
+  ],
+  "nutrition": {
+    "calories": 86,
+    "protein": 1.0,
+    "carbs": 20.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "150",
+      "unit": "ml",
+      "name": "/ 5 oz  egg whites ((4-5 eggs fridge cold eggs) (Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "caster sugar ((superfine sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornflour / cornstarch, sifted",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "thickened cream / heavy cream (any whipping cream)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "caster sugar (superfine sugar)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract or essence",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fruit of choice. I used: raspberries, blueberries, strawberries and cherries.",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Separate the whites and yolks while eggs are cold. Measure 150 ml/5oz egg whites (just shy of 2/3 cup, 140 - 160ml is ok)."
+    },
+    {
+      "order": 2,
+      "instruction": "Set whites aside to come to room temperature."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 170°C/340°F (180°C fan-forced)."
+    },
+    {
+      "order": 4,
+      "instruction": "Place whites in a bowl. Use a stand mixer (I use speed 7) or handheld beater (high) and beat until soft peaks form (Note 2)"
+    },
+    {
+      "order": 5,
+      "instruction": "Add sugar 1 tbsp at a time, beating as you go. (Note 3)"
+    },
+    {
+      "order": 6,
+      "instruction": "After adding the sugar, beat for a further 3 minutes or until thick and glossy. Rub a little of the fluff between your fingers, there should be no sugar grit - that means it is ready."
+    },
+    {
+      "order": 7,
+      "instruction": "Add cornflour and vinegar, beat on low for 5 - 7 seconds (or fold through with spatula) until just mixed through."
+    },
+    {
+      "order": 8,
+      "instruction": "Get the base of a springform cake pan (24cm/9.5\" or larger) and turn it upside down. Dab meringue on the edge and place a piece of baking paper (parchment paper) on top."
+    },
+    {
+      "order": 9,
+      "instruction": "Gently place half the fluff onto the paper. Use the cake pan as a guide to make it round and coax it into a circle shape around 20cm / 8\" in diameter (Note 5)."
+    },
+    {
+      "order": 10,
+      "instruction": "Carefully scoop out the remaining fluff. Now coax it into a dome shape (not a cake with straight smooth sides) with edges sloping in slightly. Flatten top. Make it 4-5cm / 2 \" high - not much higher. (Note 5). See video / photos in post. It will rise/expand."
+    },
+    {
+      "order": 11,
+      "instruction": "Transfer to baking tray. CAREFULLY place in the oven, GENTLY close the door and turn oven DOWN to 115°C/240°F (100°C fan)."
+    },
+    {
+      "order": 12,
+      "instruction": "Bake for 1 1/2 hours - no peeking, no thundering through kitchen! (Note 6)"
+    },
+    {
+      "order": 13,
+      "instruction": "Turn oven off, leave the door closed and leave Pav in the oven overnight to cool (I've done 18 hours)."
+    },
+    {
+      "order": 14,
+      "instruction": "Transfer Pav to serving platter then slide cake pan out from underneath. Use butter knife if required to loosen edges from paper, then slide paper out from underneath."
+    },
+    {
+      "order": 15,
+      "instruction": "Just before serving, top with cream and fruit of choice."
+    },
+    {
+      "order": 16,
+      "instruction": "Serve and be a rock star!"
+    },
+    {
+      "order": 17,
+      "instruction": "Place cream, sugar and vanilla in a bowl. Beat cream until it is thickened and just holds its shape - don't overbeat, it should be silky smooth, not speckled with bubbles and stiff."
+    }
+  ]
+}

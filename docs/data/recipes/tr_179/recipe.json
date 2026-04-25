@@ -1,0 +1,83 @@
+{
+  "id": "tr_179",
+  "title": "Cinnamon Sugar Bread Crust Treats",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/Cinnamon-Sugar-Breadcrust-Treats-2-450x450.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cinnamon-sugar-bread-crust-treats/",
+  "servings": 6,
+  "prepTime": 2,
+  "cookTime": 8,
+  "tags": [],
+  "nutrition": {
+    "calories": 158,
+    "protein": 1.5,
+    "carbs": 19.4,
+    "fat": 8.7
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "cups",
+      "name": "bread crusts ((enough to spread out over 2 baking trays), preferably stale)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 2 oz / 4 tbsp   butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "sugar ((separate 1 tbsp))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut crusts into 3cm/1.5\" pieces."
+    },
+    {
+      "order": 3,
+      "instruction": "Place bread crusts in a large bowl. Drizzle over butter, tossing the bread crusts as you go (with your other hand) to evenly distribute as best as possible."
+    },
+    {
+      "order": 4,
+      "instruction": "Sprinkle over 4 tbsp of sugar and cinnamon, and toss through."
+    },
+    {
+      "order": 5,
+      "instruction": "Spread out over 2 baking trays."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake for 5 to 8 minutes until golden brown and crunchy (check the ones in the middle of the tray). The tray on the top shelf will be ready first. The bottom tray will take a couple of minutes longer."
+    },
+    {
+      "order": 7,
+      "instruction": "While hot, sprinkle over the remaining 1 tbsp of sugar (1/2 tbsp over each tray). This is mainly for appearance purpose."
+    }
+  ]
+}

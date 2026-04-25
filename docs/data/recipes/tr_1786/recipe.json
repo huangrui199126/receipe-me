@@ -1,0 +1,95 @@
+{
+  "id": "tr_1786",
+  "title": "10-Minute Creamy, Buttery Herbed Bucatini.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/03/10-Minute-Creamy-Buttery-Herbed-Bucatini-9.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/10-minute-creamy-buttery-herbed-bucatini/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "bucatini",
+    "herb",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 345,
+    "protein": 17.0,
+    "carbs": 57.0,
+    "fat": 21.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "bucatini pasta (or your favorite cut (I also LOVE angel hair for this))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "fresh parsley (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh basil (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "freshly grated parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "butter (cubed or melted (I use salted butter), 8 tablespoons)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and freshly ground black pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a large pot of salted water to boil. Boil the pasta until al dente."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, whisk the eggs together in a bowl. Add the parsley, basil, parmesan and a pinch of both salt and pepper, whisk well."
+    },
+    {
+      "order": 3,
+      "instruction": "When the pasta is ready, drain and add the hot pasta right back into the hot pot. Working quickly, add the egg mixture to the hot pasta and immediately begin tossing the pasta. Continue to toss the pasta for 2-3 minutes or until the eggs have cooked and formed a creamy sauce. Add the butter and toss once more. Taste and season with salt and pepper. Enjoy immediately."
+    }
+  ]
+}

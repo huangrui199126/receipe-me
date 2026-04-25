@@ -1,0 +1,267 @@
+{
+  "id": "tr_122",
+  "title": "Sticky Chicken With Vegetable Fried Rice",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/Sticky-Chinese-Chicken-Fried-Rice-1-450x450-1.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sticky-chicken-vegetable-fried-rice/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 421,
+    "protein": 23.5,
+    "carbs": 59.0,
+    "fat": 10.2
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "(8oz)  chicken thigh fillets (, sliced into 1cm/1/3\" slices)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato sauce",
+      "emoji": "🍅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "honey ((or substitute with 1 tbsp brown sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "fresh ginger (, minced or finely chopped)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sriracha ((or other hot sauce) (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "long grain rice (, uncooked (see notes))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "cooked rice ((see notes))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  brown or white onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, peeled and smashed (see notes))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (, diced)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "frozen peas (, thawed)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "baby corn (, cut into 1cm/1/3\" slices (or canned or frozen corn) (see notes))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  bok choys",
+      "emoji": "🥬",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "peanut oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine ((shao hsing wine) or dry sherry)",
+      "emoji": "🍷",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "chicken stock powder or crumbled bouillon cube (, or 1/2 tsp salt)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  shallot/scallion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame seeds ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine Chicken and Marinade ingredients in a bowl and mix to coat. Either set aside for 20 minutes or put it in a ziplock bag and place in the freezer until required."
+    },
+    {
+      "order": 2,
+      "instruction": "Place rice and water in a medium saucepan. Bring to boil, then turn down heat to low and simmer until all the water is absorbed (8 to 10 minutes). Remove from heat and allow to rest for 10 minutes. Remove lid and allow to cool. Divide into two freezer bags - about 1 1/2 cups per bag. You will only use one bag for the meal. Then place in ziplock bag or container and put it in the freezer."
+    },
+    {
+      "order": 3,
+      "instruction": "If you want to go the extra step, you could also cut and measure out the carrots, peas and corn and put them in a freezer bag too. I tend not to bother because this does not take long to do and also, you need to cut the onion fresh anyway."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove chicken and rice from the freezer and allow to defrost."
+    },
+    {
+      "order": 5,
+      "instruction": "Cut the stems off the leaves of the bok choy. Cut the stems vertically into 1cm/1/3\" thick sticks."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat wok or fry pan over high heat. Add sesame seeds and toast for 15 seconds, then remove."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat 1 tbsp oil in wok, add garlic and stir fry for 20 seconds to flavour the oil. Remove garlic and discard."
+    },
+    {
+      "order": 8,
+      "instruction": "Add onion and stir fry for 30 seconds."
+    },
+    {
+      "order": 9,
+      "instruction": "Add carrot, peas and corn and stir fry for another 30 seconds."
+    },
+    {
+      "order": 10,
+      "instruction": "Add the bok choy stems, cook for 30 seconds."
+    },
+    {
+      "order": 11,
+      "instruction": "Add the rice, cooking wine, soy sauce and stock powder and stir fry for another 30 seconds."
+    },
+    {
+      "order": 12,
+      "instruction": "Remove wok from heat, then add the bok choy leaves and stir quickly to mix them into the rice. Remove fried rice from wok into large bowl."
+    },
+    {
+      "order": 13,
+      "instruction": "Add 1/2 tbsp oil to wok and return to stove, still on high heat."
+    },
+    {
+      "order": 14,
+      "instruction": "Remove chicken from marinade (reserve marinade) and place in the wok and stir fry for 1 1/2 minutes until nicely browned but not quite cooked through. Then add the remaining marinade into the wok with 2 tbsp water and allow to cook for 30 seconds until it becomes thick and syrupy. Remove from heat."
+    },
+    {
+      "order": 15,
+      "instruction": "Place fried rice into bowls and top with the sticky chicken. Scatter with shallots/scallions and sesame seeds."
+    }
+  ]
+}

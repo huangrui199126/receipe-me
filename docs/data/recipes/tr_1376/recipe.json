@@ -1,0 +1,311 @@
+{
+  "id": "tr_1376",
+  "title": "Moussaka (Greek Eggplant Lasagna)",
+  "image": "https://www.recipetineats.com/tachyon/2019/03/Greek-Moussaka_3-re-edited-SQ.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/moussaka-greek-eggplant-beef-bake/",
+  "servings": 6,
+  "prepTime": 40,
+  "cookTime": 30,
+  "tags": [
+    "greek moussaka",
+    "moussaka",
+    "traditional moussaka recipe"
+  ],
+  "nutrition": {
+    "calories": 434,
+    "protein": 32.0,
+    "carbs": 20.0,
+    "fat": 24.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb  eggplant (aubergines) (,  0.75cm / 0.3\" thick slices)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, diced (brown, white, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1.4",
+      "unit": "lb",
+      "name": "/ 700 g  ground beef or lamb (mince) ((Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "red wine (, dry (optional))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "14",
+      "unit": "oz",
+      "name": "/400g   crushed tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "beef broth/stock ((Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  beef bouillon cube (, crumbled (or 1 tsp powder))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "sugar (any)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cinnamon ((or 1 stick, use whole))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "(60g)  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "plain flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "milk ((any fat %))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "nutmeg, freshly grated (optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parmesan cheese, grated ((or Kefalotiri Cheese) (Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg yolk",
+      "emoji": "🥚",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "Vegeta, vegetable or chicken stock powder ((or salt) (Note 4))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((Note 5))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 26
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place eggplant slightly overlapping in a large colander. Sprinkle with some salt. Repeat with remaining eggplant."
+    },
+    {
+      "order": 2,
+      "instruction": "Leave to sweat for 30 minutes.&nbsp;Meanwhile, make Meat Sauce and Béchamel Sauce."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 240C/450F.&nbsp;"
+    },
+    {
+      "order": 4,
+      "instruction": "Pat eggplant dry - make sure to do this well, otherwise it's too salty.&nbsp;Lay on parchment paper lined trays (you might need 3 trays, work in batches), brush with oil."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake 15 - 20 minutes or until lightly browned and softened .&nbsp;Remove and set aside to cool slightly."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat olive oil in a large skillet or pot over high heat, then cook the garlic and onion for 2 minutes.&nbsp;"
+    },
+    {
+      "order": 7,
+      "instruction": "Add the beef or lamb and cook until it changes from pink to brown, breaking it up as you go."
+    },
+    {
+      "order": 8,
+      "instruction": "Add wine, cook for 1.5 minutes or until alcohol smell is gone."
+    },
+    {
+      "order": 9,
+      "instruction": "Add remaining ingredients and stir to combine. Bring to a simmer, then lower heat to medium low and cook for 15 minutes, or until reduced to a thick sauce."
+    },
+    {
+      "order": 10,
+      "instruction": "Melt butter in a pan over medium heat. Add flour and cook for 1 minute, stirring constantly."
+    },
+    {
+      "order": 11,
+      "instruction": "Stirring constantly, slowly add the milk. Then stir regularly for 3 to 5 minutes or until it thickens so that it thickly coats the back of a wooden spoon (see video / step photos)."
+    },
+    {
+      "order": 12,
+      "instruction": "Remove from the stove and whisk in cheese, nutmeg, Vegeta/stock powder (or salt) and pepper."
+    },
+    {
+      "order": 13,
+      "instruction": "Allow to cool for 5 minutes, then whisk the eggs in. Cover with lid until required."
+    },
+    {
+      "order": 14,
+      "instruction": "Lower oven to 180C/350F (all oven types)."
+    },
+    {
+      "order": 15,
+      "instruction": "Place half the eggplant in the bottom of a baking dish (I used my 26cm/9\" Lodge skillet), then top with all the Filling."
+    },
+    {
+      "order": 16,
+      "instruction": "Top with remaining eggplant, then pour over the Béchamel Sauce, sprinkle with breadcrumbs.&nbsp;"
+    },
+    {
+      "order": 17,
+      "instruction": "Bake for 30 - 40 minutes or until golden brown. Allow to stand for 10 minutes before serving."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "tr_955",
+  "title": "Italian Pasta Salad with Homemade Italian Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2017/03/Italian-Pasta-Salad-4.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/italian-pasta-salad-with-homemade-italian-dressing/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "cold pasta salad",
+    "italian pasta salad"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "red or white wine vinegar ((I like using red))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "freshly grated parmesan cheese ((Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sugar (any)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each dried basil and oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "dried parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried chilli flakes (red pepper flakes) (optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "300g/10oz  spiral pasta, or other pasta of choice",
+      "emoji": "🍝",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "180g/6oz  thick sliced salami, cut into 2.5cm/1\" batons (see photo in post or videos) (I use spicy salami)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/7oz  baby bocconcini, halved (Note 2)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red capsicum/bell pepper, cut into 3cm/2.2cm strips",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250g/8oz  whole olives (I used Sicilian and pitted black) (Note 3)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cherry tomatoes, halved (~1.5 Australian punnets)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(tightly packed) fresh basil leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Dressing ingredients in a jar and shake well."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook pasta according to packet directions minus 1 minute. Drain in a colander and rinse under cold water to stop it cooking further. Shake excess water off well then transfer into large bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Place remaining Pasta Salad ingredients in the bowl. Drizzle over Dressing and toss. Serve at room temperature."
+    },
+    {
+      "order": 4,
+      "instruction": "SCOOP OUT a mug of pasta cooking water just before draining. Add 3 tbsp water to Dressing, shake well. Use this Dressing per above, but reserve 3 tbsp to freshen up pasta salad on Day 2 onwards."
+    },
+    {
+      "order": 5,
+      "instruction": "Freshen up pasta salad: Bring to room temp or briefly microwave (cold pasta = dry) to warm gently. Toss with Reserved Dressing then serve."
+    }
+  ]
+}

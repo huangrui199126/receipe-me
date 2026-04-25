@@ -1,0 +1,244 @@
+{
+  "id": "tr_825",
+  "title": "Vietnamese pork noodle bowls (bun thit nuong)",
+  "image": "https://www.recipetineats.com/tachyon/2023/04/Vietnamese-noodles-lemongrass-pork-2-SQ.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vietnamese-pork-noodle-bowls/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 10,
+  "tags": [
+    "vietnamese noodle bowl",
+    "vietnamese noodle salad",
+    "vietnamese noodles",
+    "vietnamese pork dish"
+  ],
+  "nutrition": {
+    "calories": 622,
+    "protein": 23.0,
+    "carbs": 94.0,
+    "fat": 18.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 batch lemongrass marinated pork ((it's marinated overnight. 8 pieces, serves 4))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/ 7oz  dried vermicelli noodles ((Note 1))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "head",
+      "name": "soft lettuce ((like butter lettuce), torn into large bite size pieces (or 4 cups shredded iceberg, cos/romaine))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  cucumbers (, halved lengthwise then sliced on the diagonal 3mm / 0.15&quot; thick)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "Handful",
+      "name": "mint leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "Handful",
+      "name": "cilantro/coriander",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "finely chopped unsalted peanuts",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced red chilli ((for garnish - optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges ((to serve - optional but recommended))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium carrots (, peeled cut into 2-3mm / 1/10″ batons )",
+      "emoji": "🥕",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  large white radish (daikon) (, peeled, cut the same as carrots)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "cooking salt (kosher salt)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "rice vinegar  ((sub apple cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "4 1/2",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "4 1/2",
+      "unit": "tbsp",
+      "name": "fish sauce ((Note 3))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "rice wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  birds eye chilli or Thai chilli (, deseeded and finely chopped (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pickle – In a large bowl, dissolve the salt and sugar in the hot water. Stir in vinegar. Add carrots and daikon – they should just about be covered."
+    },
+    {
+      "order": 2,
+      "instruction": "2 hours – Leave for 2 hours until slightly floppy. Drain well then use per recipe."
+    },
+    {
+      "order": 3,
+      "instruction": "Nuoc cham sauce - Mix ingredients together. Until sugar is dissolved."
+    },
+    {
+      "order": 4,
+      "instruction": "Vermicelli noodles - Soak in boiling water for 5 minutes (or per packet directions). Drain, rinse under tap water, then cool and drain thoroughly (nobody likes watery noodles!)."
+    },
+    {
+      "order": 5,
+      "instruction": "Toppings - Prepare all the other toppings, ready to use."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook pork per the recipe."
+    },
+    {
+      "order": 7,
+      "instruction": "Assemble bowls - Place noodles in a bowl. Top with lettuce, pickled vegetables, cucumber and bean sprouts. Slice pork, place 2 steaks on each bowl. Top with herbs, sprinkle with peanuts and sliced chilli. Add a lime wedge."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve with nuoc cham on the side so everybody can help themselves. Douse generously! Dive in and eat!"
+    }
+  ]
+}

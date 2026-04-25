@@ -1,0 +1,111 @@
+{
+  "id": "tr_1448",
+  "title": "Creamy French Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2026/03/Creamy-French-Dressing.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-french-dressing/",
+  "servings": 100,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "creamy french dressing",
+    "creamy french vinaigrette",
+    "creamy salad dressing"
+  ],
+  "nutrition": {
+    "calories": 568,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 63.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "whole-egg mayonnaise (, or Kewpie (Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white wine vinegar ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "grapeseed oil (, or vegetable, canola or other plain flavoured oil (Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((halve for table salt, + 50% for flakes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "finely chopped chive ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Shake - Place all the ingredients in a jar and shake until combined. Alternatively, whisk in a small bowl or jug."
+    },
+    {
+      "order": 2,
+      "instruction": "Keeps in the fridge for 3 days."
+    },
+    {
+      "order": 3,
+      "instruction": "To use - drizzle over leafy greens and toss gently to coat. Pictured in post on a French Bistro Baby Gem Salad."
+    }
+  ]
+}

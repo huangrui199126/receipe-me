@@ -1,0 +1,82 @@
+{
+  "id": "tr_1159",
+  "title": "Tequila Sunrise",
+  "image": "https://www.recipetineats.com/tachyon/2019/09/Tequila-Sunrise.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tequila-sunrise/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "tequila cocktail",
+    "tequila sunrise"
+  ],
+  "nutrition": {
+    "calories": 191,
+    "protein": 1.0,
+    "carbs": 20.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "45",
+      "unit": "ml",
+      "name": "/ 1.5oz  tequila",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "90",
+      "unit": "ml",
+      "name": "/ 3 oz  orange juice",
+      "emoji": "🍊",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "15",
+      "unit": "ml",
+      "name": "/ 0.5 oz  grenadine syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Orange slices",
+      "emoji": "🍊",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Maraschino cherry",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pour tequila and orange juice in a tall glass. Scale up recipe as required for your glass side (1 part tequila to 3 parts OJ)!"
+    },
+    {
+      "order": 2,
+      "instruction": "Mix, then fill with ice."
+    },
+    {
+      "order": 3,
+      "instruction": "Drizzle grenadine down the side of the glass over the back of a teaspoon (see video). Do not mix!"
+    },
+    {
+      "order": 4,
+      "instruction": "Garnish with orange slice and Maraschino cherry. Serve immediately!"
+    }
+  ]
+}

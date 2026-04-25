@@ -1,0 +1,81 @@
+{
+  "id": "tr_1035",
+  "title": "Apple Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2021/04/Apple-Sauce_1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/apple-sauce/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "apple sauce"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 1.0,
+    "carbs": 21.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  gala apples (, peeled, quartered, cored, and sliced thinly (Note 1))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "caster sugar / superfine sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sherry vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 ½  tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place sugar in a medium saucepan over low heat. Shake pan to spread sugar. Leave for a few minutes until the edges start melting and turning golden, then swirl the pan to spread the caramel/sugar to encourage even melting (do not stir, sugar may crystallise)."
+    },
+    {
+      "order": 2,
+      "instruction": "Once the sugar is all melted, add apple and vinegar. Mix, and cook for 8 - 10 minutes, stirring occasionally, until the apple is completely soft."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the butter, stir it in until mostly melted. Blitz until smooth using a stick blender (tilt saucepan if needed to ensure head is completely submerged to avoid splattering)."
+    },
+    {
+      "order": 4,
+      "instruction": "Serve with: Slow-roasted crispy pork belly or any pork dishes. Also great for sweet applications – see in post for more ideas!"
+    }
+  ]
+}

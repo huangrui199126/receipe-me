@@ -1,0 +1,120 @@
+{
+  "id": "tr_515",
+  "title": "Chang's Crispy Noodle Salad",
+  "image": "https://www.recipetineats.com/tachyon/2020/11/Changs-Crispy-Noodle-Cabbage-Salad_3-SQ.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/changs-crispy-noodle-salad/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "cabbage salad",
+    "chinese cabbage salad",
+    "crispy noodle salad",
+    "wombok"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Chinese cabbage (wombok), or 1/2 a giant one ((Note 1))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "100g/ 3.5oz  Chang&#039;s crispy noodles ((store bought, the fine ones not chunky ones, Note 2))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  green onions (, finely sliced on the diagonal)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "100g/ 3.5oz  slivered almonds",
+      "emoji": "🥜",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "white vinegar ((just ordinary vinegar, nothing fancy!))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white sugar ((or brown))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "soy sauce (, all purpose or light, NOT dark soy sauce)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil (, toasted (brown, not yellow untoasted))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Toast almonds: Lightly toast the slivered almonds in a small skillet over medium heat until lightly browned (no oil). Remove immediately and let cool."
+    },
+    {
+      "order": 2,
+      "instruction": "Dressing: Shake Dressing ingredients in a jar until sugar is dissolved. (This keeps for 3 weeks!)"
+    },
+    {
+      "order": 3,
+      "instruction": "Shred cabbage: Cut cabbage (see photos in post, helpful): cut 1 slit down the middle lengthwise (or 2, if it&#039;s giant like the one I used). Then finely slice so it&#039;s shredded. Just use the top 1/2 - 2/3, mostly leafy part. Reserve the thick crunchy white part for another use (excellent in stir fries!)."
+    },
+    {
+      "order": 4,
+      "instruction": "Toss everything except crispy noodles: Place cabbage in a big bowl with toasted almonds and green onions. Pour over Dressing, toss well."
+    },
+    {
+      "order": 5,
+      "instruction": "Add crispy noodles! Toss through noodles just before serving so they stay crisp!"
+    }
+  ]
+}

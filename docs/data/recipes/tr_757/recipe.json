@@ -1,0 +1,158 @@
+{
+  "id": "tr_757",
+  "title": "Healthy Oatmeal Breakfast Cookies",
+  "image": "https://www.recipetineats.com/tachyon/2018/09/Breakfast-Cookie_7.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/healthy-oatmeal-breakfast-cookies/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [
+    "breakfast cookies",
+    "healthy oatmeal cookies"
+  ],
+  "nutrition": {
+    "calories": 376,
+    "protein": 8.0,
+    "carbs": 45.0,
+    "fat": 20.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 3.5 oz   pitted dates ((1 heaped packed cup))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "/ 85 ml   boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "maple syrup or honey ((Note 1))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "coconut oil (, melted, or other plain oil (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla essence ((Note 5))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "rolled oats",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "flaked almonds ((Note 3))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cups",
+      "name": "desiccated coconut ((Note 3))",
+      "emoji": "🥥",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "raisins or sultanas ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "almond meal ((almond flour) (Note 4))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cinnamon ((Note 5))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F (standard) or 160C/320F (fan/convection). Line a tray with parchment/baking paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Roughly chop dates. Place in bowl, pour over water. Cover and leave to soak for 10 minutes+."
+    },
+    {
+      "order": 3,
+      "instruction": "Mash with potato masher or fork until it becomes a paste."
+    },
+    {
+      "order": 4,
+      "instruction": "Add remaining Wet ingredients. Mix well with wooden spoon."
+    },
+    {
+      "order": 5,
+      "instruction": "Add Dry ingredients. Mix until all flour is incorporated - should be a thick batter (see video)."
+    },
+    {
+      "order": 6,
+      "instruction": "Measure out just shy of 1/2 cup (6 cookies) or 1/3 cup flat (8 cookies). &nbsp;Flatten to 1.7cm / 2/3\" thick rounds. (Note 9) Bake 20 minutes until golden."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove from oven, leave to cool on the tray."
+    }
+  ]
+}

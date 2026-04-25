@@ -1,0 +1,181 @@
+{
+  "id": "tr_773",
+  "title": "Chicken Tetrazzini (creamy chicken mushroom pasta bake)",
+  "image": "https://www.recipetineats.com/tachyon/2020/08/Chicken-Tetrazzini_SQ.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-tetrazzini-pasta-bake/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 60,
+  "tags": [
+    "chicken pasta bake",
+    "chicken tetrazzini",
+    "pasta bake",
+    "pasta casserole bake",
+    "tetrazzini pasta"
+  ],
+  "nutrition": {
+    "calories": 669,
+    "protein": 34.0,
+    "carbs": 58.0,
+    "fat": 34.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1lb  spaghetti or other long pasta, cooked per packet ((penne, macaroni, ziti ok too) (Note 1))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30g)  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1lb  chicken thighs (, skinless boneless (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "(60g)  butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1lb  mushrooms (, sliced 1/2 cm / 1/5&quot; thick)",
+      "emoji": "🍄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "milk (, any fat, any type)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cream (, heavy / thickened (sub more milk))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken stock/broth (, low sodium (or water + 2 stock cubes))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cheese (, shredded (cheddar, jack, colby - not mozz))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt 2 tbsp butter in a large pot over high heat. Add chicken, sprinkle with pinch of salt and pepper. Cook 1 1/2 minutes until golden."
+    },
+    {
+      "order": 2,
+      "instruction": "Turn chicken, sprinkle with salt and pepper. Cook 1 minute until golden then remove onto plate - doesn&#039;t need to be fully cooked (will cook more in oven)."
+    },
+    {
+      "order": 3,
+      "instruction": "Rest 5 minutes, then chop into small pieces, or shred."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven to 160°C / 325°F."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook mushrooms: Melt 4 tbsp butter over high heat in the same pot. Add mushrooms and cook for 4 minutes until starting to go floppy but not yet golden."
+    },
+    {
+      "order": 6,
+      "instruction": "Add onion: Add garlic and onion, cook for 3 minutes until mushrooms are golden. Add a pinch of salt and pepper halfway through."
+    },
+    {
+      "order": 7,
+      "instruction": "Add flour &amp; milk: Turn heat down to medium. Add flour. Stir for 30 seconds. Add milk and stir for 10 seconds or until it thickens (see video at 52 sec)."
+    },
+    {
+      "order": 8,
+      "instruction": "Add cream and broth: Add chicken stock, cream, 1 tsp salt and 1/2 tsp pepper. Stir, then let the mixture heat up, stirring every now and then so it doesn&#039;t catch on the base, and cook until the sauce thickens enough so you can draw a path on the back of the spoon (video at 1.04). Do not make it very thick - it gets thicker in next steps."
+    },
+    {
+      "order": 9,
+      "instruction": "Add cheese &amp; pasta: Turn stove off. Stir through half the cheese (will melt in oven), then add pasta and chicken. Toss to mix, taste and add more salt if needed."
+    },
+    {
+      "order": 10,
+      "instruction": "Bake: Pour into 23 x 33cm / 9 x 13&quot; pan, smooth surface. Top with remaining cheese. Bake 25 minutes until golden and bubbly. Serve immediately!"
+    }
+  ]
+}

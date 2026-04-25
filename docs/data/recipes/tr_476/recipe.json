@@ -1,0 +1,230 @@
+{
+  "id": "tr_476",
+  "title": "Chicken Stew (Casserole)",
+  "image": "https://www.recipetineats.com/tachyon/2019/07/Chicken-Stew_5.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-stew-casserole/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 50,
+  "tags": [
+    "chicken casserole",
+    "chicken stew"
+  ],
+  "nutrition": {
+    "calories": 510,
+    "protein": 40.0,
+    "carbs": 29.0,
+    "fat": 20.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "0.5",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "150g/5oz   bacon (, chopped)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "750g/ 1.5lb   boneless skinless chicken thighs (, cut into 3cm / 1.25\" pieces (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt and pepper (, each)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced (1 tbsp))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  carrots (, peeled, halved lengthwise, sliced 1cm / 1/3\" thick)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  celery stalks (, sliced 1cm / 1/3\" thick)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(375ml)  red wine ((Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "(750ml)  beef stock/broth (, low sodium (or chicken, Note 3))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/ 14oz   crushed tomato (, canned)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt and pepper (, each)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  dried bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "350g/ 12 oz   baby potatoes (, halved)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/ 6oz   mushrooms (, halved (large quartered))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "150g/ 5 oz   green beans (, trimmed and halved)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place oil and bacon in a large heavy based casserole pot over high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "When the oil is heated and bacon releases some fat, add chicken."
+    },
+    {
+      "order": 3,
+      "instruction": "Sprinkle with salt and pepper and cook, until chicken and bacon is browned."
+    },
+    {
+      "order": 4,
+      "instruction": "Add garlic and onion, cook 1 minute."
+    },
+    {
+      "order": 5,
+      "instruction": "Add celery and carrot, cook 2 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Add red wine, allow to simmer rapidly 2 minutes until the winey alcohol smell is gone."
+    },
+    {
+      "order": 7,
+      "instruction": "Add flour, mix until incorporated."
+    },
+    {
+      "order": 8,
+      "instruction": "Slowly pour in half the beef broth while stirring, then pour the rest in."
+    },
+    {
+      "order": 9,
+      "instruction": "Add tomato, Worcestershire, thyme, bay leaves, salt, pepper."
+    },
+    {
+      "order": 10,
+      "instruction": "Stir, add potato."
+    },
+    {
+      "order": 11,
+      "instruction": "Cover, simmer 30 minutes."
+    },
+    {
+      "order": 12,
+      "instruction": "Remove lid, add mushrooms and green beans. Simmer without lid* for a further 10 minutes."
+    },
+    {
+      "order": 13,
+      "instruction": "Serve with crusty bread, sprinkled with parsley if desired!"
+    }
+  ]
+}

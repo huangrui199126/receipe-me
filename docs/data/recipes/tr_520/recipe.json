@@ -1,0 +1,166 @@
+{
+  "id": "tr_520",
+  "title": "Chicken Broccoli Stir Fry (extra sauce!)",
+  "image": "https://www.recipetineats.com/tachyon/2020/07/Chicken-Broccoli-Stir-Fry_2-SQ.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-broccoli-stir-fry/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 6,
+  "tags": [
+    "chicken broccoli stir fry",
+    "quick stir fry"
+  ],
+  "nutrition": {
+    "calories": 239,
+    "protein": 25.0,
+    "carbs": 11.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/1 lb  chicken breast, thinly sliced ((or boneless thighs, do not tenderise))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "baking soda / bi-carb soda ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cornflour/cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "light soy sauce (, or all purpose soy (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine  ((shaoxing wine) or Mirin (Note 3))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "oyster sauce ((Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil (, toasted (Note 5))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "Dash",
+      "name": "of white pepper ((sub black))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil (, peanut, vegetable or canola)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced with knife)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/ 14 oz  broccoli florets (, broken/cut into small bite size pieces (2 medium heads, ~5 cups))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "White rice (or other rice of choice)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Tenderise chicken: Consider tenderising chicken breast using this method. (Not needed for thigh)"
+    },
+    {
+      "order": 2,
+      "instruction": "Broccoli: steam or boil using preferred method until cooked to your taste (it won&#39;t cook any further in the stir fry). I usually microwave steam 3 minutes on high. Drain well (waterlogged florets = diluted sauce)."
+    },
+    {
+      "order": 3,
+      "instruction": "Sauce: Mix cornflour and soy sauce until lump free, then mix in remaining ingredients."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook aromatics: Heat oil in a large skillet over high heat. Add garlic and onion, stir for 10 seconds until garlic starts to go golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook chicken: Add chicken and cook for 2 minutes or until the chicken is just cooked through."
+    },
+    {
+      "order": 6,
+      "instruction": "Thicken sauce: Add broccoli, Sauce and water. Stir well and cook for 1 to 2 minutes until the Sauce thickens and becomes glossy, and coats the ingredients."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve over rice!"
+    }
+  ]
+}

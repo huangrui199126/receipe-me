@@ -1,0 +1,167 @@
+{
+  "id": "tr_223",
+  "title": "Baked One Pot Mac and Cheese",
+  "image": "https://www.recipetineats.com/tachyon/2015/01/DSC_0005.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pot-saucy-creamy-mac-cheese/",
+  "servings": 5,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 180,
+    "protein": 22.0,
+    "carbs": 47.2,
+    "fat": 22.4
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "of milk ((full or low fat - I used low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "of water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt ((Note 1))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "lb",
+      "name": "/ 250g   dried macaroni ((elbow pasta) (Note 2))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(150g / 5oz)   grated tasty or cheddar cheese (or any sharp, flavoured cheese that melts well)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(75g / 2.5 oz)   grated provolone dolce cheese (or mozzarella or other mild flavoured good melting cheese) (Note 3)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((or ordinary breadcrumbs))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "parmesan cheese (, grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "fresh parsley (, finely chopped (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Melt the butter in a deep fry pan or skillet (Note 4) over medium heat. (Note 5)"
+    },
+    {
+      "order": 3,
+      "instruction": "Add the flour and stir until combined so a thick paste forms (\"roux\"). Cook, stirring constantly, for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Add half the milk and use a whisk to dissolve the roux into the milk. It will thicken quickly, then add the remaining milk. Whisk in small circles, rotating around the pan, to dissolve all the roux into the milk."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the water, salt and 5 grinds of pepper, then turn the heat up to medium high. Whisk leisurely so the bottom doesn't stick to the pan. When the white sauce starts to steam and thickens such that you can see it coating the edges of the pan (around 2 to 3 minutes), add the macaroni."
+    },
+    {
+      "order": 6,
+      "instruction": "Turn the heat down to medium and stir gently with a wooden spoon to mix the macaroni through and ensure the bottom doesn't stick. Cook it for 1 minute. Be sure not to cook it for longer than this after adding the macaroni - this really impacts the \"sauciness\" of the dish and ensuring the macaroni isn't overcooked."
+    },
+    {
+      "order": 7,
+      "instruction": "Cover the fry pan (Note 6), then transfer it immediately to the oven on the middle shelf."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake for 12 minutes, then remove from the oven. It will seem like there is too much sauce but it reduces and thickens in the next steps. The pasta should be just cooked (al dente). It will continue cooking from the residual heat."
+    },
+    {
+      "order": 9,
+      "instruction": "Turn the oven off and turn the grill/broiler on high."
+    },
+    {
+      "order": 10,
+      "instruction": "Stir through the cheese, just enough to disperse it through the macaroni. As you stir, this will melt the cheese and thicken the sauce. Don't stir too much because otherwise the sauce will thicken too much due to the evaporation."
+    },
+    {
+      "order": 11,
+      "instruction": "Sprinkle over the panko and parmesan cheese, then place under the grill/broiler for a few minutes to brown."
+    },
+    {
+      "order": 12,
+      "instruction": "Remove from the grill/broiler and let it rest for 5 minutes before serving."
+    }
+  ]
+}

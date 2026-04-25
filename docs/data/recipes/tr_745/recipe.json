@@ -1,0 +1,169 @@
+{
+  "id": "tr_745",
+  "title": "One Pot Broccoli, Chicken and Rice Casserole",
+  "image": "https://www.recipetineats.com/tachyon/2018/01/One-Pot-Chicken-Broccoli-Rice_7.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pot-chicken-broccoli-rice-casserole/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "chicken and rice casserole"
+  ],
+  "nutrition": {
+    "calories": 576,
+    "protein": 32.0,
+    "carbs": 47.0,
+    "fat": 28.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30g )  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "(1 lb)  chicken thigh (, cut into bite size pieces (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2.5",
+      "unit": "tbsp",
+      "name": "flour ((or 1 ½ tbsp. cornflour / cornstarch))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(500 ml)  milk ((any, I use low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(500 ml)  chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "(225g)  long grain white rice (, uncooked (Note 2))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried thyme (or other herb of choice)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large head of broccoli, broken / cut into small florets (~400 - 500g / 14 oz - 1 lb) ((Note 3))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(200g)  shredded mozzarella or cheddar ((or other cheese of choice) (Note 4))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley (, optional garnish)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt butter and heat oil in a pot over high heat. Add onion and garlic, cook for 1 minute. Add chicken and cook until it changes from pink to white. (Note 5)"
+    },
+    {
+      "order": 2,
+      "instruction": "Turn stove DOWN to medium. Add flour and stir for 1 minute."
+    },
+    {
+      "order": 3,
+      "instruction": "Add half the milk, stirring as you go, and once incorporated into the flour add the rest of the milk and stir."
+    },
+    {
+      "order": 4,
+      "instruction": "Add broth, rice, thyme and a just pinch of salt and pepper."
+    },
+    {
+      "order": 5,
+      "instruction": "Stir, bring to simmer, then cover. Turn down to medium low and cook for 12 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove lid – there should still be liquid on the surface. Working quickly, add broccoli, push down so it’s partly submerged, cover and cook for a further 3 minutes until broccoli is just cooked."
+    },
+    {
+      "order": 7,
+      "instruction": "Preheat grill/broiler. Remove lid and stir through half the cheese – don’t worry if it looks a bit too saucy, excess liquid gets sucked up in minutes (see video). Smooth surface, top with remaining cheese. Grill/broil until melted (or just put lid on and allow to melt with residual heat on turned off stove)."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve immediately, garnished with parsley if desired."
+    }
+  ]
+}

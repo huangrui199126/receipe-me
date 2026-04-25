@@ -1,0 +1,102 @@
+{
+  "id": "tr_526",
+  "title": "Fries Seasoning",
+  "image": "https://www.recipetineats.com/tachyon/2022/09/Shaker-fries-seasoning-cropped.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fries-seasoning/",
+  "servings": 5,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "fries seasoning",
+    "seasoning for french fries"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "table salt ((Note 1))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "onion powder ((or more garlic powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder ((or more onion powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "dried parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cayenne pepper (, optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix the ingredients together."
+    },
+    {
+      "order": 2,
+      "instruction": "Sprinkle on fries to taste."
+    },
+    {
+      "order": 3,
+      "instruction": "Store any leftovers in an airtight container or jar in the pantry. Also great on roast potatoes, vegetables and proteins (use for cooking or sprinkle as a finishing salt)."
+    }
+  ]
+}

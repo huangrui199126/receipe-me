@@ -1,0 +1,161 @@
+{
+  "id": "tr_1266",
+  "title": "Roast Lamb Leg with Gravy",
+  "image": "https://www.recipetineats.com/tachyon/2016/10/Roast-lamb-leg_2.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roast-lamb-leg-with-gravy/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 100,
+  "tags": [
+    "roast lamb leg"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 54.6,
+    "carbs": 3.3,
+    "fat": 22.7
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2.75 - 3 kg / 5.5 - 6 lb  lamb leg (, bone-in (Note 1))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cooking salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "fresh rosemary leaves (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  whole heads of garlic (, halved horizontally (Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Few sprigs rosemary ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "flour (, plain/all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "beef broth / stock (, low sodium (Note 3))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Take lamb out of fridge at least 1 hour before roasting. (Note 4)"
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 240°C/475°F (220°C fan) with oven shelf in the middle."
+    },
+    {
+      "order": 3,
+      "instruction": "Rub - Mix rosemary, garlic and olive oil."
+    },
+    {
+      "order": 4,
+      "instruction": "Prepare lamb - Place lamb leg in a roasting pan. Coat with the rub using your hands, the sprinkle with the salt and pepper. Place garlic and rosemary sprigs underneath the lamb, garlic cut face up."
+    },
+    {
+      "order": 5,
+      "instruction": "Roast lamb leg for 20 minutes. Turn the oven down to 200°C/400°F (180°C fan) and roast for a further 1 hour or until the internal temperature reaches 53°C/127°F for medium rare (Note 5 other doneness). Check first at 45 minutes - everyone&#39;s oven is different!"
+    },
+    {
+      "order": 6,
+      "instruction": "Rest - Remove lamb from oven. Transfer lamb to plate, loosely cover with foil and rest for 20 minutes to 1 hour (it will still be warm enough for serving!). The internal temperature will rise to 62°C/144°F (medium rare). Make gravy while lamb is resting - below."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve lamb with gravy, duck fat or classic crunchy roast potatoes, peas and steamed carrots tossed with butter and parsley."
+    },
+    {
+      "order": 8,
+      "instruction": "Drippings in pan - Discard rosemary sprigs. You should have around 4 - 5 tbsp of fat (drippings). If less, add butter. If much more, discard a bit."
+    },
+    {
+      "order": 9,
+      "instruction": "Add flour - Place roasting pan on stove over medium heat. When the fat starts to bubble, then add flour. Mix flour in and cook for 1 minute."
+    },
+    {
+      "order": 10,
+      "instruction": "Stock - Pour in half the beef stock and mix to dissolve sludge in, then add remaining beef stock and mix."
+    },
+    {
+      "order": 11,
+      "instruction": "Garlic squidging - Use a potato masher (if you&#39;re really keen like me) to mush the garlic to squeeze out the flavour (also helps flour caught in garlic to dissolve)."
+    },
+    {
+      "order": 12,
+      "instruction": "Taste - Check salt and pepper (I don&#39;t add more)."
+    },
+    {
+      "order": 13,
+      "instruction": "Thicken - Simmer for a couple of minutes, stirring, until it starts to thicken. Take it off the stove BEFORE the gravy is the thickness you want because it will keep thickening."
+    },
+    {
+      "order": 14,
+      "instruction": "Strain into a bowl, mushing garlic to squeeze all the liquid out. Then pour into gravy jug and serve with lamb!"
+    }
+  ]
+}

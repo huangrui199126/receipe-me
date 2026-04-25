@@ -1,0 +1,199 @@
+{
+  "id": "tr_1384",
+  "title": "Chicken Souvlaki with Tzatziki",
+  "image": "https://www.recipetineats.com/tachyon/2016/07/Chicken-Souvlaki_1.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-souvlaki-tzatziki/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 367,
+    "protein": 49.7,
+    "carbs": 2.5,
+    "fat": 16.4
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "lb",
+      "name": "/ 750 g   chicken thigh fillets ((or breast), cut into 1\"/2.5cm pieces)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 3/4 tsp salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Flatbreads / wraps / pita bread",
+      "emoji": "🍞",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lettuce",
+      "emoji": "🥬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Tomato slices",
+      "emoji": "🍅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  Lebanese cucumbers ((to make about ½ cup grated cucumber after squeezing out juice))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "/ 300 g   plain Greek yoghurt",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "white wine vinegar ((or red wine or apple cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil ((or more if you want richer))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place chicken and Marinade into a bowl and set aside to marinate for at least 3 hours to overnight."
+    },
+    {
+      "order": 2,
+      "instruction": "Thread chicken onto 8 skewers."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a large skillet over high heat (or BBQ). Cook skewers for 3 minutes on each side, or until cooked through."
+    },
+    {
+      "order": 4,
+      "instruction": "Serve Chicken Souvlaki with tzatziki, flatbreads (make your own!), lettuce and tomato slices."
+    },
+    {
+      "order": 5,
+      "instruction": "Cut the cucumber in half lengthwise. Use a teaspoon to scrape the watery seeds out. Coarsely grate the cucumber using a box grater. Then wrap in paper towels or a tea towel and squeeze to remove excess liquid."
+    },
+    {
+      "order": 6,
+      "instruction": "Place cucumber in a bowl. Add remaining ingredients then mix to combine. Set aside for at least 20 minutes for the flavours to meld."
+    }
+  ]
+}

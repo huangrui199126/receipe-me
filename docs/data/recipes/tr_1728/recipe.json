@@ -1,0 +1,132 @@
+{
+  "id": "tr_1728",
+  "title": "Chocolate Almond Milk with Creamy Malted Coffee Ice Cubes.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/06/Chocolate-Almond-Milk-with-Creamy-Malted-Coffee-Ice-Cubes-1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/chocolate-almond-milk-with-creamy-malted-coffee-ice-cubes/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 300,
+  "tags": [
+    "almond milk",
+    "chocolate",
+    "coffee",
+    "malt"
+  ],
+  "nutrition": {
+    "calories": 339,
+    "protein": 14.0,
+    "carbs": 27.0,
+    "fat": 41.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "raw almonds + 4 cups water for soaking",
+      "emoji": "🥜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-6  dates (depending on your sweetness level)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "unsweetened cacao powder (may also use unsweetened cocoa powder)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vanilla bean (seeds removed (or 1 vanilla))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "coconut milk (canned or from the carton (but I used canned for the thickness))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "malted milk powder (omit if vegan or if you just don't want the malt)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vanilla bean (seeds removed (or 1 vanilla))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "strong black coffee (I used cold brew coffee)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add the almonds to a 4-cup glass measuring cup or bowl and cover with around 4 cups water. Allow the almonds to sit overnight or in a pinch, at least 1 hour."
+    },
+    {
+      "order": 2,
+      "instruction": "The next morning, drain the almonds and rinse well under cold water. Add the rinsed almonds to a high powdered blender or food processor. Add 4 cups of water and the dates. Puree until the almonds are very finely ground, about 2 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Line a bowl or glass pitcher with a double layer of cheese cloth, a [nut milk bag | http://www.amazon.com/Pro-Quality-Nut-Milk-Bag/dp/B00KLT6X9W/ref=sr_1_1?ie=UTF8&amp;qid=1434324091&amp;sr=8-1&amp;keywords=nut+milk+bag&amp;pebp=1434324099048&amp;perid=A7A2AF63021E4ED6937A] or a thin cloth kitchen towel (I just used a kitchen towel). Slowly pour the almond milk mixture into the cloth (or bag). Gently squeeze the bottom of the cloth to release the milk. This with take about 3-5 minutes to get all the milk out."
+    },
+    {
+      "order": 4,
+      "instruction": "Rinse out blender and pour the milk back in. Add the cacao powder, vanilla bean seeds and a pinch of salt. Blend on high until smooth and creamy, about 1 minute."
+    },
+    {
+      "order": 5,
+      "instruction": "Pour into a glass jar to store in the fridge for up to 1 week. Shake well before drinking and serve with the creamy coffee ice cubes (recipe below)."
+    },
+    {
+      "order": 6,
+      "instruction": "In a blender, combine the coconut milk, malt powder and vanilla bean seeds. Blend until smooth. Pour the mixture among 15-18 ice cube molds, leaving at least half the mold for coffee. Pour the coffee over the coconut milk. Freeze for 4 hours or overnight. Serve with the chocolate almond milk"
+    }
+  ]
+}

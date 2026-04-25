@@ -1,0 +1,123 @@
+{
+  "id": "tr_16",
+  "title": "Mini Strawberry French Toast",
+  "image": "https://www.recipetineats.com/tachyon/2015/02/Mini-French-Toast-PS-Edited-FINAL1.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mini-strawberry-french-toast/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 362,
+    "protein": 14.8,
+    "carbs": 50.1,
+    "fat": 11.9
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sliced strawberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sugar ((white))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "milk ((full or low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp unsalted butter ((more = yummier))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "10",
+      "unit": "slices",
+      "name": "of baguette ((french stick), around 2 1/5\" / 3cm thick)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Maple syrup ((not optional!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Confectioners sugar ((icing sugar), for dusting (optional))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra strawberries ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the sugar and strawberries in a bowl and set aside to macerate (it sweats to form a bit of syrup)."
+    },
+    {
+      "order": 2,
+      "instruction": "Lightly whisk the eggs, milk and salt in a shallow bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Melt butter in a large fry pan over medium high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Dip each side of the bread slices into the egg, 3 seconds on each side. Place in the pan and fry each side for 2 1/2 minutes, until it is nicely browned."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove from the fry pan, and serve, topped with the strawberries (use the syrup created), maple syrup and confectioners sugar (icing sugar), if using."
+    }
+  ]
+}

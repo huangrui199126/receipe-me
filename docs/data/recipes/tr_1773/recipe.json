@@ -1,0 +1,158 @@
+{
+  "id": "tr_1773",
+  "title": "Easy Layered Mediterranean Orzo Pasta Salad",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/03/Easy-Layered-Mediterranean-Orzo-Pasta-Salad-5.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/easy-layered-mediterranean-orzo-pasta-salad/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "orzo",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 688,
+    "protein": 20.0,
+    "carbs": 73.0,
+    "fat": 36.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "the juice + zest of 1 lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "orzo pasta (use gluten free if needed)",
+      "emoji": "🍝",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cooked chickpeas or 1 can chickpeas (drained + rinsed, 14 ounce)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "jar marinated + roasted artichokes (lightly chopped, 12)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "ounce",
+      "name": "roasted red peppers or 1 jar roasted red peppers (sliced, 12)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh basil + 1/4 cup fresh parsley + 1/4 cup fresh mint (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "kalamata olives",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "feta cheese (crumbled (omit if making vegan))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "toasted pine nuts",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "6",
+      "unit": "cups",
+      "name": "fresh spinach",
+      "emoji": "🥬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "halved cherry tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "in a glass jar, combine the olive oil, lemon juice + zest, balsamic vinegar, garlic, crushed red pepper and a pinch of salt and pepper. Taste and adjust seasonings as needed."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook the orzo according to package directions. Drain."
+    },
+    {
+      "order": 3,
+      "instruction": "Grab 4-6 (16-28 ounce) glass jars. Evenly layer each jar in order with dressing, chickpeas, roasted veggies (the artichokes and red peppers, orzo, basil, parsley, mint, kalamata olives, feta cheese, pine nuts). Fill the jars to just the top with spinach. Top the salads off with cherry tomatoes. Cover and store in the fridge for up to 1 day. To serve, you can either eat straight from the jar or dump out into bowls."
+    }
+  ]
+}

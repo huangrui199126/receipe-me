@@ -1,0 +1,186 @@
+{
+  "id": "tr_961",
+  "title": "Bacon and Egg Breakfast Muffins",
+  "image": "https://www.recipetineats.com/tachyon/2015/05/Bacon-Egg-Breakfast-Muffins_3.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/bacon-egg-breakfast-muffins/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [
+    "bacon and egg muffins",
+    "breakfast muffins"
+  ],
+  "nutrition": {
+    "calories": 695,
+    "protein": 36.0,
+    "carbs": 51.0,
+    "fat": 38.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5oz  bacon (, chopped (I use lean))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "green onion (, finely sliced (2 stems))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(100g)  cheddar cheese (, shredded (or other of choice))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(225g)  flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "baking powder ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "baking soda ((aka bicarbonate soda, Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "(165 ml)  milk (, full or low fat)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "white vinegar ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "sour cream or plain yoghurt (, preferably full fat)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or other neutral flavoured oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "melted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F. Brush 4 Texas muffin tin holes with with butter. (Note 3)"
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a non stick pan over high heat. Add bacon and fry until lightly browned. Remove onto a paper towel to drain the fat, then set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Place Dry Ingredients in a bowl and mix to combine."
+    },
+    {
+      "order": 4,
+      "instruction": "Whisk Wet Ingredients in a separate bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Pour the Wet Ingredients into the Dry Ingredients until flour is almost incorporated (limit to 8 stirs!) - don&#x27;t overmix (makes muffins hard)."
+    },
+    {
+      "order": 6,
+      "instruction": "Add green onion, bacon and cheese, stir 5 times."
+    },
+    {
+      "order": 7,
+      "instruction": "Place 1/4 cup batter into each of the 4 muffin tin holes."
+    },
+    {
+      "order": 8,
+      "instruction": "Use spoon to make a well in the batter, crack egg into each well."
+    },
+    {
+      "order": 9,
+      "instruction": "Divide the remaining batter between each hole to cover the egg - best way is to dollop batter around the yolk, then on top of the yolk, then spread to cover (see video)."
+    },
+    {
+      "order": 10,
+      "instruction": "Brush the muffins with melted butter, then bake for 25 minutes or until golden brown."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove from oven and allow to rest for 5 minutes before turning out onto a cooling rack."
+    },
+    {
+      "order": 12,
+      "instruction": "Best served warm!"
+    }
+  ]
+}

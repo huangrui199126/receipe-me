@@ -1,0 +1,122 @@
+{
+  "id": "tr_271",
+  "title": "Oven Baked Chicken Breast",
+  "image": "https://www.recipetineats.com/tachyon/2019/03/Oven-Baked-Chicken-Breast_0-SQ.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/oven-baked-chicken-breast/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 18,
+  "tags": [
+    "baked chicken breast",
+    "chicken breast"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 46.0,
+    "carbs": 4.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  chicken breasts (, 150 - 180g / 5 - 6 oz each (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano or thyme (, or other herb of choice)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 425°F/220°C (200°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Pound chicken to 1.5cm / 0.6\" at the thickest part - using a rolling pin, meat mallet or even your fist (key tip for even cooking + tender chicken)."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix Seasoning."
+    },
+    {
+      "order": 4,
+      "instruction": "Line tray with foil and baking / parchment paper. Place chicken upside down on tray. Drizzle chicken with about 1 tsp oil. Rub over with fingers. Sprinkle with Seasoning."
+    },
+    {
+      "order": 5,
+      "instruction": "Flip chicken. Drizzle with 1 tsp oil, rub with fingers, sprinkle with Seasoning, covering as much of the surface area as you can."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake 18 minutes, or until surface is golden per photos and video, or internal temperature is 165°F/75°C using a meat thermometer."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove from oven and immediately transfer chicken to serving plates."
+    },
+    {
+      "order": 8,
+      "instruction": "Wait 3 - 5 minutes before serving, garnished with freshly chopped parsley if desired. Pictured with a side of Garlic Butter Rice with Kale."
+    }
+  ]
+}

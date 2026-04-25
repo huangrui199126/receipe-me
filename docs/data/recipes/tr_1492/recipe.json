@@ -1,0 +1,101 @@
+{
+  "id": "tr_1492",
+  "title": "Herbed Goat Cheese Stuffed Mushrooms.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/12/Herbed-Goat-Cheese-Stuffed-Mushrooms-1.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/herbed-goat-cheese-stuffed-mushrooms/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "stuffed mushrooms"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 16.0,
+    "carbs": 4.0,
+    "fat": 16.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (8 ounce) log goat cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded fontina cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "grated parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "chopped fresh thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "chopped fresh sage",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "chopped chives",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "kosher salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "16",
+      "unit": "ounces",
+      "name": "cremini mushrooms (stems removed)",
+      "emoji": "🍄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 375 degrees F."
+    },
+    {
+      "order": 2,
+      "instruction": "In a medium bowl, mix together the goat cheese, 1/2 cup fontina cheese, parmesan cheese, thyme, sage, chives, and a good pinch of both salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove the stems from the mushrooms and spoon the mixture into each mushroom cap, place on a baking sheet. Top with the remaining 1/2 cup fontina cheese. Transfer to the oven and bake for 20 to 25 minutes or until hot and bubbly. Serve warm!"
+    }
+  ]
+}

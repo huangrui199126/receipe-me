@@ -1,0 +1,105 @@
+{
+  "id": "tr_608",
+  "title": "Scrambled eggs - soft and creamy, just as they should be!",
+  "image": "https://www.recipetineats.com/tachyon/2020/07/Scrambled-Eggs_5-SQ.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/scrambled-eggs/",
+  "servings": 2,
+  "prepTime": 1,
+  "cookTime": 1,
+  "tags": [
+    "scrambled eggs"
+  ],
+  "nutrition": {
+    "calories": 182,
+    "protein": 12.0,
+    "carbs": 1.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "milk (, any fat % (optional, Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  grinds black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "/ 15g  butter ((or margarine or oil))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "bread (, toasted &amp; slathered with butter)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Use a non stick skillet or well seasoned cast iron pan (about 25cm / 10&quot;) and a rubber spatular (or flat edge wooden spoon)."
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk together eggs, milk, salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Melt butter over medium heat (Note 1), then pour egg in."
+    },
+    {
+      "order": 4,
+      "instruction": "Wait 5 seconds, then start leisurely pushing the rubber spatula back and forth in long strokes, and all around the skillet edges, to push the set egg out of the way and let raw egg run onto the skillet to cook. After 30 seconds or so, start adding some folding action too."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook for 60 seconds in total until you have a pile of soft, custardy scrambled egg folds (&quot;curds&quot;) and no raw egg leaking on the edges of the pile."
+    },
+    {
+      "order": 6,
+      "instruction": "Take it off the stove when it&#039;s still a bit undercooked for your taste."
+    },
+    {
+      "order": 7,
+      "instruction": "Gently push /fold the eggs for another 10 seconds - it will finish cooking with residual pan heat - then slide onto hot toasted crusty bread slathered with butter."
+    },
+    {
+      "order": 8,
+      "instruction": "Sprinkle with extra pepper then devour immediately! For a touch of garnish, look no further than an 80&#039;s style sprig of curly parsley. 👌🏻"
+    }
+  ]
+}

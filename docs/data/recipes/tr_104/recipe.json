@@ -1,0 +1,115 @@
+{
+  "id": "tr_104",
+  "title": "Mini Pizza Potato Skins",
+  "image": "https://www.recipetineats.com/tachyon/2014/11/Mini-Pizza-Potato-Skins-2.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mini-pizza-potato-skins/",
+  "servings": 8,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 145,
+    "protein": 6.4,
+    "carbs": 13.2,
+    "fat": 7.8
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  baby potatoes (, about the size of a golf ball (chat, new or salad potatoes))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil (, or oil spray)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "pizza sauce (, preferably homemade (see notes))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "grated melting cheese ((I used mozzarella. Tasty, cheddar, gruyere and swiss would also also well))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "48",
+      "unit": "pieces",
+      "name": "mini pepperoni slices ((see notes))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley (, to garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220C/430F."
+    },
+    {
+      "order": 2,
+      "instruction": "Prick each potato 2 to 3 times with a fork. Spread them out evenly around the edge of the microwave turntable (or in a circle for microwaves without a turntable). Microwave on high for 2 minutes. Turn potatoes over then microwave for a further 2 minutes, or until just cooked. Remove from microwave."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut each potato in half, then use a teaspoon to scoop the filling out, leaving a thin layer of potato."
+    },
+    {
+      "order": 4,
+      "instruction": "Place the potatoes on a baking tray, skin side up."
+    },
+    {
+      "order": 5,
+      "instruction": "Brush with olive oil (or spray) then sprinkle with a pinch of salt."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake skins for 10 minutes or until the skin is browned and a bit crispy."
+    },
+    {
+      "order": 7,
+      "instruction": "Turn the grill (broiler) on."
+    },
+    {
+      "order": 8,
+      "instruction": "Flip the potato skins over so the bowl side is facing up."
+    },
+    {
+      "order": 9,
+      "instruction": "Fill each potato skin with about 1 1/2 tsp of pizza sauce, then top with grated cheese."
+    },
+    {
+      "order": 10,
+      "instruction": "Place 2 to 3 pepperoni's on each, then place under the grill (broiler) for 3 to 5 minutes until the cheese is melted and the pepperoni is just starting to brown."
+    },
+    {
+      "order": 11,
+      "instruction": "Sprinkle with parsley, if using, and serve immediately."
+    }
+  ]
+}

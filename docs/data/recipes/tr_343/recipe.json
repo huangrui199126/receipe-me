@@ -1,0 +1,193 @@
+{
+  "id": "tr_343",
+  "title": "Sticky Date Pudding",
+  "image": "https://www.recipetineats.com/tachyon/2018/07/Sticky-Date-Pudding_5.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sticky-toffee-pudding/",
+  "servings": 7,
+  "prepTime": 15,
+  "cookTime": 35,
+  "tags": [
+    "sticky date pudding"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "280",
+      "unit": "g",
+      "name": "/ 9 oz  pitted dates (, roughly chopped (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "baking soda / bi carb soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "brown sugar (, loosely packed)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "80",
+      "unit": "g",
+      "name": "/ 6 tbsp  unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (, at room temperature)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "plain flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "brown sugar (, tightly packed)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "thickened cream ((heavy cream))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "70",
+      "unit": "g",
+      "name": "/ 5 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Ice cream or dolloping cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan-forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Grease 7 pudding moulds (Note 2) with butter or grease and line a 20 cm / 8\" square cake pan with overhang."
+    },
+    {
+      "order": 3,
+      "instruction": "Place dates in a bowl, sprinkle over baking soda. Pour over boiling water. Stand 10 minutes, then mash well with a potato masher (or fork) until it resembles sloppy porridge (see video for texture / thickness). (Note 3)"
+    },
+    {
+      "order": 4,
+      "instruction": "Place butter and sugar in a bowl. Beat until combined and smooth."
+    },
+    {
+      "order": 5,
+      "instruction": "Add eggs, beat until incorporated."
+    },
+    {
+      "order": 6,
+      "instruction": "Add flour then sprinkle baking powder across the surface. Mix until flour is incorporated."
+    },
+    {
+      "order": 7,
+      "instruction": "Add dates, mix quickly until dates are well incorporated into the batter. (Note 2) Follow directions to make one pudding or individual ones."
+    },
+    {
+      "order": 8,
+      "instruction": "Pour into cake pan, smooth surface. Bake 35 minutes or until skewer inserted into the centre comes out clean."
+    },
+    {
+      "order": 9,
+      "instruction": "While still hot, poke about 40 holes all over the surface using a skewer. Pour over 1/2 cup Butterscotch Sauce, leave to soak for 10 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Use overhang to lift cake out. Cut, serve warm with remaining warm sauce and ice cream or cream."
+    },
+    {
+      "order": 11,
+      "instruction": "Pour batter into pudding moulds, only fill 2/3 of the way up."
+    },
+    {
+      "order": 12,
+      "instruction": "Bake for 25 minutes, or until skewer inserted into the centre comes out clean."
+    },
+    {
+      "order": 13,
+      "instruction": "While still hot, poke about 10 holes on the surface of the pudding. Spoon over 1 tbsp of Butterscotch Sauce per Pudding. Leave to soak 10 minutes."
+    },
+    {
+      "order": 14,
+      "instruction": "Turn pudding moulds upside down on serving plate. Serve warm with remaining warm sauce and ice cream or cream."
+    },
+    {
+      "order": 15,
+      "instruction": "Place ingredients in a saucepan over medium heat. Once butter is melted, stir, then bring to simmer."
+    },
+    {
+      "order": 16,
+      "instruction": "Simmer for 2 minutes, stirring once, then remove from heat. Serve warm."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "tr_577",
+  "title": "Fettuccine Alfredo",
+  "image": "https://www.recipetineats.com/tachyon/2015/06/Alfredo-Fettuccine_680px_plated.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fettuccine-alfredo/",
+  "servings": 3,
+  "prepTime": 5,
+  "cookTime": 13,
+  "tags": [],
+  "nutrition": {
+    "calories": 426,
+    "protein": 11.5,
+    "carbs": 46.4,
+    "fat": 21.9
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250g   dried fettuccine",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small shallot (, very finely minced (eschallot in Australia) (Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "heavy cream ((Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "freshly grated Parmigiano Reggiano or parmesan ((Notes 3 and 4))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Good grind of black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra Parmigiano Reggiano",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a large pot of salted water to boil. Add the fettuccine and cook until al dente (still firm but just cooked through). (Note 5)"
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, melt the butter in a deep fry pan over medium high heat. (Note 6)"
+    },
+    {
+      "order": 3,
+      "instruction": "Add the shallots and sauté for 2 minutes or until tender."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the cream and bring to boil. Turn heat down to medium low and simmer for 3 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove the fry pan from the heat and stir through the Parmigiano Reggiano, salt and pepper until the sauce is smooth."
+    },
+    {
+      "order": 6,
+      "instruction": "TAKE OUT 1/4 cup of pasta water PLUS scoop out an extra mug (extra, just in case). Then drain the pasta in a colander."
+    },
+    {
+      "order": 7,
+      "instruction": "Transfer the pasta and 1/4 cup of reserved pasta water into the fry pan with the sauce. Return the fry pan to the stove over medium high heat. Toss very gently to coat the pasta in the sauce and allow the sauce to emulsify (Note 6) for 1 minute. (Note 7)"
+    },
+    {
+      "order": 8,
+      "instruction": "Remove from the stove and serve immediately, garnished with extra Parmigiano Reggiano and fresh parsley, if using."
+    }
+  ]
+}

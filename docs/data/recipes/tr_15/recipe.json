@@ -1,0 +1,103 @@
+{
+  "id": "tr_15",
+  "title": "Giant Hash Brown",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Giant-Hash-Brown-1-1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/giant-hash-brown/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 197,
+    "protein": 3.1,
+    "carbs": 26.5,
+    "fat": 9.6
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb   potatoes ((starchy - see notes))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt ((plus more to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Peel and grate the potatoes, placing the grated potato into a large bowl of water (this stops the potato from going brown while you continue grating)."
+    },
+    {
+      "order": 2,
+      "instruction": "Using a large colander, rinse the potato until the water comes clear (to remove the starch which keeps the potato from going brown as well as making it crispy)."
+    },
+    {
+      "order": 3,
+      "instruction": "Working a handful at a time, squeeze out the excess water and place into the bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Mix in 1 tbsp of olive oil, salt and pepper."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat 2 tbsp olive oil in a 22cm/9 inch non stick pan over medium high heat."
+    },
+    {
+      "order": 6,
+      "instruction": "Place shredded potato mixture in pan, spread out and lightly pat down with a spatula. It should be about 1.5cm/0.6\" thick."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook for 5 to 8 minutes until golden brown and crispy. Use a spatula to lift a corner to check for doneness."
+    },
+    {
+      "order": 8,
+      "instruction": "Get a large plate and slide the hash brown onto it."
+    },
+    {
+      "order": 9,
+      "instruction": "Place the pan on top of the plate, then quickly flip upside down. Use a tea towel if you need so you can hold onto the fry pan when flipping. Don't worry if it breaks when you flip it, it's salvageable!"
+    },
+    {
+      "order": 10,
+      "instruction": "Drizzle the remaining 1 tbsp of oil around the edges of the fry pan. If your hash brown broke when you flipped it, use a spatula to lightly pat it back into shape."
+    },
+    {
+      "order": 11,
+      "instruction": "Cook until golden brown and crispy, about 4 to 6 minutes. Use a spatula to lift up to check."
+    },
+    {
+      "order": 12,
+      "instruction": "Slide out of the plan onto a serving plate. Season with additional salt if required. To serve, garnish with chopped parsley (optional) and cut into wedges."
+    }
+  ]
+}

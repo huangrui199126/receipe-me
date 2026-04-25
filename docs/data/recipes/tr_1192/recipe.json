@@ -1,0 +1,118 @@
+{
+  "id": "tr_1192",
+  "title": "Margaritas (plus SKINNY margaritas!)",
+  "image": "https://www.recipetineats.com/tachyon/2019/11/Margaritas_9.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/margaritas/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "margaritas",
+    "skinny margaritas"
+  ],
+  "nutrition": {
+    "calories": 163,
+    "protein": 0.3,
+    "carbs": 9.3,
+    "fat": 0.1
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "45",
+      "unit": "ml",
+      "name": "/ 1.5oz   tequila",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "30",
+      "unit": "ml",
+      "name": "/ 1 oz  lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "15 ml/ 0.5 oz  Cointreau ((or other Triple Sec) (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "60 ml/ 2oz  tequila",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "45",
+      "unit": "ml",
+      "name": "/ 1.5 oz  lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "30",
+      "unit": "ml",
+      "name": "/ 1 oz  orange juice",
+      "emoji": "🍊",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "light agave nectar ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lime wedge (, plus extra for serving)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coarse salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Chill glasses in the fridge for 30 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Place salt in small dish."
+    },
+    {
+      "order": 3,
+      "instruction": "Rub rim lightly with lime wedge, then press rim down into salt."
+    },
+    {
+      "order": 4,
+      "instruction": "Place ingredients in a cocktail shaker with ice, shake 15 times to chill well."
+    },
+    {
+      "order": 5,
+      "instruction": "Strain into cocktail glass or tumbler. Ice in glass is optional."
+    }
+  ]
+}

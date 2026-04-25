@@ -1,0 +1,179 @@
+{
+  "id": "tr_130",
+  "title": "Thai Mango Chicken Curry",
+  "image": "https://www.recipetineats.com/tachyon/2016/02/Mango-Thai-Red-Curry-with-Chicken_1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/thai-red-curry-with-chicken-mango/",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 449,
+    "protein": 49.7,
+    "carbs": 15.5,
+    "fat": 18.9
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil ((vegetable, canola, grape seed))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "ginger (, minced (not critical))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 1 tsp red chilli (, minced (Optional. I used 1 tsp.))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, sliced (brown, white, yellow) or 3 eschallots)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1.2",
+      "unit": "lb",
+      "name": "/ 600g   chicken thigh fillets ((or breast), cut into bite size pieces)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 - 5 tbsp Thai Red Curry Paste ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "((400ml/13oz) coconut milk (full fat is better but low fat is ok too))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "mango puree (, preferably fresh (1 large mango) (Note 2))",
+      "emoji": "🥭",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  kaffir lime leaves",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Steamed jasmine rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh red chili (, sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a skillet over medium high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Add garlic, ginger, chilli (if using) and onion and saute until the onion is starting to soften."
+    },
+    {
+      "order": 3,
+      "instruction": "Add chicken and cook until white all over but still raw inside."
+    },
+    {
+      "order": 4,
+      "instruction": "Add curry paste and saute for 2 minutes until fragrant."
+    },
+    {
+      "order": 5,
+      "instruction": "Add coconut milk and chicken broth. Bring to simmer, stirring to dissolve the curry paste into the liquid. Then add the mango, fish sauce and kaffir lime leaves."
+    },
+    {
+      "order": 6,
+      "instruction": "Turn heat down to medium and simmer for 12 - 15 minutes, stirring occasionally, until the sauce is thickened. Adjust saltiness using fish sauce."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve over jasmine rice, garnished with coriander/cilantro, wedges of lime and slices of red chilli, if desired."
+    }
+  ]
+}

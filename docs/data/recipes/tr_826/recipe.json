@@ -1,0 +1,115 @@
+{
+  "id": "tr_826",
+  "title": "Sweet Potato Bake",
+  "image": "https://www.recipetineats.com/tachyon/2021/06/Sweet-Potato-Bake_4.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spiral-sweet-potato-bake/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 50,
+  "tags": [
+    "sweet potato bake",
+    "sweet potato casserole",
+    "sweet potato side"
+  ],
+  "nutrition": {
+    "calories": 239,
+    "protein": 3.0,
+    "carbs": 38.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1.25",
+      "unit": "kg",
+      "name": "/ 2.5 lb  4 -5 sweet potatoes",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp   unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil (, plus a little extra for brushing the skillet)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "kosher / cooking salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "rosemary leaves, finely chopped (, plus more for garnish / serving)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F. Brush skillet base and sides with a little olive oil."
+    },
+    {
+      "order": 2,
+      "instruction": "Slice potatoes: Slice potatoes 3-4mm thick. A mandoline will make short work of this."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss: Place in large bowl, pour in all butter plus 1 tbsp olive oil, rosemary, salt and pepper. Toss well with hands, separating the slices so they are all coated with oil."
+    },
+    {
+      "order": 4,
+      "instruction": "Layer in skillet: Layer potato in skillet in a circular pattern, overlapping the slices. (See post for details)"
+    },
+    {
+      "order": 5,
+      "instruction": "Bake covered 30 minutes: Cover with foil, bake for 30 minutes until potato is quite soft (almost fully cooked)."
+    },
+    {
+      "order": 6,
+      "instruction": "Brush with oil: Remove from oven, turn up to 220°C/430°F (200°C fan). Remove foil, brush potato with remaining 1 tbsp oil."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake uncovered 20 minutes: Bake 20 minutes until tops are golden and slightly crisp, and potato is cooked through (check with a knife or skewer)."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve: Scatter with more rosemary leaves, a whole sprig of rosemary and pinch of sea salt flakes if desired. Serve immediately! Sweet potato loses crispiness as it cools."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "tr_834",
+  "title": "Restaurant Style Chinese Broccoli with Oyster Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/Chinese-Broccoli-with-Oyster-Sauce_8.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-broccoli-with-oyster-sauce/",
+  "servings": 2,
+  "prepTime": 3,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 91,
+    "protein": 4.5,
+    "carbs": 8.7,
+    "fat": 4.5
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "Chinese broccoli ((&quot;Gai Lan&quot;) (Note 1))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "corn flour / corn starch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dark soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine ((sub Mirin or Dry Sheer, Note 1))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or canola or peanut))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (, finely grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ginger (, finely grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Trim ends off Chinese Broccoli. If any stems are super thick, cut them in half (you want all stems approximately the same width)."
+    },
+    {
+      "order": 2,
+      "instruction": "Steam Chinese Broccoli using whatever method you want - I microwave in a steamer on high for 4 minutes. The stem should be just cooked - not super soft and floppy."
+    },
+    {
+      "order": 3,
+      "instruction": "Stack the Chinese broccoli together and cut into 4&quot;/10cm lengths, then stack neatly on top of each other."
+    },
+    {
+      "order": 4,
+      "instruction": "Combine water and corn flour in small saucepan, mix to dissolve."
+    },
+    {
+      "order": 5,
+      "instruction": "Then add remaining ingredients, turn stove onto medium and bring to boil. Boil for 30 seconds to allow to thicken, then remove from stove."
+    },
+    {
+      "order": 6,
+      "instruction": "Drizzle over Chinese broccoli and serve. Best served warm."
+    }
+  ]
+}

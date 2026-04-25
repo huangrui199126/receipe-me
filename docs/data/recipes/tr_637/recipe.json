@@ -1,0 +1,119 @@
+{
+  "id": "tr_637",
+  "title": "Garlic Butter Roasted Mushrooms",
+  "image": "https://www.recipetineats.com/tachyon/2018/10/Roasted-Mushrooms-Garlic-Butter_0-SQ.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/garlic-butter-roasted-mushrooms/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "mushroom recipe",
+    "oven mushrooms",
+    "roasted mushrooms"
+  ],
+  "nutrition": {
+    "calories": 152,
+    "protein": 4.0,
+    "carbs": 5.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1lb  mushrooms (, button or Swiss brown / cremini OR 8 large (like portabello))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp  unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fresh thyme leaves ((parsley also good for colour))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/450°F (200°F fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss mushrooms with butter, oil, garlic, salt and pepper in a large bowl using a rubber spatula."
+    },
+    {
+      "order": 3,
+      "instruction": "Spread on a baking tray and roast for 25 minutes - do not toss or turn."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove from oven. If using lemon and thyme, push mushrooms together onto one side of the tray, drizzle with lemon, sprinkle with thyme and toss. Serve immediately!"
+    },
+    {
+      "order": 5,
+      "instruction": "(Video here for large mushrooms) Place mushrooms cap side down (ie stems facing up) in a medium baking dish (so they are kind of snug - they shrink)."
+    },
+    {
+      "order": 6,
+      "instruction": "Spoon 1 tsp of butter over each mushroom, then use the rest to brush the edges (or carefully drizzle over edges)."
+    },
+    {
+      "order": 7,
+      "instruction": "Drizzle over olive oil, sprinkle with salt and pepper."
+    },
+    {
+      "order": 8,
+      "instruction": "Roast for 20 minutes (tender but still a slight firmness) or 25 minutes (tender) - no turning. There will be juices in the pan and plenty pooled in the mushrooms caps."
+    },
+    {
+      "order": 9,
+      "instruction": "Squeeze over a bit of lemon juice, sprinkle with thyme. Serve mushrooms, drizzled with pan juices (see notes for serving suggestions)."
+    }
+  ]
+}

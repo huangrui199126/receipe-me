@@ -1,0 +1,199 @@
+{
+  "id": "tr_29",
+  "title": "Beef and Mushroom Pie (3 in 1)",
+  "image": "https://www.recipetineats.com/tachyon/2014/08/Beef-Cheek-Pie-1-1.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/beef-mushroom-vegetable-pie/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 562,
+    "protein": 27.9,
+    "carbs": 27.5,
+    "fat": 34.6
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "sheet",
+      "name": "ready rolled puff pastry ((25cm x 25cm / 10\" x 10\"), thawed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg (, lightly beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "shredded beef cheeks from Slow Cooked Beef Cheeks in Red Wine leftovers",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "leftover sauce from Slow Cooked Beef Cheeks in Red Wine",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion ((brown, white or yellow), diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  carrots (, diced roughly to the size of peas (about 1 1/2 cups))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "frozen green peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "canned crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "sliced button mushrooms",
+      "emoji": "🍄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "thyme ((dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "oregano ((dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt (, plus more to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "You will need 4 x 1 2/3 cup capacity ramekins."
+    },
+    {
+      "order": 3,
+      "instruction": "Place 1 ramekin on the puff pastry and use it as a guide to cut rounds out of the puff pastry. Cut 4 rounds."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil in large heavy based pan over medium high heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Add onion and garlic, and sauté for 2 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Add carrots and sauté for 1 minute. Then add mushrooms and sauté for another minute."
+    },
+    {
+      "order": 7,
+      "instruction": "Add remaining Pie Filling ingredients. Let simmer for 3 minutes to bring the flavours together."
+    },
+    {
+      "order": 8,
+      "instruction": "Divide the Pie Filling between the 4 ramekins. Top with puff pastry rounds and cut a small slash in each (steam vents)."
+    },
+    {
+      "order": 9,
+      "instruction": "Brush with egg, then place into the oven to bake for 20 to 25 minutes until the pastry is dark golden and puffed."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove from oven, let stand for 5 minutes before serving."
+    }
+  ]
+}

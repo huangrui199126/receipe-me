@@ -1,0 +1,111 @@
+{
+  "id": "tr_735",
+  "title": "Nachos Cheese Dip &amp; Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/Nachos-Cheese-Dip-and-Sauce.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/nachos-cheese-dip-sauce/",
+  "servings": 6,
+  "prepTime": 2,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 209,
+    "protein": 12.0,
+    "carbs": 6.3,
+    "fat": 15.2
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "/ 225g / 8oz   shredded cheese (Cheddar, Monterey Jack, Colby, etc), shred your own (Important - read Note 1)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornstarch ((corn flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "evaporated milk ((375g / 12oz))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped jalapeño peppers ((fresh or canned))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "hot sauce ((or adjust to your taste))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder ((optional - adds extra flavour))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder ((optional - adds extra flavour))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Toss the cheese and cornstarch together in a saucepan."
+    },
+    {
+      "order": 2,
+      "instruction": "Add all other ingredients, cook over medium heat, whisking often until the cheese is melted and smooth."
+    },
+    {
+      "order": 3,
+      "instruction": "Adjust to your taste if required - with extra hot sauce and salt."
+    },
+    {
+      "order": 4,
+      "instruction": "While hot, it will have a sauce like consistency - perfect for pouring over nachos."
+    },
+    {
+      "order": 5,
+      "instruction": "As it cools, it will thicken and become a dip-like consistency. Whisk occasionally to mix in the skin that forms on the top."
+    },
+    {
+      "order": 6,
+      "instruction": "Stir in additional evaporated (or even normal) milk to achieve the desired consistency if you want to use it as a pourable sauce. Note that when you reheat it, it loosens up."
+    }
+  ]
+}

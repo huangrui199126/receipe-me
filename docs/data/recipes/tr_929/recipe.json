@@ -1,0 +1,181 @@
+{
+  "id": "tr_929",
+  "title": "Asian Glazed Baked Barramundi (or other fish)",
+  "image": "https://www.recipetineats.com/tachyon/2021/03/Baked-Barramundi-with-Asian-Glaze_4-SQ.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/asian-glazed-baked-barramundi-recipe/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "baked barramundi",
+    "baked fish",
+    "barramundi recipe",
+    "easy fish recipe",
+    "white fish recipe"
+  ],
+  "nutrition": {
+    "calories": 305,
+    "protein": 39.0,
+    "carbs": 23.0,
+    "fat": 6.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 x 180g / 6oz  barramundi fillets (, skinless, boneless; or other ~2.5cm / 1&quot; thick firm white fish fillets (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "soy sauce (, all-purpose or light soy sauce (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "honey ((else maple syrup or 5 tbsp brown sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese black vinegar or rice vinegar ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "mirin ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sambal oelek (, or other Asian chilli paste / sauce (Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Chinese Five Spice ((Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ginger (, finely grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "Sichuan pepper (, or white pepper (Note 7))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Green onions ((Note 8))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Large red chilli, finely sliced",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan). Line a tray with parchment/baking paper. Place shelf in middle of oven."
+    },
+    {
+      "order": 2,
+      "instruction": "Cornflour slurry: Mix water and cornflour in a small bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Make glaze: Place remaining glaze ingredients in a small saucepan over medium-low heat. Simmer for 2 minutes. Add cornflour slurry then stir well. Cook it for a further 2 minutes until it thickens into a thick paste – thick enough so it stays on the fish when brushed on. See photo in post or video. If it is just a thick syrup, it will slide off the fish."
+    },
+    {
+      "order": 4,
+      "instruction": "Brush glaze on Fish: Place fish fillets on tray. Dab/brush paste on on the top and sides."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake then broil/grill: Bake fish for 15 minutes. Then flick to broiler/grill on high, and cook for 3 minutes to caramelise the surface. Target an internal temperature of 55°C/131°F for medium, which is just cooked but not raw at all. Fish temperature will continue to rise to 58°C/136.5°F during resting."
+    },
+    {
+      "order": 6,
+      "instruction": "Garnish: Remove from oven, transfer to serving plates and rest for 5 minutes. Garnish with green onion, chillies and sesame seeds, as desired. Pictured in post with a side of Coconut Rice and cucumber with Asian Sesame Dressing."
+    }
+  ]
+}

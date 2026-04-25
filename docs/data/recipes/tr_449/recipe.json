@@ -1,0 +1,132 @@
+{
+  "id": "tr_449",
+  "title": "Easy Lemon Coconut Almond Cake",
+  "image": "https://www.recipetineats.com/tachyon/2023/03/Lemon-coconut-cake_2-SQ.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easy-lemon-coconut-almond-cake/",
+  "servings": 10,
+  "prepTime": 10,
+  "cookTime": 40,
+  "tags": [
+    "almond meal cake",
+    "coconut cake",
+    "easy cake recipe",
+    "gluten free cake"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 3.0,
+    "carbs": 15.0,
+    "fat": 16.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 10 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  large eggs ((55-60g/2oz each), at room temp)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "caster sugar ((superfine sugar, Note 2))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "almond meal  ((ground almond, Note 1))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "desiccated coconut  ((US: finely shredded unsweetened coconut))",
+      "emoji": "🥥",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "lemon zest ((1 large lemon))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "flaked almonds (, optional (Note 3))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan). Grease a 20cm/8” round cake pan (or springform pan) with butter then line with paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Melt butter - Place the butter in a large microwavable bowl and melt in the microwave. Let cool for a couple of minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Wet ingredients - Add egg, vanilla and sugar and whisk until combined."
+    },
+    {
+      "order": 4,
+      "instruction": "Dry ingredients - Add almond meal, salt, baking powder, coconut and lemon zest. Whisk until combined."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake 40 minutes - Pour into pan. Sprinkle over almonds. Bake 40 minutes. Cool 15 minutes in pan then carefully turn out onto cooling rack."
+    },
+    {
+      "order": 6,
+      "instruction": "Cool at least 1 hour before cutting slices to serve. Moist enough to serve plain - doesn&#39;t need cream or anything!"
+    }
+  ]
+}

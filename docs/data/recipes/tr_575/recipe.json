@@ -1,0 +1,129 @@
+{
+  "id": "tr_575",
+  "title": "Mushroom Rice Recipe",
+  "image": "https://www.recipetineats.com/tachyon/2018/05/Mushroom-Rice-Pilaf-4-SQ1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mushroom-rice/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "mushroom rice"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 7.0,
+    "carbs": 36.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp olive oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp   butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "750",
+      "unit": "g",
+      "name": "/ 1.5 lb   mushrooms (, sliced 3 - 5 mm / 1/8 - 1/5\" thick (Note 1))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "long grain rice, uncooked ((Note 2))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "vegetable stock / broth ((or chicken) (Note 3))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2 - 2 cups green onions (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Optional: More butter to stir through",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat 2 tbsp oil in a large pot over high heat. Add half the mushrooms, and cook for 5 minutes until golden. Season with salt and pepper then remove and set aside (we put these in at the end, mushrooms cooked in rice don't stay as golden)."
+    },
+    {
+      "order": 2,
+      "instruction": "If the pot is dry, another 1/2 - 1 tbsp oil, and add butter. When melted, add onions and garlic."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook for 30 seconds, then add remaining mushrooms. Cook for 5 minutes or until mushrooms are lightly browned (they won't caramelise as well as the first batch) and the base of the pot is brown."
+    },
+    {
+      "order": 4,
+      "instruction": "Add rice and a splash of broth. Mix so the brown stuff on the bottom of the pot mixes into the liquid. (Video below helpful here)"
+    },
+    {
+      "order": 5,
+      "instruction": "Once the base of the pot is clean, add remaining liquid. Place lid on, bring to a simmer then turn down to medium low."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook for 15 minutes or until there is no residual liquid (tilt pot to check)."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove from stove, remove lid, QUICKLY toss in reserved mushrooms and scallions, put lid back on. Leave for 10 minutes (do not skip this step!)."
+    },
+    {
+      "order": 8,
+      "instruction": "Fluff rice using a fork or wooden spoon. OPTIONAL: Stir through more butter. :)&nbsp;Serve!"
+    }
+  ]
+}

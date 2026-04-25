@@ -1,0 +1,188 @@
+{
+  "id": "tr_1291",
+  "title": "Crispy oven baked beef quesadillas",
+  "image": "https://www.recipetineats.com/tachyon/2024/07/Baked-Beef-Quasadillas-51259.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crispy-oven-baked-quesadillas/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "baked quesadillas",
+    "beef quesadillas",
+    "oven quesadillas",
+    "quesadillas"
+  ],
+  "nutrition": {
+    "calories": 364,
+    "protein": 23.0,
+    "carbs": 22.0,
+    "fat": 20.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250g/ 8oz  beef mince ((ground beef) - or chicken, turkey, pork, lamb)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "corn kernels ((canned, drain, or frozen))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "black beans ((caned, drained))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  flour tortillas ((20cm/8&quot;), Mission crisps best, Old El Paso the least (Note 1))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/4 tightly packed cups shredded cheese ( - cheddar, colby, tasty cheese, Monterey jack (not mozzarella))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "EACH ground garlic (, onion, dried oregano)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "EACH cumin (, paprika powder)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "cayenne pepper (, optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Avocado sauce ( or Guacamole)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pico de Gallo",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Nothing ((I happily eat it plain!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Filling - Heat the oil in a non stick pan over high heat. Add the beef and cook, breaking it up as you go, until the red colour is mostly gone. Add the Taco Seasoning and cook for 1 minute. Add the tomato paste and cook for 30 seconds. Stir in the beans and corn, then add the water and stir. The filling should be juicy (not dry) but not watery (compromises crispiness!). Remove into a bowl and cool for at least 15 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat the oven to 220°C / 425°F (200°C fan-forced). Grease a metal tray with 1 teaspoon of olive oil (I use my hand)."
+    },
+    {
+      "order": 3,
+      "instruction": "Assemble quesadillas - Spread the filling on one side of the quesadilla. Top with cheese, fold to cover. Place on tray, repeat with remaining quesadillas."
+    },
+    {
+      "order": 4,
+      "instruction": "Drizzle the top of each with 1/2 tsp olive oil then spread using your hands (top and sides, not underside). Press the quesadilla down to flatten the surface."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake for 8 minutes. Flip the quesadillas, bake for 5 minutes, flip again then bake for a further 2 minutes or until crispy. (Sometimes I spritz with oil to give it a helping hand)"
+    },
+    {
+      "order": 6,
+      "instruction": "Serve - Cut each into half and serve immediately with dipping sauce/toppings of choice."
+    }
+  ]
+}

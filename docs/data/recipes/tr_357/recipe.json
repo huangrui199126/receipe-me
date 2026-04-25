@@ -1,0 +1,246 @@
+{
+  "id": "tr_357",
+  "title": "Japchae - Korean Noodles",
+  "image": "https://www.recipetineats.com/tachyon/2023/07/Japchae-Korean-noodles_9.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/japchae-korean-noodles/",
+  "servings": 5,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [
+    "japchae",
+    "korean glass noodles"
+  ],
+  "nutrition": {
+    "calories": 504,
+    "protein": 18.0,
+    "carbs": 58.0,
+    "fat": 24.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "600g/1.2lb  bone-in beef short ribs *RECOMMENDED* ((300g/10oz boneless))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "300g/10 oz  boneless beef short ribs *RECOMMENDED*",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "300g/10oz  scotch fillet / boneless rib eye (or other steak, recommend tenderising (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "soy sauce (, all-purpose or light soy (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "finely minced garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "soy sauce (, all-purpose or light soy (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "finely minced garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250g/ 8oz  sweet potato noodles ((dangmyeon), dried (Note 3))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or other plain oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking/kosher salt (, divided)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, peeled, halved, sliced into 6mm/1/4\" wedges)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  green onion stems (, cut into 5cm / 2\" lengths, white & green parts separated)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/7oz  fresh shiitake mushrooms (, stem removed, cut into 5mm/1/5\" slices (Note 4))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  carrots (, peeled, cut into 3mm / 1/8&quot; batons)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red capsicum/bell pepper (, cut into 0.5cm / 1/5\" slices)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "4 1/2",
+      "unit": "cups",
+      "name": "(tightly packed) baby spinach",
+      "emoji": "🥬",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut beef into strips that are ~ 5mm thick, 1cm wide and about 5cm long (1/5&quot; x 2/5&quot; x 2&quot;). If using shortribs, trim excess fat, cut the meat off the bone. Then cut each piece in half lengthwise (to form 2 &quot;steaks&quot;) then slice into 5mm thick. (See step photos in post or video at 0.11s, Note 6)"
+    },
+    {
+      "order": 2,
+      "instruction": "Marinate - Put beef in a bowl. Add marinade ingredients, then mix. Set aside marinate while you proceed with recipe, ~15 - 20 minutes is all it needs. (Note 5)"
+    },
+    {
+      "order": 3,
+      "instruction": "Sauce - Mix the Sauce ingredients in a very large mixing bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Noodles - Cook sweet potato noodles per packet directions (normally 8 min in boiling water). Drain, briefly rinse under tap water then shake off excess water well. Add noodles into the bowl with the dressing. DO NOT MIX."
+    },
+    {
+      "order": 5,
+      "instruction": "Batch 1 - Heat 2 tablespoons of oil in a large non-stick pan (30cm/12&quot;) over high heat. Cook the brown onion, white part of green onion and shiitake mushrooms with 1/2 tsp salt for 2 1/2 to 3 minutes, stirring constantly, just until starting to soften but not going golden. Pour on top of the noodles - don&#39;t mix yet!"
+    },
+    {
+      "order": 6,
+      "instruction": "Batch 2 - Using the same pan still on high heat, heat 1 tbsp oil then cook the carrot and capsicum for 1 1/2 minutes, constantly stirring. Add spinach, green onion and the final 1/2 tsp salt. Keep cooking for 1 1/2 minutes until the spinach is wilted. Transfer into the noodle bowl - still don&#39;t mix!"
+    },
+    {
+      "order": 7,
+      "instruction": "Cook beef - In the same pan, heat the final 1 tbsp of oil still on high heat. Add beef and cook for 1 1/2 minutes until very lightly golden and just cooked through. Add to the noodle bowl. Don&#39;t mix!"
+    },
+    {
+      "order": 8,
+      "instruction": "Mix! Add most of the sesame seeds (reserve some for topping). NOW you can mix! Toss, toss, toss."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve - Transfer into a serving bowl, sprinkle with remaining sesame seeds. This is meant to be eaten warm, not piping hot. Eat!"
+    }
+  ]
+}

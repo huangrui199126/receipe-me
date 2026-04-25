@@ -1,0 +1,171 @@
+{
+  "id": "tr_1274",
+  "title": "Up-and-go breakfast muffins!",
+  "image": "https://www.recipetineats.com/tachyon/2023/05/Up-and-go-breakfast-muffins_9.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/breakfast-muffins/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [
+    "bran muffins",
+    "breakfast muffins",
+    "healthy muffins"
+  ],
+  "nutrition": {
+    "calories": 217,
+    "protein": 6.0,
+    "carbs": 32.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "coconut oil (, virgin or unrefined (normal oil also works but not as tasty, Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg (, at room temperature (~55g/2oz))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "milk (, at room temperature - full fat best (low fat and non-dairy ok too))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "yogurt (, plain/unsweetened)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "honey ((or maple syrup))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "wheat germ (best) (OR 1 1/4 cups (80g) wheat bran (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "wholemeal flour ((sub ordinary flour - Note 3))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cinnamon powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "baking powder ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "baking soda (, sifted if lumpy (or 3 tsp extra baking powder) - Note 4)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz  raspberries (, 18 set aside and cut in half to decorate top if desired)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "diced fresh fruit  ((not watery) - like apples, pears)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "dried fruit, nuts, choc chips etc",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 190°C / 375°F (170°C fan). Line a 12 hole standard muffin tin with muffin cases OR spray generously with oil."
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk wet - Place coconut oil in a microwave proof bowl. Microwave for 45 seconds on high or until melted. Add remaining Wet ingredients, whisk until smooth."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix in Dry - Sprinkle the Dry ingredients across the surface in the order listed. Mix just until combined."
+    },
+    {
+      "order": 4,
+      "instruction": "Raspberries - Gently stir in the whole raspberries or other add-ins of choice."
+    },
+    {
+      "order": 5,
+      "instruction": "Fill muffin tin - Divide batter between the 12 holes using an ice cream scoop. Decorate top with halved raspberries."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake 25 minutes. Cool 5 minutes then transfer to a cooling rack."
+    }
+  ]
+}

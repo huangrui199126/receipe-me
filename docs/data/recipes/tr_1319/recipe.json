@@ -1,0 +1,191 @@
+{
+  "id": "tr_1319",
+  "title": "Beef Standing Rib Roast (Prime Rib)",
+  "image": "https://www.recipetineats.com/tachyon/2020/12/Standing-Rib-Roast_Prime-Rib_0-SQ.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/standing-rib-roast/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 120,
+  "tags": [
+    "prime rib",
+    "roast beef",
+    "standing rib roast"
+  ],
+  "nutrition": {
+    "calories": 671,
+    "protein": 64.0,
+    "carbs": 2.0,
+    "fat": 44.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2.5",
+      "unit": "kg",
+      "name": "/ 5 lb   standing rib roast / prime rib (, bone in (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, unpeeled, quartered (brown, yellow, white))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "head",
+      "name": "of garlic (, unpeeled, halved horizontally)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "sprigs",
+      "name": "thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "sprigs",
+      "name": "rosemary",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "150g/ 10 tbsp  unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "finely chopped fresh rosemary ((or 1 tsp dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "finely chopped fresh thyme ((or 1 tsp dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "beef broth/stock (, low salt)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "dry red wine ((Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornflour/cornstarch ((optional, Note 3))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring Beef to room temp: Take beef out of the fridge 2 - 3 hours before cooking to bring to room temp (key tip for even cooking). Pat dry with paper towel."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 240°C/460°F (220°C fan). Adjust shelf so beef will be sitting in the middle of the oven."
+    },
+    {
+      "order": 3,
+      "instruction": "Garlic Herb Butter: Mix together."
+    },
+    {
+      "order": 4,
+      "instruction": "Roasting bed: Place onion, garlic and herbs in a heavy based oven proof skillet (or use a roasting pan)."
+    },
+    {
+      "order": 5,
+      "instruction": "Slather 1: Spread a thin layer of butter on the underside of the beef (ie the bone side). Place beef on onion etc, butter side down. Spread about 2/3 of the butter on the top and sides (reserve some for Slather 2)."
+    },
+    {
+      "order": 6,
+      "instruction": "Hot oven: Roast 20 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Slather 2: Remove, spread over remaining butter. Turn oven down to 120°C/250°F (100°C fan)."
+    },
+    {
+      "order": 8,
+      "instruction": "Slow roast: Roast for a further 1 1/2 hours, basting every 30 minutes with the juices in the pan, until the internal temperature is 51°C / 123.8°F in the centre (for medium rare, Note 4). Start checking the internal temp early."
+    },
+    {
+      "order": 9,
+      "instruction": "Rest: Transfer beef to plate. Cover loosely with foil and rest for 20 - 30 minutes. Internal temperature will rise to 56-58°C / 133-136.4°F (which is medium rare)."
+    },
+    {
+      "order": 10,
+      "instruction": "Slice beef and serve with Sauce! For a classic high-end Steakhouse experience, serve with Paris Mash and Garlic Sautéed Spinach."
+    },
+    {
+      "order": 11,
+      "instruction": "Place skillet with onion and garlic left in it on the stove over high heat. Add wine and beef stock, rapidly simmer for 10 minutes until it reduces by 2/3 or so, down to 1 1/2 cups or liquid."
+    },
+    {
+      "order": 12,
+      "instruction": "Lower heat to medium. Mix cornflour with 2 tbsp water. Drizzle in half and stir. Sauce will thicken in 1 minute or so. Add more cornflour water mixture if you want it thicker."
+    },
+    {
+      "order": 13,
+      "instruction": "Strain into bowl, pour into sauce jug."
+    }
+  ]
+}

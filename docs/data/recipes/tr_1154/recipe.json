@@ -1,0 +1,126 @@
+{
+  "id": "tr_1154",
+  "title": "Green Bean Salad with Cherry Tomatoes and Feta",
+  "image": "https://www.recipetineats.com/tachyon/2019/11/Green-Bean-Salad-Cherry-Tomato-Feta_4.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/green-bean-salad-with-cherry-tomato-feta/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "cherry tomato salad",
+    "green bean salad"
+  ],
+  "nutrition": {
+    "calories": 166,
+    "protein": 3.9,
+    "carbs": 7.9,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   green beans (, trimmed)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "/ 12oz  cherry tomatoes (, halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 4oz  feta (, crumbled)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice ((or white wine vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil ((adjust to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the Dressing ingredients in a jar and shake well. Set aside - or refrigerate up to 2 days. Bring to room temperature before using."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring a large pot of salted water to boil. Add the beans, bring it back up to a boil and simmer for 2 minutes (tender) to 3 minutes (tender)."
+    },
+    {
+      "order": 3,
+      "instruction": "Drain in colander then run under cold tap water to cool (or plunge into bowl of ice water)."
+    },
+    {
+      "order": 4,
+      "instruction": "Drain well then pat dry with clean dish towels."
+    },
+    {
+      "order": 5,
+      "instruction": "Place beans in a bowl with tomato and onion. Drizzle with dressing, then toss. Garnish with feta. Serve!"
+    }
+  ]
+}

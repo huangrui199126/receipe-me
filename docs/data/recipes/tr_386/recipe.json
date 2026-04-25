@@ -1,0 +1,171 @@
+{
+  "id": "tr_386",
+  "title": "Creamy Garlic Prawns (Shrimp)",
+  "image": "https://www.recipetineats.com/tachyon/2020/09/Creamy-Garlic-Prawns_8-SQ.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-garlic-prawns-shrimp/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 12,
+  "tags": [
+    "creamy garlic prawns",
+    "creamy sauce for prawns",
+    "garlic shrimp"
+  ],
+  "nutrition": {
+    "calories": 490,
+    "protein": 32.0,
+    "carbs": 4.0,
+    "fat": 37.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1lb  peeled prawns/shrimp (, large/jumbo best (Note 1))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "15",
+      "unit": "g",
+      "name": "/ 1 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic clove (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "15",
+      "unit": "g",
+      "name": "/ 1 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "dry white wine ((or more chicken stock) (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "chicken or vegetable stock/broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "heavy/thickened cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parmesan (, finely grated (grate your own, Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place prawns, garlic, oil and pepper in a bowl. Toss to coat, set aside 20 minutes if time permits (no longer)."
+    },
+    {
+      "order": 2,
+      "instruction": "Stir through salt just prior to cooking."
+    },
+    {
+      "order": 3,
+      "instruction": "Melt 15g / 1 tbsp butter in a large skillet over medium high heat. Add half the prawns and cook for 1 minute on each side, then remove."
+    },
+    {
+      "order": 4,
+      "instruction": "Repeat with remaining prawns (you shouldn&#039;t need more butter), then remove. Scrape out excess remaining garlic from pan and add to cooked prawns."
+    },
+    {
+      "order": 5,
+      "instruction": "Add butter into skillet and let it melt. Add garlic and stir for 30 seconds or until light golden."
+    },
+    {
+      "order": 6,
+      "instruction": "Add white wine, turn up heat to high. Bring to simmer while stirring base of the pan to dissolve all the golden bits into the sauce. Cook 1 minute or until it most evaporates and the winey smell is gone."
+    },
+    {
+      "order": 7,
+      "instruction": "Add chicken stock and reduce until mostly gone and just a thin layer remains on base of skillet."
+    },
+    {
+      "order": 8,
+      "instruction": "Add cream, then simmer on medium heat for 2 minutes until reduced and slightly thickened."
+    },
+    {
+      "order": 9,
+      "instruction": "Stir through parmesan, then add the prawns back in. Taste sauce and see if more salt and pepper is needed."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve sprinkled with parsley, over mashed potato or something to soak up that fabulous sauce!"
+    }
+  ]
+}

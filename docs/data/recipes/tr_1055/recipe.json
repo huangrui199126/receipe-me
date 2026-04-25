@@ -1,0 +1,175 @@
+{
+  "id": "tr_1055",
+  "title": "Sausage Stuffing!",
+  "image": "https://www.recipetineats.com/tachyon/2019/11/Sausage-Stuffing.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/best-stuffing-recipe/",
+  "servings": 10,
+  "prepTime": 15,
+  "cookTime": 50,
+  "tags": [
+    "sausage dressing recipe",
+    "sausage stuffing",
+    "stuffing recipe"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 13.0,
+    "carbs": 24.0,
+    "fat": 24.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  heaped cups plain white bread (, crust on, cut into 2.5cm / 1 “ cubes (~600g/1.2lb) (Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1 lb   pork sausages (, good quality (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "50g/ 3 tbsp   butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large celery stalk (, sliced 3mm / 1/8” thick)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  granny smith apple (, skin left on, diced into 0.5 cm / 1/5” cubes)",
+      "emoji": "🍎",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "pecans (, roughly chopped (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(250 ml)  chicken stock/broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "(85 ml)  cream (, heavy / thickened (low fat also ok))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh sage (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fresh thyme leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each cooking/kosher salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  butter (, melted (extra for brushing))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Thyme leaves, small sage leaves, chopped parsley (, optional garnish)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan-forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Lightly toast bread - Spread bread out on tray (squished is fine). Bake for 8 minutes until lightly toasted – pale gold ok, should be soft on inside but crispy on outside. Transfer into large bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook sausage - Meanwhile, place about 1 tsp butter in a large skillet over high heat. Once melted, add sausage and cook, breaking it up as you go. Once cooked with a few golden bits, pour the sausage over the bread (yes, including all the fat!)."
+    },
+    {
+      "order": 4,
+      "instruction": "Sauté - Return skillet to stove, turn down to medium. Add remaining butter. Once melted, add onion, cook 2 minutes. Add celery and apple, cook for 3 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Simmer - Add pecans, chicken stock, cream, sage, thyme, salt and pepper. Stir. Bring to simmer, then cook for 2 minutes, then pour it into the bowl. Mix well, ensuring all the bread is evenly coated. Get in there with your hands if needed!"
+    },
+    {
+      "order": 6,
+      "instruction": "Taste and add more salt if needed (depends on saltiness of sausage)."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake - Transfer into a 2 litre / 2 quarts baking dish. Cover with foil, bake 40 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Brown - Remove foil, brush with Extra melted butter if desired. Then broil/grill on high for 2 to 4 minutes until the top is nicely browned (watch it carefully - but be brave! Colour = flavour!)."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve warm, sprinkled with parsley, fresh thyme or some small fresh sage leaves if desired!"
+    }
+  ]
+}

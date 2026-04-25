@@ -1,0 +1,134 @@
+{
+  "id": "tr_529",
+  "title": "Sticky Honey Soy Chicken - baked",
+  "image": "https://www.recipetineats.com/tachyon/2016/02/Honey-Soy-Baked-Chicken_60-SQ.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sticky-honey-soy-baked-chicken/",
+  "servings": 5,
+  "prepTime": 5,
+  "cookTime": 50,
+  "tags": [
+    "baked chicken",
+    "honey soy chicken"
+  ],
+  "nutrition": {
+    "calories": 492,
+    "protein": 34.0,
+    "carbs": 12.0,
+    "fat": 34.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1.2",
+      "unit": "kg",
+      "name": "/ 2.4lb   bone-in, skin-on chicken thighs OR drumsticks ((5 - 6 pieces) (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion (, peeled, cut into wedges)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "apple cider vinegar  (or ordinary white vinegar)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh coriander/cilantro leaves  ((or other green things like green onion, parsley, chives))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/390°F (180°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Line pan: Line a baking dish with foil then baking paper. The baking tray should fit the chicken comfortably, not too spaced apart (glaze will dry out), not too snug (glaze won&#039;t thicken enough). (Note 3)"
+    },
+    {
+      "order": 3,
+      "instruction": "Glaze: Mix the Glaze ingredients together."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour glaze over chicken: Place onion and chicken in the baking dish skin side down, then pour the Glaze over."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake 50 - 60 minutes: Bake for 25 minutes, then turn and bake for a further 25 to 35 minutes, until the chicken is browned and the glaze is sticky. If the glaze is not syrupy, remove the chicken to a plate and put the pan back in for a few minutes (it will reduce quickly)."
+    },
+    {
+      "order": 6,
+      "instruction": "Squidge/coat chicken - Turn chicken and squidge in the glaze, then also spoon it over."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve! Serve with rice and steamed greens, sprinkled with sesame seeds and fresh cilantro/coriander leaves."
+    }
+  ]
+}

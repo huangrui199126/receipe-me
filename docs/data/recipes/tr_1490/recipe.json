@@ -1,0 +1,124 @@
+{
+  "id": "tr_1490",
+  "title": "Healthy Chai Banana Pancakes.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2017/01/Healthy-Chai-Banana-Pancakes-1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/healthy-chai-banana-pancakes/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "banana",
+    "chai",
+    "healthy",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 393,
+    "protein": 7.0,
+    "carbs": 38.0,
+    "fat": 4.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  whole eggs + 2 egg whites",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium/large ripe banana",
+      "emoji": "🍌",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "old fashioned oats",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "cardamon",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "all-spice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "maple syrup (bananas, and fresh fruit, for serving)",
+      "emoji": "🍌",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a blender, combine the eggs, egg whites, banana, oats, vanilla, baking powder, cinnamon, ginger, cardamon, all-spice, and salt. Blend until the oatmeal is finely ground and the mixture looks like pancake batter, about 30 seconds to 1 minute. It's OK if there are small chunks."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a large skillet or griddle over medium heat and lightly grease the skillet with oil. Pour about 1/4 cup batter onto the center of the hot pan and gently spread the batter to form a circle. Cook until bubbles appear on the surface. Using a spatula, gently flip the pancake over and cook the other side for a minute, or until golden. Repeat with the remaining batter. Serve the pancakes with bananas, fresh fruit, and maple. Eat!"
+    }
+  ]
+}

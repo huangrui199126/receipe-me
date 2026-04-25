@@ -1,0 +1,167 @@
+{
+  "id": "tr_1666",
+  "title": "Spicy Mexican Lasagna Roll Ups.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/10/Spicy-Mexican-Lasagna-Roll-Ups-1.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/spicy-mexican-lasagna-roll-ups/",
+  "servings": 6,
+  "prepTime": 25,
+  "cookTime": 45,
+  "tags": [
+    "chorizo",
+    "lasagna",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 943,
+    "protein": 42.0,
+    "carbs": 62.0,
+    "fat": 60.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "ground chorizo",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "can crushed tomatoes (28)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "chipotle chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "whole milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of salt + pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "lasagna noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "cream cheese (softened)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "ounce",
+      "name": "cans Old El Paso Red Enchilada Sauce (10)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "fontina cheese (shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "sharp white cheddar cheese (shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "fresh oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large, high-sided skillet, brown the chorizo all over, breaking up the meat as it cooks. Once the chorizo is browned all over, add the tomatoes, cumin, smoked paprika and chipotle chili powder stirring to combine. Slowly pour in the milk and bring the sauce to a bubble. Reduce the heat and simmer 15-20 minutes or until the sauce has thickened."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, bring a large pot of salted water to a boil and boil the pasta until al dente. Drain and run under cold water to stop the cooking."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat the oven to 375 degrees F."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour one can of enchilada sauce in the bottom of a lasagna pan or a 9x13 inch baking dish."
+    },
+    {
+      "order": 5,
+      "instruction": "Lay the lasagna sheets flat on a clean surface and spread each with cream cheese. Once the chorizo sauce has thickened, spoon a little sauce onto each lasagna sheet and then roll it up into a cute little pasta roll. Place the pasta in the baking dish with the enchilada sauce and repeat with the remaining lasagna sheets + filling. Spoon any extra filling over the pasta and then pour the remaining can of enchilada sauce over the lasagna rolls. Sprinkle the cheese over the rolls. Cover the dish and place on a large cookie sheet with sides. Bake covered, for 30 minutes. Remove the foil and bake another 15 minutes or until the cheese is golden and browned."
+    },
+    {
+      "order": 6,
+      "instruction": "Meanwhile, heat the olive oil in a skillet, once hot add the oregano leaves and fry the leaves 30 seconds. Drain on paper towels."
+    },
+    {
+      "order": 7,
+      "instruction": "Garnish the lasagna rolls with the fried oregano. EAT!"
+    }
+  ]
+}

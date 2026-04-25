@@ -1,0 +1,126 @@
+{
+  "id": "tr_1004",
+  "title": "Balsamic marinated mushrooms",
+  "image": "https://www.recipetineats.com/tachyon/2023/07/Balsamic-marinated-mushrooms_5.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/balsamic-marinated-mushrooms/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 35,
+  "tags": [
+    "marinated mushrooms",
+    "mushroom recipe"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5.0,
+    "carbs": 9.0,
+    "fat": 22.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "700g/ 1.4 lb  small whole white mushrooms ( or halved larger ones (Note 1))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "5",
+      "unit": "sprigs",
+      "name": "fresh thyme ((sub 1/2 tsp dried thyme))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves ((skin on fine), smashed (Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/375°F (180°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Season - Put mushrooms into a roasting pan (not tray, easier to mix well in pan). They can be snug but should be in a single layer (mushrooms shrink ~25-30%). Toss with olive oil first. Then add salt, pepper, thyme and garlic (minced &amp; whole), then toss again."
+    },
+    {
+      "order": 3,
+      "instruction": "Roast 35 minutes, tossing well at the 20 minute mark, or until the mushrooms are browned and soft."
+    },
+    {
+      "order": 4,
+      "instruction": "Marinade - While hot, transfer mushrooms into a bowl (including all the juices). Add balsamic and olive oil. Toss well."
+    },
+    {
+      "order": 5,
+      "instruction": "Marinate 2 to 24 hrs - Let the mushrooms cool and marinate for 2 hours (uncovered), tossing once or twice, or for even better flavour, marinate overnight (covered in fridge once cool)."
+    },
+    {
+      "order": 6,
+      "instruction": "Serving - Always serve at room temperature or slightly warmed, for best flavour. And don&#39;t waste the juices - it&#39;s full of flavour!"
+    },
+    {
+      "order": 7,
+      "instruction": "Serving options - As part of a grazing board, on polenta or mash as a meal, on toast slathered with goats cheese or cream cheese, on the side of fried eggs, on creamy risotto or risoni/orzo. See in post for a long list!"
+    }
+  ]
+}

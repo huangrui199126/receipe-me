@@ -1,0 +1,71 @@
+{
+  "id": "tr_579",
+  "title": "Mignonette Sauce for Oysters",
+  "image": "https://www.recipetineats.com/tachyon/2023/12/Mignonette-sauce-for-oysters_5.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mignonette-sauce-for-oysters/",
+  "servings": 24,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "dressing for oysters",
+    "mignonette",
+    "sauce for oysters"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "eschalot ((US: shallot), finely minced (Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "red wine vinegar (, preferably a good quality one (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 - 24  oysters ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper (, sprinkle yourself (Note 4))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mignonette - Mix together in a bowl then set aside for at least 2 hours to let the flavours meld."
+    },
+    {
+      "order": 2,
+      "instruction": "Serving - Transfer into a little dish with a small spoon. Serve alongside oysters (generally people help themselves)."
+    },
+    {
+      "order": 3,
+      "instruction": "Using - Most people just use about 1/2 tsp for small oysters and 3/4 tsp for large. Some people will use more liberally! Comes down to personal taste."
+    }
+  ]
+}

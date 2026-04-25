@@ -1,0 +1,161 @@
+{
+  "id": "tr_777",
+  "title": "Glazed lemon loaf",
+  "image": "https://www.recipetineats.com/tachyon/2023/06/Glazed-lemon-loaf_4.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/glazed-lemon-loaf-quick-bread/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 65,
+  "tags": [
+    "blueberry loaf bread",
+    "lemon bread",
+    "lemon loaf",
+    "no yeast bread",
+    "quick bread"
+  ],
+  "nutrition": {
+    "calories": 367,
+    "protein": 5.0,
+    "carbs": 57.0,
+    "fat": 14.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "plain flour / all-purpose flour ((Note 1 for GF))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "plain yogurt (, at room temperature)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large eggs ((~55g/2oz each), at room temperature)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "75",
+      "unit": "g",
+      "name": "/ 5 tbsp  unsalted butter (, melted and cooled)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "vegetable or canola oil ((or other neutral flavoured oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon zest ((~2 large lemons))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "caster sugar / superfine sugar ((sub normal/granulated sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "lemon extract ( - sub 1 tbsp extra zest (Note 3))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "soft icing sugar/powdered sugar (, sifted)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 3 1/2 tsp+ lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan-forced). Grease then line a 21 x 11 x 7 cm (8.5 x 4.5 x 2.75&quot;) with baking / parchment paper. (Note 4)"
+    },
+    {
+      "order": 2,
+      "instruction": "Batter - Whisk Dry ingredients in a large bowl. Whisk Wet ingredients in a separate bowl. Pour Wet ingredients into the Dry ingredients. Whisk just until lump free. Pour into the prepared loaf pan then smooth the surface."
+    },
+    {
+      "order": 3,
+      "instruction": "Bake 45 minutes uncovered. Loosely cover with foil then bake a further 20 minutes or until a skewer inserted comes out clean."
+    },
+    {
+      "order": 4,
+      "instruction": "Cool &amp; glaze - Stand 10 min in pan then turn out onto a cooling rack. Fully cool before glazing (~3 hours). Use a spoon to spread and coax lovely glaze drips down the side! Cut thick slices and serve."
+    },
+    {
+      "order": 5,
+      "instruction": "Glaze - Whisk ingredients until combined and smooth, a thick smooth frosting that will drip thickly, not be transparent. Start with 3 1/2 teaspoons lemon juice, and add 1/2 tsp extra, as needed. (Note 5 on thickness)"
+    }
+  ]
+}

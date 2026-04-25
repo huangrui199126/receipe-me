@@ -1,0 +1,231 @@
+{
+  "id": "tr_108",
+  "title": "Satay Chicken Noodle Salad",
+  "image": "https://www.recipetineats.com/tachyon/2016/01/Satay-Chicken-Noodle-Salad_1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/satay-chicken-noodle-salad/",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 474,
+    "protein": 38.1,
+    "carbs": 34.5,
+    "fat": 21.7
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "peanut butter ((preferably smooth))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "sriracha (, or 2 tsp chili paste/sauce + 2 tsp vinegar)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "coconut milk ((I used low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  oz/300g fresh egg noodles ((Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "red cabbage (, shredded)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "green cabbage (, shredded)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  carrots (, finely chopped)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  scallion/shallot stems (, finely sliced on the diagonal)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large red chilli ((not very spicy), deseeded and finely sliced (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "12",
+      "unit": "oz",
+      "name": "/ 350g   chicken breast (, cut in half vertically and thinly sliced)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "curry powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sweet soy sauce/ kecap manis ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cooking oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "peanuts (, roughly chopped)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix dressing ingredients in a bowl until smooth."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare noodles according to packet instructions."
+    },
+    {
+      "order": 3,
+      "instruction": "Place both cabbages and carrots in a bowl, add 1/4 tsp salt, toss to combine and set aside for 5-10 minutes to wilt lightly."
+    },
+    {
+      "order": 4,
+      "instruction": "Place the Satay Chicken ingredients EXCEPT the oil in a bowl and toss to coat."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat oil in a non stick fry pan over high heat. Add the chicken and cook for 3 minutes until golden, then transfer to a plate."
+    },
+    {
+      "order": 6,
+      "instruction": "Toss noodles and remaining salad ingredients with chicken and Dressing, then serve. Serve at room temperature or warm."
+    }
+  ]
+}

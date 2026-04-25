@@ -1,0 +1,269 @@
+{
+  "id": "tr_1362",
+  "title": "Pakora (Indian Vegetable Fritters)",
+  "image": "https://www.recipetineats.com/tachyon/2021/05/Pakora_1-SQ1.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pakora-indian-vegetable-fritters/",
+  "servings": 40,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [
+    "gluten free recipes",
+    "indian fritter",
+    "pakora",
+    "pakora recipe",
+    "vegetable fritter"
+  ],
+  "nutrition": {
+    "calories": 64,
+    "protein": 2.0,
+    "carbs": 8.0,
+    "fat": 3.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "chickpea flour ((Note 1))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "turmeric powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "coriander powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fenugreek powder ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "chilli powder ((pure chilli powder, Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "salt ((cooking/kosher salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cups",
+      "name": "+ 2 1/2 tbsp  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "onions (, grated using standard box grater (~1 1/2 onions))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "potato ((~1 large), peeled and grated using standard box grater (Note 4))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "cauliflower ((~1/4 large head), finely chopped into rice size pieces (or grate))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large red chillies ((cayenne peppers), finely chopped (adjust spiciness to taste, or leave them out))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh ginger (, finely grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "coriander/cilantro leaves (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 4 cups vegetable or canola oil ((4cm / 1.5\" depth in pot))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "mint leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "eschalot (, sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "caster sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cumin seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  ice cubes ((loosens + keeps sauce green))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "plain yoghurt",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "mint leaves (, packed)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Make batter: Place chickpea flour in a bowl with the spices (turmeric, cumin, coriander, fenugreek, chilli). Slow whisk in the water."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix in Vegetables: Add potato, cauliflower, onion, ginger, chilli and coriander. Mix well with a wooden spoon. It should be a thick batter, almost paste-like."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 80°C/175°F - to keep cooked pakoras warm. Set a rack over a tray."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil: Heat 4cm / 1.5&quot; oil in a large heavy based pot to 180°C/350°F (Note 6)."
+    },
+    {
+      "order": 5,
+      "instruction": "Form patties: Drop 2 tbsp of batter roughly formed into a patty shape into the oil. I use my hands (as is typical in India!) but you can also use 2 tablespoons (be careful of splash-age). Don&#039;t crowd the pot, it will lower the temperature too much."
+    },
+    {
+      "order": 6,
+      "instruction": "Fry pakoras: Fry 2 - 3 minutes until golden. Drain on paper towels. Keep cooked pakoras hot in the oven on a rack set over a tray."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve: Serve pakoras with Coriander Mint Sauce or Minted Yogurt Sauce!"
+    },
+    {
+      "order": 8,
+      "instruction": "Place ingredients in a small food processor or Nutribullet, or use a stick blender. Blitz until smooth."
+    }
+  ]
+}

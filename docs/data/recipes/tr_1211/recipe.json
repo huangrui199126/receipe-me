@@ -1,0 +1,133 @@
+{
+  "id": "tr_1211",
+  "title": "Avocado Dip",
+  "image": "https://www.recipetineats.com/tachyon/2018/06/Avocado-Hummus_7.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/avocado-hummus/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "avocado dip"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large avocado, 300g/10oz whole (or 2 medium)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "chickpeas, drained (~14oz / 420g)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "tahini (sesame paste) OR yoghurt",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp fresh lemon or lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander / cilantro leaves, packed (some stems ok)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp  water as required",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pine nuts (, toasted (hummus-style!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut avocado in half, remove seed. Use spoon to scoop flesh into food processor. Add remaining ingredients. Start with just a pinch of salt because canned chick peas vary in saltiness. Whizz until smooth, scraping down sides as required."
+    },
+    {
+      "order": 2,
+      "instruction": "Adjust: sour with lemon, salt, pepper, and dip consistency with water. Whizz again."
+    },
+    {
+      "order": 3,
+      "instruction": "Dollop onto plate. Use spoon to make swirls on top. Drizzle over olive oil, sprinkle to pine nuts, garnish with coriander. Serve with chips, crackers or pita bread, see notes for most amazing stay-green storage tip!"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "tr_892",
+  "title": "WILD RICE SALAD",
+  "image": "https://www.recipetineats.com/tachyon/2017/11/Wild-Rice-Salad-2.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/wild-rice-salad/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 50,
+  "tags": [],
+  "nutrition": {
+    "calories": 361,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "(5oz / 1 cup)  wild rice (, uncooked (Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "(4oz)  baby rocket / arugula (, roughly chopped (~2 giant handfuls))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  pomegranate (, seeds only (see video, Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "(3.5oz)  feta (, preferably soft Danish, crumbled (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "dried cranberries ((or similar))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "roughly chopped toasted pecans",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "green onions (, sliced (or chopped red onion))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white wine vinegar ((or cider vinegar, or other clear-ish vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Boil 1 litre/quart+ of water in large saucepan (no need to be exact). Add rice, lower heat so it’s simmering gently. Cover then cook for 40 minutes (Note 4), or until rice is tender but not super soft (some will burst).&nbsp;"
+    },
+    {
+      "order": 2,
+      "instruction": "Drain then leave to steam dry and cool."
+    },
+    {
+      "order": 3,
+      "instruction": "Salad"
+    },
+    {
+      "order": 4,
+      "instruction": "Shake Dressing in a jar, set aside for 15 minutes+."
+    },
+    {
+      "order": 5,
+      "instruction": "Place rocket, rice, cranberries, pecans and green onions in a bowl. Add some of the feta and pomegranate. Pour over most of the Dressing, toss gently."
+    },
+    {
+      "order": 6,
+      "instruction": "Transfer into serving bowl, top with remaining feta and pomegranate. Serve immediately."
+    }
+  ]
+}

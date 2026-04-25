@@ -1,0 +1,162 @@
+{
+  "id": "tr_395",
+  "title": "Chicken Piccata (Lemon Chicken with Capers)",
+  "image": "https://www.recipetineats.com/tachyon/2021/05/Chicken-Piccata_0-SQ.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-piccata/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "chicken piccata",
+    "creamy lemon chicken"
+  ],
+  "nutrition": {
+    "calories": 358,
+    "protein": 33.0,
+    "carbs": 5.0,
+    "fat": 19.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "450",
+      "unit": "g",
+      "name": "/ 16oz  chicken breast ((2 large pieces), skinless boneless (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "flour ((sub cornflour/cornstarch for GF))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "parmesan (, finely grated (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "/ 15g  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "/ 30g  unsalted butter (, cut into 1.5cm / 1/2\" cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "dry white wine ((Note 3))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice (, fresh)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "capers in brine (, drained (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "parsley (, finely chopped, plus more for garnish)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut each breast into 3 pieces. Then place between 2 pieces of cling wrap or paper and pound to 1/2 cm / 0.2\" thickness."
+    },
+    {
+      "order": 2,
+      "instruction": "Drizzle chicken with 1/2 tbsp olive oil and spread with your fingers on both sides."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix flour, parmesan, salt and pepper in a shallow dish. Coat chicken, pressing to adhere, then shaking off excess."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat olive oil in a large skillet over medium high heat. Then add butter and let it melt."
+    },
+    {
+      "order": 5,
+      "instruction": "Place 3 pieces of chicken in the skillet. Cook 3 - 4 minutes until golden, then turn and cook the other side for 1 minute. Remove onto plate, repeat with remaining chicken."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour out and discard excess fat in skillet, then give it a quick wipe with paper towels (no need to clean thoroughly)."
+    },
+    {
+      "order": 7,
+      "instruction": "Still on medium high heat, add wine. Let it simmer rapidly until it reduces by half - around 3 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Add lemon and simmer 1 minute."
+    },
+    {
+      "order": 9,
+      "instruction": "Reduce heat to low. Add cubed butter and swirl pan to make it melt but not go foamy. Sauce should be glossy, translucent and slightly thickened."
+    },
+    {
+      "order": 10,
+      "instruction": "Stir in capers and parsley. Serve chicken with Sauce, sprinkled with extra parsley if desired!"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "tr_1432",
+  "title": "Baharat (aka Lebanese 7 Spice)",
+  "image": "https://www.recipetineats.com/tachyon/2026/03/Baharat-spice-mix_0.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baharat/",
+  "servings": 0,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ground all-spice powder ((substitute with mixed spice))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cinnamon powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "tsp",
+      "name": "ground coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/8",
+      "unit": "tsp",
+      "name": "ground cloves ((substitute more nutmeg))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/8",
+      "unit": "tsp",
+      "name": "nutmeg powder ((substitute more cloves))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ground all-spice powder ((substitute with mixed spice))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cinnamon powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "ground coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "ground cloves ((substitute more nutmeg))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "nutmeg powder ((substitute more cloves))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix the spices together in a small bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Store in a airtight jar for 3 months in a cool dry place, though note the shelf life will be limited to the freshness of your spices."
+    }
+  ]
+}

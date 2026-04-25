@@ -1,0 +1,175 @@
+{
+  "id": "tr_1575",
+  "title": "Blueberry Almond Pancakes.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/05/Blueberry-Almond-Pancakes-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/blueberry-almond-pancakes/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "almond",
+    "blueberry pancakes",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 533,
+    "protein": 7.0,
+    "carbs": 51.0,
+    "fat": 14.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "flour (can use whole wheat or a gluten free flour blend)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "teaspoons",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "butter (melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "[Almond Breeze Almondmilk Original Unsweetened | http://www.almondbreeze.com/products/almondmilk-unsweetened-vanilla/]",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-1 1/2 cups fresh or frozen blueberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "whipped cream + maple syrup (for serving)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "stalks",
+      "name": "rhubarb",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh strawberries (halved)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoons",
+      "name": "vanilla bean (seeds removed ( or 2 vanilla))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 400 degrees F."
+    },
+    {
+      "order": 2,
+      "instruction": "In a baking dish, toss together the rhubarb, strawberries, honey, vanilla and butter. Roast for 25-30 minutes or until the rhubarb has softened."
+    },
+    {
+      "order": 3,
+      "instruction": "In a medium size mixing bowl, combine the flour, baking powder, sugar and salt. Add the eggs, melted butter, [Almond Breeze Almondmilk | http://www.almondbreeze.com/products/almondmilk-unsweetened-vanilla/], apple cider vinegar and vanilla. Stir until just combined, it is OK if the batter is a little lumpy. Gently stir in the blueberries."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat a skillet on medium heat. Grease with butter or cooking spray. Pour 1/3 cup pancake batter on the center of the hot pan. Cook until bubbles appear on the surface. Using a spatula, gently flip the pancake over and cook the other side for a minute, or until golden. Repeat with the remaining batter."
+    },
+    {
+      "order": 5,
+      "instruction": "To serve, top each pancake with a little whipped cream and a large spoonful of the warm roasted rhubarb/straweberries. Finish with a drizzle of maple syrup. EAT!"
+    }
+  ]
+}

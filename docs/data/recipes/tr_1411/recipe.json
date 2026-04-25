@@ -1,0 +1,97 @@
+{
+  "id": "tr_1411",
+  "title": "Garlic Bread",
+  "image": "https://www.recipetineats.com/tachyon/2018/03/Garlic-Bread_9.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/garlic-bread/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "garlic bread"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 4.0,
+    "carbs": 25.0,
+    "fat": 18.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  French stick / baguette (, ~ 60cm / 2ft long (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 1 US stick   unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fresh garlic (, very finely minced (~3 - 4 cloves, pack the teaspoon))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((halve for table salt, +50% for flakes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "finely chopped parsley ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200C/390F."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut the French stick in half. Then cut the bread almost all the way through into 2cm / 4/5\" thick slices."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix together the butter, garlic, salt and parsley. Taste to see if it's salty / garlicky enough for your taste (Note 2)."
+    },
+    {
+      "order": 4,
+      "instruction": "Smear garlic butter over cut side of bread (Note 2)."
+    },
+    {
+      "order": 5,
+      "instruction": "Smear remaining butter on the top and sides of the bread."
+    },
+    {
+      "order": 6,
+      "instruction": "Wrap each bread in foil."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake for 15 minutes until the crust is crispy (check through foil)."
+    },
+    {
+      "order": 8,
+      "instruction": "Unwrap and serve!"
+    }
+  ]
+}

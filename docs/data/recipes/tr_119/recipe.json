@@ -1,0 +1,267 @@
+{
+  "id": "tr_119",
+  "title": "Blackened Fish Tacos",
+  "image": "https://www.recipetineats.com/tachyon/2015/10/Blackened-Fish-Tacos1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/blackened-fish-tacos-hapa-nom-nom-guest-post/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 6,
+  "tags": [],
+  "nutrition": {
+    "calories": 243,
+    "protein": 14.3,
+    "carbs": 20.6,
+    "fat": 12.8
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "greek yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  avocado",
+      "emoji": "🥑",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cilantro/coriander leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  limes zested and juiced",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  jalapeños",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "mint (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "tsp",
+      "name": "Kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Freshly ground black pepper (, to taste)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "red cabbage (, finely shredded*)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "green cabbage (, finely shredded*)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  carrots (, grated*)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "mayonnaise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Sriracha",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dry mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "Kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  tilapia fillets",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  (6 inch) tortillas",
+      "emoji": "🥄",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  jalapeños (, sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small bunch cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 27
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In the bowl of a food processor, add the yogurt, avocado, cilantro, garlic, lime zest, lime juice, jalapeños, mint, salt, and pepper. Puree until smooth and creamy. Taste and add more salt and pepper, if needed. Place the shredded cabbage and carrots in a large bowl. Add 1/2 a cup of the avocado-lime dressing from the food processor and stir to combine. Add more dressing if you would like a creamier slaw. If not, you can use the extra dressing to top the tacos later. Refrigerate until ready to use."
+    },
+    {
+      "order": 2,
+      "instruction": "In a small bowl, combine the ingredients for the Sriracha Aioli. Refrigerate until ready to use."
+    },
+    {
+      "order": 3,
+      "instruction": "If you would like to toast the tortillas (highly recommended if you are using corn tortillas)* heat a pan over medium-high heat. Once hot, warm each tortilla 1 to 2 minutes per side – you want to heat the tortillas just enough to slightly char and add a bit of crispness, but not so much that when you fold it, it cracks. Wrap the tortillas in a clean tea towel to keep warm and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "On a large plate, combine all of the spices to make the blackened seasoning. Dredge both sides of each fish fillet in the spice mixture. In a large saute pan, heat the olive oil over medium-high heat. At the first wisp of smoke from the pan, add the fillets, working in batches if needed. Cook for 2 -3 minutes on each side. (Do not move the fish fillets around while they're cooking. Leave them be until they're ready to flip). Transfer the cooked fillets to a cutting board and slice each fillet in-half, vertically - making 8 pieces."
+    },
+    {
+      "order": 5,
+      "instruction": "To serve, top each tortilla with the fish, avocado-lime slaw, jalapeños, cilantro, and drizzle with the Sriracha aioli. Serve with extra wedges of lime and enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "tr_980",
+  "title": "Mexican Meatballs",
+  "image": "https://www.recipetineats.com/tachyon/2021/06/Mexican-Meatballs_5-SQ.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mexican-meatballs/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 25,
+  "tags": [
+    "beef mince recipe",
+    "ground beef recipe",
+    "meatballs recipe",
+    "mexican meatballs"
+  ],
+  "nutrition": {
+    "calories": 401,
+    "protein": 24.0,
+    "carbs": 22.0,
+    "fat": 25.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8oz  beef mince ((ground beef))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8oz  pork mince ((ground pork), or more beef (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, grated using a standard box grater)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 1.75 oz  plain corn chips (, sub breadcrumbs + 1/4 tsp salt (Note 2))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "coriander/cilantro (, finely chopped (sub chives or parsley))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fresh jalapeño (, seeds removed and finely minced (reduce/omit for not spicy))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray ((preferably olive oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "chipotle powder (, sub more smoked paprika, reduce for less spicy (Note 3))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "coriander powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder ((sub 1/2 fresh garlic clove, finely grated))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "paprika (, hot for spicy or sweet for not (or sub more Chipotle powder))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  chipotle from a can of Chipotle in Adobo (, finely chopped - add another for extra flavour! (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Adobo Sauce from a can of Chipotle in Adobo ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 24 oz  crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "coriander/cilantro (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Coriander/cilantro leaves (, whole)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Shredded cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Guacamole ((or just diced, sliced or mashed plain avocado))",
+      "emoji": "🥑",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rice, for serving ((Note )",
+      "emoji": "🍚",
+      "section": "",
+      "order": 27
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/390°F (200°C fan). Place a rack over a tray. Spray rack with oil."
+    },
+    {
+      "order": 2,
+      "instruction": "Blitz corn chips: Place corn chips in a Nutribullet or food processor. Blitz until they become fine crumbs. (Else put in a ziplock bag and bash!)"
+    },
+    {
+      "order": 3,
+      "instruction": "Meatball mixture: Place meatball ingredients and meatball Mexican spices in a bowl and mix well with your hands."
+    },
+    {
+      "order": 4,
+      "instruction": "Roll meatballs: Roll into 3 - 3.5cm / 1.2 - 1.4&quot; balls. Place on rack. Should make around 20 - 24 meatballs."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake 10 minutes: Spray meatballs generously with oil. Bake 10 minutes until browned (they will still be raw inside, we finish cooking them in the sauce)."
+    },
+    {
+      "order": 6,
+      "instruction": "While the meatballs are in the oven, start the sauce."
+    },
+    {
+      "order": 7,
+      "instruction": "Sauté garlic and chipotle: Heat oil over medium high heat in a large skillet. Add garlic and cook for 30 seconds. Add chopped Adobo Chile and sauté for 20 seconds."
+    },
+    {
+      "order": 8,
+      "instruction": "Simmer 5 minutes: Add tomato, Adobo sauce and sugar. Bring to simmer, then turn heat down to low and cook, stirring every now and then, for 5 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Cook meatballs in sauce: Remove meatballs from oven and transfer into sauce. Continue to cook the sauce for another 10 minutes, rolling meatballs every now and then, until the sauce is thickened and the meatballs are cooked."
+    },
+    {
+      "order": 10,
+      "instruction": "Fresh coriander: Sprinkle with chopped coriander/cilantro."
+    },
+    {
+      "order": 11,
+      "instruction": "Serving: Serve over rice or stuff into tortillas with toppings of choice!"
+    }
+  ]
+}

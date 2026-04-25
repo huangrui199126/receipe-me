@@ -1,0 +1,135 @@
+{
+  "id": "tr_184",
+  "title": "Peanut Butter Chocolate Molten Lava Cake",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/Peanut-Butter-Chocolate-Lava-Molten-Cake-3.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/peanut-butter-chocolate-molten-lava-cake/",
+  "servings": 5,
+  "prepTime": 7,
+  "cookTime": 16,
+  "tags": [],
+  "nutrition": {
+    "calories": 493,
+    "protein": 8.9,
+    "carbs": 43.9,
+    "fat": 32.5
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "7",
+      "unit": "oz",
+      "name": "/ 200g   dark chocolate melts ((note 1))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3.5",
+      "unit": "oz",
+      "name": "/ 100g   unsalted butter (, chopped)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  egg yolks",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "caster sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5 heaped tsp  smooth peanut butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cocoa powder (, for dusting)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200C/390F (standard) or 180C/350F (convection/fan forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place chocolate and butter in a bowl. Microwave in 30 second bursts, stirring in between. Stir well to combine butter and chocolate and leave to cool for 5 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, generously grease 5 x 3/4 cup dariole moulds then dust with cocoa powder. (See notes 2 and 3)"
+    },
+    {
+      "order": 4,
+      "instruction": "In a separate bowl, whisk together the eggs (2 x whole eggs + 2 x yolks) and sugar."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the chocolate mixture and mix until combined."
+    },
+    {
+      "order": 6,
+      "instruction": "Add flour and fold through until just combined. Do not over mix."
+    },
+    {
+      "order": 7,
+      "instruction": "Pour batter into dariole moulds until it reaches halfway."
+    },
+    {
+      "order": 8,
+      "instruction": "Drop a heaped teaspoon of peanut butter in the centre of each. Push down gently to mostly submerge."
+    },
+    {
+      "order": 9,
+      "instruction": "Top up with remaining batter until the dariole mould is 3/4 filled. Do not overfill! (Note 4)"
+    },
+    {
+      "order": 10,
+      "instruction": "Bake for 16 minutes, or until the top springs back when touched gently. (Note 5)"
+    },
+    {
+      "order": 11,
+      "instruction": "Turn out onto plate. If you dusted the mould with cocoa powder, it should slip out easily. If it does not, then run a knife around the edge."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve immediately!"
+    }
+  ]
+}

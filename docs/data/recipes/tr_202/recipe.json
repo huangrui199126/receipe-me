@@ -1,0 +1,187 @@
+{
+  "id": "tr_202",
+  "title": "Vietnamese Garlic Shrimp (Prawn) Noodle Salad",
+  "image": "https://www.recipetineats.com/tachyon/2015/07/Viet-Noodle-Salad_680px_1.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vietnamese-shrimp-prawn-noodle-salad/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 273,
+    "protein": 16.8,
+    "carbs": 36.9,
+    "fat": 6.1
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 - 15  medium shrimp ((prawns), shelled and deveined (about 5 - 7 oz / 150 - 200g, excluding shells))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "caster sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove (, very finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "very finely chopped red chili (, adjust to taste (I use birds eye which is spicy))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2.5",
+      "unit": "oz",
+      "name": "/ 75g   dried rice vermicelli noodles ((Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "iceberg lettuce (, shredded)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "carrot (, cut into fine matchsticks)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "cucumber (, cut into matchsticks)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "beansprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander leaves (, lightly packed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "mint leaves ((ordinary or Vietnamese), lightly packed)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the Garlic Shrimp ingredients in a small bowl and set aside for 10 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the Dressing ingredients in a small jar, give it a shake then set aside for 10 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat a skillet / fry pan over high heat. Add the shrimp, scraping in the olive oil and garlic from the sides of the bowl. Cook for 2 minutes, or until browned and the shrimp is just cooked through. (Note 2)"
+    },
+    {
+      "order": 4,
+      "instruction": "Remove the prawns from the skillet onto a plate."
+    },
+    {
+      "order": 5,
+      "instruction": "Prepare the vermicelli noodles according to the packet directions. I like to just soak them in hot tap water for a few minutes, this ensures they don't overcook. Then drain the noodles."
+    },
+    {
+      "order": 6,
+      "instruction": "Arrange the noodles and remaining Salad ingredients on a large plate (like the photo) or toss together in a bowl. Top with prawns (warm or at room temperature). Drizzle over the Dressing (or toss through), or you can serve the Dressing on the side."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve immediately."
+    }
+  ]
+}

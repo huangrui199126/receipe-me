@@ -1,0 +1,233 @@
+{
+  "id": "tr_1578",
+  "title": "Baja Fish Tacos with Chipotle Mango Salsa.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/05/Baja-Fish-Tacos-with-Chipotle-Mango-Salsa-1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/baja-fish-tacos-chipotle-mango-salsa/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "baja",
+    "chipotle",
+    "fish tacos",
+    "mango",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 739,
+    "protein": 47.0,
+    "carbs": 77.0,
+    "fat": 19.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "white fish (cut into 1 inch chunks (I used mahi mahi))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "light beer",
+      "emoji": "🍺",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "vegetable oil or canola oil (for frying)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "soft flour or corn tortillas (warmed)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "shredded cheddar or cotija cheese (crumbled)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "shredded lettuce (fresh cilantro and yogurt, for serving)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  ripe mango (diced)",
+      "emoji": "🥭",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  ripe (but firm avocado, diced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cherry tomatoes (halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  chipotle peppers in adobo (chopped)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "juice from 1 lime",
+      "emoji": "🍋",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  tomatillos (skins removed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  jalapenos (halved + seeded if desired)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "plain greek yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  ripe avocado",
+      "emoji": "🥑",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "juice from 1 lime",
+      "emoji": "🍋",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat 1-2 inches of oil in a medium pot over medium heat until a deep fry thermometer reaches 375 degrees F."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss the fish with the chili powder. Add the flour, baking powder and beer to a bowl, stir until just combined. Once the oil is hot, dip the fish in the beer batter, then fry in batches until golden and just cooked through, 2 to 3 minutes. Transfer with a slotted spoon to a paper-towel-lined plate to drain. Season with salt and lime zest."
+    },
+    {
+      "order": 3,
+      "instruction": "Divide the fish among the warmed tacos shells and top with shredded lettuce, salsa (recipe below) and cheese. EAT!"
+    },
+    {
+      "order": 4,
+      "instruction": "In a bowl, combine all the ingredients. Taste and adjust spiciness and salt as needed. Serve with the tacos"
+    },
+    {
+      "order": 5,
+      "instruction": "Preheat the broiler to high. Line a baking sheet with parchment. Add the peeled tomatillos and place under the broiler for 3-5 minutes, turning once or twice or until the tomatillos are mostly charred all over. Remove from the oven and let cool slightly. Then add the charred tomatillos and the remaining ingredients to a blender or food processor. Pure until smooth and adjust salt as needed. Sauce with will keep in the fridge for up to 1 week."
+    }
+  ]
+}

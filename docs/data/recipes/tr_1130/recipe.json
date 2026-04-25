@@ -1,0 +1,151 @@
+{
+  "id": "tr_1130",
+  "title": "Roasted Parmesan Crusted Cauliflower",
+  "image": "https://www.recipetineats.com/tachyon/2017/09/Parmesan-Crusted-Cauliflower-Main-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roasted-parmesan-crusted-cauliflower/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "cauliflower recipe",
+    "parmesan crusted cauliflower",
+    "roasted cauliflower"
+  ],
+  "nutrition": {
+    "calories": 153,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large head of cauliflower (, firm not old and floppy)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray ((I use olive oil) (Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley (, for garnish, if desired)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 50g  grated parmesan (, the sand-like type (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((Note 3))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried oregano or thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200C/390F (standard) or 180C/350F (fan/convection)."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix Crust ingredients in a small bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Break cauliflower into large florets. Cut very large florets into 1.5cm / 3/5\" thick slices, and the medium florets in half. You want a large flat surface area on each piece for the crust to adhere to."
+    },
+    {
+      "order": 4,
+      "instruction": "Line a baking tray (30 x 40 cm / 12 x 16\") with paper."
+    },
+    {
+      "order": 5,
+      "instruction": "Drizzle tray with oil. Use a cauliflower to spread the oil all over the paper (see video)."
+    },
+    {
+      "order": 6,
+      "instruction": "Sprinkle Crust mixture all over the tray, as evenly as possible. Don't touch it once scattered."
+    },
+    {
+      "order": 7,
+      "instruction": "Place cauliflower down on the Crust mixture, pressing down lightly. Don't jam them right up against each other (they will steam and go soggy), keep a tiny bit of space between each one."
+    },
+    {
+      "order": 8,
+      "instruction": "Spray generously with oil. Sprinkle with a bit of black pepper (optional)."
+    },
+    {
+      "order": 9,
+      "instruction": "Bake for 20 minutes until crust is deep golden."
+    },
+    {
+      "order": 10,
+      "instruction": "Use tongs to turn the cauliflower so the crust side is up. Bake for a further 5 minutes."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve immediately, sprinkled with finely chopped parsley or other herb, if desired."
+    }
+  ]
+}

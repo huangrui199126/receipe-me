@@ -1,0 +1,107 @@
+{
+  "id": "tr_95",
+  "title": "Sunday Sunshine Baked Eggs in Mushrooms",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/Baked-Eggs-in-Mushroom-1.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sunday-sunshine-eggs-in-mushroom/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 161,
+    "protein": 11.8,
+    "carbs": 7.5,
+    "fat": 9.8
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large mushrooms ((flat, Portobello) (note 1))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "pasta sauce ((or pizza sauce or other sauce of preference) (note 2))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "cream ((1/4 cup))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "grated cheese OR 2 slices of cheese ((any cheese that's good for melting. I used sliced tasty cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley (, finely chopped (optional - for serving))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove stalk from mushroom. Optional - scrape gills out with a teaspoon (the brown part). I usually only do this if the mushroom is on the small side and I need to make more room for the egg to fit."
+    },
+    {
+      "order": 3,
+      "instruction": "Divide the pasta sauce between the mushrooms and spread."
+    },
+    {
+      "order": 4,
+      "instruction": "Crack an egg into each mushroom."
+    },
+    {
+      "order": 5,
+      "instruction": "Pour cream over the eggs, drizzling to try to cover the whole surface."
+    },
+    {
+      "order": 6,
+      "instruction": "Place mushrooms in the oven for 10 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove from oven and sprinkle over the cheese, then return to oven."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake for a further 5 minutes or until the egg whites are just set and (hopefully) the yolks are still runny (see note 3 for cooking time guidance). Remember that the eggs will continue to cook after you take them out of the oven."
+    },
+    {
+      "order": 9,
+      "instruction": "Garnish with parsley, if using, then serve immediately."
+    }
+  ]
+}

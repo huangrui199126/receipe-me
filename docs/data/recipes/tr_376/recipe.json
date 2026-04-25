@@ -1,0 +1,232 @@
+{
+  "id": "tr_376",
+  "title": "Mushroom Risotto",
+  "image": "https://www.recipetineats.com/tachyon/2019/10/Mushroom-Risotto_7.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mushroom-risotto/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 35,
+  "tags": [
+    "mushroom recipe",
+    "mushroom risotto",
+    "risotto",
+    "risotto recipe"
+  ],
+  "nutrition": {
+    "calories": 649,
+    "protein": 21.0,
+    "carbs": 63.0,
+    "fat": 36.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "(1 lb)  mushrooms (, sliced 3 mm / 1/8&quot; thick (Note 1))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "(1/2 lb)  mushrooms (, quartered (Note 1))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt and pepper (, each)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eschallots / French onions (, finely chopped (or 1/2 onion))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "dry white wine ((Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "arborio rice (, uncooked)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "chicken broth/stock (, low sodium, warm (Note 3))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cream (, optional but recommended(Note 4))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30g)  butter (, optional (Note 4))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parmesan cheese (, finely grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt and pepper (, each)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley or chives",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan (, freshly grated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add 1 tbsp oil and half the butter in a large heavy based pot over high heat (Note 5). Once melted, add half the mushrooms and cook until pretty golden brown (~4 min)."
+    },
+    {
+      "order": 2,
+      "instruction": "Add 1/2 the garlic, 1/4 tsp each salt and pepper, then continue to cook until golden brown (~1.5 min). Then remove into bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Repeat with remaining mushrooms, then remove."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn heat down to medium. In the same pot, melt butter then add garlic and onion."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook 2 minutes until onion is translucent but not golden."
+    },
+    {
+      "order": 6,
+      "instruction": "Add wine and allow to simmer rapidly for 2 minutes, scraping the base of the pot, until mostly evaporated."
+    },
+    {
+      "order": 7,
+      "instruction": "Add rice and stir for 1 minute until semi translucent."
+    },
+    {
+      "order": 8,
+      "instruction": "Add about 1.5 cups of stock. Stir, then leave for 3 minutes, stirring just a few times, until mostly absorbed (~3 min)."
+    },
+    {
+      "order": 9,
+      "instruction": "Add about 1.5 cups stock, stir every now and then until mostly absorbed (~3 min) - no need to stir constantly. Repeat twice more until all stock used up, rice is just cooked but risotto still creamy and sloppy (~10 min, Note 6)."
+    },
+    {
+      "order": 10,
+      "instruction": "Add cream and butter, stir vigorously to make creamy."
+    },
+    {
+      "order": 11,
+      "instruction": "Stir in parmesan, salt and pepper."
+    },
+    {
+      "order": 12,
+      "instruction": "Stir through half the mushrooms, then taste and add more salt and pepper if needed. Consistency should be creamy, not stodgy (Note 7)."
+    },
+    {
+      "order": 13,
+      "instruction": "Reheat remaining mushrooms (I microwave)."
+    },
+    {
+      "order": 14,
+      "instruction": "Spoon risotto into bowls, then top with reserved mushrooms (including a drizzle of buttery juices pooled in bowl!)"
+    },
+    {
+      "order": 15,
+      "instruction": "Garnish with parsley if using, and extra parmesan. Serve immediately!"
+    }
+  ]
+}

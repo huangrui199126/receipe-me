@@ -1,0 +1,119 @@
+{
+  "id": "tr_1105",
+  "title": "Green Beans in Creamy Parmesan Sauce - with bacon!",
+  "image": "https://www.recipetineats.com/tachyon/2020/09/Green-Beans-in-Creamy-Parmesan-Sauce-with-Bacon_7-SQ.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/green-beans-in-creamy-parmesan-sauce/",
+  "servings": 4,
+  "prepTime": 13,
+  "cookTime": 12,
+  "tags": [
+    "green bean recipe",
+    "green bean side dish",
+    "green beans"
+  ],
+  "nutrition": {
+    "calories": 358,
+    "protein": 11.0,
+    "carbs": 10.0,
+    "fat": 32.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "150g/ 5oz   bacon (, chopped (use streaky, not lean))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/1lb  green beans (, trimmed, cut into ~5cm / 2\" pieces)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "chicken or vegetable stock / broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cream (, heavy/thickened (Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parmesan (, finely grated (best to grate your own))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper (, freshly ground)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place bacon in cold skillet, then turn the stove on high. (Note 2)"
+    },
+    {
+      "order": 2,
+      "instruction": "Cook bacon for 2 to 3 minutes until golden, then remove with a slotted spoon."
+    },
+    {
+      "order": 3,
+      "instruction": "Discard excess bacon fat, leaving behind 1 1/2 tablespoons (or so). If you're short, add a dab of butter (or olive oil)."
+    },
+    {
+      "order": 4,
+      "instruction": "Add garlic and stir for 10 - 15 seconds until light golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Add green beans and stir to coat in garlicky bacon fat."
+    },
+    {
+      "order": 6,
+      "instruction": "Add chicken stock, stir, bring to simmer then cover with lid. (Note 3) Cook 3 minutes, stirring every now and then so it cooks evenly, until beans are tender-crisp, still bright green and almost cooked to your liking (it will cook more). There should be some liquid left (if not, that's ok too)"
+    },
+    {
+      "order": 7,
+      "instruction": "Add cream, parmesan and pepper. Stir, bring to simmer then lower heat to medium low and let it gently simmer for 2 minutes until the cream reduces and becomes thicker. If you want it to stick to the beans thickly when warm, then reduce the sauce for another 1 minute until the sauce is quite thick. (Note 4)"
+    },
+    {
+      "order": 8,
+      "instruction": "Taste and add salt if needed (I don't find it needs more)."
+    },
+    {
+      "order": 9,
+      "instruction": "Transfer to serving bowl, sprinkle with cooked bacon and extra parmesan if you like."
+    }
+  ]
+}

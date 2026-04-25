@@ -1,0 +1,155 @@
+{
+  "id": "tr_327",
+  "title": "Creamy Mushroom Pasta",
+  "image": "https://www.recipetineats.com/tachyon/2019/09/Creamy-Mushroom-Pasta_4.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-mushroom-pasta/",
+  "servings": 2,
+  "prepTime": 8,
+  "cookTime": 12,
+  "tags": [
+    "creamy mushroom pasta",
+    "creamy pasta",
+    "mushroom pasta"
+  ],
+  "nutrition": {
+    "calories": 893,
+    "protein": 24.0,
+    "carbs": 67.0,
+    "fat": 58.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "160g/ 6oz   fettuccine ( or linguine (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30g)  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "olive oil ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "300g/ 10 oz   mushrooms (, sliced 1/3 cm / 1/8\" thick (white, cremini/swiss brown))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125 ml)  white wine (, dry (or rose, sub more broth))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125ml)  chicken broth/stock (, low sodium (or veg))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(185ml)  cream (, heavy / thickened (Note 3))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "(30g)  parmesan (, finely grated (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt and pepper (, each)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra parmesan (, for serving)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley (, roughly chopped (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook pasta in salted water for 1 minute less than time per packet (start this mid mushroom cook). Just before draining, scoop out 1 cup cooking water, then drain."
+    },
+    {
+      "order": 2,
+      "instruction": "Melt butter and heat oil in a large skillet over high heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add mushrooms and cook, stirring regularly. When they start to sweat, add a pinch of salt and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "When pretty golden (about 4 - 5 minutes), add garlic and cook until garlic is golden and mushroom is golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Stand back and add wine (it will be steamy!!), stir, scraping the bottom of the skillet. Simmer rapidly until wine is mostly evaporated and winey smell is gone."
+    },
+    {
+      "order": 6,
+      "instruction": "Add broth, cream, parmesan, salt and pepper. Stir to dissolve parmesan and simmer for 2 minutes, stirring regularly."
+    },
+    {
+      "order": 7,
+      "instruction": "Transfer pasta into sauce, toss for 1 - 2 minutes until sauce thickens and coats pasta. If sauce gets too thick (rather than slick, see video), add a splash of reserved pasta cooking water."
+    },
+    {
+      "order": 8,
+      "instruction": "Garnish with parsley and serve immediately with extra parmesan!"
+    }
+  ]
+}

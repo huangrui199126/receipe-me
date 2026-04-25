@@ -1,0 +1,116 @@
+{
+  "id": "tr_266",
+  "title": "Gravy recipe (tastes like KFC - but a million times better!)",
+  "image": "https://www.recipetineats.com/tachyon/2020/02/Gravy_4-SQ.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/gravy/",
+  "servings": 6,
+  "prepTime": 1,
+  "cookTime": 3,
+  "tags": [
+    "gravy",
+    "gravy from scratch",
+    "gravy using water",
+    "how to make gravy"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 1.0,
+    "carbs": 4.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  chicken stock cube / bouillon cube ((sub 2 tsp powder) (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  beef stock cube  / bouillon cube ((sub 2 tsp powder) (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "(565ml)   boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "60g/ 4 tbsp   butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder ((ok to omit or sub garlic powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "finely ground black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt (, if needed)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Crumble cubes into boiling water, mix to dissolve."
+    },
+    {
+      "order": 2,
+      "instruction": "Melt butter in a saucepan over medium heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add flour, onion powder and pepper. Mix into butter with a wooden spoon or whisk."
+    },
+    {
+      "order": 4,
+      "instruction": "While stirring, slowly pour in half the liquid. Once incorporated into the flour butter roux (it will thicken quickly), add remaining liquid and mix."
+    },
+    {
+      "order": 5,
+      "instruction": "Stir for 1.5 - 2 minutes until it thickens to a gravy consistency (it&#x27;s quick as water is already hot). Taste, add more salt and pepper if needed."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve over chops, steak, sausages, veggies, roast chicken, pork, beef, lamb. Pictured - KFC Potato and Gravy copycat!"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "tr_1156",
+  "title": "Chipotle Lime Roasted Cauliflower",
+  "image": "https://www.recipetineats.com/tachyon/2020/03/Chipotle-Lime-Roasted-Cauliflower_0.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chipotle-lime-roasted-cauliflower/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "baked cauliflower",
+    "cauliflower recipe",
+    "roasted cauliflower"
+  ],
+  "nutrition": {
+    "calories": 119,
+    "protein": 3.0,
+    "carbs": 8.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large head cauliflower (, cut into florets)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2.5",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "chipotle powder ((more or less for spiciness!) (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lime juice ((1 medium to large lime))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "coriander/cilantro leaves (, finely chopped (optional, sub parsley or chives))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/390°F."
+    },
+    {
+      "order": 2,
+      "instruction": "Place cauliflower in a large bowl. Drizzle over oil, sprinkle with garlic. Use hands to mix and rub oil over all cauliflower."
+    },
+    {
+      "order": 3,
+      "instruction": "Sprinkle over chipotle, salt and pepper. Toss to coat."
+    },
+    {
+      "order": 4,
+      "instruction": "Spread out on tray. Bake 25 minutes, tossing once, until the edges are caramlised and cauliflower is just tender."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove from oven. Push cauliflower together, drizzle over lime juice."
+    },
+    {
+      "order": 6,
+      "instruction": "Sprinkle with coriander and serve hot."
+    }
+  ]
+}

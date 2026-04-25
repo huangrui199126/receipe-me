@@ -1,0 +1,116 @@
+{
+  "id": "tr_481",
+  "title": "Crème Brûlée (French Vanilla Custard)",
+  "image": "https://www.recipetineats.com/tachyon/2016/09/Creme-Brulee_8-SQ.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creme-brulee/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 40,
+  "tags": [
+    "creme brulee",
+    "french custard",
+    "french dessert",
+    "vanilla custard"
+  ],
+  "nutrition": {
+    "calories": 599,
+    "protein": 6.0,
+    "carbs": 29.3,
+    "fat": 52.6
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "pure cream (Aus) / heavy cream (US) ((Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  vanilla pod OR 1 tsp vanilla bean paste ((Note 2))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  egg yolks ((Note 3 for using leftover whites))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "caster sugar ((superfine sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "caster sugar ((superfine sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Vanilla bean: Split vanilla pod down the middle and scrape the seeds out using a small knife. Place into saucepan with cream and the empty vanilla pod."
+    },
+    {
+      "order": 2,
+      "instruction": "Infuse cream: Simmer uncovered over low heat for 10 minutes. Remove from stove and set aside to infuse for 1 hour with lid on (you can skip this step if using paste, just let it cool to lukewarm). Remove vanilla pod. Skim off any skin that has formed on the surface."
+    },
+    {
+      "order": 3,
+      "instruction": "Preparation: Preheat oven to 130°C/265°F (120°C fan). Place 4 x ⅔ cup / 150 ml empty ramekins in a baking pan with high enough sides that enough water can be poured in to come halfway up ramekins."
+    },
+    {
+      "order": 4,
+      "instruction": "Boil water: Boil a kettle of water."
+    },
+    {
+      "order": 5,
+      "instruction": "Whisk egg yolks and sugar: Whisk yolks and sugar until just well combined. Don&#039;t whisk too much, as this can create bubbles."
+    },
+    {
+      "order": 6,
+      "instruction": "Add cream: Pour cream into eggs and gently stir to combine. Divide mixture between ramekins with a soup ladle."
+    },
+    {
+      "order": 7,
+      "instruction": "Water bath: Pour in enough boiling water so it comes halfway up the sides of the ramekins. (If you have too much water, ramekins will float around - not good!)"
+    },
+    {
+      "order": 8,
+      "instruction": "Bake: Bake for 35 - 40 minutes, or until the custard is set but there is still a slight wobble when you GENTLY give the ramekin a little shake."
+    },
+    {
+      "order": 9,
+      "instruction": "Chill: Remove ramekins from water. Leave to cool, then refrigerate for at least 6 hours and preferably overnight (up to 3 days is OK)."
+    },
+    {
+      "order": 10,
+      "instruction": "Blow torch method: Sprinkle 1/2 tsp sugar over the surface of each crème brûlée. Use a blow torch to melt and caramelise the sugar. Serve immediately."
+    },
+    {
+      "order": 11,
+      "instruction": "Grill / broiler method: Crème brûlée should be first refrigerated overnight. Preheat grill to high. Place crème brûlée under grill for 1 minute or until sugar is melted and caramelised. Refrigerate afterwards for at least 20 minutes and up to 1 hour (to reset custard immediately under toffee), then serve."
+    },
+    {
+      "order": 12,
+      "instruction": "Crème brûlée perfect texture: The texture should be like a very thick yogurt, rather than set so it is sliceable like cake or even like a soft set jelly. When you take a scoop, the custard should barely hold together, but shouldn&#039;t be melting or running. When you take a bite the custard should literally just melt in your mouth."
+    }
+  ]
+}

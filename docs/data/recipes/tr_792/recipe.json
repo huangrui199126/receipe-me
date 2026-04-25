@@ -1,0 +1,183 @@
+{
+  "id": "tr_792",
+  "title": "Cheesy baked Mexican beef and beans",
+  "image": "https://www.recipetineats.com/tachyon/2023/03/Cheesy-Mexican-Beef-and-Beans-Casserole_8a.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cheesy-mexican-beef-bean-bake/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [
+    "mexican beef and bean",
+    "mexican casserole",
+    "slow cooker mexican beef"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 28.0,
+    "carbs": 19.0,
+    "fat": 28.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green capsicum / bell pepper (, cut into 1cm / 1/2\" cubes (or other colour))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1 lb   beef mince (ground beef) ((Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/ 14oz   can red kidney beans or black beans (, drained (or other beans))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "tomato passata ((Note 2))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "pickled sliced jalapeño ((Note 3))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "Colby cheese (, shredded (or other cheese, Note 4))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "smoked paprika ((sub normal paprika))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder ((sub onion powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "onion powder ((sub garlic powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cayenne pepper ((sub black pepper))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C / 400°F (180°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Sauté - Heat the olive oil in a cast-iron skillet over medium high heat (or other oven-proof pan). Cook onion, garlic and capsicum for 3 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook beef &amp; spices - Add beef and cook, breaking it up as you go, until you no longer see raw meat. Add spices, then cook for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Beans &amp; tomato - Add kidney beans and passata. Stir, then bring to a simmer."
+    },
+    {
+      "order": 5,
+      "instruction": "Cheese it! Scatter the jalapeño across the surface, top with cheese."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake 15 minutes (no lid) then remove from the oven."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve! Scoop into bowls and serve with corn chips or tortillas with your favourite Mexican fixings (guacamole or avocado sauce pico de gallo or restaurant style salsa, fresh coriander/coriander, sour cream). Dunk like nachos, make DIY burritos or tacos!"
+    }
+  ]
+}

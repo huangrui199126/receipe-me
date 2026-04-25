@@ -1,0 +1,85 @@
+{
+  "id": "tr_1186",
+  "title": "Tomato paste replacement for canned tomato",
+  "image": "https://www.recipetineats.com/tachyon/2020/03/Canned-tomato-substitute-tomato-paste-Square.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tomato-paste-replacement-for-canned-tomato/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "tomato paste substitute for canned tomato"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "water (, separated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Whisk together 1/4 cup water (65ml) with the flour until lump free."
+    },
+    {
+      "order": 2,
+      "instruction": "Then mix in remaining water, tomato paste and sugar."
+    },
+    {
+      "order": 3,
+      "instruction": "Use in recipes in place of canned tomato, add it at the time the recipe calls for canned tomato to be added. It will be watery while it&#039;s &quot;raw&quot;, but the flour will thicken the mixture as it cooks in things like bolognese, soup (like Minestrone), curries (like this Coconut Lentil Curry) and pasta bakes."
+    },
+    {
+      "order": 4,
+      "instruction": "Pictures in post show the thickness after cooking on stove for 3 minutes on medium high - not necessary to do if added into a recipe then cooked."
+    },
+    {
+      "order": 5,
+      "instruction": "There is no limit for how long it can be cooked for - you can use it for a quick recipe like this Bacon Pasta, or simmered for hours like in Ragu."
+    },
+    {
+      "order": 6,
+      "instruction": "Fridge storing - will keep for 5 days in the fridge."
+    },
+    {
+      "order": 7,
+      "instruction": "Freezing - simmer 3 minutes on medium high, stirring regularly, until it thickens. Cool, freeze."
+    }
+  ]
+}

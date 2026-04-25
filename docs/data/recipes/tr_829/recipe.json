@@ -1,0 +1,202 @@
+{
+  "id": "tr_829",
+  "title": "Poached Salmon in Coconut Lime Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2018/09/Poached-Salmon-in-Coconut-Lime-Sauce_4.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/poached-salmon-in-coconut-lime-sauce/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "coconut sauce for salmon",
+    "poached salmon"
+  ],
+  "nutrition": {
+    "calories": 502,
+    "protein": 32.0,
+    "carbs": 9.0,
+    "fat": 38.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  salmon fillets (, 180g/6oz each preferably skinless (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger (, finely grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemongrass (, peeled, finely grated (Note 2))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "chilli garlic paste  (or other chilli paste, adjust to taste (Note 3))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400 g/14oz  coconut milk ((Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fish sauce ((or soy sauce))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lime zest ((1 lime))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime juice (, to taste)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh coriander/cilantro leaves (, finely chopped (recommended))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely sliced large red chillies ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Vermicelli noodles OR (, soaked per packet, or rice)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Steamed jasmine rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Steamed Asian greens",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sprinkle both sides of salmon with salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 1 tbsp oil in a non stick pan or well seasoned skillet over medium high heat. Add salmon, skin side up, and sear for just 1 1/2 minutes until golden. Turn salmon and cook the other side just for 1 minute, then remove onto a plate (should still be raw inside)."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn heat down to medium low and allow skillet to cool."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat remaining 1 tbsp oil. Add garlic, ginger and lemongrass. Cook until garlic is light golden ~ 1 minute."
+    },
+    {
+      "order": 5,
+      "instruction": "Add sugar and cook for 20 seconds until it becomes a caramel (see video). Then stir in chilli paste."
+    },
+    {
+      "order": 6,
+      "instruction": "Add coconut milk and stir, scraping the bottom of the skillet to dissolve any bits stuck on the base into the sauce."
+    },
+    {
+      "order": 7,
+      "instruction": "Stir in fish sauce, increase heat to medium. Simmer for 2 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Place salmon into the sauce, lower heat and simmer gently for 4 minutes, or until just cooked."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove salmon, stir in lime zest and juice to taste. Adjust salt to taste with fish sauce."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve salmon over noodles or rice. Spoon over sauce, garnish with coriander and chili if using."
+    }
+  ]
+}

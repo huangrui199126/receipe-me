@@ -1,0 +1,205 @@
+{
+  "id": "tr_712",
+  "title": "Salmon Quiche",
+  "image": "https://www.recipetineats.com/tachyon/2019/04/Salmon-Quiche_6.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/salmon-quiche/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 90,
+  "tags": [
+    "salmon quiche"
+  ],
+  "nutrition": {
+    "calories": 402,
+    "protein": 13.0,
+    "carbs": 15.0,
+    "fat": 31.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  homemade quiche crust ((shortcrust pastry))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "sheets",
+      "name": "frozen shortcrust pastry",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  x 9\" refrigerated pie crust (, fitted in a 9\" pie dish or tart tin)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  ready made pie shell ((23cm / 9\", fridge or frozen))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "15",
+      "unit": "g",
+      "name": "/ 1 tbsp   butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  leek (, white part only halved and finely sliced (Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 - 10  asparagus spears",
+      "emoji": "🫛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  eggs ((~55 - 60g / 2oz each))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(375ml)   cream (, full fat (Note 3))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt + pinch pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh dill (, roughly chopped (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7 oz   smoked salmon (, cut into 4cm / 1.7\" pieces (Note 5))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(75g)   gruyere cheese (, grated (Note 6))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Dill sprigs and extra smoked salmon",
+      "emoji": "🐟",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Homemade quiche crust or frozen shortcrust pastry - prepare and bake the crust per Quiche Crust recipe."
+    },
+    {
+      "order": 2,
+      "instruction": "Refrigerated pie crust - unroll, fit into a 9\" pie dish or tart tin. Bake per packet directions."
+    },
+    {
+      "order": 3,
+      "instruction": "Prepared pie shell (ie comes in foil dish) - bake per packet directions, scale Filling down to 4 eggs (Note 1)."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven to 180C/350F (160C/320F fan forced)."
+    },
+    {
+      "order": 5,
+      "instruction": "Place cooked quiche crust on a tray."
+    },
+    {
+      "order": 6,
+      "instruction": "Asparagus - break woody ends off (Note 7). Cut into 3.5cm / 1.5\" pieces, separate tips from stems (tips for decorating)."
+    },
+    {
+      "order": 7,
+      "instruction": "Melt butter in a skillet over medium heat. Add leeks and garlic, saute for 2&nbsp;minutes or until leeks are translucent, don't let them go golden."
+    },
+    {
+      "order": 8,
+      "instruction": "Stir in asparagus stems (don't cook), then remove from stove."
+    },
+    {
+      "order": 9,
+      "instruction": "Cool slightly then scatter across base of quiche crust."
+    },
+    {
+      "order": 10,
+      "instruction": "Whisk together eggs, cream, dill, salt, pepper in a bowl."
+    },
+    {
+      "order": 11,
+      "instruction": "Scatter 2/3 of the salmon across quiche, folding/twisting pieces rather than laying flat."
+    },
+    {
+      "order": 12,
+      "instruction": "Top with cheese, pour over egg mixture."
+    },
+    {
+      "order": 13,
+      "instruction": "Top with remaining salmon and asparagus tips."
+    },
+    {
+      "order": 14,
+      "instruction": "Bake for 40 minutes or until top is light golden and centre is set but still slightly jiggly when you poke it."
+    },
+    {
+      "order": 15,
+      "instruction": "Rest for 10 minutes before carefully removing from tin and slicing."
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": "tr_1365",
+  "title": "Crispy Zucchini Fritters",
+  "image": "https://www.recipetineats.com/tachyon/2018/08/Zucchini-Fritters_9.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crispy-zucchini-fritters/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 12,
+  "tags": [
+    "zucchini fritters"
+  ],
+  "nutrition": {
+    "calories": 162,
+    "protein": 4.0,
+    "carbs": 11.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500 g/1 lb   zucchini ((2 medium ~ 23cm/9\" long))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green onions (, halved then finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "parmesan (, grated (fresh or store bought))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, large, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 75 g  flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "olive oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Yoghurt or sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "More chopped green onions",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Grate zucchini using a box grater. Grate on the diagonal so you get long strands."
+    },
+    {
+      "order": 2,
+      "instruction": "Place in a bowl and sprinkle with salt. Mix, then leave for 10 minutes+."
+    },
+    {
+      "order": 3,
+      "instruction": "Squeeze out excess water using hands (or bundle up tea towel) then place zucchini in a bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven to 200F/100C (for keeping fritters warm). Place rack on tray (helps keep crispy)"
+    },
+    {
+      "order": 5,
+      "instruction": "Add egg, green onions, parmesan and garlic into the zucchini bowl. Mix to combine."
+    },
+    {
+      "order": 6,
+      "instruction": "Scatter over flour and baking powder (don't dump in one spot), and add pinch of pepper. Mix until flour is just incorporated - batter should be thick but soft (see video, Note 1)."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat 2 tbsp oil in a non stick pan over medium high heat (or medium if stove is strong). Drop 1/4 cup batter in the pan (ice cream scoop is perfect). Do 3 or 4 mounds."
+    },
+    {
+      "order": 8,
+      "instruction": "Flatten lightly with spatula to about 1cm / 4/5\" thick."
+    },
+    {
+      "order": 9,
+      "instruction": "Cook for 3 minutes until underside is deep golden (adjust heat if browning too quickly). Flip and cook the other side for 3 minutes. Transfer to tray and place in oven to keep warm."
+    },
+    {
+      "order": 10,
+      "instruction": "Repeat with remaining batter."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve immediately with a dollop of yoghurt or sour cream and garnish of extra green onions if desired."
+    }
+  ]
+}

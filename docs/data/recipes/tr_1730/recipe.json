@@ -1,0 +1,149 @@
+{
+  "id": "tr_1730",
+  "title": "Chipotle Enchilada Shrimp with Rice and Beans",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/06/Chipotle-Enchilada-Shrimp-with-Rice-and-Beans.-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/chipotle-enchilada-shrimp-with-rice-and-beans/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "beans",
+    "chipotle",
+    "enchilada",
+    "rice",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 634,
+    "protein": 54.0,
+    "carbs": 102.0,
+    "fat": 18.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1 ½",
+      "unit": "cups",
+      "name": "jasmine or basmati rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "black beans (rinsed + drained, 14 ounce can)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  ear grilled corn (kernels removed)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 ½",
+      "unit": "pounds",
+      "name": "shrimp (peeled + deveined)",
+      "emoji": "🦐",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "chipotle chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "Old El Paso Enchilada Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  Old El Paso flour tortillas (warmed)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "crumbled cotija cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "sliced limes + cilantro (for serving)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add the water to a medium size pot. Bring to a low boil and then add the rice. Stir to combine, then place the lid on the pot and turn the heat down to the lowest setting possible. Allow the rice to cook ten minutes on low and then turn the heat off completely and let the rice sit on the stove, covered for another 20 minutes (don't take any peeks inside!). After 20 minutes remove the lid and fluff the rice with a fork. Add the black beans, corn, cilantro and butter, toss well. Season with a pinch of salt."
+    },
+    {
+      "order": 2,
+      "instruction": "While the rice is cooking, heat a large skillet over medium high heat. Add the olive oil and once hot, add the shrimp and chipotle chili powder. Toss quickly to coat the shrimp in the chili powder and cook 1-2 minutes or until the shrimp is lightly seared."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the enchilada sauce and continue cooking for 5-10 minutes or until the sauce thickens slightly. There should be a good amount of sauce still in the pan."
+    },
+    {
+      "order": 4,
+      "instruction": "To serve, divide the rice among plates or bowls. Top with shrimp and any sauce from the pan. Add some cotija cheese and a sprinkle of fresh cilantro. Serve with warm tortillas. Enjoy!"
+    }
+  ]
+}

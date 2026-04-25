@@ -1,0 +1,87 @@
+{
+  "id": "tr_163",
+  "title": "Balsamic Glazed Beetroot",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/Balsamic-Glazed-Beetroot-11-1.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/balsamic-glazed-beetroots-beets/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 81,
+    "protein": 0.0,
+    "carbs": 18.1,
+    "fat": 0.2
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "450",
+      "unit": "g",
+      "name": "/ 15 oz   can ((drained) baby beetroot (beets) OR fresh baby beetroot (about 10))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "balsamic vinegar ((any quality is fine))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "thyme leaves ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To cook fresh beetroot, bring a pot of water to boil, then place beetroot in the water and cook for 10 minutes until tender."
+    },
+    {
+      "order": 2,
+      "instruction": "Drain beetroot, allow to cool to handle and peel off the skin (either with a teaspoon or vegetable peeler)."
+    },
+    {
+      "order": 3,
+      "instruction": "Combine balsamic vinegar and sugar in a small frying pan or saucepan over medium high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Bring to simmer and cook, stirring, for 3 to 5 minutes until thickened and syrupy."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove from heat."
+    },
+    {
+      "order": 6,
+      "instruction": "Cut larger beetroots into bite size pieces, either into halves or quarters."
+    },
+    {
+      "order": 7,
+      "instruction": "Toss into balsamic glaze and sprinkle in thyme leaves, if using."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve slightly warm or at room temperature."
+    }
+  ]
+}

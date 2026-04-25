@@ -1,0 +1,151 @@
+{
+  "id": "tr_664",
+  "title": "Creamy Chicken and Bacon Pasta",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/Creamy-Chicken-Bacon-Pasta-4.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-chicken-and-bacon-pasta/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 946,
+    "protein": 57.4,
+    "carbs": 54.4,
+    "fat": 54.6
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "oz",
+      "name": "/ 180 g   fettuccine or other pasta",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5 -7 oz / 150 - 200 g   bacon (, chopped)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "6",
+      "unit": "oz",
+      "name": "/ 180 g   chicken breast (, cut in half horizontally)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "(30 g)  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  small onion (, finely chopped (brown, white or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(185ml)  heavy cream / thickened cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(185ml)  pasta cooking water ( (Note 1))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "FRESH grated parmesan ((or 1/4 cup store bought grated) (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a large pot of salted water to boil. Add pasta and cook for time per packet MINUS 2 minutes (finishes cooking in Sauce)."
+    },
+    {
+      "order": 2,
+      "instruction": "SCOOP OUT a mugful of pasta cooking water, then drain."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, cook bacon until golden, drain on paper towels."
+    },
+    {
+      "order": 4,
+      "instruction": "Season chicken on both sides, cook in bacon fat, 2 minutes each side."
+    },
+    {
+      "order": 5,
+      "instruction": "Wipe pan - optional, to keep sauce pretty and white, and for a buttery clean tasting sauce rather than very bacony (Note 3)."
+    },
+    {
+      "order": 6,
+      "instruction": "Over medium heat, melt butter. Add garlic and onion, cook for 3 - 4 minutes until onion is light golden and soft."
+    },
+    {
+      "order": 7,
+      "instruction": "Add cream, about 3/4 cup pasta water and parmesan. Stir, then simmer for 2 minutes until it reduces slightly - you don’t need to be exact here. Season with salt &amp; pepper."
+    },
+    {
+      "order": 8,
+      "instruction": "Add pasta and toss gently in the sauce for about 1 1/2 minutes. The sauce will thicken and coat the pasta, do this step until you get the sauce consistency you want. If your sauce gets too thick, add a splash of pasta water."
+    },
+    {
+      "order": 9,
+      "instruction": "Toss through bacon and chicken."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve immediately, garnished with parmesan and parsley!"
+    }
+  ]
+}

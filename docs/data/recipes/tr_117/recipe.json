@@ -1,0 +1,127 @@
+{
+  "id": "tr_117",
+  "title": "S'mores French Toast",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Smores-French-Toast-1-1.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/smores-french-toast/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 402,
+    "protein": 6.4,
+    "carbs": 57.2,
+    "fat": 16.4
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "white sandwich bread (, preferably stale)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "16  marshmallows (, halved horizontally)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Nutella",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Marshmallows",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chocolate sauce",
+      "emoji": "🍫",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine egg and milk in a shallow dish large enough to lay the bread in."
+    },
+    {
+      "order": 2,
+      "instruction": "Spread Nutella on all 4 slices of bread. Generously!"
+    },
+    {
+      "order": 3,
+      "instruction": "Place marshmallows on 2 of the pieces of bread, with the sticky side of the marshmallows (ie. the cut side) facing up."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat butter in pan over medium high heat. (See notes)"
+    },
+    {
+      "order": 5,
+      "instruction": "Take the bread with the marshmallows on them and quickly dip the bottom side of the bread (ie. the side without the Nutella and marshmallows on it) into the egg mixture, then place into the pan."
+    },
+    {
+      "order": 6,
+      "instruction": "Dip the remaining two slices of bread into the egg mixture (the side without Nutella on it) and place on top of the marshmallow topped bread in the pan, to form a sandwich (ie. The side with the Nutella on it should be placed onto the marshmallows and the side you dipped into the egg mixture should face up so when you flip, it will be cooked)."
+    },
+    {
+      "order": 7,
+      "instruction": "Press down lightly with a spatula to help disperse the heat through to the centre of the sandwich to melt the marshmallows. Don't press too hard - I made that mistake once and most of my marshmallows oozed out the side into the pan."
+    },
+    {
+      "order": 8,
+      "instruction": "When the bottom is golden brown (about 2 1/2 to 3 minutes), flip and cook the other side until golden brown (about 2 minutes)."
+    },
+    {
+      "order": 9,
+      "instruction": "Don't worry if the marshmallows aren't oozing out the side when you finish cooking, they will continue to melt from the heat in the sandwich. But they should be very soft - just touch one and you'll be able to tell if it's melted and gooey inside."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve immediately, topped with extra marshmallows and chocolate sauce, if you wish."
+    }
+  ]
+}

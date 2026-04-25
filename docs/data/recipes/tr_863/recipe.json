@@ -1,0 +1,189 @@
+{
+  "id": "tr_863",
+  "title": "Homemade Cream of Chicken Soup recipe",
+  "image": "https://www.recipetineats.com/tachyon/2014/08/Cream-of-Chicken-Soup-4-2.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/homemade-cream-chicken-soup/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "cream of chicken soup"
+  ],
+  "nutrition": {
+    "calories": 395,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3.5 tbsp   unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "/ 75 g   flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  small brown onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small carrot (, diced)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red capsicum/bell pepper (, finely chopped)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small celery stick (, diced)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500 ml  chicken stock / broth (, preferably low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "/ 750 ml   milk (, any fat %)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "½",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "¼",
+      "unit": "tsp",
+      "name": "EACH garlic powder (, onion powder, dried thyme, black pepper (“Spices”))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "frozen peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cooked chicken (, diced or shredded)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "white bread (, cut into cubes)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large pot over medium high heat. Add onion and garlic and cook for 2 minutes until partly translucent but not browned."
+    },
+    {
+      "order": 2,
+      "instruction": "Add carrots, celery and capsicum, cook for 1 minute to soften."
+    },
+    {
+      "order": 3,
+      "instruction": "Add butter and melt. Then add flour and mix until incorporated, and stir constantly for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Add broth, mix until flour is incorporated, then add milk. Mix to combine, then add salt, Spices, chicken and peas."
+    },
+    {
+      "order": 5,
+      "instruction": "Bring to simmer, mixing occasionally to stop bottom of sticking. As it heats, it will thicken – about 4 to 5 minutes. Don’t let it bubble."
+    },
+    {
+      "order": 6,
+      "instruction": "Once thickened to your taste, adjust salt and pepper. Ladle into bowls and serve garnished with croutons and fresh thyme if desired."
+    },
+    {
+      "order": 7,
+      "instruction": "Croutons: Spray croutons generously with oil, sprinkle with salt, then bake for 5 minutes at 180C/350F or until golden and crunchy."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "tr_1508",
+  "title": "Thanksgiving Turkey Hot Dish.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/11/Thanksgiving-Turkey-Hot-Dish-1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/thanksgiving-turkey-hot-dish/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 507,
+    "protein": 18.0,
+    "carbs": 32.0,
+    "fat": 30.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  croissants (halved)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "cup",
+      "name": "leftover turkey (warmed (at least 1 ))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "cup",
+      "name": "leftover gravy (warmed (at least 1 ))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded sharp cheddar cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "ounces",
+      "name": "prosciutto (torn (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "tater tots",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "leftover cranberry sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "fried sage (for serving)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 375 degrees F. Grease a square baking dish or 10 inch skillet."
+    },
+    {
+      "order": 2,
+      "instruction": "Line the croissants, cut side up, in the baking dish and place a small pat of butter on each. Add the turkey in an even layer and then drizzle the gravy overtop. Top with a layer of cheese and then add the prosciutto. Arrange the tater tots in an even layer. Transfer to the oven and bake for 30-40 minutes or until the tater tots are crisp. Serve!"
+    }
+  ]
+}

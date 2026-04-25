@@ -1,0 +1,118 @@
+{
+  "id": "tr_1160",
+  "title": "New York Times Famous Broccoli Salad - with Cumin, Garlic and Sesame",
+  "image": "https://www.recipetineats.com/tachyon/2020/11/Broccoli-Cumin-Garlic-Salad_4-SQ.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/ny-times-famous-broccoli-salad-with-sesame-cumin-garlic/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 1,
+  "tags": [
+    "broccoli salad",
+    "raw broccoli salad"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 3.0,
+    "carbs": 8.0,
+    "fat": 17.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/1lb  broccoli florets (, large florets halved or cut into thirds (3 medium or 2 large broccoli heads, 1kg/2lb in total))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "red wine vinegar ((or white wine vinegar, sherry vinegar, cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt, cooking/kosher ( (if table salt: 1/2 tsp))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, finely minced using knife (not crusher))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cumin seeds ((whole, not powder))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil (, roasted (Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "red pepper flakes / chilli fakes ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "&quot;Cook&quot; raw broccoli: Toss broccoli in red wine vinegar, salt and pepper. Set aside 10 minutes - it will lightly pickle, almost &quot;ceviche&quot; the broccoli."
+    },
+    {
+      "order": 2,
+      "instruction": "Garlic, spice and oil mix: Heat olive oil in a small skillet over medium heat. Add garlic, cumin seeds and red pepper flakes. Cook, stirring, until garlic is light golden. Stir in sesame oil."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss broccoli: Immediately pour oil mix over broccoli. Toss very well using a rubber spatula to scrape up all the oil from the side of the bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Marinate: Leave on the counter for at least 1 hour to marinate, or refrigerate for up to 48 hrs (it gets better with time)."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve at room temp, not cold, for best flavour!"
+    }
+  ]
+}

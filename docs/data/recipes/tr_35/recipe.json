@@ -1,0 +1,107 @@
+{
+  "id": "tr_35",
+  "title": "Lemon Garlic Baked Ricotta",
+  "image": "https://www.recipetineats.com/tachyon/2015/06/Baked-Ricotta-Both_680px_1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lemon-garlic-baked-ricotta/",
+  "servings": 8,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 116,
+    "protein": 7.1,
+    "carbs": 3.2,
+    "fat": 8.4
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "of full fat ricotta (, the best you can afford)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 to 3 tbsp full fat cream or milk (, optional (only required if you aren't using fresh Italian ricotta))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest of 1 lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the ricotta in a bowl. If you are using supermarket ricotta (as opposed to fresh Italian ricotta), it might be a bit dry. Use the cream or milk to loosen the ricotta into creamy \"peanut butter\" type consistency (ie. easily spreadable)."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the lemon, garlic and salt and mix to combine."
+    },
+    {
+      "order": 4,
+      "instruction": "Get to 1 cup capacity ramekins or any other oven proof dish (I used tapas dishes). Divide the ricotta between the dishes and drizzle over 1 tbsp olive oil (reserve other tbsp for after baking)."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake for 15 to 20 minutes until the top is lightly browned."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from oven, drizzle with remaining 1 tbsp olive oil then serve immediately with toasted pieces of bread (tip: rub lightly with garlic - it's amazing!)."
+    },
+    {
+      "order": 7,
+      "instruction": "Fresh thyme, parsley or any other herbs, finely chopped (pictured)"
+    },
+    {
+      "order": 8,
+      "instruction": "Chopped tomatoes, red onion and parsley (pictured)"
+    },
+    {
+      "order": 9,
+      "instruction": "Finely chopped antipasto (eg olives, sun dried tomatoes)"
+    }
+  ]
+}

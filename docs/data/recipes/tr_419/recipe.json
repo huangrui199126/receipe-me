@@ -1,0 +1,110 @@
+{
+  "id": "tr_419",
+  "title": "Crustless Quiche - Ham and Cheese",
+  "image": "https://www.recipetineats.com/tachyon/2020/09/Crustless-Quiche-Ham-and-Cheese_4-SQ.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crustless-quiche-ham-and-cheese/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 35,
+  "tags": [
+    "crustless quiche",
+    "easy quiche"
+  ],
+  "nutrition": {
+    "calories": 264,
+    "protein": 13.0,
+    "carbs": 2.0,
+    "fat": 23.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  large eggs ((~50 - 55g / 2oz each))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cream (, heavy/thickened (halve if subbing milk, Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt ((Note 2))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "100g/ 3.5 oz  ham (, diced)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded cheese ((anything that melts except mozzarella, Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green onion (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan-forced). Grease a 22.5cm / 9&quot; pie dish with butter or spray lightly with oil. (Note 4)"
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk eggs, cream, salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Scatter most of the ham, cheese and green onion in the pie pan."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour in egg mixture. Top with remaining ham, cheese and green onion."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake 35 minutes until golden on top and centre barely wiggles. Don&#39;t overcook, it will lose custardy-ness."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from oven, rest 5 minutes and watch it deflate!"
+    },
+    {
+      "order": 7,
+      "instruction": "Cut then serve with a simple side salad, or stuff into soft rolls, or wrap into burritos (then pan fry to crisp!)"
+    }
+  ]
+}

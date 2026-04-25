@@ -1,0 +1,243 @@
+{
+  "id": "tr_2002",
+  "title": "Easy Chicken Tamale Burrito Bowls",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2013/12/Easy-Chicken-Tamale-Burrito-Bowls-7.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/easy-chicken-tamale-burrito-bowls/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 950,
+    "protein": 45.0,
+    "carbs": 58.0,
+    "fat": 28.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "chicken breast or thighs (I used a mix of both - you may also use pork (beef or lentils for a vegetarian version))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "red enchilada sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cayenne",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (slided)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red pepper (sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  orange pepper (sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "cooked black beans (drained and rinsed if using canned)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "polenta (I used Bob's Red Mill)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "sharp white cheddar cheese shredded (plus more for topping if desired)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-4 tablespoons butter (your preference)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  avocado",
+      "emoji": "🥑",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "queso fresco cheese (crumbled)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "in crushed tortilla chips (forgot to add these the photos (but you should do this!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat a very large skillet over medium- high heat and add the olive oil. When the skillet is hot, but not smoking (if it starts to smoke, turn heat down a bit and wait 5 minutes before adding the veggies) add the onions and red and orange peppers. Stir fry the peppers for 3-5 minutes, until they just begin to soften. Remove from the skillet and set aside. Keep warm by covering the plate with foil."
+    },
+    {
+      "order": 2,
+      "instruction": "Add another tablespoon of oil to the skillet. Add the chicken and brown on both sides, about 3-4 minutes per side. Once the chicken is browned all over add the the enchilada sauce, chili powder, smoked paprika, cumin, salt, pepper, cayenne, garlic and onion powder and bring everything to a boil. Reduce the heat to a simmer and simmer the chicken in the sauce for 10-15 minutes or until cooked through and shreds easily."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, make the polenta. Pour the chicken broth and milk into a medium size saucepan and bring to a boil. Lower the heat to medium and slowly whisk in the polenta. Cook, stirring frequently, until the polenta is soft and thick, about 15 to 20 minutes. Keep warm and then just before serving, stir in the cheddar cheese and butter, season with salt and pepper. If the polenta seems a little thick you can add a tablespoon of butter or extra milk."
+    },
+    {
+      "order": 4,
+      "instruction": "When the chicken is done cooking remove the chicken from the heat and shred the chicken with 2 forks right in the sauce. If your peppers have cooled off too much I would toss them with the chicken to get them warm again. Toss in the black beans until warmed through."
+    },
+    {
+      "order": 5,
+      "instruction": "To assemble the bowls, add a nice serving of polenta to each bowl. Top with the peppers and saucy chicken. Finish the bowls off with a dollop of mashed avocado, crumbled queso fresco, chopped cilantro and crushed tortilla chips. Dig. In."
+    }
+  ]
+}

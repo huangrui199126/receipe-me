@@ -1,0 +1,103 @@
+{
+  "id": "tr_12",
+  "title": "Sirloin Steak with Pesto, Bell Peppers (Capsicum) &amp; Flatbread",
+  "image": "https://www.recipetineats.com/tachyon/2014/11/Sirloin-Steak-with-Pesto-Capsicum-and-Flatbread-2.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sirloin-steak-pesto-bell-peppers-flatbread/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 764,
+    "protein": 93.1,
+    "carbs": 4.6,
+    "fat": 39.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 x 10oz / 300g   sirloin beef steak (, 2.5 cm/ 1 inch thick (the best you can afford))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or canola), separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red bell pepper ((capsicum), deseed, halved and sliced into strips)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pesto ((preferably homemade - see notes for recipe))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Flatbreads ((see recipe Easy Soft Flatbread (No Yeast)))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preferably bring your steak to room temperature. This will take 30 minutes if the air temperature is warm/hot, or an hour if it's cool."
+    },
+    {
+      "order": 2,
+      "instruction": "Season steaks generously with salt and pepper. Do this just before you cook it."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 1 tbsp oil in a heavy based fry pan over high heat until it starts to smoke."
+    },
+    {
+      "order": 4,
+      "instruction": "Place steaks in the fry pan. Cook each side for 2 minutes for medium rare. See notes for cooking times."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove steaks from the fry pan onto a plate and cover loosely (not tightly) with foil. Allow to rest for 5 minutes, up to 10 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "While the steak is resting, return the fry pan to the stove over medium high heat with 1 tbsp oil."
+    },
+    {
+      "order": 7,
+      "instruction": "Add the bell pepper (capsicum) and cook, stirring occasionally, until nicely charred. Remove from heat."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve the steaks topped with the bell pepper and with Pesto and Flatbread on the side."
+    }
+  ]
+}

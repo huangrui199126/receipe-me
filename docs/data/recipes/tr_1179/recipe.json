@@ -1,0 +1,143 @@
+{
+  "id": "tr_1179",
+  "title": "Fresh Strawberry Bars",
+  "image": "https://www.recipetineats.com/tachyon/2017/03/Strawberry-Bars-4.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fresh-strawberry-bars/",
+  "servings": 16,
+  "prepTime": 15,
+  "cookTime": 35,
+  "tags": [],
+  "nutrition": {
+    "calories": 227,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 1 stick  unsalted butter, melted",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1½ cups/ 225 g  plain flour (all purpose flour)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1½",
+      "unit": "cups",
+      "name": "/ 135 g  rolled oats (traditional oats, not quick, instant or steel cut)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "/ 110 g  brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "strawberry jam",
+      "emoji": "🍓",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chopped strawberries (about 375g)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350 (fan forced). (Note 1)"
+    },
+    {
+      "order": 2,
+      "instruction": "Spray a 20cm/9\" square tin with oil and line with baking/parchment paper with overhang (so it can be lifted out once cooked)."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix together flour, oats, sugar, baking powder and salt. Add butter and egg then mix."
+    },
+    {
+      "order": 4,
+      "instruction": "Measure out 1 cup of the mixture (for topping) and set aside. Place remaining mixture in the tin and press into base.&nbsp;"
+    },
+    {
+      "order": 5,
+      "instruction": "Mix together Strawberries, sugar and cornflour in a bowl (don't do this in advance because sugar will make strawberries sweat = runny filling)."
+    },
+    {
+      "order": 6,
+      "instruction": "Spread base with jam (Note 2), then scatter over strawberries. Use your hands to crumble the remaining mixture over the top (Note 3)."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake for 35 - 40 minutes or until the top is deep golden. Remove and allow to cool for 10 minutes in the tin before lifting out of the tin using the baking paper. It will sag - don't worry, it will set."
+    },
+    {
+      "order": 8,
+      "instruction": "Cut into squares. Serve at room temperature. Store in airtight container (in fridge if it's very hot where you are)."
+    }
+  ]
+}

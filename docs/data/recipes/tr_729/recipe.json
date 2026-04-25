@@ -1,0 +1,240 @@
+{
+  "id": "tr_729",
+  "title": "Dan Dan Noodles",
+  "image": "https://www.recipetineats.com/tachyon/2020/02/Dan-Dan-Noodles_4-2.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/dan-dan-noodles-spicy-sichuan-noodles/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "dan dan noodles",
+    "sichuan food",
+    "sichuan noodles",
+    "spicy noodles"
+  ],
+  "nutrition": {
+    "calories": 604,
+    "protein": 21.0,
+    "carbs": 56.0,
+    "fat": 34.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Chinese sesame paste ((sub tahini, Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "Chinese chilli paste in oil (, adjust spiciness (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "light soy sauce ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Chinese five spice powder ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Sichuan pepper powder (, preferably freshly ground (Note 5))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "(or more!) chilli oil (, preferably Chinese (Note 6))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(185ml)  chicken broth/stock (, hot, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dark soy sauce ((Note 7))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine ((sub 2 tbsp extra chicken stock))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Chinese five spice powder ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250g/ 8oz   pork mince ((ground pork))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "(1/4 cup)   Sui Mi Ya Cai (preserved mustard greens) (, finely chopped (Note 8))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/1lb  white fresh noodles (, medium thickness (Note 9))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "16  choy sum stems (, cut into 15cm pieces)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green onions (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "peanuts (, finely chopped (optional))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 20
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix all ingredients except oil and chicken stock. Then gently stir in oil and stock - oil should be sitting on surface. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix together hoisin, soy, Chinese wine and five spice (\"Sauce\")."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a skillet or wok over high heat. Add pork and cook, breaking it up as you, until it changes from pink to white. Add Sauce and cook for 1 minute, then transfer into a bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Return skillet to stove, reduce to medium heat. Add oil into middle of skillet."
+    },
+    {
+      "order": 5,
+      "instruction": "Add Sui mi ya cai and stir for 30 seconds, just to warm through. Set aside."
+    },
+    {
+      "order": 6,
+      "instruction": "Bring a large pot of water to the boil. Cook noodles per packet directions."
+    },
+    {
+      "order": 7,
+      "instruction": "Add choi sum for last 1 minute of cooking."
+    },
+    {
+      "order": 8,
+      "instruction": "Drain."
+    },
+    {
+      "order": 9,
+      "instruction": "Ladle 1/4 of Dan Dan Sauce into a bowl. Pile in noodles, top with pork and Sui mi ya cai. Place choi sum on side."
+    },
+    {
+      "order": 10,
+      "instruction": "Sprinkle with peanuts and green onions and serve."
+    },
+    {
+      "order": 11,
+      "instruction": "To eat, mix it all up to coat the noodles well with Sauce, then devour!"
+    }
+  ]
+}

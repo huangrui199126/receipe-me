@@ -1,0 +1,157 @@
+{
+  "id": "tr_1126",
+  "title": "Panzanella (Italian tomato and bread salad)",
+  "image": "https://www.recipetineats.com/tachyon/2021/08/Panzanella_24-SQ.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/panzanella-italian-tomato-bread-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "bread salad",
+    "italian bread salad",
+    "italian tomato salad",
+    "panzanella",
+    "stale bread recipe"
+  ],
+  "nutrition": {
+    "calories": 431,
+    "protein": 6.0,
+    "carbs": 32.0,
+    "fat": 32.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 - 5 cups (loosely packed) stale bread (, torn into 2.5cm/1” chunks (~180g/6 oz, depending on bread used))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  medium tomatoes ((Note 1))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking/kosher salt ((or 3/4 tsp table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  Lebanese cucumbers ((or 1 long telegraph/English cucumber), peeled (optional) (Note 3))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "basil leaves (, loosely packed)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "red or white wine vinegar ((Note 4 for other options))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "8",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil (, the best you can afford)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "garlic (, finely minced (~1 large or 2 small))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C /350°F (160°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss bread chunks with 1 tbsp olive oil in a bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Toast: Spread bread on a a tray and toast for about 15 minutes, until the outside is becoming golden and crunchy but the inside is still a little soft, like toast. Remove and leave to cool."
+    },
+    {
+      "order": 4,
+      "instruction": "Cut tomato into 8 wedges each. Cut some of these wedges into half (I like irregular shapes for this rustic salad)."
+    },
+    {
+      "order": 5,
+      "instruction": "Sweat tomato with salt: Put tomatoes into a colander over a large bowl. Season with the salt, toss and set aside for 10 minutes to draw out the juices. RESERVE the tomato juice in the bowl for the dressing."
+    },
+    {
+      "order": 6,
+      "instruction": "Cut cucumber into any shaped chunks aroun 2.5cm / 1&quot; pieces. Again, I like to do irregular but even-sized shapes."
+    },
+    {
+      "order": 7,
+      "instruction": "Toss veg: Place tomato sweating in colander into large bowl. Add cucumber and basil, toss gently."
+    },
+    {
+      "order": 8,
+      "instruction": "Tomato Dressing: Add Dressing ingredients into bowl holding the tomato juice, whisk well."
+    },
+    {
+      "order": 9,
+      "instruction": "Dress salad: Add bread to salad, pour over dressing. Give it a light toss."
+    },
+    {
+      "order": 10,
+      "instruction": "Rest then serve: Leave for 5 minutes to let the juices soak into the bread, tossing once or twice. Toss once more just before serving!"
+    }
+  ]
+}

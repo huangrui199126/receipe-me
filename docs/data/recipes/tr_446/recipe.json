@@ -1,0 +1,163 @@
+{
+  "id": "tr_446",
+  "title": "Bursty Tomato Burrata Salad",
+  "image": "https://www.recipetineats.com/tachyon/2023/07/Burrata-roasted-tomatoes-pesto_6.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tomato-burrata-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "burrata cheese",
+    "burrata recipe",
+    "burrata salad"
+  ],
+  "nutrition": {
+    "calories": 305,
+    "protein": 11.0,
+    "carbs": 7.0,
+    "fat": 29.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/ 6 oz x 1  fresh burrata cheese ((Aus: Paesanella is my go-to, Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "basil pesto (, preferably homemade, recommended but not essential (Note 2))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1 lb (4 cups)  cherry or grape tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "eschalot (, finely chopped (US: shallot), ~1/2 small (Note 3 subs))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sherry vinegar ((or apple cider or red wine vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt flakes ((or half the quantity for cooking/kosher salt) (Note 4))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil (, a good one is best, for finishing)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Few fresh basil leaves (, for sprinkling (Note 2))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Warmed crusty bread (, for mopping)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "De-chill - Take the burrata out of the fridge and leave on the counter for 30 minutes, to take the fridge-chill out of it. Keep it in the water in the tub."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 200°C/400°F (180°C fan)."
+    },
+    {
+      "order": 3,
+      "instruction": "Roast 10 min - Toss the cherry tomatoes with the olive oil, eschalot, salt and pepper (in a bowl, or on a tray). Spread on a tray. Roast 10 minutes until softened but not collapsing."
+    },
+    {
+      "order": 4,
+      "instruction": "Vinegar - Gently push the tomatoes to one end of the tray. Drizzle over vinegar. No need to mix."
+    },
+    {
+      "order": 5,
+      "instruction": "Tomatoes - Carefully transfer tomatoes to a plate, spreading them out in a single layer."
+    },
+    {
+      "order": 6,
+      "instruction": "Burrata - Gently (GENTLY!!) drain the water out of the tub and roll the burrata out into your hand. Place a burrata on top of tomatoes."
+    },
+    {
+      "order": 7,
+      "instruction": "Finish - Drizzle the 1 tablespoon of good extra virgin olive oil all over the plate. Dollop pesto randomly all over. Sprinkle with salt flakes and basil."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve with crusty bread on the side!"
+    },
+    {
+      "order": 9,
+      "instruction": "Eating!"
+    },
+    {
+      "order": 10,
+      "instruction": "Nominate a person to do the cutting honours. Break into the burrata with a serving spoon. Let the centre ooze out. Make sure you scoop up a bit of everything, pile onto bread and eat! Don&#39;t forget to mop the plate clean. The juices are the best part."
+    }
+  ]
+}

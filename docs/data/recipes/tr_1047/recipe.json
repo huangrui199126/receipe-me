@@ -1,0 +1,115 @@
+{
+  "id": "tr_1047",
+  "title": "Green Bean Salad",
+  "image": "https://www.recipetineats.com/tachyon/2015/11/Green-Bean-Salad_2.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/green-bean-salad/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 3,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   green beans (, trimmed)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  tomato (, diced)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  red onion (, finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "lemon juice ((or white wine vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 4 tbsp extra virgin olive oil ((adjust to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the Dressing ingredients in a jar and shake well. Set aside - or refrigerate up to 2 days. Bring to room temperature before using."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring a large pot of salted water to boil. Add the beans, bring it back up to a boil and boil beans for 60 seconds - no more!"
+    },
+    {
+      "order": 3,
+      "instruction": "Drain and plunge in ice cold water (or run under cold tap water) to stop them from cooking."
+    },
+    {
+      "order": 4,
+      "instruction": "If making ahead, leave in the colander to dry before transferring to the fridge."
+    },
+    {
+      "order": 5,
+      "instruction": "To serve, pile the beans on a plate, top with tomato and red onion, drizzled over dressing. Sprinkle with parsley if using."
+    }
+  ]
+}

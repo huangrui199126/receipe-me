@@ -1,0 +1,139 @@
+{
+  "id": "tr_105",
+  "title": "Spicy Little Muffin Tin Chicken Tostadas",
+  "image": "https://www.recipetineats.com/tachyon/2015/02/Spicy-Little-Muffin-Tin-Chicken-Tostadas-31.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spicy-little-muffin-tin-chicken-tostadas/",
+  "servings": 10,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 93,
+    "protein": 5.6,
+    "carbs": 3.3,
+    "fat": 2.4
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 to 3  tortillas ((flour or corn))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "whole egg mayonnaise",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "finely chopped canned jalapeño (, drained (Note 1))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lime juice ((or more to taste))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sliced shallots/scallions ((or 1/4 cup finely diced red onion))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely diced coriander/cilantro stems",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "shredded cooked chicken ((plain, unseasoned))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Diced avocado",
+      "emoji": "🥑",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut out 10 rounds using a 7.5cm/3\" round cutter OR 400g/14oz empty, clean can. You should be able to get 5 out of each tortilla."
+    },
+    {
+      "order": 3,
+      "instruction": "Mould into standard size muffin tins. Spray with oil, then bake for 10 to 15 minutes until golden brown and crisp. Allow to cool in the muffin tin then set aside until required in an airtight container."
+    },
+    {
+      "order": 4,
+      "instruction": "Place all the Filling ingredients except the chicken in a bowl and mix to combine. Then add the chicken and toss gently to coat."
+    },
+    {
+      "order": 5,
+      "instruction": "To serve, divide the chicken filling between the tostada cups. Sprinkle with coriander/cilantro leaves and avocado."
+    }
+  ]
+}

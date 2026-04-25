@@ -1,0 +1,114 @@
+{
+  "id": "tr_963",
+  "title": "Cucumber Salad with Herb & Garlic Dressing (Vinaigrette)",
+  "image": "https://www.recipetineats.com/tachyon/2019/10/Cucumber-Salad-with-Herb-Garlic-Vinaigrette_4.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cucumber-salad-with-herb-garlic-vinaigrette/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "creamy cucumber salad",
+    "dressing for cucumber salad"
+  ],
+  "nutrition": {
+    "calories": 110,
+    "protein": 1.0,
+    "carbs": 7.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  cucumbers (, standard (or 2 long Telegraph/English cucumber(Note 1))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "red wine vinegar ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "mixed dried herbs ((Note 3 sub))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "white sugar ((optional))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt and black pepper (, EACH)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Shake Dressing in a jar."
+    },
+    {
+      "order": 2,
+      "instruction": "Cucumber: Trim ends then slice about 3 mm/ 1/8&quot; thick."
+    },
+    {
+      "order": 3,
+      "instruction": "Place in bowl with red onion."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour over Dressing, toss gently and serve immediately."
+    }
+  ]
+}

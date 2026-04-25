@@ -1,0 +1,137 @@
+{
+  "id": "tr_1403",
+  "title": "Crispy Oven Baked Chicken Tenders",
+  "image": "https://www.recipetineats.com/tachyon/2015/04/Crunchy-Baked-Chicken-Tenders_6.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/truly-golden-crunchy-baked-chicken-tenders-less-mess/",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "baked chicken tenders"
+  ],
+  "nutrition": {
+    "calories": 416,
+    "protein": 42.0,
+    "carbs": 29.0,
+    "fat": 12.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "panko breadcrumbs ((Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "mayonnaise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "dijon mustard ((or other mustard))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500 g/1 lb  chicken tenderloins ((or breast cut into 2/3\" / 1.5cm thick slices, lengthwise))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/390°F (180° fan-forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Toast panko - Spread panko on a baking tray, spray with oil (spray vertically to avoid blowing the panko off the tray), then bake for 3 to 5 minutes until light golden. Transfer to bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Place a rack on a baking tray (not critical but bakes more evenly)."
+    },
+    {
+      "order": 4,
+      "instruction": "Dredge batter - Place the Batter ingredients in a bowl and whisk with a fork until combined. Add the chicken into the Batter and toss to coat."
+    },
+    {
+      "order": 5,
+      "instruction": "Pick up chicken with tongs and place it into the panko bowl."
+    },
+    {
+      "order": 6,
+      "instruction": "Crumb - Sprinkle surface with breadcrumbs, then press down to adhere. Transfer onto baking tray. Marvel at clean fingers, repeat with remaining chicken."
+    },
+    {
+      "order": 7,
+      "instruction": "Spray &amp; bake - Spray lightly with oil, sprinkle with a touch of salt (optional). Bake 15 minutes (medium) or up to 20 minutes if gigantic. Any longer = dried out chicken."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve - Remove from oven and serve immediately, with Sauce of choice (Honey Mustard pictured, see Note 2) and sprinkled with fresh parsley, if desired."
+    }
+  ]
+}

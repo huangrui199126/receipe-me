@@ -1,0 +1,91 @@
+{
+  "id": "tr_1774",
+  "title": "5 Ingredient (MAGIC) Matzo Chocolate Bars.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/03/5-Ingredient-MAGIC-Matzo-Chocolate-Bars-2.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/5-ingredient-magic-matzo-chocolate-bars/",
+  "servings": 18,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "chocolate bar",
+    "easy",
+    "matzo"
+  ],
+  "nutrition": {
+    "calories": 298,
+    "protein": 6.0,
+    "carbs": 18.0,
+    "fat": 19.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "ounces",
+      "name": "sheets Matzo (use [gluten free Matzo | http://www.amazon.com/Yehuda-Matzo-Squares-Gluten-10-5000-/dp/B004DBVJRA] if needed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "salted mixed nuts (I used peanuts (cashews, almonds and pistachios))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "semi-sweet chocolate chips",
+      "emoji": "🍫",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sweetened or unsweetened shredded coconut (your preference)",
+      "emoji": "🥥",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "can sweetened condensed milk (14)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "milk chocolate Easter Eggs (for topping (optional))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 350 degrees F. Line a 9x13 inch pyrex pan with parchment and spray with cooking spray."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the matzo in an even layer on the bottom of the pyrex pan. Sprinkle over the mixed nuts, chocolate chips and half the coconut. Drizzle the sweetened condensed milk evenly over top. Sprinkle with the remaining coconut. If using, add a few milk chocolate eggs."
+    },
+    {
+      "order": 3,
+      "instruction": "Bake for 20-25 minutes or until the top is just lightly golden brown. Watch closely towards the end of cooking to make sure the coconut does not burn."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove and allow to cool at least 45 minutes before cutting. Cut into bars and serve at room temperature (my parents likes these best straight from the fridge). Store in an airtight container for up to 1 week at room temp or in the fridge."
+    }
+  ]
+}

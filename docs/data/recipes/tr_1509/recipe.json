@@ -1,0 +1,141 @@
+{
+  "id": "tr_1509",
+  "title": "Buttery Parker House Rolls.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/11/Buttery-Parker-House-Rolls-1.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/buttery-parker-house-rolls/",
+  "servings": 16,
+  "prepTime": 0,
+  "cookTime": 20,
+  "tags": [
+    "dinner rolls"
+  ],
+  "nutrition": {
+    "calories": 336,
+    "protein": 4.0,
+    "carbs": 23.0,
+    "fat": 5.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "King Arthur Unbleached All-Purpose Flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "teaspoons",
+      "name": "instant yeast",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "potato flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "tablespoons",
+      "name": "to 4 butter, melted; for brushing on rolls",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large mixing bowl, or in the bowl of an electric mixer, combine all of the ingredients (except the 3 tablespoons melted butter at the end), mixing to form a shaggy dough. Note: to speed the rising process, whisk together the milk and egg, and heat gently just enough to remove the refrigerator chill; then add to the remaining ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Knead the dough, by hand (10 minutes) or by machine (7 to 8 minutes) until it's smooth."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the dough in a lightly greased bowl or 8-cup measure (so you can track its rising progress). Allow it to rise for 90 minutes; it'll become quite puffy, though it probably won't double in bulk. Note that the dough takes quite awhile to get going; after 1 hour, it may seem like it's barely expanded at all. But during the last half hour, it rises more quickly."
+    },
+    {
+      "order": 4,
+      "instruction": "Transfer the dough to a lightly greased work surface. Divide it in half. Working with one half at a time, roll or pat the dough into an 8\" x 12\" rectangle."
+    },
+    {
+      "order": 5,
+      "instruction": "Brush the dough all over with a light coating of the melted butter. You'll have melted butter left over; save it to brush on top of the baked rolls."
+    },
+    {
+      "order": 6,
+      "instruction": "Cut the dough in half lengthwise, to make two 4\" x 12\" rectangles. Working with one rectangle at a time, fold it lengthwise to about 1/2\" of the other edge, so the bottom edge sticks out about 1/2\" beyond the top edge. You'll now have a rectangle that's about 2 1/4\" x 12\". Repeat with the other piece of dough."
+    },
+    {
+      "order": 7,
+      "instruction": "Cut each of the rectangles crosswise into four 3\" pieces, making a total of 8 rolls, each about 2 1/4\" x 3\". Place the rolls, smooth side up, in a lightly greased 9\" x 13\" pan. Repeat with the remaining piece of dough, making 16 rolls in all. Alternately you can roll each rectangle of dough into a coil as you would a cinnamon roll."
+    },
+    {
+      "order": 8,
+      "instruction": "You'll arrange 4 rows of 4 in the pan, with the longer side of the rolls going down the longer side of the pan. Gently flatten the rolls to pretty much cover the bottom of the pan."
+    },
+    {
+      "order": 9,
+      "instruction": "Cover the pan, and let the rolls rise for about 45 minutes to 1 hour, until they're puffy but definitely not doubled. Towards the end of the rising time, preheat the oven to 350°F."
+    },
+    {
+      "order": 10,
+      "instruction": "Bake the rolls for 20 to 25 minutes, until they're golden brown and feel set."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove them from the oven, and brush with the remaining melted butter. Pull them apart to serve."
+    }
+  ]
+}

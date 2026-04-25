@@ -1,0 +1,162 @@
+{
+  "id": "tr_1987",
+  "title": "Mexican Beer Spiked Churros with Chocolate Dulce De Leche.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2013/12/Mexican-Beer-Spiked-Churros-with-Chocolate-Dulce-De-Leche-61.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/mexican-beer-spiked-churros-chocolate-dulce-de-leche/",
+  "servings": 20,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "churros",
+    "dulce de leche"
+  ],
+  "nutrition": {
+    "calories": 94,
+    "protein": 1.0,
+    "carbs": 15.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "mexican beer (I used Negra Modelo)",
+      "emoji": "🍺",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "packed brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "canola oil (for frying)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "beer",
+      "emoji": "🍺",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "ounces",
+      "name": "semi-sweet chocolate (chopped)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "[mexican cajeta sauce | http://www.tablespoon.com/recipes/cajeta-mexican-caramel-sauce/18545c11-f2d9-4c6c-8234-41fc67d68720/]",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To make the chocolate cajeta sauce. Add the beer and chocolate to a small saucepan and place over medium low heat. Gently stir the melting chocolate into the beer. When the chocolate is smooth, remove from the heat and stir the salt into the cajeta sauce (or dulce de leche) until smooth. Keep somewhat warm and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "To make the churros. In a medium saucepan, combine beer, butter, brown sugar, and salt. Bring to a boil over medium heat (make sure to actually bring the mixture to a boil). Add the flour all at once, stirring with a wooden spoon. Cook and stir until mixture forms a ball and pulls away from the sides of the pan. Remove from heat. Cool for 10 minutes. Add egg and vanilla, beating well with a wooden spoon or rubber spatula."
+    },
+    {
+      "order": 3,
+      "instruction": "Transfer mixture to a piping bag fitted with a large star tip or just snip the corner off a gallon size ziplock bag and skip the tip."
+    },
+    {
+      "order": 4,
+      "instruction": "In a medium bowl, combine granulated sugar and cinnamon. Set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat 3 inches of oil in a deep saucepan to between 350 degrees F. - 375 degrees F. fill a large saucepan 2/3 full with vegetable oil and heat to 350 degrees F. Remove batter from refrigerator and slowly squeeze 3-inch long strips of batter into the oil. Fry in batches, until golden brown, 5 to 6 minutes, flipping halfway through. Drain churros on paper towels."
+    },
+    {
+      "order": 6,
+      "instruction": "Roll warm churros in cinnamon-sugar mixture to coat. Serve warm with the chocolate cajeta."
+    }
+  ]
+}

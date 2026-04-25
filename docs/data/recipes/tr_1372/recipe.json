@@ -1,0 +1,174 @@
+{
+  "id": "tr_1372",
+  "title": "Haloumi fries",
+  "image": "https://www.recipetineats.com/tachyon/2023/08/Haloumi-Fries_6.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/haloumi-fries/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "haloumi fries",
+    "haloumi recipe"
+  ],
+  "nutrition": {
+    "calories": 403,
+    "protein": 21.0,
+    "carbs": 13.0,
+    "fat": 30.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "360",
+      "unit": "g",
+      "name": "/ 12oz  haloumi cheese blocks (, 2 x 180g/6 oz blocks (Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "canola oil ((or other natural oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large eggs (, whisked)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "plain/all purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Italian herbs ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "smoked paprika ((sub ordinary paprika))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ground white pepper ((sub black pepper))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "panko breadcrumbs (- or ordinary breadcrumbs (Note 3))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "plain Greek yoghurt",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, finely grated using a microplane)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "lemon juice ((sub white vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Garlic dipping sauce - Mix ingredients in a bowl and set aside for at least 20 minutes to let the flavours develop."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut the haloumi into fries around 1.5cm / 0/6&quot; thick. The length will depend on the shape of your haloumi. I cut mine into 5 slices lengthwise, then each into half which makes uniform fries, and get 20 pieces."
+    },
+    {
+      "order": 3,
+      "instruction": "Dry - Pat halloumi mostly dry using tea towels."
+    },
+    {
+      "order": 4,
+      "instruction": "Prep - Using 3 bowls large enough to toss the halloumi, put the eggs in one bowl, mix Flour Dredge in another and mix Crumbing ingredients in a third."
+    },
+    {
+      "order": 5,
+      "instruction": "Crumb - Dip a haloumi fry in flour, shake off excess. Dip in egg, allow excess to drip off. Coat in breadcrumbs, pressing to adhere, then place on tray. PRO: Do 2 at a time. 🙌🏻 Toss haloumi in breadcrumbs (by tossing the bowl) so you don&#39;t have to touch. 🙌🏻"
+    },
+    {
+      "order": 6,
+      "instruction": "Heat oil in a medium sauce pan over high heat until it reaches 180°C/350°F (Note 4)."
+    },
+    {
+      "order": 7,
+      "instruction": "Fry 5 haloumi sticks at a time for 1 1/2 minutes. Drain on a paper towel lined tray. Repeat with remaining haloumi."
+    },
+    {
+      "order": 8,
+      "instruction": "Air fry and baking - see Note 5."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve hot with yoghurt garlic dipping sauce!"
+    }
+  ]
+}

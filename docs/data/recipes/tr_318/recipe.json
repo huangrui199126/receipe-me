@@ -1,0 +1,159 @@
+{
+  "id": "tr_318",
+  "title": "Curried Sausages",
+  "image": "https://www.recipetineats.com/tachyon/2019/04/Curried-Sausages_2.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/curried-sausages/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "curried sausage gravy",
+    "curried sausages",
+    "sausage recipe"
+  ],
+  "nutrition": {
+    "calories": 569,
+    "protein": 28.0,
+    "carbs": 17.0,
+    "fat": 42.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "0.5",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 1.2lb  sausages (, of choice (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, halved and sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (, peeled, sliced on the diagonal)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "curry powder (, or more (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "flour (, any type (Note 3 for GF))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(500ml)  chicken stock/broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt (, plus more to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "peas (, frozen)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large skillet over medium high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook sausages, turning to brown all over then remove. Optional: slice sausages into pieces on the diagonal."
+    },
+    {
+      "order": 3,
+      "instruction": "In the same skillet, add garlic and onion. Cook for 2 minutes until translucent."
+    },
+    {
+      "order": 4,
+      "instruction": "Add curry powder and stir for 30 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Add flour and mix for 30 seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Gradually pour in chicken stock, mixing constantly."
+    },
+    {
+      "order": 7,
+      "instruction": "Add carrots, sugar, salt and pepper, stir well."
+    },
+    {
+      "order": 8,
+      "instruction": "Add sausages and peas, bring to simmer and cook for 3 minutes or until sauce thickens."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve over mashed potato, rice, pasta or noodles. For low carb, try mashed cauliflower!"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "tr_228",
+  "title": "Baked Arancini Balls",
+  "image": "https://www.recipetineats.com/tachyon/2014/08/Baked-Arancini-2-1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baked-arancini-balls/",
+  "servings": 12,
+  "prepTime": 20,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 170,
+    "protein": 5.3,
+    "carbs": 22.0,
+    "fat": 6.8
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "leftover risotto ((see note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "grated cheese ((tasty, cheddar, mozzarella or any other good melting cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "plain breadcrumbs ((Optional - to thicken the risotto. May not be required - see note 2))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "panko breadcrumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine risotto with the egg and cheese and mix well."
+    },
+    {
+      "order": 2,
+      "instruction": "Do a test ball to determine stiffness of risotto (optional step - see note 2): Take a slightly mounded scoop of the risotto using an ice cream scooper (about 1/4 cup), roll it into an egg shape and place it upright on a small plate so that it is higher than it is wide. Wait a minute or two and see if it holds its shape. If it collapses at bit, use the plain breadcrumbs to thicken the risotto - you may not need any, you might need more or less. Do another test until you are happy with the consistency."
+    },
+    {
+      "order": 3,
+      "instruction": "Cover risotto and refrigerate for at least 1 hour."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 5,
+      "instruction": "Lightly grease or spray a baking tray."
+    },
+    {
+      "order": 6,
+      "instruction": "Combine panko and salt in a bowl. Then add the olive oil and use your fingers to lightly \"rub\" the olive oil into the panko and disperse it as evenly as possible"
+    },
+    {
+      "order": 7,
+      "instruction": "Make the arancini balls: As per the test ball, make arancini balls using the ice-cream scooper. Drop the balls into the bowl with the panko. Spoon over the panko, then use your fingers to either roll and pat the panko so it sticks to the arancini."
+    },
+    {
+      "order": 8,
+      "instruction": "Scoop the arancini out of the panko bowl using a dessert spoon and use your fingers to shape it into an egg / cylinder shape."
+    },
+    {
+      "order": 9,
+      "instruction": "Place the arancini onto the baking tray upright so it stands taller than it is wide. The reason for this is that the arancini will collapse a bit when baking. So by shaping them slightly taller, when they come out of the oven they will be more of a ball shape rather than collapsing into a pattie."
+    },
+    {
+      "order": 10,
+      "instruction": "Bake for 20 to 30 minutes until golden."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove from oven, rest for 5 minutes before serving."
+    },
+    {
+      "order": 12,
+      "instruction": "Garnish with finely chopped parsley if desired."
+    }
+  ]
+}

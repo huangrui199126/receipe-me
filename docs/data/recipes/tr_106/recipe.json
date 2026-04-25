@@ -1,0 +1,203 @@
+{
+  "id": "tr_106",
+  "title": "Caesar Salad Wonton Cups",
+  "image": "https://www.recipetineats.com/tachyon/2014/08/Caesar-Salad-Wonton-Cups-1-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/caesar-salad-wonton-cups/",
+  "servings": 12,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 117,
+    "protein": 7.2,
+    "carbs": 8.1,
+    "fat": 6.1
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  wonton wrappers",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "cos/romaine lettuce (, shredded)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cooked chicken (, diced)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2  bacon rashers (, diced)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "bread (, diced finely (preferably stale))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "parmesan cheese (, freshly grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fresh parsley (, finely chopped (optional - for garnish))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  anchovy fillets",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "mayonnaise (, preferably whole egg)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "freshly grated parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Milk (, to adjust consistency)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F. Fit the wonton wrappers into each hole of a standard size muffin / cupcake tin (not mini and not Texas muffin tins!). Spray the wontons lightly with olive oil. Bake for 8 to 12 minutes, until golden and crispy. Remove from oven and set aside to cool."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a small non stick pan over high heat. Spray with oil, add bacon and sauté until crispy, then remove and drain on absorbent paper towel."
+    },
+    {
+      "order": 3,
+      "instruction": "Return pan to stove, reduce heat to medium high and spray pan with oil. Add finely diced bread. Shake pan (or stir) to brown evenly. Remove mini croutons from pan, scatter over a pinch of salt and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Place Dressing ingredients in a blender or food processor and whizz until smooth. If it seems too thick, use a tiny splash of milk to adjust the consistency."
+    },
+    {
+      "order": 5,
+      "instruction": "Place cos lettuce, chicken and bacon in a bowl with 6 to 8 tbsp of dressing (depending on how much dressing you want to use) and toss gently to combine."
+    },
+    {
+      "order": 6,
+      "instruction": "Divide the salad between the wonton cups, top with croutons, a pinch of parmesan and a sprinkle of parsley."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve immediately."
+    }
+  ]
+}

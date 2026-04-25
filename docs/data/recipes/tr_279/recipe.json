@@ -1,0 +1,154 @@
+{
+  "id": "tr_279",
+  "title": "Perfect Crispy French Fries",
+  "image": "https://www.recipetineats.com/tachyon/2022/09/Crispy-Fries_8.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/french-fries/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "french fries",
+    "homemade chips"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb  (3 - 4) floury potatoes ( (Note 1, Aus: Sebago/dirt aka brushed, US: Russet/Idaho, UK: Maris Piper, King Edward))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white vinegar ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cooking salt / kosher salt ((Note 3))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 litre/quart canola/vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt - table salt or sea salt flakes",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Shaker fries seasoning",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rosemary salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Nori salt (coming soon)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut: Peel the potatoes. Cut into 6 mm / 1/4&quot; French fries using a serrated knife. (Note 4)"
+    },
+    {
+      "order": 2,
+      "instruction": "Keep cut fries submerged in a bowl of water to prevent them from going brown while you cut the remainder. (No need for actual soaking beyond this.)"
+    },
+    {
+      "order": 3,
+      "instruction": "Rinse: Transfer potatoes to a colander and rinse under tap water for 15 - 20 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Simmer: Place fries in a large pot with 2 litres/quarts of cold tap water, vinegar and salt. Bring to a boil over high heat then immediately reduce stove to low so the surface is rippling gently (Note 5), not big bubbles. Cook for 10 minutes then carefully remove using a slotted spoon into a colander (do not tip into colander, fries will break)."
+    },
+    {
+      "order": 5,
+      "instruction": "Dry 5 min: Spread the fries on 2 tea towel lined trays. Leave to steam dry for 5 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Pot: Pour 3 cm / 1.2&quot; of oil in a pot that is at least 10cm/4&quot; high (⚠️for safety, need at least 7 cm / 3&quot; from oil surface to rim of pot, Note 6)"
+    },
+    {
+      "order": 7,
+      "instruction": "Separate the fries into 3 Batches (for cooking)."
+    },
+    {
+      "order": 8,
+      "instruction": "Heat oil to 205°C/400°F over medium high heat."
+    },
+    {
+      "order": 9,
+      "instruction": "⚠️10 sec pause (Note 7): Lower 1/3 of Batch 1 fries into the oil using a slotted spoon. WAIT 10 seconds, add another 1/3 of the fries, wait 10 seconds, then add the remaining Batch 1 fries."
+    },
+    {
+      "order": 10,
+      "instruction": "50 sec fry: Fry for 50 seconds, moving them around once or twice. Then remove with a slotted spoon onto 2 paper towel lined trays, spread out in a single layer. The fries will still be white and floppy."
+    },
+    {
+      "order": 11,
+      "instruction": "Repeat Fry #1 with Batches 2 and 3, ensuring the oil is back at 205°C/400°F before cooking."
+    },
+    {
+      "order": 12,
+      "instruction": "30 min cool: Leaves fries to cool for 30 minutes."
+    },
+    {
+      "order": 13,
+      "instruction": "Line a large bowl with paper towels - for draining and tossing."
+    },
+    {
+      "order": 14,
+      "instruction": "Fry #2: Heat oil to 205°C/400°F. Fry half the French fries for 4 minutes, moving them around twice, or until golden brown and crispy. Drain in the lined bowl, then repeat with remaining fries."
+    },
+    {
+      "order": 15,
+      "instruction": "Sprinkle fries with salt or seasoning or choice. (Note 8) Toss and serve!"
+    },
+    {
+      "order": 16,
+      "instruction": "Fries will stay crispy even once cool. See note for large batch cooking tip."
+    }
+  ]
+}

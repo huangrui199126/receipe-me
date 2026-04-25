@@ -1,0 +1,315 @@
+{
+  "id": "tr_1942",
+  "title": "Greek Steak Salad French Bread with Soft Boiled Eggs + Feta.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/03/Greek-Steak-Salad-French-Bread-with-Soft-Boiled-Eggs-+-Feta-1.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/greek-steak-salad-french-bread-soft-boiled-eggs-feta/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "boiled egg",
+    "feta",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 787,
+    "protein": 35.0,
+    "carbs": 54.0,
+    "fat": 61.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "flank steak (about 1 inch thick, 1)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "red wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  lemon (juiced)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic (grated or minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "basil (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6-8 cups spring greens",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 pint grape tomatoes (halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "kalamata olives (halved)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "oil packed sun-dried tomatoes (drained of most oil)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  avocado (diced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  small red onion (sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "feta cheese (crumbled)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh basil (chopped or sliced)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  whole grain loaf french bread (halved (use your favorite gluten free loaf if needed))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-4 tablespoons olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (halved)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "sprinkle of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  eggs (soft or hard boiled (I used [this method | http://pickledplum.com/how-to-boil-eggs/])",
+      "emoji": "🥚",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "red wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemon (juiced)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 teaspoons granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  glove garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dried basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 30
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoons",
+      "name": "dried dill",
+      "emoji": "🥄",
+      "section": "",
+      "order": 31
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 32
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Whisk olive oil, red wine vinegar, balsamic vinegar, lemon juice, garlic, basil, oregano, salt and pepper in a bowl until combined. Add flank steak to a ziplock bag or baking dish and pour marinade ingredients over top. Marinate in the fridge for 4-24 hours, flipping steak a few times to coat with marinade. When you're ready to make the steak, heat the grill to high heat and grill the steak for about 5 to 6 minutes, flip and grill for 4 to 5 minutes more or until your desired doneness. Let it rest for 10 minutes, then slice thin strips on an angle. You can also cook the steak under the broiler."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat the oven to 375 degrees F."
+    },
+    {
+      "order": 3,
+      "instruction": "Rub some olive oil over the cut sides of the french bread. Gentle rub the garlic into the bread and then set aside (reserve the remaining garlic for the dressing). Sprinkle the bread with salt and 2 tablespoons fresh basil. Bake on baking sheet for 10-15 minutes or until toasted."
+    },
+    {
+      "order": 4,
+      "instruction": "Meanwhile combine the spring greens, tomatoes, olives, sun-dried tomatoes, avocado, read onion and basil in a large salad bowl. Toss well and drizzle with the dressing (or serve the dressing on the side), sprinkle with feta. There will be leftover salad."
+    },
+    {
+      "order": 5,
+      "instruction": "In a bowl combine the olive oil, red wine vinegar, lemon juice, dijon, sugar, garlic, oregano, basil, dill, salt and pepper. Whisk well, taste and adjust as needed."
+    },
+    {
+      "order": 6,
+      "instruction": "Spread the salad over the toasted french bread. Add the sliced steak and chopped soft boiled eggs. Sprinkle with feta and fresh pepper. Cut into fourths and serve with dressing on the side."
+    }
+  ]
+}

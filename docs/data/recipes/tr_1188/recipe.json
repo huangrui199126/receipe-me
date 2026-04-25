@@ -1,0 +1,125 @@
+{
+  "id": "tr_1188",
+  "title": "Chinese Ham Bone Rice Soup (Congee)",
+  "image": "https://www.recipetineats.com/tachyon/2018/08/Ham-Bone-Rice-Soup-Congee_6.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-ham-bone-rice-soup-congee/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 150,
+  "tags": [
+    "ham bone rice soup"
+  ],
+  "nutrition": {
+    "calories": 338,
+    "protein": 18.0,
+    "carbs": 36.0,
+    "fat": 12.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "(2 lb)  ham bone / hock ((Note 1))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "long grain white rice (, uncooked)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "9",
+      "unit": "cups",
+      "name": "(2.25 L or 2.25 QT)  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt &amp; white pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely sliced green onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fried asian shallots / onions or something else crunchy (, optional (Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame oil (, optional)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place bone, rice and water in a large pot, slow cooker or pressure cooker. Cover with lid."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook using preferred method (times below), or until meat on ham is tender enough to shred."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove ham from soup, shred meat. Discard fatty / thick skin and sinew, keep bone. Use scissors if needed to chop meat."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir rice well, then return meat AND bone into soup."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook using preferred method, until rice is broken down and soup has a porridge like consistency - see video.&nbsp;"
+    },
+    {
+      "order": 6,
+      "instruction": "Remove bone. Stir vigorously, then adjust consistency with water if desired. Or simmer uncovered if necessary to thicken. Adjust salt to taste (I usually just need a pinch), add a dash of pepper."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve rice soup garnished with green onions, a sprinkle of Asian Fried Shallots and drizzle of sesame oil."
+    },
+    {
+      "order": 8,
+      "instruction": "Storage tip: Return bone into the soup, it continues to add flavour."
+    },
+    {
+      "order": 9,
+      "instruction": "Stove: Simmer on low for 1 3/4 - 2 hours (no stirring), shred meat, then on low for 30 minutes, stirring every now and then."
+    },
+    {
+      "order": 10,
+      "instruction": "Slow Cooker: Low for 8 hours, shred meat, then low for 1 - 2 hours."
+    },
+    {
+      "order": 11,
+      "instruction": "Pressure Cooker: High for 50 minutes, shred meat, then high for 15 minutes or 20 minutes on sauté function."
+    }
+  ]
+}

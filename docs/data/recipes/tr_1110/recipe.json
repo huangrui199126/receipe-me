@@ -1,0 +1,163 @@
+{
+  "id": "tr_1110",
+  "title": "Crispy Baked Shrimp in Lemon Butter Sauce (Prawns)",
+  "image": "https://www.recipetineats.com/tachyon/2019/08/Baked-Shrimp-Prawns_7-SQ.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baked-shrimp-prawns/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "baked prawns",
+    "baked shrimp",
+    "shrimp scampi"
+  ],
+  "nutrition": {
+    "calories": 390,
+    "protein": 30.0,
+    "carbs": 11.0,
+    "fat": 21.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1 lb   jumbo prawns/shrimp (, peeled and deveined (Note 1))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "dry white wine ((sub chicken broth))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "75g/ 5 tbsp   unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((Note 2))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "parmesan (, finely shredded)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/430°F (all oven types)."
+    },
+    {
+      "order": 2,
+      "instruction": "Pour wine and half the butter into 9 x 13&quot; / 22 x 33cm baking pan (see Note 3 if using glass). Place in oven for 10 minutes to reduce."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss prawns with remaining butter, garlic, lemon juice, salt and pepper. Butter may harden - that's ok."
+    },
+    {
+      "order": 4,
+      "instruction": "Mix Crunchy Topping ingredients."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove pan from oven. Add prawns - spread out in single layer, but snug."
+    },
+    {
+      "order": 6,
+      "instruction": "Top with Crunchy Topping. Bake 12 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Flick to broiler/grill on high, broil for 1 - 2 minutes (max) to brown top a bit more."
+    },
+    {
+      "order": 8,
+      "instruction": "Sprinkle with parsley. Serve immediately with lemon wedges and crusty bread to mop up the incredible sauce!"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "tr_680",
+  "title": "Mongolian Lamb",
+  "image": "https://www.recipetineats.com/tachyon/2020/08/Mongolian-lamb_9-SQ.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mongolian-lamb/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "chinese stir fry",
+    "lamb recipe",
+    "mongolian lamb"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 24.0,
+    "carbs": 12.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "/ 12 oz  lamb meat (backstrap/fillet, mid loin chops,  shoulder - or any cut in Note 1)",
+      "emoji": "🐑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking soda ((bicarb soda) (tenderiser, Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "light soy sauce ((or all purpose, Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine ((Note 4 subs))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dark soy sauce ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "light soy sauce ((or all purpose, Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "Sambal Oelak or other chilli paste ((or omit for no spice))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "hoisin sauce ((I used Lee Kum Kee brand))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine ((Note 4 subs))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "Chinese five spice powder ((Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil (, toasted (Note 6))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or canola or peanut))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion (, cut into large 2.5cm / 1\" squares)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  green onions (, cut into 5cm/2\" lengths)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine lamb and marinade ingredients, mix very well. Cover and refrigerate to marinate and tenderise the lamb."
+    },
+    {
+      "order": 2,
+      "instruction": "Marinate 2 hours - Backstrap, Midloin chops and other listed Tender Cuts in Note 1."
+    },
+    {
+      "order": 3,
+      "instruction": "Marinate 24 hours - lamb shoulder and other listed Economical Cuts in Note 1. (Bare minimum marinade times is 6 hrs)."
+    },
+    {
+      "order": 4,
+      "instruction": "Sauce: Mix cornflour with the soy sauces, then mix in the remaining sauce ingredients. (Note 7)"
+    },
+    {
+      "order": 5,
+      "instruction": "Cook onion: Heat oil over high heat in a wok or heavy based skillet. Add onions, and stir fry for 30 seconds until starting to colour. Add garlic and toss through quickly."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook Lamb: Add lamb and cook for 3 minutes until most of it changes from red to brown, and some pieces start getting nice golden brown surfaces."
+    },
+    {
+      "order": 7,
+      "instruction": "Add Sauce: Add green onions, stir for 30 seconds (meat should all now be brown), then add Sauce. Stir and let simmer for 1 - 2 minutes until thickened."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve with rice!"
+    }
+  ]
+}

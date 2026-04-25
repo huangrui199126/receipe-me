@@ -1,0 +1,211 @@
+{
+  "id": "tr_911",
+  "title": "Pasta Primavera",
+  "image": "https://www.recipetineats.com/tachyon/2022/10/Pasta-Primavera_4.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pasta-primavera/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [
+    "pasta primavera",
+    "spring recipe",
+    "vegetable pasta"
+  ],
+  "nutrition": {
+    "calories": 874,
+    "protein": 23.0,
+    "carbs": 74.0,
+    "fat": 56.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10 oz  linguine ((fettucine, or other long and flat pasta, Note 1))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5oz  white mushrooms (, sliced 0.4cm / 1/6\" thick (~8 pieces))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  large zucchini (, cut into 0.5cm / 0.2&quot; rounds (100g/4 oz piece))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "broccolini",
+      "emoji": "🥦",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cup",
+      "name": "snow peas ((~10 pieces, 75g/2.5oz))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "green asparagus ((~8 to 10))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "green peas (, defrosted)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  cherry tomatoes (, cut in half)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "/ 75 g  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "thickened / heavy cream ((Note 3))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Parmigiano reggiano (, finely grated (sub regular parmesan, Note 4))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "pasta cooking water (, scoop out just before draining (Note 6))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh basil leaves (, finely sliced (Note 5))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "pinenuts (, toasted (Note 7))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Broccolini - Cut off florets then cut in half lengthwise. Then slice the stems diagonally into 2.5 cm / 1&quot; lengths."
+    },
+    {
+      "order": 2,
+      "instruction": "Snow peas - Remove the tough string running down the &quot;seam&quot; of the pea. Stack several peas and slice on the diagonal about 1cm / 0.4&quot; wide."
+    },
+    {
+      "order": 3,
+      "instruction": "Asparagus - Snap the base off the asparagus, it will naturally break where the woody stem stars. Cut tips off, leave whole and set aside. Slice the stems diagonally into 2.5 cm / 1&quot; lengths."
+    },
+    {
+      "order": 4,
+      "instruction": "Melt butter in a saucepan over medium-high heat. Add cream and Parmigiano reggiano. Stir, and once the cream starts simmering gently, stir until the cheese melts then take it off the stove and set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "Bring a large pot of water to the boil over high heat. Add 1 tablespoon of salt and add the pasta. Cook for the time per the packet minus 1 minute. Meanwhile, cook vegetables."
+    },
+    {
+      "order": 6,
+      "instruction": "Reserve pasta water: Just before draining the pasta, scoop out a mug of pasta cooking water and set aside. Drain the pasta."
+    },
+    {
+      "order": 7,
+      "instruction": "Mushrooms: Heat half the olive oil in a large skillet over high heat. Cook mushrooms for 4 minutes until golden, remove to a plate."
+    },
+    {
+      "order": 8,
+      "instruction": "Veg: Heat remaining oil in the same skillet. Cook broccolini, snow peas and asparagus for 2 minutes. Add zucchini, tomato, green peas, garlic, salt and pepper. Cook for a further 3 minutes. Add mushroom back in, toss, then remove from heat."
+    },
+    {
+      "order": 9,
+      "instruction": "Toss! Return pasta into the now-empty pot. Add vegetables, cream sauce and 1/3 cup pasta water. Toss over medium heat using 2 wooden spoons until the sauce thickens and clings to the pasta strands rather than pooling in the base of the pot, about 1 to 2 minutes. (If at any stage the pasta gets too thick, add a splash more pasta water and toss on stove)."
+    },
+    {
+      "order": 10,
+      "instruction": "Basil &amp; pine nuts - Quickly toss through basil. Divide between 4 bowls. Sprinkle with pine nuts. Devour immediately!"
+    }
+  ]
+}

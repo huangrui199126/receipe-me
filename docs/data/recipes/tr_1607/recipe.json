@@ -1,0 +1,87 @@
+{
+  "id": "tr_1607",
+  "title": "Sweet Cuban Coconut Balls with Melted Chocolate (Coquito Acaramelado).",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/03/Sweet-Cuban-Coconut-Balls-with-Melted-Chocolate-Coquito-Acaramelado-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/sweet-cuban-coconut-balls-with-melted-chocolate-coquito-acaramelado/",
+  "servings": 30,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "chocolate",
+    "coconut",
+    "coconut balls"
+  ],
+  "nutrition": {
+    "calories": 138,
+    "protein": 0.0,
+    "carbs": 11.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "can sweetened condensed milk or homemade coconut milk (14, see recipe below)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "shredded or grated coconut * (I like to used unsweetened)",
+      "emoji": "🥥",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "chocolate (melted)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a medium size pot, combine the sweetened condensed milk and coconut. Set the pot over medium heat and cook 8-10 minutes or until the mixture has thickened, being careful not to let the mixture burn. Remove from the heat and stir in the the vanilla."
+    },
+    {
+      "order": 2,
+      "instruction": "Line a baking sheet with parchment paper."
+    },
+    {
+      "order": 3,
+      "instruction": "Once the coconut mixture is cool enough to handle, roll it into tablespoon size balls and place on the prepared baking sheet. If desired, insert a toothpick into the center of each ball. Place in the freezer for 20-30 minutes to cool."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the honey to a small sauce pan and bring to a boil. Boil for 2-3 minutes then remove from the heat. DO NOT cook the honey longer than 5 minutes or it will harden on the coconut balls. Carefully dip each ball into the honey, allowing any excess to drip off. Place back onto the parchment lined baking sheet and repeat with the remaining balls. Alternately you can just spoon the honey over each coconut ball."
+    },
+    {
+      "order": 5,
+      "instruction": "Allow the balls cool. Serve with melted chocolate."
+    }
+  ]
+}

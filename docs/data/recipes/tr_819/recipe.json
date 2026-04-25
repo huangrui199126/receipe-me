@@ -1,0 +1,135 @@
+{
+  "id": "tr_819",
+  "title": "Blueberry Lemon Yoghurt Cake",
+  "image": "https://www.recipetineats.com/tachyon/2017/11/Blueberry-Lemon-Yoghurt-Cake-2.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/blueberry-lemon-yoghurt-cake/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 50,
+  "tags": [],
+  "nutrition": {
+    "calories": 354,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "375",
+      "unit": "g",
+      "name": "/ 12 oz   blueberries, fresh (, divided (3 punnets) (Note 1 for frozen))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "plain flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "/ 275g  white sugar (, preferably caster / superfine)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "/ 165ml  vegetable or canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 ½",
+      "unit": "tbsp",
+      "name": "grated lemon rind",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "/ 65 ml  lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 250 g  plain yoghurt ((I use Greek))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2 ¼",
+      "unit": "cups",
+      "name": "/ 335g  plain flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "baking powder ((Note 2 for baking soda / bi carb))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200C / 390F (standard) or 180C / 350F (fan / convection). Grease a 22 cm / 9” springform pan with butter, line base with baking paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Rinse blueberries, shake off excess water (but don’t pat dry). Set aside about 1/3 of the blueberries (for topping cake). Toss remaining blueberries in flour, set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk Wet in a large bowl. Add flour and salt, sprinkle over baking powder."
+    },
+    {
+      "order": 4,
+      "instruction": "Whisk until just combined - few small lumps is fine. Stir through blueberries (including loose flour in bowl). Pour into pan, top with remaining blueberries."
+    },
+    {
+      "order": 5,
+      "instruction": "Place in oven, TURN DOWN to 180C/350F (standard) or 160C/320F (fan/convection). Bake 50 minutes or until skewer comes out clean. Remove sides of springform pan and cool on a rack, then once cool remove the base."
+    },
+    {
+      "order": 6,
+      "instruction": "Sprinkle with icing sugar (powdered sugar). Serve!"
+    }
+  ]
+}

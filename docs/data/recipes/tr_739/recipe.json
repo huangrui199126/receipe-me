@@ -1,0 +1,181 @@
+{
+  "id": "tr_739",
+  "title": "Broccoli and Potato Soup",
+  "image": "https://www.recipetineats.com/tachyon/2017/01/Potato-Broccoli-Soup_7-SQ.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/broccoli-and-potato-soup/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "broccoli potato soup",
+    "broccoli soup",
+    "potato soup",
+    "soup recipe",
+    "winter soup"
+  ],
+  "nutrition": {
+    "calories": 405,
+    "protein": 18.3,
+    "carbs": 48.0,
+    "fat": 16.6
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "40",
+      "unit": "g",
+      "name": "/ 3 tbsp   unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "milk (, any fat %)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken broth/stock (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 1.6 lb   potato (, peeled and cut into 1.25 / 1/2&quot; cubes (Note 1))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "broccoli, small florets ((1 large head, ~300g/10oz, Note 1))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1+ cups  grated cheese (, cheddar or tasty (or other of choice))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cook bacon pieces ((highly recommended))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Shallots/scallions (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Grated cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt butter in a large pot over medium high heat. Add onion and garlic, cook for 3 minutes or until onion is softened."
+    },
+    {
+      "order": 2,
+      "instruction": "Add flour and mix into onion mixture. Cook for 30 seconds."
+    },
+    {
+      "order": 3,
+      "instruction": "While stirring, slowly pour the milk in and keep mixing as it turns into a thickish paste that&#039;s mostly smooth. Use a whisk to make it smooth if needed."
+    },
+    {
+      "order": 4,
+      "instruction": "Add chicken stock, water, salt and pepper. Stir, then add potato."
+    },
+    {
+      "order": 5,
+      "instruction": "Bring to simmer then adjust heat so it&#039;s simmering gently. Cook for 8 minutes (no lid) or until potato is almost cooked. Stir ocassionally so the base doesn&#039;t catch."
+    },
+    {
+      "order": 6,
+      "instruction": "Add broccoli and stir. Cook for 2 minutes (or until broccoli is cooked to your liking), then take the pot off the stove."
+    },
+    {
+      "order": 7,
+      "instruction": "Stir through cheese (I use 1 cup) - broth soup be nicely thickened. Add more salt if needed."
+    },
+    {
+      "order": 8,
+      "instruction": "Ladle into bowls and top with garnishes of choice."
+    }
+  ]
+}

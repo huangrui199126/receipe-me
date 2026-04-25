@@ -1,0 +1,134 @@
+{
+  "id": "tr_210",
+  "title": "Brown Sugar Broiled Salmon",
+  "image": "https://www.recipetineats.com/tachyon/2016/04/One-Tray-Brown-Sugar-Salmon_5.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/brown-sugar-broiled-salmon/",
+  "servings": 4,
+  "prepTime": 4,
+  "cookTime": 8,
+  "tags": [
+    "broiled salmom",
+    "brown sugar salmon"
+  ],
+  "nutrition": {
+    "calories": 333,
+    "protein": 37.7,
+    "carbs": 11.4,
+    "fat": 16.2
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 x 5-8 oz/ 150-180g salmon fillets (, skin on or off (I use on))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "bunches",
+      "name": "asparagus ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "broccolini ((Note 1))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cherry tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "mayonnaise ((I use whole egg mayonnaise))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat broiler/griller on high. Place the oven shelf 6\"/15cm from the heat source."
+    },
+    {
+      "order": 2,
+      "instruction": "Spray a baking tray with oil (I use olive oil, any is fine)."
+    },
+    {
+      "order": 3,
+      "instruction": "Pile asparagus, broccolini and cherry tomatoes on the baking tray. Drizzle with olive oil and sprinkle with salt and pepper. Toss with hands then spread out on the tray, mostly on one layer."
+    },
+    {
+      "order": 4,
+      "instruction": "Wedge salmon pieces on the tray between the vegetables. Sprinkle with salt and pepper."
+    },
+    {
+      "order": 5,
+      "instruction": "Mix Glaze ingredients together. Slather on the salmon - tops and sides."
+    },
+    {
+      "order": 6,
+      "instruction": "Grill/broil for 8 minutes - don't flip. The salmon should be caramelised and the inside should be blushing pink."
+    },
+    {
+      "order": 7,
+      "instruction": "Rest for 2 minutes then serve with crusty bread rolls."
+    }
+  ]
+}

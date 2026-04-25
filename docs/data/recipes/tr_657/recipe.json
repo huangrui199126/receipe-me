@@ -1,0 +1,203 @@
+{
+  "id": "tr_657",
+  "title": "Spanish Paella",
+  "image": "https://www.recipetineats.com/tachyon/2016/08/Paella-8-SQ.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spanish-paella/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [
+    "paella recipe",
+    "seafood paella",
+    "spanish paella"
+  ],
+  "nutrition": {
+    "calories": 692,
+    "protein": 56.3,
+    "carbs": 55.7,
+    "fat": 25.6
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "7",
+      "unit": "oz",
+      "name": "/ 200g   chorizo (2 pieces) (, sliced 1/2 cm / 1/5&quot; thick (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 6 oz   squid (calamari) (, cut into 7mm / 1/4&quot; thick rings (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, diced (brown, white, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red capsicum / bell pepper (, diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "paella rice ((&quot;Bomba&quot;, &quot;Valencia&quot; or &quot;Calasparra&quot; rice) (Note 3))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  juicy ripe tomatoes, peeled and diced (OR 3/4 cup canned crushed tomato (Note 4))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10 oz  chicken thigh fillets (, cut into 1.5&quot; / 3.5cm pieces)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "cups",
+      "name": "chicken broth/stock (not low sodium) ( or homemade seafood broth (Note 5))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "saffron threads ((or 1/4 tsp ground saffron, Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "frozen peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12- 16  medium / large prawns (, whole (shell on) (Note 7))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  large mussels (, cleaned &amp; check freshness (Note 8))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley (, chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  Lemons (, cut into wedges)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Chorizo - Heat 1 tbsp oil in a 30cm / 10&quot; paella pan or large skillet over high heat (Note 9). Add chorizo and cook until browned on each side (~ 3 minutes). Remove with a slotted spoon and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Squid - Add squid and cook for 45 seconds on each side, then remove and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Garlic, onion, capsicum - Add remaining oil (if needed). Add garlic and onion, cook for 2 minutes. Add capsicum, cook for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Chicken - Add chicken. Cook for 2 minutes until lightly browned but still raw inside."
+    },
+    {
+      "order": 5,
+      "instruction": "Add Rice - Add rice and mix until the grains are coated in oil."
+    },
+    {
+      "order": 6,
+      "instruction": "Cooking broth - Add in most of the chorizo (reserve 1/4 for garnish), chicken stock, fresh or crushed tomato and saffron. Stir."
+    },
+    {
+      "order": 7,
+      "instruction": "Simmer 1 - Bring it to a simmer then adjust heat so it&#039;s simmering fairly gently (not super rapidly, will burn rice). Simmer for 10 minutes - no stirring! At this stage, a bit of rice should be poking through to the surface but there should still be plenty of liquid."
+    },
+    {
+      "order": 8,
+      "instruction": "Add peas, prawns and mussels - Scatter over peas, squidge the prawns and mussels into the rice (partial submerge is fine)."
+    },
+    {
+      "order": 9,
+      "instruction": "Simmer 2 - Cook for 8 minutes (turn prawns halfway if you think it&#039;s necessary) or until prawns are opaque, mussels are open, and most of the liquid has been absorbed but still a bit liquidy. Discard any mussels that do not open. Remove from stove."
+    },
+    {
+      "order": 10,
+      "instruction": "Check rice - Do a taste test to see if the rice is cooked - it should be firm but cooked. If it is too firm for your taste, no stress, just add a splash of hot water (not too much!) and keep cooking."
+    },
+    {
+      "order": 11,
+      "instruction": "Rest - Scatter over squid and reserved chorizo (residual heat will warm through), cover with lid then rest for 5 minutes (rice will absorb remainig liquid). Paella rice should now be tender but &quot;juicy&quot;, not stodgy and thick (if it is, add splash of water to loosen it)."
+    },
+    {
+      "order": 12,
+      "instruction": "Garnish - scatter with parsley and wedges of lemon. Take to table as is, then mix up rice with seafood before serving!"
+    }
+  ]
+}

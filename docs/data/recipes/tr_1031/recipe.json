@@ -1,0 +1,146 @@
+{
+  "id": "tr_1031",
+  "title": "Japanese Slaw - Chargrill Charlie's Copycat",
+  "image": "https://www.recipetineats.com/tachyon/2021/08/Japanese-Slaw-Chargrill-Charlies_93.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/japanese-slaw-chargrill-charlies-copycat/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "japanese salad",
+    "japanese slaw"
+  ],
+  "nutrition": {
+    "calories": 288,
+    "protein": 11.0,
+    "carbs": 33.0,
+    "fat": 15.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "(tightly packed) green cabbage (, finely shredded (~1/2 medium head, Note 1))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(tightly packed) red cabbage (, finely shredded (~1/4 small head, Note 1))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (medium) (, peeled and finely shredded (using a julienne shredder, or box grater, Note 2))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green onion stems (, finely sliced on the diagonal)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "edamame (, cooked per packet directions (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "Japanese seaweed salad (, pre dressed (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "rice vinegar ((sub cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "Kewpie mayonnaise ((Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "toasted sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar ((any type) or 1 1/2 tsp honey)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 1 1/2 tsp wasabi paste (, adjust to taste (entirely optional) (Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Dressing: Shake Dressing ingredients in a jar until the mayonnaise is fully emulsified. Taste and add more sugar if you want."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss with salad: Place cabbage, carrot, green onion, half the edamame and half the seaweed salad in a bowl. Add about 3/4 of the dressing, toss. (Seaweed will mostly stay in clumps)."
+    },
+    {
+      "order": 3,
+      "instruction": "Wilt: Set aside for 15 minutes to let the cabbage wilt a bit."
+    },
+    {
+      "order": 4,
+      "instruction": "Serve: Toss again, then pile onto serving platter or bowl. Drape over remaining seaweed salad (in clumps) and edamame, drizzle with remaining Dressing. Serve!"
+    }
+  ]
+}

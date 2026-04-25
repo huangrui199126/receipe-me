@@ -1,0 +1,179 @@
+{
+  "id": "tr_353",
+  "title": "Nasi Goreng (Indonesian Fried Rice)",
+  "image": "https://www.recipetineats.com/tachyon/2016/03/Nasi-Goreng_1-1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/nasi-goreng-indonesian-fried-rice/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "bali rice",
+    "indonsian fried rice",
+    "nasi goreng"
+  ],
+  "nutrition": {
+    "calories": 453,
+    "protein": 23.7,
+    "carbs": 58.6,
+    "fat": 13.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "5",
+      "unit": "oz",
+      "name": "/ 150g   chicken breast (, thinly sliced (or other protein))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "kecap manis ((sweet soy sauce, Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "red chilli (, finely chopped (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, small, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "cooked white rice (, day old, cold (Note 3))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "kecap manis ((sweet soy sauce, Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "shrimp paste (, optional (Note 4))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs (, fried to taste)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green onion (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Tomatos and cucumbers, (cut into wedges/chunks)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fried shallots (, store bought (optional) (Note 3))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large skillet or wok over high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Add chilli and garlic, stir for 10 seconds."
+    },
+    {
+      "order": 3,
+      "instruction": "Add onion, cook for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Add chicken, cook until it mostly turns white, then add 1 tbsp kecap manis and cook for a further 1 minute or until chicken is mostly cooked through and a bit caramelised."
+    },
+    {
+      "order": 5,
+      "instruction": "Add rice, 2 tbsp kecap manis and shrimp paste, if using. Cook, stirring constantly, for 2 minutes until sauce reduces down and rice grains start to caramelise (key for flavour!)."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve, garnished with garnishes of choice (green onions, red chilli, fried shallots)."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve as a side for Asian main dishes or as part of a &nbsp;large spread, Asian or not! :) See in post for suggestions."
+    },
+    {
+      "order": 8,
+      "instruction": "Make it a meal - traditional Indonesian style!: Serve with a fried egg sunny side up (runny yolk!), tomato wedges and slices of cucumber on the side."
+    }
+  ]
+}

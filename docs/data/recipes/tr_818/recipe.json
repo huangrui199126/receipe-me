@@ -1,0 +1,124 @@
+{
+  "id": "tr_818",
+  "title": "Cheese & Bacon Breakfast Strata Cake (Breakfast Casserole!)",
+  "image": "https://www.recipetineats.com/tachyon/2015/04/Cheese-Bacon-Bread-Bake_SQ.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cheese-and-bacon-breakfast-strata-cake-bread-bake/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [
+    "bread bake",
+    "breakfast casserole",
+    "savoury french toast bake",
+    "strata recipe"
+  ],
+  "nutrition": {
+    "calories": 376,
+    "protein": 24.0,
+    "carbs": 18.0,
+    "fat": 22.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10 oz   bacon (, diced (or ham))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  large eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "milk ((full cream or low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "7",
+      "unit": "cups",
+      "name": "(packed) any plain bread (I use baguettes) (, cut into 2 cm / 1 inch cubes (preferably slightly stale, Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cheese (, shredded (Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "parsley (, finely chopped (garnish - optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook bacon: Heat a large non-stick frying pan over high heat. (Use a bit of oil if not using non-stick). Add all but 2 tbsp of bacon (reserve some for topping just before baking), cook until lightly browned. Remove from the pan and drain on a paper towel."
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk eggs and milk: Whisk the eggs, milk, salt and pepper in a large bowl (or container, if leaving overnight)."
+    },
+    {
+      "order": 3,
+      "instruction": "Soak bread: Add the bread, 1 1/2 cups of the cheese and the cooked bacon to the egg mixture. Mix well. Cover and set aside in the fridge for at least 30 minutes (until all the egg is soaked into the bread) or overnight."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven to 180°C/350°F (all oven types)."
+    },
+    {
+      "order": 5,
+      "instruction": "Grease cake tin: Generously grease a 20cm/8&quot; springform cake tin with butter (cake pan without loose sides also ok, also see Note 3 re: leakage risk)."
+    },
+    {
+      "order": 6,
+      "instruction": "Fill: Pour the bread mixture into the cake tin, pat down to compress. Scatter with reserved uncooked bacon and remaining 1/2 cup of cheese. Cover loosely with foil."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake for 25 minutes, then remove the lid and bake for a further 15 - 20 minutes until golden on top and a skewer inserted into the centre comes out clean (no raw egg)."
+    },
+    {
+      "order": 8,
+      "instruction": "Rest &amp; slice: Allow to rest for 5 minutes before removing the springform or turning out. Garnish with parsley if using. Cut into slices to serve. Be civil and eat it on a plate with a fork, or just use your hands!"
+    }
+  ]
+}

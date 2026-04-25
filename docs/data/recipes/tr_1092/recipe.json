@@ -1,0 +1,81 @@
+{
+  "id": "tr_1092",
+  "title": "Garlic Sautéed Spinach",
+  "image": "https://www.recipetineats.com/tachyon/2018/12/Spinach_Garlic-Sauteed_0.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/garlic-sauteed-spinach/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 4,
+  "tags": [
+    "sauteed spinach"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 4.0,
+    "carbs": 6.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "bunches",
+      "name": "spinach ((Note 1))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Trim the stem from the leaves, then wash the leaves very well (spinach often holds a lot of dirt)."
+    },
+    {
+      "order": 2,
+      "instruction": "Shake off excess water but do not dry (water droplets helps steam-cook the spinach)."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a large skillet over medium high heat. Add garlic and cook for 20 seconds until it becomes light golden and smells amazing."
+    },
+    {
+      "order": 4,
+      "instruction": "Add spinach, then use tongs or 2 wooden spoons to toss until the spinach wilts - about 2 minutes. I like mine just wilted."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove from heat immediately and sprinkle with salt and pepper and toss once more."
+    },
+    {
+      "order": 6,
+      "instruction": "Transfer to serving platter and serve."
+    }
+  ]
+}

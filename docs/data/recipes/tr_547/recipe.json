@@ -1,0 +1,191 @@
+{
+  "id": "tr_547",
+  "title": "Qeema Indian Curried Beef",
+  "image": "https://www.recipetineats.com/tachyon/2016/04/Queema-Indian-Curried-Beef-Mince_3.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/qeema-indian-curried-beef/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "beef mince curry",
+    "curried beef",
+    "queema"
+  ],
+  "nutrition": {
+    "calories": 255,
+    "protein": 28.0,
+    "carbs": 4.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "vegetable or canola oil (, or other neutral oil)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "ginger (, finely mince)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  large garlic cloves (, minced (about 4 tsp))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion (, finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  beef mince (ground beef)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cayenne pepper  (or chilli powder (pure, not US chili powder spice mix), omit for not spicy)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "garam masala ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "coriander powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "turmeric powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green cayenne pepper (, deseeded, finely sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cilantro/coriander leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Plain yogurt or Mint yogurt (below)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "plain yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(lightly packed) mint leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté - Heat oil in a skillet over high heat. Add ginger and garlic and saute for 30 seconds until golden, don&#39;t let it burn! Add onion and cook for 1 minute until it is starting to turn translucent."
+    },
+    {
+      "order": 2,
+      "instruction": "Add beef and cook, breaking it up as you go, until it changes from pink to light brown. Add remaining ingredients EXCEPT water. Cook for a further 2 minutes to let the spices bloom."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook 10 minutes - Add water, give it a stir, then put a lid on (or cover with a baking tray). Turn heat down to medium and let it simmer for 10 minutes or until most of the water has evaporated."
+    },
+    {
+      "order": 4,
+      "instruction": "Serve over with basmati rice or plain white rice, garnished with extra chilli and coriander/cilantro, and lots of Mint Yogurt. Naan or flatbreads would make it even better, though if time is not your friend, try frozen roti (pictured in post, Note 3)."
+    },
+    {
+      "order": 5,
+      "instruction": "Blitz then stir - Put just 1/4 cup of the yogurt with the mint leaves and salt in a jug just big enough to fit the head of a stick blender. Blitz until mint is very finely chopped. Then stir in remaining yogurt. (Note 4) Refrigerate until required."
+    }
+  ]
+}

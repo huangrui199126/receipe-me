@@ -1,0 +1,163 @@
+{
+  "id": "tr_234",
+  "title": "Thai Chicken Salad Wonton Cups",
+  "image": "https://www.recipetineats.com/tachyon/2015/03/Thai-Chicken-Salad-Wonton-Cup-1.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/thai-chicken-salad-wonton-cups/",
+  "servings": 12,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 74,
+    "protein": 6.2,
+    "carbs": 6.4,
+    "fat": 2.4
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  wonton wrappers",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic (, smashed (Note 1))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tsp",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "canola oil ((or grape seed, vegetable or other neutral flavoured oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar ((or honey))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2  birds eye chilli (, deseeded and finely chopped (or 1 - 2 tsp of chili paste or hot sauce))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded cooked chicken ((I used poached chicken breast))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "finely shredded cabbage",
+      "emoji": "🥬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "carrot (, finely julienned)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "finely chopped shallots/scallions ((or sub with red onion or eschallots))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 160C/320F."
+    },
+    {
+      "order": 2,
+      "instruction": "Place wonton wrappers into a regular muffin tin, moulding it into the cups. Bake for 12 to 15 minutes, until crisp and light golden brown. Remove from the oven and let the cups cool in the muffin tin. Store in an airtight container until required (stays crisp for up to 3 days)."
+    },
+    {
+      "order": 3,
+      "instruction": "Combine Dressing ingredients in a jar and shake to combine. Set aside for at least 10 minutes to allow the flavours to infuse."
+    },
+    {
+      "order": 4,
+      "instruction": "Combine Chicken Salad ingredients in a bowl and toss to combine."
+    },
+    {
+      "order": 5,
+      "instruction": "To serve: Discard the garlic clove from the Dressing, then toss it through the Chicken Salad. Divide the Chicken Salad between the cups. Garnish with sesame seeds and cilantro/coriander, if using. Serve immediately."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "tr_172",
+  "title": "Caramel Self Saucing Baked Apples",
+  "image": "https://www.recipetineats.com/tachyon/2018/06/Baked-Apples_2.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baked-apples/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 40,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  apples (, juicy ones (Modi red apples are ideal, Note 1))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cornflour/cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "walnuts or pecans (, chopped (or sub with oats))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "maple syrup ((or honey or golden syrup))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "ground cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "brown sugar (, packed)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "75",
+      "unit": "g",
+      "name": "/ 5 tbsp   unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix Filling ingredients together then set aside while you prep the apples – it will firm up and become scoopable (pop in fridge if its super hot where you are)."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut the apples in half through the core then use an ice cream scooper, spoon or small knife to scoop out the core (see video)."
+    },
+    {
+      "order": 4,
+      "instruction": "Place apples in a baking dish so they are reasonably snug – you don’t want heaps of space around them. Pile Filling on the apples – I use an ice cream scoop."
+    },
+    {
+      "order": 5,
+      "instruction": "Mix cornflour with a splash of the water, mix to dissolve, then add remaining water. Pour around the apples."
+    },
+    {
+      "order": 6,
+      "instruction": "Cover with foil, bake 20 minutes. Remove foil, then bake a further 20 minutes until the crumb is deep golden and the apples are tender (but not sloppy soft) and there’s a syrupy caramel in the pan (it thickens a bit more when serving)."
+    },
+    {
+      "order": 7,
+      "instruction": "To serve, spoon over caramel sauce, then top with ice cream and serve with more sauce!"
+    }
+  ]
+}

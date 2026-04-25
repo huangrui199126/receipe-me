@@ -1,0 +1,135 @@
+{
+  "id": "tr_928",
+  "title": "Saltimbocca",
+  "image": "https://www.recipetineats.com/tachyon/2022/09/Veal-saltimbocca_5a.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/saltimbocca/",
+  "servings": 2,
+  "prepTime": 7,
+  "cookTime": 5,
+  "tags": [
+    "chicken saltimbocca",
+    "saltimbocca",
+    "veal saltimbocca"
+  ],
+  "nutrition": {
+    "calories": 492,
+    "protein": 21.0,
+    "carbs": 7.0,
+    "fat": 40.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 x 80g / 3 oz  thin veal steaks or boneless cutlets",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  large sage leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  prosciutto slices ((finely sliced, Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "flour ((plain/all-purpose))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp  COLD unsalted butter (, cut into 1cm / 1/3\" cubes (Note 3))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "white wine (, pinot grigio or chardonnay (Note 4))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Small pinch of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pound: Place the veal between sheets of cling wrap or paper. Pound to an even 3mm thickness using a meat mallet (Note 5 for tips!) Cut each piece in half so you have 4 pieces in total, and sprinkle both sides with pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Prosciutto and sage: Fold a slice of prosciutto in half then place on one piece of veal (trim if needed so it&#39;s not hanging off the sides too much). Place a sage leaf on top then secure with a toothpick, piercing from the underside (see step photos or video). Do the same with the other piece of veal."
+    },
+    {
+      "order": 3,
+      "instruction": "Dust: Spread flour on a plate. Press the non-prosciutto side of the veal into the flour, shaking off excess (do not flour the prosciutto side)."
+    },
+    {
+      "order": 4,
+      "instruction": "First side 1 1/2 minutes: Heat oil in a large fry pan over medium-high heat. Place veal slices in the pan, prosciutto-side down, and cook for 90 seconds until prosciutto is beautifully golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Other side 1 min:Turn veal and cook the other side for 1 minute. Remove to a warm plate."
+    },
+    {
+      "order": 6,
+      "instruction": "Tip out excess oil (do not scrape pan clean however). Return skillet to stove, with heat still on."
+    },
+    {
+      "order": 7,
+      "instruction": "Reduce wine: Pour in wine (careful, it will be steamy!) plus pinch of salt. Bring to a simmer then let it cook for 20 to 30 seconds, stirring to scrape up the brown fond from the base of the pan, until wine is reduced by half."
+    },
+    {
+      "order": 8,
+      "instruction": "Swirl butter: Keep the pan on the stove but turn the stove OFF. Scatter the butter in the pan then swirl (or stir) until it melts. The clear liquid will thicken magically into a luscious butter sauce!"
+    },
+    {
+      "order": 9,
+      "instruction": "Divide veal between plates. Spoon over sauce. Devour! (Careful of the toothpick!)"
+    }
+  ]
+}

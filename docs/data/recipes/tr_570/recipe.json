@@ -1,0 +1,175 @@
+{
+  "id": "tr_570",
+  "title": "Chicken Fajitas",
+  "image": "https://www.recipetineats.com/tachyon/2017/04/Chicken-Fajitas_8.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-fajitas/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 196,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65 ml  lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65 ml  orange juice ((Note 1 for subs))",
+      "emoji": "🍊",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 1.2 lb  skinless chicken thighs or 2 large chicken breasts (, halved horizontally (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  capsicums / bell peppers (, deseeded and sliced (red, yellow or green))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion (, halved and sliced thickly (brown, yellow, white or red))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8– 12   small tortillas",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large avocado (, halved and sliced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh lime wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Marinade ingredients in a large bowl and mix. Add chicken, toss well to coat. Marinade for 1 hour to 24 hours (or freeze immediately then defrost overnight)."
+    },
+    {
+      "order": 2,
+      "instruction": "Use 2 skillets to cook the chicken and vegetables at the same time, if you can."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 1 tbsp oil in a heavy based skillet over high heat until smoking. Add vegetables to cover the base of the pan in a single layer without too much overlapping (I cook in 3 batches). Spread out, leave for 45 seconds (to char it)."
+    },
+    {
+      "order": 4,
+      "instruction": "Toss quickly then spread out. Sprinkle with salt and pepper. Leave 45 seconds, toss then spread out, then leave 45 seconds. Remove onto platter and repeat with remaining Vegetables."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat 1 tbsp oil in a large skillet over medium high heat. Add chicken and cook for 3 to 4 minutes until caramelised. Turn and cook the other side for 3 – 4 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove onto a plate, cover loosely with foil. Rest for 3 minutes then slice."
+    },
+    {
+      "order": 7,
+      "instruction": "Warm tortillas using chosen method."
+    },
+    {
+      "order": 8,
+      "instruction": "Pile peppers and onion onto tortilla. Top with chicken, drizzle with sour cream, squeeze over lime juice. Fold, devour and be happy."
+    }
+  ]
+}

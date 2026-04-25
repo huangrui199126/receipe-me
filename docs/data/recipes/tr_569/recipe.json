@@ -1,0 +1,141 @@
+{
+  "id": "tr_569",
+  "title": "Thai Green Papaya Salad (Som Tum)",
+  "image": "https://www.recipetineats.com/tachyon/2021/08/Green-Papaya-Salad_54-SQ.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/green-papaya-salad/",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 0,
+  "tags": [
+    "green papaya salad"
+  ],
+  "nutrition": {
+    "calories": 467,
+    "protein": 32.0,
+    "carbs": 51.0,
+    "fat": 20.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "garlic (, roughly chopped (10 normal or 4 large garlic cloves))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  bird eye chillies, (,  roughly chopped with seeds (use fewer for less spicy, Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "dried shrimp ((Note 2))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "palm sugar (, grated using standard box grater, loosely packed (Note 3))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "roasted peanuts (, unsalted)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "20  snake beans (, cut in 5cm/2\" pieces (raw, Note 4))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "grape tomato (, cut in half  (~400g / 14oz))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 4 cups  green papaya (, shredded, TIGHTLY packed cups (~1 medium, 2/3 large, Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Thai basil leaves ((Note 6))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Crush peanuts: Place peanuts in a mortar and pestle. Pound lightly to break them up into largish pieces, not into powder. Transfer to bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Garlic and chilli paste: Place garlic and chilli in the mortar. Pound into a paste. Add shrimp and pound to crush them – no need to grind them to a paste."
+    },
+    {
+      "order": 3,
+      "instruction": "Dressing: Stir in palm sugar, lime and fish sauce until sugar dissolves. Pour Dressing into a large bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Bruise snake beans: Add snake beans to mortar (in batches if needed). Pound to bruise, split and soften (they are raw, so they need to be bashed to soften). Add to Dressing."
+    },
+    {
+      "order": 5,
+      "instruction": "Crush tomato: Grab handfuls of tomato, crush with your hands then add into the bowl."
+    },
+    {
+      "order": 6,
+      "instruction": "Add papaya: Add papaya and 3/4 of the peanuts. Toss well with 2 wooden spoons or tongs."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve immediately (Note 7): Once everything is coated in Dressing, immediately pile up onto plates. Spoon over some dressing (there will be a bit of dressing still left in the bowl, that&#39;s normal). Garnish with Thai basil leaves, sprinkle with remaining peanuts. Serve immediately (Note 7)."
+    }
+  ]
+}

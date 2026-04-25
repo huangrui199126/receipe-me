@@ -1,0 +1,232 @@
+{
+  "id": "tr_1796",
+  "title": "Orange Teriyaki Beef with Pineapple Edamame Fried Rice.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/02/Orange-Teriyaki-Beef-with-Pineapple-Edamame-Fried-Rice.-1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/orange-teriyaki-beef-pineapple-edamame-fried-rice/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "beef",
+    "fried rice",
+    "orange",
+    "teriyaki"
+  ],
+  "nutrition": {
+    "calories": 1026,
+    "protein": 56.0,
+    "carbs": 91.0,
+    "fat": 41.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "flank steak (sliced into bite size strips)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "sesame or peanut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "orange juice (preferably freshly squeezed)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "rice wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fresh ginger (freshly grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Chinese five spice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "crushed red pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "button mushrooms (sliced)",
+      "emoji": "🍄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "small broccoli florets",
+      "emoji": "🥦",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "clementines or tangerines (for serving)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "sesame seeds (for topping)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "leftover rice (or fresh)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "fresh pineapple (diced)",
+      "emoji": "🍎",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shelled edamame",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cashews",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  green onions (chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To make the rice, heat a large skillet over medium high heat. Add 2 tablespoons sesame oil, the pineapple, shelled edamame and cashews. Cook until caramelized, about 5 minutes. Remove from the skillet and place on a plate. Add the remaining 2 tablespoons oil and the rice, cook 5 minutes or until the rice is toasted. Stir in the pineapple, edamame and cashews. Add the soy sauce and green onions, toss well. Remove from the heat and keep warm."
+    },
+    {
+      "order": 2,
+      "instruction": "To make the beef, in a square baking dish or gallon size ziplock bag, combine the orange juice, soy sauce, brown sugar, rice wine, ginger, garlic and honey. Add the sliced beef and allow it to sit in the marinade for 10-30 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, whisk the corn starch with 1/4 cup cold water."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat a large skillet or wok over medium high heat, add a drizzle of oil. Remove the beef from the marinade (do not throw the marinade away). Add the beef in batches to the hot skillet and sear until just browned and cooked through, about 3-4 minutes. Remove from the skillet and repeat with any remaining beef. Once all the beef has been cooked, add a little oil if needed and then add the mushrooms + broccoli. Cook for about 5 minutes or until just tender. Pour the reserved marinade and the Chinese five spice, in with the veggies and bring to a boil, whisk in the cornstarch mixture until smooth. Reduce the heat to medium and add the beef. Simmer until the sauce has thickened and coats the beef, about 4-5 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve the beef over the fried rice. Top with orange segments, sesame seeds and fresh basil."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "id": "tr_868",
+  "title": "Lentil Ragout - French Puy lentil side dish",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/Lentil-Ragout-French-Puy-Lentils_0-SQ.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lentil-ragout-french-puy-lentils-side-dish/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "lentil ragout",
+    "lentil recipe",
+    "lentil side dish",
+    "puy lentil recipe"
+  ],
+  "nutrition": {
+    "calories": 415,
+    "protein": 26.0,
+    "carbs": 64.0,
+    "fat": 5.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (large) (, peeled and finely diced)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bay leaf (, preferably fresh otherwise dried)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  thyme sprig",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "puy lentils (French lentils) ((Note 1))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "vegetable stock",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt ((skip if using store bought))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat olive oil in a large saucepan over medium heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Sauté garlic, carrot and onion until softened - around 5 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook off tomato paste: Add tomato paste, bay leaf and thyme. Cook 2 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Add lentils, simmer 15 minutes: Add lentils, stock, salt and pepper. Stir, bring to simmer, then lower heat and simmer without a lid for 15 minutes until the lentils are soft (don&#39;t let them overcook so they become mushy!)."
+    },
+    {
+      "order": 5,
+      "instruction": "Season: Stir through parsley. Taste and add more salt or pepper if needed. Serve!"
+    }
+  ]
+}

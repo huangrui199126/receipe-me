@@ -1,0 +1,266 @@
+{
+  "id": "tr_785",
+  "title": "Chocolate Peanut Butter Cake for a Crowd",
+  "image": "https://www.recipetineats.com/tachyon/2024/06/Chocolate-peanut-butter-cake-6.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chocolate-peanut-butter-cake/",
+  "servings": 20,
+  "prepTime": 30,
+  "cookTime": 45,
+  "tags": [
+    "chocolate peanut butter cake",
+    "peanut butter cake"
+  ],
+  "nutrition": {
+    "calories": 395,
+    "protein": 5.0,
+    "carbs": 51.0,
+    "fat": 21.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1 3/4",
+      "unit": "cups",
+      "name": "flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "cocoa powder (, unsweetened (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "baking soda  ((bi-carb soda) (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "white sugar (or caster/superfine sugar)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking / kosher salt ((yes, really!))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk ((low or full fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "vegetable oil (, or other plain flavoured oil like canola, grapeseed, rapeseed, sunflower)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "instant coffee powder (, OPTIONAL (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "boiling water ((makes the chocolate flavour &quot;bloom&quot;))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 2 sticks  unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "(500 g)  soft icing sugar / powdered sugar (, sifted (Note 4))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(120 g)  smooth peanut butter ((spread, not pure) (Note 5))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "chocolate chips or melts ((US: semi sweet chips))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cream ((thickened/heavy or pure, not low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "peanut butter (, warmed in microwave to make it runny)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 4 oz   mini Reece&#39;s Peanut Butter Cups",
+      "emoji": "🧈",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10+  miniature Reece&#39;s Peanut Butter Cups (, halved)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "salted peanuts (, finely chopped)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C°/350°F (160°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Grease a 23 x 33cm / 9 x 13&quot; metal cake pan with butter. Then line with paper with overhang, to make it easier to lift out. (For round pans, see Note 4)."
+    },
+    {
+      "order": 3,
+      "instruction": "Dry ingredients - Sift flour, cocoa, baking powder and baking soda into a large bowl. Add Sugar and salt. Whisk briefly to combine."
+    },
+    {
+      "order": 4,
+      "instruction": "Wet ingredients - Add eggs, milk, oil and vanilla. Whisk well to combine until lump free - about 30 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Boiling water - Add the coffee powder then the boiling water. Whisk to incorporate. The batter is VERY thin (see video). Pour batter into the cake pan."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake for 45 minutes or until a wooden skewer inserted into the centre comes out clean."
+    },
+    {
+      "order": 7,
+      "instruction": "Cool for 10 minutes, then fully cool on a wire rack before frosting (~2 hours)."
+    },
+    {
+      "order": 8,
+      "instruction": "Beat butter for 3 minutes on high until soft and fluffy, using a stand mixer with the paddle attachment or handheld beater."
+    },
+    {
+      "order": 9,
+      "instruction": "Icing sugar - Add icing sugar in 3 lots. Beat it in, starting on low speed then increasing the speed (to avoid a snow storm). Once incorporated, add more icing sugar and repeat."
+    },
+    {
+      "order": 10,
+      "instruction": "Beat 3 minutes – Once the icing sugar has all been added, added the peanut butter, salt and milk. Beat on high speed for 3 minutes to make it really nice and fluffy. Ready to use!"
+    },
+    {
+      "order": 11,
+      "instruction": "Chocolate drizzle - Place the chocolate and cream in a small bowl. Microwave in 15 second increments on high, stirring in between, until smooth. Cool for 10 minutes before using."
+    },
+    {
+      "order": 12,
+      "instruction": "Frost - Spread all the frosting across the surface of the cake, from edge to edge."
+    },
+    {
+      "order": 13,
+      "instruction": "Decorate - Drizzle the top randomly with half the chocolate drizzle and melted peanut butter. Sprinkle with the peanut butter cups. Drizzle with remaining chocolate and peanut butter and sprinkle with the peanuts."
+    },
+    {
+      "order": 14,
+      "instruction": "Serve immediately! Cut into pieces as large (or small 😢) as you want. Refrigerate leftovers for 5 days though always bring to room temperature (because the frosting goes hard when cold)."
+    }
+  ]
+}

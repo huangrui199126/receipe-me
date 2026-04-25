@@ -1,0 +1,333 @@
+{
+  "id": "tr_1908",
+  "title": "Coconut Iced Coffee…with Mini Chocolate Glazed Coffee Doughnuts.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/06/Coconut-Iced-Coffee...with-Mini-Chocolate-Glazed-Coffee-Doughnuts.-221.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/coconut-iced-coffee-mini-chocolate-glazed-coffee-doughnuts/",
+  "servings": 1,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "chocolate",
+    "coconut",
+    "coffee",
+    "doughnuts",
+    "iced"
+  ],
+  "nutrition": {
+    "calories": 6800,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "brewed cold coffee",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "full-fat coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "honey (use brown rice syrup if honey is an issue)",
+      "emoji": "🍯",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "ounces",
+      "name": "semi-sweet chocolate (use vegan chocolate if needed)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "coconut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoon",
+      "name": "plus 1 teaspoon active dry yeast",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "warm milk (I used 2%)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "bread flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "pure vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large egg yolks",
+      "emoji": "🥚",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "unsalted butter (softened at room temperature and cut into cubes, 1/2 stick)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "instant coffee",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "canola oil (for frying)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "powdered sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-5 tablespoons coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "brewed coffee",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "melted semi-sweet chocolate",
+      "emoji": "🍫",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "5",
+      "unit": "ounces",
+      "name": "cold brewed coffee",
+      "emoji": "🥄",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "chocolate sauce (optional)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "coconut sweetened condensed milk (or regular sweetened condensed milk)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons coconut milk (or regular cream/milk)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "toasted coconut (for the rim, optional)",
+      "emoji": "🥥",
+      "section": "",
+      "order": 30
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "[coconut whipped cream | https://www.halfbakedharvest.com/corn-fritters-with-coconut-whipped-cream-and-sweet-honey-bourbon-syrup/]",
+      "emoji": "🥛",
+      "section": "",
+      "order": 31
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "mini chocolate glazed doughnuts (optional)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 32
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pour the cold coffee into ice cube trays and freeze overnight. Store in the freezer until ready to use."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the coconut milk, sugar and vanilla to a small sauce pot. Bring to a low boil and then reduce the heat to a simmer. Simmer on low for 1 hour and 30 minutes to 2 hours. Once the milk has thicken and reduced by half remove from the stove and allow to cool. Pour the milk into a glass jar and store in the fridge until ready to use or up to two weeks."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the cocoa powder, honey, coconut milk, salt, chocolate and coconut oil to a small pot and place over medium heat. Slowly melt the chocolate and milk into each other. Continue stirring until they become a smooth sauce. Remove from the heat and store in the fridge until ready to use. Re-warm on the stove or in the microwave."
+    },
+    {
+      "order": 4,
+      "instruction": "In a medium bowl, combine 1 tablespoon of the yeast with 3/4 cup of the warm milk and stir to dissolve the yeast. Add 3/4 cup of the flour and stir to create a smooth paste. Cover the bowl with plastic wrap and let the flour mixture rest in a warm place for 30 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Once 30 minutes have passed, in the bowl of a stand mixer fitted with the paddle attachment, combine the remaining 1 tablespoon plus 1 teaspoon of yeast with the remaining 1/4 cup milk. Add the rested flour mixture along with the vanilla and egg yolks and mix on low until the ingredients are incorporated and the dough is smooth, about 30 seconds. Turn off the mixer and add 1 cup of flour, along with the sugar and salt. Mix on medium until the dough starts to come together, about 30 seconds. Add the butter and mix on medium until it's incorporated, about 30 seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove the paddle attachment from the mixer, and switch to the dough hook. Start adding the remaining flour, 1/4 cup at a time and the instant coffee. Knead the dough on medium until it completely pulls away from the side of the bowl and is smooth and not too sticky, about 1 minute. The dough will be very soft and moist but not so sticky that you can't roll it out. Cover the bowl with plastic wrap and let the dough rest in a warm place for 1 hour. After one hour, gently press down on the dough to remove any gas bubbles. At this point you can either roll the dough out or chill the dough, covered, for up 24 hours."
+    },
+    {
+      "order": 7,
+      "instruction": "When ready to roll out the dough, line 2 baking sheets with parchment. Lightly flour a work surface and roll out the dough to a 1/2-inch thickness. Using doughnut or cookie cutters, cut out 1 1/2 to 2-inch-diameter rounds. Punch out a small hole in the middle using the end of a pastry tip or other item you have. Arrange the doughnuts on the prepared baking sheet, leaving at least 1 inch between doughnuts. Cover the doughnuts loosely with plastic wrap and let them rise in a warm place until almost doubled in size, about 10 to 15 minutes. Check to see if the doughnuts are ready every 5 to 10 minutes. To test, use a fingertip to lightly touch one of the doughnuts. If the dough springs back immediately, it needs more time."
+    },
+    {
+      "order": 8,
+      "instruction": "In a heavy-bottomed large pot or deep fryer, heat at least 2 inches of oil until a deep-fry thermometer registers 350 degrees F. Working in batches, use a slotted metal spoon or spatula to carefully place the doughnuts in the hot oil. Fry, flipping once, until light golden brown, 1 to 2 minutes per side. When done, transfer to a wire rack. Make sure to return the oil to 350 degrees F. between batches. Let the doughnuts cool slightly before + glazing."
+    },
+    {
+      "order": 9,
+      "instruction": "In a bowl mix together the powdered sugar, coconut milk, coffee and vanilla until smooth. Whisk in the melted chocolate until smooth. Dip the tops of the doughnuts into the glaze. Sprinkle with sprinkles if desired and place on a wire baking rack to dry."
+    },
+    {
+      "order": 10,
+      "instruction": "Mix together the sweetened condensed coconut milk, coconut milk and vanilla until smooth. Dip a large tall glass into 1 tablespoon chocolate sauce and then roll in toasted coconut. Drizzle the remaining chocolate up and down the sides of the glass. Place a few coffee iced cubes in the glass. Fill the glass with coffee. Pour in the milk mixture and use a spoon to mix it all together. Top with coconut whipped cream if desired. Place a straw in the glass and a doughnut on the straw or just eat the doughnut and drink the coffee!"
+    }
+  ]
+}

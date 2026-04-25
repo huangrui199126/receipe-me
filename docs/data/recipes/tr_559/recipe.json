@@ -1,0 +1,211 @@
+{
+  "id": "tr_559",
+  "title": "Moroccan Lamb Meatballs",
+  "image": "https://www.recipetineats.com/tachyon/2017/07/Moroccan-lamb-meatballs_5-SQ.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/moroccan-lamb-meatballs/",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 10,
+  "tags": [
+    "lamb meatballs",
+    "lamb mince recipe",
+    "moroccan lamb meatballs"
+  ],
+  "nutrition": {
+    "calories": 518,
+    "protein": 26.0,
+    "carbs": 43.0,
+    "fat": 27.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil ((for cooking))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  lamb mince (ground lamb) ((Note 1))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, grated using box grater (~1/2 cup, including juices, Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((sub ordinary))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic, crushed",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander/cilantro leaves (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "EACH cumin, coriander, paprika  ((any, but I like smoked paprika))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "EACH cinnamon, cayenne pepper ((add more for spicy))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "plain yoghurt ((I use Greek))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(tightly packed) mint leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  pita pockets (, Lebanese or pita bread)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "shredded lettuce ((iceberg, cost/romaine))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  tomatoes (, halved, thinly sliced)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion (, halved, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "OR Shredded Red Cabbage, Carrot and Mint Salad ((instead of lettuce, tomato and onion))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra  coriander/cilantro leaves, (finely chopped (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 20
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mint yogurt sauce - Set aside 1/2 cup yogurt. Place all other ingredients in a jug that fits the head of a stick blender. Blitz until it turns green - it will be runny. Stir in reserved yogurt (this thickens it again). Refrigerate until required."
+    },
+    {
+      "order": 2,
+      "instruction": "Meatballs - Place all Meatball ingredients in a bowl. Mix well with your hands. Measure out 1 heaped tablespoon, then roll into balls. Repeat with remaining mixture - should have 20 - 24 meatballs."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook - Heat oil in a large non stick pan over medium heat. Add half the meatballs and cook, turning to brown all over, for 8 minutes, or until cooked through. Transfer to plate. (Oven option - Note 4)"
+    },
+    {
+      "order": 4,
+      "instruction": "Serving - Cut pita pockets in half, warm for 10 seconds in the microwave, then pry it open. Stuff with lettuce, tomato, onion, then meatballs (I do 2 per half pocket). Drizzle with Mint Yogurt Sauce and fresh coriander."
+    }
+  ]
+}

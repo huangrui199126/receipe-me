@@ -1,0 +1,158 @@
+{
+  "id": "tr_1323",
+  "title": "Béarnaise Sauce - Fast, easy, foolproof method",
+  "image": "https://www.recipetineats.com/tachyon/2021/02/Spooning-Bearnaise-Sauce-on-Steak_5.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/bearnaise-sauce/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 2,
+  "tags": [
+    "bearnaise sauce",
+    "steak sauce"
+  ],
+  "nutrition": {
+    "calories": 363,
+    "protein": 3.0,
+    "carbs": 3.0,
+    "fat": 38.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "white wine (, dry, not too fruity, sweet or woody (Note 1))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "white wine vinegar ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper (, coarsely crushed)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  eschallot ((small), peeled and finely sliced (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "sprigs",
+      "name": "tarragon ((Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  egg yolks (, at room temperature (Note 4))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt (, kosher/cooking salt)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "225",
+      "unit": "g",
+      "name": "/ 16 tbsp  unsalted butter (, cut into 1cm / 1&quot; cubes - 2 US sticks (Note 5))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "tarragon leaves (, finely chopped (Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "chervil (, finely chopped (Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Infused Vinegar ingredients in a small saucepan over medium low heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Simmer for 2 minutes, then remove from stove and let it stand for 5 minutes to infuse."
+    },
+    {
+      "order": 3,
+      "instruction": "Strain, pressing to extract as much liquid as possible. You should have around 1 tbsp of liquid. Cool 5 minutes before use."
+    },
+    {
+      "order": 4,
+      "instruction": "Place butter in a jug and microwave until melted (1 - 1½ minutes on high, but watch it carefully so it doesn&#039;t explode!)."
+    },
+    {
+      "order": 5,
+      "instruction": "Stand for 30 seconds until the milky whites settle at the bottom (this is the milk solids) and clarified butter (golden part) sits above it."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour off 175g / 3/4 cup of the clarified butter, discard the milky whites remaining. Use in this recipe while hot."
+    },
+    {
+      "order": 7,
+      "instruction": "Alternative: Just melt 175g / 3/4 cup ghee, which is the same thing as clarified butter."
+    },
+    {
+      "order": 8,
+      "instruction": "Place egg yolks, infused vinegar and salt in a tall, narrow container that the blender stick fits in all the way to the base. Blitz briefly to combine."
+    },
+    {
+      "order": 9,
+      "instruction": "With the stick blender going on high, slowly drizzle the butter in over about a minute. Important: The butter must still be hot! If it has cooled, reheat until hot."
+    },
+    {
+      "order": 10,
+      "instruction": "After all the butter is in, blitz for a further 10 seconds, moving the stick up and down."
+    },
+    {
+      "order": 11,
+      "instruction": "Thickness: Add 1 tablespoon water, then blitz to incorporate. Add more water as needed, 1 teaspoon at a time, until the Bearnaise Sauce is a thick sauce but loose enough to ooze across a steak, coating it thickly."
+    },
+    {
+      "order": 12,
+      "instruction": "Fresh herbs: Stir in tarragon and chervil."
+    },
+    {
+      "order": 13,
+      "instruction": "Using: Use immediately, or keep warm until required. I use a thermos – a good one will keep it warm for at least 1 hour. Use warm or at room temperature. See note for storing and reheating."
+    }
+  ]
+}

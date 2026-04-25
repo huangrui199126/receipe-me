@@ -1,0 +1,186 @@
+{
+  "id": "tr_591",
+  "title": "Cheeseburgers (double or single)",
+  "image": "https://www.recipetineats.com/tachyon/2022/08/Stack-of-cheeseburgers.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cheeseburger-recipe/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "cheeseburger",
+    "hamburger recipe"
+  ],
+  "nutrition": {
+    "calories": 755,
+    "protein": 45.0,
+    "carbs": 28.0,
+    "fat": 51.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 1.2 lb  beef mince (ground beef) (, at least 20% fat (Note 1 for quality))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1.2",
+      "unit": "kg",
+      "name": "/ 2.4 lb  beef mince (ground beef) (, at least 20% fat (Note 1 for quality))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "each salt and pepper PER burger",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  soft burger buns or rolls (, around 10cm/4\" wide (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 - 8 slices burger cheese ((American) or other cheese or choice (Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  cos/romaine lettuce leaves (, torn to size (or shredded iceberg))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large tomatoes (, cut into eight 7mm/ 1/4&quot; slices)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion (, finely sliced into rings (Note 4))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large gherkins (, finely sliced (Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Special Burger Sauce ((creamy orangey/pink one, quick no cook))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Tomato chutney for burgers",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Ketchup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "French fries ((and it's epic!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Patties: Separate the beef into 4 equal portions, or 8 if making double cheeseburgers (do it!). Gently roll each portion into balls then press down into round patties that are slightly larger than your bun to allow for shrinkage (12 cm / 4.7&quot; wide, 1 cm / 0.4&quot; thick for a 10cm / 4&quot; burger bun)."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare: Get all your burger bits and pieces out and ready to use. Don&#39;t salt your beef until just before cooking (it toughens the meat)."
+    },
+    {
+      "order": 3,
+      "instruction": "Toast buns: Preheat the grill to high. Place the bread cut face up on a tray and toast for 3 to 5 minutes until light golden. (If using BBQ, place cut face down on the grill). Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Dent patty: Sprinkle one side of patties with half the salt and pepper. Flip, then press a dent into the middle of each patty. (Prevents patties doming when cooking and reduces shrinkage!). Sprinkle this dented side with the remaining salt and pepper."
+    },
+    {
+      "order": 5,
+      "instruction": "Preheat 1 tablespoon oil in a large cast iron skillet over high heat until very hot - smoking hot! (Note 6)"
+    },
+    {
+      "order": 6,
+      "instruction": "Cook: Cook 2 to 4 patties (whatever fits in the pan) for 1 1/2 minutes. Press down lightly with a spatula (not too hard else the meat juices squeeze out!). Flip, then immediately top with a slice of cheese. Cook for another 1 1/2 minutes (cheese will melt by itself!) then transfer burgers to a tray to rest for 3 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Preheat: If your BBQ hot plate/grill is well seasoned (ie oiled), there is no need to oil before cooking. If not, lightly brush with vegetable or canola oil (or use scrunched up paper towel). Then preheat your BBQ on high until very hot and you see wisps of smoke."
+    },
+    {
+      "order": 8,
+      "instruction": "Cook the burgers per above directions for 1 1/2 minutes on each side, topping with cheese as soon as you flip, then resting for 3 minutes. (You can also toast the buns on the grill (face down on the grills, 2 - 3 minutes.)"
+    },
+    {
+      "order": 9,
+      "instruction": "Slather the base of the bun with your sauce of choice. My order of assembly: lettuce, tomato, burger (x 2 for double!), gherkins, onion, sauce on bun lid, jam it on top of the stack."
+    },
+    {
+      "order": 10,
+      "instruction": "DEVOUR with French Fries on the side."
+    }
+  ]
+}

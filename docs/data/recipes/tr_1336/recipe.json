@@ -1,0 +1,115 @@
+{
+  "id": "tr_1336",
+  "title": "Simple, Fluffy Pancakes",
+  "image": "https://www.recipetineats.com/tachyon/2017/06/Pancakes-SQ.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pancake-recipe/",
+  "servings": 13,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 108,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "plain / all purpose flour ((Note 1))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "baking powder (NOT baking soda / bi-carb (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "white sugar ((caster / super fine is best but not essential))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg ((~50g / 2oz in shell))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 3/4",
+      "unit": "cups",
+      "name": "cups milk ((any type, any fat %))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract or essence",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "butter (, for cooking)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Whisk dry - Place flour, baking powder, sugar and salt in a bowl, whisk to combine."
+    },
+    {
+      "order": 2,
+      "instruction": "Add wet ingredients - Add egg, milk and vanilla. Whisk until lump free - no longer than 30 seconds."
+    },
+    {
+      "order": 3,
+      "instruction": "Melt then wipe off most butter - Heat a non-stick pan - use medium heat if you have a strong stove, medium high if you have a weak one. Add a tiny bit of butter (about 1/2 tsp) and swirl to melt. Use paper towel to mostly wipe the butter off (this is the trick to avoid a dodgy 1st pancake)."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour 1/4 cup batter into the middle of the fry pan (I use a slightly heaped ice cream scoop with lever, standard is 1/4 cup)."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook - Swirl pan lightly to spread or use the ice cream scoop edge to spread into 11cm / 4.5&quot; circle (ruler is a must) (joking!). When bubbles rise to the surface (see video), flip and cook the other side until golden."
+    },
+    {
+      "order": 6,
+      "instruction": "Keep warm and repeat - Remove the pancake and keep warm in a low oven. Use more butter every 2 to 3 pancakes - depends how good your non stick coating is."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve with toppings of choice!"
+    }
+  ]
+}

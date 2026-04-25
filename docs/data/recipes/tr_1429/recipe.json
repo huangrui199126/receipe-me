@@ -1,0 +1,108 @@
+{
+  "id": "tr_1429",
+  "title": "Tzatziki",
+  "image": "https://www.recipetineats.com/tachyon/2026/03/Tzatziki_7.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tzatziki/",
+  "servings": 1,
+  "prepTime": 20,
+  "cookTime": 6,
+  "tags": [
+    "greek chicken",
+    "greek chicken gryos",
+    "gyros",
+    "yogurt marinade"
+  ],
+  "nutrition": {
+    "calories": 354,
+    "protein": 13.0,
+    "carbs": 23.0,
+    "fat": 24.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  Lebanese cucumbers (Persian cucumbers)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "Greek yoghurt  (or Greek-style yogurt, preferably full fat)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil ((or more if you want richer))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4 heaped teaspoon cooking salt / kosher salt ((halve for table salt, +50% for flakes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of  black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped dill ((or mint), OPTIONAL - see note)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Deseed, shred and squeeze - Cut the cucumber in half lengthwise. Use a teaspoon to scrape the watery seeds out. Coarsely grate the cucumber using a box grater. Then wrap in a tea towel and squeeze to remove excess liquid."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix - Place cucumber in a bowl. Add remaining ingredients then mix to combine."
+    },
+    {
+      "order": 3,
+      "instruction": "Set aside for at least 20 minutes for the flavours to meld."
+    },
+    {
+      "order": 4,
+      "instruction": "Use immediately or keep in an airtight container in the fridge for 3 days."
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "tr_96",
+  "title": "Packet Ramen Makeover",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Ramen-Makeover-1-1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/packet-ramen-makeover/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 611,
+    "protein": 15.6,
+    "carbs": 88.9,
+    "fat": 23.7
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  packet instant ramen ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "Chinese cabbage ((loosely packed), chopped into 2.5cm/1\" pieces)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  carrot (, sliced on the diagonal)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  mushrooms (, sliced (I used shiitake))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  shallot/scallion (, finely sliced (for garnish))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "peanut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "corn flour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "chinese cooking wine ((Note 3))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "Dash",
+      "name": "of sesame oil ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the sauce ingredients in a small bowl and mix well until there are no cornflour lumps."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring water to boil and cook ramen per packet instructions, using the soup stock packet that comes with the ramen. (See Notes)"
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in wok (or fry pan) over high heat. Add garlic and stir fry for 20 seconds until fragrant - be careful not to burn it."
+    },
+    {
+      "order": 4,
+      "instruction": "Add carrots and mushrooms and stir fry for 30 seconds, then Chinese cabbage and stir fry for another 30 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Add sauce and cook for 30 seconds until it becomes thick and glossy."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from heat, immediately add the bean sprouts and give a quick stir to coat the bean sprouts in the sauce and use the residual heat to slightly cook the bean sprouts."
+    },
+    {
+      "order": 7,
+      "instruction": "Place noodles and soup in bowl, top with vegetables and garnish with shallots. Serve immediately."
+    }
+  ]
+}

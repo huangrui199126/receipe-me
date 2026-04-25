@@ -1,0 +1,158 @@
+{
+  "id": "tr_852",
+  "title": "Siu Mai (Shumai - Chinese Steamed Dumplings)",
+  "image": "https://www.recipetineats.com/tachyon/2020/02/Siu-Mai_Chinese-steamed-dumplings_0.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/siu-mai-shumai-steamed-dumplings/",
+  "servings": 20,
+  "prepTime": 30,
+  "cookTime": 8,
+  "tags": [
+    "shumai",
+    "siu mai"
+  ],
+  "nutrition": {
+    "calories": 69,
+    "protein": 5.0,
+    "carbs": 3.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  dried shiitake mushrooms (, soaked in boiling water, finely chopped (Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "350g/ 13oz   pork mince (ground pork) (, fatty (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2.5",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "light soy sauce ((Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine ((aka Shaoxing wine, sub Mirin or dry sherry) (Note 5))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "150g/5oz  prawns/shrimp (, peeled and deveined, chopped 0.5cm / 1/5\" (Note 3))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white part of green onions (, finely minced (Note 6))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "20 - 25  wonton wrappers / egg wrappers (8cm/3.5&quot; squares or rounds (Note 7))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "50g/1.5oz  flying fish roe ((Note 8 for alternatives))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place pork, salt, soy sauce, rice wine, sugar with the pork meat/mince in a large mixing bowl. Mix vigorously with a spoon or use your hands until it becomes pasty (initially it will be crumbly) - about 30 seconds."
+    },
+    {
+      "order": 2,
+      "instruction": "Add mushrooms, prawns and green onions, mix until just dispersed (don't crush the prawn meat)."
+    },
+    {
+      "order": 3,
+      "instruction": "Form an \"O\" with your forefinger and thumb."
+    },
+    {
+      "order": 4,
+      "instruction": "Place a wonton wrapper over the \"O\". Push in 1 heaped teaspoon of Filling and push down into the \"O\" hole."
+    },
+    {
+      "order": 5,
+      "instruction": "Use a butter knife to smear more Filling into until level with edge of wonton."
+    },
+    {
+      "order": 6,
+      "instruction": "Place on work surface and push down to flatten base and use fingers to shape into a round."
+    },
+    {
+      "order": 7,
+      "instruction": "Line a 30cm/12&quot; bamboo steamer (or stove steamer) with baking paper with holes in it (Note 9)"
+    },
+    {
+      "order": 8,
+      "instruction": "Fill a wok big enough to hold steamer with about 2 cups of water (Note 10). Bring to rapid simmer over medium high heat."
+    },
+    {
+      "order": 9,
+      "instruction": "Place Siu Mai in steamer (20 - 25 fits). Place lid on, place on wok over simmering water."
+    },
+    {
+      "order": 10,
+      "instruction": "Steam 8 minutes, or until internal temperature of dumplings is 75°C/165°F. (If yours are bigger due to larger wonton wrappers are bigger, they will take longer)."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove steamer from wok. Remove lid and place a tiny bit of roe in the middle of each dumpling."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve immediate with dipping sauce!"
+    },
+    {
+      "order": 13,
+      "instruction": "Provide soy sauce, Chinese black vinegar or normal white vinegar, Chinese chilli paste (or Sriracha or other chilli). Let people mix their own to their taste (I do: 3 parts soy, 1 part vinegar, as much chilli as I think I can handle)."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "tr_1086",
+  "title": "Turkey Gravy - for ROASTED Turkey",
+  "image": "https://www.recipetineats.com/tachyon/2018/11/Juicy-Roast-Turkey_Dry-Brined_9.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/turkey-gravy/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "turkey gravy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "drippings in turkey roasting pan  ((Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "chicken broth / stock (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the roasting pan on the stove over medium heat. Single burner is fine, but ideal if it fits across two. Leave garlic, onion etc and other flavourings things in the pan (Note 1)"
+    },
+    {
+      "order": 2,
+      "instruction": "When it starts sizzling/bubbling, add flour. Cook for 1 minute, stirring constantly."
+    },
+    {
+      "order": 3,
+      "instruction": "Gradually pour the liquid in, mixing constantly. Once it's all in, it should be lump free. If not, use a whisk - whisk around the onion etc."
+    },
+    {
+      "order": 4,
+      "instruction": "Simmer until it thickens to taste - gravy will thicken more as it cools. Adjust salt and pepper to taste right at the end."
+    },
+    {
+      "order": 5,
+      "instruction": "Strain into a bowl, pressing the juices out of the onion, garlic etc. then discard them."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour gravy into jug and serve with turkey. Tip: To keep gravy warm, store in a thermos!"
+    }
+  ]
+}

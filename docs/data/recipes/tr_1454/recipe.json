@@ -1,0 +1,170 @@
+{
+  "id": "tr_1454",
+  "title": "Tuna Carpaccio",
+  "image": "https://www.recipetineats.com/tachyon/2026/04/Tuna-Carpaccio_3.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tuna-carpaccio-recipe/",
+  "servings": 2,
+  "prepTime": 20,
+  "cookTime": 0,
+  "tags": [
+    "fish carpaccio",
+    "tuna carpaccio"
+  ],
+  "nutrition": {
+    "calories": 234,
+    "protein": 11.0,
+    "carbs": 0.5,
+    "fat": 21.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 4.2oz g tuna (, skinless, boneless, cut into 2 pieces (sashimi-grade preferably) (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "sea salt flakes (, or 1 large pinch cooking salt / kosher salt, or small pinch table salt)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 pinches Espelette pepper (, or 1 pinch chilli powder or black pepper (Note 2))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "tsp",
+      "name": "finely chopped chive",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Few edible flowers ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¾",
+      "unit": "tsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "caster sugar / superfine sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  white onion layer (, (or brown/yellow onion), finely sliced 2mm / 0.08&quot; (Note 3))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "white wine vinegar (, or apple cider vinegar )",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 - 16  small slices pane di casa bread (, or other bread , 3 - 4mm / 1/8&quot; thick (Note 4))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Few pinches  cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix onion with vinegar, set aside. Combine vinaigrette ingredients, set aside. Flatten the first piece of tuna to 2mm. Flip onto plate. Flatten the second piece, cut into smaller pieces to fill any gaps on the plate. Brush vinaigrette, sprinkle salt, Espelette pepper and chives, then top with pickled onion and edible flowers. Serve immediately with crostini."
+    },
+    {
+      "order": 2,
+      "instruction": "Pickle onion - Combine sliced onion and vinegar in a small bowl. Set aside for 15 minutes to soften. (You will have more than needed, use generously if you like.)"
+    },
+    {
+      "order": 3,
+      "instruction": "Make vinaigrette - Mix lemon juice, olive oil and sugar in a small bowl. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Flatten tuna (first piece) - Place one piece of tuna on its flat side between two sheets of go-between (or baking paper / parchment paper) on a chopping board. Using a rolling pin, GENTLY tap and roll until about 2mm / 0.08&quot; thin (don’t smash!). (Note 5 &amp; 6)"
+    },
+    {
+      "order": 5,
+      "instruction": "Transfer to plate - Place tuna flat side down onto the middle of a plate (I use a 26cm / 10&quot;), then slowly peel off the sheet of plastic (or paper if using)."
+    },
+    {
+      "order": 6,
+      "instruction": "Repeat &amp; fill - Flatten the second piece the same way, return it onto the chopping board. Cut into pieces that you think will fill the empty gaps, then arrange over the plate so you end up with a thin, even layer of tuna."
+    },
+    {
+      "order": 7,
+      "instruction": "Dress - Gently brush the lemon vinaigrette over the tuna."
+    },
+    {
+      "order": 8,
+      "instruction": "Finish - Sprinkle with salt flakes, Espelette pepper and chives. Top with a few slices of pickled onion and edible flowers if using."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve - Serve immediately with crostini on the side. Enjoy!"
+    },
+    {
+      "order": 10,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan-forced). Brush each side of bread with oil and sprinkle a tiny bit of salt, spread in single layer on a tray. Bake 15 minutes, turning halfway, until crisp. Cool on tray before using."
+    }
+  ]
+}

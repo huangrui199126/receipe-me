@@ -1,0 +1,139 @@
+{
+  "id": "tr_1625",
+  "title": "Superfood Chocolate Quinoa Bark.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/01/Superfood-Chocolate-Quinoa-Bark-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/superfood-chocolate-quinoa-bark/",
+  "servings": 24,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "bark",
+    "chocolate",
+    "quinoa"
+  ],
+  "nutrition": {
+    "calories": 216,
+    "protein": 3.0,
+    "carbs": 20.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "honey or maple syrup (either works great (I like the maple flavor I think best))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "coconut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "instant coffee granules (optional (but I LOVE the flavor))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "good pinch of flaky sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "uncooked quinoa (rinsed + dried)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "raw almonds (roughly chopped)",
+      "emoji": "🥜",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "raw cashews (roughly chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "mixed raw seeds (I used hemp seeds (flax seeds, chia seeds + sesame seeds))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "vegan or dark chocolate (chopped (I like to use 92% dark chocolate))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cacao nibs + dried roses (for topping (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 350 degrees F. Line a baking sheet with parchment paper."
+    },
+    {
+      "order": 2,
+      "instruction": "In a large microwave safe bowl, melt together the honey or maple and coconut oil on power level high, stirring every 30 seconds until smooth (this took about 1 minute for me). Whisk in the vanilla, coffee granules and salt."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the quinoa, almonds, cashews and mixed seeds. Stir until all the dry ingredients are evenly coated in the wet ingredients. Spread the mixture out in an even, thin layer on the prepared baking sheet."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake for 20-25 minutes or until the the bark is golden in color and crisp. You'll know the bark is done when the cashews and quinoa look caramelized and are a deep golden brown in color."
+    },
+    {
+      "order": 5,
+      "instruction": "While the bark is baking, melt the chocolate over a double boiler or in the microwave, heating on 30 second intervals and stirring after each interval until the chocolate is melted and smooth. Spread the melted chocolate over the bark in an even layer. Sprinkle with cacao nibs."
+    },
+    {
+      "order": 6,
+      "instruction": "Place the pan in the fridge to set, about 30 minutes (or the freezer for 15). Remove and break into pieces. Store in a sealed container in the fridge."
+    }
+  ]
+}

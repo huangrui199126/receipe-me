@@ -1,0 +1,185 @@
+{
+  "id": "tr_518",
+  "title": "Kung Pao Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2018/09/Kung-Pao-Chicken.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/kung-pao-chicken/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "kung pao chicken"
+  ],
+  "nutrition": {
+    "calories": 555,
+    "protein": 28.0,
+    "carbs": 18.0,
+    "fat": 41.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   chicken thigh (, cut into bite size pieces)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "light soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "dark soy sauce ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Chinese black vinegar ((Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine ((Note 5))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "sugar (, any)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "peanut oil ((or other cooking oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ginger (, finely chopped)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6 - 10  dried chillies ((adjust to taste), cut into 2cm/ 3/4\" pieces, most seeds discarded (Note 7))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  green onions (, cut into 2cm/ 3/4\" pieces, white parts separated from green)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "ground sichuan peppercorns (, adjust to taste (Note 6))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "whole peanuts (or 1/2 cup halved) (, roasted unsalted)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix cornflour and soy sauce in a small bowl until cornflour is dissolved. Then mix in remaining Sauce ingredients EXCEPT water."
+    },
+    {
+      "order": 2,
+      "instruction": "Pour 1.5 tbsp Sauce over chicken. Toss to coat, set aside for 10 - 20 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Add water into remaining Sauce."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil in wok over high heat. Add garlic, ginger and chillies. Cook for 30 seconds or until fragrant."
+    },
+    {
+      "order": 5,
+      "instruction": "Add chicken, cook until it turns white, then add the white part of the green onions. Cook until chicken is cooked through - about 2 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Add Sauce and Sichuan pepper. Bring to simmer, mixing constantly, until almost all the sauce reduces to a thick syrup."
+    },
+    {
+      "order": 7,
+      "instruction": "Just before the end, mix through peanuts and green part of the green onions. Also check spiciness - add more Sichuan pepper if you can handle the heat!"
+    },
+    {
+      "order": 8,
+      "instruction": "Serve immediately with rice - or for a low carb, low cal option, try Cauliflower Rice!"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "tr_1197",
+  "title": "Purple rice",
+  "image": "https://www.recipetineats.com/tachyon/2023/02/Purple-rice_1.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/purple-rice-red-cabbage-rice/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "cabbage and rice",
+    "purple cabbage recipe",
+    "purple rice"
+  ],
+  "nutrition": {
+    "calories": 206,
+    "protein": 4.0,
+    "carbs": 36.0,
+    "fat": 5.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "finely shredded red cabbage ((tightly packed))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt ((kosher salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "jasmin rice (, no need to rinse or soak (Note 1 for other rice))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cup",
+      "name": "vegetable stock (, low sodium (or chicken stock or water + 1 stock cube- Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "green onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt butter in a large saucepan or small pot over medium heat. (Note 3)"
+    },
+    {
+      "order": 2,
+      "instruction": "Sauté veg - Cook onion and garlic for 1 minute until soft. Add cabbage, salt, and pepper. Cook for 2 to 3 minutes, stirring from time to time, until the cabbage starts to soften but not completely floppy (as it will cook more with the rice)."
+    },
+    {
+      "order": 3,
+      "instruction": "Coat rice - Add rice and stir well to coat in the flavour."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the vegetable stock. Scrape down the sides and press the cabbage-rice mixture down so all the rice is submerged."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook 12 minutes - Bring to a simmer, then cover with a lid, turn the stove down to medium low (or low on a stronger burner) and cook for 12 minutes. Do not peek or stir!"
+    },
+    {
+      "order": 6,
+      "instruction": "Rest 10 minutes - Turn off the heat, remove the saucepan from the stove and let to rest for another 10 minutes (with the lid on)."
+    },
+    {
+      "order": 7,
+      "instruction": "Fluff &amp; serve - Use a rubber spatula or rice paddle to fluff the rice then tumble into a serving dish. Sprinkle with green onion and serve!"
+    }
+  ]
+}

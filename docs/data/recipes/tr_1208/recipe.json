@@ -1,0 +1,119 @@
+{
+  "id": "tr_1208",
+  "title": "Bitter Leaf and Orange Salad with Orange Poppyseed Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2020/11/Bitter-Leaf-and-Orange-Salad-with-Orange-Poppyseed-Dressing_0.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/bitter-leaf-and-orange-salad-with-orange-poppyseed-dressing/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "bitter leaf salad",
+    "orange poppyseed dressing",
+    "orange salad"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 6 oz  bitter leaves (~8 cups, packed) (, such as endive, chicory and radicchio (either a mix or one kind, Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large oranges ((any kind))",
+      "emoji": "🍊",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "apple cider or white wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil or a nut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "grated orange zest (, lightly packed)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "poppy seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Put leaves into a large mixing bowl. Tear or cut any large leaves into smaller bite size pieces."
+    },
+    {
+      "order": 2,
+      "instruction": "Peel oranges and remove skin and all outer pith (white part) using a knife."
+    },
+    {
+      "order": 3,
+      "instruction": "Slice into 0.7 cm / 1/3\" thick wheels and deseed. Alternatively, segment oranges. Add to leaves."
+    },
+    {
+      "order": 4,
+      "instruction": "Mix or shake Dressing ingredients in a jar until sugar dissolves."
+    },
+    {
+      "order": 5,
+      "instruction": "Dress salad and toss."
+    }
+  ]
+}

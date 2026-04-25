@@ -1,0 +1,187 @@
+{
+  "id": "tr_219",
+  "title": "Baked Macaroni Cheese with Chicken &amp; BROCCOLI",
+  "image": "https://www.recipetineats.com/tachyon/2016/02/Baked-Macaroni-Cheese-Chicken-Broccoli_1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baked-macaroni-cheese-with-chicken-broccoli-one-pot/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 530,
+    "protein": 43.5,
+    "carbs": 18.0,
+    "fat": 31.3
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   skinless chicken breast or thigh fillets (, cut into bite size pieces)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "plain flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "milk (, low fat)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "macaroni / elbow pasta ((Note 1))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large head of broccoli (, broken into florets (or 1 1/2 smaller ones))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2 - 2 cups grated cheese ((cheddar, tasty or gruyere))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "panko ((or ordinary breadcrumbs))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a deep heavy based skillet or dutch oven over high heat. Add chicken and cook until just cooked - it's fine if it's still raw inside. Remove chicken into a bowl. (Note 2)"
+    },
+    {
+      "order": 3,
+      "instruction": "Reduce heat to medium and melt butter. Add garlic and onion and saute for 5 minutes until onion is translucent. Add flour and cook for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour in half the milk and whisk it in so the flour butter mixture melts. It should thicken quite quickly - around 30 seconds. Pour the remaining milk in, whisking constantly, then add the water, salt and pepper."
+    },
+    {
+      "order": 5,
+      "instruction": "Turn the heat up to medium high and cook, whisking occasionally, for around 3 to 5 minutes until you start seeing steam rising from the white sauce when you whisk it."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the macaroni and chicken, stir, then top with broccoli."
+    },
+    {
+      "order": 7,
+      "instruction": "Place the lid on and bake for 20 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove from the oven, switch oven to broiler/grill on high."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove lid (Note 3), stir through cheese, then sprinkle over panko and parmesan. (Will still look bit watery at this stage)."
+    },
+    {
+      "order": 10,
+      "instruction": "Place pot under the broiler/grill for 5 minutes, or until top is golden."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove, then let it stand for 5 minutes before serving (sauce thickens quickly)."
+    }
+  ]
+}

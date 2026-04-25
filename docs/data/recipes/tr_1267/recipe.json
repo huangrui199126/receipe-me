@@ -1,0 +1,176 @@
+{
+  "id": "tr_1267",
+  "title": "Madeleines",
+  "image": "https://www.recipetineats.com/tachyon/2021/07/Madeleines_04-SQ.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/madeleines/",
+  "servings": 24,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "afternoon tea",
+    "french baking",
+    "french cake",
+    "madeleines"
+  ],
+  "nutrition": {
+    "calories": 82,
+    "protein": 1.0,
+    "carbs": 6.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "+ 1 tbsp  plain flour (all purpose flour)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs (, at room temperature (Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "caster sugar (superfine sugar) ((ordinary / granulated sugar ok too))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or other neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "milk (, full fat (low fat ok too))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "honey ((or maple syrup))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lemon zest",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "135",
+      "unit": "g",
+      "name": "/ 9.5 tbsp  unsalted butter (, melted, warm (not hot))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Canola oil spray ((or other neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Icing sugar / powdered sugar ((optional, for dusting))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sift flour: Sift the flour and baking powder into a bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk eggs and sugar: Whisk the eggs and sugar vigorously for 2 minutes until it becomes paler in colour and it&#039;s foamy (or 1 minute on speed 6 with handheld beater)."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix flour in 3 parts: Add the flour mixture in 3 parts, whisking gently in between until combined."
+    },
+    {
+      "order": 4,
+      "instruction": "Add everything else except butter: Add salt, oil, milk, honey, vanilla and lemon. Mix until combined."
+    },
+    {
+      "order": 5,
+      "instruction": "Add butter: Add butter, mix gently with a rubber spatula until combined. The batter is fairly thin but should leave a faint ribbon briefly on the surface (see video)."
+    },
+    {
+      "order": 6,
+      "instruction": "Cover and refrigerate: Cover with plastic wrap touching the surface and leave it in the fridge overnight (minimum 6 hours)."
+    },
+    {
+      "order": 7,
+      "instruction": "Preheat oven to 200°C / 390°F (180°C fan) for at least 30 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Piping bags - Pour the madeleine batter into 2 piping bags (or 1 large) either fitted with a round tip nozzle around 0.7 - 1.2cm (0.3 - 0.5&quot;) wide, or snip the end off. (You can refrigerate until required at this stage, or freeze 2 months)."
+    },
+    {
+      "order": 9,
+      "instruction": "Spray and fill pan: Spray the madeleine pan with oil. Fill each hole almost to the top (2just 1m from the rim)."
+    },
+    {
+      "order": 10,
+      "instruction": "Bake: Bake for 10 minutes until light golden."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve warm! Unmold straight away. Pile onto serving platter. Dust with icing sugar and serve immediately, while hot!"
+    }
+  ]
+}

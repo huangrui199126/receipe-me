@@ -1,0 +1,182 @@
+{
+  "id": "tr_1074",
+  "title": "Mexican Avocado Chicken Salad",
+  "image": "https://www.recipetineats.com/tachyon/2017/05/Mexican-Chicken-Salad-3.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mexican-chicken-avocado-salad/",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 8,
+  "tags": [
+    "avocado chicken salad",
+    "mexican salad"
+  ],
+  "nutrition": {
+    "calories": 487,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "olive oil (65ml)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "½",
+      "unit": "tsp",
+      "name": "salt + black pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  small chicken breasts, 400g/14oz (pound or split if thicker than 2cm / 4/5”)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "EACH chipotle powder (Note 1) and oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt &amp; pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  avocado, chunky dice (watch video to see how I do this)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cherry tomatoes, halved",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "¾",
+      "unit": "cup",
+      "name": "corn kernels (canned, drained)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  red onion, finely chopped",
+      "emoji": "🧅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander / cilantro, finely chopped",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  heaped cups cos / romaine lettuce, cut into bite size pieces",
+      "emoji": "🥬",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Lime Dressing ingredients in a jar, shake well."
+    },
+    {
+      "order": 2,
+      "instruction": "Put 2 tablespoons of Dressing in a ziplock bag. Add chipotle, oregano, cumin, salt and pepper, mix/squidge bag. Add chicken, seal and massage to coat. Marinate 30 min – overnight."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 1 tbsp olive oil in skillet over medium low, cook chicken to taste (2cm / 4/5” takes around 8 minutes), getting a nice brown crust on it. Rest 5 min then slice."
+    },
+    {
+      "order": 4,
+      "instruction": "Add 2 tablespoons of coriander into Dressing, shake."
+    },
+    {
+      "order": 5,
+      "instruction": "Place avocado, corn, tomato and onion in a bowl. Add remaining coriander, drizzle with a bit of Dressing, toss gently."
+    },
+    {
+      "order": 6,
+      "instruction": "Place lettuce in a bowl, drizzle with a bit of Dressing, toss."
+    },
+    {
+      "order": 7,
+      "instruction": "Assemble Salad: Place lettuce on a serving platter. Top with Salsa and sliced chicken. Drizzle with remaining Dressing. Serve."
+    }
+  ]
+}

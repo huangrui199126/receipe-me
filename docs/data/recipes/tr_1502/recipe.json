@@ -1,0 +1,141 @@
+{
+  "id": "tr_1502",
+  "title": "Crockpot Sun-Dried Tomato Penne Alla Vodka.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/12/Crockpot-Sun-Dried-Tomato-Penne-Alla-Vodka-6.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/crockpot-sun-dried-tomato-penne-alla-vodka/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 360,
+  "tags": [
+    "crockpot pasta"
+  ],
+  "nutrition": {
+    "calories": 582,
+    "protein": 20.0,
+    "carbs": 77.0,
+    "fat": 31.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  sweet onion (diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "crushed red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "vodka",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 (28 ounce) cans whole tomatoes (I like San Marzano)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "oil packed sun-dried tomatoes (drained (see note))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "kosher salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "heavy cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "grated parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "penne pasta",
+      "emoji": "🍝",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "chopped fresh oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the olive oil, onion, garlic, crushed red pepper, and dried oregano in a large skillet over medium low heat. Cook, stirring often until the onion is soft and the garlic fragrant, about 10 minutes. Add the vodka, raise the heat, and bring the mixture to a boil, boil 5 minutes. Remove from the heat and add to the bowl of your crockpot along with the tomatoes, sun-dried tomatoes and large pinch of salt + pepper. Cover and cook on low for 6-8 hours or on high for 4-5 hours. Transfer the sauce to a blender and puree until smooth. Return to the crockpot and stir in the the cream and the parmesan. Cook uncovered on high for 10 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, bring a large pot of salted water to a boil and boil the pasta until al dente according to package directions. Drain."
+    },
+    {
+      "order": 3,
+      "instruction": "Divide the pasta among plates and top with the sauce, fresh oregano and grated parmesan. Eat!"
+    }
+  ]
+}

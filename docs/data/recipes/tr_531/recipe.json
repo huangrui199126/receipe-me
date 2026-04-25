@@ -1,0 +1,159 @@
+{
+  "id": "tr_531",
+  "title": "Asian Chilli Garlic Prawns (Shrimp)",
+  "image": "https://www.recipetineats.com/tachyon/2016/07/Asian-Chilli-Garlic-Prawns-1_3.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/asian-chilli-garlic-prawns-shrimp/",
+  "servings": 3,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "asian chilli garlic shrimp",
+    "chilli garlic prawns",
+    "prawn recipe"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 52.0,
+    "carbs": 20.0,
+    "fat": 12.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  prawns / shrimp, raw, (, peeled and deveined (Note 1))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil (, toasted (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, very finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger (, grated or finely chopped (can be omitted))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "chilli flakes* ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125 ml)  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Sriracha ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "soy sauce (, light or all purpose (Note 5))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "brown sugar ((sub with white))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Green onions (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Red chillies (, finely sliced or chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large skillet over high heat. Add half the prawns and sear for about 45 seconds on each side until golden, then remove into bowl. Repeat."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove skillet from stove to cool down slightly, turn down to medium."
+    },
+    {
+      "order": 3,
+      "instruction": "Return skillet to stove, heat sesame oil.&nbsp;"
+    },
+    {
+      "order": 4,
+      "instruction": "Add garlic, ginger and chilli flakes. Cook until garlic turns golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Add water, then Sriracha, soy sauce and sugar, Stir, increase heat to medium high, and let it simmer for 3 minutes or until the sauce starts to thicken to a thin syrup consistency."
+    },
+    {
+      "order": 6,
+      "instruction": "Return prawns into skillet and toss to coat in sauce and reheat, and cook for 1 - 2 minutes until sauce is reduced and coats the prawns nicely."
+    },
+    {
+      "order": 7,
+      "instruction": "Garnish with sesame seeds, fresh chilli and shallots if desired. Serve with rice to soak up the awesome sauce! (Low carb, low cal option, try Cauliflower Rice) Side salad suggestions in post."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "tr_204",
+  "title": "Italian Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/Italian-Dressing-2.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/italian-dressing-recipe/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "red or white wine vinegar ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "freshly grated parmesan ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar ((any))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "garlic powder (or 1 small garlic clove minced, if using within 3 days)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "each dried basil (, oregano and parsley (or a mix of choice))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "red pepper flakes ((Note 3))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Freshly ground pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "red or white wine vinegar ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "freshly grated parmesan ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "sugar ((any))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "garlic powder (or 2 garlic cloves minced, if using within 3 days)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each dried basil (, oregano and parsley (or a mix of choice))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "red pepper flakes ((Note 3))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "freshly ground pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place ingredients in a jar and shake well until combined."
+    },
+    {
+      "order": 2,
+      "instruction": "Adjust sugar, salt and pepper to taste. For less tang, add more olive oil, for more tang, add more vinegar."
+    },
+    {
+      "order": 3,
+      "instruction": "Keep in the refrigerator for up to 2 weeks."
+    },
+    {
+      "order": 4,
+      "instruction": "For the Single Batch, this makes just over 1/4 cup and is enough to dress 3 handfuls of leafy greens."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "tr_743",
+  "title": "Thai Turmeric Chicken (Gai Yang Khamin)",
+  "image": "https://www.recipetineats.com/tachyon/2015/11/Thai-Turmeric-Chicken_4.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/southern-thai-tumeric-chicken-grilled-or-baked/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 50,
+  "tags": [
+    "thai chicken",
+    "thai marinade",
+    "turmeric chicken"
+  ],
+  "nutrition": {
+    "calories": 505,
+    "protein": 34.0,
+    "carbs": 15.0,
+    "fat": 34.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5 large chicken thighs, skin-on, bone-in ((~1.2kg/2.4lb) (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, finely minced or crushed using garlic press)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white pepper (, ground (sub black))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ground turmeric",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "brown sugar ((tightly packed cup))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinade chicken - Mix Marinade ingredients in a large bowl. Add chicken and toss to coat. Marinade for at least 3 hours, preferably overnight."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan-forced)."
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare - Line a tray with baking paper/parchment paper. Place chicken on the tray, skin side up. Scrape all Marinade out of th bowl and dab onto chicken."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake for 40 minutes, basting at the 30 minute and 40 minute mark using the tray juices to make it golden brown and sticky, and rotate the tray as needed for even colour."
+    },
+    {
+      "order": 5,
+      "instruction": "Increase the oven temperature to 200°C/390°F (180°C fan-forced). Pop the chicken back in for a final 10 minutes to caramelise the skin."
+    },
+    {
+      "order": 6,
+      "instruction": "Rest for 3 minutes before serving with jasmine or coconut rice, and plain chunks of tomato and cucumber the Thai way!"
+    }
+  ]
+}

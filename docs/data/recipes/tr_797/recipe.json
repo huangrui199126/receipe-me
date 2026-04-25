@@ -1,0 +1,118 @@
+{
+  "id": "tr_797",
+  "title": "Hot buttered corn rice",
+  "image": "https://www.recipetineats.com/tachyon/2024/08/Hot-buttered-corn-rice_0.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/hot-buttered-corn-rice/",
+  "servings": 4,
+  "prepTime": 7,
+  "cookTime": 12,
+  "tags": [
+    "corn rice",
+    "rice side dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "50g/ 4 tbsp  unsalted butter (, divided)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  big garlic cloves (, finely minced (can use garlic press))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "frozen corn  ((no need to thaw), or fresh corn kernels (Note 1))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "long grain rice (, uncooked, not rinsed (Note 2))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "low-sodium chicken stock/broth ((+ 2 tbsp extra if using fresh corn))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green onion stems (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pot size - Use a small pot or large saucepan about 20-22 cm/8-9&quot;. (Note 3)"
+    },
+    {
+      "order": 2,
+      "instruction": "Sauté - Melt half the butter in a pot over high heat. Add the garlic and stir for 15 seconds. Add the corn and half the salt. Stir for 2 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Bring to simmer - Add the rice and stir for 30 seconds. Add the stock and remaining salt, and pepper. Stir, bring to a simmer (make sure the whole surface is bubbling/ripplling), then put the lid on and turn the heat down to medium low (or low, if your stove is strong). (Note 4)"
+    },
+    {
+      "order": 4,
+      "instruction": "Cook for 12 minutes (no peeking, no stirring!). The liquid should be absorbed by now - tilt the pot and take a quick peek to check."
+    },
+    {
+      "order": 5,
+      "instruction": "Rest 10 minutes - Remove the pot from the stove and let it rest for 10 minutes with the lid on. This step is key, do not skip it! (Note 5)"
+    },
+    {
+      "order": 6,
+      "instruction": "Toss - Lift the lid, add the remaining butter, fluff the rice to melt the butter through. Add green onion and toss through."
+    },
+    {
+      "order": 7,
+      "instruction": "Tumble into serving bowl. Serve hot!"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "tr_1129",
+  "title": "Asian Steak",
+  "image": "https://www.recipetineats.com/tachyon/2017/03/Asian-Steak-3.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/asian-steak/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 506,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  beef tenderloin steaks, around 150g/5oz each (Note 1)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil (or other neutral cooking oil)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce, all purpose (Note 2)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Mirin (Note 3)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "cooking sake (Note 3)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "45g/3tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small garlic clove, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "ginger, minced (can exclude)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "shallots/scallions (green part) or chives, finely chopped",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Take the steak out of the fridge 20 minutes prior to cooking (or 10 minutes if it's a stinking hot summer day)."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine soy sauce, Mirin and sake in a small bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a skillet over medium high heat until smoking. Add steak and cook to your liking. Mine were 150g/5oz each and 3cm/1.25\" thick and I cooked it 3 minutes on the 1st side and 2 minutes on the second side for medium rare."
+    },
+    {
+      "order": 4,
+      "instruction": "Transfer steak onto a plate and cover loosely with foil. Rest for 5 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Let the skillet cool down a bit then return to the stove over medium high heat. Add Sauce and bring to simmer, then add butter. When the butter melts and is incorporated into the sauce, immediately remove it from the stove."
+    },
+    {
+      "order": 6,
+      "instruction": "Stir through garlic, ginger and 2 tsp of shallots (reserve rest for garnish), the sauce should be slightly thickened (if not, keep stirring, thickens more as it cools)."
+    },
+    {
+      "order": 7,
+      "instruction": "Place steak on plates and spoon over sauce. I served the steaks with finely shredded cabbage without dressing (very typical Japanese side) and white rice, plus some edamame on the side."
+    }
+  ]
+}

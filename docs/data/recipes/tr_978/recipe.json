@@ -1,0 +1,130 @@
+{
+  "id": "tr_978",
+  "title": "Spicy Asian Zucchini",
+  "image": "https://www.recipetineats.com/tachyon/2023/08/Spicy-Asian-Zucchini_0.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spicy-asian-zucchini-recipe/",
+  "servings": 5,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "asian zucchini recipe",
+    "zucchini recipe"
+  ],
+  "nutrition": {
+    "calories": 143,
+    "protein": 3.0,
+    "carbs": 12.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  zucchini, small / medium  (, cut in half lengthways (Note 1))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "canola oil ((or other plain oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "crispy fried shallots",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green onion stem (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "canola oil ((or other plain oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sambal oelak ((sub sriracha or chilli crisp) (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sesame oil (, toasted)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce (, light or all-purpose NOT dark soy (Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "mirin ( - sub honey (Note 5))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Toss the zucchini in oil then sprinkle with salt and toss to (roughly) coat all over."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook - Heat a large non-stick pan over medium-high heat. Place half the zucchini cut side down and cook for 3 to 4 minutes until the surface is golden. Turn and cook the skin side for 3 minutes. Pile onto a serving plate and repeat with remaining zucchini."
+    },
+    {
+      "order": 3,
+      "instruction": "Sauce - cool the pan slightly then return to medium heat. Heat the oil then sauté the garlic until light golden. Add remaining Sauce ingredients, simmer for 30 seconds until syrupy."
+    },
+    {
+      "order": 4,
+      "instruction": "Serve - Pour over zucchini, pile on Crispy Asian Shallots and green onion. Eat!"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "tr_1808",
+  "title": "The Montanara Pizza (Classic Fried Italian Pizza).",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/01/The-Montanara-Pizza-Classic-Fried-Italian-Pizza.-1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/montanara-pizza-classic-fried-italian-pizza/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 65,
+  "tags": [
+    "fried",
+    "pizza"
+  ],
+  "nutrition": {
+    "calories": 1017,
+    "protein": 30.0,
+    "carbs": 25.0,
+    "fat": 57.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "8",
+      "unit": "cloves",
+      "name": "garlic (finely chopped or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "crushed red pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "ounce",
+      "name": "cans san marzano tomatoes (28)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dried basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  parmesan cheese rind",
+      "emoji": "🧀",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "16",
+      "unit": "ounces",
+      "name": "smoked mozzarella cheese (sliced)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "pecorino romano cheese (grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "fresh basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 in recipe [pizza dough | https://www.halfbakedharvest.com/whipped-feta-and-roasted-jalapeno-greek-pizza/]",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "If possible, prepare your pizza dough the night before and allow it to rise in the fridge overnight."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a medium to large soup pot over medium-low heat. Add the olive oil, butter, garlic and crushed red pepper flakes. Slowly cook the garlic in the oil/butter for about 10-20 minutes, but be very careful not to burn the garlic. You want the garlic to be fragrant and lightly caramelized. Now carefully add the tomatoes, crushing them with your hand as you add them. Add the tomato paste, dried basil, oregano, a good pinch salt and the parmesan rind. Bring the sauce to a low boil and then reduce the heat to a simmer. Simmer, with the lid off for about 1 hour or as long as you can. If you are going to go longer than an hour, keep the lid on. You can make the sauce three to four days in advance. The longer it simmers and sits, the better."
+    },
+    {
+      "order": 3,
+      "instruction": "To prepare the pizzas, Preheat the oven to 500 degrees F."
+    },
+    {
+      "order": 4,
+      "instruction": "Place a pizza stone under the broiler (or large pan) and heat it for 30 minutes. Pour enough canola oil into an 8 quart pot to go 2 inches up the sides of the pot. Heat until a deep-fry thermometer reads 350 degrees F. Divide the dough into four balls. Dust each ball of dough with semolina. Using your fingertips, press the dough into a 8-10 inch circle, it does not need to be perfect. Using a fork, poke holes all over the dough; gently lower the dough into the hot oil. Fry, flipping once, until golden and puffed, 1-2 minutes. Transfer to a pizza peel or clean surface. Repeat with the remaining dough. Spread each pizza with as much sauce as desired. Distribute a quarter of each of the cheeses and basil leaves over each piece of dough. Drizzle the pizzas with a little olive oil. Slide pizza, one at a time, onto stone. Turn the oven to broil and broil until cheese melts, about 1-1½ minutes. Serve hot with fresh pecorino, basil and pine nuts."
+    },
+    {
+      "order": 5,
+      "instruction": "*Heavily adapted from [Saveur | http://www.saveur.com/article/Recipes/Montanara-Starita-Fried-Pizza-with-Marinara-Sauce]."
+    }
+  ]
+}

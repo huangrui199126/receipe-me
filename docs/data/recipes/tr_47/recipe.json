@@ -1,0 +1,107 @@
+{
+  "id": "tr_47",
+  "title": "Crispy Shredded Chicken Noodle Stir Fry",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/DSC_0180.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crispy-shredded-chicken-noodle-stir-fry/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 476,
+    "protein": 27.7,
+    "carbs": 56.5,
+    "fat": 16.3
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "5",
+      "unit": "oz",
+      "name": "/ 150g   dried rice stick noodles ((see note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil ((vegetable, canola or peanut oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, smashed (see note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "Slow Cooker Crispy Chinese Shredded Chicken ((\"Shredded Chicken\"))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Slow Cooker Crispy Chinese Shredded Chicken braising liquid ((see note 3))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Sriracha sauce ((or any hot sauce or chili paste) (optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "(tightly packed)  Chinese broccoli, leaves separated from stems (cut stems vertically into thin sticks) (about 1 small bunch)",
+      "emoji": "🥦",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook / soak rice stick noodles according to packet instructions. Drain and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in wok or large fry pan over high heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add garlic and stir fry for 30 seconds to flavour the oil. Remove and discard garlic."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the Chinese broccoli stems and Shredded Chicken and stir fry for 1 1/2 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the noodles, braising liquid and Sriracaha (if using) and stir fry, tossing the noodles rapidly to coat with the sauce for about 1 minute. The sugar in the braising liquid should make the noodles char a bit."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the Chinese broccoli leaves and toss to mix in with the noodles, then remove from heat. The Chinese broccoli leaves will continue to cook from the residual heat."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve immediately."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "id": "tr_665",
+  "title": "Spring Roll recipe",
+  "image": "https://www.recipetineats.com/tachyon/2017/09/Spring-Rolls-4.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spring-rolls/",
+  "servings": 15,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "spring roll recipe",
+    "spring rolls"
+  ],
+  "nutrition": {
+    "calories": 176,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped or minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 13 oz   pork mince ((ground pork), or chicken or turkey)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  dried shiitake mushrooms soaked in boiling water OR 8 fresh ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded carrot ((1 large or 2 small))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(heaped) bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(packed) shredded green cabbage ((any type is fine))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "Oyster Sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "soy sauce ((light or all purpose is best, dark is also ok))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "15 – 20  spring roll wrappers, defrosted (21.5 cm / 8” squares) OR 35 - 40 small spring roll wrappers (Note 2), or Egg Roll wrappers to make Egg Rolls (Note 6)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cornflour (for sealing rolls)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "water (for sealing rolls)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil for frying (I use vegetable) OR oil spray for baking (I use canola)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cornflour/ cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "brown sugar ((adjust to taste))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato ketchup",
+      "emoji": "🍅",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a skillet or wok over high heat. Add garlic, stir quickly, then add pork. Cook, breaking it up as you go, until it turns white."
+    },
+    {
+      "order": 2,
+      "instruction": "Add carrot, bean sprouts, cabbage and mushrooms. Cook for 3 minutes or until vegetables are wilted. Add cornflour, soy sauce and Oyster sauce, cook for 1 minute until the liquid is gone. The Filling should not be watery, it should be kind of sticky (watery filling = soggy spring rolls = ?&nbsp;)."
+    },
+    {
+      "order": 3,
+      "instruction": "Cool Filling (super speedy: spread on tray, refrigerate 5 minutes). (Hot filling = spring rolls burst open = ? )"
+    },
+    {
+      "order": 4,
+      "instruction": "Mix cornflour and water in a small bowl (for sealing the rolls)."
+    },
+    {
+      "order": 5,
+      "instruction": "Carefully peel off one spring roll wrapper, keep the others covered under a damp tea towel."
+    },
+    {
+      "order": 6,
+      "instruction": "Place the wrapper with the SMOOTH SIDE DOWN (Note 3) in a diamond position. Place a very heaped dessert spoon of filling on the bottom. Roll up halfway, fold sides in, then finish rolling. Use cornflour sludge to seal. (Watch VIDEO below). They should be about 12 cm / 5\" long, 2.5cm / 1\" wide once wrapped."
+    },
+    {
+      "order": 7,
+      "instruction": "Pour enough oil in a wok or large saucepan (Note 4) so it is double the height of the spring rolls. Heat on medium high until hot - stick a bamboo chopstick or wooden spoon handle in, if rapid bubbles appear, then it's hot enough."
+    },
+    {
+      "order": 8,
+      "instruction": "Carefully place spring rolls in the oil (about 4 - 5 at a time) and cook, turning occasionally, until deep golden - around 1 1/2 - 2 minutes. Transfer to paper towels to drain."
+    },
+    {
+      "order": 9,
+      "instruction": "Repeat with remaining spring rolls. Serve while hot with Sweet and Sour Sauce!"
+    },
+    {
+      "order": 10,
+      "instruction": "Place spring rolls on a rack and place the rack on a tray. Spray very generously with oil all over (use canola or other natural oil). Bake at 200C/400F (standard) or 180C/350F (fan / convection) for 20 to 25 minutes until golden and crispy - no need to turn."
+    },
+    {
+      "order": 11,
+      "instruction": "Combine ingredients in a small saucepan over medium heat. Bring to simmer, stirring regularly, then simmer until it thickens to taste (about 3 - 5 minutes)."
+    }
+  ]
+}

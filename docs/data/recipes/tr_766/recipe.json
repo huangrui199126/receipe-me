@@ -1,0 +1,140 @@
+{
+  "id": "tr_766",
+  "title": "Chicken Rissoles",
+  "image": "https://www.recipetineats.com/tachyon/2022/09/Chicken-Rissoles_4.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-rissoles-chicken-patties/",
+  "servings": 16,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [
+    "chicken mince recipe",
+    "chicken patties",
+    "chicken rissoles",
+    "ground chicken recipe"
+  ],
+  "nutrition": {
+    "calories": 132,
+    "protein": 9.0,
+    "carbs": 4.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  chicken mince ((ground chicken), excess liquid drained and discarded (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot, medium (, grated on a shallow angle (Note 2))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  zucchini, medium (, grated on a shallow angle (Note 2))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cup",
+      "name": "Colby cheese, shredded  ((or cheddar, tasty, Monterey Jack - see Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((Note 4))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "finely chopped parsley (, optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Ketchup - for dipping",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pre-heat oven to 100°C/210°F (all oven types), to keep cooked rissoles warm. Place a rack over a tray."
+    },
+    {
+      "order": 2,
+      "instruction": "Rissole mixture: Mix all ingredients together in a bowl using a wooden spoon."
+    },
+    {
+      "order": 3,
+      "instruction": "Form patties: Wet your hands (stops the mixture sticking all over your hands). Measure out just shy of 1/4 cup and shape into a 6 cm wide x 1.5cm thick pattie (2.4&quot; x 0.6&quot; thick). See Note 1 if your mixture is too loose."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook: Heat 1 tablespoon oil in a large non-stick pan over medium high heat. Cook 5 - 6 rissoles at the time, 3 to 4 minutes on each side, until beautifully golden (as pictured). (Note 5 for baking)"
+    },
+    {
+      "order": 5,
+      "instruction": "Keep warm: Transfer to the rack on the tray and keep warm in the oven. Add more oil as needed and cook remaining rissoles."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve straight away with ketchup for dipping!"
+    }
+  ]
+}

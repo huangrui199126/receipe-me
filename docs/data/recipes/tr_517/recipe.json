@@ -1,0 +1,254 @@
+{
+  "id": "tr_517",
+  "title": "Jambalaya Recipe (easy)",
+  "image": "https://www.recipetineats.com/tachyon/2019/06/Jambalaya_0-SQ.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/jambalaya-recipe/",
+  "servings": 5,
+  "prepTime": 20,
+  "cookTime": 50,
+  "tags": [
+    "jambalaya",
+    "jambalaya recipe"
+  ],
+  "nutrition": {
+    "calories": 707,
+    "protein": 31.0,
+    "carbs": 51.0,
+    "fat": 41.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "180",
+      "unit": "g",
+      "name": "(6oz)  bacon (, preferably SMOKED, chopped)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "(7oz)  andouille or smoked sausage (, sliced 0.5cm / 1/5\" thick (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "(10oz)  chicken thigh (, skinless boneless, cut into 2.5cm /1\" pieces)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  prawns/shrimp (, raw, large, (peeled, with or without tails))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "(15g)   butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, large, cut into 1.5 cm / 0.5\" pieces)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  celery ribs (, cut into 1.5 cm / 0.5\" pieces)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green capsicum / bell pepper (, medium, cut into 1.5 cm / 0.5\" pieces)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1.25",
+      "unit": "cups",
+      "name": "long grain rice (, uncooked (Note 2))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2.5",
+      "unit": "cups",
+      "name": "(625ml)   low-sodium chicken broth / stock ((Note 3))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "(6.5oz)  crushed canned tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "green onions (, sliced, plus more for serving)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "chopped fresh thyme ((or 1 tsp dried thyme))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "sweet paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cayenne powder ((adjust spice to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F (all types)."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a very large skillet or dutch oven over medium high heat. (Note 4)"
+    },
+    {
+      "order": 3,
+      "instruction": "Add bacon, cook for 30 seconds (to start fat melting), then add sausages. Cook until sausages are golden - about 3 minutes - then remove into bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Add chicken into the pan and cook until golden (doesn't need to cook inside), then add to bowl with bacon."
+    },
+    {
+      "order": 5,
+      "instruction": "Sear prawns in the pan for 1.5 minutes on each side, then transfer to a separate bowl (reserve until later)."
+    },
+    {
+      "order": 6,
+      "instruction": "Add butter, then garlic, onion, celery and capsicum. Cook for 3 to 4 minutes or until slightly softened."
+    },
+    {
+      "order": 7,
+      "instruction": "Add rice, stir to coat grains in oil."
+    },
+    {
+      "order": 8,
+      "instruction": "Add chicken broth, tomato paste, canned tomato, thyme and Seasoning Mix."
+    },
+    {
+      "order": 9,
+      "instruction": "Stir well, then add chicken, sausages and bacon (including all liquid)."
+    },
+    {
+      "order": 10,
+      "instruction": "When you see bubbles across most of the surface, stir well once more. Ensure all rice is submerged, cover with lid, and transfer to oven. (See video)"
+    },
+    {
+      "order": 11,
+      "instruction": "Bake 20 minutes. Remove lid and check rice by eating a few grains (careful, very hot!) If the rice is just about done (Note 5 for the correct consistency), go to next step. If rice grains are still firm in the centre, continue to cook, checking rice every 5 mins - most ovens take about 30 mins total cooking (see Note 7)."
+    },
+    {
+      "order": 12,
+      "instruction": "Add prawns/shrimp and green onions, QUICKLY (but gently!) stir through, cover with lid, and return to oven for just 3 minutes (just to heat prawns)."
+    },
+    {
+      "order": 13,
+      "instruction": "Remove from oven (see video for finished consistency), stir gently to fluff, then serve, garnished with more green onions if desired."
+    }
+  ]
+}

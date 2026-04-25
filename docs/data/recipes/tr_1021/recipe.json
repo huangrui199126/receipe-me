@@ -1,0 +1,275 @@
+{
+  "id": "tr_1021",
+  "title": "Malfatti (Italian Spinach Ricotta Dumplings in Napoli Sauce)",
+  "image": "https://www.recipetineats.com/tachyon/2021/06/Malfatti-Spinach-Ricotta-Dumplings_6-SQ.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/malfatti-italian-spinach-ricotta-dumplings/",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 45,
+  "tags": [
+    "italian dumplings",
+    "malfatti",
+    "spinach ricotta dumplings"
+  ],
+  "nutrition": {
+    "calories": 503,
+    "protein": 29.0,
+    "carbs": 32.0,
+    "fat": 31.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, very finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 24 oz  crushed tomato ((or diced))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  basil stem ((leaves kept for the Malfatti))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10oz   baby spinach ((~6 tightly packed cups, Note 4))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  eschallot ((large), finely chopped (or 1/2 red onion))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  ricotta ((must be dry type, not wet and spreadable, Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(lightly packed) basil leaves, finely sliced ((use stem for sauce))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg ((Note 2))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg yolk ((Note 2))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "parmesan (, finely grated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "flour (, plain / all-purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "parmesan (, finely grated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Basil leaves (, small (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Saute garlic and onion: Heat oil in a small pot or large skillet over medium heat. Add garlic and onion and cook for 3 minutes until onion is softened."
+    },
+    {
+      "order": 2,
+      "instruction": "Simmer sauce: Add remaining ingredients plus the stem of basil. Bring to a simmer, then reduce stove to low and cook, stirring every now and then, for 20 minutes. It should be fairly thick rather than a loose runny sauce."
+    },
+    {
+      "order": 3,
+      "instruction": "Drain ricotta, if needed: The ricotta should be the dry and fairly crumbly type rather than wet, soft and almost spreadable. If it&#039;s wet, see Note 1 for removing excess water (wet ricotta makes Malfatti hard to shape and cook!)"
+    },
+    {
+      "order": 4,
+      "instruction": "Sweat spinach: Toss spinach with 1/2 tsp salt in large colander. Leave for 20 minutes. Roll up in tea towel and squeeze tightly to remove excess liquid. Roughly chop."
+    },
+    {
+      "order": 5,
+      "instruction": "Sauté garlic, eschalot and spinach: Heat oil in a skillet over medium high heat. Add garlic and eschalot, cook for 1 minute until translucent. Add spinach and cook until just wilted. Transfer to large bowl, allow to cool."
+    },
+    {
+      "order": 6,
+      "instruction": "Malfatti mixture: Add ricotta and all remaining Malfatti ingredients into the bowl. Mix well to combine. It should be too wet to roll with hands without sticking, but still firm enough to shape into dumplings."
+    },
+    {
+      "order": 7,
+      "instruction": "Form dumplings: Using 2 dessert spoons, scoop up about 1 1/2 tablespoons of mixture then shape into a football (quenelle) using the two spoons. Place on a paper-lined tray. You should get about 24-30."
+    },
+    {
+      "order": 8,
+      "instruction": "Boil dumplings: Bring a large pot of water to the boil, then carefully put 6 dumplings in. Cook for 2 minutes, they should float to the surface. Remove with slotted spoon on to paper towel lined tray. Repeat for remaining Malfatti."
+    },
+    {
+      "order": 9,
+      "instruction": "Preheat oven to 180°C / 350°F."
+    },
+    {
+      "order": 10,
+      "instruction": "Assemble: Pour Napoli Sauce into a baking dish, then top with Malfatti. Drizzle with extra virgin olive oil."
+    },
+    {
+      "order": 11,
+      "instruction": "Bake 15 minutes or until the Malfatti has a faint blush of gold on the surface (Note 3)."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve! Sprinkle baked Malfatti with parmesan and basil leaves (tear large leaves). Spoon into bowls and served as-is. No starchy side is required, think of these as like gnocchi. Just add a leafy green salad with Italian Dressing or Balsamic Dressing!"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "tr_168",
+  "title": "Tomato and Artichoke Salad with Capers",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/DSC_0059-680x680-1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tomato-artichoke-salad-capers/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 to 4  tomatos (, sliced into 1/3\"/0.5cm slices)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "baby capers (, or ordinary capers roughly chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Few tinned artichokes (, roughly chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  red spanish onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "salt flakes",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  lemon (, juice only)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh oregano leaves ((or other herb of your choice))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Lay tomatoes on a plate, slightly overlapping."
+    },
+    {
+      "order": 2,
+      "instruction": "Scatter with capers, artichokes and red onion."
+    },
+    {
+      "order": 3,
+      "instruction": "Scatter with salt and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Scatter with oregano leaves."
+    },
+    {
+      "order": 5,
+      "instruction": "Drizzle with olive oil and juice of the 1/2 lemon."
+    },
+    {
+      "order": 6,
+      "instruction": "Leave for 5 minutes so the salt makes the juices of the tomato seep. Do not leave for too much longer otherwise the salt will draw too much of the tomato juices out!"
+    }
+  ]
+}

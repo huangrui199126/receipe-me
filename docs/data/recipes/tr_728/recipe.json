@@ -1,0 +1,156 @@
+{
+  "id": "tr_728",
+  "title": "Rack of Lamb with Rosemary Garlic Marinade (Oven Roasted)",
+  "image": "https://www.recipetineats.com/tachyon/2021/03/Herb-Garlic-Rack-of-Lamb_6-SQ.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/rosemary-garlic-rack-of-lamb-recipe/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "lamb rack recipe",
+    "marinade for rack of lamb",
+    "rack of lamb",
+    "sauce for lamb rack"
+  ],
+  "nutrition": {
+    "calories": 511,
+    "protein": 43.0,
+    "carbs": 5.0,
+    "fat": 34.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 x 800g / 1.3lb  racks of lamb (, frenched (Note 1))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh rosemary (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt (, cooking/kosher salt)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil - for searing ((1 tbsp each rack))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  butter (, cut into 1cm / ½&quot; cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, smashed (use side of knife))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "sprig",
+      "name": "rosemary",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 quantity Salsa Verde ((see separate recipe))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinate lamb: Mix marinade ingredients in a ziplock bag (Note 2). Place lamb in bag, massage to coat, then seal and marinate for at least 24 hours and up to 48 hours."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove lamb from fridge 1 hour prior to cooking, to ensure even cooking."
+    },
+    {
+      "order": 3,
+      "instruction": "Wrap bones in foil (optional): Wrap each bone with a small piece of foil. This keeps the bones white and looks prettier."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven: Preheat oven to 200°C/390°F (180°C fan)."
+    },
+    {
+      "order": 5,
+      "instruction": "Sear: Heat 1 tbsp oil in a cast iron skillet (or other oven-proof, heavy-based skillet) over high heat. Sear one lamb rack on all sides until golden brown, including the ends. Remove and repeat with other lamb rack."
+    },
+    {
+      "order": 6,
+      "instruction": "Roast: Place both racks in the skillet and roast for 15 minutes, or until the internal temperature is 57°C/135°F (for medium-rare). Remove pan from oven."
+    },
+    {
+      "order": 7,
+      "instruction": "Baste: Add butter, smashed garlic and rosemary to pan. The residual heat of the pan will melt the butter. Spoon the butter over the lamb continuously for 30 seconds."
+    },
+    {
+      "order": 8,
+      "instruction": "Rest: Remove lamb from skillet and place on a rack set over a tray. Pour butter remaining in the skillet over lamb. Cover loosely with foil and rest for 5 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Carve and serve! Cut lamb into individual cutlets or several cutlets per slice. Serve with Salsa Verde!"
+    },
+    {
+      "order": 10,
+      "instruction": "Sides: Pictured in post with a Spring Salad and individual Mini Potato Gratin Stacks."
+    }
+  ]
+}

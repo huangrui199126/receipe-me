@@ -1,0 +1,175 @@
+{
+  "id": "tr_1246",
+  "title": "Ripper Beef Nachos",
+  "image": "https://www.recipetineats.com/tachyon/2016/01/Beef-Nachos_2b.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/ripper-beef-nachos/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   ground beef ((mince))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "each onion powder ((Note 1), dried oregano, salt)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "each dried cumin powder (, paprika)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cayenne pepper (, or to taste)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "14",
+      "unit": "oz",
+      "name": "/ 400g   corn chips (, good quality (Note 2))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "grated cheese ((cheddar, tasty, gruyere, Monterey Jack))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  quantity Nachos Cheese Sauce (, warm (Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced scallions / shallots",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  quantity Proper Guacamole (, Restaurant Style)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  quantity Pico de Gallo ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Beef: Heat oil in a skillet over high heat. Add garlic and onion, cook until translucent. Add beef and cook, breaking it up as you go. Once beef is cooked, add Nachos Seasoning, tomato paste and water. Cook for a further 2 minutes, then set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 3,
+      "instruction": "Spread half the corn chips in a single layer on a baking tray. Drizzle over about 1 cup Nachos Cheese Sauce (see KEY TIPS in Note 3), top with 1/2 the Beef and 1/2 the grated cheese ensuring most of the Cheese Sauce is covered."
+    },
+    {
+      "order": 4,
+      "instruction": "Spread over remaining corn chips, drizzle over remaining Nachos Cheese Sauce, Beef and grated cheese, again ensuring all the Cheese Sauce is covered."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake for 15 minutes or until cheese is melted."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve immediately, garnished with sliced scallions/shallots if using and with Guacamole, Pico de Galloand Sour Cream on the side."
+    }
+  ]
+}

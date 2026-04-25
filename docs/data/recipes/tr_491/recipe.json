@@ -1,0 +1,287 @@
+{
+  "id": "tr_491",
+  "title": "Christmas Cake - EASY moist fruit cake",
+  "image": "https://www.recipetineats.com/tachyon/2019/12/Christmas-Cake-decorated-with-fondant-marzipan-and-cherries-SQ.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/christmas-cake-moist-easy-fruit-cake/",
+  "servings": 20,
+  "prepTime": 30,
+  "cookTime": 195,
+  "tags": [
+    "christmas cake",
+    "easy christmas cake",
+    "fruit cake"
+  ],
+  "nutrition": {
+    "calories": 388,
+    "protein": 4.0,
+    "carbs": 64.0,
+    "fat": 15.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10 oz  raisins",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5 oz  diced dried apricots (, chopped 8 mm / 1/3&quot;)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "75",
+      "unit": "g",
+      "name": "/ 2.5 oz  mixed peel (, diced 5mm / 1/5)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5 oz  glace cherries (, chopped 8 mm / 1/3&quot;)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "180",
+      "unit": "g",
+      "name": "/ 6 oz  dates (, diced 5mm / 1/5&quot;)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "+ 2 tbsp  apple juice, OR 1/3 brandy + 2/3 juice ( (Note 2))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 8 tbsp  unsalted butter (, softened (1 US stick))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "dark brown sugar (, packed (Note 3))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "vegetable oil ((or canola, peanut, grapeseed))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "molasses or golden syrup ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "all spice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "nutmeg",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1 2/3",
+      "unit": "cups",
+      "name": "plain flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "walnuts (, chopped (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "500",
+      "unit": "ml",
+      "name": "/ 1 pint  pouring custard (, homemade or store bought (Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz  &quot;ready to roll&quot; marzipan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz  &quot;ready to roll&quot; white fondant",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cherries dusted with icing sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cherries or other fruit dusted with icing sugar ((on plain cake, looks very pretty!))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Drippy white glaze ((directions below))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place dried fruit and juice/brandy in a large microwavable container. Microwave 1 1/2 minutes on high or until hot."
+    },
+    {
+      "order": 2,
+      "instruction": "Stir to coat all fruit in liquid. Cover then set aside for 1 hour (to plump up/soak and cool)."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 160°C / 320°F (140°C fan). Grease and line a 21 - 22 cm / 8 - 9&quot; round cake pan with baking paper (parchment paper) (7 cm / 2.75&quot; tall)."
+    },
+    {
+      "order": 4,
+      "instruction": "Using an electric beater, beat butter and sugar until smooth and creamy (about 1 minute on speed 5)."
+    },
+    {
+      "order": 5,
+      "instruction": "Add oil and molasses, beat until combined."
+    },
+    {
+      "order": 6,
+      "instruction": "Add salt, spices and baking powder - beat until incorporated."
+    },
+    {
+      "order": 7,
+      "instruction": "Add eggs, one at a time, beating until just incorporated"
+    },
+    {
+      "order": 8,
+      "instruction": "Stir in the flour."
+    },
+    {
+      "order": 9,
+      "instruction": "When mostly incorporated, stir in the fruit mix (including all the extra liquid in bowl) and walnuts (if using)."
+    },
+    {
+      "order": 10,
+      "instruction": "Pour into cake pan, cover with foil and bake for 2 1/2 hours. Remove the foil then bake for another 30 to 45 minutes, or until a skewer inserted into middle comes out clean with no batter on it (check first at 30 minutes)."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove from oven and cool for 20 minutes before transferring to cooling rack. Cool completely before serving."
+    },
+    {
+      "order": 12,
+      "instruction": "Cake is moist and so full flavoured, it can be eaten plain. But see below for decorating and serving ideas (traditionally served with pouring custard)."
+    },
+    {
+      "order": 13,
+      "instruction": "Cutting: Either cut into thin wedges, or cut cake into thin strips (2cm / 0.75&quot; or so), then cut those strips into serving size pieces."
+    },
+    {
+      "order": 14,
+      "instruction": "Traditional White Christmas Cake (pictured in post) - Marzipan and fondant, see Decorating Note."
+    },
+    {
+      "order": 15,
+      "instruction": "Simple - pile top with fresh cherries or other fruit, dust with icing sugar (powdered sugar). Wrap a ribbon around the cake for extra touch!"
+    },
+    {
+      "order": 16,
+      "instruction": "Drippy white glaze - use the glaze in this Lemon Cake recipe, but leave out the lemon juice (ie make a plain sweet white glaze). Flip cake upside down for flat surface then glaze per that recipe."
+    },
+    {
+      "order": 17,
+      "instruction": "Serving - serve with custard for a traditional experience! Either homemade custard or store bought pouring custard (jazz it up by mixing in vanilla seed paste!)."
+    }
+  ]
+}

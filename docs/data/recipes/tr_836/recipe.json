@@ -1,0 +1,121 @@
+{
+  "id": "tr_836",
+  "title": "Tzatziki Chickpea Salad",
+  "image": "https://www.recipetineats.com/tachyon/2024/09/Tzatziki-chickpea-salad_0.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tzatziki-chickpea-salad/",
+  "servings": 4,
+  "prepTime": 12,
+  "cookTime": 0,
+  "tags": [
+    "chickpea salad"
+  ],
+  "nutrition": {
+    "calories": 367,
+    "protein": 20.0,
+    "carbs": 45.0,
+    "fat": 13.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  cucumbers (, grated using a box grater, excess water squeezed out very well (3/4 cup once squeezed))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "Greek yogurt ((or thick plain yogurt))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil (, plus extra for drizzling)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "roughly chopped fresh dill (, plus extra for sprinkling, or half the quantity chopped fresh mint (Note 1))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove (, crushed using garlic press , finely grate or very finely minced using a knife)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 x 400g / 14 oz cans   chickpeas (, well drained (Note 2 for dried))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "finely sliced celery ((1 - 2 stems))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "chopped capers ((sub cornichons or dill pickles))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix - Put the Tzatziki ingredients in a big bowl and mix. Add the chickpeas, celery and capers, mix again."
+    },
+    {
+      "order": 2,
+      "instruction": "Wait 1 hour - You can eat it straight away but it&#39;s better if you can set aside for at least 1 hour to let the flavours meld (especially salt from capers &amp; the garlic). It&#39;s even better the next day. Give it a taste and add a pinch of extra salt if needed (capers saltiness can differ)."
+    },
+    {
+      "order": 3,
+      "instruction": "Serve drizzled with extra olive oil and extra dill. Dive in!"
+    },
+    {
+      "order": 4,
+      "instruction": "As a side salad or salad meal, stuffed into sandwiches/wraps (+ avocado, good &quot;glue&quot;), add chicken or canned tuna for protein-boost salad meal."
+    }
+  ]
+}

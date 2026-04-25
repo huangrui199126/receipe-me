@@ -1,0 +1,183 @@
+{
+  "id": "tr_1781",
+  "title": "Thai Red Fish Curry Noodles.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/03/Spring-Time-Thai-Red-Fish-Curry-Noodles-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/springtime-thai-red-fish-curry-noodles/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "curry",
+    "fish curry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 778,
+    "protein": 38.0,
+    "carbs": 65.0,
+    "fat": 36.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "7",
+      "unit": "ounces",
+      "name": "pad thai noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "peanut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "mahi mahi (cut into cubes, or your favorite white meat fish)",
+      "emoji": "🐟",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  green onions (chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "thai red curry paste",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "sambal oelek",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "canned coconut milk (plus more if needed)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "fresh sugar snap peas",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  mango (diced or sliced)",
+      "emoji": "🥭",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "roasted peanuts (chopped)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "bean sprouts (red chilies + lime wedges, for serving)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare the pad thai noodles according to package directions (mine said to soak my noodles in hot water for 10 minutes and then drain)."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile heat a large high sided skillet over medium heat. Add a drizzle of peanut oil and once hot, add half the fish. Sear the fish until just cooked through, about 3-5 minutes depending on the thickness of your fish. Remove from the pan and place on a plate. Add another drizzle of oil to the pan and repeat with the remaining fish, again adding the fish to the plate once it is finished cooking."
+    },
+    {
+      "order": 3,
+      "instruction": "Return the pan to medium heat and add another drizzle of peanut oil. Add the garlic and green onions, cook for about 1 minute then add the thai red curry paste and continue to cook another 2 minutes or until fragrant. Add the soy sauce, fish sauce, sambal oelek, lime juice, honey and coconut milk. Bring the mixture to a low boil and cook for 5 minutes. After five minutes, add the sugar snap peas and the fish to the sauce. Cook until the fish is warmed through and the sauce has thickened, about another 5 minutes. If desired, add more coconut milk to thin the sauce if it seem too thick for your liking."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove from the heat and sir in the cilantro."
+    },
+    {
+      "order": 5,
+      "instruction": "To serve, divide the noodles among bowls and top with curry. Serve with peanuts, fresh mango slices, bean sprouts and lime wedges if desired."
+    }
+  ]
+}

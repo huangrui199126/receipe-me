@@ -1,0 +1,131 @@
+{
+  "id": "tr_147",
+  "title": "Strawberry Nutella French Toast Roll Ups",
+  "image": "https://www.recipetineats.com/tachyon/2014/11/DSC_0303.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/strawberry-nutella-french-toast-roll-ups/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 254,
+    "protein": 4.8,
+    "carbs": 32.0,
+    "fat": 12.1
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "fresh white sandwich bread (, crusts removed)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 punnet strawberries (, diced small)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4 1/2",
+      "unit": "tbsp",
+      "name": "Nutella",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "caster sugar ((superfine sugar) (Note 1))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg ((large))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "milk ((full cream or low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine Egg Mixture in a bowl with a flat base large enough to lie the roll up in. Whisk to combine."
+    },
+    {
+      "order": 2,
+      "instruction": "Spread sugar out in a small dish."
+    },
+    {
+      "order": 3,
+      "instruction": "Use a rolling pin to roll the bread flat. This makes them easier to roll up (and stay rolled up)."
+    },
+    {
+      "order": 4,
+      "instruction": "Spread each piece of bread with around 3/4 tbsp of Nutella."
+    },
+    {
+      "order": 5,
+      "instruction": "Sprinkle strawberries along the bottom of each piece of bread."
+    },
+    {
+      "order": 6,
+      "instruction": "Roll up bread. The Nutella will keep it sealed."
+    },
+    {
+      "order": 7,
+      "instruction": "Melt butter in pan over medium high heat."
+    },
+    {
+      "order": 8,
+      "instruction": "Roll each roll up in the Egg Mixture, shake off excess then place in the pan. Repeat with remaining roll ups."
+    },
+    {
+      "order": 9,
+      "instruction": "Cook for around 4 minutes until each side is golden, rotating every 1 minute or so."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove from pan and immediately place in the sugar. Roll to coat in sugar, then remove. Repeat with remaining roll ups."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve immediately, while warm."
+    }
+  ]
+}

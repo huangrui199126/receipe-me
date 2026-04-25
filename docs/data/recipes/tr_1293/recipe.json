@@ -1,0 +1,179 @@
+{
+  "id": "tr_1293",
+  "title": "Oven Baked Chicken Quesadillas",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/Baked-Chicken-Quesadillas-7.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/oven-baked-chicken-quesadillas/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 16,
+  "tags": [],
+  "nutrition": {
+    "calories": 448,
+    "protein": 35.0,
+    "carbs": 22.8,
+    "fat": 24.3
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz   chicken (, cut into small bite size pieces (thigh, breast or tenderloin))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder (or sub with onion powder)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cayenne pepper ((or adjust to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "paprika powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt + black pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  small onion (, diced (brown, white, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red capsicum / bell pepper (, diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green capsicum / bell pepper (, diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  flour tortillas ((20cm/8\"))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "cups",
+      "name": "grated cheese, or more to taste ((tasty, cheddar, Monterey Jack, Pepper Jack or other melting cheese of choice) (Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Chicken ingredients in a bowl and mix to coat chicken."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in skillet over high heat. Add onion and garlic, cook for 1 minute. Then add capsicum and cook for 2 minutes until starting to soften. Transfer into bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Return skillet to the stove. Add chicken and cook until browned. Add to same bowl. Set aside until the filling cools (to speed it up, cover and refrigerate, and/or spread out on plate)."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven to 220C / 430F (standard) or 200C/390F (fan / convection)."
+    },
+    {
+      "order": 5,
+      "instruction": "Spray baking tray lightly with olive oil. Heat in the oven while you assemble the quesadillas."
+    },
+    {
+      "order": 6,
+      "instruction": "Divide the filling between the tortillas, covering half the surface. Top with cheese. Fold in half and press down gently but firmly."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove baking tray from oven. Transfer quesadillas onto tray (you should hear a soft sizzle)."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake for 8 minutes. Then turn the quesadillas (over the folded edge) then press down with the egg flip. Bake for a further 8 minutes or until the surface is crispy."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove from oven and serve immediately!"
+    }
+  ]
+}

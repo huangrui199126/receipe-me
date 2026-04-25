@@ -1,0 +1,178 @@
+{
+  "id": "tr_897",
+  "title": "Greek Marinated Chickpea Salad",
+  "image": "https://www.recipetineats.com/tachyon/2020/06/Chickpea-Salad_0-SQ.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chickpea-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "chickpea recipe",
+    "chickpea salad"
+  ],
+  "nutrition": {
+    "calories": 238,
+    "protein": 9.0,
+    "carbs": 22.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "800g/ 14oz  (2 cans) chickpeas, (well drained (Note 1))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "red wine vinegar ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced using garlic press)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dijon mustard ((or other non spicy smooth mustard))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "EACH salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "red wine vinegar ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250g/ 8oz   cherry or grape tomatoes (, halved (or 2 normal tomatoes))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "(packed) spinach,  (sliced 1/2 cm / 1/5&quot; thick (Note 4))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "100g/ 3oz  feta",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "chargrilled peppers (, drained and sliced 1cm / 1/3\" thick (optional, Note 5))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Shake Dressing in a jar."
+    },
+    {
+      "order": 2,
+      "instruction": "Place chickpeas in a microwaveable bowl. Toss with half the Dressing."
+    },
+    {
+      "order": 3,
+      "instruction": "Microwave 1 1/2 minutes, stirring every 30 seconds, until warmed through."
+    },
+    {
+      "order": 4,
+      "instruction": "Set aside 20 minutes to marinate (warm chickpeas = absorbs flavour)."
+    },
+    {
+      "order": 5,
+      "instruction": "Mix ingredients in a bowl, set aside 30 minutes until onion is wilted. Drain."
+    },
+    {
+      "order": 6,
+      "instruction": "Speedy option: microwave for 2 minutes until hot, cool 10 minutes then use."
+    },
+    {
+      "order": 7,
+      "instruction": "Place spinach in a big bowl, add marinated chickpeas (including all residual Dressing in the bowl). Add tomatoes, pickled onion and peppers, if using."
+    },
+    {
+      "order": 8,
+      "instruction": "Pour over remaining Dressing, toss well. Transfer to serving plate, crumble over feta, serve!"
+    }
+  ]
+}

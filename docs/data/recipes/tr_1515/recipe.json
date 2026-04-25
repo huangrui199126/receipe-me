@@ -1,0 +1,96 @@
+{
+  "id": "tr_1515",
+  "title": "Cheesy Bacon Holiday Crack.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/11/Sweet-and-Savory-Cheesy-Bacon-Holiday-Crack-7.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/cheesy-bacon-holiday-crack/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "bacon",
+    "cheese",
+    "festive",
+    "holidays"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 9.0,
+    "carbs": 14.0,
+    "fat": 22.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "10",
+      "unit": "slices",
+      "name": "thick cut bacon (chopped)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bag Kettle Brand Black Pepper or Sea Salt Potato Chips",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded cheddar cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "maple syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2-1 teaspoon cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "rosemary (for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 350 degrees F. Line a baking sheet with parchment paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook the bacon in a large skillet over high heat until the fat renders and the bacon is just beginning to crisp, about 5-6 minutes. Slide the bacon out onto a paper towel lined plate to drain."
+    },
+    {
+      "order": 3,
+      "instruction": "Arrange the potato chips on the prepared baking sheet and sprinkle the brown sugar evenly over the chips. Now drizzle the maple evenly over the chips. Add the cheese and bacon. Sprinkle on the cayenne pepper. Transfer to the oven and bake for 10-15 minutes or until the bacon is crisp and the cheese is melted. Remove and break the chips into pieces. Serve warm or at room temperature. Keep any leftovers stored in the fridge."
+    }
+  ]
+}

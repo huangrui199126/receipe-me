@@ -1,0 +1,158 @@
+{
+  "id": "tr_899",
+  "title": "Christmas Appetiser: Italian Cheese Loaf",
+  "image": "https://www.recipetineats.com/tachyon/2018/12/Italian-Cheese-Log-Christmas-Appetizer_6a.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/christmas-appetiser-italian-cheese-log/",
+  "servings": 15,
+  "prepTime": 20,
+  "cookTime": 0,
+  "tags": [
+    "christmas appetiser",
+    "italian starter"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 9.0,
+    "carbs": 6.0,
+    "fat": 24.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1 lb   cream cheese (, softened (Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "sour cream ((Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "EACH thyme, oregano, basil, rosemary, black pepper  (OR 1 tsp Italian Seasoning)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "EACH garlic powder, salt, red pepper/chilli flakes ((adjust to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cup",
+      "name": "cheddar or other cheese (, freshly grated (Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "280",
+      "unit": "g",
+      "name": "/ 9 oz   roasted peppers (, drained and finely chopped)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "180",
+      "unit": "g",
+      "name": "/ 6 oz   salami (, finely chopped (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "green olives (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "green onion (, finely minced (3 - 4 stalks))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "220",
+      "unit": "g",
+      "name": "/ 7 oz   sun dried tomato strips with OIL (, roughly chopped)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "parsley (, finely chopped  (or chives))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rosemary sprigs ((decoration))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Jatz or other crackers (, for serving)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Spray a loaf pan with oil then line with cling wrap with overhang."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix Cheese Log ingredients together. Taste and adjust salt if needed (bear in mind saltiness of crackers you are serving with)."
+    },
+    {
+      "order": 3,
+      "instruction": "Scrape into loaf pan and level surface, pressing to remove air pockets. Smaller pan = taller loaf."
+    },
+    {
+      "order": 4,
+      "instruction": "Cover with cling wrap overhang and refrigerate for 4 hours+ (up to 1 week)."
+    },
+    {
+      "order": 5,
+      "instruction": "Turn out onto platter, peel off cling wrap."
+    },
+    {
+      "order": 6,
+      "instruction": "Top with sun dried tomato and pour over oil. Garnish with parsley and rosemary sprigs to give it a festive look."
+    },
+    {
+      "order": 7,
+      "instruction": "Best to serve closer to room temp than fridge cold. Serve with crackers! Knives for smearing optional - it's soft enough to scoop with crackers."
+    }
+  ]
+}

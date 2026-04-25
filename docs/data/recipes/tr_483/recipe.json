@@ -1,0 +1,187 @@
+{
+  "id": "tr_483",
+  "title": "Pasta alla Norma (Eggplant pasta)",
+  "image": "https://www.recipetineats.com/tachyon/2020/11/Pasta-alla-norma-eggplant-pasta_6-SQ.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pasta-alla-norma-eggplant-pasta/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 45,
+  "tags": [
+    "eggplant pasta",
+    "pasta alla norma",
+    "roasted eggplant"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 15.0,
+    "carbs": 83.0,
+    "fat": 16.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 1.6 lb  eggplant (, cut into 2.5cm/1&quot; cubes (2 medium/large ones))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  small onion (, very finely chopped (or 2 eschallots))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "dry white wine (, anything not too sweet or woody (Note 1))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 24 oz  tomato passata ((aka tomato puree, Note 2))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried Italian herbs (or oregano)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "red pepper flakes (, optional (for a hint of heat))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10 oz  spaghetti or other pasta, long or short  ((macaroni, rigatoni, penne, ziti, fettucini, bucatini))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "basil leaves (, roughly chopped (Note 3))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan cheese (, grated (or ricotta salata if you have it - more traditional))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 240°C / 450°F (220°C fan). Line a tray with baking / parchment paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss eggplant with oil, salt and pepper. Spread on the tray and roast for 20 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Flip, then roast for a further 5 minutes. Cool on tray (this helps the eggplant hold its shape when tossing)."
+    },
+    {
+      "order": 4,
+      "instruction": "Bring a large pot of salted water to the boil. Start cooking the pasta a couple of minutes after you start making the sauce (next section), until al dente or to your liking."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat oil in a very large skillet over medium heat. Add garlic, cook for 20 seconds until golden, then add onion and cook for 2 to 3 minutes until translucent and cooked through."
+    },
+    {
+      "order": 6,
+      "instruction": "Increase heat to medium-high and add wine, if using. Let it simmer, scraping the base of the pan to deglaze, until the wine mostly evaporates."
+    },
+    {
+      "order": 7,
+      "instruction": "Add tomato passata. Now pour the water into the passata bottle, screw on the lid, shake, and pour that in too (waste nothing!)"
+    },
+    {
+      "order": 8,
+      "instruction": "Add dried herbs, red pepper flakes, salt and pepper. Stir and simmer 5 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Stir in eggplant, then add cooked and drained pasta. GENTLY toss until pasta is coated in the sauce (so the eggplant doesn&#039;t turn into complete mush!)."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve immediately, garnished with a good pinch of fresh basil and parmesan."
+    }
+  ]
+}

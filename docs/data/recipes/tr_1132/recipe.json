@@ -1,0 +1,119 @@
+{
+  "id": "tr_1132",
+  "title": "Monte Cristo Sandwich (Ham Cheese French Toast)",
+  "image": "https://www.recipetineats.com/tachyon/2015/12/Monte-Cristo_PS_1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/monte-cristo-ham-cheese-french-toast-sandwich/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 8,
+  "tags": [],
+  "nutrition": {
+    "calories": 442,
+    "protein": 23.8,
+    "carbs": 31.7,
+    "fat": 25.1
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "bread of choice ((Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg or 2 small eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "mayonnaise ((I like whole egg mayo))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 4 slices gruyere cheese ((or other grated or sliced melting cheese of choice))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Ham or turkey (, sliced or shaved)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Lightly whisk egg, milk and a generous pinch of salt in a flat bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Spread 2 slices of bread with mayonnaise."
+    },
+    {
+      "order": 3,
+      "instruction": "Top with ham, then cheese, then sandwich with remaining slices of bread. Press down firmly."
+    },
+    {
+      "order": 4,
+      "instruction": "Melt butter in a skillet over medium heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Dip each side of the sandwiches briefly in the egg mixture, then place in skillet."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook the first side, pressing down with an egg flip, for 3 minutes or until deep golden brown."
+    },
+    {
+      "order": 7,
+      "instruction": "Flip and cook the other side for 3 minutes, pressing down firmly with the egg flip, until golden brown and the cheese is melted."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve immediately, while hot!"
+    }
+  ]
+}

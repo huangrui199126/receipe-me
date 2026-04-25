@@ -1,0 +1,175 @@
+{
+  "id": "tr_771",
+  "title": "Pineapple Fried Rice (Thai)",
+  "image": "https://www.recipetineats.com/tachyon/2020/06/Pineapple-Fried-Rice_1-SQ.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pineapple-fried-rice-thai/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "pineapple fried rice",
+    "thai fried rice",
+    "thai pineapple fried rice"
+  ],
+  "nutrition": {
+    "calories": 187,
+    "protein": 4.0,
+    "carbs": 35.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red capsicum / bell peppers (, diced (~ 3/4 cup))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "peas (, frozen)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "day old jasmine rice (, cooked (Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "pineapple pieces (, fresh or canned drained (~ 220g) (Note 2))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "green onion (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "soy sauce (, light or all purpose (not dark soy))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Thai Seasoning (Gold Mountain)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a wok or large non stick skillet over high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Add garlic and onion, cook for 1 minute."
+    },
+    {
+      "order": 3,
+      "instruction": "Add capsicum, cook for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Add peas, stir for 30 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Add rice and Sauce ingredients of choice. Cook, stirring constantly, for 2 minutes or until rice grains goes from being wet with sauce to sort of caramelised."
+    },
+    {
+      "order": 6,
+      "instruction": "Add pineapple, stir for just 30 seconds to warm through."
+    },
+    {
+      "order": 7,
+      "instruction": "Stir through green onions then serve!"
+    }
+  ]
+}

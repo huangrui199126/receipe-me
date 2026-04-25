@@ -1,0 +1,111 @@
+{
+  "id": "tr_786",
+  "title": "Smoked Salmon Dip",
+  "image": "https://www.recipetineats.com/tachyon/2017/12/Smoked-Salmon-Dip-5a.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/smoked-salmon-dip/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 145,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7 oz   smoked salmon ((or trout))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7 oz   Philadelphia cream cheese (, full fat)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 55g  sour cream ((Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 60g  mayonnaise ((Note 1, 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh dill (, roughly chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "lemon zest ((1 lemon))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place all ingredients in a food processor, starting with 1 tbsp lemon juice. Only use a small pinch of salt to start because smoked salmon is salty, also bear in mind saltiness of crackers being used."
+    },
+    {
+      "order": 2,
+      "instruction": "Whizz until fairly smooth - about 10 seconds on high - scraping sides as required."
+    },
+    {
+      "order": 3,
+      "instruction": "Adjust lemon and salt to taste. Whizz again briefly."
+    },
+    {
+      "order": 4,
+      "instruction": "Transfer into bowl, garnish with lemon slices and more dill if desired. Serve at room temperature with crackers - I like using melba toasts and mini crostinis."
+    }
+  ]
+}

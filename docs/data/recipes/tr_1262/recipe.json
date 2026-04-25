@@ -1,0 +1,189 @@
+{
+  "id": "tr_1262",
+  "title": "Nutella Cheesecake (No Bake)",
+  "image": "https://www.recipetineats.com/tachyon/2021/03/Nutella-Cheesecake_2.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/nutella-cheesecake-no-bake/",
+  "servings": 12,
+  "prepTime": 30,
+  "cookTime": 0,
+  "tags": [
+    "baked cheesecake",
+    "no bake cheesecake",
+    "nutella cake",
+    "nutella cheesecake",
+    "nutella dessert"
+  ],
+  "nutrition": {
+    "calories": 635,
+    "protein": 8.0,
+    "carbs": 41.0,
+    "fat": 50.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/ 7oz  Oreo cookies ((1.5 standard packs, Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 4 tbsp  unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "gelatine powder ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  cream cheese (, softened (block form, Note 3))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "soft icing sugar / powdered sugar ((Note 4))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "Nutella ((Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "heavy/thickened cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "heavy/thickened cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Nutella",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "dark chocolate chips/semi-sweet chocolate chips",
+      "emoji": "🍫",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "hazelnuts (, lightly toasted then chopped (Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "heavy/thickened cream ((for whipping))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Nutella (, warmed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare pan: Flip the base of a 20cm / 8&quot; springform pan upside down – this makes it easier to remove the finished cheesecake without the lip in the way. Butter pan base, then press on a square sheet of baking paper. Clip the pan sides onto the base, letting the excess paper overhang. Butter and line the pan sides with more baking paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Blitz cookies: Roughly break up Oreos with hands and place in food processor. Blitz until they become fine crumbs. Add melted butter, then blitz again until combined."
+    },
+    {
+      "order": 3,
+      "instruction": "Press into pan: Transfer crumbs into prepared pan, pressing evenly and firmly on to the base (I use the underside of a straight-sided, flat-bottomed cup measure to do this)."
+    },
+    {
+      "order": 4,
+      "instruction": "Bloom gelatine: Place water in a small bowl then sprinkle the gelatine powder across the surface. Stir to partly dissolve. Set aside 5 minutes. It will turn thick; this process is called blooming. Microwave the gelatine for 15 seconds to turn it into liquid, stir, then let it stand for 5 minutes to cool."
+    },
+    {
+      "order": 5,
+      "instruction": "Cream cheese and Nutella mixture: Beat cream cheese, Nutella and icing sugar until smooth. Add the cooled gelatine liquid and beat another 30 seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Whip cream: In a separate bowl, whip the cream until stiff peaks form."
+    },
+    {
+      "order": 7,
+      "instruction": "Fold in cream: Add one third of the whipped cream to the Nutella mixture and gently fold until just combined. Fold in another third of the cream the same way. Then fold in the remaining cream."
+    },
+    {
+      "order": 8,
+      "instruction": "Transfer to cake pan: Pour the mixture into the prepared tin and place back in the fridge for at least 1 hour to set."
+    },
+    {
+      "order": 9,
+      "instruction": "Nutella ganache: Place cream, Nutella and chocolate chips into a heatproof bowl. Microwave in two 30-second bursts, stirring in between, until smooth."
+    },
+    {
+      "order": 10,
+      "instruction": "Pour ganache onto cheesecake: Allow ganache to cool for 5 minutes, then pour over the set cheesecake base. Tilt pan to spread it over the surface evenly."
+    },
+    {
+      "order": 11,
+      "instruction": "Refrigerate cheesecake at least 3 hours before sprinkling with hazelnuts (otherwise they sink into the cake!)"
+    },
+    {
+      "order": 12,
+      "instruction": "Decorate: Sprinkle over hazelnuts. Pipe dollops of whipped cream around the edge, then drizzle with warm Nutella. Slice greedy-sized wedges and devour!"
+    }
+  ]
+}

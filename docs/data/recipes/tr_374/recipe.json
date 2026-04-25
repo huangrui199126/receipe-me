@@ -1,0 +1,146 @@
+{
+  "id": "tr_374",
+  "title": "Garlic Prawns (Shrimp!)",
+  "image": "https://www.recipetineats.com/tachyon/2020/03/Garlic-Prawns_4-SQ.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/garlic-prawns-shrimp/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 6,
+  "tags": [
+    "garlic prawns",
+    "garlic shrimp"
+  ],
+  "nutrition": {
+    "calories": 311,
+    "protein": 26.0,
+    "carbs": 2.0,
+    "fat": 21.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1lb  prawns (shrimp) (, peeled and deveined, tail on (unpeeled weight 1kg/2lb, Note 1))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/koshfer salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil ((separated))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "finely minced garlic cloves (~ 4 cloves) ((use knife, not crusher/mincer))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "40",
+      "unit": "g",
+      "name": "/ 3 tbsp  unsalted butter (, cut into 1.5cm / 1/2&quot; cubes (Note 2))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "chardonnay or other dry white wine ((Note 3))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "parsley, finely chopped ((garnish))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Bread for mopping!",
+      "emoji": "🍞",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinade: Place the prawns, 1 tablespoon olive oil and pepper in bowl. Gently toss then set aside for 20 minutes (no longer else the prawns will sweat from the salt),."
+    },
+    {
+      "order": 2,
+      "instruction": "Sear in batches: Heat 1 tablespoon olive oil in a large non-stick frying pan over high heat. Place half the prawns in the pan then sear each side for just 45 seconds, using tongs to turn."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove &amp; repeat: Remove prawns onto a plate, heat the last 1 tablespoon of oil and cook each side for 45 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Return first batch of prawns back into pan."
+    },
+    {
+      "order": 5,
+      "instruction": "Garlic - Add garlic then stir for 30 seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Add wine - it will sizzle and be steamy! Stir, scraping the bottom of the pan, until wine mostly evaporates - around 30 seconds."
+    },
+    {
+      "order": 7,
+      "instruction": "Butter &amp; lemon: Scatter butter across pan, add lemon juice. Swirl butter around the pan until it melts, then toss through the parsley."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve: Transfer the prawns and all the butter sauce onto a serving plate. Serve with extra lemon wedges. Bread for mopping is essential - try this simple Crusty Artisan Bread!"
+    }
+  ]
+}

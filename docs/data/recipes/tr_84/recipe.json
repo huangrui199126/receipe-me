@@ -1,0 +1,207 @@
+{
+  "id": "tr_84",
+  "title": "Mexican Breakfast Tacos (Chorizo and Egg)",
+  "image": "https://www.recipetineats.com/tachyon/2015/02/Mexican-Eggs-and-Chorizo-Breakfast-Tacos-1.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mexican-breakfast-tacos-chorizo-and-egg/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 413,
+    "protein": 20.1,
+    "carbs": 12.7,
+    "fat": 31.7
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2   tomatoes (, deseeded and diced)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice ((adjust to taste) (around 1 lime))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "7",
+      "unit": "oz",
+      "name": "/ 200g   Mexican or raw Spanish chorizo (, removed from casings (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  birds eye chilies (, deseeded and finely chopped (adjust to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 small  onion ((brown, yellow, white))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 large  eggs (, lightly whisked (or 6 small eggs))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 small  tortillas (, corn or flour (around 6\" / 12 cm rounds))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cotija or feta (, crumbled)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Avocado (, diced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cilantro/coriander leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine Pico de gallo ingredients EXCEPT THE SALT in a bowl and set aside while you prepare the rest of the breakfast."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook Chorizo: Heat olive oil in a non stick fry pan over high heat. Add the chorizo and cook, breaking up the pieces, until browned. Remove chorizo into a bowl. Drain excess fat but leave enough to cook the eggs."
+    },
+    {
+      "order": 3,
+      "instruction": "Make the Eggs: Reduce heat to medium. Add garlic, chilies and onion to the pan and sauté for 2 to 3 minutes until translucent and starting to turn golden. Add the eggs and milk and stir slowly with a wooden spoon until the eggs start to set. Remove the pan from the stove while they are still a bit wet because they will keep cooking. Stir through salt and pepper - adjust to taste."
+    },
+    {
+      "order": 4,
+      "instruction": "Warm tortillas in the microwave or oven, per packet instructions."
+    },
+    {
+      "order": 5,
+      "instruction": "Add salt to pico de gallo and toss."
+    },
+    {
+      "order": 6,
+      "instruction": "Assemble: Place some scrambled eggs in a tortilla then top with chorizo then pico de gallo. Garnish with cotija / feta, avocado and coriander/cilantro leaves."
+    }
+  ]
+}

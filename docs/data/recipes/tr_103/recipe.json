@@ -1,0 +1,123 @@
+{
+  "id": "tr_103",
+  "title": "Ricotta and Spinach Puff Pastry Bites",
+  "image": "https://www.recipetineats.com/tachyon/2015/04/Cheese-Spinach-Puffs-2_680px.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spinach-ricotta-puffs/",
+  "servings": 15,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5.0,
+    "carbs": 6.8,
+    "fat": 8.1
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "7",
+      "unit": "oz",
+      "name": "/ 200g   ricotta ((preferably full fat but low fat also works) (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250g   frozen chopped spinach (, thawed and squeezed of excess water)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "grated cheddar cheese ((or tasty or gruyere or any other melting cheese with flavour))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "sheets",
+      "name": "puff pastry ((25cm/10\" square), defrosted)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg (, lightly beaten (egg wash))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Spray 2 standard muffin / cupcake tins with oil."
+    },
+    {
+      "order": 3,
+      "instruction": "Place egg in a bowl and lightly whisk. Add remaining Filling ingredients and mix to combine. Taste and adjust salt to taste."
+    },
+    {
+      "order": 4,
+      "instruction": "Cut each pastry into 9 equal pieces (18 in total). You probably won't use 3 pieces."
+    },
+    {
+      "order": 5,
+      "instruction": "Mould 15 pieces of pastry into the muffin tins."
+    },
+    {
+      "order": 6,
+      "instruction": "Divide the Filling between each, then bring the four corners into the centre and press down to stick together. Don't overfill otherwise you won't be able to seal the pastries or they will burst open when baking (which regularly happens with mine)."
+    },
+    {
+      "order": 7,
+      "instruction": "Brush with egg wash, then bake for 15 to 20 minutes or until deep golden brown."
+    },
+    {
+      "order": 8,
+      "instruction": "Allow to rest for 5 minutes before removing."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve warm or cool."
+    }
+  ]
+}

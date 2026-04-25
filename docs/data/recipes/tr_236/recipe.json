@@ -1,0 +1,145 @@
+{
+  "id": "tr_236",
+  "title": "Fragrant Chickpea Rice Pilaf",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/DSC_01091-680x680-1.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chickpea-rice-pilaf/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "chickpea pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "uncooked basmati rice ((or long grain or wild rice))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "water ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2 tins (21 oz / 600g)   chickpeas (, drained, but still wet)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garam masala ((Note 1 for substitutions))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "parsley leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander / cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "sultanas or currents",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fried shallots (, store bought (Note 3))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Steam rice - Combine rice, water and 1/2 tsp salt in a medium saucepan over high heat. Bring to the boil (without the lid), then put the lid on and immediately turn the heat down to medium low (or low, for large burners). Simmer with the lid on for 12 minutes or until the water is absorbed. No stirring, no peeking! Remove from the heat (lid still on) and let it rest for 10 minutes - it will absorb the remaining water."
+    },
+    {
+      "order": 2,
+      "instruction": "Spiced chickpeas - While rice is cooking, combine chickpeas, 1/4 tsp salt, cumin and garam masala in a bowl, toss to coat. Heat 1 tbsp olive oil in large pan over high heat, add the chick peas and shake the pan every now and then for 1 minute. Alternatively, you can roast them in the oven at 350F/180C for 5 minutes. Set aside - you can leave them in the pan if you want."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss - After the rice has rested, combine with the chickpeas, parsley, coriander and sultanas, and a grind of black pepper. Some of the spice on the chickpeas will come off and disperse throughout the rice - this is supposed to happen. Adjust salt if necessary."
+    },
+    {
+      "order": 4,
+      "instruction": "Lastly, toss through the crispy shallots. Serve warm or at room temperature."
+    }
+  ]
+}

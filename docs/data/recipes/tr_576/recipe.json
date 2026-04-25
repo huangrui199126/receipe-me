@@ -1,0 +1,182 @@
+{
+  "id": "tr_576",
+  "title": "Homemade Heinz Baked Beans",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/Homemade-Heinz-Baked-Beans_0-SQ.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/homemade-baked-beans-recipe-heinz/",
+  "servings": 8,
+  "prepTime": 5,
+  "cookTime": 30,
+  "tags": [
+    "baked beans from scratch",
+    "baked beans recipe"
+  ],
+  "nutrition": {
+    "calories": 228,
+    "protein": 13.0,
+    "carbs": 43.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(14 oz)  dried Navy beans (aka Haricot)  (or other white beans)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 x 400g/14oz cans harricot/navy beans, cannellini or any white beans (, drained )",
+      "emoji": "🫘",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken stock/broth (, low sodium, OR homemade vegetable stock (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "ketchup or Aussie/British tomato sauce ((Note 3))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder ((or more onion powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder ((or more garlic powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "8",
+      "unit": "tsp",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "No need to do these steps if using canned beans, start with Step 1 under &quot;Baked Beans&quot; below."
+    },
+    {
+      "order": 2,
+      "instruction": "Soak beans in a big bowl of water for 8 - 24 hrs, then drain."
+    },
+    {
+      "order": 3,
+      "instruction": "Skim foam - Place beans in a large pot of water over high heat. Bring to a simmer, then skim off foam."
+    },
+    {
+      "order": 4,
+      "instruction": "Simmer Reduce heat so it&#39;s simmering gently (medium or medium low). Partially cover with lid (leaving a crack for steam to escape), then cook for 1 - 1.5 hrs until just tender. (Start checking at 45 min). Beans should be still slightly firm on inside (they&#39;re cooked more in the sauce). Drain, use per recipe."
+    },
+    {
+      "order": 5,
+      "instruction": "Mix - Place all Baked Beans ingredients in a pot (except beans) and stir, then add beans."
+    },
+    {
+      "order": 6,
+      "instruction": "Simmer - Bring to a simmer, then lower heat to medium low and simmer for 20 minutes, without the lid. Stir every now and then so the beans don&#039;t catch on the bottom of the pot."
+    },
+    {
+      "order": 7,
+      "instruction": "Mix cornflour with water. Pour into pot while stirring, then cook for 2 minutes until sauce thickens - it will thicken quickly. (Note 3)"
+    },
+    {
+      "order": 8,
+      "instruction": "Check for salt: Taste and add more salt if needed."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve it the traditional way - piled over hot buttered toast. Or ladle into bowls, eat with a spoon and dunk in hot crusty bread! Popular breads - simple crusty Artisan bread, Irish Soda Bread (No yeast) and No Yeast Sandwich Bread"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "tr_921",
+  "title": "Paris Mash (Rich & Creamy Mashed Potato)",
+  "image": "https://www.recipetineats.com/tachyon/2018/12/Paris-Mash_Creamy-Mashed-Potato_1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/paris-mash-creamy-mashed-potato/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 45,
+  "tags": [
+    "creamy mashed potato",
+    "paris mash"
+  ],
+  "nutrition": {
+    "calories": 282,
+    "protein": 5.0,
+    "carbs": 21.0,
+    "fat": 20.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb   Dutch Cream, Desiree, Yukon Gold or Maris Piper potatoes (Note 1)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "150 - 200 g / 5 - 7 oz   cold unsalted butter (, cut into 1.5cm / 1/2\" cubes (Note 2))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 3/4 cup (125 - 185ml) milk (, warmed (Note 3))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Softened butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Scrub potatoes clean."
+    },
+    {
+      "order": 2,
+      "instruction": "Place potatoes in a large pot and cover with cold water. Bring to the boil then reduce heat and simmer for 30 to 40 minutes until the potatoes are very soft (depends on size)."
+    },
+    {
+      "order": 3,
+      "instruction": "Alternatively, peel then chop into 2.5cm / 1\" cubes (Note 4), cook 12 to 15 minutes until soft."
+    },
+    {
+      "order": 4,
+      "instruction": "Drain potatoes and return empty pot to stove."
+    },
+    {
+      "order": 5,
+      "instruction": "Using tea towels to handle the hot potatoes, peel them using a small knife (skin should slide off pretty easily)."
+    },
+    {
+      "order": 6,
+      "instruction": "Mash the potatoes using one of these methods: Press them through a potato ricer or a food mill / grinder fitted with the finest disc, or mash in the pot using a potato masher (preferably with round holes, yields a similar result to potato ricer)."
+    },
+    {
+      "order": 7,
+      "instruction": "Pro step: Then pass the potato through a drum sieve for 100% smooth mashed potato, like you get at restaurants. I do not do this (read in post)"
+    },
+    {
+      "order": 8,
+      "instruction": "Turn stove on low and stir mashed potato for 1 minute (evaporate excess water)."
+    },
+    {
+      "order": 9,
+      "instruction": "Add a few cubes of butter and a little splash of milk. Stir until butter melts and is incorporated."
+    },
+    {
+      "order": 10,
+      "instruction": "Repeat until all butter is used up, using milk to adjust the consistency to your desired taste towards the end. It should be soft and creamy, almost pourable."
+    },
+    {
+      "order": 11,
+      "instruction": "Season to taste with salt."
+    },
+    {
+      "order": 12,
+      "instruction": "Pour into serving bowl. Use a spoon to create swirls on the surface, top with small dollop of butter and a tiny sprinkle of parsley. Serve immediately!"
+    }
+  ]
+}

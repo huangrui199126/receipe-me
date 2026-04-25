@@ -1,0 +1,294 @@
+{
+  "id": "tr_351",
+  "title": "Spinach Ricotta Cannelloni",
+  "image": "https://www.recipetineats.com/tachyon/2017/09/Spinach-Ricotta-Cannelloni-1-copy-1.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spinach-ricotta-cannelloni/",
+  "servings": 5,
+  "prepTime": 25,
+  "cookTime": 35,
+  "tags": [
+    "cannelloni",
+    "spinach and ricotta cannelloni"
+  ],
+  "nutrition": {
+    "calories": 531,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bay leaf (, fresh (sub dried))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each dried thyme and oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 28 oz   canned crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "vegetable or chicken stock/broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "Chardonnay or other dry white wine ((sub more stock))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/3",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "basil leaves (, roughly torn (recommended but not critical))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   frozen chopped spinach (, thawed (Note 1))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   ricotta (, full fat please (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "parmesan (, finely shredded)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded cheese ((Mozzarella, Colby, Cheddar, Tasty, Gruyere, Swiss))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Grated fresh nutmeg (just a sprinkling) ( or 1/8 tsp nutmeg powder (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "18 - 22  dried cannelloni tubes (250g pack) (or 14 manicotti tubes (8.8 oz) (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "parmesan (, finely shredded)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "shredded Mozzarella",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "More basil and parmesan (, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté - Heat oil in a small pot over medium high heat. Add garlic, onion, bay leaf, thyme and oregano. Cook for 3 - 4 minutes until the onion is translucent. Add tomato paste and cook for 1 minute."
+    },
+    {
+      "order": 2,
+      "instruction": "Reduce wine - Add wine, increase heat to high and let it simmer rapidly until mostly evaporated (about 2 minutes)."
+    },
+    {
+      "order": 3,
+      "instruction": "Simmer - Add tomatoes, stock, sugar, salt and pepper. Stir then simmer on medium low for 20 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Blitz - Remove bay leaf then blitz with a stick blender until smooth. Simmer for 1 more minute then remove from the stove"
+    },
+    {
+      "order": 5,
+      "instruction": "Basil - Stir in basil then cover to keep warm until required."
+    },
+    {
+      "order": 6,
+      "instruction": "Squeeze spinach - Place spinach in a colander and press out most of the liquid (don&#39;t need to thoroughly squeeze dry)."
+    },
+    {
+      "order": 7,
+      "instruction": "Mix filling - Place Spinach in bowl with remaining Filling ingredients. Mix, taste, adjust salt and pepper to taste (different cheeses have different saltiness)."
+    },
+    {
+      "order": 8,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan)."
+    },
+    {
+      "order": 9,
+      "instruction": "Pan - Choose a baking pan which will comfortably fit about 20 cannelloni - mine is 21 x 26 cm / 8.5 x 10.5&quot;."
+    },
+    {
+      "order": 10,
+      "instruction": "Smear - Spread 1 cup of Sauce on the base (stops cannelloni from sliding around)."
+    },
+    {
+      "order": 11,
+      "instruction": "Fill tubes - Transfer Filling to a piping bag with a large nozzle (that fits in the tubes), or use a strong ziplock bag. Or do this step using a knife (it&#39;s a bit tedious though!). Pipe the filling into the tubes."
+    },
+    {
+      "order": 12,
+      "instruction": "Assemble - Place cannelloni in baking dish. Pour over remaining Sauce, covering all the tubes."
+    },
+    {
+      "order": 13,
+      "instruction": "Bake covered (but naked) - Cover with foil, then bake for 30 minutes."
+    },
+    {
+      "order": 14,
+      "instruction": "Cheese it! Remove foil, scatter over parmesan then mozzarella. Return to oven for 15 minutes until cheese is melted."
+    },
+    {
+      "order": 15,
+      "instruction": "Serve, garnished with extra parmesan and basil if desired."
+    }
+  ]
+}

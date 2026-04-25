@@ -1,0 +1,131 @@
+{
+  "id": "tr_22",
+  "title": "Jamie Oliver's Chicken in Milk {Seriously Delish}",
+  "image": "https://www.recipetineats.com/tachyon/2014/12/Chicken-in-Milk-1445.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/jamie-olivers-chicken-milk-seriously-delish/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 100,
+  "tags": [],
+  "nutrition": {
+    "calories": 466,
+    "protein": 61.3,
+    "carbs": 6.2,
+    "fat": 20.4
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 3.5 lb / 1.5 - 1.8 kg   whole chicken",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "salt ((plus more to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  stick cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "loosely packed fresh sage leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  lemons (, zest only (avoid grating the pith which is bitter))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "10",
+      "unit": "cloves",
+      "name": "of garlic (, whole, skin on)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "milk ((I used low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 190C/375F."
+    },
+    {
+      "order": 2,
+      "instruction": "Wash the chicken under water and pat dry with paper towels."
+    },
+    {
+      "order": 3,
+      "instruction": "Sprinkle over the salt and 5 grinds of black pepper and pat all over the chicken, concentrating on the top and sides."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil in a heavy based pot over high heat. (Note 1)"
+    },
+    {
+      "order": 5,
+      "instruction": "Brown the chicken all over as best you can. I find the easiest way to do this (and minimising skin tearing) is with tongs stuck in the rear of the chicken and a wooden spoon to lift and leverage the chicken. Tilt the chicken as required to brown as much of the skin as you can. (Note 2)"
+    },
+    {
+      "order": 6,
+      "instruction": "If you can manage it (or if you have a helper), pour the excess fat out of the pot with the chicken still in it. If you can't, remove the chicken onto a plate, then drain the fat."
+    },
+    {
+      "order": 7,
+      "instruction": "Add the remaining ingredients into the pot (return the chicken to the pot if you removed it)."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake covered for 40 minutes, then bake uncovered for 50 minutes (1.5 hrs in total)."
+    },
+    {
+      "order": 9,
+      "instruction": "Let stand for 5 minutes or so before removing the chicken from the pot onto a serving plate. Serve the sauce on the side. I prefer not to strain it because I want the bits of curd and garlic on my chicken, as well as bits of sage."
+    }
+  ]
+}

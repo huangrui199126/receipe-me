@@ -1,0 +1,162 @@
+{
+  "id": "tr_434",
+  "title": "Scones",
+  "image": "https://www.recipetineats.com/tachyon/2018/04/Scones_2-2-SQ.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/plain-scones/",
+  "servings": 10,
+  "prepTime": 10,
+  "cookTime": 12,
+  "tags": [
+    "scone recipe",
+    "scones"
+  ],
+  "nutrition": {
+    "calories": 233,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "/ 450g   self raising flour ((Note 1))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "80",
+      "unit": "g",
+      "name": "/ 3 oz  cold salted butter (, cut into 1 cm / 2/5\" cubes (Note 2))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 250 ml  milk, fridge cold (Note 2)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra flour (, for dusting)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra milk (, for brushing)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Strawberry jam ((or other of choice))",
+      "emoji": "🍓",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "250",
+      "unit": "ml",
+      "name": "/ 1 cup   whipping cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "vanilla extract ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200C/390F (standard) or 180C/350F (fan / convection)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place flour in food processor, then butter. Blitz on high for 8 seconds until it resembles breadcrumbs."
+    },
+    {
+      "order": 3,
+      "instruction": "Pour milk all over the flour (don't pour in one place). Blitz for 6 to 8 seconds on high until the crumbs turn into ball(s)."
+    },
+    {
+      "order": 4,
+      "instruction": "Transfer dough onto work surface, scrape out residual bits in the food processor."
+    },
+    {
+      "order": 5,
+      "instruction": "Knead lightly no more than 10 times just to bring the dough together into one smooth ball, then pat down into a 2 cm / 4/5\" thick disc. Dust with extra flour if necessary (I don't need it)."
+    },
+    {
+      "order": 6,
+      "instruction": "Optional: Lightly roll across the top with a rolling pin to smooth the top."
+    },
+    {
+      "order": 7,
+      "instruction": "Dip a 5 cm / 2\" round cutter into Extra Flour."
+    },
+    {
+      "order": 8,
+      "instruction": "Plunge cutter straight down and back out into dough - do not twist. Repeat all over disc.&nbsp;"
+    },
+    {
+      "order": 9,
+      "instruction": "Remove excess dough from around scones, then carefully transfer scones onto baking tray, taking care not to smear / press the cut sides. (Note 4)"
+    },
+    {
+      "order": 10,
+      "instruction": "Gather together dough scraps and repeat. I get 10 scones in total."
+    },
+    {
+      "order": 11,
+      "instruction": "Brush tops lightly with milk. (Optional)"
+    },
+    {
+      "order": 12,
+      "instruction": "Bake for 10 to 12 minutes until the top is golden and it sounds hollow when tapped."
+    },
+    {
+      "order": 13,
+      "instruction": "Remove from oven, then transfer onto dish towel and wrap loosely (makes top soft)."
+    },
+    {
+      "order": 14,
+      "instruction": "Once cooled to warm (10 - 15 minutes), serve warm."
+    },
+    {
+      "order": 15,
+      "instruction": "Tradition is to split the scone with hands (no knife!), slather with jam and dollop on cream."
+    },
+    {
+      "order": 16,
+      "instruction": "Whip cream, sugar and vanilla until soft peaks form. Makes 2 cups of whipped cream."
+    }
+  ]
+}

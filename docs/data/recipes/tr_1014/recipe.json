@@ -1,0 +1,170 @@
+{
+  "id": "tr_1014",
+  "title": "Chinese Rice Soup",
+  "image": "https://www.recipetineats.com/tachyon/2020/10/Chinese-Rice-Soup_0-SQ.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-rice-soup/",
+  "servings": 3,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "asian soup broth",
+    "chinese rice soup"
+  ],
+  "nutrition": {
+    "calories": 243,
+    "protein": 20.0,
+    "carbs": 32.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "litre",
+      "name": "/ 32 oz  chicken stock/broth, low sodium ((Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, smashed (Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.5 cm / 1/2&quot;  ginger piece,  (cut into 3 slices)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "light soy sauce (, or normal all purpose soy sauce (Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine (, key ingredient (Note 4 subs))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4 - 1/2 tsp sesame oil (, toasted (optional) (Note 5))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "white pepper ((sub black, can omit))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "uncooked white rice (- long grain, medium grain, short grain, jasmine (Note 6))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 stems choy sum  (, cut into 2cm / 1&quot; lengths, stems separated from leaves (Note 8))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz  white fish fillets (, cut into 2.5cm / 1&quot; cubes (Note 8))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crispy fried shallots ((Note 9))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crunchy fried noodles (, pictured in post (Note 9))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chilli oil or paste",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine broth ingredients: Place chicken stock, soy sauce, Chinesse cooking wine, garlic and ginger in a small pot over high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Simmer to infuse: Place lid on, bring to simmer then reduce to medium and simmer for 5 minutes to allow the flavours to infuse."
+    },
+    {
+      "order": 3,
+      "instruction": "Add rice: Add rice and cook uncovered for 10 minutes - broth surface should be bubbling very gently."
+    },
+    {
+      "order": 4,
+      "instruction": "Add fish &amp; stems: Add fish and stems of choy sum, cook for 2 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Pick garlic and ginger out of soup."
+    },
+    {
+      "order": 6,
+      "instruction": "Stir through choy sum leaves (they will wilt almost instantly), sesame oil and pepper. Serve immediately."
+    }
+  ]
+}

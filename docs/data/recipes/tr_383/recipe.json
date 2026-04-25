@@ -1,0 +1,167 @@
+{
+  "id": "tr_383",
+  "title": "Honey Soy Chicken - Marinade and Sauce (excellent grilled!)",
+  "image": "https://www.recipetineats.com/tachyon/2020/06/Honey-Soy-Chicken_4-Square.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/honey-soy-chicken-marinade-sauce-grilled/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "grilled chicken",
+    "honey garlic chicken",
+    "honey soy chicken"
+  ],
+  "nutrition": {
+    "calories": 353,
+    "protein": 39.0,
+    "carbs": 16.0,
+    "fat": 14.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.25 - 1.5 kg/ 2.5 - 3 lb  skinless boneless chicken thighs OR breast ((Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil (, for cooking)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "soy sauce (, all purpose or light (not dark, Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "honey ((sub maple syrup))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "cider vinegar ((or rice vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Chinese cooking wine or dry sherry ((key ingredient, Note 3))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sesame oil (, toasted (Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "garlic (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cornflour/cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Green onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place ingredients in a jug and mix well until honey is completely dissolved."
+    },
+    {
+      "order": 2,
+      "instruction": "Reserve 1/4 cup for Basting, refrigerate. (Note 5)"
+    },
+    {
+      "order": 3,
+      "instruction": "Reserve 2/3 cup for Serving Sauce, refrigerate."
+    },
+    {
+      "order": 4,
+      "instruction": "Marinade Chicken: Pour remaining marinade over chicken in a container. Coat chicken thoroughly. Cover, refrigerate 24 to 48 hours (minimum 3 hrs)."
+    },
+    {
+      "order": 5,
+      "instruction": "Place reserved sauce in a small saucepan. Mix cornflour and water, then add into saucepan."
+    },
+    {
+      "order": 6,
+      "instruction": "Simmer over medium for 5 minutes, stirring regularly, until it thickens to a syrupy consistency. Set aside and keep warm. (If it gets too thick, just add a bit more water)"
+    },
+    {
+      "order": 7,
+      "instruction": "Brush BBQ plate or grills with oil and heat to medium high. Or heat oil in a large skillet over medium high heat."
+    },
+    {
+      "order": 8,
+      "instruction": "THIGHS: Place chicken on BBQ. Cook the first side for 2 minutes, then flip and dab with reserved Basting Sauce. Cook for 2 minutes, flip and baste. Then flip/baste every 1 minute for total cook time of ~ 10 minutes or until a thermometer reads 75°C/165°F."
+    },
+    {
+      "order": 9,
+      "instruction": "BREAST: Cook first side 2 minutes, flip, baste. Cook 2 minutes, then flip and baste every 45 sec or so for total cook time of ~8 minutes (internal temp 66°C / 151°F)."
+    },
+    {
+      "order": 10,
+      "instruction": "REST: Transfer to serving plate, cover loosely with foil and rest for 5 minutes."
+    },
+    {
+      "order": 11,
+      "instruction": "SERVE chicken garnished with sesame seeds and green onion, with sauce on the side so people can help themselves."
+    }
+  ]
+}

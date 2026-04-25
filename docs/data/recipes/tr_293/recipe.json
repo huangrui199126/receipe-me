@@ -1,0 +1,86 @@
+{
+  "id": "tr_293",
+  "title": "How to cook Jasmine Rice (stove)",
+  "image": "https://www.recipetineats.com/tachyon/2020/06/Jasmine-Rice_8.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/how-to-cook-jasmine-rice/",
+  "servings": 3,
+  "prepTime": 1,
+  "cookTime": 12,
+  "tags": [
+    "how to cook jasmine rice",
+    "jasmine rice"
+  ],
+  "nutrition": {
+    "calories": 169,
+    "protein": 3.0,
+    "carbs": 37.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "jasmine rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "water ((cold tap water))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "jasmine rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "MINUS 2 tbsp   water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place rice and water in a medium saucepan (one with a tight fitting lid). Bring to rapid simmer with NO LID on medium high."
+    },
+    {
+      "order": 2,
+      "instruction": "Turn down to low or medium low so it&#039;s simmering gently, then place lid on. Do not lift lid during cook."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook 12 minutes or until water is absorbed by rice - tilt pot to check (if lid not glass, then QUICKLY lift lid to check)."
+    },
+    {
+      "order": 4,
+      "instruction": "Keep the lid on then remove from heat. Stand 10 minutes, fluff with rubber spatula or rice paddle, then serve."
+    },
+    {
+      "order": 5,
+      "instruction": "Place rice in a bowl, fill with water and swish. Once cloudy, drain. Repeat 2 - 3 more times until water is pretty clear - it will never be completely clear."
+    },
+    {
+      "order": 6,
+      "instruction": "Drain rice in a colander, transfer to saucepan."
+    },
+    {
+      "order": 7,
+      "instruction": "Add water - 1 1/4 cups of water MINUS 2 tablespoons per 1 cup of rice. Follow cook steps above in No Rinsing."
+    }
+  ]
+}

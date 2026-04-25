@@ -1,0 +1,122 @@
+{
+  "id": "tr_606",
+  "title": "Smashed Cucumber Salad",
+  "image": "https://www.recipetineats.com/tachyon/2019/11/Smashed-Cucumbers_5.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/smashed-cucumber-salad/",
+  "servings": 4,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "cucumber salad",
+    "smashed cucumbers"
+  ],
+  "nutrition": {
+    "calories": 41,
+    "protein": 1.3,
+    "carbs": 4.2,
+    "fat": 2.2
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1 lb   cucumbers ((4 medium or 2 long cucumbers, Note 1))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "coriander/cilantro (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "green onions (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil (, toasted (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "ginger (, freshly grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bash the cucumbers until they split open on the sides (see video) using something heavy like the smooth side of a meat mallet, rolling pin, pestle or even a can."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut into 2.5cm/1\" chunks then place in a bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Sprinkle with salt, toss, leave for 20 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Drain excess liquid in the bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Shake or mix Dressing well."
+    },
+    {
+      "order": 6,
+      "instruction": "Drizzle over cucumbers, sprinkle with coriander and green onions. Toss and serve immediately."
+    }
+  ]
+}

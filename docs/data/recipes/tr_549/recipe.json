@@ -1,0 +1,110 @@
+{
+  "id": "tr_549",
+  "title": "Magic Broccoli (Best roasted broccoli recipe ever!)",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/Magic-Broccoli_2.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/magic-broccoli/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "best broccoli recipe",
+    "roasted broccoli"
+  ],
+  "nutrition": {
+    "calories": 151,
+    "protein": 7.0,
+    "carbs": 15.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium to large heads of broccoli (, about 1 kg / 2 lb)",
+      "emoji": "🥦",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely sliced or minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt ((adjust to your taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest of half a lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "freshly grated parmesan cheese (, plus more for garnish)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/425°F (200°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut/break broccoli into florets and pile onto baking tray. (Note 2 re: stem)"
+    },
+    {
+      "order": 3,
+      "instruction": "Toss - Drizzle all over with extra virgin olive oil, scatter with garlic, salt and pepper. Toss with fingers or tongs, then spread out over tray in a single layer (or toss in large bowl or ziplock bag)."
+    },
+    {
+      "order": 4,
+      "instruction": "Roast for 20 to 25 minutes until the tips of the florets are slightly browned and crispy. The broccoli should be &quot;tender crisp&quot;, meaning just cooked through, not soft and floppy."
+    },
+    {
+      "order": 5,
+      "instruction": "Finish - Remove from the oven and immediately drizzle over the lemon juice, zest, and parmesan. Toss quickly, transfer to serving plate and garnish with a bit more parmesan. Serve warm!"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "id": "tr_89",
+  "title": "Pot Roasted Coconut Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2015/11/Fragrant-Coconut-Pot-Roasted-Chicken_1.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fragrant-coconut-pot-roasted-chicken-feel-good-food-cookbook-by-valli-little/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 75,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  long red chilies ((Note 1))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "freshly grated ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "coconut oil ((or substitute with olive oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "finely chopped cilantro/coriander leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "lb",
+      "name": "/1.6kg   whole chicken (, preferably organic/free range)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500 ml  chicken broth/stock ((preferably reduced salt))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemongrass (, white part only, bruised (Note 2))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  kaffir lime leaves ((Note 3))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "14",
+      "unit": "oz",
+      "name": "/400ml   light coconut milk ((1 can))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "0.8",
+      "unit": "lb",
+      "name": "/ 400g   baby potatoes (, scrubbed clean)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lime",
+      "emoji": "🍋",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "coconut sugar ((or substitute with brown sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 390F/200C."
+    },
+    {
+      "order": 2,
+      "instruction": "Finely mince ONE red chili (~1 tbsp). Combine chili, ginger, garlic, oil, 1/2 cup cilantro/coriander, salt and pepper in a small bowl and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Rinse and pat the chicken dry (inside and out) with paper towels. Starting from the neck end of the chicken, use a teaspoon upside down to loosen the skin from the meat across the surface of the chicken (i.e. not the legs or wings). Just go as far as you can."
+    },
+    {
+      "order": 4,
+      "instruction": "Spoon the cilantro/mixture between the meat and the skin near neck. Use the spoon to spread it a bit, then to finish it off, use your finger/hands ON the skin to spread the mixture as far and evenly as you can. Doesn't need to be perfect! :)"
+    },
+    {
+      "order": 5,
+      "instruction": "Place the chicken stock/broth, kaffir lime leaves, lemongrass and the whole red chili into a dutch oven or baking tray. (Note 4)"
+    },
+    {
+      "order": 6,
+      "instruction": "Place the chicken in the broth, cover with a lid and roast for 45 minutes. Remove the lid, add the coconut milk and potatoes then roast for a further 30 minutes, or until juices run clear when pierced."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove the chicken from the broth and cover loosely with foil to rest for 5 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Skim excess fat off the surface of the broth - I usually get about 5 tbsp of fat off."
+    },
+    {
+      "order": 9,
+      "instruction": "Add the juice from the lime, sugar and fish sauce. Stir until the sugar is dissolved. Add remaining cilantro/coriander."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve the chicken with the broth in a pouring jug, or cut up the chicken and serve it in the broth."
+    }
+  ]
+}

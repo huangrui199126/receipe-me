@@ -1,0 +1,106 @@
+{
+  "id": "tr_416",
+  "title": "Pesto",
+  "image": "https://www.recipetineats.com/tachyon/2019/02/Pesto_6.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pesto/",
+  "servings": 1,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "pesto recipe",
+    "what goes in pesto"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "pine nuts",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 60g / 2oz  fresh basil leaves ((tightly pack measuring cup, Note 1))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(50 g)  parmesan, (finely grated (tightly pack the cup))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, small)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "7",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil (, best quality)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Toast pine nuts - Preheat small skillet over medium high heat (no oil). Add pine nuts and toast until light brown. Immediately remove and let cool slightly."
+    },
+    {
+      "order": 2,
+      "instruction": "Blitz pesto - Place all ingredients except olive oil in a food processor or blender. Blitz until finely chopped."
+    },
+    {
+      "order": 3,
+      "instruction": "Add oil while blitzing - With the motor running, slowly pour the oil in through the feeder tube. Blitz until smooth (or to desired consistency), adding a touch of extra oil (or water) if required to help it blitz."
+    },
+    {
+      "order": 4,
+      "instruction": "Handheld blender stick - Place all ingredients (including oil) in a bowl. Blitz with hand held blender until smooth."
+    },
+    {
+      "order": 5,
+      "instruction": "Store in a super airtight container in the fridge for up to 3 days, or freezer for 3 months. If it&#39;s not a super airtight container, smooth the surface and cover with a thin layer of olive oil - basil goes brown when in contact with air."
+    },
+    {
+      "order": 6,
+      "instruction": "Makes enough for: 300g/10oz dried pasta of choice (can stretch to 350g/12oz). See here for how to make a great simple pesto pasta!"
+    }
+  ]
+}

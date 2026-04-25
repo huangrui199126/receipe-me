@@ -1,0 +1,151 @@
+{
+  "id": "tr_66",
+  "title": "Pork Tenderloin with Creamy Marsala Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2016/06/Pork-Tenderloin-Creamy-Marsala-Sauce_4.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pork-tenderloin-with-creamy-marsala-sauce/",
+  "servings": 3,
+  "prepTime": 5,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 336,
+    "protein": 36.9,
+    "carbs": 6.1,
+    "fat": 15.3
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   pork tenderloin ((Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "butter ((salted or unsalted))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "oz",
+      "name": "/ 150g   mushrooms (, sliced (I used Swiss Brown))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "finely chopped shallots or onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml  marsala ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500 ml  chicken broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  tarragon leaves ((optional) (thyme is also lovely) (Note 3))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65 ml  cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200C/390F."
+    },
+    {
+      "order": 2,
+      "instruction": "Sprinkle pork with salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in an ovenproof skillet over high heat. Sear on all sides until nicely browned."
+    },
+    {
+      "order": 4,
+      "instruction": "Place in the oven for 15 minutes for the faintest blush of pink (pictured) or 18 to 20 minutes for no pink. See Note 4 for internal cook temperatures."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove pork from skillet onto a plate, cover with foil and set aside in a warm place while you make the sauce."
+    },
+    {
+      "order": 6,
+      "instruction": "Melt 1 tbsp butter in the same skillet over high heat. Cook mushrooms until browned, then remove."
+    },
+    {
+      "order": 7,
+      "instruction": "Reduce heat to medium high, melt 1 tbsp butter,. Add onion and garlic, cook for 2 minutes or until onion is softened. Add flour and mix."
+    },
+    {
+      "order": 8,
+      "instruction": "Add marsala, cook until mostly evaporated (about 1 minute). Add tarragon and chicken broth, whisk until dissolved. Bring to simmer and cook until the liquid reduces by half - 3 to 5 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Add cream and mix, then return the mushrooms and pork into the skillet as well as juices pooled on the plate. Simmer for 1 - 2 minutes until the sauce thickens into a thin gravy consistency (it will thicken more as you serve)."
+    },
+    {
+      "order": 10,
+      "instruction": "Transfer to serving platter with the gravy on the side or poured over the top. Serve with mashed potatoes of course!! (Here is my Make Ahead Mashed Potatoes recipe)"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "tr_804",
+  "title": "Caramel Popcorn",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/Caramel-Popcorn.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/salted-caramel-popcorn/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 55,
+  "tags": [
+    "caramel corn",
+    "caramel popcorn",
+    "food gift ideas"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 0.8,
+    "carbs": 27.6,
+    "fat": 11.7
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(60ml)  vegetable oil ((not required if air popping with a popcorn maker))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "popping corn ((10 cups popcorn, Note 1 for lighter caramel coverage))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 7 tbsp  butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(220g)  brown sugar (, packed)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(170g)  corn syrup (, light (sub glucose, Note 2 more subs))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large pot over medium heat. Add a few pieces of popcorn and wait until it pops, then quickly remove."
+    },
+    {
+      "order": 2,
+      "instruction": "Add remaining popcorn, elevate off stove to shake and spread corn out evenly. Cover with a lid. Once the popcorn starts popping in earnest, shake the pot gently once."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove from heat when the popping stops (when you can count to 3 between pops) and transfer to a (very!) large bowl. You need 10 cups of popcorn."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven to 110°C/230°F."
+    },
+    {
+      "order": 5,
+      "instruction": "Melt butter in a saucepaan over medium heat."
+    },
+    {
+      "order": 6,
+      "instruction": "Add sugar, corn syrup and salt. Stir until just combined."
+    },
+    {
+      "order": 7,
+      "instruction": "When it starts to bubble, simmer for 4 minutes - DO NOT STIR!"
+    },
+    {
+      "order": 8,
+      "instruction": "Remove from heat then quickly whisk in vanilla and baking soda. When you stop whisking, the caramel will foam and increase in volume."
+    },
+    {
+      "order": 9,
+      "instruction": "Quickly pour straight over popcorn, toss until caramel cools and starts to harden."
+    },
+    {
+      "order": 10,
+      "instruction": "Spread popcorn on 2 baking trays."
+    },
+    {
+      "order": 11,
+      "instruction": "Bake for 45 minutes, tossing every 10 minutes or so. Caramel will remelt for the first 2-3 tosses - tossing coats popcorn more evenly with caramel. (If using glucose or honey, bake further 15 minutes)."
+    },
+    {
+      "order": 12,
+      "instruction": "Remove from oven, leave to cool. Gently break into pieces and serve. Stays crisp 2 - 3 weeks!"
+    }
+  ]
+}

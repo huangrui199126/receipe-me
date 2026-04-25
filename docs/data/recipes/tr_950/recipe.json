@@ -1,0 +1,112 @@
+{
+  "id": "tr_950",
+  "title": "Easiest Ever Raspberry Jam Bars",
+  "image": "https://www.recipetineats.com/tachyon/2016/07/Raspberries-jam-oat-bars_1-SQ.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easiest-ever-raspberry-jam-bars/",
+  "servings": 16,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "jam bars",
+    "jam oat bars",
+    "raspberry bars",
+    "raspberry crumble bars"
+  ],
+  "nutrition": {
+    "calories": 216,
+    "protein": 3.0,
+    "carbs": 35.8,
+    "fat": 7.2
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 1 stick   unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "brown sugar (, tightly packed)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg ((55-60g / 2 oz))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "flour ((plain / all-purpose))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "rolled oats ((traditional oats, not quick, instant or steel-cut))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "raspberry jam ((or other flavour))",
+      "emoji": "🍓",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/400°F (180°C fan). Grease a 20cm/8&quot; metal pan with butter then line with baking/parchment paper with overhang (so it can be lifted out once cooked)."
+    },
+    {
+      "order": 2,
+      "instruction": "Oatmeal cookie base - Melt butter in a microwave proof bowl. Mix in sugar until lump free. Add egg then mix until incorporated. Then add flour, oats, baking powder and salt and mix until you can no longer see flour."
+    },
+    {
+      "order": 3,
+      "instruction": "Base - Spread 1 1/2 cups of the mixture in the prepared pan, and press in with your hands. Spread with jam (microwave to loosen, if needed), then use your hands to crumble the remaining mixture over the top (Note 3)."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake for 30 - 35 minutes or until the top is deep golden. Remove and allow to fully cool in the pan (~ 2 hours) before lifting out of the tin using the baking paper. (Speed things up: 30 min counter, 30 minute fridge)"
+    },
+    {
+      "order": 5,
+      "instruction": "Cut into 16 squares. Enjoy!"
+    }
+  ]
+}

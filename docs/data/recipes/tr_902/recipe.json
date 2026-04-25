@@ -1,0 +1,195 @@
+{
+  "id": "tr_902",
+  "title": "Cocktail Meatballs with Sweet &amp; Sour Dipping Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2017/11/Cocktail-Meatballs-7.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cocktail-meatballs-with-sweet-sour-dipping-sauce/",
+  "servings": 25,
+  "prepTime": 20,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ ½ lb   beef mince ((ground beef) (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ ½  lb   pork mince ((ground pork) (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1½",
+      "unit": "tsp",
+      "name": "Worcestershire Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornflour/ cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "/ 65 ml  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "/ 125 ml  apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 100g  brown sugar ((adjust to taste))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "/ 65 ml  tomato ketchup",
+      "emoji": "🍅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped chives",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220C / 430F (standard) or 200C / 390F (fan / convection)."
+    },
+    {
+      "order": 2,
+      "instruction": "Grate onion into a large bowl using a standard box grater. Add breadcrumbs and mix to coat. Leave to soak for a few minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Add remaining Meatballs ingredients. Mix well with your hands until combined."
+    },
+    {
+      "order": 4,
+      "instruction": "Measure out level tablespoons and dollop onto work surface. Roll into balls. (My way of rolling balls - fast!)"
+    },
+    {
+      "order": 5,
+      "instruction": "Place a rack on a baking tray (optional, Note 3). Spray rack generously with oil. Place balls on the rack."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake for 25 minutes or until browned. Remove tray from oven, immediately transfer meatballs in a large bowl (if you leave them, they stick)."
+    },
+    {
+      "order": 7,
+      "instruction": "Drizzle with enough sauce to coat the meatballs. Toss gently, then transfer to serving bowl / plate. Garnish with chives, if desired."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve meatballs with toothpicks and remaining Sauce for Dipping."
+    },
+    {
+      "order": 9,
+      "instruction": "Combine ingredients in a small saucepan over medium heat. Whisk to combine."
+    },
+    {
+      "order": 10,
+      "instruction": "Bring to simmer, stirring / whisking regularly, then simmer until it thickens to a syrup consistency – or thicker if you like. (about 3 minutes)"
+    },
+    {
+      "order": 11,
+      "instruction": "Pour meatballs in a bowl, pour a bit of sauce to coat. Serve with remaining sauce, garnished with chives."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "tr_224",
+  "title": "Slow Cooker Crispy Chinese Shredded Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/DSC_0222.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/slow-cooker-crispy-chinese-shredded-chicken/",
+  "servings": 10,
+  "prepTime": 5,
+  "cookTime": 480,
+  "tags": [],
+  "nutrition": {
+    "calories": 440,
+    "protein": 60.2,
+    "carbs": 15.0,
+    "fat": 10.3
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 4 lb / 1.5 - 2 kg   whole chicken (, skin on)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "Chinese cooking wine ((or sherry) (see notes))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "brown sugar ((or substitute with white sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "black vinegar ((or substitute with malt vinegar, or white vinegar. Don't use balsamic))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "light soy sauce ((or substitute with 3/4 cup ordinary soy sauce + 1/2 cup water + 1 tsp salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "coarsely chopped ginger ((no need to peel))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, crushed (not minced - see notes))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "cooking oil ((vegetable, peanut or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place all ingredients except the oil in slow cooker."
+    },
+    {
+      "order": 2,
+      "instruction": "Slow cook on low for 8 hours."
+    },
+    {
+      "order": 3,
+      "instruction": "Place all ingredients except the oil in a pot in which the chicken fits quite snugly but not tightly (you don't want the sides of the chicken pressed up tightly against the wall of the pot)."
+    },
+    {
+      "order": 4,
+      "instruction": "Put lid on and bring to boil over high heat. Turn heat down to low and let it simmer for 1 1/2 to 2 hours, until the meat is very tender and falling off the bone."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove chicken from braising liquid."
+    },
+    {
+      "order": 6,
+      "instruction": "Shred with your hands or two forks, including the skin. The meat should fall off very easily."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat 1 tbsp of oil over high heat in a large heavy based fry pan."
+    },
+    {
+      "order": 8,
+      "instruction": "Add chicken (enough to cover the pan without crowding it) and drizzle over braising liquid."
+    },
+    {
+      "order": 9,
+      "instruction": "Cook until the underside is browned and crispy (about 1 1/2 minutes), then remove from the pan. Don't flip the chicken (see notes)."
+    },
+    {
+      "order": 10,
+      "instruction": "Repeat with remaining chicken (it takes me 3 batches)."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve with rice, on rice stick noodles or on a salad with the remaining braising liquid on the side. It is also great in fried rice."
+    },
+    {
+      "order": 12,
+      "instruction": "This freezes really well, before or after browning the chicken. Just divide into freezer bags, label then freeze. If you froze it before browning the chicken, then brown it after thawing."
+    }
+  ]
+}

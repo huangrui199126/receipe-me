@@ -1,0 +1,123 @@
+{
+  "id": "tr_98",
+  "title": "Mexican Lasagna Enchilada Stack",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/DSC_0057-1.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mexican-lasagna-enchilada-stack/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 524,
+    "protein": 39.2,
+    "carbs": 70.5,
+    "fat": 12.9
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5 - 6   tortillas",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "shredded Pork Carnitas ((Mexican Pulled Pork) (see notes))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "(400g/15oz)   corn",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "(400g/15oz)   black beans ( or red kidney beans)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small red capsicum ((bell pepper), diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "enchilada sauce (, separated (preferably homemade - here's my Easy Classic Enchilada Sauce))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "grated mozzarella cheese ((or any other melting cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley or coriander (, finely chopped (optional - for garnish))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the Pork Carnitas, corn, black beans, capsicum and 1 1/2 cups of enchilada sauce in a bowl. Mix to combine."
+    },
+    {
+      "order": 3,
+      "instruction": "Spread 1 tbsp of enchilada sauce on the base of a baking dish."
+    },
+    {
+      "order": 4,
+      "instruction": "Line the baking dish with tortillas. I find the best way to do this is to cut the tortillas in half, place 2 on the baking dish (with the straight cut side lined to the edge of the baking dish), then cut 1 tortilla into 6 to 8 pieces and use those wedges to fill the gaps."
+    },
+    {
+      "order": 5,
+      "instruction": "Spread half the filling across the tortillas."
+    },
+    {
+      "order": 6,
+      "instruction": "Top with another layer of tortillas, then spread the remaining filling on top."
+    },
+    {
+      "order": 7,
+      "instruction": "Top with a third and final layer of tortillas. Spread remaining enchilada sauce (3/4 cup) across the top, then sprinkle with mozzarella cheese."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake for 20 to 25 minutes until the cheese is melted and started to turn golden."
+    },
+    {
+      "order": 9,
+      "instruction": "Let stand for 5 minutes, then garnish with parsley or coriander if desired and serve."
+    }
+  ]
+}

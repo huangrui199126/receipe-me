@@ -1,0 +1,155 @@
+{
+  "id": "tr_770",
+  "title": "Roasted Sweet Potato Salad",
+  "image": "https://www.recipetineats.com/tachyon/2016/11/Roasted-Sweet-Potato-Salad-3.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roasted-sweet-potato-salad-honey-lemon-dressing/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 392,
+    "protein": 9.7,
+    "carbs": 38.6,
+    "fat": 23.5
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "600 - 700 g / 1.2 - 1.4 lb   sweet potato (, peeled (2 medium))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 3.5 oz   rocket salad / arugula ((~3 handfuls))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(70g / 5 oz)  pecans",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 3.5 oz   bacon (, chopped (I used lean))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 2 oz   Goats Cheese or Danish feta ((Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice (, fresh)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper (, to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220C / 430F."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut sweet potato into 1.5cm / 3/5\" thick slices. Cut the larger rounds in half (into semi circles)."
+    },
+    {
+      "order": 3,
+      "instruction": "Place in a bowl, drizzle over oil, sprinkle with salt and pepper. Toss well to coat. Pour onto baking tray."
+    },
+    {
+      "order": 4,
+      "instruction": "Roast for 20 minutes, then use an egg flip to turn and roast for a further 10 minutes or until golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Meanwhile, place Dressing ingredients in a jar, mix with a teaspoon (to get honey off the base) then shake well until combined."
+    },
+    {
+      "order": 6,
+      "instruction": "Toast pecans in a dry skillet over medium high heat for 3 minutes, or until they smell nutty."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove pecans, then heat 1 tsp oil. Add bacon and cook until golden."
+    },
+    {
+      "order": 8,
+      "instruction": "To assemble, place everything in a bowl, reserving some bacon, pecans and goats cheese for garnish. Drizzle with most of the dressing, then toss gently."
+    },
+    {
+      "order": 9,
+      "instruction": "Transfer into a serving bowl, garnish with remaining bacon, pecans and goats cheese. Drizzle with remaining dressing. Serve!"
+    }
+  ]
+}

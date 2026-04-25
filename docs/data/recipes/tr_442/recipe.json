@@ -1,0 +1,131 @@
+{
+  "id": "tr_442",
+  "title": "Tuna sandwich",
+  "image": "https://www.recipetineats.com/tachyon/2023/08/Tuna-sandwich_2.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tuna-sandwich/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "tuna salad",
+    "tuna salad sandwich",
+    "tuna sandwich"
+  ],
+  "nutrition": {
+    "calories": 688,
+    "protein": 27.0,
+    "carbs": 29.0,
+    "fat": 51.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "425g/ 15 oz  canned tuna in oil (, drained (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "whole egg mayonnaise or Kewpie ((Note 2))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "finely diced celery ((1 stalk, cut in 4 lengthways, then finely diced))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "finely chopped dill pickle ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "liquid from pickle jar ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "finely chopped dill ((or parsley or basil))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "finely sliced green onion (, ~2 stems (Note 4))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "8",
+      "unit": "pieces",
+      "name": "butter lettuce ((2 per sandwich))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salted butter (, for spreading)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "8",
+      "unit": "slices",
+      "name": "bread or 4 rolls ((Note 5))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Filling - Put all the Tuna Filling ingredients in a bowl. Mix well using a wooden spoon, breaking up the tuna so the filling becomes fairly smooth. The pickles and celery will take a beating too which is encouraged -&gt; flavour melding!"
+    },
+    {
+      "order": 2,
+      "instruction": "Sandwich - Divide Tuna Filling between 4 sandwiches (or more/less depending on bread size). I butter the bread and use 2 pieces of lettuce per sandwich. Enjoy!"
+    }
+  ]
+}

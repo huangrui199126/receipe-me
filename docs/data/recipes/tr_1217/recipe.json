@@ -1,0 +1,77 @@
+{
+  "id": "tr_1217",
+  "title": "Crostini - toasted bread for toppings and dunking",
+  "image": "https://www.recipetineats.com/tachyon/2021/09/Crostini-for-Acqua-Pazza-SQ.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crostini/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "crostini"
+  ],
+  "nutrition": {
+    "calories": 599,
+    "protein": 43.0,
+    "carbs": 36.0,
+    "fat": 26.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  crusty baguette (, thin)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 3 tbsp extra virgin olive oil ((depends how many crostini you&#39;re making))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, halved (for rubbing, optional))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Small crostini (for canapes) - slice bread 0.5cm / 1/4-inch thick on the diagonal."
+    },
+    {
+      "order": 2,
+      "instruction": "Large crostini (for serving on the side of dishes) - Cut on a diagonal, 1cm / 1/3&quot; thick."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven (all types):- Small crostini to 160°C/325°F- Large crostini to 180°C/350°F"
+    },
+    {
+      "order": 4,
+      "instruction": "Brush olive oil lightly on bread, sprinkle with a bit of salt. Flip and repeat. Bake 10 minutes, turning halfway, or until fully crispy."
+    },
+    {
+      "order": 5,
+      "instruction": "Rub bread lightly on one side with cut face of garlic. Use warm if serving with a dish, or cool if piling on toppings."
+    }
+  ]
+}

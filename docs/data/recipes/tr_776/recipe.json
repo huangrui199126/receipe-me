@@ -1,0 +1,102 @@
+{
+  "id": "tr_776",
+  "title": "Golden Halloumi with Honey and Thyme",
+  "image": "https://www.recipetineats.com/tachyon/2024/09/Haloumi-honey-thyme_6.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pan-fried-halloumi-with-honey-and-thyme/",
+  "servings": 1,
+  "prepTime": 3,
+  "cookTime": 3,
+  "tags": [
+    "fried halloumi",
+    "halloumi recipe"
+  ],
+  "nutrition": {
+    "calories": 311,
+    "protein": 17.0,
+    "carbs": 9.0,
+    "fat": 23.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "225-250g/ 8oz  halloumi (block, Cyprus made PDO stamped recommended (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "honey ((eyeball it), sub maple syrup)",
+      "emoji": "🍯",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "fresh thyme leaves and tiny sprigs",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 pinches chilli flakes ((red pepper flakes), optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut into 1 - 1.25cm / 0.4 - 0.5\" slices, pat dry. Pan fry in the oil on medium high until golden, serve on pre-warmed plate, with optional finishes."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut halloumi into 1-1.25 cm thick slices (0.4 - 0.5&quot;) (see Note 3). Place the slices on a paper towel and pat the surface dry."
+    },
+    {
+      "order": 3,
+      "instruction": "Warm a serving plate. (Note 4)"
+    },
+    {
+      "order": 4,
+      "instruction": "Heat the oil in a non stick pan over medium high heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Fry - Carefully place the halloumi in the pan (I use my hands). Cook for 1 1/2 minutes or until the underside is golden. Shuffle if needed so they cook evenly."
+    },
+    {
+      "order": 6,
+      "instruction": "Turn gently (I use a spatula + butter knife to guide) and cook the other side for 1 - 1/2 minutes until golden."
+    },
+    {
+      "order": 7,
+      "instruction": "Transfer onto the serving plate."
+    },
+    {
+      "order": 8,
+      "instruction": "Optional finishes - Working quickly, drizzle with honey, sprinkle with thyme and chilli flakes. I do full honey coverage for some slices, and for others just a drizzle."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve immediately, quick, before the halloumi goes squeaky! :) Though actually, the squeak doesn’t bother me but it&#39;s at its prime straight out of the pan when the surface is still crisp and the inside is soft. (Note: Honey on the plate is ideal for bread mopping)"
+    }
+  ]
+}

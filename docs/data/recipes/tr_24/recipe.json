@@ -1,0 +1,155 @@
+{
+  "id": "tr_24",
+  "title": "Lemon Pepper Pork",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/Lemon-Pepper-Pork-Grilled-Veg-Feta-Couscous-4-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lemon-pepper-pork-grilled-vegetable-feta-couscous/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 662,
+    "protein": 22.0,
+    "carbs": 77.3,
+    "fat": 30.6
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  pork cutlets (, at room temperature (200g/7oz each, bone in) (see notes))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon pepper ((see notes))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  zucchinis (, sliced)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small red capsicum ((bell pepper), sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small red onion ((spanish onion), sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  small lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "mint leaves ((loosely packed))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "couscous",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "boiling water ((or chicken or vegetable stock/broth))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 1.5 oz g / 1.5 oz   feta cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon wedges or cheeks (, to serve (optional))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine couscous and boiling water in a bowl, cover with cling wrap and set aside for 5 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Sprinkle lemon pepper on both sides of each cutlet and pat to make it stick."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 1 tbsp olive oil in fry pan over high heat. Place pork in fry pan and cook the first side for 2 minutes and the second side for 1 1/2 minutes or until cooked to your liking. I like mine medium rare. Remember the pork will continue to cook while resting."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove pork from the fry pan onto a plate, cover loosely with foil and set aside to rest."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat remaining 1 tbsp olive oil in the fry pan still on high heat. Add onion and capsicum and sauté for 1 minute, then add the zucchini. Stir and cook the vegetables until charred and just cooked through. Remove pan from heat."
+    },
+    {
+      "order": 6,
+      "instruction": "Fluff up the couscous with a fork. Add the vegetables and mint leaves. Squeeze over a drizzle of lemon juice and season to taste with salt and pepper. Toss gently to combine."
+    },
+    {
+      "order": 7,
+      "instruction": "Divide couscous between plates, scatter over feta cheese. Top with pork cutlet and drizzle over resting juices. Serve with lemon cheeks or wedges on the side, if using."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "tr_248",
+  "title": "Tuna Tartare with Lychees",
+  "image": "https://www.recipetineats.com/tachyon/2015/12/Lychee-Tuna-Tartare_2.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tuna-tartare-with-lychees/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200 g/7oz   sashimi grade tuna ((or any other sashimi grade fish) (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "7  lychees (, fresh (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "large red chili ((not a spicy one), very finely diced (Note 3))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "red onion (, very finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "coriander/cilantro leaves (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil (, plus extra)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "lime juice (, plus extra)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  small avocado (, diced (~ 1/2 cup))",
+      "emoji": "🥑",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced sourdough baguette (, toasted)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Freeze tuna for 20 minutes - just to firm. Slice into 3mm / 1/8\" strips, then cut those strips into 3mm / 1/8\" cubes. Place in a bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Peel the lychees, then finely dice the flesh and add into the bowl (Note 4). Scrape the juices that pool on the cutting board into the bowl too - don't waste a drop!"
+    },
+    {
+      "order": 3,
+      "instruction": "Add the chili, onion and coriander, olive oil and lime juice into the bowl. Season with a generous pinch of salt and a good grind of pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Use your fingers to toss together gently. Taste and adjust olive oil, lime and salt to taste."
+    },
+    {
+      "order": 5,
+      "instruction": "Pile on a platter, top with avocado and garnish with coriander/cilantro leaves. Drizzle with more olive oil. Serve immediately (Note 5), with toasted bread and extra lime wedges."
+    }
+  ]
+}

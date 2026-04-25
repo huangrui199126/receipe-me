@@ -1,0 +1,275 @@
+{
+  "id": "tr_815",
+  "title": "Family Meat Pie",
+  "image": "https://www.recipetineats.com/tachyon/2021/09/Meat-Pie-Family-Size_39-new-SQ.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/family-meat-pie/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 240,
+  "tags": [
+    "australian meat pie",
+    "family pie",
+    "meat pie"
+  ],
+  "nutrition": {
+    "calories": 806,
+    "protein": 41.0,
+    "carbs": 38.0,
+    "fat": 53.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "800g/ 1.6lb  chuck beef (, 3.5cm/1.4\" cubes (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil (, plus more as needed (or vegetable or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7 oz  mushrooms (, smallish, halved (larger ones quartered))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 4 oz  streaky bacon (, cut into 1 x 1.5cm / 0.4 / 0.6\" cubes)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, cut into 2cm / 0.8&quot; cubes)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  celery (, cut into 1cm/0.4\" slices (split wide end of celery lengthwise, don’t want giant celery chunks))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (, halved, 1cm/0.4\" slices (quarter very thick end if needed))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "330",
+      "unit": "ml",
+      "name": "/ 11 oz  Guinness ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "beef stock (, homemade or store bought low sodium (Note 3))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "coarsely crushed black pepper (, plus more as desired)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 4 tbsp  unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  quantity shortcrust pastry",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "sheet",
+      "name": "puff pastry (, for lid (Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg (, lightly whisked)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Ketchup or Aussie Tomato Sauce (, for serving)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Brown beef: Sprinkle beef with 3/4 tsp salt and 1/2 tsp pepper. Heat oil in a large heavy based pot over high heat. Brown beef aggressively in 2 to 3 batches (do not crowd pot, else it gets watery instead of browning). Then remove beef into a big bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Wipe down pot: Wipe pot clean of burnt bits, if needed."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook bacon: Cool pot, add bacon. Place pot back onto medium heat. When you see some fat starting to melt, turn heat up to medium high and cook bacon until golden. Then remove into bowl with beef."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook mushrooms: Melt 30g/ 2tbsp butter in the pot. Cook mushrooms until golden with a pinch of salt and pepper. Remove into separate bowl with slotted spoon."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook other vegetables: Add onion, garlic, carrot and celery then cook for 5 minutes until onion is soft and sweet, not too golden. Add oil if needed, but bacon fat + residual butter should be enough."
+    },
+    {
+      "order": 7,
+      "instruction": "Oven slow cook: Add beef, bacon, Guinness, water, stock, 1/4 tsp salt and 3/4 tsp pepper. Stir then bring to simmer. Cover with lid, then transfer to oven for 1 hour."
+    },
+    {
+      "order": 8,
+      "instruction": "Add mushrooms, then continue cooking in the oven for a further 1 hour. Meat should be starting to be tender at this stage."
+    },
+    {
+      "order": 9,
+      "instruction": "Stove reduce: Remove pot from oven. Remove lid, then simmer on low heat for 20 minutes to reduce sauce. Meat should now be &quot;fall-apart-tender&quot; but just holding form (not disintegrating)."
+    },
+    {
+      "order": 10,
+      "instruction": "Sauce thickener (Beurre Manié - Note 4): Mix together butter and flour until smooth."
+    },
+    {
+      "order": 11,
+      "instruction": "Thicken sauce: Stir Beurre Manié into sauce. Once melted, leave on the stove for another 2 minutes. Sauce should be thicker than a normal stew, like a honey consistency. Sauce will not thicken any more in oven, so make it exactly what you want - Note 7. Also, there will be more sauce than you expect for a pie - some gets absorbed by pastry (but won&#39;t make it soggy)."
+    },
+    {
+      "order": 12,
+      "instruction": "Cool: Cover pot with lid, then let it cool completely, preferably overnight. (Note 8)"
+    },
+    {
+      "order": 13,
+      "instruction": "Shortcrust base: Make and blind bake Shortcrust Pastry per that recipe using a 23cm/9” pie dish, whether using homemade or store bought. Then let it cool for at least 15 minutes (stays crispier)."
+    },
+    {
+      "order": 14,
+      "instruction": "Preheat oven: Turn oven up to 200°C/390°F (180°C fan)."
+    },
+    {
+      "order": 15,
+      "instruction": "Fill pie: Bring filling to room temp, do not use fridge cold. (Note 9) Fill pie with filling (use it all, pack it in a level surface or have slight mound)."
+    },
+    {
+      "order": 16,
+      "instruction": "Puff pastry lid: Partially thaw puff pastry (do not cut). Brush lip of pie crust base with egg, then top with puff pastry sheet. Trim excess with scissors, press to adhere to edges. Then press the tip of a fork around the edge to make little crimps (to further adhere + decorative)."
+    },
+    {
+      "order": 17,
+      "instruction": "Egg wash: Brush top with remaining whisked egg, then make a 2.5cm / 1&quot; X incision in middle to allow steam to escape (stops lid doming)."
+    },
+    {
+      "order": 18,
+      "instruction": "Bake: Bake 45 - 50 minutes until top is super golden. Rest 5 minutes. Brag in comments below that you made this magnificent pie. Save Nagi a slice. Then serve remainder with ketchup or Aussie tomato sauce!"
+    }
+  ]
+}

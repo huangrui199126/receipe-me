@@ -1,0 +1,182 @@
+{
+  "id": "tr_1439",
+  "title": "Slow Roast Leg of Lamb",
+  "image": "https://www.recipetineats.com/tachyon/2020/04/Slow-Roasted-Lamb-Leg-5a-SQ.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/slow-roast-leg-of-lamb/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 315,
+  "tags": [
+    "roast lamb leg",
+    "slow roast leg of lamb"
+  ],
+  "nutrition": {
+    "calories": 605,
+    "protein": 56.0,
+    "carbs": 6.5,
+    "fat": 38.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2.25",
+      "unit": "kg",
+      "name": "/ 4.5 lb  leg of lamb (, bone in (or shoulder) (Note 1))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((double for flakes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  whole garlic head (, unpeeled, cut in half horizontally)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, quartered (unpeeled is fine))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  rosemary sprigs ((2 = whisper of rosemary flavour, 4 sprigs = stronger flavour))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "beef stock/broth (, low sodium (or homemade))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "plain flour ((all-purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper (, to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Season leg with salt and pepper, place upside down on garlic, onion and rosemary. Pour liquids in, drizzle with oil, cover with foil. Roast 4 1/2 hours at 170°C/335°F (150°C fan) until meat is pull-apart tender. Flip, return to oven 20 - 30 minutes at 200°C/390°F (180° fan) until well browned. Make gravy while resting."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 170°C/335°F (150°C fan-forced)."
+    },
+    {
+      "order": 3,
+      "instruction": "Place garlic, onion and rosemary in a metal roasting pan."
+    },
+    {
+      "order": 4,
+      "instruction": "Season lamb: Place lamb leg right side up in the pan. (Note 2) Sprinkle the surface with half the salt and pepper and rub it in."
+    },
+    {
+      "order": 5,
+      "instruction": "Turn lamb over and place it so it mostly sits on the garlic and onion. Sprinkle with remaining salt and pepper, rub it in. (Video helpful here)"
+    },
+    {
+      "order": 6,
+      "instruction": "Add liquids and cover: Drizzle lamb with olive oil. Pour broth and water around the lamb - it won&#39;t cover it, that&#39;s ok, the lamb sinks into it. Cover with foil (don&#39;t use a lid, you want a bit of liquid to steam out)."
+    },
+    {
+      "order": 7,
+      "instruction": "Slow roast: Place in the oven and roast for 4 1/2 hours. (See Notes for roasting time table)"
+    },
+    {
+      "order": 8,
+      "instruction": "Check meat: Remove from the oven, remove foil. Turn lamb over. Check it to ensure the meat is tender enough to pry a bit off easily with a fork. If not, return, covered, to oven."
+    },
+    {
+      "order": 9,
+      "instruction": "Brown lamb: Return uncovered lamb to the oven and roast for a further 40 minutes or until well browned all over. (Don&#39;t increase the temperature as then it doesn&#39;t brown as evenly)"
+    },
+    {
+      "order": 10,
+      "instruction": "Rest: Remove lamb, spoon over pan juices generously. Transfer to serving platter, cover loosely with foil while you make the gravy (stays warm for 1 - 1 1/2 hours)."
+    },
+    {
+      "order": 11,
+      "instruction": "Skim fat: Use a large spoon to skim off and discard some of the fat from the surface of the liquid."
+    },
+    {
+      "order": 12,
+      "instruction": "Add flour: Place pan on the stove on medium high. When the liquid bubbles, add flour. Use a whisk to mix it in - this may take a few minutes as the liquid reduces."
+    },
+    {
+      "order": 13,
+      "instruction": "Add water: Once it looks like sludge (see video), whisk in 1/2 - 1 cup of water until it becomes a gravy consistency to your taste. Adjust salt and pepper to taste - I rarely add extra salt."
+    },
+    {
+      "order": 14,
+      "instruction": "Strain gravy into a bowl, pressing juices out of the onion etc. Pour gravy into jug."
+    },
+    {
+      "order": 15,
+      "instruction": "The meat is tender so you will only need tongs to tear the meat off. Serve with gravy!"
+    }
+  ]
+}

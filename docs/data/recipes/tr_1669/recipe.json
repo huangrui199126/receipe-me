@@ -1,0 +1,188 @@
+{
+  "id": "tr_1669",
+  "title": "Pumpkin Butterbeer Hot Chocolate.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/10/Pumpkin-Butterbeer-Hot-Chocolate-VIDEO-1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/pumpkin-butterbeer-hot-chocolate-video/",
+  "servings": 3,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "butterbeer",
+    "harry potter",
+    "hot chocolate",
+    "pumpkin"
+  ],
+  "nutrition": {
+    "calories": 1319,
+    "protein": 20.0,
+    "carbs": 129.0,
+    "fat": 103.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "4 1/2",
+      "unit": "cups",
+      "name": "whole milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ground cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "milk chocolate (chopped)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "pumpkin puree",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "butterscotch sauce (home recipe below)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "bourbon (optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "heavy whipping cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "butterscotch sauce (homemade recipe below)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla bean (seeds removed or 1 vanilla extract)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "unsalted butter (1/2 stick)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "packed dark brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "heavy cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "bourbon (optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add the milk to a large heavy bottomed pot. Add the cocoa powder, cinnamon, milk chocolate, pumpkin, butterscotch sauce, vanilla, butter and bourbon (if using). Place the pot over medium low heat until the milk is scalding, but not boiling. Be sure to stir the pot often to make sure nothing is sticking to the bottom and burning."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, make the butterscotch whipped cream. Add the cream to a large mixing bowl and whip until stiff peaks form. Add the vanilla bean and whip until combined. Stir in the buttersctoch, leaving streaks in the whipped cream. Keep in the fridge until read to serve."
+    },
+    {
+      "order": 3,
+      "instruction": "Once the hot chocolate is steaming, ladle into mugs and dollop with cream. If you want to be fancy, you can sprinkle the top of the cream with edible gold stars!"
+    },
+    {
+      "order": 4,
+      "instruction": "Melt the butter in a small sauce pot. Add the brown sugar, heavy cream and salt. Bring to a boil and then reduce heat to medium. Boil for 3 to 4 minutes. Remove from heat and stir in the vanilla and bourbon, if using."
+    }
+  ]
+}

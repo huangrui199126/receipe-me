@@ -1,0 +1,107 @@
+{
+  "id": "tr_225",
+  "title": "Homemade Reese's Peanut Butter Cups",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/Peanut-Butter-Cups-edited-ps-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/homemade-reeses-peanut-butter-cups/",
+  "servings": 30,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 250g  smooth peanut butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 4 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 55g  brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 120g  icing sugar (powdered sugar) (see notes)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/16 oz  chocolate (for melting, not eating chocolate)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Line 3 x 12 hole mini muffin tins with paper patties."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine peanut butter, butter and sugar in a small saucepan over medium heat. Heat until melted, stirring constantly, until it starts to bubble gently. Remove from heat and add the powdered sugar 1/4 cup at a time, stirring vigorously to dissolve into the peanut butter mixture."
+    },
+    {
+      "order": 3,
+      "instruction": "Set the peanut butter filling aside to cool (refrigerate to speed up the process)."
+    },
+    {
+      "order": 4,
+      "instruction": "Melt half the chocolate in the microwave in 30 second bursts, stirring in between."
+    },
+    {
+      "order": 5,
+      "instruction": "Pour about 1 1/2 to 2 tsp of melted chocolate into each muffin cup."
+    },
+    {
+      "order": 6,
+      "instruction": "Scoop up one slightly heaped tsp of the peanut butter filling and roll into a ball then flatten slightly. The disc should be smaller than the muffin cup diameter as you want chocolate to cover the side of the peanut butter filling. Place into the centre of the muffin cup. Repeat with remaining peanut butter filling."
+    },
+    {
+      "order": 7,
+      "instruction": "Refrigerate for 20 minutes until the chocolate is set."
+    },
+    {
+      "order": 8,
+      "instruction": "Melt the remaining chocolate in the microwave in 30 second bursts, stirring in between."
+    },
+    {
+      "order": 9,
+      "instruction": "Pour about 1 1/2 to 2 tsp of melted chocolate into each muffin cup, covering the peanut butter filling. Gently bang the muffin tin on the counter top to even out the surface of each peanut butter cup."
+    },
+    {
+      "order": 10,
+      "instruction": "Refrigerate for 20 minutes until the chocolate is set."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove paper patties and serve."
+    }
+  ]
+}

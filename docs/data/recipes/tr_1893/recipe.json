@@ -1,0 +1,240 @@
+{
+  "id": "tr_1893",
+  "title": "Thai Steak Salad w/Sweet + Spicy Tahini Dressing and Sesame Chili-Lime Cashews.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/07/Thai-Steak-Salad-w-Sweet-+-Spicy-Tahini-Dressing-and-Sesame-Chili-Lime-Cashews.-12.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/thai-steak-salad-wsweet-spicy-tahini-dressing-sesame-chili-lime-cashews/",
+  "servings": 6,
+  "prepTime": 25,
+  "cookTime": 15,
+  "tags": [
+    "cashew",
+    "chili",
+    "steak",
+    "tahini"
+  ],
+  "nutrition": {
+    "calories": 471,
+    "protein": 31.0,
+    "carbs": 34.0,
+    "fat": 27.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/3",
+      "unit": "cups",
+      "name": "raw cashews",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 teaspoons honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lime (zested)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "flank steak",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  limes (juiced + the zest of 1 lime)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "fish sauce (don't be afraid!)",
+      "emoji": "🐟",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "ponzu sauce (or soy sauce (but ponzu sauce is best and works better here))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons sweet thai chili sauce (I used 3 tablespoons)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 cloves garlic (minced or grated (depending on you taste, I used 1))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fresh ginger (grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons tahini (may sub peanut butter (but I loved the tahini), sesame seed paste)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "baby kale or other dark leafy green",
+      "emoji": "🥬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "bag frozen shelled edamame (defrosted and cooked for 3-5 min. in boiling water, 16)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  carrots (shredded or chopped)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  bell peppers (red (yellow and or orange), sliced thin)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh or frozen mango (chopped into chunks)",
+      "emoji": "🥭",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  lemongrass stalks (chopped)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  green onions (chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "3/4",
+      "unit": "cups",
+      "name": "of fresh basil (cilantro and mint (I only used 1/3 cup mint))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  hard boiled eggs (chopped (optional))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "black and/or white sesame seeds (toasted)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat a small skillet over medium heat and add the sesame oil, cashews and chili powder, toss well. Cook over medium heat until lightly toasted and browned, about five minutes. During the last minute of cooking add in the honey (I used 2 tablespoons). Remove from the heat and add the lime zest and 1 tablespoon black sesame seeds. Toss well and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the steak to a glass pyrex dish or gallon size ziplock bag."
+    },
+    {
+      "order": 3,
+      "instruction": "In a glass measuring cup or bowl whisk together the lime juice + zest, fish sauce, ponzu sauce, sweet thai chili sauce, garlic and ginger. Pour about 1/4 -1/3 of the dressing over the steak, cover or seal the bag and place in the fridge while you prep the rest of the salad, at least 15 minutes (the longer the better)."
+    },
+    {
+      "order": 4,
+      "instruction": "Meanwhile add the tahini to a small bowl and microwave until melted and smooth, about 15-20 seconds. Add the melted tahini to the dressing, whisk until smooth. Taste and add more tahini or sweet thai chili sauce to your liking, set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "In a large bowl add the kale, edamame, carrots, bell peppers, mango chunks, lemon grass and green onions. Give it all a good toss."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat a grill or grill pan to high heat."
+    },
+    {
+      "order": 7,
+      "instruction": "Once hot sear the steak for 5-8 minutes, flip and sear another 5 minutes or until your desired doneness is reached. Remove the steak and allow to rest 5 minutes. Slice steak thinly against the grain and add to the salad. Add the dressing and remaining sesame seeds. Toss to coat and massage the dressing into the veggies for 1-2 minutes. Add the eggs and cashews. Serve warm or cover and place in the fridge until ready to eat. I personally love this served warm."
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "id": "tr_1949",
+  "title": "Sweet Thai Chili Salmon Quesadillas with Spicy Mango.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/03/Sweet-Thai-Chili-Salmon-Quesadillas-with-Spicy-Mango.-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/sweet-thai-chili-salmon-quesadillas-spicy-mango/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [
+    "mango",
+    "quesadillas",
+    "salmon"
+  ],
+  "nutrition": {
+    "calories": 1152,
+    "protein": 54.0,
+    "carbs": 126.0,
+    "fat": 52.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "3/4",
+      "unit": "cups",
+      "name": "sweet thai chili sauce",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "dark brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "peanut butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "coconut water or milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lime (juiced)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fresh ginger (grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "olive oil (divided)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "skin on salmon",
+      "emoji": "🐟",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chopped napa cabbage",
+      "emoji": "🥬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "shredded carrots",
+      "emoji": "🥕",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red bell pepper (sliced thin)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "chopped peanuts",
+      "emoji": "🫛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "[coconut rice | https://www.halfbakedharvest.com/hawaiian-hula-pork-fajitas-pineapple-slaw-coconut-rice/] or steamed white or brown rice",
+      "emoji": "🥩",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  large flour tortillas",
+      "emoji": "🌾",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "mozzarella cheese (shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Frech cilantro or basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  mangos (peeled, pitted and diced small)",
+      "emoji": "🥭",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red chile (seeded + diced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  lime (juiced)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Teensy drizzle of sesame (peanut or olive oil)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To make the sauce, combine the sweet thai chili sauce, soy sauce, dark brown sugar, peanut butter, rice vinegar, lime juice, garlic, ginger and pepper in a medium sauce pot. Bring the sauce to a boil, reduce heat and simmer 5-10 minutes or until sauce has thickened slightly. Remove from the heat and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the salmon on a plate and rub with 1 tablespoon olive oil. Gently rub 2-3 tablespoons of the sauce on the salmon."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat a medium size skillet over medium-high heat and add a tablespoon of olive oil. Once hot, add the red pepper slices, cabbage and carrots. Stir fry for 2 minutes and then drizzle about 2-3 tablespoons of the sauce over the veggies, toss well and continue to cook until the veggies are tender. Remove the veggies from the pan. Reduce the heat to medium and add another tablespoon of olive oil, now add the salmon, skin side facing up. Sear the salmon for 3-4 minutes and then flip and continue cooking for another 4-5 minutes or until the salmon reaches your desired doneness. Cooking times will vary depending on the size of your salmon. Chop the salmon into bites."
+    },
+    {
+      "order": 4,
+      "instruction": "To assemble the quesadillas, heat an electric griddle or skillet over medium heat. Add a bit of olive oil. Place 4 tortillas down on a clean counter, covering each with a bit of the sauce and then sprinkle with a bit of the cheese.Then evenly distribute the rice, top that with the veggies and then add the chopped salmon. Sprinkle with a little more of the cheese. Place the tortilla on the griddle or skillet, then cover with the other tortilla. Cook until the bottom is crispy and golden brown, then gently flip and cook for another 2-3 minutes until crispy and golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Cut into fourths and serve with the spicy mangos and any remaining sauce or sweet thai chile sauce. Sprinkle with cilantro and avocados."
+    },
+    {
+      "order": 6,
+      "instruction": "To make the spicy mangos toss the mangos and chopped red chile pepper with the lime juice, a drizzle of oil, a pinch of cayenne and salt. Toss again."
+    }
+  ]
+}

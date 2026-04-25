@@ -1,0 +1,185 @@
+{
+  "id": "tr_1524",
+  "title": "Broccoli Cheddar Chicken and Dumpling Soup.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/09/Broccoli-Cheddar-Chicken-and-Dumpling-Soup-7-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/broccoli-cheddar-chicken-and-dumpling-soup/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 45,
+  "tags": [
+    "chicken dumpling"
+  ],
+  "nutrition": {
+    "calories": 1095,
+    "protein": 62.0,
+    "carbs": 78.0,
+    "fat": 52.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "pound",
+      "name": "boneless skinless chicken breasts or thighs",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "kosher salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  yellow onion (finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  carrots (chopped)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  fresh thyme sprigs",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "6",
+      "unit": "cups",
+      "name": "low sodium chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "apple cider",
+      "emoji": "🍎",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "fresh or frozen broccoli florets",
+      "emoji": "🥦",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "whole milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "nutmeg",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "butter milk",
+      "emoji": "🧈",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "grated parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "shredded sharp cheddar cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat a large soup pot over medium-high heat. Add the olive oil and butter. Season the chicken with salt + pepper. When the oil shimmers, add the chicken and sear on both sides. Remove the chicken from the pot."
+    },
+    {
+      "order": 2,
+      "instruction": "To the pot, add the onions and season with salt + pepper. Cook, stirring often until the onions are fragrant and lightly caramelized, about 5 minutes. Add the carrots and thyme sprigs, cook 5 minutes more, then slowly pour in the chicken broth and cider. Add the chicken and broccoli to the pot. Bring the mixture to a low boil, cover and simmer for 15-20 minutes or until the chicken is cooked through and the broccoli tender. Remove the thyme sprigs and chicken from the pot and let cool slightly, then shred with two forks or your hands, discard the thyme."
+    },
+    {
+      "order": 3,
+      "instruction": "Transfer 3/4 of the soup to a blender and blend until the broccoli is finely chopped. Return the soup to the pot and stir in the milk and nutmeg. Bring the soup to a boil."
+    },
+    {
+      "order": 4,
+      "instruction": "To make the dumplings. In a medium bowl, whisk together the flour, baking powder and salt. Add the buttermilk and mix until just combined. Fold in the parmesan."
+    },
+    {
+      "order": 5,
+      "instruction": "Drop a tablespoon of the dough into the boiling soup. Continue until you've worked your way through all the dough. You should end up with 10-12 dumplings. Cover the pot so the dumplings can cook for about 5 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Carefully move the dumplings aside and stir in the cheddar cheese and shredded chicken to the soup and heat through. Ladle the dumplings and soup into bowls and serve with an extra handful of shredded cheddar, if desired. EAT!"
+    }
+  ]
+}

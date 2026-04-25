@@ -1,0 +1,419 @@
+{
+  "id": "tr_1147",
+  "title": "Lobster Recipes - for cooked lobster or crayfish",
+  "image": "https://www.recipetineats.com/tachyon/2020/12/Lobster-recipes-square-image.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lobster-recipes-cooked-lobster-crayfish/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "cooked lobster recipes",
+    "crayfish",
+    "lobster recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Whole cooked lobster(s) or crayfish",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Marie Rose aka Thousand Island",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Tartare Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Seafood Cocktail Sauce ((most intense flavoured, use sparingly))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "RecipeTin Family Favourite Seafood Sauce ((my pick!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Prawn Cocktail recipe - sub prawns with lobster",
+      "emoji": "🦐",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp  salted butter (, cut into 1.5cm / 1/2&quot; cubes (or unsalted + 1/4 tsp salt))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, very finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 tbsp+ lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon wedges &amp; 1/2 cup parsley leaves (, for serving)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crusty bread (, for mopping plate!)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon Butter Sauce recipe",
+      "emoji": "🧈",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon wedges &amp; 1/2 cup parsley leaves (, for serving)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crusty bread (, for mopping plate!)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(lightly packed) parsley  (, chopped (OK to include some stems, up to 1/4 cup)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "whole capers",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "red or white wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  anchove (large, or 2 small) (, chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "160",
+      "unit": "g",
+      "name": "/ 1 cup  cooked lobster meat (, cut into 1cm/ 2/5&quot; cubes (1 x 600g/1.2lb whole lobster))",
+      "emoji": "🦞",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "kewpie mayonnaise (or Hellman&#039;s) ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "celery, finely chopped ((~ 1 stalk))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "green onions (, very finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "chives (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 30
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 31
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 32
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "butter (, softened, for buttering buns)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 33
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  mini brioche buns or rolls ((or other very soft roll best for this))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 34
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Plain potato chips (, for serving (classic accompaniement))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 35
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Garnishes (optional): Pinch paprika, chopped chives, lemon wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 36
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "If lobster was frozen, thaw lobster overnight in a bowl or tray (with sides to catch liquid). Drain well before use."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut between head and tail: Insert a small knife at a 45 degree angle into the gap between the tail and head. Cut along the top and sides through to the middle - no need to do underneath."
+    },
+    {
+      "order": 3,
+      "instruction": "Separate head from tail: Twist the tail to separate it from the head. It will pull out meat from the head as well."
+    },
+    {
+      "order": 4,
+      "instruction": "Clean: Scrape or trim off any yellow of black residue on the end that came out of the head."
+    },
+    {
+      "order": 5,
+      "instruction": "Cut underside: Cut down both sides of the soft shell on the underside of the tail. Then peel it back like a can of sardines to reveal the lobster flesh."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove flesh: Carefully remove the flesh - it should come off the shell cleanly."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove poop vein - if you see a poop vein (black &quot;string&quot; down the back of the lobster tail meat), then carefully pull it out. If you stretch the meat out straight, you should be able to pull it out in one go. Otherwise, pick it out when you slice it. (Sometimes poop vein is thick, sometimes barely there!)"
+    },
+    {
+      "order": 8,
+      "instruction": "Residual meat in head: There will be some residual meat in the head that can be used. The yellow &quot;mustard&quot; (called tomalley) has very intense lobstar flavour but is an acquired taste... I do not eat it!"
+    },
+    {
+      "order": 9,
+      "instruction": "How to serve: Lobster tail meat can be served whole, sliced into thick or thin pieces or diced, depending on use. I do not recommend shredded as it loses juiciness."
+    },
+    {
+      "order": 10,
+      "instruction": "Make Sauce per the Dipping Sauces recipe."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve alongside lobster for dipping. Either cut the lobster into bite size pieces, or serve whole for people to cut themselves. Plate it up individually or on a share platter."
+    },
+    {
+      "order": 12,
+      "instruction": "Make the Prawn Cocktail recipe but substitute prawn for lobster cut into small bite size pieces."
+    },
+    {
+      "order": 13,
+      "instruction": "Melt butter in a small skillet over medium heat. Once foamy, add garlic and cook until light golden. Remove from stove, add lemon juice and parsley."
+    },
+    {
+      "order": 14,
+      "instruction": "Serving: Pour into serving bowl and serve alongside lobster. Garnish with parsley leaves and lemon wedges."
+    },
+    {
+      "order": 15,
+      "instruction": "Eating: Let people either dip in bite size pieces or drizzle over lobster, plated up indivudually or on a share style plate. Mop plate clean with crusty bread!"
+    },
+    {
+      "order": 16,
+      "instruction": "Make the sauce per the Lemon Browned Butter Sauce recipe."
+    },
+    {
+      "order": 17,
+      "instruction": "Slice the lobster into bite size pieces. Pile onto plate or arrange on indivudual plates. Sprinkle with salt (necessary as browned butter is unsalted)."
+    },
+    {
+      "order": 18,
+      "instruction": "Serving: Drizzle with some browned butter, then serve more on the side. Garnish with parsley leaves and lemon wedges."
+    },
+    {
+      "order": 19,
+      "instruction": "Eating: To eat, dip or drizzle lobster with more browned butter. Mop plate clean with crusty bread!"
+    },
+    {
+      "order": 20,
+      "instruction": "Blitz ingredients in a Nutribullet or small food processor until it becomes a paste. It should be smooth but a bit of courseness for texture ie don&#039;t blend into a smoothie."
+    },
+    {
+      "order": 21,
+      "instruction": "Slice lobster into bite size pieces. Arrange on indvidual plates or share plate. Drizzle little dollops of salsa verde over lobster - don&#039;t go overboard, the flavour is quite strong!"
+    },
+    {
+      "order": 22,
+      "instruction": "Garnish with lemon wedges &amp; parlsey leaves, serve."
+    },
+    {
+      "order": 23,
+      "instruction": "Place lobster in a bowl. Add mayonnaise, lemon, chives, celery, green onions, salt and pepper. Gently toss to coat."
+    },
+    {
+      "order": 24,
+      "instruction": "Split then generously butter buns or rolls. Stuff generously! Makes 2 mini brioche buns or 3 round rolls."
+    }
+  ]
+}

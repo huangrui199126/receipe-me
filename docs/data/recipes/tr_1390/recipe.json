@@ -1,0 +1,90 @@
+{
+  "id": "tr_1390",
+  "title": "Lemon Yogurt Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2020/10/Lemon-Yogurt-Sauce_9.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lemon-yogurt-sauce/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "lemon yogurt sauce",
+    "yogurt sauce"
+  ],
+  "nutrition": {
+    "calories": 277,
+    "protein": 9.0,
+    "carbs": 12.0,
+    "fat": 22.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "plain yogurt (, preferably full-fat  (I use Greek-style, greek or regular plain works))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "finely grated garlic (1/2 clove)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice ((sub half the amount with apple cider vinegar, or other clear vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra-virgin olive oil (, plus more to thin if desired)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt/kosher salt ((halve for fine table salt, +50% for flakes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "black or white pepper (, optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra water or olive oil to thin (, if needed (use with caution, taste and add extra salt if needed))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix the ingredients in a bowl and set aside for at least 20 minutes to let the flavours meld."
+    },
+    {
+      "order": 2,
+      "instruction": "Loosen - If you want to thin it slightly (for drizzling) add water or olive oil 1 tablespoon at a time, taste and add more salt if needed. Use for dipping, drizzling, dolloping, smearing (see in post for so many ideas!)"
+    }
+  ]
+}

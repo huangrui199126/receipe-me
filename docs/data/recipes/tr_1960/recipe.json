@@ -1,0 +1,120 @@
+{
+  "id": "tr_1960",
+  "title": "Harissa, Smashed Avocado + Egg Toast with Goat Cheese and Honey Drizzle.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/02/Harissa-Smashed-Avocado-+-Egg-Toast-with-Goat-Cheese-and-Honey-Drizzle.-1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/harissa-smashed-avocado-egg-toast-goat-cheese-honey-drizzle/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "avocado",
+    "goat cheese",
+    "harissa",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 281,
+    "protein": 9.0,
+    "carbs": 11.0,
+    "fat": 16.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "whole grain bread (toasted)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "homemade or store bought Harissa (use more or less depending on how spicy you like it)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  an avocado pitted + peeled",
+      "emoji": "🥑",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "oil-packed sun-dried tomatoes (chopped or sliced)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "ounces",
+      "name": "goat cheese (crumbled (or feta))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "fresh lemon zest",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  eggs (cooked, using your desired method.)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the broiler to high."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the avocado to a small bowl with a pinch of salt and pepper and lightly mash using a fork."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the toast on a baking sheet and spread with a little bit of Harissa on both pieces. Be careful, this stuff is spicy and you can always add more if needed later. Next evenly spread the mashed avocado over the Harissa. Top that with the sun-dried tomatoes and a good sprinkle of crumbled goat cheese. I go pretty heavy on the goat cheese. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook your eggs to your liking. Normally I fry mine and leave the yolks just a little runny, but any way you like your eggs will work! About 1 or 2 minutes before your eggs are done pop the toast under the broiler to get them all toasty and warm (WATCH CLOSE!!!). Remove the toast and then drizzle with a little honey."
+    },
+    {
+      "order": 5,
+      "instruction": "When the eggs are ready, top each piece of toast with an egg. Zest some fresh lemon over top, sprinkle with salt and pepper. EAT."
+    }
+  ]
+}

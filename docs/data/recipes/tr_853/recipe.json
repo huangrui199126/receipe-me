@@ -1,0 +1,147 @@
+{
+  "id": "tr_853",
+  "title": "Lemon Potato Salad",
+  "image": "https://www.recipetineats.com/tachyon/2018/08/Lemon-Potato-Salad_9.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lemon-potato-salad/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 256,
+    "protein": 5.0,
+    "carbs": 29.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb   baby potatoes ((Note 1))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "salt ((for water))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "green onions (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "/ 75 ml   extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65 ml  lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon zest ((1 large lemon))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove, large, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Dressing: Shake in a jar."
+    },
+    {
+      "order": 2,
+      "instruction": "Halve so they are about 2.5cm / 1\" pieces (cut large ones into 3)."
+    },
+    {
+      "order": 3,
+      "instruction": "Bring 4 litres / 4 quarts water to the boil, add salt. Add potatoes, bring back up to the boil then reduce to simmer. Cook for 5 minutes or until just cooked - don't let them overcook or become too soft, they will keep cooking from residual heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Drain and immediately transfer to a bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "While potatoes are hot, pour over half the Dressing. Use rubber spatular to gently stir."
+    },
+    {
+      "order": 6,
+      "instruction": "Set aside to marinate for at least 30 minutes, even overnight."
+    },
+    {
+      "order": 7,
+      "instruction": "Add green onions and parsley, pour over remaining Dressing. Carefully toss with rubber spatular, then serve. Great warm or at room temperature, and it's also great the next day."
+    }
+  ]
+}

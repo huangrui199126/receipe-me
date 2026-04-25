@@ -1,0 +1,175 @@
+{
+  "id": "tr_1122",
+  "title": "Slow Cooker Honey Buffalo Chicken Sliders",
+  "image": "https://www.recipetineats.com/tachyon/2016/02/Honey-Buffalo-Chicken-Sliders_4.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/slow-cooker-honey-buffalo-chicken-sliders/",
+  "servings": 7,
+  "prepTime": 15,
+  "cookTime": 240,
+  "tags": [],
+  "nutrition": {
+    "calories": 518,
+    "protein": 43.6,
+    "carbs": 51.5,
+    "fat": 15.2
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "lb",
+      "name": "/ 1 kg   chicken breast (, boneless skinless (3 large or 4 small))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "hot sauce of choice ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "+ 2 tbsp   honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "tomato ketchup ((or Australian tomato sauce))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder ((or onion powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried thyme ((or 1 tsp fresh thyme leaves))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "cornstarch / corn flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "7  rolls",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lettuce of choice ((optional))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Blue Cheese Sauce ((optional - see recipe below))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place chicken in one layer in slow cooker and sprinkle with garlic powder, paprika, thyme, salt and pepper. Add remaining Buffalo Chicken ingredients, mostly around the chicken rather than on top. Cook on LOW for 4 hours. (Note 2)"
+    },
+    {
+      "order": 2,
+      "instruction": "Remove chicken from slow cooker and shred roughly with too forks."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss in Sauce and keep warm."
+    },
+    {
+      "order": 4,
+      "instruction": "Mix cornstarch with 2 tbsp water and add to Sauce (after chicken is removed). Simmer on sauté setting in slow cooker for 5 minutes, or until thickened to a syrup consistency (or transfer to saucepan and do this over medium heat)."
+    },
+    {
+      "order": 5,
+      "instruction": "Adjust salt &amp; spiciness to taste per Note 1."
+    },
+    {
+      "order": 6,
+      "instruction": "Split rolls in half and toast (if desired). Butter (if desired), then place lettuce on bottom half and top with chicken. Serve warm, with Blue Cheese Sauce if you're a fan of blue cheese!"
+    }
+  ]
+}

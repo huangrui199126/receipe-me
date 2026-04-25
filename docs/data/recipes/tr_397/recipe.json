@@ -1,0 +1,87 @@
+{
+  "id": "tr_397",
+  "title": "Chocolate Buttercream Frosting",
+  "image": "https://www.recipetineats.com/tachyon/2018/05/Chocolate-Cupcakes9-SQ.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chocolate-buttercream-frosting/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "buttercream frosting",
+    "chocolate buttercream",
+    "cookie frosting"
+  ],
+  "nutrition": {
+    "calories": 229,
+    "protein": 1.0,
+    "carbs": 27.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 3/4 cup  unsalted butter, softened",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "soft icing sugar / powdered sugar (, sifted (Note 1))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cocoa powder (, unsweetened, preferably Dutch Processed, sifted(Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "milk  ((any))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract ( (optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place butter in the bowl of a stand mixer with paddle attached. Beat for 3 minutes on speed 7 until it becomes pale."
+    },
+    {
+      "order": 2,
+      "instruction": "Add half the icing sugar and cocoa powder. Beat for 3 minutes - start slow, increase to speed 7."
+    },
+    {
+      "order": 3,
+      "instruction": "Add remaining icing sugar and cocoa powder. Beat again for 3 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Add milk and vanilla if using. Beat again for 1 minute on speed 7."
+    },
+    {
+      "order": 5,
+      "instruction": "Spread onto cakes / cupcakes, or spoon into frosting bag and pipe."
+    }
+  ]
+}

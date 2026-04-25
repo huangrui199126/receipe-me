@@ -1,0 +1,126 @@
+{
+  "id": "tr_832",
+  "title": "Vietnamese Caramel Pork",
+  "image": "https://www.recipetineats.com/tachyon/2017/10/Vietnamese-Caramel-Pork_-2.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vietnamese-caramel-pork/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 90,
+  "tags": [
+    "vietnamese caramel pork",
+    "vietnamese pork recipe"
+  ],
+  "nutrition": {
+    "calories": 727,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 100g  brown sugar, tightly packed",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb   pork shoulder ((butt) or boneless skinless pork belly, cut into 3 cm / 1.2\" pieces (Note 1a))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "/ 375 ml   coconut water ((Note 1b))",
+      "emoji": "🥥",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  eschallot / shallot (, very finely sliced (Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Red chilli and finely sliced shallots/green onions",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place sugar and water in a large pot over medium heat. Stir, then when it bubbles and the sugar is melted (it looks like caramel), add the rest of the ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Stir, then adjust the heat so it is simmering fairly energetically. Not rapidly, not a slow simmer (I use medium heat on a weak stove, between medium and low on a strong stove)."
+    },
+    {
+      "order": 3,
+      "instruction": "Simmer for 1.5 hours, uncovered. Stir once or twice while cooking."
+    },
+    {
+      "order": 4,
+      "instruction": "At around 1.5 hours, when the liquid has reduced down and the pork is tender, (see Note 3 if pork is not yet tender), the fat will separate (see video)."
+    },
+    {
+      "order": 5,
+      "instruction": "Stir and the pork will brown and caramelise in the fat."
+    },
+    {
+      "order": 6,
+      "instruction": "Once the liquid is all gone and it's now stuck on the pork pieces, it's ready."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve over rice, garnished with fresh chilli and shallots. Simple pickled vegetables are ideal for a side because the fresh acidity pairs well with the rich pork."
+    }
+  ]
+}

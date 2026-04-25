@@ -1,0 +1,106 @@
+{
+  "id": "tr_381",
+  "title": "Egg sandwich",
+  "image": "https://www.recipetineats.com/tachyon/2023/03/Egg-sandwich_1-SQ.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/egg-sandwich/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 8,
+  "tags": [
+    "egg salad",
+    "egg sandwich"
+  ],
+  "nutrition": {
+    "calories": 376,
+    "protein": 15.0,
+    "carbs": 27.0,
+    "fat": 23.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  soft boiled eggs (, at room temperature (Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "whole egg mayonnaise ((S&W brand best, Note 2))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "finely chopped chives ((sub green onion))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "cooking/kosher salt ((yes really, that&#39;s all!))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "8",
+      "unit": "slices",
+      "name": "soft white sandwich bread ((Note 3))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Soft salted butter (, for spreading on bread)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mash egg: Place the eggs in a bowl and crush with a fork. Once mostly broken up, use a potato masher to mash them up really well. Smaller egg white bits = creamier filling."
+    },
+    {
+      "order": 2,
+      "instruction": "Filling: Add remaining filling ingredients and gently stir to combine. Taste and add more salt if desired, but add with caution because it&#39;s bizarre how little salt eggs can take!"
+    },
+    {
+      "order": 3,
+      "instruction": "Make sandwich: Butter the bread. Divide filling between 4 pieces of bread, spread evenly edge to edge. Trim crusts (optional), then cut as you wish. (Note 4 tips)"
+    },
+    {
+      "order": 4,
+      "instruction": "Serve: Always serve at room temperature, for best flavour!"
+    }
+  ]
+}

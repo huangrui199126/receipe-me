@@ -1,0 +1,158 @@
+{
+  "id": "tr_718",
+  "title": "Spicy Wontons - Din Tai Fung!",
+  "image": "https://www.recipetineats.com/tachyon/2023/09/Spicy-wontons-din-tai-fung_7-2.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spicy-wontons-in-chilli-sauce-din-tai-fung/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "spicy wontons",
+    "wontons in chili oil"
+  ],
+  "nutrition": {
+    "calories": 72,
+    "protein": 0.2,
+    "carbs": 1.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10 - 12  wontons",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "green onion (, sliced then roughly chopped, for garnish)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra chilli oil (, for drizzling (Note 5))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, very finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "caster / superfine sugar ((sub regular sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "red chilli flakes ((red pepper flakes), OPTIONAL, for spicy food lovers (Note 2))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "sichuan pepper powder ((Note 3))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "Chinese five spice powder ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Chinese chicken stock powder (, or regular western stock powder (Note 5))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Chinese chilli oil ((⚠️ Note 5), adj for spiciness (sub with sesame oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil ((sub canola, peanut or other natural oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tsp",
+      "name": "light soy sauce (, or all-purpose soy (Note 6))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "rice vinegar ((sub other clean vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "hot water ((just tap is fine))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix spices - Put the garlic, sugar, chilli flakes, sichuan pepper, five spices and stock powder in a medium mixing bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil - Heat the chilli oil and vegetable oil in a small frying pan over medium heat until hot. Pour over garlic mixture. Enjoy the sizzle! (Don&#39;t worry, it doesn&#39;t spit)"
+    },
+    {
+      "order": 3,
+      "instruction": "Add sauces: - Whisk in soy sauce, rice vinegar and hot water. The oil will remain a little separated on top. Set aside while you make wontons."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook wontons - Bring a large saucepan of water to the boil. Add wontons and cook until they float: 4 minutes for freshly made, 6 to 8 minutes from frozen."
+    },
+    {
+      "order": 5,
+      "instruction": "Assemble - Transfer to serving dish using a slotted spoon. Pour over sauce, add an extra drizzle of chilli oil (if you dare!), sprinkle with green onion. Serve immediately!"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "tr_1081",
+  "title": "Italian Crusted Sardines",
+  "image": "https://www.recipetineats.com/tachyon/2021/09/Mediterranea-Crusted-Sardines_4-Square-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/italian-crusted-sardines/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "sardines recipe"
+  ],
+  "nutrition": {
+    "calories": 497,
+    "protein": 20.0,
+    "carbs": 12.0,
+    "fat": 42.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  butterflied sardines ((20g each = 160g total, Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "smoked paprika ((sub normal or sweet))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((Note 2))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "toasted pinenuts (, finely chopped (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  anchovies fillets (, finely minced (sub 3/4 tsp paste, Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "baby capers (, drained, finely chopped (Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "lemon zest",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "pecorino cheese (, finely grated (or parmesan))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fresh oregano (, chopped (sub 1/2 tsp dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "red onion, finely chopped  ((~1/4 small onion))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "large red chilli, finely chopped  (, deseeded)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Crust: Mix the Italian Crust ingredients in a bowl. Spread on a small plate."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix Topping: Mix the Topping together in another small bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare sardines: Pat sardines dry with paper towel. Sprinkle both sides of each sardine with the salt and pepper. Sprinkle the skin side only with the paprika."
+    },
+    {
+      "order": 4,
+      "instruction": "Crust flesh side: Press flesh side only firmly into the breadcrumbs - it won&#39;t completely cover, that&#39;s what we want (Note 6). Place on plate, breadcrumb side up. Repeat with remaining sardines."
+    },
+    {
+      "order": 5,
+      "instruction": "Pan fry sardines: Heat oil in a large non stick skillet over medium high heat. Place sardines in, skin side down. Cook for 60 seconds, then carefully turn. Cook the crust side for 90 seconds or until golden and crispy."
+    },
+    {
+      "order": 6,
+      "instruction": "Topping &amp; oil drizzle: Remove sardines onto plate, crust side up. Sprinkle with Topping. Pour remaining hot oil over sardines - enjoy the sizzle!"
+    },
+    {
+      "order": 7,
+      "instruction": "Serve immediately! Ideal served with crostini for the ultimate sardines on toast. See in post for side salad pairings."
+    }
+  ]
+}

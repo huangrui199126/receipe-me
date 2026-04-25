@@ -1,0 +1,272 @@
+{
+  "id": "tr_723",
+  "title": "Eggplant Curry - South Indian Brinjal Curry",
+  "image": "https://www.recipetineats.com/tachyon/2020/08/Eggplant-Curry-Indian__1-SQ.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/eggplant-curry-south-indian/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 60,
+  "tags": [
+    "eggplant curry",
+    "eggplant recipe",
+    "indian curry",
+    "vegetarian curry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3.0,
+    "carbs": 18.0,
+    "fat": 21.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 1.2 lb  eggplant (aubergine) (, 2 medium (Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "black mustard seeds ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "14  curry leaves, fresh ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion (, quartered and thinly sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "passata or tomato pulp (or canned tomato) ((Note 4))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "garlic (, grated (4 cloves approx))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ginger (, grated (1.5cm piece approx))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "coconut milk (or cream, full fat (Note 5))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cardamom powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "ground clove",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "chilli powder (or cayenne (NOT US Chilli Powder))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "coriander powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Basmati rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Yogurt (, highly recommended)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Coriander/cilantro leaves (, optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Easy flatbread (as naan!) (, optional)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 240°C / 450°F (220°C fan). Line tray with parchment/baking paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut eggplant into 2cm / 4/5&quot; slices, then cut into 2cm / 4/5&quot; batons."
+    },
+    {
+      "order": 3,
+      "instruction": "Place in large bowl, toss with oil, salt and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Spread on tray, roast 20 minutes. Turn, roast for a further 10 minutes - edges should be caramelised, soft inside, but they&#039;re not shrivelled up and dismal. Use per recipe."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat oil in a large pot over medium heat. Add mustard seeds, let them sizzle for 15 seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Add curry leaves, stir, leave to sizzle for 15 seconds - seeds might pop, Indian cooking is very dramatic!"
+    },
+    {
+      "order": 7,
+      "instruction": "Add onions, cook 5 minutes until golden brown."
+    },
+    {
+      "order": 8,
+      "instruction": "Add tomato, cook for 1 minute, stirring."
+    },
+    {
+      "order": 9,
+      "instruction": "Add garlic and ginger, cook 2 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Add Curry Spices and salt, and cook for another 3 minutes - it will be a thick paste and might stick to the bottom of the pot, don&#039;t let it burn (if it starts to, remove from stove and quickly add splash of water to loosen)."
+    },
+    {
+      "order": 11,
+      "instruction": "Stir in water, and then add the eggplant."
+    },
+    {
+      "order": 12,
+      "instruction": "Gently stir, partially cover, reduce heat to low and simmer 30 minutes. Stir carefully once or twice (so the eggplants don&#039;t break up completely), add more water if it dries out."
+    },
+    {
+      "order": 13,
+      "instruction": "Stir in coconut milk, taste then add more salt if needed."
+    },
+    {
+      "order": 14,
+      "instruction": "Your result should be a very thick, juicy, strongly flavoured curry with eggplant partially intact but half collapsed."
+    },
+    {
+      "order": 15,
+      "instruction": "Serve with basmati rice and a dollop of yogurt and fresh coriander leaves, if you want."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "tr_673",
+  "title": "Chicken stock recipe",
+  "image": "https://www.recipetineats.com/tachyon/2021/09/Homemade-chicken-stock_92-SQ.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-stock-recipe/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 180,
+  "tags": [
+    "chicken stock"
+  ],
+  "nutrition": {
+    "calories": 236,
+    "protein": 38.0,
+    "carbs": 8.0,
+    "fat": 5.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 kg/ 4 lb  chicken frames (ie carcass) (, raw (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot ((medium), unpeeled, cut into 4 equal pieces)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, peeled and halved)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  celery stem (, cut in four (use the leaves too))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "black peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "apple cider vinegar ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  bay leaves (, fresh (or 1 dried))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  thyme sprigs ((or 1/2 tsp dried leaves))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  parsley sprigs",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "litres",
+      "name": "/ 3 quarts  water ((just tap water, cold))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Fill pot: Place all the chicken stock ingredients into a large stockpot (7 litre / 7 quarts+). Fill with 3 litres / 3 quarts of cold water, which should just about cover the bones. (Note 3)"
+    },
+    {
+      "order": 2,
+      "instruction": "Scoop off scum: Bring to a boil on medium-high heat. Scoop off and discard any foam that collects on the surface using a ladle (this helps make stock clear)."
+    },
+    {
+      "order": 3,
+      "instruction": "Simmer 3 hours: Turn stove down to low and simmer for 3 hours with no lid. The stove should be low enough so the surface is barely rippling and you just get a gentle bubble every now and then. Too rapid boiling = murky stock."
+    },
+    {
+      "order": 4,
+      "instruction": "Strain: Using a lid to hold the bones and vegetables in the pot, pour the stock through a fine sieve into another pot or large bowl. (Alternatively, scoop out the solids first with a slotted spoon and then strain.)"
+    },
+    {
+      "order": 5,
+      "instruction": "Goal: You should end up with 2 litres / 2 quarts of stock. If you have more than about 2.25 litres / quarts, reduce by simmering on low (else the stock will be too weak). If you have less than 2 litres / quarts, top up with water."
+    },
+    {
+      "order": 6,
+      "instruction": "Fill jars/containers: Measure out into containers for storage and faster cooling. (I do multiples of 1 cup)"
+    },
+    {
+      "order": 7,
+      "instruction": "Cool: Allow to cool on the counter then refrigerate. This will make any fat rise to surface and solidify."
+    },
+    {
+      "order": 8,
+      "instruction": "Discard fat: Scrape fat off the surface and discard."
+    },
+    {
+      "order": 9,
+      "instruction": "Ready to use! This stock is equivalent in strength to store-bought stock, so it can be used 1:1 in any recipe calling for chicken stock."
+    },
+    {
+      "order": 10,
+      "instruction": "Store for 5 days in the fridge or freezer for 6 months. (Note 6)"
+    },
+    {
+      "order": 11,
+      "instruction": "Salt adjustment (Note 5): Homemade stock is unsalted whereas store-bought stock is salted. Add 1/4 tsp salt for every 1 cup homemade chicken stock (250ml) to match the salt level of store-bought low sodium chicken stock."
+    },
+    {
+      "order": 12,
+      "instruction": "To use: Cold stock has a jellied consistency (Note 4). It takes barely a minute to turn liquid on a medium-high stove, or microwave. You can also just add it in jelly form straight into dishes, but sometimes you may need to liquify it to measure."
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "id": "tr_1288",
+  "title": "Moroccan Spiral Meatball Zucchini Bake",
+  "image": "https://www.recipetineats.com/tachyon/2025/08/Moroccan-Meatball-Zucchini-Spiral-Bake_7.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/moroccan-spiral-meatball-zucchini-bake/",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 35,
+  "tags": [
+    "lamb meatballs",
+    "moroccan lamb meatballs"
+  ],
+  "nutrition": {
+    "calories": 495,
+    "protein": 24.0,
+    "carbs": 10.0,
+    "fat": 40.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((use GF if needed, can substitute regular breadcrumbs))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, grated with a standard box grater)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  lamb mince ((ground lamb), or beef (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced using a garlic crusher or knife)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "pretty finely chopped parsley (, plus extra for garnish)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "coriander power",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "paprika ((sweet / regular, or smoky - not spicy))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cinnamon powder ((don't skip this! Magical :) ))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cayenne pepper ((or black pepper), tiny amount so doesn't make it spicy)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  fat zucchinis / courgettes ((5cm/2&quot; wide, 22cm/9&quot; long is ideal), cut into ~20 x 1.2 cm / 0.5&quot; thick rounds (Note 2))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 large or 1 1/2 regular  red capsicum ((bell pepper), cut into ~20 x large-ish chunks 5 x 2.5cm / 1 x 2\" (Note 3))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil (, plus extra for drizzling to bake)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed using garlic press)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "warm tap water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Plain yogurt (, thinned with a little water to make it drizzle-able)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Flatbreads (, rice(basmati recommended), couscous, mash)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Toss Vegetables, mix Sauce. Make meatball mixture, roll and squish 16 meatballs, wedge between zucchini rounds, tuck capsicum in. Pour over sauce, bake 35 minutes at 200°C/375°F (180°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 200°C/375°F (180°C fan-forced)."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss capsicum and zucchini with the oil, salt and pepper in a bowl, and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Sauce - Mix the sauce ingredients in a small jug or bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Meatball mixture - Put the breadcrumbs in a bowl and grate the onion over. Toss with fingertips to wet the breadcrumbs with the onion juices. Then add remaining meatball ingredients and the Moroccan spice mix. Mix well with your hands."
+    },
+    {
+      "order": 6,
+      "instruction": "Roll &amp; squish - Roll the mixture into 16 balls then squish slightly to 1.5cm / 0.6&quot; thickness (~2.5 tbsp/45g each), about the size of (or slightly larger than) the zucchini rounds."
+    },
+    {
+      "order": 7,
+      "instruction": "Stand upright with a zucchini round wedged and arrange in a 26cm/10.5&quot; round cast-iron pan (or baking dish of similar size). I do them in a ring then use the rest to fill in the middle. Arrange loosely because next we wedge the capsicum in between wherever you can. Fill the whole pan so everything holds each other up, and use as much capsicum &amp; zucchini as you can (you might have leftover). There are NO RULES with arrangement here, make this your own delicious artwork! :)"
+    },
+    {
+      "order": 8,
+      "instruction": "Pour sauce over everything, aiming to pour some over everything as best you can. Drizzle all over with about 1 tbsp olive oil."
+    },
+    {
+      "order": 9,
+      "instruction": "Bake for 35 minutes until the surface of the meatballs are nicely browned."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve with flatbreads or garlic rice, being sure to spoon plenty of the delicious sauce over everything!"
+    }
+  ]
+}

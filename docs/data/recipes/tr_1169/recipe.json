@@ -1,0 +1,149 @@
+{
+  "id": "tr_1169",
+  "title": "Sticky Pantry Chicken Thigh recipe",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/Sticky-Pantry-Chicken_4.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sticky-chicken-thighs/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "chicken thigh recipe"
+  ],
+  "nutrition": {
+    "calories": 491,
+    "protein": 36.4,
+    "carbs": 59.5,
+    "fat": 11.3
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil ((for frying))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6 (1.5-2lb / 750g-1kg)  chicken thigh fillets (, boneless skinless)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "ketchup ( or tomato sauce (Australian))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dijon or American mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "hot sauce ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vinegar ((any))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauce - Whisk the ingredients in a medium bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Sprinkle each piece of chicken with the salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat the oil in a large non-stick pan over medium high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Coat chicken - Quickly dip a piece of chicken in the Sauce, shake off excess, then place in the pan. Repeat with as many pieces of chicken as you can fit in the pan."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook the first side for 3 minutes, until it caramelises and is dark golden, then turn and cook the other side for 2 minutes until the chicken is almost cooked through."
+    },
+    {
+      "order": 6,
+      "instruction": "Sauce - Add the remaining Sauce and water. Bring to a rapid simmer, stirring occasionally, scraping the bottom of the pan to get all the brown bits stuck to the bottom of the pan. When the sauce has thickened (around 1 to 2 minutes), remove the pan from the stove. Turn chicken in Sauce to coat."
+    },
+    {
+      "order": 7,
+      "instruction": "To serve, place chicken on plate and spoon over Sauce."
+    }
+  ]
+}

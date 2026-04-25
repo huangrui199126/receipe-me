@@ -1,0 +1,175 @@
+{
+  "id": "tr_1153",
+  "title": "Chinese Chicken Salad with Asian Peanut Salad Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/Chinese-Chicken-Salad-Peanut-Dressing-15.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-chicken-salad-with-asian-peanut-salad-dressing/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 490,
+    "protein": 38.6,
+    "carbs": 31.8,
+    "fat": 25.1
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "peanut butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "toasted sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "canola oil ((or vegetable, grapeseed or peanut oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  tsp+ Sriracha",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "+ 2 tsp   rice wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 1 1/2 tbsp water ((or lime juice))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "ginger (, freshly grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "Chinese cabbage / Napa cabbage (, shredded)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "red cabbage (, shredded)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "carrots (, julienned (I used Just Veg pre shredded carrots) (Note 1))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded cooked chicken",
+      "emoji": "🍗",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  shallot / green onion / scallion (, finely sliced on the diagonal)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "peanuts (, roughly chopped)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4+  cups  crunchy fried noodles ((I use Changs))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Dressing in a jug or small bowl. Use water to adjust consistency (it should be pretty thick and gloopy), Sriracha for spiciness and saltiness with salt (not more soy sauce)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place all Salad ingredients in a bowl, reserving some noodles, peanuts and shallots for topping. Drizzled with Dressing and toss. Garnish with remaining noodles, peanuts and shallots and serve immediately."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "tr_300",
+  "title": "Beef and Guinness Stew",
+  "image": "https://www.recipetineats.com/tachyon/2020/03/Irish-Beef-Guinness-Stew_6-SQ.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/irish-beef-and-guinness-stew/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 180,
+  "tags": [
+    "guinness stew",
+    "irish beef and guineess stew"
+  ],
+  "nutrition": {
+    "calories": 646,
+    "protein": 72.2,
+    "carbs": 15.3,
+    "fat": 29.1
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2.5",
+      "unit": "lb",
+      "name": "/ 1.25 kg   beef chuck (, boneless short rib or any other slow cooking beef (no bone))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "each salt and black pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  onions (, chopped (brown, white or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "6",
+      "unit": "oz",
+      "name": "/ 180g   bacon (, speck or pancetta, diced)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "flour ((all purpose/plain, Note 3 for GF))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "440",
+      "unit": "ml",
+      "name": "/ 14.9 oz  Guinness Beer ((Note 1))",
+      "emoji": "🍺",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "(750 ml)  chicken stock/broth ((or beef broth - Note 4))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  carrots (, peeled and cut into 1.25 cm / 1/2\" thick pieces)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large celery stalks (, cut into 2cm / 1\" pieces)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3",
+      "unit": "sprigs",
+      "name": "thyme ((or sub with 1 tsp dried thyme leaves))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the beef into 5cm/2\" chunks. Pat dry then sprinkle with salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a heavy based pot over high heat. Add beef in batches and brown well all over. Remove onto plate. Repeat with remaining beef."
+    },
+    {
+      "order": 3,
+      "instruction": "Lower heat to medium. If the pot is looking dry, add oil."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook garlic and onion for 3 minutes until softening, then add bacon."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook until bacon is browned, then stir through carrot and celery.&nbsp;"
+    },
+    {
+      "order": 6,
+      "instruction": "Add flour, and stir for 1 minute to cook off the flour."
+    },
+    {
+      "order": 7,
+      "instruction": "Add Guinness, chicken broth/stock and tomato paste. Mix well (to ensure flour dissolves well), add bay leaves and thyme.&nbsp;"
+    },
+    {
+      "order": 8,
+      "instruction": "Return beef into the pot (including any juices). Liquid level should just cover - see video or photos."
+    },
+    {
+      "order": 9,
+      "instruction": "Cover, lower heat so it is bubbling gently. Cook for 2 hours - the beef should be pretty tender by now. Remove lid then simmer for a further 30 - 45 minutes or until the beef falls apart at a touch, the sauce has reduced and thickened slightly."
+    },
+    {
+      "order": 10,
+      "instruction": "Skim off fat on surface, if desired. Adjust salt and pepper to taste. Remove bay leaves and thyme."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve with creamy mashed potatoes!!"
+    }
+  ]
+}

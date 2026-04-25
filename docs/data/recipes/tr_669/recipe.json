@@ -1,0 +1,147 @@
+{
+  "id": "tr_669",
+  "title": "Chicken in Creamy Mustard Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2022/11/Chicken-in-creamy-mustard-sauce_3.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-in-creamy-mustard-sauce/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "chicken breast recipe",
+    "chicken thigh recipe",
+    "creamy mustard sauce"
+  ],
+  "nutrition": {
+    "calories": 364,
+    "protein": 35.0,
+    "carbs": 2.0,
+    "fat": 24.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 1.4 lb  chicken thigh fillets (, skinless boneless (4 - 6 pieces, Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "thickened/heavy cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "whole grain mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 tbsp water (, as needed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fresh tarragon (, finely chopped (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Season chicken with the salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Sear chicken thighs - Heat oil in a large pan that is not non-stick over medium-high heat. (Note 3) Place chicken in pan smooth side-down and cook for 4 minutes or until deep golden. Turn and cook the other side for 3 minutes until cooked through (internal temperature 72°C/162°F, Note 4). Remove to a plate."
+    },
+    {
+      "order": 3,
+      "instruction": "Breast - If using breast (prepared per Note 1), sear on high for 2 minutes on each side, target temp 67°C/153°F.)"
+    },
+    {
+      "order": 4,
+      "instruction": "Clean pan - Scrape any loose black bits out of the pan and discard."
+    },
+    {
+      "order": 5,
+      "instruction": "Make sauce - Return the pan to medium heat. Add cream and both mustards. Mix with a wooden spoon until mustard dissolves, scraping up any brown bits stuck to the pan. Once sauce is hot but not simmering, stir in salt, pepper and herbs (if using). If getting too thick loosen with a touch of water."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve - Place chicken on serving plates. Spoon over sauce. Enjoy!"
+    }
+  ]
+}

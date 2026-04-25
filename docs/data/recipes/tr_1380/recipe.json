@@ -1,0 +1,146 @@
+{
+  "id": "tr_1380",
+  "title": "Greek Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2018/08/Greek-Yoghurt-Marinated-Chicken_5.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/greek-chicken/",
+  "servings": 4,
+  "prepTime": 8,
+  "cookTime": 50,
+  "tags": [
+    "greek chicken",
+    "greek chicken marinade"
+  ],
+  "nutrition": {
+    "calories": 442,
+    "protein": 41.0,
+    "carbs": 5.0,
+    "fat": 27.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1.25",
+      "unit": "kg",
+      "name": "/ 2.5 lb   drumsticks and chicken thighs (, bone in skin on (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  garlic cloves (, minced (~ 2 tbsp))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white wine vinegar ((or red wine or apple cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml  lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "Greek yogurt ((I use Farmers Union))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Plain Greek yogurt or Tzatziki",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh oregano leaves ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Marinade ingredients in a large bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Add chicken and coat well. Marinade for 24 hours (3 hours minimum)."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 180C.350F."
+    },
+    {
+      "order": 4,
+      "instruction": "Line a tray with foil (trust me), place rack on tray (optional)."
+    },
+    {
+      "order": 5,
+      "instruction": "Place chicken on rack (reserve marinade), skin side up. Bake 30 minutes,"
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from oven. Brush with marinade - do not flip."
+    },
+    {
+      "order": 7,
+      "instruction": "Return to oven for 20 minutes or until golden and a bit crispy. Give it a spray of olive oil just before it's done if you want an extra crispy, shiny coat."
+    },
+    {
+      "order": 8,
+      "instruction": "Rest for a few minutes before serving. Juicy and tasty enough to serve plain but extra great with tzatziki or even some plain yogurt."
+    }
+  ]
+}

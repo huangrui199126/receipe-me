@@ -1,0 +1,123 @@
+{
+  "id": "tr_68",
+  "title": "Honey Sriracha Chicken Skewers",
+  "image": "https://www.recipetineats.com/tachyon/2016/01/Honey-Sriracha-Glazed-Chicken-Skewers_1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/honey-sriracha-glazed-chicken-skewers/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 387,
+    "protein": 38.1,
+    "carbs": 16.9,
+    "fat": 15.4
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "lb",
+      "name": "/ 750g lb / 750g   chicken thigh fillets ((Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Dijon mustard ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp sriracha OR any other hot sauce ((e.g. Frank's), adjust amount to your taste)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "oil ((I used vegetable))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the chicken into 2cm / 4/5\" cubes."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix Marinade ingredients together in a bowl until smooth."
+    },
+    {
+      "order": 3,
+      "instruction": "Transfer 4 tablespoons of the Marinade into a small bowl (\"Reserved Marinade\", to use for basting)."
+    },
+    {
+      "order": 4,
+      "instruction": "Add chicken into the bowl with the remaining Marinade. Mix to coat and set aside for 20 minutes to marinade (up to overnight). (Note 3)"
+    },
+    {
+      "order": 5,
+      "instruction": "Thread chicken onto skewers, discard marinade in the bowl. I used 14 small ones about 18cm/7\" long, 4 pieces of chicken on each."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat oil on a BBQ or skillet over medium heat. Place skewers on the BBQ and cook the first side for 2 1/2 minutes, then turn the skewers."
+    },
+    {
+      "order": 7,
+      "instruction": "Baste the COOKED side that is now facing up generously with the reserved Reserved Marinade. After 2 1/2 minutes, turn the skewers and quickly baste the other side generously with the Reserved Marinade. Turn immediately. Cook for just a few seconds, then transfer to a plate. (Note 4)"
+    },
+    {
+      "order": 8,
+      "instruction": "Baste the skewers on the plate one more time with the Reserved Marinade, then serve."
+    },
+    {
+      "order": 9,
+      "instruction": "I served mine with Cilantro/Coriander Lime Rice (Note 5)"
+    }
+  ]
+}

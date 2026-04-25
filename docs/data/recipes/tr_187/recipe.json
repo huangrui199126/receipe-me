@@ -1,0 +1,199 @@
+{
+  "id": "tr_187",
+  "title": "Momofuku Marinated Beef Skirt Steak Ssam",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Momofuku-Marinated-Skirt-Steak-Ssam-1-1.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/momofuku-marinated-beef-skirt-steak-ssam/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 480,
+    "protein": 33.8,
+    "carbs": 13.2,
+    "fat": 31.1
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "lb",
+      "name": "/ 1 kg   skirt / flank / hanger steak ((Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "apple juice",
+      "emoji": "🍎",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  brown onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "freshly ground black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250 g   shallots/scallions (, thinly sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "5",
+      "unit": "g",
+      "name": "fresh ginger (, finely chopped or minced)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "grape seed oil ((or another neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "light soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "sherry vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt ((adjust to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ssamjang ((Korean fermented bean-and- chili paste, available in many Asian stores))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "kochujang ((Korean chili paste, available in many Asian stores))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "sherry vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "grape seed oil ((or another neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  small heads of Bib Lettuce (, leaves removed, washed and dried)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine Beef with Marinade and marinade at least overnight, up to 24 hours."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove beef from marinade. Preheat outdoor grill or heavy based skillet on stove on very high heat. You want it to be screaming hot. Cook the beef to your liking (see notes for guide)."
+    },
+    {
+      "order": 3,
+      "instruction": "When done, remove from heat, cover loosely with foil and let them rest for 5 to 10 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Make the Ginger Spring Onion Sauce by combining the ingredients and mixing to combine."
+    },
+    {
+      "order": 5,
+      "instruction": "Make the Ssam Sauce by combining the ingredients and mixing well until smooth."
+    },
+    {
+      "order": 6,
+      "instruction": "Slice the beef into 0.5cm / 0.2 inch thick slices, against the grain."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve with lettuce, Ginger Spring Onion Sauce and Ssam Sauce on the side."
+    },
+    {
+      "order": 8,
+      "instruction": "To eat, place a piece of beef in a lettuce leaf, top with some of each sauce, then fold over lettuce, eat and be happy."
+    }
+  ]
+}

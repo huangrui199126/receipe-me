@@ -1,0 +1,96 @@
+{
+  "id": "tr_1576",
+  "title": "Minty Watermelon Cucumber Margarita.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/05/Minty-Watermelon-Cucumber-Margaritas-1.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/minty-watermelon-cucumber-margaritas/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "cucumber",
+    "margarita",
+    "mint",
+    "watermelon"
+  ],
+  "nutrition": {
+    "calories": 327,
+    "protein": 4.0,
+    "carbs": 61.0,
+    "fat": 1.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 cups cubed watermelon",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "english cucumber (skin removed, about half of the cucumber)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "white agave tequila",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh squeezed lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoon agave nectar (or to taste)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6-8 leaves fresh mint",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "slices",
+      "name": "watermelon and fresh mint (for serving)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a blender, combine the watermelon, cucumber, tequila. lime juice and agave. Blend until completely smooth. Strain the mixture through a fine mesh strainer."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the mint to the bottom of two glasses and muddle the mint using a muddler or the bottom of a rolling pin. Fill the glass with crushed ice and pour the watermelon mix over the ice. Gently stir to combine. Garnish each glass with a watermelon wedge and fresh mint leaf. DRINK!"
+    },
+    {
+      "order": 3,
+      "instruction": "In a blender, combine the watermelon, cucumber, tequila, lime juice and agave. Blend until completely smooth. Strain the mixture through a fine mesh strainer. Return the juice to the blender and add 1 2/3 to 2 cups ice + the fresh mint. Blend until combined and slushy like. Divide between two glasses. Garnish each glass with a watermelon wedge and fresh mint leaf. DRINK!"
+    }
+  ]
+}

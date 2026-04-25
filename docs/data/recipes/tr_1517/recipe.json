@@ -1,0 +1,129 @@
+{
+  "id": "tr_1517",
+  "title": "Smashed Sweet Potatoes with Bourbon Maple Butter.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/11/Smashed-Sweet-Potatoes-with-Bourbon-Maple-Butter-6.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/crispy-roasted-sweet-potatoes-bourbon-maple-butter/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 50,
+  "tags": [
+    "sweet potato"
+  ],
+  "nutrition": {
+    "calories": 291,
+    "protein": 2.0,
+    "carbs": 28.0,
+    "fat": 20.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  medium sweet potatoes (sliced into 1/2 inch rounds)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "kosher salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "raw pecans (chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2-1 teaspoon cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "7",
+      "unit": "tablespoons",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "maple syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons bourbon",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 425 degrees F."
+    },
+    {
+      "order": 2,
+      "instruction": "On a baking sheet, combine the sweet potatoes, olive oil, 1 teaspoon cinnamon, 1 teaspoon vanilla, and a pinch each of salt and pepper. Arrange in an even layer and transfer to the oven. Roast for 20 minutes, flip and roast another 20-25 minutes, or until the potatoes are tender."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, melt 1 tablespoon butter in a large skillet over medium heat. Add the pecans, cayenne, and remaining 1/2 teaspoon cinnamon. Cook, stirring often until the pecans are toasted, about 5 minutes. Remove from the heat set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "In a small sauce pan set over medium heat, combine the remaining 6 tablespoons butter, the maple syrup and the bourbon. Bring to a boil and then reduce the heat to low, simmer 5 minutes and then remove from the heat. Stir in the remaining 1 teaspoon vanilla."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove from the oven and using a fork, gently push down and give the potato a light mash, keeping the potato round mostly intact. Drizzle reach round with a little maple butter and return to the oven for another 5-8 minutes or until the potatoes are crisp."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve warm, sprinkled with toasted pecans and the remaining maple butter along side."
+    }
+  ]
+}

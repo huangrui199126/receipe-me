@@ -1,0 +1,321 @@
+{
+  "id": "tr_1910",
+  "title": "Moroccan Chicken Salad with Pistachio Crusted Fried Goat Cheese + Garlic Naan.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/06/Moroccan-Chicken-Salad-with-Pistachio-Crusted-Fried-Goat-Cheese-+-Garlic-Naan.-1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/moroccan-chicken-salad-pistachio-crusted-fried-goat-cheese-garlic-naan/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [
+    "morocan chicken"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 21.0,
+    "carbs": 45.0,
+    "fat": 33.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "boneless skinless chicken (cut into bite size cubes)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "juice + zest of 1 lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 inch piece fresh ginger (peeled + roughly chopped)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoon",
+      "name": "dried chile de arbol (seeds removed (or 1/2 -1 cayenne pepper))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "fresh cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "fresh parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tablespoon",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "oil packed sun-dried tomatoes, drained",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "kalamata olives",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh berries (I recommend strawberries (blueberries, grapes, dates or mangos) - optional)",
+      "emoji": "🥭",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "8",
+      "unit": "cups",
+      "name": "spring greens",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  fresh [garlic naans | https://www.halfbakedharvest.com/homemade-naan-step-step-photos/]",
+      "emoji": "🧄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemon (juiced)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "chipotle chile pepper (minced (or 1/2-1 chipotle chile powder))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  jalapeño (finely chopped)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt + pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (8 ounce) goat cheese log (rolled into 10-14 disks)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "Panko bread crumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "finely crushed pistachios",
+      "emoji": "🥄",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "fresh mint (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of crushed red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 30
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg (beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 31
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "coconut oil (for frying)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 32
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the chicken in a gallon size ziplock bag or medium size bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "To the bowl of a food processor add the olive oil, lemon zest + juice, garlic, ginger, dried chile de arbol (or cayenne), cilantro, parsley, smoked paprika, cumin, cinnamon, salt, and pepper. Pour the marinade over the chicken in the ziplock bag and toss well. Place in the fridge for at least 2 hour or overnight."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile make the vinaigrette. In a glass jar with a screw on lid or a bowl combine the olive oil, apple cider vinegar, lemon juice, honey, cilantro, chipotle chile pepper, jalapeño, salt and pepper. Shake or whisk to combine. Taste and adjust to your liking, set aside until ready to use."
+    },
+    {
+      "order": 4,
+      "instruction": "Next combine the bread crumbs, pistachio crumbs, mint, a pinch of pepper and a pinch of crushed red pepper flakes in a bowl. Whisk to combine. Add the egg to another bowl and whisk."
+    },
+    {
+      "order": 5,
+      "instruction": "Dip the goat cheese rounds through the egg and then dredge them through the pistachio mixture, pressing gently to adhere. Place on a plate and continue with the rest of the rounds. Place the plate in the fridge while you grill the chicken."
+    },
+    {
+      "order": 6,
+      "instruction": "Preheat the grill or a grill pan to medium-high heat and lightly oil the grates. Place the chicken on the grill until the chicken is golden and no longer pink in the center, about 5-10 minutes each side (depends on the thickness of your chicken). You may also cook the chicken in a skillet if needed. Remove the chicken from the grill and let cool slightly while you fry the goat cheese."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat a high sided skillet over medium heat and add about 1 inch of coconut oil. Once hot add the goat cheese rounds and fry for 1-2 minutes per side or until just beginning to turn golden brown. Repeat with all the rounds."
+    },
+    {
+      "order": 8,
+      "instruction": "To assemble the salads lightly shred the chicken with two forks or your hands. Add the chicken, lettuce, sun-dried tomatoes, olives and fruit to a large bowl and give it a toss. Divide the salad among plates and top each plate with the warm goat cheese rounds. Drizzle with the vinaigrette and sprinkle with pistachios if desired. Serve with warm [grilled naan | https://www.halfbakedharvest.com/homemade-naan-step-step-photos/]"
+    }
+  ]
+}

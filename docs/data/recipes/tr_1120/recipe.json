@@ -1,0 +1,296 @@
+{
+  "id": "tr_1120",
+  "title": "Borek",
+  "image": "https://www.recipetineats.com/tachyon/2021/07/Borek_39-SQ.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/borek-turkish-spiced-lamb-filo-pastry/",
+  "servings": 5,
+  "prepTime": 30,
+  "cookTime": 60,
+  "tags": [
+    "borek",
+    "filo pastry",
+    "phyllo pastry",
+    "turkish pastry"
+  ],
+  "nutrition": {
+    "calories": 704,
+    "protein": 27.0,
+    "carbs": 36.0,
+    "fat": 51.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely diced (1 small or 1/2 a large))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 1.2 lb  lamb mince ((ie. ground lamb, or substitute beef))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "each of ground coriander, cinnamon, paprika ((plain or sweet paprika))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "allspice ((sub mixed spice or similar spice mix))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cayenne pepper or Turkish red pepper flakes ((reduce for less spicy))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "salt ((cooking / kosher salt, OR 1 tsp table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "currants ((or raisins or sultanas, roughly chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "pine nuts (, toasted (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "tomato passata ((tomato puree in US, Note 2))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "plain yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "12",
+      "unit": "sheets",
+      "name": "phyllo pastry ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "25",
+      "unit": "g",
+      "name": "/ 1 1/2 tbsp  unsalted butter (, melted and cooled)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "White sesame seeds ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "plain yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "garlic (, finely grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook onion and garlic: Heat oil on high in a large skillet. Cook onion and garlic for 2 to 3 minutes until softened."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook lamb and spices: Add lamb and cook lamb, breaking it up as you go, until mostly changes from pink to brown. Then add all the spices and cook for 1 minute."
+    },
+    {
+      "order": 3,
+      "instruction": "Simmer: Add tomato passata and water, mix. Then add currants and pine nuts. Bring to simmer, turn heat down to medium low and cook until liquid reduces so the mixture is moist but not watery."
+    },
+    {
+      "order": 4,
+      "instruction": "Cool: Remove from stove and allow to fully cool before using."
+    },
+    {
+      "order": 5,
+      "instruction": "Mix ingredients in a small bowl. Set aside for at least 20 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Preheat oven to 200°C / 390°F (180°C fan)."
+    },
+    {
+      "order": 7,
+      "instruction": "Yogurt Wash (Note 4): Mix ingredients until combined."
+    },
+    {
+      "order": 8,
+      "instruction": "Prepare filo: Open the filo pastry packet and unroll the pastry. Peel one layer off and place on a piece of baking / parchment paper. Cover the remainder with a lightweight damp tea towel to stop them from drying out."
+    },
+    {
+      "order": 9,
+      "instruction": "Brush with yogurt wash: Drizzle / flick yogurt wash across filo using a pastry brush. Then lightly brush across surface in a thin layer. You don&#039;t need to cover every inch, just mostly cover the surface."
+    },
+    {
+      "order": 10,
+      "instruction": "Layer filo: Top with another filo pastry sheet, and brush this too with yogurt wash. Then repeat so you have 4 layers in total, but do not brush the last (4th) filo with yogurt wash once laid."
+    },
+    {
+      "order": 11,
+      "instruction": "Fill and roll: Place 1/3 of the Lamb filling along the bottom edge. Using the aid of a long kitchen knife to get it started, roll up into a log. Doesn&#039;t need to be tight and don&#039;t try, as the pastry is delicate."
+    },
+    {
+      "order": 12,
+      "instruction": "Make 3 logs: Repeat to make 3 logs, using all the Filling."
+    },
+    {
+      "order": 13,
+      "instruction": "Spiral: Take one log and place on a piece of baking / parchment paper. Coil into a spiral. Join a second log to the first by stuffing the ends inside each other, using yogurt wash to adhere. Continue forming the spiral. Log sides should be in contact but not tightly squished."
+    },
+    {
+      "order": 14,
+      "instruction": "Transfer to baking vessel: Brush a 26cm / 10.5″ cast iron skillet (Note 5) with melted butter. Then use the paper to transfer the borek into the skillet, and slide the paper out."
+    },
+    {
+      "order": 15,
+      "instruction": "Brush with butter: Brush the top with butter, sprinkle with sesame seeds."
+    },
+    {
+      "order": 16,
+      "instruction": "Bake for 40 minutes or until pastry is golden."
+    },
+    {
+      "order": 17,
+      "instruction": "Serve! Remove from oven. Cut wedges like pie. Serve with Lemon Yogurt Sauce!"
+    }
+  ]
+}

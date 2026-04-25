@@ -1,0 +1,190 @@
+{
+  "id": "tr_556",
+  "title": "Chop Suey - Chicken Stir Fry",
+  "image": "https://www.recipetineats.com/tachyon/2018/10/Chicken-Stir-Fry-Chop-Suey-5-landscape-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-stir-fry-chop-suey/",
+  "servings": 2,
+  "prepTime": 9,
+  "cookTime": 6,
+  "tags": [
+    "chicken stir fry",
+    "chop suey"
+  ],
+  "nutrition": {
+    "calories": 298,
+    "protein": 25.0,
+    "carbs": 18.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "180",
+      "unit": "g",
+      "name": "(6oz )  chicken breast (, thinly sliced)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking soda / bi-carb ((optional, Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornflour / corn starch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "light soy sauce (, or all purpose soy(Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Oyster Sauce ((Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese Cooking Wine (OR Mirin (Note 5))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sesame oil ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "Dash",
+      "name": "of white pepper ((or black))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(185 ml)  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or other cooking oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, sliced (white, brown, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5 - 6  stems choy sum ((or other Asian greens))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium carrot",
+      "emoji": "🥕",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sliced mushrooms ((shiitake is authentic, but any will do))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place chicken in a bowl, sprinkle over baking soda. Use your fingers to mix then set aside for 20 minutes, no longer than 30 minutes (can get too tender). Rinse well, pat excess water with paper towels, set aside (see video)."
+    },
+    {
+      "order": 2,
+      "instruction": "Sauce: Place cornflour and soy sauce in a bowl. Mix until lump free. Then add remaining Sauce ingredients and stir."
+    },
+    {
+      "order": 3,
+      "instruction": "Chop choy sum: Trim end off choy sum. Then cut into 7cm (3&quot;) pieces. Separate stems from leaves."
+    },
+    {
+      "order": 4,
+      "instruction": "Chop carrot - Peel then cut into 3cm (1.3&quot;) pieces. Then slice the pieces thinly."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat oil in a wok or skillet over high heat. Add garlic, stir quickly, then add onion, Cook for 1 minute, moving constantly, until onion is starting to wilt."
+    },
+    {
+      "order": 6,
+      "instruction": "Add chicken, cook for 1 minute until the surface changes from pink to white."
+    },
+    {
+      "order": 7,
+      "instruction": "Add choy sum stems, carrot and mushrooms. Stir fry for 1 minute."
+    },
+    {
+      "order": 8,
+      "instruction": "Add choy sum leaves, bean sprouts and Sauce. Stir fry for 1 to 2 minutes until the Sauce thickens to a thick syrup consistency. Vegetables should still be tender/crisp, not soggy and soft."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve immediately with rice (for low carb, low cal option, try Cauliflower Rice!)"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": "tr_321",
+  "title": "Cottage Pie",
+  "image": "https://www.recipetineats.com/tachyon/2016/10/Cottage-Pie_5-SQUARE.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cottage-pie/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 75,
+  "tags": [
+    "cottage pie"
+  ],
+  "nutrition": {
+    "calories": 611,
+    "protein": 53.0,
+    "carbs": 50.1,
+    "fat": 19.6
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (, finely chopped*)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  celery (, finely chopped*)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "750",
+      "unit": "g",
+      "name": "/ 1.5 lb   beef mince (ground beef)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(40g)  flour ((plain / all purpose))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(55g)  tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(500 ml)  beef stock / broth (, low sodium)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125 ml)  red wine (or water)",
+      "emoji": "🍷",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  beef bouillon cube (, crumbled (stock cube, or 1 tsp stock powder))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried thyme ((or 3 sprigs fresh thyme))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  dried bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1.2",
+      "unit": "kg",
+      "name": "/ 2.5 lb   potatoes (, peeled and cut into 2.5cm / 1\" cubes)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "(165 ml)  milk (, warmed)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30g)  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30g)  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(20g)  parmesan, grated",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large skillet over medium high heat. Add onion and garlic, cook for 1 minute. Then add carrots and celery. Cook for 3 minutes or until softened and sweet."
+    },
+    {
+      "order": 2,
+      "instruction": "Turn heat up to high. Add beef and cook, breaking it up as you go, until browned."
+    },
+    {
+      "order": 3,
+      "instruction": "Add flour and mix in. Add tomato paste, broth, red wine, bouillon cube, Worcestershire sauce, thyme, bay leaves, salt and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Bring to simmer, then turn down heat so it is simmering rapidly - I have it on medium high. Cook for 30 minutes, stirring occasionally, until it reduces down to a gravy consistency (Note 1) (see video). Taste then add more salt if desired."
+    },
+    {
+      "order": 5,
+      "instruction": "Transfer to 6 cup pie dish (1.5 litre / quart). Cover, cool if you have time (even overnight). Cool filling = easier to top with mash (Note 2)"
+    },
+    {
+      "order": 6,
+      "instruction": "Preheat oven to 180°C/350°F."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook potatoes in boiling water for 15 minutes or until soft. Drain then return to pot on turned off stove. Shake briefly and allow to steam dry for 30 seconds or so (Note 3)."
+    },
+    {
+      "order": 8,
+      "instruction": "Add butter and mash until melted, then add milk and salt. Mash until smooth."
+    },
+    {
+      "order": 9,
+      "instruction": "Spread onto pie, use a fork to rough up the surface (rougher surface = more golden bits). Sprinkle with paremsan, drizzle with butter (or skip this and just drizzle with olive oil)"
+    },
+    {
+      "order": 10,
+      "instruction": "Bake for 25 - 30 minutes or until golden on top and bubbling on the edges. Stick a knife into the middle to ensure it is piping hot."
+    },
+    {
+      "order": 11,
+      "instruction": "Stand for 5 minutes before serving, garnished with fresh thyme leaves if desired."
+    }
+  ]
+}

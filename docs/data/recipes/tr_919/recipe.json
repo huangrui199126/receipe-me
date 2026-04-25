@@ -1,0 +1,169 @@
+{
+  "id": "tr_919",
+  "title": "Fish Fingers",
+  "image": "https://www.recipetineats.com/tachyon/2020/01/Fish-Fingers_5.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fish-fingers-recipe/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "baked fish",
+    "breaded fish",
+    "crumbed fish",
+    "fish fingers recipe",
+    "homemade fish fingers"
+  ],
+  "nutrition": {
+    "calories": 266,
+    "protein": 35.0,
+    "carbs": 12.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 1.2lb  white fish fillets (, patted dry (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray ((olive oil or any plain))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(75g)  panko breadcrumbs ((Note 2))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(25g)  parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "paprika (, optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt and pepper (, each)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "mayonnaise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt and pepper (, each)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Tartare sauce or other seafood dipping sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped chives or parsley (, garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C / 350°F."
+    },
+    {
+      "order": 2,
+      "instruction": "Toast breadcrumbs: Spread breadcrumbs on tray. Spray with oil, bake 4 minutes until golden. Transfer toasted breadcrumbs into bowl, add remaining Crumb ingredients and mix."
+    },
+    {
+      "order": 3,
+      "instruction": "Increase oven to 220°C / 425°F (fan 200°C). Spray used tray with oil."
+    },
+    {
+      "order": 4,
+      "instruction": "Batter: Mix Batter ingredients in a separate bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Cut the fish into strips 1.5 x 11 cm / 3/5 x 4.5&quot; (they shink 30% in length)."
+    },
+    {
+      "order": 6,
+      "instruction": "Place fish in Batter, gently mix with rubber spatula to coat. Do not leave sitting around (will become watery), coat immediately."
+    },
+    {
+      "order": 7,
+      "instruction": "Breading: Pick up fish with tongs, place in breadcrumbs. Spoon over crumb, use fingers to press to adhere."
+    },
+    {
+      "order": 8,
+      "instruction": "Baking: Transfer to baking tray. Spray with oil, bake 13 minutes or until crispy on the outside."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve immediately with lemon wedges, Tartare Sauce or other Sauce of choice - see here for recipes, any of these great for fish fingers! Also Note 3 for few quick sauce options."
+    }
+  ]
+}

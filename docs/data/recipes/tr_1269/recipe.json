@@ -1,0 +1,186 @@
+{
+  "id": "tr_1269",
+  "title": "Mega Italian Salad",
+  "image": "https://www.recipetineats.com/tachyon/2022/09/Mega-Italian-Salad_5.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mega-italian-salad/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "italian salad",
+    "side salad"
+  ],
+  "nutrition": {
+    "calories": 226,
+    "protein": 4.0,
+    "carbs": 15.0,
+    "fat": 17.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "slices",
+      "name": "white sandwich bread (, ~1.75 cm / 3/4&quot; thick, crust off, cut into cubes (Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 pinches salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "red wine vinegar ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "freshly grated parmesan ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sugar ((any))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "dried basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "chilli flakes ((red pepper flakes), optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "head",
+      "name": "cos / romaine lettuce (, chopped into large or small bite size pieces (Note 3))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large tomatoes (, cut into 6 to 8 wedges, then each wedge in half)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  green capsicum/bell pepper (, 1.5cm / 2/3\" cubes)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "whole pitted kalamata olives ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(tightly packed) finely grated parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Croutons: Preheat oven to 200°C/390°F (180°C fan). Toss bread with oil and salt. Spread on a tray and bake 15 minutes, stirring twice, until golden and fully crisp. Cool on tray."
+    },
+    {
+      "order": 2,
+      "instruction": "Dressing: Shake ingredients in a jar."
+    },
+    {
+      "order": 3,
+      "instruction": "Make salad: Set aside some parmesan for garnish. Place croutons and all remaining salad ingredients in a large bowl. Pour Dressing over, toss well."
+    },
+    {
+      "order": 4,
+      "instruction": "Serve: Transfer salad into a serving bowl. Sprinkle with reserved parmesan. Serve immediately!"
+    }
+  ]
+}

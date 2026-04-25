@@ -1,0 +1,187 @@
+{
+  "id": "tr_42",
+  "title": "Rotisserie Flavoured Chicken and Potato Bake &amp; a Giveaway!",
+  "image": "https://www.recipetineats.com/tachyon/2015/02/DSC_0178.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pan-rotisserie-chicken-potato-gratin/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 60,
+  "tags": [],
+  "nutrition": {
+    "calories": 593,
+    "protein": 62.5,
+    "carbs": 37.9,
+    "fat": 20.6
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "dried thyme leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  chicken thigh fillets (, skin on and bone in (about 1.5lb/750g))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion (, halved then sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1.5",
+      "unit": "lb",
+      "name": "/ 750g   potatoes ((Note 1), peeled and sliced into 1/8\" / 0.3cm slices)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parmesan (, grated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 350F/180C."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the Rub ingredients in a small bowl. Rub onto the chicken, using most on the skin side."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat olive oil over medium heat in a large fry pan. (Note 2) Place chicken in the pan, skin side down. Cook for 10 minutes - this renders the fat. Then turn and cook the other side for 2 minutes. Remove chicken onto a plate."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour out and discard all the fat but do not wipe the pan. Return the pan to the stove and turn up the heat to medium high."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the onion and garlic together and sauté for 2 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Add half the milk and bring to simmer. Use a wooden spoon to scrape the bottom of the pan to mix the brown bits into the milk."
+    },
+    {
+      "order": 7,
+      "instruction": "Place half the potatoes in the pan. Scatter over 1/2 tsp salt, black pepper and half the parmesan."
+    },
+    {
+      "order": 8,
+      "instruction": "Repeat with remaining potato, salt and parmesan, then pour over the remaining milk."
+    },
+    {
+      "order": 9,
+      "instruction": "Use a egg flip to press the potatoes into the milk while it simmers for 10 minutes and some of the milk has evaporated."
+    },
+    {
+      "order": 10,
+      "instruction": "Place chicken on the potato, then place in the oven and bake for 40 to 50 minutes, until the chicken is cooked and the potatoes are golden brown on top."
+    },
+    {
+      "order": 11,
+      "instruction": "Allow to rest for 5 minutes before serving."
+    }
+  ]
+}

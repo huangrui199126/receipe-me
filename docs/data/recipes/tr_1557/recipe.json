@@ -1,0 +1,104 @@
+{
+  "id": "tr_1557",
+  "title": "Layered Caramel Buster Bars.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/06/Layered-Caramel-Buster-Bars-1-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/layered-caramel-buster-bars/",
+  "servings": 12,
+  "prepTime": 30,
+  "cookTime": 300,
+  "tags": [
+    "bars",
+    "caramel",
+    "chocolate",
+    "ice cream"
+  ],
+  "nutrition": {
+    "calories": 592,
+    "protein": 9.0,
+    "carbs": 53.0,
+    "fat": 32.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "softened vanilla ice cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fudge sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "caramel",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cup",
+      "name": "roasted peanuts (roughly chopped, divided)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "chocolate ice cream (softened)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "semi-sweet or milk chocolate (chopped)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "coconut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Layer on the softened vanilla ice cream into the bottom of 10-12 (3 ounce) dixie cups. Freeze 30 minutes to 1 hour."
+    },
+    {
+      "order": 2,
+      "instruction": "Spoon 2-3 teaspoons of the fudge sauce and 1-2 teaspoons of caramel over the vanilla ice cream and sprinkle with chopped peanuts. Layer on the chocolate ice cream and then over the ice cream, spoon another 1-2 teaspoons of caramel. Freeze 15 minutes and then remove and insert popsicle sticks. Freeze until completely firm, at least 4-6 hours or overnight."
+    },
+    {
+      "order": 3,
+      "instruction": "Combine chopped chocolate and coconut oil in a medium sauce pan over medium heat. Stir frequently until chocolate is almost melted. Remove from heat and stir until completely melted and smooth. Allow to cool 15-minutes before dipping the bars."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove the bars from the freezer one at a time. Peel away the dixie cups and dip the bottom caramel layer of each bar into the remaining chopped peanuts, pressing the peanuts firmly into the ice cream to adhere."
+    },
+    {
+      "order": 5,
+      "instruction": "Working quickly, hold the bar by the popsicle stick and dip it into the melted chocolate until the ice cream is completely covered. Let any excess chocolate drip back into the bowl. Allow to set 1-2 minutes. Eat or return to the freezer. Keep bars stored in the freezer."
+    }
+  ]
+}

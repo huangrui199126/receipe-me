@@ -1,0 +1,139 @@
+{
+  "id": "tr_753",
+  "title": "Chicken with Mushroom Gravy",
+  "image": "https://www.recipetineats.com/tachyon/2017/09/Chicken-in-Mushroom-Gravy-6.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-with-mushroom-gravy/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 398,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 1.2 lb   chicken breasts, boneless skinless, (, 4 small ones (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "/ 15g   butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "/ 30 g   butter (, separated)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 4 oz   mushrooms (, sliced)",
+      "emoji": "🍄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, finely chopped (or minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 35g   flour ((3 tbsp))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500 ml   beef broth ((Note 2 for chicken broth))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Thyme or parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place a plastic bag or cling wrap over the chicken and pound to even thickness 2cm / 4/5\" thick. Sprinkle both sides generously with salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil and melt 1 tbsp butter in a large skillet over high heat. Add chicken and cook for 3 minutes or until golden, then turn and cook the other side for 3 minutes. Transfer to plate, cover loosely with foil."
+    },
+    {
+      "order": 3,
+      "instruction": "Add 1 tbsp butter to the skillet. Add mushrooms and cook for 3 minutes or until pretty golden."
+    },
+    {
+      "order": 4,
+      "instruction": "Add remaining 1 tbsp butter and garlic. Cook for 1 minute until mushrooms are golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Turn heat DOWN to medium. Add flour and mix for 1 minute."
+    },
+    {
+      "order": 6,
+      "instruction": "Add about 1/4 of the beef broth, mixing as you go. Once incorporated, add remaining broth gradually, mixing constantly. This is key to avoid lumps in gravy. Use a whisk if needed (works fine even with mushrooms in there) (Note 3 for beginner option)."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook gravy for about 2 minutes or until it thickens to your taste - remember it will thicken more as it cools when serving. Adjust salt and pepper."
+    },
+    {
+      "order": 8,
+      "instruction": "If you want, return chicken to the pan and turn to coat in gravy."
+    },
+    {
+      "order": 9,
+      "instruction": "Place chicken on serving plates, top with gravy. Best served with mashed potato or similar to optimise the mushroom gravy experience!"
+    }
+  ]
+}

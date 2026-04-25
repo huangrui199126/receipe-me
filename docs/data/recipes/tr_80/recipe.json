@@ -1,0 +1,187 @@
+{
+  "id": "tr_80",
+  "title": "Cream Cheese Stuffed French Toast",
+  "image": "https://www.recipetineats.com/tachyon/2015/05/DSC_0137.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cheesecake-stuffed-french-toast-loaf/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 40,
+  "tags": [],
+  "nutrition": {
+    "calories": 355,
+    "protein": 9.9,
+    "carbs": 42.5,
+    "fat": 17.4
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Butter (, for greasing)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8oz   cream cheese (, at room temperature)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "sugar ((white))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "+ 2 tbsp   milk ((low fat or full fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "sugar ((white))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  fresh slices sandwich bread ((crusts removed) (Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "butter (, diced (optional) (Note 2))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar ((optional) (Note 2))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 punnet  strawberries (, sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F. Generously butter a 10cm x 21cm / 4\" x 8\" loaf tin"
+    },
+    {
+      "order": 2,
+      "instruction": "Make Cream Cheese Filling - beat (or mix) the cream cheese, sugar and vanilla until combined. Then add the egg and lemon juice, then beat/mix until smooth, light and fluffy."
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk the Egg Mixture ingredients together in a large bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Dip 2 slices of bread into the Egg Mixture. Because you're using fresh bread, it should soak through with egg mixture pretty quickly."
+    },
+    {
+      "order": 5,
+      "instruction": "Line the base of the loaf tin with the egg dipped bread. Cut bread if necessary to fill in gaps. Repeat twice more so you have 3 layers of egg dipped bread."
+    },
+    {
+      "order": 6,
+      "instruction": "Spread all the Cream Cheese filling over the bread. Then top with two more layers of egg-dipped bread."
+    },
+    {
+      "order": 7,
+      "instruction": "Dot surface with butter and scatter over the sugar."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake for 40 minutes until golden and puffed. Check at 30 minutes - if the top is already dark golden, then cover loosely with foil and return to the oven to finish baking (this is what I did)."
+    },
+    {
+      "order": 9,
+      "instruction": "Allow to rest for 15 minutes in the tin before turning out onto a cooling rack to rest for a further 5 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "To serve, topped with Macerated Strawberries."
+    },
+    {
+      "order": 11,
+      "instruction": "Combine strawberries and sugar in a bowl and set aside to \"sweat\" for at least 20 minutes."
+    }
+  ]
+}

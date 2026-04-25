@@ -1,0 +1,151 @@
+{
+  "id": "tr_471",
+  "title": "Mushroom Gravy (easy, from scratch, no drippings required)",
+  "image": "https://www.recipetineats.com/tachyon/2021/03/Mushroom-Gravy_7-MAIN-SQ.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mushroom-gravy/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "mushroom gravy",
+    "mushroom sauce",
+    "mushroom sauce recipe"
+  ],
+  "nutrition": {
+    "calories": 179,
+    "protein": 5.0,
+    "carbs": 8.0,
+    "fat": 15.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "45",
+      "unit": "g",
+      "name": "/ 3 tbsp  butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "garlic (, finely minced (~1 large or 2 medium cloves))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14oz  mushrooms (, sliced 3mm / ⅛&quot; thick (white/button or Swiss/Cremini))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "flour (, plain / all-purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "beef stock / broth",
+      "emoji": "🥩",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt (, to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the olive oil in a large skillet over medium-high heat, then add butter and let it melt."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook half mushrooms: Add half the mushrooms and cook for 2 mins. Add half the salt and pepper, then continue to cook for another 2 mins until most mushrooms are becoming golden. Then add half the garlic and cook until mushrooms are fully golden, and remove to a plate."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook remaining mushrooms: Melt remaining butter, then cook remaining mushrooms per above (adding salt &amp; pepper partway through, and garlic towards the end). Remove to a plate."
+    },
+    {
+      "order": 4,
+      "instruction": "Lower heat to medium. In the same skillet, melt the butter."
+    },
+    {
+      "order": 5,
+      "instruction": "Add flour and stir continuously for 1 1/2 minutes so the roux doesn&#039;t burn. Don&#039;t worry if the mixture is a bit dry and sandy, it depends how much fat is left from the mushrooms."
+    },
+    {
+      "order": 6,
+      "instruction": "While stirring, slowly pour in the beef stock. This should avoid lumps in the gravy. If there are lumps, just whisk vigorously to dissolve them."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook for 3 to 4 minutes, or until it thickens to a thin-syrup consistency. Stir every now and then at first, then more regularly as the gravy thickens so it doesn&#039;t burn on the base of the skillet."
+    },
+    {
+      "order": 8,
+      "instruction": "Stir in cooked mushrooms, cook for a further 1 minute. Taste and add more salt if needed (if using unsalted homemade stock, you will need more)."
+    },
+    {
+      "order": 9,
+      "instruction": "Pour into a gravy jug and serve with everything! It&#039;s particularly great and very Aussie poured over schnitzel with a side of rosti or chips! Otherwise serve with steak, simple pan-seared chops or chicken, sprinkled with salt and pepper before cooking."
+    }
+  ]
+}

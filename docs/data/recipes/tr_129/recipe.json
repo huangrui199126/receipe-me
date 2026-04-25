@@ -1,0 +1,239 @@
+{
+  "id": "tr_129",
+  "title": "Shrimp / Prawn Pasta with Lemon",
+  "image": "https://www.recipetineats.com/tachyon/2014/12/Lemon-Prawn-Shrimp-Pasta.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lemon-prawn-shrimp-pasta-restaurant-style/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 40,
+  "tags": [],
+  "nutrition": {
+    "calories": 603,
+    "protein": 39.6,
+    "carbs": 62.9,
+    "fat": 18.9
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   large (, raw, unpeeled prawns/shrimp)",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "chicken or fish stock/broth ((or vegetable))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "white wine ((optional - sub with water))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, roughly chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 13oz   spaghetti",
+      "emoji": "🍝",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "pasta cooking water ((i.e. scoop it out once the pasta is cooked))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil (, plus extra for drizzling)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2  punnets cherry tomatoes (, cut in half (or 3 large tomatoes, diced))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large lemon ((or 1 1/2 small lemons), zest and juice)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "fresh parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dried chili flakes ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra lemon wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra fresh parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Peel and devein the prawns, keeping the tails in tact. (Note 1)"
+    },
+    {
+      "order": 2,
+      "instruction": "Discard the vein and place the heads and shells in a saucepan or pot to make the stock. (Note 2)"
+    },
+    {
+      "order": 3,
+      "instruction": "Cut the larger prawns lengthwise in half."
+    },
+    {
+      "order": 4,
+      "instruction": "Add 2 minced garlic cloves the minced garlic and 2 tbsp of olive oil. Use your fingers to gently coat the prawns. Cover and set aside to marinate while you make the stock."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the remaining stock ingredients into the saucepan/pot and place over high heat. Bring to boil then turn down to medium / medium high and let it simmer rapidly."
+    },
+    {
+      "order": 6,
+      "instruction": "Get a potato masher and \"crush\" the prawn heads and shells (to extract maximum flavour). Do this a couple of times while it is simmering."
+    },
+    {
+      "order": 7,
+      "instruction": "When the liquid has reduced to around 1 to 1 1/2 cups, strain the stock into a bowl, then pour the stock back into the pot. (Note 3) Place lid on, then set the stock aside, keeping it warm until required."
+    },
+    {
+      "order": 8,
+      "instruction": "Bring a large pot of water with 2 tsp of salt to boil. Add pasta and cook until just before al dente (Note 4)."
+    },
+    {
+      "order": 9,
+      "instruction": "While the pasta is cooking, heat 1 tbsp olive oil in a large deep fry pan over high heat."
+    },
+    {
+      "order": 10,
+      "instruction": "Add the prawns and cook the first side for 1 minute, then turn and cook the other side for 1 minute. Remove onto a plate, loosely cover with foil and set aside. (Note 5)"
+    },
+    {
+      "order": 11,
+      "instruction": "Add the remaining 2 tbsp of olive oil and 1 garlic clove (minced) into the fry pan. Scrape the residual oil and garlic from the bowl the prawns were marinating in as well. Return the fry pan to the stove and sauté until the garlic is fragrant."
+    },
+    {
+      "order": 12,
+      "instruction": "Transfer the cooked pasta into the fry pan (use tongs to transfer it from the pasta pot) along with 3/4 cup of the pasta water (this is a key step) and cherry tomatoes. Gently toss the pasta in the fry pan for around 1 minute. The water will thicken and turn into a glossy coating on the pasta."
+    },
+    {
+      "order": 13,
+      "instruction": "Add the lemon zest, lemon juice, parsley, chilli (if using) and prawns/shrimp. Quickly toss to combine, then pour over the stock and toss quickly to coat all the pasta. Then remove from heat immediately."
+    },
+    {
+      "order": 14,
+      "instruction": "Season to taste with salt and pepper (always do this last)."
+    },
+    {
+      "order": 15,
+      "instruction": "Drizzle with extra olive oil, and serve immediately, with extra lemon wedges and fresh parsley if desired."
+    },
+    {
+      "order": 16,
+      "instruction": "Note: seafood pastas and risottos are not traditionally garnished with parmesan (in Italy), however, I say do as you wish!"
+    }
+  ]
+}

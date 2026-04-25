@@ -1,0 +1,143 @@
+{
+  "id": "tr_1424",
+  "title": "JB's Mushroom Tart",
+  "image": "https://www.recipetineats.com/tachyon/2026/03/JB-Mushroom-Tart_1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/french-mushroom-tart/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 30,
+  "tags": [
+    "mushroom tart",
+    "mushroom tart recipe",
+    "puff pastry tart"
+  ],
+  "nutrition": {
+    "calories": 304,
+    "protein": 10.0,
+    "carbs": 3.0,
+    "fat": 28.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  square sheet butter puff pastry ((25cm / 10″ square), barely thawed (Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30g)  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14oz  Swiss brown mushrooms (, sliced 0.5cm (Note 3))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt (, use half for table salt)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(tightly packed) Gruyère cheese (, grated (Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "(10g)  unsalted butter (, melted (for brushing))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "fresh thyme leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "sea salt flakes",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "truffle oil or good extra virgin olive oil  (, to drizzle (optional) (Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté mushrooms 5 minutes. Place puff pastry on baking paper, fold a 1 cm / 0.4&quot; border, brush edges with butter, top with Gruyère and mushrooms. Bake on the preheated tray for 30 minutes. Finish with fresh thyme, salt flakes and truffle oil."
+    },
+    {
+      "order": 2,
+      "instruction": "Hot tray - Place a baking tray in the oven. Turn the oven on and preheat to 210°C / 410°F (190°C fan)."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook the mushrooms - Heat the olive oil and butter in a frying pan over medium-high heat. Add mushrooms, salt and pepper. Cook for 5 minutes, stirring regularly, until soft. Transfer mushrooms to a colander over a bowl to drain in case of excess liquid."
+    },
+    {
+      "order": 4,
+      "instruction": "Prepare the base - Place a sheet of baking paper / parchment paper on the bench. Put the puff pastry on top. Fold the edges inwards to create a 1 cm / 0.4″ border and brush them with melted butter."
+    },
+    {
+      "order": 5,
+      "instruction": "Assemble - Spread the grated Gruyère evenly over the pastry. Top with the mushrooms, spreading them evenly too."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake - Lift the baking paper and tart onto the hot tray in the oven. Bake for 30 minutes, until the pastry is golden and crisp (sides and underneath)."
+    },
+    {
+      "order": 7,
+      "instruction": "Finish and serve - Sprinkle with fresh thyme leaves and salt flakes. Drizzle with truffle oil or a good virgin olive oil (optional but highly recommended). Cut and serve hot."
+    }
+  ]
+}

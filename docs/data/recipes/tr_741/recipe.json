@@ -1,0 +1,198 @@
+{
+  "id": "tr_741",
+  "title": "Chilli Lime Fish",
+  "image": "https://www.recipetineats.com/tachyon/2022/10/Chilli-Lime-Fish-cookbook-reference-photo_5.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chilli-lime-fish/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 8,
+  "tags": [
+    "lime fish",
+    "spicy fish"
+  ],
+  "nutrition": {
+    "calories": 403,
+    "protein": 26.0,
+    "carbs": 21.0,
+    "fat": 24.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "330",
+      "unit": "g",
+      "name": "/ 11 oz  thin white fish fillets (~1cm / 0.4&quot; thick) (, skinless, cut into 6cm / 2.5&quot; (or so) squares pieces (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "rice flour or ordinary flour ((Note 2))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced with a knife (Note 3))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger (, finely minced with a knife (Note 3))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "chilli flakes / red pepper flakes ((Note 4))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sriracha ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "light soy sauce or fish sauce ((Note 5))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "large red chilli (, finely sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rice of choice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Steamed Asian greens",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Dust fish - Sprinkle with salt, dust with rice flour, shake off excess."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook fish - In a non-stick skillet, heat oil over medium-high heat. Cook the fish until golden on each side then remove to a plate."
+    },
+    {
+      "order": 3,
+      "instruction": "Fish cooking times - Thin fillets 1 cm / 2/5&quot; thick: 1 1/2 minutes each side; thicker fillets 1.5 - 1.75cm / 0.6 - 0.75&quot; thick 2 minutes each side) or until the internal temperature is 55°C / 130°F. Remove fish to a plate and set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Sauté aromatics - In the same pan, add sesame oil on medium heat. Cook garlic, chilli and ginger until golden - about 20 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Sauce - Add everything else except lime juice. Stir, simmer, then reduce until syrupy - about 2 minutes. Add lime juice and stir. (If sauce gets too thick, add water)"
+    },
+    {
+      "order": 6,
+      "instruction": "Coat fish - Return fish into sauce, turning to coat in the sauce."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve over rice, with garnishes of choice! Pictured with steamed baby pak choy tossed with Asian Sesame Dressing."
+    }
+  ]
+}

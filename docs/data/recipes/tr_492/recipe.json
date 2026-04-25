@@ -1,0 +1,227 @@
+{
+  "id": "tr_492",
+  "title": "Bun Cha - Vietnamese Meatballs",
+  "image": "https://www.recipetineats.com/tachyon/2019/01/Vietnamese-Pork-Meatballs_6.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/bun-cha-vietnamese-meatballs/",
+  "servings": 2,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "bun cha",
+    "vietnamese food",
+    "vietnamese meatballs"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 23.0,
+    "carbs": 27.0,
+    "fat": 37.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250 - 300 g/8 - 10 oz   pork mince ((ground pork)(Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fish sauce ((Note 2))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "finely chopped green onions / scallions",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of white pepper and salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lemongrass paste or fresh finely chopped (, optional (Note 4))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "oil (, for cooking)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "fish sauce ((Note 2))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "rice wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  birds eye chilli (, seeded and finely chopped (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 3.5 oz  vermicelli noodles (, dried)",
+      "emoji": "🍜",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Big handful beansprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Few lettuce leaves (, folded or shredded)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Julienned carrot and white radish ((daikon), optional quick pickle (Note 5))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "Handful",
+      "name": "of coriander/cilantro sprigs (, mint)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced red chilli (, lime wedges (optional))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 20
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauce: Mix ingredients. Set aside 10 minutes+."
+    },
+    {
+      "order": 2,
+      "instruction": "Noodles: Pour over boiling water and soak per packet directions. Drain, set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix all ingredients except oil until combined."
+    },
+    {
+      "order": 4,
+      "instruction": "Shape into 6 mini hamburger patties with your hands."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat oil in a skillet over medium high heat. Add patties and cook for 2 1/2 minutes or until golden. Flip, cook 2 minutes then remove."
+    },
+    {
+      "order": 6,
+      "instruction": "Place noodles in bowl. Top with a handful of beansprouts, wedge in lettuce, carrots and radish in."
+    },
+    {
+      "order": 7,
+      "instruction": "Place meatballs on top, top with coriander and mint."
+    },
+    {
+      "order": 8,
+      "instruction": "Spoon over a generous amount of Sauce (it's supposed to be like a soup broth), eat and be happy!"
+    }
+  ]
+}

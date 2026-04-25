@@ -1,0 +1,99 @@
+{
+  "id": "tr_1099",
+  "title": "Fennel Salad with Lemon Dressing and Parmesan",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/Fennel-Salad_4.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fennel-salad/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "fennel recipes",
+    "fennel salad",
+    "shaved fennel salad"
+  ],
+  "nutrition": {
+    "calories": 122,
+    "protein": 3.0,
+    "carbs": 5.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium fennel (, or 2 baby fennels)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, shaved or finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "parmesan cheese (, freshly grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut stalks off fennel (save fronds). Shave the fennel and onion using a mandolin, or slice finely."
+    },
+    {
+      "order": 2,
+      "instruction": "Place in a bowl. Add lemon juice and 1 1/2 tbsp olive oil, salt and pepper. Toss."
+    },
+    {
+      "order": 3,
+      "instruction": "Spread out on a plate &quot;carpaccio&quot; style. Drizzle with more olive oil, top with freshly grated parmesan then sprinkle with fennel fronds."
+    },
+    {
+      "order": 4,
+      "instruction": "Serve immediately!"
+    }
+  ]
+}

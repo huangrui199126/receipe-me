@@ -1,0 +1,113 @@
+{
+  "id": "tr_670",
+  "title": "Real Tomato and Basil Bruschetta",
+  "image": "https://www.recipetineats.com/tachyon/2018/12/Bruschetta_2a.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/real-tomato-basil-bruschetta/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "bruschetta"
+  ],
+  "nutrition": {
+    "calories": 243,
+    "protein": 8.0,
+    "carbs": 38.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "crusty bread like sourdough or ciabatta (, sliced 1.5cm/ 3/5\" thick (Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "extra virgin olive oil (, for brushing)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, halved (unpeeled))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  tomatoes (medium) (, ripe and juicy, at room temperature)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "basil leaves (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil ((best quality you can afford))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt (, kosher / cooking salt)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat grill/broiler on high (or grill side of BBQ or griddle skillet)."
+    },
+    {
+      "order": 2,
+      "instruction": "Deseed (optional, note 2) - Cut tomatoes in half. Use a measuring teaspoon to scoop out watery seeds (reserve for other use, see post for suggestions) then dice into 1cm / 2/5&quot; pieces."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss - Place tomato and remaining Topping ingredients in a bowl and gently toss to combine. Set aside for 5 to 10 minutes for the flavours to meld and the tomatoes to become juicy and soften slightly."
+    },
+    {
+      "order": 4,
+      "instruction": "Brush each side of bread with oil then grill/broil until golden and crusty - about 3 minutes on each side. (Or just use your toaster then brush with oil)"
+    },
+    {
+      "order": 5,
+      "instruction": "Rub one side of the surface of the bread lightly with the garlic."
+    },
+    {
+      "order": 6,
+      "instruction": "Pile topping onto bread with some of the juices. Drizzle with more extra virgin olive oil and serve immediately."
+    }
+  ]
+}

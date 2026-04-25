@@ -1,0 +1,147 @@
+{
+  "id": "tr_656",
+  "title": "Buttery Seasoned Rice",
+  "image": "https://www.recipetineats.com/tachyon/2020/03/Seasoned-Rice_3-SQ.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/buttery-seasoned-rice/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 13,
+  "tags": [
+    "butter rice",
+    "homemade boxed rice",
+    "seasoned rice"
+  ],
+  "nutrition": {
+    "calories": 266,
+    "protein": 5.0,
+    "carbs": 51.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "long grain white rice (, uncooked (Note 1 for brown rice))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3 1/4",
+      "unit": "cups",
+      "name": "water ((cold tap water))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "chicken powder / granulated bouillon (, or 2 cubes dissolved in boiling water (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder (*)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "onion powder (*)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "paprika (*)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried thyme (*)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "dried parsley (*, optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp  butter, unsalted ((or MORE!))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place all Rice ingredients in a large saucepan and give it a stir."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring to simmer over medium high heat (edges bubbling, entire surface rippling), put the lid on and turn stove down to medium low (LOW for strong stoves). It should be simmering gently."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook for 13 minutes - do not lift lid!"
+    },
+    {
+      "order": 4,
+      "instruction": "Tilt pot then QUICKLY peek to ensure all water is absorbed."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove from stove, stand 10 minutes with lid on."
+    },
+    {
+      "order": 6,
+      "instruction": "Add butter and fluff rice with a rubber spatula. Serve!"
+    },
+    {
+      "order": 7,
+      "instruction": "Storage - please read Note 4."
+    },
+    {
+      "order": 8,
+      "instruction": "Rice cooker - Same ingredients, water and rice ratio. Pop it all in your rice cooker and cook per manufacturer directions, stir through butter at end."
+    }
+  ]
+}

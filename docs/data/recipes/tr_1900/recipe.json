@@ -1,0 +1,176 @@
+{
+  "id": "tr_1900",
+  "title": "Firecracker Berry Margarita Floats.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/06/Firecracker-Berry-Margarita-Floats.-15.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/firecracker-berry-margarita-floats/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "berries",
+    "berry",
+    "float",
+    "margarita"
+  ],
+  "nutrition": {
+    "calories": 232,
+    "protein": 0.0,
+    "carbs": 42.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "strawberries (chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "sugar or honey",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/3-1/2 cup tequila (I used 1/3 cup, use lemon-lime soda or lime-aid for a non-alcoholic version)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cointreau (use orange juice for a non-alcoholic version)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "fresh lime juice (only use 1-2 tablespoons if making the non-alcoholic version)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "blueberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "sugar or honey",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/3-1/2 cup tequila (again (I used 1/3 cup) (lemon-lime soda or lime-aid for a non-alcoholic version))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cointreau (use orange juice for a non-alcoholic version)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "fresh lime juice (only use 1-2 tablespoons if making the non-alcoholic version)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt (for the rims)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3  scoops per person of vanilla coconut ice cream or regular vanilla bean ice cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "lemon-lime soda water",
+      "emoji": "🍋",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "fresh strawberries + blueberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the strawberries, sugar and water in a medium saucepan. Bring to a boil over medium-high heat and cook, stirring occasionally, until the strawberries break down, about 5 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove from the heat and pour the mixture into a blender. Puree until smooth. Alternatively, you can strain the mixture through a fine mesh strainer, pushing the juices out of the strawberries. Pour the mixture into a small juice jug and add the tequila (or lemon-lime soda), cointreau (or orange juice) and fresh lime juice. Cover and refrigerate until cold or until ready to use."
+    },
+    {
+      "order": 3,
+      "instruction": "Combine the blueberries, sugar and water in a medium saucepan. Bring to a boil over medium-high heat and cook, stirring occasionally, until the blueberries soften, about 5 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove from the heat and pour the mixture into a blender. Puree until smooth. Alternatively, you can strain the mixture through a fine mesh strainer, pushing the juices out of the blueberries. Pour the mixture into a small juice jug and add the tequila (or lemon-lime soda), cointreau (or orange juice) and fresh lime juice. Cover and refrigerate until cold or until ready to use."
+    },
+    {
+      "order": 5,
+      "instruction": "To make the floats layer 1-2 tablespoons of strawberry margarita with a few fresh berries, 1 scoop of ice cream and 1-2 tablespoons blueberry margarita until your glass is almost full (but leave a little room at the top). Pour the soda water over top until it reaches the lip of the glass. ENJOY!"
+    }
+  ]
+}

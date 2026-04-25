@@ -1,0 +1,91 @@
+{
+  "id": "tr_1324",
+  "title": "Cowboy Butter - for steak, and so much more!",
+  "image": "https://www.recipetineats.com/tachyon/2025/05/Cowboy-butter-Tomahawk-steak_6.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cowboy-butter/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 1,
+  "tags": [
+    "compound butter",
+    "cowboy butter",
+    "steak sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 7 tbsp  unsalted butter (, softened, divided)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove (, finely minced (1 tsp) - knife best (Note 1))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "smoked paprika ((sub regular paprika))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "chilli flakes / red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((halve for table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté garlic - In a small frying pan, melt 1 tbsp (15g) of butter over medium heat until it starts foaming then add the garlic and cook for 30 seconds while stirring until it becomes very, very light golden. Remove from the stove and let it cool for 3 minutes (the garlic will go more golden)."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix - Put the rest of the butter and remaining ingredients in a small mixing bowl. Pour the garlic butter over. Mix until combined."
+    },
+    {
+      "order": 3,
+      "instruction": "Serve with steak! It&#39;s also excellent with other cooked meats, seafood and even vegetables."
+    },
+    {
+      "order": 4,
+      "instruction": "I like to use it softened as it melts thicker over hot steak. You can also melt gently then dip bites of steak in, or roll it into a log using cling wrap, refrigerate then cut slices off on an as-need basis (you can place the coins on the steak to let it melt)."
+    }
+  ]
+}

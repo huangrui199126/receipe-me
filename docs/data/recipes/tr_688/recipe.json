@@ -1,0 +1,116 @@
+{
+  "id": "tr_688",
+  "title": "Icing for Biscuits (Royal Icing)",
+  "image": "https://www.recipetineats.com/tachyon/2019/12/Christmas-Cookies-Sugar-Cookies_6.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/icing-for-biscuits/",
+  "servings": 60,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "cookie frosting",
+    "hard icing",
+    "icing for biscuits",
+    "royal icing"
+  ],
+  "nutrition": {
+    "calories": 35,
+    "protein": 1.0,
+    "carbs": 9.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  PURE icing sugar / powdered sugar (, sifted (plus extra for adjusting) (Note 1))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "egg whites ((~3 eggs) (Note 2))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "corn syrup ((or 1.5 tbsp glucose syrup, Note 3))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 1 1/2 tbsp water (, plus more as needed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Food Dye - liquid or gel (, go by eye for quantity (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Icing ingredients in a large bowl, starting with 1 tablespoon water, and beat for 1 minute on speed 5 until smooth and glossy (start on low then speed up)."
+    },
+    {
+      "order": 2,
+      "instruction": "Divide icing into different bowls for colouring. Add food dye and mix - keep adding colouring until you achieve the colour you are after. If icing gets too thin, add more icing sugar."
+    },
+    {
+      "order": 3,
+      "instruction": "Icing consistency test: Should be able to draw a figure 8 on the surface and you can see if for 2 seconds before sinking in and disappearing. Should be thick enough to pipe details but thin enough to spread smoothly on surface of cookie. ADJUST icing - thinner with water (1/2 tsp at a time), thicker with more icing sugar."
+    },
+    {
+      "order": 4,
+      "instruction": "Transfer icing into disposable piping bags or ziplock bags."
+    },
+    {
+      "order": 5,
+      "instruction": "Snip the TINIEST bit off the corner. Smaller hole = better detail in icing. Remember: You can cut hole bigger, but not smaller! OR using very thin piping nozzle."
+    },
+    {
+      "order": 6,
+      "instruction": "Pipe decorations on cookies as desired."
+    },
+    {
+      "order": 7,
+      "instruction": "Decorate with sprinkles etc while wet (so they stick). Or dry completely before piping on details."
+    },
+    {
+      "order": 8,
+      "instruction": "To fill a large surface, use toothpick to spread."
+    },
+    {
+      "order": 9,
+      "instruction": "Place skewer on edge of frosting bowl."
+    },
+    {
+      "order": 10,
+      "instruction": "Hold edge of cookie with two fingers, then carefully dip face of cookie into frosting."
+    },
+    {
+      "order": 11,
+      "instruction": "Pull out of frosting then lightly scrape surface across skewer to remove excess."
+    },
+    {
+      "order": 12,
+      "instruction": "Decorate with sprinkles etc while wet (so they stick). Or dry completely before piping on details."
+    }
+  ]
+}

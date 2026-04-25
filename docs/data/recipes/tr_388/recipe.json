@@ -1,0 +1,131 @@
+{
+  "id": "tr_388",
+  "title": "Roast Pumpkin, Spinach and Feta Salad",
+  "image": "https://www.recipetineats.com/tachyon/2017/09/Roasted-Pumpkin-Spinach-Salad-2.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roast-pumpkin-spinach-and-feta-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 264,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 1.2 lb   pumpkin ((after peeling), cut into 3cm / 1.25\" cubes (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2.5",
+      "unit": "tbsp",
+      "name": "/ 50 ml  extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 35g   pine nuts ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5 oz   baby spinach leaves (4 handfuls)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 2 oz   feta (, crumbled (or more!!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220C/430F (standard) or 200C/390F (fan/convection)."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss pumpkin with olive oil, salt and pepper. Spread on baking tray, bake for 20 minutes. Remove from oven, flip, then bake for a further 7 - 10 minutes until golden but not mushy. (Note 3) Loosen pumpkin with egg flip (it can adhere as it cools), then if serving salad at room temperature, leave to cool."
+    },
+    {
+      "order": 3,
+      "instruction": "Shake Dressing in a jar. Taste and adjust to taste. I like it a bit sharp because it balances out the flavours in this salad."
+    },
+    {
+      "order": 4,
+      "instruction": "Toast pine nuts in a dry skillet over medium heat until light golden and it smells nutty. Remove pine nuts from skillet as soon as it's ready."
+    },
+    {
+      "order": 5,
+      "instruction": "Place Spinach in a bowl. Drizzle with a bit of dressing then toss."
+    },
+    {
+      "order": 6,
+      "instruction": "Add pumpkin, just a bit of feta and pine nuts, then GENTLY BRIEFLY toss just to disperse the feta. (If you toss vigorously, the feta can make it look messy)."
+    },
+    {
+      "order": 7,
+      "instruction": "Transfer to serving plate. Sprinkle over remaining feta and pine nuts. Just before serving, drizzle with remaining dressing (dressing doesn't stay on baby spinach well, so worth drizzling at end). Serve!"
+    }
+  ]
+}

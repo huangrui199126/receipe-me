@@ -1,0 +1,135 @@
+{
+  "id": "tr_1352",
+  "title": "The fastest noodle stir fry I know - from scratch!",
+  "image": "https://www.recipetineats.com/tachyon/2025/06/2-ingredient-noodle-stir-fry-_5.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/the-fastest-noodle-stir-fry-i-know/",
+  "servings": 4,
+  "prepTime": 7,
+  "cookTime": 8,
+  "tags": [
+    "chicken noodle stir fry",
+    "noodle stir fry",
+    "stir fried noodles"
+  ],
+  "nutrition": {
+    "calories": 452,
+    "protein": 28.0,
+    "carbs": 60.0,
+    "fat": 10.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/14oz  chicken thighs (, skinless boneless, thinly sliced 0.75cm/1/4&quot; thick (or breast))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  hokkien noodles, lo mein, other noodles (, from the fridge, prepared per packet, rinsed well, drained (Note 1))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "peanut oil ((or any other neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "7  green onions (, cut into 5cm/2\" lengths, soft dark green parts separated from the white / pale green firmer parts)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "green cabbage (, sliced ~1cm / 0.4\" thick (Napa/Chinese cabbage also works))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "kecap mani (sweet soy) ( (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "white pepper ((sub black pepper))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 tbsp+ chilli crisp, chilli paste or sriracha ((add &gt; taste &gt; add &gt; taste!) (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Toss chicken with 2 tbsp sauce. In a large 30cm/12&quot; non-stick pan over high heat, cook chicken first, adding garlic and white part of green onion towards the end. Cabbage 1 1/2 minutes, then noodles, sauce (add in 2 batches) and chilli crisp. Wilt green onion, serve!"
+    },
+    {
+      "order": 2,
+      "instruction": "Sauce - Mix the ingredients in a small bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss the chicken with 2 tablespoons of the sauce (no marinating time needed)."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook chicken - Heat the oil in a large 30cm/12&quot; non-stick pan over high heat until very hot. Add the chicken and cook for 2 minutes. Add the garlic and white part of the green onion, cook for another 30 seconds until chicken is just cooked."
+    },
+    {
+      "order": 5,
+      "instruction": "Cabbage - Add the cabbage, toss for 1 1/2 minutes or until it starts to go floppy."
+    },
+    {
+      "order": 6,
+      "instruction": "Sauce and noodles - Add the noodles and half the sauce, toss for a minute until the sauce is absorbed and no longer pooling in the pan (~ 45 seconds). Then add the remaining sauce and toss again until it&#39;s all evenly coated and no liquid remains (~ 1 minute), adding chilli crisp towards the end, if using. (Note 4)"
+    },
+    {
+      "order": 7,
+      "instruction": "Serve - Toss through the green part of the green onion until it&#39;s wilted (barely 20 seconds), then divide between bowls. Noodle slurping time!"
+    }
+  ]
+}

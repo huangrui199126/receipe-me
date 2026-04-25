@@ -1,0 +1,162 @@
+{
+  "id": "tr_647",
+  "title": "Creamy Lemon Chicken Breast",
+  "image": "https://www.recipetineats.com/tachyon/2016/01/Creamy-Lemon-Chicken_8.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-lemon-chicken/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "chicken breast recipe",
+    "creamy lemon chicken"
+  ],
+  "nutrition": {
+    "calories": 497,
+    "protein": 41.0,
+    "carbs": 4.0,
+    "fat": 35.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 1.2lb  chicken breasts (2 large) ((Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt ((kosher salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "flour ((plain / all-purpose))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "40",
+      "unit": "g",
+      "name": "/ 3 tbsp  butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2  garlic clove, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "chicken broth/stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "cream (, heavy/thickened (Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 4 tbsp lemon juice (adjust to taste, start with 3 tbsp)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "parmesan cheese (, freshly grated OR store bought finely shredded (Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pasta of choice ((I used linguine))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Slice chicken breast horizontally to create two thin steaks (so you end up with 4 thin steaks in total)."
+    },
+    {
+      "order": 2,
+      "instruction": "Sprinkle each side with salt and pepper, then coat with flour, shaking off excess."
+    },
+    {
+      "order": 3,
+      "instruction": "Melt butter in a large skillet over medium high heat. Cook chicken 2 minutes on each side until golden and crispy, then remove onto plate."
+    },
+    {
+      "order": 4,
+      "instruction": "Add a touch of butter if your pan is dry - but you shouldn&#x27;t need it. Add garlic, stir 10 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Then add chicken broth, cream, lemon and Dijon mustard. Bring to simmer and scrape the bottom of the pan to dissolve brown bits into the liquid. Use a whisk if needed to dissolve mustard."
+    },
+    {
+      "order": 6,
+      "instruction": "Add parmesan then simmer rapidly for 3 minutes or until sauce thickens slightly. Add salt, pepper and adjust lemon to taste."
+    },
+    {
+      "order": 7,
+      "instruction": "Return the chicken to the pan (pour in any juices on the plate too), turn to coat."
+    },
+    {
+      "order": 8,
+      "instruction": "Place chicken on serving plates with pasta or mashed potatoes. Sprinkle with fresh parsley if using. Spoon over Lemon Sauce and serve! (Bread for mopping wouldn&#x27;t go astray either)"
+    }
+  ]
+}

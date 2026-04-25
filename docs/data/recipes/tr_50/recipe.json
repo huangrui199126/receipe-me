@@ -1,0 +1,103 @@
+{
+  "id": "tr_50",
+  "title": "Cuban Pork Sandwich (Cubanos) from Chef Movie",
+  "image": "https://www.recipetineats.com/tachyon/2015/03/Cuban-Pork-Sandwich-Cubano-Chef-Movie-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cuban-pork-sandwich-cubanos-from-chef-movie/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 407,
+    "protein": 20.8,
+    "carbs": 33.3,
+    "fat": 21.4
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  thin slices baked leg ham",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  large (, thin slices Mojo Marinated Pork)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "pieces",
+      "name": "of white baguettes (, 6 inch/15 cm in length, cut in half)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Melted butter (, for brushing)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "American mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  thin slices Swiss cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 or 3   dill pickles (, thinly sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat skillet over medium heat. Add ham and pork slices, and cook each side until slightly browned then remove to a plate."
+    },
+    {
+      "order": 2,
+      "instruction": "Butter cut sides of baguettes then place in the skillet, cut side down, for 2 minutes until lightly browned. Remove onto work surface."
+    },
+    {
+      "order": 3,
+      "instruction": "Layer the bottom of the baguettes with pork, ham, then cheese and pickles. Cut, break or fold the ham, pork and cheese so they fit. Spread the cut side of the bun tops with mustard then place on the sandwich."
+    },
+    {
+      "order": 4,
+      "instruction": "Butter the bottom AND top of the outside of the baguettes."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat skillet over medium high heat. Place the baguettes in the skillet, top with a sheet of baking paper then weigh it down with a heavy skillet or pot (use cans if necessary for extra weight so the sandwich compressed). Cook for 3 minutes on each side, until dark golden brown and crispy, and the cheese is melted."
+    },
+    {
+      "order": 6,
+      "instruction": "Let sandwiches stand 1 minute before cutting in half. Serve IMMEDIATELY."
+    }
+  ]
+}

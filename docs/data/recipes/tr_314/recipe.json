@@ -1,0 +1,111 @@
+{
+  "id": "tr_314",
+  "title": "Crispy Garlic Chicken Thighs",
+  "image": "https://www.recipetineats.com/tachyon/2018/06/Garlic-Chicken-Thighs_5a.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/garlic-chicken-thighs-recipe/",
+  "servings": 4,
+  "prepTime": 3,
+  "cookTime": 12,
+  "tags": [],
+  "nutrition": {
+    "calories": 334,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 1.2 lb   skinless boneless chicken thighs ((5 to 6))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml  dry white wine ((or broth or water))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "25",
+      "unit": "g",
+      "name": "/ 2 tbsp   unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley (, optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sprinkle both sides of chicken with garlic powder, salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a large skillet over medium heat. Place chicken in skillet smooth side down."
+    },
+    {
+      "order": 3,
+      "instruction": "Press down lightly with with spatula. Cook for 5 minutes until deep golden and crispy."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn and press lightly with spatula. Cook for 2 minutes. Add garlic and butter, cook for 1 minute until garlic is light golden and it smells amazing."
+    },
+    {
+      "order": 5,
+      "instruction": "Add wine, then turn up heat. Stir around the chicken to dissolve golden bits stuck on the skillet into the wine. Simmer rapidly for 1 1/2 minutes or until alcohol smell evaporates."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from heat. Serve chicken with sauce.&nbsp;"
+    }
+  ]
+}

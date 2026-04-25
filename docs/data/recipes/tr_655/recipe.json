@@ -1,0 +1,114 @@
+{
+  "id": "tr_655",
+  "title": "Crispy Pan Fried Fish",
+  "image": "https://www.recipetineats.com/tachyon/2017/06/Crispy-Pan-Fried-Fish-3-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crispy-pan-fried-fish/",
+  "servings": 2,
+  "prepTime": 3,
+  "cookTime": 5,
+  "tags": [
+    "cook fish on stove",
+    "pan fried fish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  thin fish fillets, around 150g/5 oz each, 1 cm / 2/5\" thick, skin on or off ((Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 35g   flour ((plain/all purpose, wholemeal))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "paprika (, optional (Note 2))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp oil, enough to mostly thinly cover base ((I use vegetable or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley or dill (, for garnish, optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Use scrunched up paper towels to pat the fish dry on both sides. This is especially important if you are using thawed frozen fish."
+    },
+    {
+      "order": 2,
+      "instruction": "Season the fish well on both sides with salt and pepper (key!)."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix the flour and paprika on a plate."
+    },
+    {
+      "order": 4,
+      "instruction": "Coat fish on both sides with flour, pressing down firmly so it adheres, but shake well to remove excess. (Note 2)"
+    },
+    {
+      "order": 5,
+      "instruction": "Heat a heavy based skillet (normal or non stick) over medium high heat until you see wisps of smoke. Add oil and swirl to coat the pan - it will heat within seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Add fish - it should sizzle straight away. Shake the pan lightly to move the fish.&nbsp;Cook for 2 minutes until golden and crisp, pressing down gently, then flip.&nbsp;Cook the other side for 2 minutes until crisp then remove."
+    },
+    {
+      "order": 7,
+      "instruction": "If it's browning too quickly, just remove pan from the stove briefly. &nbsp;If it's stuck, don't move - it will release naturally once golden."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve fish immediately with lemon wedges and garnished with dill or parsley, if using. It starts to lose crispiness after 5 minutes."
+    }
+  ]
+}

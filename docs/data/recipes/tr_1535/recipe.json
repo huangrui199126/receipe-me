@@ -1,0 +1,75 @@
+{
+  "id": "tr_1535",
+  "title": "Cinnamon Sugar Nutella Quesadilla.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/08/Cinnamon-Sugar-Nutella-Quesadilla-1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/cinnamon-sugar-nutella-quesadilla/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "cinnamon",
+    "nutella",
+    "quesadillas"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 2.0,
+    "carbs": 47.0,
+    "fat": 12.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Old El Paso Soft Taco flour tortilla",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 tablespoons Nutella",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a small bowl combine the cinnamon and sugar."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a medium skillet over medium heat and add the butter. Spread the Nutella over half of the quesadilla and then fold the other half over the Nutella to create a half circle. Place the quesadilla in the skillet and cook 1-2 minutes, flip and cook another 1-2 minutes, or until the Nutella is warmed through. Remove the quesadilla from the skillet and add to a plate. Immediately sprinkle generously with cinnamon sugar. You will not need all the cinnamon sugar, save any leftover for another use. Slice in half and EAT!"
+    }
+  ]
+}

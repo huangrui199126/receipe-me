@@ -1,0 +1,135 @@
+{
+  "id": "tr_1198",
+  "title": "Mini No Bake Nutella Cheesecake",
+  "image": "https://www.recipetineats.com/tachyon/2016/07/No-Bake-Mini-Nutella-Cheesecake_7.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mini-no-bake-nutella-cheesecake/",
+  "servings": 12,
+  "prepTime": 20,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 391,
+    "protein": 4.2,
+    "carbs": 34.3,
+    "fat": 26.8
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (4.8 oz / 137g)   packet (oreo cookies (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "/ 45 g   unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250 g   Philadelphia cream cheese (brick form, NOT tub!) (, softened)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "+ 2 tbsp / 240 g   Nutella ((or hazelnut spread))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65 ml   heavy cream ((Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 30 g   icing sugar ((confectionary / powdered sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "vanilla extract ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "/ 80 g   Nutella ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "/ 185 ml   heavy cream ((Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "/ 25 g   sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Line a standard 12 hole muffin tin with paper patties."
+    },
+    {
+      "order": 2,
+      "instruction": "Use a food processor or place Oreos in a ziplock bag and bash with a rolling pin to make fine crumbs."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix Oreo crumbs with butter. Divide between holes and press firmly to flatten."
+    },
+    {
+      "order": 4,
+      "instruction": "Beat cream cheese until smooth. Then beat in icing sugar, Nutella and vanilla extract. Add cream and beat for 2 to 3 minutes or until fluffy like frosting."
+    },
+    {
+      "order": 5,
+      "instruction": "Divide mixture between holes. Smooth out top. Refrigerate until firm in muffin tin (Note 5)"
+    },
+    {
+      "order": 6,
+      "instruction": "Beat cream until starting to thicken, add sugar then beat until soft peaks form. Transfer to piping bag (optional) and pipe / dollop cream on each."
+    },
+    {
+      "order": 7,
+      "instruction": "Place Nutella in one corner of a small ziplock bag and microwave for 15 seconds on high. Snip a a tiny hole in one corner of the ziplock bag. Drizzle over cheesecakes. (Note 6)"
+    },
+    {
+      "order": 8,
+      "instruction": "Serve cool (Note 7)"
+    }
+  ]
+}

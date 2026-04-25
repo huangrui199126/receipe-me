@@ -1,0 +1,155 @@
+{
+  "id": "tr_865",
+  "title": "Apple turnovers - with cream filled option!",
+  "image": "https://www.recipetineats.com/tachyon/2023/08/Apple-turnovers_8-1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/apple-turnovers/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 30,
+  "tags": [
+    "apple turnovers",
+    "puff pastry dessert",
+    "turnovers"
+  ],
+  "nutrition": {
+    "calories": 336,
+    "protein": 4.0,
+    "carbs": 45.0,
+    "fat": 17.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  Granny Smith apples (, peeled, diced into 1.25cm cubes, 6 cups (Note 1))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cornflour/cornstarch ((thickens sauce))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 square puff pastry sheets ( (25 cm/10&quot;), butter best (Note 3))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg (, whisked)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 batches Stabilised whipped cream OR stiff whipped cream ((Note 3))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 batch Whipped cream for dunking ( - for easy option (Note 4))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Icing sugar / powdered sugar (, for dusting (optional))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Filling - Put apples in a large saucepan. Toss with cornflour. Add everything else. Cook on medium to medium-high heat, stirring regularly, for 5 minutes. Apple should be softened but not mushy or losing shape, with some but not too much caramel."
+    },
+    {
+      "order": 2,
+      "instruction": "Cool - Spread the filling on a large plate then let it fully cool. (Note 5)"
+    },
+    {
+      "order": 3,
+      "instruction": "Line a large cutting board or upside down tray with baking/parchment paper."
+    },
+    {
+      "order": 4,
+      "instruction": "Make turnovers - Working one puff pastry sheet at a time, barely thawed, cut into 4 squares (12.5cm/5&quot;). Brush 2 sides with egg, then pile filling on the egg brushed side. Avoid using sauce, soaks base and if it leaks onto edge it will not seal. (Save leftover sauce &amp; apple for pancakes, french toast, ice cream etc!)"
+    },
+    {
+      "order": 5,
+      "instruction": "Wrap - Fold over, seal with fork dipped in flour (prevents sticking to pastry). Transfer to paper lined cutting board."
+    },
+    {
+      "order": 6,
+      "instruction": "Refrigerate for 20 minutes (cold = better puffing)."
+    },
+    {
+      "order": 7,
+      "instruction": "Preheat oven to 200°C/400°F (180°C fan)."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake 25 min - Slide the paper with the turnovers on it onto a large baking tray. (Note 6 for why) Brush turnovers with egg. Stab 3 times. Bake 25 minutes or until golden."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve warm, dusted with icing sugar and whipped cream for dunking."
+    },
+    {
+      "order": 10,
+      "instruction": "Transfer turnovers to a cooling rack. Fully cool. Split seam side open with knife. Pipe in cream. EAT!"
+    }
+  ]
+}

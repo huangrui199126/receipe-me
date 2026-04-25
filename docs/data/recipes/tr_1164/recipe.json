@@ -1,0 +1,159 @@
+{
+  "id": "tr_1164",
+  "title": "Red Potato Salad with Bacon and Corn (No mayonnaise!)",
+  "image": "https://www.recipetineats.com/tachyon/2021/04/Red-Potato-Salad-with-Bacon-and-Corn_9-SQ.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/red-potato-salad-with-bacon-and-corn-no-mayo/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "potato salad no mayonnaise",
+    "potato salad with bacon",
+    "red potato salad"
+  ],
+  "nutrition": {
+    "calories": 465,
+    "protein": 9.0,
+    "carbs": 37.0,
+    "fat": 33.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1.2",
+      "unit": "kg",
+      "name": "/ 2.4 lb  red potatoes (, sliced 0.8cm / ⅓&quot; thick (5cm / 2&quot; round, Note 1))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "salt ((for cooking potatoes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  eschalot (, finely sliced (US: shallot, Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  ears of corn ((whole, Note 3))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green onions (, finely sliced (3/4 cup))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7oz  bacon ((streaky is best!), chopped)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "8",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (, minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Dressing: Shake Dressing in a jar."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook potato: Bring a large pot of water to the boil and add salt. Add potato. Bring it back up to the boil, then cook for 5 minutes or until just soft. Keep an eye on them – sliced potatoes cook quickly, and if they overcook they will break when tossing."
+    },
+    {
+      "order": 3,
+      "instruction": "Drain and marinate: Drain potatoes, then transfer them to a bowl. Handle gently – the shape of these potatoes make them prone to breaking while hot (they&#039;re firmer when cool). Pour over 3/4 of the dressing, add eschalots and toss very gently. Set aside to marinate for 30 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook bacon: Place bacon in a cold non-stick pan then turn the stove to medium high. As the pan heats, the bacon fat will melt so there&#039;s no need for oil! Cook bacon, stirring constantly (to avoid spitting!), until golden or to your taste. Drain on paper towels."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook corn: Meanwhile, cook corn cob using one of these methods. Either grill on the BBQ (10 min on high) or directly over the gas flame on your stove (6 min, direct contact with flame), until nicely charred and corn is cooked. Otherwise, cut the corn off the kernels then pan fry on high heat in residual bacon fat or 1 tbsp olive oil until charred."
+    },
+    {
+      "order": 6,
+      "instruction": "Cut off kernels: Cut kernels off cob, trying to keep of the kernels in clumps (looks nice!). (Note 4 for my method)"
+    },
+    {
+      "order": 7,
+      "instruction": "Make salad: To the same bowl, add all the corn, half the bacon and most of the green onion. Toss gently, then transfer to serving bowl. Scatter with reserved bacon and green onion, drizzle over remaining Dressing. Serve!"
+    }
+  ]
+}

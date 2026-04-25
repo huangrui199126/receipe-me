@@ -1,0 +1,140 @@
+{
+  "id": "tr_1026",
+  "title": "Thai Black Sticky Rice Pudding",
+  "image": "https://www.recipetineats.com/tachyon/2021/08/Black-Sticky-Rice-Pudding_68-SQ.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/thai-black-sticky-rice-pudding/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "black sticky rice pudding",
+    "sticky rice pudding",
+    "thai dessert",
+    "thai rice pudding"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "black glutinous rice ((aka black sticky rice) (Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "white glutinous rice ((white sticky rice) (Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  pandan leaves (, folded and knotted (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(loosely packed) palm sugar ((or brown sugar), grated with box grater (Note 3))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "coconut cream ((very highly recommended))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "shaved coconut (, toasted, optional (Note 4))",
+      "emoji": "🥥",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mango cubes or crushed peanuts (, for topping, optional)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak rice: Place both rices in a bowl and cover with water (5cm / 2&quot; above). Soak for 4 hours (up to 12 hours)."
+    },
+    {
+      "order": 2,
+      "instruction": "Strain the rice and add it to a small pot or large saucepan."
+    },
+    {
+      "order": 3,
+      "instruction": "Pandan leaves: Add the knotted pandan leaves."
+    },
+    {
+      "order": 4,
+      "instruction": "Simmer 30 minutes: Add 4 cups of cold water. Bring to boil. Turn stove down to low so it&#39;s simmering very gently (small, slow little bubbles). Simmer 30 minutes (no lid), stirring frequently for the last 15 minutes and almost constantly towards the end (so the base does not catch)."
+    },
+    {
+      "order": 5,
+      "instruction": "Consistency: Rice should be soft / fully cooked through, water reduced, and sauce should be creamy not watery (starch from rice thickens water)."
+    },
+    {
+      "order": 6,
+      "instruction": "Add sugar: Stir in sugar and salt until it dissolves (~20 seconds)."
+    },
+    {
+      "order": 7,
+      "instruction": "Ladle into bowls - it should ooze slowly, not be runny nor so thick it stays in a mound, see video for consistency. (If it&#39;s too thick, add a touch of water and stir)."
+    },
+    {
+      "order": 8,
+      "instruction": "Toppings: Mix coconut cream with salt. Drizzle onto rice pudding. Top with toasted coconut and mango if using. Serve immediately."
+    }
+  ]
+}

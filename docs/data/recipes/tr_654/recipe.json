@@ -1,0 +1,182 @@
+{
+  "id": "tr_654",
+  "title": "Lentil Curry - mega flavour lentil recipe!",
+  "image": "https://www.recipetineats.com/tachyon/2020/04/Lentil-Curry_9-SQ.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lentil-curry-mega-flavour-lentil-recipe/",
+  "servings": 5,
+  "prepTime": 5,
+  "cookTime": 55,
+  "tags": [
+    "lentil curry",
+    "lentil recipe"
+  ],
+  "nutrition": {
+    "calories": 414,
+    "protein": 14.0,
+    "carbs": 36.0,
+    "fat": 26.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "(3 tbsp)  butter (, unsalted (sub 2 tbsp neutral oil))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, finely minced (Note 1))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "ginger (, finely minced  (Note 1))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped (white, yellow, brown))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "curry powder (, mild or spicy (your choice!) (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "tumeric powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cayenne pepper (, optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dried lentils (, green or brown (or any other dried lentils or split peas, Note 3))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "400",
+      "unit": "ml",
+      "name": "/ 14 oz  coconut milk (, full fat)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/ 14 oz  canned tomato (, crushed or diced)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "(750 ml)  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "coriander/cilantro (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Yogurt (, optional)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Basmati rice ((or other rice))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Saute onion: Melt butter in a pot over medium heat. Add onion, garlic and ginger. Slowly cook, stirring every now and then, for 10 minutes until tinged with gold and the onion is sweet."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook off spices: Turn heat up to high, add curry powder and turmeric, stir for 1 1/2 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Add everything else: Add remaining ingredients and stir. Bring to simmer, then place lid on and adjust heat to low / medium low so it&#x27;s simmering gently."
+    },
+    {
+      "order": 4,
+      "instruction": "Simmer: Simmer for 30 minutes, then remove lid and simmer for a further 10 minutes to reduce the sauce. {Note 2 for cook times of other lentils}"
+    },
+    {
+      "order": 5,
+      "instruction": "Lentils should be soft, sauce should be thickened and creamy. Too thick, add water. Too thin, simmer with lid off - thickens quickly."
+    },
+    {
+      "order": 6,
+      "instruction": "Coriander: Stir through half the coriander, then taste and add more salt if needed."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve over basmati rice, sprinkled with more coriander and a dollop of yogurt. (Low carb option - cauliflower rice)."
+    }
+  ]
+}

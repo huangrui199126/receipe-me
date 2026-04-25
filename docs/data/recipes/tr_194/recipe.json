@@ -1,0 +1,187 @@
+{
+  "id": "tr_194",
+  "title": "One Pan Spanish Chicken with Chorizo, Tomato and Potatoes",
+  "image": "https://www.recipetineats.com/tachyon/2015/01/DSC_0332.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pan-spanish-chicken-chorizo-tomato-potatoes/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 50,
+  "tags": [],
+  "nutrition": {
+    "calories": 773,
+    "protein": 50.7,
+    "carbs": 39.4,
+    "fat": 45.2
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  chicken thigh fillets (, skin on and bone in (about 8oz/250g each) (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 - 12  baby potatoes (, scrubbed and skin on, halved (or 3 medium potatoes, cut into 4) (Note 2))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  chorizo ((5 - 6 oz / 150 - 200g in total), cut into 1/3cm / 1/8\" slices (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 small red capsicum ((bell pepper), cut into slices)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 small red onion (, halved and cut into slices (or ordinary onion))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "(15oz/400g)  crushed tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 to 1 punnet cherry tomatoes ((8oz / 250g) (Note 4))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice ((Note 5))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4 - 1/2 tsp cayenne or chilli powder ((adjust to taste for spiciness))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh oregano leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 350F/180C."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the Rub ingredients in a small bowl. Slather over the chicken."
+    },
+    {
+      "order": 3,
+      "instruction": "Boil or microwave the potatoes until slightly undercooked."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat the oil in a large, deep fry pan or oven proof casserole dish over high heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the chicken, skin side down, and cook unit light brown - about 1 to 1 1/2 minutes. Then turn and cook the other side until a slightly deeper brown - about the same time. Remove into a big bowl."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the chorizo and fry until light brown on each side - about 1 minute (each side). Remove into the same bowl as the chicken."
+    },
+    {
+      "order": 7,
+      "instruction": "If the pan is looking dry (depends on fattiness of chicken and chorizo), add 1 tbsp of olive oil. I did not need this."
+    },
+    {
+      "order": 8,
+      "instruction": "Add the garlic, capsicum (bell pepper) and onion and sauté for 2 minutes until the capsicum is slightly charred. It will be extra charred from the dark brown residue from the chorizo and chicken."
+    },
+    {
+      "order": 9,
+      "instruction": "Add the canned tomatoes and oregano and stir to combine, scraping the bottom of the pan. Then add the potato, chicken, chorizo and cherry tomatoes. Nestle the chicken in so it is half submerged in the tomato."
+    },
+    {
+      "order": 10,
+      "instruction": "Bring to simmer, then cover with a lid (I use a lid from a large pot) or foil and bake for 30 to 40 minutes until the chicken is cooked through and dark brown."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve, garnished with fresh oregano leaves if desired."
+    }
+  ]
+}

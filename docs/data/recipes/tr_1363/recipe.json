@@ -1,0 +1,170 @@
+{
+  "id": "tr_1363",
+  "title": "Extra Crispy Corn Fritters",
+  "image": "https://www.recipetineats.com/tachyon/2020/05/Crispy-Corn-Fritters_0-SQ.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crispy-corn-fritters/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "corn fritters",
+    "crispy fritters"
+  ],
+  "nutrition": {
+    "calories": 141,
+    "protein": 4.0,
+    "carbs": 13.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "baking soda ((or 3/4 tsp baking powder))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "milk ((any type))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "fresh corn kernels (, raw (2 cobs) (canned or frozen also fine - Note 1))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parmesan (, finely grated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "green onions (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "coriander/cilantro (, roughly chopped (sub more green onion))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Avocado sauce",
+      "emoji": "🥑",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream, ketchup ((don’t judge until you’ve tried it!))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 120°C / 250°F and set a wire rack on a baking tray."
+    },
+    {
+      "order": 2,
+      "instruction": "Place flour, cornflour and baking soda in a bowl, mix to combine."
+    },
+    {
+      "order": 3,
+      "instruction": "Add egg and milk, mix until incorporated (batter will be lumpy and thick)."
+    },
+    {
+      "order": 4,
+      "instruction": "Add corn, parmesan, green onions and coriander. Mix until all the corn is evenly coated in batter."
+    },
+    {
+      "order": 5,
+      "instruction": "Add enough oil into the skillet so it just covers the base. Heat over medium high heat."
+    },
+    {
+      "order": 6,
+      "instruction": "Spray the underside of a spatula with oil (so batter won’t stick when you flatten)."
+    },
+    {
+      "order": 7,
+      "instruction": "Place 1/4 cup batter into skillet (ice cream scooper with lever is handy), then flatten to 1cm thick. Repeat with 2 or 3 more, but don’t crowd the skillet."
+    },
+    {
+      "order": 8,
+      "instruction": "Cook 3 minutes until deep golden and crisp, then flip and cook the other side for 2 – 3 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Transfer to rack and keep warm in oven. Repeat with remaining fritters, using more oil as necessary."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve with sauce of choice for dunking!"
+    }
+  ]
+}

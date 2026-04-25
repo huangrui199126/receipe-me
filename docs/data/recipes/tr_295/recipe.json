@@ -1,0 +1,207 @@
+{
+  "id": "tr_295",
+  "title": "Melting Afghan chickpea curry",
+  "image": "https://www.recipetineats.com/tachyon/2025/05/Afghani-Chickpea-Curry_0.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/melting-afghani-chickpea-curry/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 45,
+  "tags": [
+    "afghan curry",
+    "chickpea curry",
+    "easy chickpea curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "ghee (, substitute unsalted butter or coconut oil (for vegan))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  cinnamon sticks ((sub 1/2 tsp powder, add with other spices))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "grated ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "grated garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  bay leaves (, preferably fresh else dried)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "dried red split lentils ((Note 1))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "litre",
+      "name": "vegetable stock (, low sodium)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 x 400g/14oz cans  chickpeas (, drained (Note 2))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "baking soda / bi-carbonate soda ((makes chickpeas creamy, optional))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "coriander powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "turmeric powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cardamom powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "ground cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Basmati rice  (and/or Afghan bread (Note 4), or other flatbread)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Yogurt ((I like to slightly thin with water so it can be drizzled))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh coriander / cilantro leaves (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté - Melt the ghee in a large pot over medium high heat. Add the cinnamon and toast for 30 seconds. Add the onion, ginger, garlic and bay leaves. Cook for 3 minutes until the onion is translucent (stir regularly so the garlic &amp; ginger don&#39;t catch)."
+    },
+    {
+      "order": 2,
+      "instruction": "Spices and lentils - Add the Spices and stir for 30 seconds. Add the lentils and stir to coat in the spices."
+    },
+    {
+      "order": 3,
+      "instruction": "Simmer lentils - Add the stock and salt. Stir, bring to a simmer. Lower the head to medium, put the lid on and simmer for 15 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Simmer chickpeas - Add the chickpeas, water and baking soda. Increase the heat to make it simmer again. Then lower the stove slightly and leave to simmer gently for 30 minutes without a lid or until the lentils mostly broken down to make a thin gravy (you can cook an extra 10 minutes to thicken more if you want)."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve with rice on the side and Afghan or other flatbreads for dunking, drizzled with yogurt and sprinkled with fresh coriander if you want (I do)."
+    }
+  ]
+}

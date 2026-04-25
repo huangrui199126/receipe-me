@@ -1,0 +1,211 @@
+{
+  "id": "tr_221",
+  "title": "One Pot Lasagna",
+  "image": "https://www.recipetineats.com/tachyon/2015/02/One-Pot-Beef-Lasagna-with-Layers-1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pot-beef-lasagna-with-layers/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 40,
+  "tags": [],
+  "nutrition": {
+    "calories": 403,
+    "protein": 39.2,
+    "carbs": 27.7,
+    "fat": 13.4
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 small  onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   ground beef ((mince))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "24",
+      "unit": "oz",
+      "name": "/ 700g (1 bottle)   tomato passata  ((pureed tomato - Note 1), SEPARATED)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  beef bouillon stock cube ((or substitute with chicken))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried Italian herb mix ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried Italian herb mix ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder ((or 1 crushed garlic clove))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "4",
+      "unit": "sheets",
+      "name": "dried lasagna",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 to 2 cups grated mozzarella cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat olive oil in a medium size, deep fry pan over medium high heat. (Note 3)"
+    },
+    {
+      "order": 3,
+      "instruction": "Add garlic and onion, sauté until onion is translucent - about 3 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn up heat to high. Add beef and cook, breaking it up with the spatula, until nicely browned."
+    },
+    {
+      "order": 5,
+      "instruction": "Add HALF the bottle of tomato passata (reserve remainder for Sauce). Then add remaining Filling ingredients. Bring to rapid simmer, then turn down to medium high. Let it simmer for around 5 minutes to let the flavours come together and the liquid to reduce. Stir occasionally."
+    },
+    {
+      "order": 6,
+      "instruction": "Add Sauce Flavourings into the tomato passata bottle and shake to combine."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove fry pan from the stove. Slide one lasagna sheet, starting from the side, under the Filling - this will be the base of the lasagna. Use a spoon to push it down and cover it in Filling. Break up pieces of lasagne and slide them in under the filling around the sides of the pan (to form the remainder of the bottom layer), using a spoon to push them down and cover with Filling."
+    },
+    {
+      "order": 8,
+      "instruction": "Cover the Filling with the remaining lasagna sheets."
+    },
+    {
+      "order": 9,
+      "instruction": "Pour over the Sauce and spread over the top. Sprinkle with cheese."
+    },
+    {
+      "order": 10,
+      "instruction": "Cover with a lid or foil and bake for 20 minutes. Remove cover and bake for a further 10 minutes until the cheese is melted and bubbly and golden. Remove from oven and set aside for 10 minutes to set."
+    },
+    {
+      "order": 11,
+      "instruction": "Sprinkle with parsley (if using), then serve."
+    }
+  ]
+}

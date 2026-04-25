@@ -1,0 +1,272 @@
+{
+  "id": "tr_1747",
+  "title": "Almond Buttermilk Jamaican Fried Chicken with Pickled Pineapple Slaw.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/05/Almond-Buttermilk-Jamaican-Fried-Chicken-with-Rum-Pickled-Pineapple-Slaw-1.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/almond-buttermilk-jamaican-fried-chicken-with-rum-pickled-pineapple-slaw/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [
+    "buttermilk",
+    "fried chicken",
+    "pineapple",
+    "slaw"
+  ],
+  "nutrition": {
+    "calories": 559,
+    "protein": 40.0,
+    "carbs": 61.0,
+    "fat": 8.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 teaspoons cayenne pepper (more or less to your taste)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "all-spice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt + 1/2 teaspoon pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "ketchup (preferably organic)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "orange juice",
+      "emoji": "🍊",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "molasses",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "[Almond Breeze Almondmilk Coconutmilk Original Unsweetened* | https://www.almondbreeze.com/?navid=530]",
+      "emoji": "🥛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "canola oil for frying",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "chicken tenders (thighs or legs (I prefer tenders, but use what you love!))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "self rising flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  a medium pineapple (diced)",
+      "emoji": "🍎",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  ear fresh corn (kernels removed)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red bell pepper (sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  jalapeno (sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "granulated sugar or honey",
+      "emoji": "🍬",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "the zest + juice of 1 lime",
+      "emoji": "🍋",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To make the spice mix, in a small bowl combine the garlic powder, onion powder, dried thyme, paprika, cayenne pepper (I used 2 teaspoons), all-spice, brown sugar, cinnamon, salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "To make the BBQ sauce, in another small bowl, combine the ketchup, orange juice, soy sauce, molasses and 1 - 1 1/2 teaspoons of the spice mix (start with 1 teaspoon, taste and add more if needed). Cover the BBQ sauce and store in the fridge until serving or up to 1 week."
+    },
+    {
+      "order": 3,
+      "instruction": "In a large bowl, add the Almond Breeze and 2 teaspoons apple cider vinegar. Whisk in about 2 tablespoons of the spice mix. Add the chicken and make sure it is submerged in the almond milk. Place in the fridge for 1 hour or overnight."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat the canola oil to 350 degrees F. in a deep heavy bottomed pot. Do not fill the pot more than 1/2 full with oil."
+    },
+    {
+      "order": 5,
+      "instruction": "When ready to fry, add the flour to a shallow bowl and dip each piece of chicken through the flour. If desired you can then dip the chicken back in the buttermilk mixture and then back through the flour for a double coating."
+    },
+    {
+      "order": 6,
+      "instruction": "Once the oil is hot, fry the chicken in batches until brown and crisp. Dark meat takes longer then white meat. It should take dark meat about 13 to 14 minutes, white meat around 8 to 10 minutes, but this will all depend on the size of you chicken pieces. Serve the chicken with the BBQ sauce for dipping and the pickled pineapple slaw (below)."
+    },
+    {
+      "order": 7,
+      "instruction": "In a bowl, combine the pineapple, corn kernels, bell pepper, jalapeno pepper (seed if desired) and the zest of 1 lime."
+    },
+    {
+      "order": 8,
+      "instruction": "In a small sauce pan, combine the apple cider vinegar, salt and sugar (or honey). Bring the mix to a boil, stirring often to help the sugar dissolve. Remove from the heat and add the lime zest."
+    },
+    {
+      "order": 9,
+      "instruction": "Pour the mix over the pineapple medley and allow to cool completely. Serve along side the chicken or store in the fridge for up to 1 week."
+    }
+  ]
+}

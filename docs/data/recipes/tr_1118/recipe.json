@@ -1,0 +1,105 @@
+{
+  "id": "tr_1118",
+  "title": "Tahini Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2024/03/Tahini-sauce_7.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tahini-sauce/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "tahini sauce"
+  ],
+  "nutrition": {
+    "calories": 394,
+    "protein": 11.0,
+    "carbs": 23.0,
+    "fat": 32.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "tahini (, hulled (Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 1/2 - 3 tbsp water ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice ((Note 3))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  garlic clove (, pressed through garlic crusher or grated using microplane (to make sauce smooth))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "white pepper ((sub black pepper, Note 4))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "honey (, optional (Note 5))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "flaked almonds, pine nuts or pistachios (, toasted (Note 2))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Tahini Sauce ingredients until combined. It should be loose enough so it can be drizzled, but not too runny. Set aside 15 minutes to let the flavours meld."
+    },
+    {
+      "order": 2,
+      "instruction": "Sauce for Middle Eastern cooked proteins (like Chicken Shawarma, Lamb Shawarma, koftas and meatballs) and in wraps, sandwiches"
+    },
+    {
+      "order": 3,
+      "instruction": "Roasted vegetables - drizzle over roasted vegetables (carrots, cauliflower, broccoli, pumpkin, green beans and asparagus are some favourites)"
+    },
+    {
+      "order": 4,
+      "instruction": "Dip for pita bread, crisps or raw vegetable sticks, and things like Arayes (crispy Lebanese Meat Stuffed Pita Breads)."
+    }
+  ]
+}

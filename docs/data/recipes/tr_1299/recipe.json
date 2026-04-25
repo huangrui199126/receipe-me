@@ -1,0 +1,254 @@
+{
+  "id": "tr_1299",
+  "title": "Doner Kebab recipe",
+  "image": "https://www.recipetineats.com/tachyon/2017/11/Chicken-Doner-Kebab-1-SQ.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/homemade-chicken-doner-kebab/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 55,
+  "tags": [
+    "chicken doner kebab",
+    "doner kebab recipe"
+  ],
+  "nutrition": {
+    "calories": 395,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb   chicken thighs (, skinless and boneless (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil (, for drizzling)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "plain yoghurt (, unsweetened (I use Greek))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "coriander powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cayenne pepper (, optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice ((substitute apple cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lebanese bread / flatbreads / pita bread (, warmed)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely sliced iceberg lettuce",
+      "emoji": "🥬",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Tomato slices",
+      "emoji": "🍅",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Hummus ((or Note 2 for simple Yoghurt Sauce))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Tabbouleh ((optional, Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Red onion slices",
+      "emoji": "🧅",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Shredded cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chilli Sauce ((I use Sriracha, it's perfect))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mejadra ((Middle Eastern Rice with Lentils), for Kebab Plate)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinade - Mix Marinade in a large bowl. Add chicken and mix to coat well. Cover and marinate in the fridge for a minimum of 3 hours, 24 hours is ideal. If only 3 hours, add an extra 1/2 tsp salt."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 220°C / 430°F (200°C fan-forced)."
+    },
+    {
+      "order": 3,
+      "instruction": "Choose a pan of a size such that the skewers will stay propped up on the pan walls (see photos in post or video) and the chicken will be elevated off the base. Line with foil."
+    },
+    {
+      "order": 4,
+      "instruction": "Thread onto skewers - Remove chicken from fridge. Divide the chicken into 2 piles. Take one piece of chicken, fold in half then thread onto two skewers (see video). Repeat and push the chicken snugly up against each other. Repeat with other skewer."
+    },
+    {
+      "order": 5,
+      "instruction": "Prop the 2 skewers on the edges of the baking pan. Drizzle surface with oil."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake for 35 minutes or until the surface is golden with some charred bits (char is good!). Spoon the pan juices over the chicken. Turn, drizzle with oil and bake for a further 20 minutes. If you want more colour, oven grill/broil for a few minutes on high (I don&#39;t do this)."
+    },
+    {
+      "order": 7,
+      "instruction": "Rest 5 minutes - Baste again with pan juices and stand for 5 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Carving - Stand the skewers upright or on an angle, and slice meat fairly thinly. Use to make Doner Kebabs or Kebab Plates."
+    },
+    {
+      "order": 9,
+      "instruction": "Place a lebanese bread (or pita bread or other flatbread) on a piece of foil. Spread with a generous dollop of Hummus (or yoghurt sauce - Note 2). Top with shredded lettuce, slices of tomato, Tabbouleh (for a truly authentic experience! Note 3), cheese (I usually go this) and Chicken. Drizzle with chilli sauce if desired (I use Sriracha, it&#39;s perfect)."
+    },
+    {
+      "order": 10,
+      "instruction": "Roll up tightly and wrap in foil. Consume and be happy!"
+    },
+    {
+      "order": 11,
+      "instruction": "Serve chicken with Mejadra (Middle Eastern Spiced Rice with Lentils), shredded lettuce, tomatoes, slices of red onion, tabbouleh, dollop of hummus. Optional to serve flatbread / lebanese bread on the side."
+    }
+  ]
+}

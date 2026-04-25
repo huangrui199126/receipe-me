@@ -1,0 +1,150 @@
+{
+  "id": "tr_906",
+  "title": "Pumpkin Pie",
+  "image": "https://www.recipetineats.com/tachyon/2019/11/Pumpkin-Pie_2.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pumpkin-pie/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 45,
+  "tags": [
+    "pumpkin pie",
+    "pumpkin pie filling"
+  ],
+  "nutrition": {
+    "calories": 236,
+    "protein": 3.2,
+    "carbs": 23.2,
+    "fat": 15.1
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  homemade pie crust OR",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1   9&quot;/22.5cm store bought crust",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 3/4",
+      "unit": "cups",
+      "name": "pumpkin puree (, from 15 oz/425g can or homemade puree (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "(145g)  sugar, white/granulated",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ground ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "ground cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of nutmeg",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/3",
+      "unit": "cups",
+      "name": "(330 ml)  cream, heavy / thickened (cold)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "If using homemade pie crust, blind bake it per the Pie Crust recipe and fill crust straight after removing from oven."
+    },
+    {
+      "order": 2,
+      "instruction": "If using store bought, blind baking is not necessary (but if you want to, follow the Pie Crust recipe)."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 170°C / 335°F (150°C fan)."
+    },
+    {
+      "order": 4,
+      "instruction": "Place pumpkin, sugar, salt and spices into a saucepan over medium heat. Once you see steam, cook, stirring regularly, for 5 minutes (this removes excess moisture and lets spices bloom)."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove from stove and scrape into a bowl. Add cream, whisk."
+    },
+    {
+      "order": 6,
+      "instruction": "Whisk eggs in one by one, mixing just enough to incorporate. If you whisk vigorously for ages, it will aerate the mixture, leading to cracks."
+    },
+    {
+      "order": 7,
+      "instruction": "Pour into Pie Crust, transfer to oven."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake 45 - 55 minutes or until the centre is set but still has a slight jiggle and the toothpick inserted into the middle comes out clean but damp (if it still has pumpkin batter, keep cooking). (Note 2)"
+    },
+    {
+      "order": 9,
+      "instruction": "Cool completely for 4 hours+ before cutting to serve. Serve with cream and dusting of cinnamon or nutmeg if desired!"
+    }
+  ]
+}

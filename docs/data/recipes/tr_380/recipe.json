@@ -1,0 +1,106 @@
+{
+  "id": "tr_380",
+  "title": "Special Burger Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2022/08/Special-Burger-Sauce_7-sq.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/special-burger-sauce/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "burger sauce",
+    "hamburger sauce"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 1.0,
+    "carbs": 4.0,
+    "fat": 23.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "whole egg mayonnaise ((Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "American yellow mustard ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sweet gherkins finely chopped ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "gherkin juice ((from the pickle jar) (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "white wine vinegar ((Note 5))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic granules ((or 1/4 tsp garlic powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine all ingredients in a small bowl or jug and stir until smooth."
+    },
+    {
+      "order": 2,
+      "instruction": "Use for burgers - browse my Burger collection or try the latest and greatest Cheeseburger! I generously slather on the base bun as well as the lid (or drizzle the stack)."
+    }
+  ]
+}

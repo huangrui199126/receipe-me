@@ -1,0 +1,175 @@
+{
+  "id": "tr_588",
+  "title": "Slow Cooked Lamb Shawarma",
+  "image": "https://www.recipetineats.com/tachyon/2018/01/Lamb-Shawarma_4.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/slow-cooked-lamb-shawarma/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 210,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "kg",
+      "name": "/ 4 lb  lamb shoulder (bone in) or 1.7 kg / 3.5 lb butterflied lamb leg (Note 1)",
+      "emoji": "🐑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ground coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ground cardamon",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cayenne pepper ((1/2 tsp = not spicy))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "smoked paprika ((ordinary also ok))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65 ml   extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp / 40 - 60 ml   lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500 ml  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F (standard) or 160C/320F (fan forced / convection)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place Paste ingredients in a bowl, starting with 2 tbsp lemon juice, and mix. It should be a wet paste that can be slathered onto the lamb (see video)."
+    },
+    {
+      "order": 3,
+      "instruction": "Place lamb in a large roasting pan. Slather all over with paste. Optional: Marinate 24 hours (not mandatory, I usually skip)."
+    },
+    {
+      "order": 4,
+      "instruction": "Position the lamb with the fat side up. Pour water around, cover tightly with foil."
+    },
+    {
+      "order": 5,
+      "instruction": "Roast 3 hours, removing from the oven 2 - 3 times to spoon over pan juices (ie baste)."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove foil. Meat should be tender - check with 2 forks."
+    },
+    {
+      "order": 7,
+      "instruction": "Baste again, then return to oven for 30 minutes to get a nice crust."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove lamb from roasting pan - reserve juices."
+    },
+    {
+      "order": 9,
+      "instruction": "Cool the lamb for 20 minutes or so (so it firms up slightly, easier to handle)."
+    },
+    {
+      "order": 10,
+      "instruction": "If you used shoulder, pull the meat off the bone in 4 or 5 chunks (see video)."
+    },
+    {
+      "order": 11,
+      "instruction": "Preheat BBQ to medium and oil if required."
+    },
+    {
+      "order": 12,
+      "instruction": "Coat lamb in pan juices. Sear on both sides until deep golden and a crust forms. Dab with pan juices on both sides."
+    },
+    {
+      "order": 13,
+      "instruction": "Slice or shred lamb, as desired. Drizzle with plenty of juices."
+    },
+    {
+      "order": 14,
+      "instruction": "Make Lamb Shawarma wraps by serving with shredded lettuce, tomatoes and minted yoghurt (Note 3) or pile over Lemon Herbed Couscous (Note 4) and garnish with pomegranate seeds and parsley or chopped coriander/cilantro (if desired). Both pictured in post."
+    }
+  ]
+}

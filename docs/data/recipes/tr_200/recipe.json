@@ -1,0 +1,171 @@
+{
+  "id": "tr_200",
+  "title": "Chinese Fried Rice with Shrimp / Prawns",
+  "image": "https://www.recipetineats.com/tachyon/2016/05/Chinese-Fried-Rice_4.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-fried-rice-with-shrimp-prawns/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 522,
+    "protein": 19.2,
+    "carbs": 42.5,
+    "fat": 30.1
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "peanut oil ((or vegetable), separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (, lightly beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "bacon (, excess fat trimmed, chopped (or 1/2 cup Chinese Sausage) (Note 1))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "ginger (, minced or very finely chopped)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely chopped (about 3/4 cup) (brown, white or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine or dry sherry ((or sake, Japanese cooking wine) (Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5 oz/150g   small shrimp/prawns (, cooked and peeled (Note 3))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "cooked long grain white rice (, refrigerated overnight (Note 4))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  scallions (, thinly sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Oyster Sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "soy sauce ((all purpose or light) (Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sesame oil ((roasted - i.e. dark colour))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix together Sauce ingredients, set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 1 tbsp oil in a wok (or heavy based skillet/fry pan) over medium heat. Add eggs and cook until scrambled, then remove onto plate."
+    },
+    {
+      "order": 3,
+      "instruction": "Increase heat to high and add bacon. Cook until golden, then remove onto plate with egg - about 2 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Drain off excess bacon fat."
+    },
+    {
+      "order": 5,
+      "instruction": "Add remaining 2 tbsp oil, garlic and ginger. (Note 5) Return wok to stove on high heat. Stir fry as it comes up to heat, don’t let it burn. When garlic starts to sizzle, add onion and stir fry for 2 minutes until golden."
+    },
+    {
+      "order": 6,
+      "instruction": "Add Chinese wine and sugar and let it simmer rapidly, stirring, for 20 seconds, until mostly evaporated."
+    },
+    {
+      "order": 7,
+      "instruction": "Add prawns/shrimp and stir fry for 1 minute to heat through (if pre-cooked, cook longer to cook if raw)."
+    },
+    {
+      "order": 8,
+      "instruction": "Add rice, Sauce, eggs, bacon and all but 2 tbsp of shallots/scallions. Stir fry for 2 minutes until rice is hot - around 2 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Transfer to serving plate, sprinkle with remaining scallions and serve."
+    }
+  ]
+}

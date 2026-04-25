@@ -1,0 +1,134 @@
+{
+  "id": "tr_1265",
+  "title": "Cornbread Muffins",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/Cornbread-Muffins_9.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cornbread-muffins/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "cornbread muffins",
+    "creamed corn"
+  ],
+  "nutrition": {
+    "calories": 231,
+    "protein": 4.0,
+    "carbs": 32.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml / 115 g  butter (, melted unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "/ 185 ml  milk (, any fat %)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "CUP",
+      "name": "canned creamed corn ((NOT 1 CAN!!!))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "yellow cornmeal ((sold in packets labelled &quot;polenta&quot; in Australia) (Note 1))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(225g)   flour ((plain/all purpose))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(110g)  white sugar ((can reduce to 1/4 cup))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra melted butter (for greasing and brushing)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F.&nbsp;Brush a 12 hole standard muffin tin with melted butter."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine Dry ingredients in a bowl and give them a quick stir to combine."
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk Wet ingredients in a bowl until combined."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour Wet into Dry ingredients. Mix until combined."
+    },
+    {
+      "order": 5,
+      "instruction": "Spoon the batter into the greased muffin tray - use it all up, fill the holes right up!"
+    },
+    {
+      "order": 6,
+      "instruction": "Bake in the oven for 20 minutes or until the top is golden brown."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove muffin tray from the oven. Optional: Brush tops with melted butter. Cool for 5 minutes then remove muffins onto a rack."
+    }
+  ]
+}

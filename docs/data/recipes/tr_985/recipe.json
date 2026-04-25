@@ -1,0 +1,227 @@
+{
+  "id": "tr_985",
+  "title": "Pecan Pie",
+  "image": "https://www.recipetineats.com/tachyon/2017/11/Pecan-Pie-4.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pecan-pie/",
+  "servings": 10,
+  "prepTime": 30,
+  "cookTime": 60,
+  "tags": [],
+  "nutrition": {
+    "calories": 455,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1¼",
+      "unit": "cups",
+      "name": "plain white flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "¼",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "115",
+      "unit": "g",
+      "name": "/ 1 stick   unsalted butter (, cold, cut into 1cm/ ⅓\" cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2.5 - 3 tbsp ice cold water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "pecans (, enough to decorate top)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cup",
+      "name": "pecans ((for filling))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 200g  brown sugar, packed",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 4 tbsp   unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "/ 185 ml  light corn syrup ((Note 2 for subs))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "bourbon ((or rum or marsala, or other liquor of choice, or omit))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place flour, salt and sugar in a food processor. Pulse twice."
+    },
+    {
+      "order": 2,
+      "instruction": "Scatter over butter. Pulse 5 times or until the largest pieces are the size of peas."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn food processor on low and add 2.5 tbsp water, keep blitzing for 7 to 10 seconds until it forms crumbly clumps (see video). Pinch with your fingers - it should come together - if not, add 1/2 tbsp water until it does. Don't blitz longer than 20 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn out crumbs onto work surface, use hands to bring together into a ball then pat into a 1.5cm / 1/2\" thick disc. Wrap in cling wrap and refrigerate for 30 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Preheat oven to 180C/350F (standard) / 160C / 320F (fan / convection)."
+    },
+    {
+      "order": 6,
+      "instruction": "Scatter 1 1/4 cups pecans on baking tray and bake for 3 to 5 minutes or until you smell them."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove from oven and roughly chop. Set aside."
+    },
+    {
+      "order": 8,
+      "instruction": "Remaining 1 1/4 cups don't need toasting - they are for the top."
+    },
+    {
+      "order": 9,
+      "instruction": "Dust work surface with flour."
+    },
+    {
+      "order": 10,
+      "instruction": "Place dough on work surface, dust top with flour. Roll out into 25cm/12\" circle, patching up cracks as required. Remember: the crumblier the dough, the more flaky your pastry which is GOOD!"
+    },
+    {
+      "order": 11,
+      "instruction": "Roll the pastry onto your rolling pin, then roll it out onto a 22cm / 9\" pie tin. Press in, then trim edges with scissors with a 1cm / 0.3\" overhang."
+    },
+    {
+      "order": 12,
+      "instruction": "Turn the edges under and press down neatly. Crimp if desired (see video)."
+    },
+    {
+      "order": 13,
+      "instruction": "Place 2 large pieces of baking paper over the pie crust then fill with pie weights or dried beans or rice. Weight is essential to avoid shrinking pastry."
+    },
+    {
+      "order": 14,
+      "instruction": "Bake 20 minutes, then remove pie weights and let the pastry cool for 5 minutes before filling."
+    },
+    {
+      "order": 15,
+      "instruction": "Whisk eggs in a large bowl. Add remaining Filling ingredients and whisk until smooth."
+    },
+    {
+      "order": 16,
+      "instruction": "Stir through chopped pecans."
+    },
+    {
+      "order": 17,
+      "instruction": "Pour into crust - it should fill it about 1 cm / 2/5\" from the top (you may have excess if your pastry shrank)."
+    },
+    {
+      "order": 18,
+      "instruction": "Top with whole pecans in desired pattern."
+    },
+    {
+      "order": 19,
+      "instruction": "Place pie in oven. Bake for 50 minutes, checking at 40 minutes, until it doesn't jiggle much when you shake it but the centre is still soft when you touch it (see video)."
+    },
+    {
+      "order": 20,
+      "instruction": "It will be puffed and cracks will look extreme, but it will deflate as it cools. If your pastry / pecans are browning too quickly, cover with foil."
+    },
+    {
+      "order": 21,
+      "instruction": "Cool completely before serving, to allow the custard to set - 2 - 4 hours."
+    },
+    {
+      "order": 22,
+      "instruction": "Slice, and serve with ice cream or cream if desired - I don't need either!"
+    },
+    {
+      "order": 23,
+      "instruction": "Store in an airtight container - great for 2 days, but I'm perfectly happy with mine even after 4."
+    }
+  ]
+}

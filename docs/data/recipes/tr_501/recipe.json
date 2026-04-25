@@ -1,0 +1,236 @@
+{
+  "id": "tr_501",
+  "title": "One Pot Cajun Beef Pasta with lots-of-veg",
+  "image": "https://www.recipetineats.com/tachyon/2024/09/One-pot-Cajun-Beef-Pasta_0.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pot-cajun-beef-pasta/",
+  "servings": 7,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [
+    "beef pasta",
+    "cajun beef pasta",
+    "cajun pasta",
+    "one pot pasta"
+  ],
+  "nutrition": {
+    "calories": 507,
+    "protein": 34.0,
+    "carbs": 59.0,
+    "fat": 16.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1 lb  beef mince (ground beef) ((Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (, medium, shredded using box grater (I keep skin on) )",
+      "emoji": "🥕",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  zucchini (, medium, shredded using box grater (Note 2))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red capsicum ((bell pepper), chopped (Note 2))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "800g/ 28 oz  canned crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/ 14 oz  kidney beans (, drained (or other beans of choice, can omit))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken stock/broth (, low sodium (sub beef stock))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "water ((just regular tap water!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "/ 12 oz (3 cups)  elbow pasta (macaroni) (, spirals, penne, ziti, small shells, rigatoni or similar size, uncooked (Note 3))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(tightly packed) colby cheese  (or other melting cheese of choice, preferably freshly shredded (melts better))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green onion stem (, finely sliced (optional garnish))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "paprika ((sweet/regular, not smoked or spicy))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cayenne pepper (, optional (faintly spicy))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil in a large heavy based pot with a lid over high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook vegetables - Cook the onion and garlic for 2 minutes. Add the beef and cook, breaking it up as you go, until you no longer see red meat. Add the carrot and zucchini, cook for 2 minutes until the water they release mostly evaporates. Add the capsicum and cook for 2 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Spices - Add the tomato paste and Cajun Spices. Cook for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Pasta sauce - Add the canned tomato, water (I swill the cans clean), stock and beans. Mix and bring to a simmer."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the pasta, stir, let it come back up to the simmer. Put the lid on and lower the heat slightly to medium so the liquid is simmering (not bubbling madly)."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook for 15 minutes, stirring every few minutes so the base doesn&#39;t catch. The pasta should be a bit firmer than you want in the middle, and still a bit soupy which is good! Liquid gets absorbed in the next step."
+    },
+    {
+      "order": 7,
+      "instruction": "Melt cheese - Give it a stir, smooth the surface, sprinkle with cheese. Put the lid on then turn the stove off (leave the pot on the stove). Leave for 3 minutes so the residual heat melts the cheese and the pasta finishes cooking."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve - Remove from the stove, sprinkle with green onion if desired, then serve immediately while saucy and the cheese is gooey!"
+    }
+  ]
+}

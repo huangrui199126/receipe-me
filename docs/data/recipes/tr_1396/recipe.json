@@ -1,0 +1,238 @@
+{
+  "id": "tr_1396",
+  "title": "Tray bake dinner: lamb kofta meatballs",
+  "image": "https://www.recipetineats.com/tachyon/2024/03/Baked-lamb-kofta-meatballs_2.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tray-bake-dinner-lamb-kofta-meatballs/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [
+    "baked meatballs",
+    "kofta meatballs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, grated using a box grater)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  lamb mince ((ground lamb), or beef)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((sub regular breadcrumbs))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "coriander/cilantro (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "paprika ((plain, sub smoked))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "ground cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cayenne pepper ((a bit spicy, reduce to taste or leave out))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 large red capsicum (, deseeded, sliced into 1 cm thick slices)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 large yellow capsicum (, deseeded, sliced into 1 cm thick slices)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion (, cut into thin wedges)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each cooking/kosher salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 quantity Tahini sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 quantity Lemon Yogurt Sauce ((or even just plain yogurt))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil spray ((for the meatballs))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  flatbreads (or rice, couscous or cauliflower rice)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "shredded iceberg lettuce ((or other leafy greens))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  tomatoes (, halved, cut into thin slices)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "coriander/cilantro leaves (, finely chopped, optional (for sprinkling))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/400°F (180°C fan-forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Kofta meatballs - Place the Kofta ingredients and spices in a bowl. Use your hands to combine thoroughly then roll 16 large-ish meatballs (I scoop all mixture onto a tray, then roll into balls). Spread them out on a large tray."
+    },
+    {
+      "order": 3,
+      "instruction": "Vegetables - Toss the vegetables with the oil, salt and pepper. Scatter around the meatballs."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake - Spray the meatballs with oil. Bake for 15 minutes then switch the oven to the grill/broiler on high. Cook for a further 5 minutes to get some colour on the surface."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve - Sprinkle with the chopped coriander then serve! To make wraps, stuff with lettuce, tomato, meatballs, and the cook capsicum and onion. Drizzle with lots of tahini sauce or Lemon Yogurt Sauce then tuck in! Other ideas: rice or couscous bowls or big salads - see below."
+    }
+  ]
+}

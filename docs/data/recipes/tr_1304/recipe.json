@@ -1,0 +1,275 @@
+{
+  "id": "tr_1304",
+  "title": "Satay Chicken Curry (Malaysian)",
+  "image": "https://www.recipetineats.com/tachyon/2016/05/Satay-Chicken-Curry_SQ.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-satay-curry/",
+  "servings": 5,
+  "prepTime": 20,
+  "cookTime": 25,
+  "tags": [
+    "chicken satay curry",
+    "malaysian satay",
+    "satay seasoning"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 40.0,
+    "carbs": 17.0,
+    "fat": 44.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "tumeric",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "paprika ((sweet or normal, not smoked or spicy))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "chilli powder (, adjust to taste (not US &quot;Chili Powder&quot;, Note 1))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "tsp",
+      "name": "curry powder (, not HOT (any, Malaysian, generic, Clives of India, Keens))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "salt (, cooking / kosher (or 1 tsp table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "750",
+      "unit": "g",
+      "name": "/ 1.5 lb  chicken thigh fillets (, cut into bite size pieces (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion ((brown, white or yellow), grated)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 6  birds eye chillies or other small hot red chillies (, finely chopped (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "onion ((brown, white or yellow), finely diced (~ 1/4 onion))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "chicken broth / stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "peanuts, roasted unsalted, (, chopped, separated)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "kecap manis ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "dark soy sauce ((Note 5))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14oz  coconut milk ((preferably full fat but light will be ok))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "peanut butter (, pure best but spread ok too, crunchy or smooth)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice (, to taste)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  makrut lime leaves ((formerly kaffir lime leaves) (Note 6))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemongrass stalk (, white part only, smashed to burst open (Note 7))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Peanuts (, chopped)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cilantro / coriander leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh chilli, finely chopped",
+      "emoji": "🥄",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine Satay Seasoning ingredients in a small bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Marinate - Combine chicken with 3 1/2 TABLESPOONS Satay Seasoning and onion in a bowl. Marinate for at least 3 hours, preferably overnight, minimum 20 minutes (Note 6)"
+    },
+    {
+      "order": 3,
+      "instruction": "Cook - Heat 1 tbsp oil in a non stick skillet over high heat (Note 7). Cook chicken in 2 batches until browned all over but still raw inside. Transfer to bowl, cover and keep warm."
+    },
+    {
+      "order": 4,
+      "instruction": "Saute aromatics - Using the same skillet, turn heat down to medium and heat 1 tbsp oil. Add chill, onion and garlic cloves. Sauté until onion is translucent - around 2 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Satay Seasoning - Add remaining Satay Seasoning and cook for 1 minute."
+    },
+    {
+      "order": 6,
+      "instruction": "Blitz - Transfer to a blender or small food processor (I use a Nutribullet). Add chicken stock and 1/2 cup of the peanuts (rest gets added later). Puree until pretty smooth - some peanut chunks can remain. Pour mixture back into the skillet."
+    },
+    {
+      "order": 7,
+      "instruction": "Add remaining ingredients into sauce - Add remaining 1/4 cup peanuts, kecap manis, dark soy sauce, coconut milk and peanut butter. Stir to combine."
+    },
+    {
+      "order": 8,
+      "instruction": "Add lime leaf or lemongrass - Crush makrut lime leaf in hand a bit (to break leaf to release the flavour). Add lime leaf OR lemongrass and chicken to sauce."
+    },
+    {
+      "order": 9,
+      "instruction": "Simmer - Bring to simmer, turn heat down to medium low and simmer for 15 minutes until thickened."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve - Add lime juice to taste. Serve with rice (jasmine, white rice or brown rice). Garnish with peanuts, cilantro/coriander leaves and more chilli if desired. See Note 9 for suggested sides."
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "tr_681",
+  "title": "Build Your Own Homemade Granola (Muesli)",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/Homemade-Granola-Clumpy-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/homemade-granola-muesli/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 365,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "/ 360 g  rolled oats (not steel cut or quick cooking)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "coconut flakes ((or more nuts or oats))",
+      "emoji": "🥥",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "raw nuts ((eg. sliced almonds, chopped pecans, sunflower seeds, pumpkin seeds))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "dried fruit ((eg. chopped apricots, apple, pineapple, raisins))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "your favourite spice ((eg. cinnamon, pumpkin spice, gingerbread mix))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "sweetener (eg. honey, maple syrup, agave, see note 2 for Brown Sugar)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "fat ((eg. melted butter, canola oil or coconut oil))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "flavouring ((eg. vanilla, almond essence, orange blossom))",
+      "emoji": "🍊",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  egg whites",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 150C/300F."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine Dry ingredients, excluding dried fruit."
+    },
+    {
+      "order": 3,
+      "instruction": "Combine Wet ingredients."
+    },
+    {
+      "order": 4,
+      "instruction": "Combine Wet and Dry ingredients. Do a taste test. Adjust to taste - more sweet, more fat etc."
+    },
+    {
+      "order": 5,
+      "instruction": "Spread on baking tray and bake until golden, approximately 35 - 40 minutes, tossing twice."
+    },
+    {
+      "order": 6,
+      "instruction": "Stir through dried fruit. Cool. Store in an airtight container."
+    },
+    {
+      "order": 7,
+      "instruction": "Preheat oven to 140C/280F. Line a large baking tray with baking paper."
+    },
+    {
+      "order": 8,
+      "instruction": "Combine Wet excluding egg whites."
+    },
+    {
+      "order": 9,
+      "instruction": "Combine Dry including dried fruit."
+    },
+    {
+      "order": 10,
+      "instruction": "Whisk egg whites with fork until foamy."
+    },
+    {
+      "order": 11,
+      "instruction": "Mix Wet and Dry in a large bowl, then mix through egg whites."
+    },
+    {
+      "order": 12,
+      "instruction": "Spread granola on the tray, making a hole in the centre, like a doughnut (see photo in post)."
+    },
+    {
+      "order": 13,
+      "instruction": "Bake for 45 minutes - DO NOT STIR - until golden. Check at 35 minutes.&nbsp;"
+    },
+    {
+      "order": 14,
+      "instruction": "Then turn the oven off, leave the granola in the oven, and open the oven door open a bit. Leave the granola to cool. The colour will deepen and it will firm up."
+    },
+    {
+      "order": 15,
+      "instruction": "Once cool, break into clusters. Store in an airtight container."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "tr_1138",
+  "title": "How to cook crispy skin duck breast",
+  "image": "https://www.recipetineats.com/tachyon/2025/01/Crispy-skin-duck-breast_4.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/how-to-cook-duck-breast/",
+  "servings": 1,
+  "prepTime": 2,
+  "cookTime": 20,
+  "tags": [
+    "duck breast recipe",
+    "how to cook duck breast",
+    "how to make duck breast skin crispy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  duck breast (, boneless, skin on (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "white pepper ((sub finely ground black pepper))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 180°C/350°F (160°C fan-forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Score - Sprinkle half the salt and pepper on the flesh of the duck. Turn. Use a sharp knife to make 5 or 6 diagonal scores on the skin of the breast. Don&#39;t pierce the flesh and don&#39;t cut all the way to the edge of the skin (Note 2). Pat the skin dry with paper towels, sprinkle with remaining salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Cold pan, no oil - Don&#39;t turn the stove on yet. Use an oven-proof pan (any type). Place the duck skin side down in the cold pan, no oil required. Place another pan on top to lightly weigh the duck down (keeps skin flat). (Note 3)"
+    },
+    {
+      "order": 4,
+      "instruction": "Cook 10 minutes - Turn the stove onto medium low. Cook for 10 minutes or until the skin is golden and crispy. Fat will melt out of the duck skin and it will cook in its own fat. (Note 4)"
+    },
+    {
+      "order": 5,
+      "instruction": "Oven 8 minutes - Once the skin is crispy, turn and cook the flesh side for 1 minute. Then transfer the pan to the oven for 6 minutes for medium rare (internal temperature 54°C/130°F, restaurant default) or 8 minutes for medium (60°C/140°F, my preferred)."
+    },
+    {
+      "order": 6,
+      "instruction": "Rest - Transfer to a rack or plate and rest for 5 minutes before serving. Serve whole or slice!"
+    }
+  ]
+}

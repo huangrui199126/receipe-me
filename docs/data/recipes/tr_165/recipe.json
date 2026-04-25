@@ -1,0 +1,119 @@
+{
+  "id": "tr_165",
+  "title": "Pea, Cabbage, Parmesan and Mint Salad",
+  "image": "https://www.recipetineats.com/tachyon/2014/08/Pea-Cabbage-Parmesan-and-Mint-Salad-1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pea-cabbage-parmesan-mint-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 167,
+    "protein": 5.7,
+    "carbs": 10.2,
+    "fat": 12.6
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "frozen peas (, blanched)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "green or white cabbage (, finely sliced)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "mint leaves ((loosely packed))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parsley leaves ((loosely packed))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  radishes (, finely sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Reserve 1 tbsp of the parmesan cheese as garnish."
+    },
+    {
+      "order": 2,
+      "instruction": "Place all ingredients in a bowl and toss gently to combine."
+    },
+    {
+      "order": 3,
+      "instruction": "Allow to sit for 5 minutes to allow the cabbage to wilt slightly."
+    },
+    {
+      "order": 4,
+      "instruction": "Adjust seasoning with extra salt and pepper (if required), garnish with reserved 1 tbsp parmesan cheese and serve."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "tr_1250",
+  "title": "Turkish Lamb Kofta Kebabs",
+  "image": "https://www.recipetineats.com/tachyon/2016/02/Turkish-Kebabs-1_3.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/turkish-lamb-kebab-koftas/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 330,
+    "protein": 37.7,
+    "carbs": 7.9,
+    "fat": 16.1
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   lamb mince ((ground lamb) (or substitute with beef))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, grated or minced using a food processor - about 1/4 cup (white, brown or yellow) (Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "pistachio nuts (, ground (Optional. I use my food processor) (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((halve for table salt, +50% for salt flakes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "plain yoghurt ((I use Greek))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pita bread or lebanese flat bread (, warmed)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lettuce leaves of choice",
+      "emoji": "🥬",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced red onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix together Yoghurt Sauce ingredients and place in the refrigerator to allow the flavours to develop."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the Kebab ingredients except the oil in a bowl and use your hands to just combine (don't over mix)."
+    },
+    {
+      "order": 3,
+      "instruction": "Divide into 8 portions and mould onto skewers."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil in a large skillet over medium high heat. Add skewers (I could fit all in, placing them in alternating directions) and cook for 8 minutes, turning to brown all sides."
+    },
+    {
+      "order": 5,
+      "instruction": "Meanwhile, slice tomatoes and red onion."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve kebabs with pita bread, lettuce, tomatoes, red onion and yoghurt sauce on the side. Wedges of lemon are also a great accompaniment."
+    }
+  ]
+}

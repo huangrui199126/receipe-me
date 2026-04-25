@@ -1,0 +1,111 @@
+{
+  "id": "tr_193",
+  "title": "Spanish Tortilla (Omelette)",
+  "image": "https://www.recipetineats.com/tachyon/2016/08/Spanish-Omelette-Tortilla_1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spanish-tortilla-omelette/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 45,
+  "tags": [],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9.7,
+    "carbs": 21.8,
+    "fat": 14.4
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "750",
+      "unit": "g",
+      "name": "/ 1.5 lb   potatoes ((Note 1), peeled and cut into 0.5cm / 1/5\" thick slices)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml  olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a non stick fry pan over medium heat. Add onion and potatoes, then turn over.,Place a lid on and stew the potatoes gently for 20 minutes or so, turning the potatoes 3 or 4 times with an egg flip until soft and cooked through. If the potatoes sizzle and are browning, turn the heat down."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, whisk eggs then season with salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "When potatoes are ready, remove with a slotted spoon into a colander to allow excess oil to drain away."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour out most of the remaining oil in the skillet, leaving behind about 1 1/2 - 2 tbsp of oil."
+    },
+    {
+      "order": 5,
+      "instruction": "Turn stove up to medium high. Turn grill/broiler onto high."
+    },
+    {
+      "order": 6,
+      "instruction": "Return potatoes to the skillet, then pour over the egg. Cook for 5 minutes or until the underside is light golden."
+    },
+    {
+      "order": 7,
+      "instruction": "If the centre is still uncooked, which mine almost always is, pop the omelette under the grill/broiler for a couple of minutes until the centre is just set."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove then rest for a few minutes. Place a serving platter on top of the fry pan then flip to turn out the omelette upside down."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve warm or at room temperature (I prefer warm!)."
+    },
+    {
+      "order": 10,
+      "instruction": "I served this as part of a Tapas Spread!"
+    }
+  ]
+}

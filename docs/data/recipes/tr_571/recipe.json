@@ -1,0 +1,298 @@
+{
+  "id": "tr_571",
+  "title": "Gozleme!!",
+  "image": "https://www.recipetineats.com/tachyon/2019/03/Gozleme_5.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/gozleme/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 20,
+  "tags": [
+    "gozleme",
+    "spinach and feta gozleme"
+  ],
+  "nutrition": {
+    "calories": 845,
+    "protein": 36.0,
+    "carbs": 67.0,
+    "fat": 47.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "2.5",
+      "unit": "cups",
+      "name": "(375g)   flour (, plain/all purpose (GF Note 4))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "(85ml)   extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(185ml)   water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10oz   baby spinach",
+      "emoji": "🥬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10 oz   Danish feta ((soft feta, Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(200g)   shredded mozzarella cheese ((Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   beef or lamb mince ((ground))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  capsicum / bell pepper (, chopped)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "90",
+      "unit": "g",
+      "name": "/ 3 oz   baby spinach",
+      "emoji": "🥬",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cayenne ((adjust spiciness to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 4 oz   Danish feta ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 1.5 tbsp olive oil  (, per gozleme)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon wedges ((optional))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Fit stand mixer with dough hook. Combine flour, oil, salt and water in the stand mixer bowl. Mix for 2.5 minutes on medium high speed 7 until smooth (see video for before &amp; after). (Note 4) Dough should be a pliable, smooth ball, not sticky."
+    },
+    {
+      "order": 2,
+      "instruction": "Cover and rest for 20 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Sprinkle work surface with flour. Cut dough into 4 pieces."
+    },
+    {
+      "order": 4,
+      "instruction": "Roll out into 35cm/14\" x 20cm/8\" rectangle."
+    },
+    {
+      "order": 5,
+      "instruction": "Make EITHER the lamb / beef Filling, or Spinach &amp; Feta (or make 1/2 batch of both!)."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat oil in large skillet over high heat."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook garlic and onion for 1 minute. Add capsicum, cook for 2 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Add beef and cook until it changes from pink to brown, breaking it up as you go."
+    },
+    {
+      "order": 9,
+      "instruction": "Add cumin, paprika, cayenne (if using), salt, pepper and water. Cook for 2 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Add spinach, stir until wilted."
+    },
+    {
+      "order": 11,
+      "instruction": "Cool before using."
+    },
+    {
+      "order": 12,
+      "instruction": "Place spinach, garlic, egg and pepper in a bowl. Scrunch with hands to reduce volume and make spinach \"floppy\"."
+    },
+    {
+      "order": 13,
+      "instruction": "Add feta and stir through."
+    },
+    {
+      "order": 14,
+      "instruction": "Spread Filling on half the pastry, pushing to the edge. Sprinkle Lamb/Beef Filling with crumbled feta. Sprinkle Spinach Feta with mozzarella cheese, if using."
+    },
+    {
+      "order": 15,
+      "instruction": "Fold other side of pastry over to cover Filling. Press down edges, pressing out excess air pockets trapped inside as you go. Use water if needed to seal well."
+    },
+    {
+      "order": 16,
+      "instruction": "Sprinkle flour on a round pizza paddle (or similar). Slide gozleme onto paddle."
+    },
+    {
+      "order": 17,
+      "instruction": "Heat 1.5 tbsp oil in a large skillet over medium high heat. (I usually get 2 pans going)"
+    },
+    {
+      "order": 18,
+      "instruction": "Slide gozleme into skillet. Cook, lightly pressing down (including edges), until deep golden and crispy - about 3 minutes. Flip and cook, pressing down lightly, until crispy."
+    },
+    {
+      "order": 19,
+      "instruction": "Transfer to cutting board. Cut into 6 or 8 pieces."
+    },
+    {
+      "order": 20,
+      "instruction": "Serve immediately with lemon wedges, if desired."
+    }
+  ]
+}

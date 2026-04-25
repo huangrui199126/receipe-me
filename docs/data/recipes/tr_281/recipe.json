@@ -1,0 +1,179 @@
+{
+  "id": "tr_281",
+  "title": "Oven Baked Chicken and Rice",
+  "image": "https://www.recipetineats.com/tachyon/2018/06/Oven-Baked-Chicken-and-Rice_7-SQ.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/oven-baked-chicken-and-rice/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 70,
+  "tags": [
+    "baked chicken thighs with rice",
+    "chicken and rice",
+    "chicken and rice recipe"
+  ],
+  "nutrition": {
+    "calories": 574,
+    "protein": 28.0,
+    "carbs": 47.0,
+    "fat": 29.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  bone in chicken thigh fillets, peel skin OFF  (, (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, chopped (brown, white or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (large) (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30g)  butter ((or olive oil))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(270g)  uncooked white rice ((Note 3))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(375 ml)  chicken broth/stock (, hot (I microwave))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "(315 ml)  water (, hot (tap is fine))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "paprika powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh thyme leaves or finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F."
+    },
+    {
+      "order": 2,
+      "instruction": "Scatter onion and garlic in a baking dish (about 10 x 15\" / 25 x 35 cm), then place butter in the centre. Bake for 15 minutes (check at 12 minutes, mix if some bits are browning too much)."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, mix together Chicken Rub. Sprinkle on both sides of the chicken."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove baking dish from the oven. Add rice then mix."
+    },
+    {
+      "order": 5,
+      "instruction": "Place chicken on rice. Then pour chicken broth and water around the chicken."
+    },
+    {
+      "order": 6,
+      "instruction": "Cover with foil, then bake for 30 minutes. Remove foil, spray chicken with oil (optional, gives chicken nicer finish), then bake for a further 20 minutes until liquid is absorbed."
+    },
+    {
+      "order": 7,
+      "instruction": "Stand for 5 minutes, then remove chicken and fluff up rice. Garnish with parsley or thyme if desired, serve and enjoy!"
+    },
+    {
+      "order": 8,
+      "instruction": "Dish is flavoured enough to serve without sauce, but if you want to take it over the top, make this quick Gravy in 4 minutes flat (pictured in video)."
+    }
+  ]
+}

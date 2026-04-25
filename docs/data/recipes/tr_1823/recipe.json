@@ -1,0 +1,103 @@
+{
+  "id": "tr_1823",
+  "title": "Salted Coffee Butter Roasted Chestnuts.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/12/Salted-Coffee-Butter-Roasted-Chestnuts.-1.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/salted-coffee-butter-roasted-chestnuts/",
+  "servings": 8,
+  "prepTime": 25,
+  "cookTime": 25,
+  "tags": [
+    "chestnuts",
+    "coffee",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 237,
+    "protein": 1.0,
+    "carbs": 26.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "raw chestnuts",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "7",
+      "unit": "tablespoons",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "pure maple syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "teaspoons",
+      "name": "instant expresso",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "flaky sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 400°. Bring a medium sized pot of water to a boil and turn off heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Soak the chestnuts in the hot water for 1 minute then drain chestnuts and pat dry. (This softens the shells and makes them easier to score.)"
+    },
+    {
+      "order": 3,
+      "instruction": "Using a sharp paring knife, carefully score each chestnut - cut an X on the rounded side (I have also read flat, but I do rounded) of each chestnut while holding them down firmly on a kitchen towel."
+    },
+    {
+      "order": 4,
+      "instruction": "Arrange the scored chestnuts in a single layer, X side up on a sheet pan or cast iron pan."
+    },
+    {
+      "order": 5,
+      "instruction": "Roast until the peel begins to curl up, about 20-25 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "A few minutes before the chestnuts are done, make the salted coffee butter. Heat the butter and maple syrup in a small saucepot until bubbly. Remove from the heat and add the instant coffee and vanilla, stirring until the coffee is dissolved."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove chestnuts from the oven and place them X side up in a serving dish or platter. Pour the coffee butter over the nuts making sure to get the sauce into the cracks of the chestnuts. Place a clean towel or napkin over the chestnuts and left sit for 2 to 3 minutes until the chestnuts are cool enough to handle. Season generously with flaky salt and serve!"
+    }
+  ]
+}

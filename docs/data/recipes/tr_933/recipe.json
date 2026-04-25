@@ -1,0 +1,163 @@
+{
+  "id": "tr_933",
+  "title": "Homemade Baked Beans with Bacon (Southern)",
+  "image": "https://www.recipetineats.com/tachyon/2017/02/Southern-Baked-Beans-with-Bacon_7-SQ.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/homemade-baked-beans-bacon-southern-style/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 75,
+  "tags": [
+    "baked beans from scratch",
+    "baked beans recipe",
+    "southern baked beans"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 8.0,
+    "carbs": 24.0,
+    "fat": 5.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "150g/ 5 oz  bacon (, chopped)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic (, minced (or 1 1/2 tsp garlic paste))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  x 400g / 14oz cans red kidney or other beans, drained and rinsed ((Note 1))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "ketchup ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "tomato passata / US tomato puree ((Note 3))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "molasses ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "mustard powder ((or 1 tbsp Dijon or American mustard))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "EACH salt &amp; pepper (, plus more to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil over high heat (can skip oil if bacon is super fatty). Add bacon and cook for 2 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Add onion and garlic. Cook for 3 minutes until onion and bacon are golden."
+    },
+    {
+      "order": 3,
+      "instruction": "Add remaining ingredients. Stir, bring to simmer, then place lid on."
+    },
+    {
+      "order": 4,
+      "instruction": "Then either turn down heat to medium low (simmering gently) and cook on the stove for 1 hour, stirring every now and then so the bottom doesn&#039;t catch. OR bake at 160°C/325°F for 60 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "SLOW COOKER option: Reduce water to 1/4 cup, transfer to slow cooker and cook for 6 hours on low."
+    },
+    {
+      "order": 6,
+      "instruction": "The sauce should be thickened (cook with lid off for a bit if not thick enough) and glossy. Adjust salt and pepper to taste at the end. See notes for serving suggestions!"
+    }
+  ]
+}

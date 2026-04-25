@@ -1,0 +1,147 @@
+{
+  "id": "tr_593",
+  "title": "Seasoned Baked Potato Wedges",
+  "image": "https://www.recipetineats.com/tachyon/2015/05/Seasoned-Baked-Potato-Wedges_7.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/seasoned-oven-baked-potato-wedges/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 40,
+  "tags": [
+    "baked potato wedges",
+    "potato wedges",
+    "seasoning for potato wedges"
+  ],
+  "nutrition": {
+    "calories": 253,
+    "protein": 4.1,
+    "carbs": 37.0,
+    "fat": 10.8
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "lb",
+      "name": "/ 1 kg   potatoes (, peeled (4 large ones) (Note 1))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder ((or sub with more garlic powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream and",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sweet chili sauce",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Other options: Ketchup, tomato sauce, aioli, mayo, yogurt, BBQ sauce, relish",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Avocado Dipping Sauce",
+      "emoji": "🥑",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/430°F (200°C/390°F fan/convection)"
+    },
+    {
+      "order": 2,
+      "instruction": "Mix the Seasoning ingredients."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut the potatoes in half lengthwise, then cut each half into 4 &quot;wedges&quot; (so you get 8 pieces from each potato). If your potato is small/medium, just cut into 6 wedges."
+    },
+    {
+      "order": 4,
+      "instruction": "Place potatoes in a large bowl, drizzle over oil and seasoning. Toss with hands."
+    },
+    {
+      "order": 5,
+      "instruction": "Spread out on tray, ensuring cut side lies flat on the tray."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake for 35 to 45 minutes, turning once, or until dark golden brown and crispy."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve immediately!"
+    },
+    {
+      "order": 8,
+      "instruction": "Dipping sauces: Classic Aussie way is with sour cream and sweet chilli sauce. Otherwise, try tomato sauce/ketchup, BBQ sauce, yogurt, ranch, aoli."
+    }
+  ]
+}

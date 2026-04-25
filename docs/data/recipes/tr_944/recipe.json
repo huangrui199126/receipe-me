@@ -1,0 +1,129 @@
+{
+  "id": "tr_944",
+  "title": "Restaurant Style Salsa",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/Salsa_2.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/salsa-super-easy-restaurant-style/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "salsa recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "chopped onion ((white, brown or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "jalapeño pepper (, seeds removed, roughly chopped (fresh best, canned ok))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz  canned crushed tomato (, best quality)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "oz",
+      "name": "/ 120g  canned diced green chiles ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(packed) cilantro/coriander (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 tbsp+ lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place onion and jalapeno in the food processor first, then add remaining ingredients (start with 1/2 tbsp lime juice)."
+    },
+    {
+      "order": 2,
+      "instruction": "Blitz to desired consistency - I like mine pretty smooth because you get better flavour out of the onion etc."
+    },
+    {
+      "order": 3,
+      "instruction": "Taste test with corn chip for salt and lime. Adjust if necessary."
+    },
+    {
+      "order": 4,
+      "instruction": "Refrigerate 1 hour before serving with corn chips, or other dippers (see in post for suggestions)."
+    }
+  ]
+}

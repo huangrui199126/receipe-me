@@ -1,0 +1,123 @@
+{
+  "id": "tr_1001",
+  "title": "Japanese Miso Salmon Side (BBQ or bake)",
+  "image": "https://www.recipetineats.com/tachyon/2015/12/Miso-Marinated-Salmon-Side_2a.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/miso-marinated-side-of-salmon/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.6 - 2.4 lb / 0.8 - 1.2kg   side of salmon (, skin on (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil (, for barbecue)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "miso paste ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 2/3",
+      "unit": "tbsp",
+      "name": "sake ((Japanese rice wine))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 2/3",
+      "unit": "tbsp",
+      "name": "mirin ((Japanese sweet rice wine))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Scallions/shallots (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix together the marinade ingredients in a small bowl until smooth."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the salmon skin side up on a work surface and slather with just under half the marinade."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn the salmon so it is skin side down onto a large piece of cling wrap. Slather the remaining marinade on the flesh side."
+    },
+    {
+      "order": 4,
+      "instruction": "Wrap the salmon in cling wrap. Marinade for 24 to 48 hours."
+    },
+    {
+      "order": 5,
+      "instruction": "Scrape the marinade off (do not rinse with water) and leave the salmon to come to room temperature &lt;- KEY for perfectly cooked salmon."
+    },
+    {
+      "order": 6,
+      "instruction": "Preheat barbecue plate side on MEDIUM LOW. Leave it to heat up for a good 10 to 15 minutes - another tip for cooking salmon perfectly."
+    },
+    {
+      "order": 7,
+      "instruction": "Add oil just before cooking. Place the salmon on the BBQ skin side down. Cook for 3 minutes, then use two spatulas to turn it. Cook the flesh side for 2 - 3 minutes or until caramelised, then flip it again so the skin side is down then transfer to a tray."
+    },
+    {
+      "order": 8,
+      "instruction": "Cover loosely with foil to rest for 5 minutes before serving. It will continue cooking while resting."
+    },
+    {
+      "order": 9,
+      "instruction": "Garnish with sesame seeds and finely sliced shallots."
+    }
+  ]
+}

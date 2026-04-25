@@ -1,0 +1,146 @@
+{
+  "id": "tr_254",
+  "title": "Carnitas (Mexican Slow Cooker Pulled Pork)",
+  "image": "https://www.recipetineats.com/tachyon/2018/05/Pork-Carnitas-1000px.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pork-carnitas-mexican-slow-cooker-pulled-pork/",
+  "servings": 10,
+  "prepTime": 15,
+  "cookTime": 360,
+  "tags": [
+    "carnitas",
+    "pork carnitas recipe"
+  ],
+  "nutrition": {
+    "calories": 578,
+    "protein": 45.0,
+    "carbs": 1.7,
+    "fat": 42.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "kg",
+      "name": "/ 4 lb  pork shoulder (pork butt) (, skinless, boneless (5lb/2.5kg bone in) (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  jalapeno (, deseeded, chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "juice from orange (2 oranges)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse and dry the pork shoulder, rub all over with salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the Rub ingredients then rub all over the pork."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the pork in a slow cooker (fat cap up), top with the onion, jalapeño, minced garlic (don't worry about spreading it) and squeeze over the juice of the oranges."
+    },
+    {
+      "order": 4,
+      "instruction": "Slow Cook on low for 10 hours or on high for 7 hours. (Note 2 for other cook methods)"
+    },
+    {
+      "order": 5,
+      "instruction": "Pork should be tender enough to shred. Remove from slow cooker and let cool slightly. Then shred using two forks."
+    },
+    {
+      "order": 6,
+      "instruction": "Optional: Skim off the fat from the juices remaining in the slow cooker and discard.&nbsp;"
+    },
+    {
+      "order": 7,
+      "instruction": "If you have a lot more than 2 cups of juice, then reduce it down to about 2 cups. The liquid will be salty, it is the seasoning for the pork. Set liquid aside - don't bother straining onion etc, it's super soft."
+    },
+    {
+      "order": 8,
+      "instruction": "Heat 1 tbsp of oil in a large non stick pan or well seasoned skillet over high heat. Spread pork in the pan, drizzle over some juices. Wait until the juices evaporate and the bottom side is golden brown and crusty. Turn and just briefly sear the other side - you don't want to make it brown all over because then it's too crispy, need tender juicy bits."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove pork from skillet. Repeat in batches (takes me 4 batches) - don't crowd the pan."
+    },
+    {
+      "order": 10,
+      "instruction": "Just before serving, drizzle over more juices and serve hot, stuffed in tacos (see notes for sides, other serving suggestion and storage/make ahead)."
+    }
+  ]
+}

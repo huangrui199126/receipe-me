@@ -1,0 +1,167 @@
+{
+  "id": "tr_222",
+  "title": "One Pot Orzo / Risoni Bolognaise",
+  "image": "https://www.recipetineats.com/tachyon/2015/06/One-Pot-Bolognaise-Orzo-Risoni_680px_2.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pot-orzo-risoni-bolognaise/",
+  "servings": 4,
+  "prepTime": 3,
+  "cookTime": 18,
+  "tags": [],
+  "nutrition": {
+    "calories": 484,
+    "protein": 35.8,
+    "carbs": 49.5,
+    "fat": 15.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "of garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, peeled and diced (brown, white or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   ground beef ((mince))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "24",
+      "unit": "oz",
+      "name": "/ 700g   tomato passata ((Note 3))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dried Italian Herbs (, or any combination of dried parsley, oregano, basil)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  beef bouillon cubes ((Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 to 1 tsp salt ((to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "dried orzo / risoni",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Freshly grated parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil in a large skillet/fry pan (or pot) over medium high heat. Add the onion and garlic and cook for 3 minutes or until translucent."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the mince and turn the heat up to high. Cook the mince, breaking it up as you go."
+    },
+    {
+      "order": 3,
+      "instruction": "When the mince is browned, add the remaining ingredients except the orzo. When the liquid comes to a simmer (it might bubble and spit slightly) add the orzo/risoni."
+    },
+    {
+      "order": 4,
+      "instruction": "Give it a quick stir then turn the heat down to medium low."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook for 10 minutes, stirring frequently towards the end to ensure the orzo/risoni doesn't stick to the bottom of the pan. If your liquid is evaporating too quickly, just add a slosh of hot water (tap or boiling)."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove the risoni from the heat. The risoni should be a teeny bit hard still and it should be very saucy when you take it off the stove. (Note 2)"
+    },
+    {
+      "order": 7,
+      "instruction": "Check for seasoning (salt), then give it a good stir."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve immediately, while it's piping hot and nice and saucy, garnished with freshly grated parmesan and parsley, if desired."
+    }
+  ]
+}

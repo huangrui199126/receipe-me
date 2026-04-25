@@ -1,0 +1,139 @@
+{
+  "id": "tr_115",
+  "title": "Fast French Toast with Cinnamon Apples",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/DSC_00481-1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fast-french-toast-cinnamon-apples/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 421,
+    "protein": 8.1,
+    "carbs": 48.8,
+    "fat": 22.9
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  small red apples (, or 1 large red apple)",
+      "emoji": "🍎",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "white bread (, preferably slightly stale)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Put the sugar, butter and cinnamon in a small saucepan over medium high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, cut the apple into 1/4\" / 7mm thick wedges, leaving the skin on."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the apple and water to the saucepan - it doesn't matter if the butter/sugar hasn't completely melted yet."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir gently every now and let it simmer away until the apples have slightly softened and the syrup turns into a maple syrup consistency. Remove from heat and set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "While the sauce is simmering away, whisk together the egg, milk, butter and salt into a bowl."
+    },
+    {
+      "order": 6,
+      "instruction": "Melt half the butter in a large pan over medium high heat (or all if you are cooking them in a large pan that will fit al 4 pieces of bread)."
+    },
+    {
+      "order": 7,
+      "instruction": "Submerge each bread into the mixture, then remove, allowing the excess egg to drip off. Don't soak the bread in the egg mixture, you don't want it to be completely soaked through, just coated."
+    },
+    {
+      "order": 8,
+      "instruction": "Place in pan and cook until golden brown on each side - about 1 1/2 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "To serve, place french toast on a plate and top with the apple mixture, spooning over the syrup."
+    }
+  ]
+}

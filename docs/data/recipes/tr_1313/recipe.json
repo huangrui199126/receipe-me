@@ -1,0 +1,141 @@
+{
+  "id": "tr_1313",
+  "title": "15 Minute Sausage Meatballs",
+  "image": "https://www.recipetineats.com/tachyon/2025/10/Sausage-meatballs-15-minutes_0.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/15-minute-sausage-meatballs/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "15 minute meal",
+    "easy meatballs",
+    "quick dinner",
+    "sausage meatballs",
+    "sausage recipe"
+  ],
+  "nutrition": {
+    "calories": 371,
+    "protein": 28.0,
+    "carbs": 15.0,
+    "fat": 23.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 1.4 lb  good sausages",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "chicken stock/broth (, low sodium - sub water (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 24 oz  tomato passata ((US: tomato sauce like Hunt&#39;s) (Note 3))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried Italian herb mix ((sub dried oregano, or 50/50 oregano/thyme))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((+50% for flakes, halve for table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "red pepper flakes (, optional (hint of warmth - sub pinch of pepper))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "sprig",
+      "name": "basil ( - stalk for sauce, leaves for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan (, finely grated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "/ 12oz  pasta of choice (, or polenta, mash or make subs!)",
+      "emoji": "🍝",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Brown meatballs (3-4 min), add garlic for last 15 seconds. Reduce stock by half (1 min), add everything else, simmer 4 minutes. Serve!"
+    },
+    {
+      "order": 2,
+      "instruction": "Brown meatballs - Heat the oil in a large non-stick pan over high heat. Add the meatballs and stir for 4 - 5 minutes until lightly browned but still raw inside. (Note 4)"
+    },
+    {
+      "order": 3,
+      "instruction": "Add garlic and stir for just 15 seconds until light golden (careful, don&#39;t let it burn!)"
+    },
+    {
+      "order": 4,
+      "instruction": "Simmer - Add the stock and simmer rapidly for 1 minute to reduce by half. Add everything else, stir, bring to a simmer, then lower heat to medium high and let it simmer energetically (but not crazy rapidly) for 4 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve with lots of parmesan and hand-torn basil leaves over pasta, polenta, mash or other starchy vehicle of choice, or stuff into subs!"
+    },
+    {
+      "order": 6,
+      "instruction": "Add cooked pasta with 1/2 cup of the pasta cooking water into the pan with meatballs. Toss over medium heat for 1 - 2 minutes until the sauce is stuck to the pasta and it's stained red, rather than pooled in the base of the pan. Divide between bowls and enjoy!"
+    }
+  ]
+}

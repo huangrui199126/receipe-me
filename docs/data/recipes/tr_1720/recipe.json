@@ -1,0 +1,176 @@
+{
+  "id": "tr_1720",
+  "title": "Grilled Potato Salad with Almond-Basil Chimichurri and 7-Minute Eggs.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/07/Grilled-Potato-Salad-with-Almond-Basil-Chimichurri-and-7-Minute-Eggs-11.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/grilled-potato-salad-with-almond-basil-chimichurri-and-7-minute-eggs/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 25,
+  "tags": [
+    "almond",
+    "basil",
+    "chimichuri",
+    "potato salad"
+  ],
+  "nutrition": {
+    "calories": 348,
+    "protein": 9.0,
+    "carbs": 29.0,
+    "fat": 19.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2 1/2",
+      "unit": "pounds",
+      "name": "mixed baby new potatoes and or fingerling potatoes (halved)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "asparagus",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  green onions",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "olive oil (plus more for drizzling)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "creamy almond butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh basil (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "chives (copped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of crushed red pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "toasted almonds (chopped)",
+      "emoji": "🥜",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the grill to medium high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the potatoes in a large saucepan and fill with cold water, covering the potatoes by at least 2 inches. Bring the water to a boil over high heat, continue boiling about 8 minutes or until the potatoes are tender. Drain the potatoes and and toss with a drizzle of olive oil (1-2 tablespoons), plus salt + pepper to taste."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, cook the eggs in a large saucepan of boiling water until whites are set and yolks are still slightly soft, 7 minutes. Drain the eggs and then run under cold water to cool. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "In a medium bowl, whisk together the 1/3 cup olive oil, almond butter, apple cider vinegar, honey garlic, basil, cilantro and some salt + pepper. Add a pinch of crushed red pepper flakes. Taste and adjust the salt + pepper to your liking."
+    },
+    {
+      "order": 5,
+      "instruction": "Using tongs, place the potato pieces on the hot grill, and cook on all sides, long enough to make grill marks, 1 to 2 minutes per side. Handle gently so they don't fall apart. During the same time, toss the asparagus + green onions with a little olive oil, salt + pepper and grill until light grill marks appear. Cut into 3 inch pieces. Add the hot potatoes, asparagus and green onions to the chimichurri as they come off the grill. Once all the potatoes have been grilled, toss well with the chimichurri."
+    },
+    {
+      "order": 6,
+      "instruction": "Peel the eggs and slice in half."
+    },
+    {
+      "order": 7,
+      "instruction": "Add the salad into a serving bowl or plate. Top with chopped almonds and the 7-minute eggs. Garnish with chopped chives. Enjoy!"
+    }
+  ]
+}

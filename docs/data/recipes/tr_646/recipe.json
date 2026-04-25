@@ -1,0 +1,143 @@
+{
+  "id": "tr_646",
+  "title": "\"Poor Man's Lobster\" – Monkfish with Herb Browned Butter",
+  "image": "https://www.recipetineats.com/tachyon/2021/06/Monkfish_1-SQ.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/monkfish-recipe/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 8,
+  "tags": [
+    "monkfish",
+    "monkfish recipe",
+    "poor man's lobster"
+  ],
+  "nutrition": {
+    "calories": 308,
+    "protein": 21.0,
+    "carbs": 1.0,
+    "fat": 24.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10oz  monkfish fillets (, skinless and boneless (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "black pepper (, finely ground)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 tbsp/ 30g  unsalted butter (, cut into 1cm (1/2&quot;) cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, smashed (Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "sprigs",
+      "name": "thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "chives (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "chervil (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut fillets: Cut each monkfish into 3 or 4 even size pieces. (Note 1)"
+    },
+    {
+      "order": 2,
+      "instruction": "Season: Sprinkle both sides of fish with salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Rack for resting: Place a rack over a tray (optional, for resting fish, Note 5)"
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil: Heat oil in non-stick pan over medium heat (medium-high for weak stoves)."
+    },
+    {
+      "order": 5,
+      "instruction": "Sear first side, then turn: Place thickest pieces of fish in the pan first. Leave for 1 minute then add the thinner pieces. (Note 4). Cook for a further 2 minutes, then flip fish."
+    },
+    {
+      "order": 6,
+      "instruction": "Add butter and baste: Add butter to pan. After it starts melting, add garlic and thyme. When the butter starts foaming, tilt the pan and start spooning the butter over the fish. Do this for 2 minutes or until the internal temperature is 55°C/131°F (Note 6), or the flesh flakes easily. Butter will begin to smell nutty - it&#039;s now brown butter!"
+    },
+    {
+      "order": 7,
+      "instruction": "Rest: Transfer fish onto the rack and rest for 3 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Add herbs: Add herbs to butter remaining in pan. Serve this Herb Brown Butter with monkfish."
+    },
+    {
+      "order": 9,
+      "instruction": "Slice monkfish into 2.5cm / 1&quot; pieces. Place on pea puree, then drizzle with Herb Brown Butter. Optional garnish with any combination of dill, parsley, chervil."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "tr_1549",
+  "title": "Coconut Almond Breakfast Popsicles.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/07/Creamy-Coconut-Almond-Breakfast-Pops-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/creamy-coconut-almond-breakfast-pops/",
+  "servings": 10,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "almond",
+    "coconut",
+    "popsicle"
+  ],
+  "nutrition": {
+    "calories": 110,
+    "protein": 4.0,
+    "carbs": 15.0,
+    "fat": 2.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "plain Greek yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Almond Breeze Almondmilk Coconutmilk Original Unsweetened",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "maple syrup or honey + more for drizzling",
+      "emoji": "🍯",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "fresh berries, if using strawberries, slice thin",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "homemade or store-bought granola",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a medium size bowl, mix together the yogurt, Almondmilk Coconutmilk, and maple syrup until combined."
+    },
+    {
+      "order": 2,
+      "instruction": "In another bowl, add the fresh berries and gently mash them to release some of their juice, but don't mash them into a sauce."
+    },
+    {
+      "order": 3,
+      "instruction": "To assemble, layer the granola, yogurt and berries evenly among 10 popsicles molds. It is OK if the layers are not perfect, it makes for a very pretty popsicle. Cover the tops of the mold and freeze until firm, about 4 hours. To remove the popsicles run the mold under hot water for 10 seconds and then pull the popsicles out of the molds. Store in the freezer. Drizzle with honey if desired."
+    }
+  ]
+}

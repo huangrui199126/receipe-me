@@ -1,0 +1,167 @@
+{
+  "id": "tr_145",
+  "title": "Baked Apple Pie Fries with Salted Caramel Dipping Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2015/02/Baked-Apple-Pie-Fries-with-Salted-Caramel-Dipping-Sauce-1.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baked-apple-pie-fries-salted-caramel-dipping-sauce/",
+  "servings": 36,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 75,
+    "protein": 0.7,
+    "carbs": 10.9,
+    "fat": 3.4
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "canned Apple Pie Filling ((increase to 1 3/4 cups if using US refrigerated pie crust) (Note 1))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "sugar ((your choice - white, brown, raw) (Note 2))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "sheets",
+      "name": "frozen shortcrust pastry ((25cm/10\" square) (do not thaw) OR 14 oz refrigerated pie crust (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sugar granules ((or ordinary sugar) (optional - for sprinkling))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "caster sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "heavy cream ((not whipped))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Apple Pie Filling, sugar and cinnamon in the food processor and whizz until smooth."
+    },
+    {
+      "order": 2,
+      "instruction": "Working quickly so the pastry does not defrost, place one sheet of pastry on a cutting board or other flat surface. Spread the filling over the pastry, leaving a thin border. Place the other sheet on top. Brush with egg wash, sprinkle with sugar granules (if using) then place the pastry in the freezer for at least 1 hour (Note 3)."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 180C/350F. Spray large baking tray with oil (or 2 small ones)."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove pastry from the freezer. Let it defrost for 5 to 10 minutes, until the pastry is softened - it doesn't need to thaw completely but it can't be frozen stiff otherwise it will crack when you cut it. DO NOT let the pie filling defrost!"
+    },
+    {
+      "order": 5,
+      "instruction": "Use a large knife to cut it into \"fries\". I cut mine into 12 strips vertically (2cm / 4/5\" wide) then 3 horizontally (8cm/3\" long) to make 36 fries."
+    },
+    {
+      "order": 6,
+      "instruction": "Carefully transfer to baking tray and set them aside to come to room temperature while the oven heats up."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake for 15 to 25 minutes, until golden brown on top. (Note 4)"
+    },
+    {
+      "order": 8,
+      "instruction": "Remove from oven, let it rest for 5 minutes then transfer to cooking rack."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve with Salted Caramel Sauce."
+    },
+    {
+      "order": 10,
+      "instruction": "Place sugar and water in a small saucepan over high heat. Swirl the pan to help the sugar dissolve easily but do not stir. Let it come to a rapid simmer and cook for around 3 to 4 minutes until it turns a light golden brown."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove from heat and CAREFULLY and slowly pour the cream in (it will bubble and froth slightly pour slowly). Whisk to combine. Then add the salt and butter and whisk again."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve with Apple Pie Fries."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "tr_578",
+  "title": "Caprese Salad",
+  "image": "https://www.recipetineats.com/tachyon/2019/01/Caprese-Salad_8.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/caprese-salad/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "caprese salad"
+  ],
+  "nutrition": {
+    "calories": 163,
+    "protein": 7.0,
+    "carbs": 4.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "220  g/7oz bocconcini / baby or cherry mozzarella (, halved (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb cherry or grape tomatoes (, halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "basil leaves (, torn or roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Balsamic glaze / reduction (, for drizzling (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Dijon mustard ((or other non spicy mustard))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2.5",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white wine vinegar ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each dried oregano (, parsley, thyme (or rosemary))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Dressing ingredients in a jar and shake very well. Adjust to taste."
+    },
+    {
+      "order": 2,
+      "instruction": "Place tomatoes, bocconcini and most of the basil in a bowl. Drizzle over dressing, toss gently."
+    },
+    {
+      "order": 3,
+      "instruction": "Transfer to shallow serving bowl. Just before serving, drizzle with balsamic glaze and sprinkle with remaining basil."
+    },
+    {
+      "order": 4,
+      "instruction": "Serve immediately."
+    }
+  ]
+}

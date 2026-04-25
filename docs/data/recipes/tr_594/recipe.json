@@ -1,0 +1,201 @@
+{
+  "id": "tr_594",
+  "title": "Red Velvet Cake",
+  "image": "https://www.recipetineats.com/tachyon/2016/06/Red-Velvet-Layer-Cake_4.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/red-velvet-cake/",
+  "servings": 10,
+  "prepTime": 30,
+  "cookTime": 25,
+  "tags": [
+    "red velvet cake"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2 2/3",
+      "unit": "cups",
+      "name": "(400 g)  plain cake flour ((Note 1))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(10 g)  cocoa powder (, unsweetened)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "(5 g)  baking soda / bi-carb soda (, NOT baking powder (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(115 g)  unsalted butter (, softened (1 US stick))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(330 g)  caster / superfine white sugar  ((Note 3a))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (, at room temperature (around 2 oz / 60g each))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(250ml)  vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "vanilla extract  ((or essence))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(250 ml)  buttermilk (, at room temperature (Note 4))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "red food colouring liquid  ((UK: use Gel, Note 7))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "14",
+      "unit": "oz",
+      "name": "(400 g)  Philadelphia Cream Cheese, block  (, softened but not too soft (UK see Note 9))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(115 g)  unsalted butter (, softened (but not too soft))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "(450 g)  soft icing sugar / powdered sugar (sifted (Note 3b))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F (all oven types). Butter 2 x 21cm / 8\" round cake pans (sides and base) and dust with cocoa powder."
+    },
+    {
+      "order": 2,
+      "instruction": "Sift the Dry Ingredients and whisk to combine in a bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Place butter and sugar in a bowl and beat with electric beater or in stand mixer until smooth and well combined (use paddle attachment if using stand mixer)."
+    },
+    {
+      "order": 4,
+      "instruction": "Add eggs, one at a time, beating in between to combine. At first it will look curdle - keep beating until it's smooth."
+    },
+    {
+      "order": 5,
+      "instruction": "Add vegetable oil, vinegar, vanilla, buttermilk and red food colouring. Beat until combined and smooth (Note 5)."
+    },
+    {
+      "order": 6,
+      "instruction": "Add Dry Ingredients. Beat until just combined - some small lumps is ok, that's better than over mixing."
+    },
+    {
+      "order": 7,
+      "instruction": "Divide batter between cake pans. Bake for 25 - 30 minutes on the same shelf, or until a toothpick inserted into the centre comes out clean. (Note 6)"
+    },
+    {
+      "order": 8,
+      "instruction": "Rest for 10 minutes in the pan then turn out onto a cooling rack and allow to cool."
+    },
+    {
+      "order": 9,
+      "instruction": "Beat together cream cheese, butter and vanilla for 3 minutes (this makes it really smooth and changes from yellow to almost white). Add icing sugar and beat for 2 minutes or until frosting is light and fluffy to your taste. If your frosting seems too runny (depends on quality of cream cheese/ if the cream cheese was too soft), just add more icing sugar."
+    },
+    {
+      "order": 10,
+      "instruction": "Cut the top off the cake using a serrated knife (to make the layers neat)."
+    },
+    {
+      "order": 11,
+      "instruction": "Spread one cake with 1 1/2 cups of frosting. Top with the other cake. Spread top and sides with remaining frosting."
+    },
+    {
+      "order": 12,
+      "instruction": "Optional: Crumble offcuts and use to decorate the top rim and base of the cake."
+    }
+  ]
+}

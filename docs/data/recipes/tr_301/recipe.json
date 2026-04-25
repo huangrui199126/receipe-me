@@ -1,0 +1,186 @@
+{
+  "id": "tr_301",
+  "title": "Swedish Meatballs (homemade Ikea Meatballs)",
+  "image": "https://www.recipetineats.com/tachyon/2017/01/Swedish-Meatballs_2-SQ.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/swedish-meatballs/",
+  "servings": 5,
+  "prepTime": 20,
+  "cookTime": 30,
+  "tags": [
+    "sauce for swedish meatballs",
+    "swedish meatballs"
+  ],
+  "nutrition": {
+    "calories": 475,
+    "protein": 28.0,
+    "carbs": 11.0,
+    "fat": 35.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "slices",
+      "name": "white sandwich bread (, crusts removed, chopped into small cubes (Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, small (brown, white or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10 oz  ground beef (mince)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10 oz  ground pork (mince) (, or sub with more beef (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "ground nutmeg (, preferably freshly grated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "All Spice powder ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "40",
+      "unit": "g",
+      "name": "/ 3 tbsp  butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "beef broth/stock  ((salt reduced), or sub with chicken)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "heavy / thickened cream ((Note 4))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Grate onion using a standard box grater (see video)."
+    },
+    {
+      "order": 2,
+      "instruction": "Scrape onion and juices into bowl. Add bread and mix well - onion juice should make bread soggy (if not, add a tiny splash of milk). Set aside to soak for 1 minute."
+    },
+    {
+      "order": 3,
+      "instruction": "Add remaining Meatball ingredients EXCEPT oil. Mix well."
+    },
+    {
+      "order": 4,
+      "instruction": "Using a tablespoon measure and measure out a heaped tablespoon (or use ice cream scooper which is what I do), dollop on work surface. Repeat with remaining mixture: 25 - 30 meatballs. Then roll into shape."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat 1 tbsp oil in a skillet over medium high heat. Add half the meatballs and brown all over (but raw inside still) - about 3 minutes. Remove onto plate, then brown the remaining batch."
+    },
+    {
+      "order": 6,
+      "instruction": "If there is lots of oil, pour off excess and discard. Lower heat to medium."
+    },
+    {
+      "order": 7,
+      "instruction": "Add butter into skillet and melt. Add flour and stir in. Cook for 1 minute."
+    },
+    {
+      "order": 8,
+      "instruction": "While mixing, add about 1/4 of the beef broth - it will thicken quickly. Then gradually add remaining beef broth, stirring as you go. Switch to whisk if required to make it lump free."
+    },
+    {
+      "order": 9,
+      "instruction": "When the liquid is simmering, add meatball and juices pooled on plate."
+    },
+    {
+      "order": 10,
+      "instruction": "Turn up heat slightly to keep it at a rapid simmer. Cook for 8 - 10 minutes or until the liquid thickens into a thin gravy, stirring occasionally."
+    },
+    {
+      "order": 11,
+      "instruction": "Add cream, simmer for a further 2 minutes then remove from stove."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve over mashed potato (or Cauliflower Mash for low carb). For a truly authentic experience, add a dollop of ligonberry jam on the side!"
+    }
+  ]
+}

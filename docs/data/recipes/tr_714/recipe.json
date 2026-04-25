@@ -1,0 +1,123 @@
+{
+  "id": "tr_714",
+  "title": "Rosemary Garlic Grilled Lamb Chops",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/Rosemary-Garlic-Marinated-Lamb-Chops-5.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/rosemary-garlic-grilled-lamb-chops/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 313,
+    "protein": 42.3,
+    "carbs": 0.8,
+    "fat": 14.5
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "600 - 800 g / 1.2 - 1.6lb   lamb chops ((4 - 8, depending on size))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil (, for cooking, if required)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "red wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "finely chopped fresh rosemary ((or 1 tsp dried rosemary))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3/4 - 1 tsp sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Marinade ingredients in a bowl until salt dissolves. Add lamb, mix to coat, then marinate at least 2 hours, preferably overnight, up to 24 hours."
+    },
+    {
+      "order": 2,
+      "instruction": "Brush BBQ bars with oil if required (Note 1) and heat to medium high (or heat 1/2 tbsp oil in skillet on stove on medium high)."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook lamb to your taste. I had 4 x 150g/5oz lamb loin chops about 2cm/3/4\" thick and 3 minutes on each side = medium. I also cooked smashed garlic cloves and rosemary sprigs for garnish."
+    },
+    {
+      "order": 4,
+      "instruction": "Transfer lamb to plate, cover loosely with foil and rest for 5 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve with sides of choice!"
+    }
+  ]
+}

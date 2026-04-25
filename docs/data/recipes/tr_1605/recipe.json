@@ -1,0 +1,255 @@
+{
+  "id": "tr_1605",
+  "title": "Bitchin' California Bowl.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/03/Bitchin-California-Bowl-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/bitchin-california-bowl/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 30,
+  "tags": [
+    "avocado",
+    "bbq chicken",
+    "beetroot"
+  ],
+  "nutrition": {
+    "calories": 1379,
+    "protein": 60.0,
+    "carbs": 95.0,
+    "fat": 87.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  red or yellow beets (quartered or halved)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "radishes",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt + pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "boneless (skinless chicken breasts or tenders (omit if vegan))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "cooked chickpeas (rinsed)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "homemade pesto (or store bought)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3 cups cooked barley and or quinoa",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "marinated artichokes (drained)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  blood oranges (grapefruits and or kiwi, sliced)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  avocados (sliced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  jalapenos (sliced + seeded if desired)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "walnuts (toasted)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "pumpkin seeds (toasted)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cotija cheese (crumbed)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "fresh microgreens (dill, parsley, cilantro + lemons, for serving)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "almond butter*",
+      "emoji": "🧈",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "nutritional yeast or parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "fresh cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "low-sodium soy sauce or Bragg Liquid Aminos",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "3/4",
+      "unit": "teaspoon",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 400 degrees F."
+    },
+    {
+      "order": 2,
+      "instruction": "Peel the beets if desired (I prefer to leave the skin on my beets). Place the beets and radishes on a baking sheet and toss with the olive oil, salt and pepper. On a separate baking sheet add the chicken and toss with 1/4 cup of the pesto. Place both pans in the oven and roast for 15 minutes. After 15 minutes, give the veggies a toss and add the chickpeas to the pan with chicken. Toss the remaining 1/4 cup pesto with the chickpeas until the chickpeas are well coated. Return both pans to the oven and continue roasting for another 10 minutes or until the veggies are lightly charred, the chicken cooked through and the chickpeas warmed. Cooking times for the chicken will vary depending on it's size."
+    },
+    {
+      "order": 3,
+      "instruction": "Allow the chicken to rest five minutes and slice."
+    },
+    {
+      "order": 4,
+      "instruction": "To assemble the bowls, divide the barley between bowls. Add the artichokes, chickpeas and toss together with the barley. Add the chicken, beets + radishes and then add the citrus, avocado + jalapenos. Sprinkle walnuts, pumpkin seeds and cotija cheese. Serve with the Bitchin Sauce (see below)."
+    },
+    {
+      "order": 5,
+      "instruction": "Combine all ingredients in a high powdered blender or food processor and blend until completely smooth or creamy. If needed, add water to thin the sauce out. The sauce should be the consistency of hummus or just slightly thinner if desired. Taste and adjust the salt to your liking. The sauce can be stored for up to a week in the fridge."
+    }
+  ]
+}

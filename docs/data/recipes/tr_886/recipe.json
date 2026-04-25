@@ -1,0 +1,113 @@
+{
+  "id": "tr_886",
+  "title": "Brown Sugar Garlic Butter Pork Roast",
+  "image": "https://www.recipetineats.com/tachyon/2018/07/Brown-Sugar-Caramelised-Pork-Roast_2.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/brown-sugar-garlic-butter-roast-pork/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 135,
+  "tags": [
+    "slow roast pork"
+  ],
+  "nutrition": {
+    "calories": 770,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.75 - 2kg / 3.5 - 4lb   pork shoulder / butt (, cut into 8 equal pieces (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 7 tbsp   unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 80g   brown sugar (, loosely packed)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65 ml   cider vinegar ((white wine or red wine vinegar also fine))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 160C/320F (standard) or 140C/290F (fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place Sauce ingredients in a saucepan over medium heat. Once better has melted, stir to combine then leave for 1 - 2 minutes until sugar is melted. Remove from heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Sprinkle pork pieces all over with salt and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Line pan with foil then parchment / baking paper, place pork in pan."
+    },
+    {
+      "order": 5,
+      "instruction": "Pour Sauce all over pork. Cover with foil. Bake for 1 hour 15 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from oven, remove foil. Turn pork. Return to oven uncovered for 20 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove from oven. Turn pork, spoon pan juices over. Return to oven for 20 - 30 minutes or until pork is golden and sauce has reduced to a thin syrup (thickens more when it cools)."
+    },
+    {
+      "order": 8,
+      "instruction": "Stand for 5 minutes, then turn pork to coat in sauce. Serve pork with syrupy pan sauce. Pictured in post with this Everyday Cabbage Salad."
+    }
+  ]
+}

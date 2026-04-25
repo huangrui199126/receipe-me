@@ -1,0 +1,99 @@
+{
+  "id": "tr_458",
+  "title": "Frozen Strawberry Daiquiris",
+  "image": "https://www.recipetineats.com/tachyon/2019/09/Frozen-Strawberry-Daiquiri_1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/frozen-strawberry-daiquiri/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "frozen daiquiri",
+    "frozen strawberry daiquiri",
+    "strawberry cocktail"
+  ],
+  "nutrition": {
+    "calories": 238,
+    "protein": 1.0,
+    "carbs": 25.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250g/ 8 oz   frozen strawberries (, leaves removed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "60g/ 2 oz   fresh strawberries (, leaves removed (4 strawberries, Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "30",
+      "unit": "ml",
+      "name": "/ 1 oz   sugar syrup ((Note 2))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "60",
+      "unit": "ml",
+      "name": "/ 2 oz   lime juice (, fresh)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "120",
+      "unit": "ml",
+      "name": "/ 4 oz   white rum ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh strawberries (, cut slit in base)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime slices",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place all ingredients in a blender or Nutribullet."
+    },
+    {
+      "order": 2,
+      "instruction": "Blitz until all strawberries are blitzed."
+    },
+    {
+      "order": 3,
+      "instruction": "Taste and adjust sweet with more syrup, sour with lime (and booze if you dare!)."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour into glasses (see video for consistency) and serve, garnished with fresh strawberries!"
+    }
+  ]
+}

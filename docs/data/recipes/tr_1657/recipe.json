@@ -1,0 +1,254 @@
+{
+  "id": "tr_1657",
+  "title": "Crockpot Honey Harissa Chicken with Chickpeas, Feta and Jeweled Pomegranate Rice.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/11/Crockpot-Honey-Harissa-Chicken-with-Chickpeas-Feta-and-Jeweled-Pomegranate-Rice-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/crockpot-honey-harissa-chicken-with-chickpeas-feta-and-jeweled-pomegranate-rice/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 380,
+  "tags": [
+    "chicken",
+    "chickpeas",
+    "crockpot",
+    "feta",
+    "harissa",
+    "honey"
+  ],
+  "nutrition": {
+    "calories": 426,
+    "protein": 27.0,
+    "carbs": 60.0,
+    "fat": 33.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "[harissa | https://www.halfbakedharvest.com/homemade-harissa-spicy-red-pepper-sauce/]",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "full-fat canned coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "low sodium soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-4 tablespoons honey (depending on your taste (I used 3 tablespoons))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 in chipotle chile adobo (minced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "fresh ginger (grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cinnamon stick or 1/2 cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-4  carrots (chopped)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red bell pepper (chopped)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2-2 pounds bone-in (skin-on chicken thighs OR boneless chicken breasts)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "pepper (to taste)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "can chickpeas (drained + rinsed, 14)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "chopped cilantro + mint (for serving)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "feta cheese (fro topping)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "uncooked jasmine rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "saffron (optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 tablespoons molasses",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "roasted (salted pistachios)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "sliced almonds",
+      "emoji": "🥜",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "zest from 1 orange",
+      "emoji": "🍊",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "arils from one pomegranate",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In the bowl of a crockpot (oven directions in the notes), combine the harissa, coconut milk, soy sauce, honey, chipotle chile, ginger and garlic. Add the cinnamon stick, carrots, bell pepper and chicken toss with the sauce to combine. Cover and cook on LOW for 6-8 hours or on HIGH for 4-6 hours."
+    },
+    {
+      "order": 2,
+      "instruction": "Just before serving, preheat the broiler to HIGH. Carefully remove the chicken from the sauce and place on a greased baking sheet. Place under the broiler for 30 seconds to 1 minute or until the chicken is crisp and golden. Watch close as the broiler works FAST."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir the chickpeas and chicken back into the sauce. Warm through, about 5 minutes. Serve with the jeweled pomegranate rice (recipe below) and fresh cilantro + mint and feta cheese."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the coconut milk and water to a medium size pot. Bring to a low boil and then add the rice + saffron. Stir to combine, then place the lid on the pot and turn the heat down to the lowest setting possible. Allow the rice to cook ten minutes on low and then turn the heat off completely and let the rice sit on the stove, covered for another 15-20 minutes (don't take any peeks inside!). After 15-20 minutes remove the lid and fluff the rice with a fork. When ready to eat, drizzle in 1-2 tablespoons molasses. Stir in the the butter, pistachios, almonds, orange zest and all the pomegranate arils. *Once the pomegranate arils are added, the rice should be eaten right away. Just a note, rice can cook differently for everyone, this is just what works for me."
+    }
+  ]
+}

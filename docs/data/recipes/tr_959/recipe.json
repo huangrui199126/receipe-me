@@ -1,0 +1,222 @@
+{
+  "id": "tr_959",
+  "title": "Slow Cooker Ham Bone Soup with Beans",
+  "image": "https://www.recipetineats.com/tachyon/2019/01/Ham-Bone-Bean-Soup_1_SQ.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/ham-bone-soup-beans/",
+  "servings": 6,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "ham and bean soup",
+    "ham bone soup"
+  ],
+  "nutrition": {
+    "calories": 352,
+    "protein": 21.0,
+    "carbs": 44.0,
+    "fat": 10.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1.2",
+      "unit": "kg",
+      "name": "/ 2.4lb  leftover ham bone ( OR store bought ham hock / meaty bone (Note 1))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  carrots (, peeled cut into 3 chunks)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  celery stalk (, cut into chunks)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "sprigs",
+      "name": "thyme or 1/2 tsp dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.5 - 2 cups  dried white beans (, no need to soak (Note 2))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "litres",
+      "name": "/ 2 quarts   water ((8 cups))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30g)  butter or oil",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  celery ribs (, chopped)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  carrots (, chopped)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "milk (, any fat %)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Vegeta or other stock powder ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 2 oz   baby spinach ((Note 4))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "extra milk (, any fat %)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the Ham Broth ingredients in the slow cooker. Slow cook for 8 hours on low, or 4 hours on high."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove ham bone. Shred meat and discard bone. Return half the ham to the slow cooker (remainder is pan fried)."
+    },
+    {
+      "order": 3,
+      "instruction": "Discard thyme sprig."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove then chop carrot and celery, return to slow cooker."
+    },
+    {
+      "order": 5,
+      "instruction": "Melt 1 tbsp butter in a skillet over medium high heat. Add half the ham and cook until golden and crispy."
+    },
+    {
+      "order": 6,
+      "instruction": "Transfer most to slow cooker - hold back a few for garnish."
+    },
+    {
+      "order": 7,
+      "instruction": "In the same skillet, melt remaining butter. Add onion and garlic, cook 1 minute."
+    },
+    {
+      "order": 8,
+      "instruction": "Add celery and carrot, cook for 3 minutes until soft."
+    },
+    {
+      "order": 9,
+      "instruction": "Add 2 cups milk, stir."
+    },
+    {
+      "order": 10,
+      "instruction": "Mix cornflour and extra Milk. While stirring, pour into skillet. Mixture will thicken quickly."
+    },
+    {
+      "order": 11,
+      "instruction": "Once very thick and paste-like, scrape into slow cooker."
+    },
+    {
+      "order": 12,
+      "instruction": "Add Vegeta into slow cooker. Stir to dissolve paste."
+    },
+    {
+      "order": 13,
+      "instruction": "Add spinach, push down into liquid."
+    },
+    {
+      "order": 14,
+      "instruction": "Slow cook 30 minutes on low or 20 minutes on high until spinach is wilted and broth is heated and slightly thickened."
+    },
+    {
+      "order": 15,
+      "instruction": "Serve garnished with crispy ham and a sprinkle of parsley, if desired!"
+    }
+  ]
+}

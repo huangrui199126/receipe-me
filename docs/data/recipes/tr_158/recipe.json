@@ -1,0 +1,155 @@
+{
+  "id": "tr_158",
+  "title": "Red, Green and White Christmas Salad",
+  "image": "https://www.recipetineats.com/tachyon/2014/12/Christmas-Sides-618.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/red-green-white-christmas-salad/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 167,
+    "protein": 4.3,
+    "carbs": 8.7,
+    "fat": 13.9
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "bunches",
+      "name": "asparagus",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "10",
+      "unit": "oz",
+      "name": "/ 300g   green beans",
+      "emoji": "🫘",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "5",
+      "unit": "oz",
+      "name": "/ 150g   snow peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "oz",
+      "name": "/ 120g   feta",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "dried cranberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Fill a large pot with water and bring to boil."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut the woody ends off the asparagus, then cut the asparagus into 3. Separate the asparagus heads from the stems."
+    },
+    {
+      "order": 3,
+      "instruction": "Trim the beans and place in a separate pile."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove the strings along each side of the snow peas."
+    },
+    {
+      "order": 5,
+      "instruction": "Place the beans in the boiling water. When the water comes back to the simmer again, leave the beans to simmer for 30 seconds. (Note 1)"
+    },
+    {
+      "order": 6,
+      "instruction": "Add the asparagus stems in. Once it comes back up to a simmer, count 30 seconds again. Then add the snow peas and asparagus heads, bring it back up to a simmer and count to 30 seconds."
+    },
+    {
+      "order": 7,
+      "instruction": "Immediately drain the greens and run cold water over the greens for 10 seconds to stop the cooking process."
+    },
+    {
+      "order": 8,
+      "instruction": "Once cool, set aside to dry. Roughly dry with a paper towel if serving immediately."
+    },
+    {
+      "order": 9,
+      "instruction": "Combine the Dressing ingredients in a jar and shake well to mix."
+    },
+    {
+      "order": 10,
+      "instruction": "Place the greens in a bowl and toss with the Dressing."
+    },
+    {
+      "order": 11,
+      "instruction": "Transfer to a serving bowl, crumble over feta and scatter with dried cranberries. Serve immediately."
+    }
+  ]
+}

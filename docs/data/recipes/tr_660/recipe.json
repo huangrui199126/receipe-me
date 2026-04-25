@@ -1,0 +1,218 @@
+{
+  "id": "tr_660",
+  "title": "General Tso's Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2020/10/General-Tsao-Chicken_1-SQ.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/general-tsos-chicken/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "general tsao's chicken",
+    "general tso's chicken"
+  ],
+  "nutrition": {
+    "calories": 465,
+    "protein": 32.0,
+    "carbs": 22.0,
+    "fat": 28.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "soy sauce - light or all-purpose ((NOT dark soy, Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "rice vinegar ((sub white wine vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "chilli paste (, any (Sambal Oelak is great))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil (toasted preferably (Note 6))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornflour/cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "chicken stock/broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "600g/ 1.4 lb  chicken thighs (, boneless skinless, cut into 2.5cm / 1&quot; pieces (breast / tenderloin - Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ginger (, finely grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic (,finely grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cornflour/cornstarch ((Note 5))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 4 cups  oil, for frying ((peanut, vegetable or canola; Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil ((peanut, vegetable or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger (, finely chopped (Note 3))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (, finely chopped (Note 3))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "red chilli flakes ((red pepper flakes))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely sliced green onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauce-Marinade: Mix the soy, hoisin, vinegar, chilli and sesame oil."
+    },
+    {
+      "order": 2,
+      "instruction": "Marinate Chicken: Take out 2 tablespoons of Sauce-Marinade and mix with chicken. Add ginger and garlic to chicken, mix, then marinate 30 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Dust chicken: Add cornflour into chicken and toss to coat, ensuring pieces are separated so they get fully coated."
+    },
+    {
+      "order": 4,
+      "instruction": "Shake off excess: Tip into a colander and shake to remove excess cornflour (or grab handfuls, shake so cornflour falls through your fingers)."
+    },
+    {
+      "order": 5,
+      "instruction": "Finish Sauce: To the remaining Sauce-Marinade (that you made in Step 1), add sugar and cornflour. Mix, then add chicken stock and mix."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat oil: Heat 2 cm / 4/5&quot; oil in a deep skillet (or large pot - whatever you’re comfortable with) to 200°C/390°F. To use less, see Note 4."
+    },
+    {
+      "order": 7,
+      "instruction": "Fry: Cook chicken 3 minutes, turning halfway, until golden and crispy. Drain on paper towel lined plate."
+    },
+    {
+      "order": 8,
+      "instruction": "New / clean skillet: Discard oil, wipe skillet and return to heat. Or use another large skillet."
+    },
+    {
+      "order": 9,
+      "instruction": "Stir Fry Sauce: Heat oil in a large skillet over medium heat. Add garlic, ginger, chilli flakes, saute 30 seconds until garlic is light golden. Add Sauce, bring to simmer and stir occasionally until it thickens enough that you can draw a path across pan base."
+    },
+    {
+      "order": 10,
+      "instruction": "Toss! Add chicken, toss to coat quickly - the quicker you are, the crispier the chicken stays! Transfer to serving plate, garnish and serve immediately with your rice of choice."
+    }
+  ]
+}

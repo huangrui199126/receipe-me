@@ -1,0 +1,154 @@
+{
+  "id": "tr_1178",
+  "title": "Baked Eggs with Mushrooms (Shirred Eggs)",
+  "image": "https://www.recipetineats.com/tachyon/2021/08/Baked-Eggs_89-SQ.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/shirred-eggs-baked-eggs/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "baked eggs",
+    "shirred eggs"
+  ],
+  "nutrition": {
+    "calories": 211,
+    "protein": 10.0,
+    "carbs": 4.0,
+    "fat": 18.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7oz   mushrooms (, sliced thinly (0.3cm / 1/8\"))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fresh thyme leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "baby spinach",
+      "emoji": "🥬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  large eggs (, fridge cold (Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "thickened cream ((heavy cream))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "parmesan (, freshly grated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "smoked paprika ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "chives (, finely chopped (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C / 390°F (180°C fan). Lightly oil or butter four ramekins – 300ml / 10oz (1 1/4 cups)."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook mushrooms: Melt butter in a large skillet over medium high heat. Cook mushrooms until starting to go golden on the edges, 3 minutes. Add garlic, thyme, salt and pepper. Cook for further 1 minute until mushrooms and garlic are golden."
+    },
+    {
+      "order": 3,
+      "instruction": "Wilt spinach: Add spinach and stir for 30 seconds, just until wilted."
+    },
+    {
+      "order": 4,
+      "instruction": "Fill ramekins: Divide mushroom mixture evenly into the ramekins. Make a slight dent in the middle, crack eggs in (yolk should settle in centre). Sprinkle each egg with pinch of salt and pepper, drizzle with cream, pile on parmesan."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake: Bake in oven for 12 - 15 minutes until egg whites are just set and yolks are cooked to your liking (I like runny!). Check it at 12 minutes - hotter ovens, lower walled ramekins etc can make them cook faster. Take out of oven slightly undercooked as egg will keep cooking."
+    },
+    {
+      "order": 6,
+      "instruction": "Paprika: Sprinkle smoked paprika and chives on top, serve immediately with warm bread for dunking!"
+    }
+  ]
+}

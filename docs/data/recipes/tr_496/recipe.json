@@ -1,0 +1,147 @@
+{
+  "id": "tr_496",
+  "title": "Marinated Grilled Salmon",
+  "image": "https://www.recipetineats.com/tachyon/2019/06/Marinated-Grilled-Salmon_8.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/marinated-grilled-salmon/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 12,
+  "tags": [
+    "bbq salmon",
+    "grilled salmon",
+    "salmon marinade"
+  ],
+  "nutrition": {
+    "calories": 379,
+    "protein": 36.0,
+    "carbs": 15.0,
+    "fat": 18.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  salmon fillets (, skin on best (150-180g/5-6oz each, Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil (, for cooking)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "(85 ml)  soy sauce (, low sodium)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley, chives or green onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon slices",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place marinade in a ziplock bag and mix to combine."
+    },
+    {
+      "order": 2,
+      "instruction": "Add salmon and massage to coat. Marinate for 3 - 24 hours (1 hr minimum)."
+    },
+    {
+      "order": 3,
+      "instruction": "Take out of fridge 30 minutes prior to cooking."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove salmon onto plate, allowing excess marinade to drain off."
+    },
+    {
+      "order": 5,
+      "instruction": "Pour remaining marinade into a small saucepan and simmer over medium high for 3 to 5 minutes until syrupy."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour into bowl/jug (some used for basting, some for serving)."
+    },
+    {
+      "order": 7,
+      "instruction": "Brush BBQ grills with oil. Then preheat to medium (or medium low for strong BBQ's)."
+    },
+    {
+      "order": 8,
+      "instruction": "Drizzle salmon with oil, the place onto the BBQ flesh side down (skin side up)."
+    },
+    {
+      "order": 9,
+      "instruction": "Cook for 3 minutes or until golden, then use tongs to carefully turn."
+    },
+    {
+      "order": 10,
+      "instruction": "Brush the flesh with Sauce, then close BBQ lid.&nbsp;"
+    },
+    {
+      "order": 11,
+      "instruction": "Cook for 3 - 4 minutes, basting one more time halfway through, or until the internal temperature is 50C/120F(medium rare) or 55C/130F&nbsp;(medium)."
+    },
+    {
+      "order": 12,
+      "instruction": "Transfer salmon to plate and serve with remaining Sauce."
+    }
+  ]
+}

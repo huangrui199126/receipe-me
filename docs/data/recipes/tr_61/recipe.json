@@ -1,0 +1,151 @@
+{
+  "id": "tr_61",
+  "title": "Nutella Stuffed Pancakes",
+  "image": "https://www.recipetineats.com/tachyon/2015/06/Nutella-Stuffed-Pancakes_680px_1.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/nutella-stuffed-pancakes/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 308,
+    "protein": 6.2,
+    "carbs": 45.9,
+    "fat": 11.1
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10 - 14 tbsp Nutella",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "plain flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "+ 2 tbsp   milk ((I used low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla essence ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "butter (, separated (2 x 1/2 tsp))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced strawberries ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Line a baking tray with baking paper (parchment paper)."
+    },
+    {
+      "order": 2,
+      "instruction": "Dollop 1 1/2 to 2 tbsp of Nutella onto the baking tray and spread into a disc around 2 1/2\" / 6cm in diameter and 1/5\" / 1/2 cm thick. (Note 1) Repeat to make 7 discs."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the tray in the freezer until firm (around 1 to 1 1/2 hours)."
+    },
+    {
+      "order": 4,
+      "instruction": "Peel off the parchment paper. Keep the Nutella discs in the freezer until required (they soften quickly)."
+    },
+    {
+      "order": 5,
+      "instruction": "Place the Dry Ingredients in a bowl and whisk to combine."
+    },
+    {
+      "order": 6,
+      "instruction": "Make a well in the centre and place the Wet Ingredients in the well. Whisk until combined and lump free (stop whisking as soon as it is smooth, don't over whisk)."
+    },
+    {
+      "order": 7,
+      "instruction": "Melt 1/2 tsp butter in a non stick fry pan over medium heat. Once melted, wipe most of the butter off with a paper towel. (Note 2)"
+    },
+    {
+      "order": 8,
+      "instruction": "Take 3 Frozen Nutella Discs out of the freezer just before you start cooking. (Note 3)"
+    },
+    {
+      "order": 9,
+      "instruction": "Dollop 1/4 cup of batter into the fry pan. Working quickly, place 1 Frozen Nutella Disc in the middle of the batter, then top with batter to cover the Nutella disc (Note 4)."
+    },
+    {
+      "order": 10,
+      "instruction": "When bubbles start appearing around the edges (around 2 minutes), lift up the edge and make sure the underside is golden. Then flip and cook until the other side is golden."
+    },
+    {
+      "order": 11,
+      "instruction": "Repeat with remaining batter. Melt more butter in the pan after the 3rd or 4th pancake. You should be able to make 7 in total, but sometimes it makes 6 - depends on how much batter you use on top of the Nutella."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve warm with sliced strawberries, if using. You could also serve with cream but I find that it's not necessary!"
+    }
+  ]
+}

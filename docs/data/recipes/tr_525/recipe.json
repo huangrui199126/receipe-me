@@ -1,0 +1,155 @@
+{
+  "id": "tr_525",
+  "title": "Chinese Chicken Salad",
+  "image": "https://www.recipetineats.com/tachyon/2015/06/Chinese-Chicken-Salad_0a.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-chicken-salad/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 412,
+    "protein": 0.0,
+    "carbs": 17.3,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "light soy sauce ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "rice vinegar ((aka rice wine vinegar, or use cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sesame oil (toasted)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "grapeseed oil ((or canola or any other neutral flavored oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "fresh ginger (, grated or very finely chopped)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "Chinese cabbage ((Nappa Cabbage), finely shredded (Note 2))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "red cabbage (, finely shredded)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "carrot (, finely julienned (see video))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken (, shredded)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "shallots / scallions (, finely sliced on the diagonal)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 to 1 cup crunchy noodles ((I use Chang's) (Note 3))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tsp sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the Dressing ingredients in a jar and shake. Set aside for 10 minutes or so for the flavours to meld."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the Salad ingredients together in a large bowl along with half the crunchy noodles. Drizzle over dressing then toss. (Note 4)"
+    },
+    {
+      "order": 3,
+      "instruction": "Divide between serving bowls. Top with more crunchy noodles and a good sprinkle of sesame seeds. Serve immediately!"
+    }
+  ]
+}

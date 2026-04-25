@@ -1,0 +1,129 @@
+{
+  "id": "tr_552",
+  "title": "Crispy rice",
+  "image": "https://www.recipetineats.com/tachyon/2023/06/Crispy-rice-cakes_3-SQ.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crispy-rice/",
+  "servings": 15,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "crispy rice cakes"
+  ],
+  "nutrition": {
+    "calories": 68,
+    "protein": 0.2,
+    "carbs": 3.0,
+    "fat": 5.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sushi rice ((Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "canola oil ((vegetable, peanut or other neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking / kosher salt (, for sprinkling rice cakes (Note 2))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "rice vinegar ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "caster sugar ((Note 3))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook rice, rest, pour over seasoning, fluff. Press firmly into 20cm/8&quot; lined pan, weigh down. Cool, fridge overnight (min 6 hrs). Cut into 15 rectangles, pan fry 4 min each side, sprinkle with salt."
+    },
+    {
+      "order": 2,
+      "instruction": "Sushi seasoning - Mix together until sugar dissolves."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook rice (Note 4) - Place rice and water in a small pot (no lid) over medium high heat. Once it&#39;s bubbling on the edges and the middle is rippling, put the lid on and turn down to medium low (or low for strong stoves). Cook for 13 minutes or until water is absorbed."
+    },
+    {
+      "order": 4,
+      "instruction": "Rest - Remove from heat then rest for 10 minutes with the lid still on."
+    },
+    {
+      "order": 5,
+      "instruction": "Season - Remove lid. Pour over sushi seasoning. Fluff rice with rubber spatula."
+    },
+    {
+      "order": 6,
+      "instruction": "Press - Place a sheet of baking/parchment paper on a 20cm/8&quot; square pan. Scrape hot rice into the pan and spread evenly. Cover with another piece of paper and press in very firmly."
+    },
+    {
+      "order": 7,
+      "instruction": "Weigh down (recommended, Note 5) - For best results, place something flat on top (2nd same size pan is ideal) then weigh down with 5 x 400g/14oz cans."
+    },
+    {
+      "order": 8,
+      "instruction": "Cool - Fully cool, cover with cling wrap, then refrigerate overnight (min 6 hours). Speedy option: Fridge uncovered until fully cool, cover, freeze 1 hour, fridge 1 hour."
+    },
+    {
+      "order": 9,
+      "instruction": "Cut - Lift rice out using paper overhang. Wet the knife blade (neater cuts). Cut rice into 15 rectangles (5 strips, then each into 3)."
+    },
+    {
+      "order": 10,
+      "instruction": "Pan fry - Heat about 1/4 cup of the oil in a large non-stick pan over medium high. Place in half the rice cakes - they should sizzle gently. Lower heat to medium. Cook for 4 minutes until really golden and crispy. Turn and cook the other side for 4 minutes."
+    },
+    {
+      "order": 11,
+      "instruction": "Salt - Remove onto a paper towels lined plate. Sprinkle each side with salt while hot."
+    },
+    {
+      "order": 12,
+      "instruction": "Keep cooking - Add remaining oil and cook remaining rice cakes."
+    },
+    {
+      "order": 13,
+      "instruction": "Serve as snack (you won&#39;t be able to stop!) or a base for canapés."
+    },
+    {
+      "order": 14,
+      "instruction": "Topping suggestions - Spicy tuna (Nobu copycat), tuna poke, salmon mousse, crostini toppings."
+    }
+  ]
+}

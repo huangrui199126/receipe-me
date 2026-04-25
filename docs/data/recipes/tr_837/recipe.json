@@ -1,0 +1,173 @@
+{
+  "id": "tr_837",
+  "title": "Huli Huli Chicken (Tropical Hawaiian chicken)",
+  "image": "https://www.recipetineats.com/tachyon/2020/07/Hawaiian-Huli-Huli-Chicken_1-SQ.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/huli-huli-chicken-hawaiian/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 12,
+  "tags": [
+    "chicken marinade",
+    "hawaiian chicken",
+    "huli huli chicken",
+    "pineapple marinade",
+    "tropical food"
+  ],
+  "nutrition": {
+    "calories": 377,
+    "protein": 49.0,
+    "carbs": 8.0,
+    "fat": 15.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "kg",
+      "name": "/ 3 lb  chicken thighs ((or breast, Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "pineapple juice, canned or bottled (NOT FRESH!) (, unsweetened (Note 2))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "ginger (, freshly grated (Note 3))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "garlic (, freshly grated (Note 3))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "tomato ketchup ((or Aussie tomato sauce))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "sherry or Chinese cooking wine ((Note 4))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Sriracha",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "rice vinegar ((or cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sesame oil (, toasted)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced green onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pineapple slices (, grilled for 3 minutes on each side for lines)",
+      "emoji": "🍎",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix marinade, set aside 3/4 cup (185 ml) for basting."
+    },
+    {
+      "order": 2,
+      "instruction": "Pour the rest over the chicken in a glass or ceramic container (not metal or plastic), coat chicken then marinade 24 - 48 hours."
+    },
+    {
+      "order": 3,
+      "instruction": "Brush BBQ grills with oil then preheat to medium high, or heat oil in a skillet over medium high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Drain excess marinade from chicken, place on BBQ/skillet."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook the first side for 2 - 3 minutes until golden (adjust heat if browning too fast), then flip and cook for 2 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Baste (dab) generously with reserved marinade, then flip and cook for 1 minute."
+    },
+    {
+      "order": 7,
+      "instruction": "Repeat this every minute or so for a total cook time of 10 minutes, or until internal temp in the thickest part registers 75°C/167°F (for thigh) or 65°C / 150°F (for breast)."
+    },
+    {
+      "order": 8,
+      "instruction": "Transfer chicken to a plate, loosely cover with foil and rest for 3 minutes before serving, garnished with green onion if desired."
+    }
+  ]
+}

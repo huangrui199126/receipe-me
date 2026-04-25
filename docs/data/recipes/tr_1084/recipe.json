@@ -1,0 +1,186 @@
+{
+  "id": "tr_1084",
+  "title": "Cabbage and Carrot Thoran-style Salad (Indian Salad)",
+  "image": "https://www.recipetineats.com/tachyon/2021/02/Cabbage-Carrot-Thoran_0.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cabbage-carrot-thoran-style-indian-salad/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "coconut salad",
+    "indian salad"
+  ],
+  "nutrition": {
+    "calories": 141,
+    "protein": 2.0,
+    "carbs": 10.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "coconut oil (, unrefined (Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "black mustard seeds ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cumin seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eschalots (USA: shallots) (, finely diced (Note 3))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion ((large), finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green chilli (, deseeded and finely chopped (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  curry leaves (, fresh (Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "tumeric powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "desiccated coconut (, unsweetened (Note 6))",
+      "emoji": "🥥",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  small red cabbage (, very finely sliced (~6 cups))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  small carrots or 1 very large carrot (, peeled and finely shredded)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh coriander/cilantro leaves (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt oil in a large non-stick skillet over medium high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Add black mustard seeds and cook for 30 seconds – they will pop and sizzle"
+    },
+    {
+      "order": 3,
+      "instruction": "Add cumin seeds and cook for 30 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Add eschalot and onion, cook for 3 minutes until translucent but not coloured."
+    },
+    {
+      "order": 5,
+      "instruction": "Add garlic and green chilli, cook for 2 minutes until softened but not golden."
+    },
+    {
+      "order": 6,
+      "instruction": "Add turmeric and curry leaves, cook for 30 seconds."
+    },
+    {
+      "order": 7,
+      "instruction": "Add coconut, water and salt. Cook until water mostly evaporates – about 3 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Place carrot and cabbage in a large bowl. Add hot coconut mixture. Toss well – the cabbage should wilt from the heat."
+    },
+    {
+      "order": 9,
+      "instruction": "Taste and check if it needs more salt for your taste."
+    },
+    {
+      "order": 10,
+      "instruction": "Toss through coriander. Serve warm or at room temperature. Best eaten on the day of making. See Note 7 regarding reheating/making ahead."
+    }
+  ]
+}

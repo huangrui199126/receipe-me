@@ -1,0 +1,183 @@
+{
+  "id": "tr_164",
+  "title": "Fattoush With Crunchy Flatbread Ribbons",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Fattoush1-1.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fattoush-with-crunchy-flatbread-ribbons/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 209,
+    "protein": 5.0,
+    "carbs": 25.1,
+    "fat": 11.1
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  tomatoes (, each cut into 8 to 12 wedges)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  cucumbers (, each cut into 12 sticks)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "mint leaves ((if leaves are large, roughly tear by hand))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  lebanese flatbreads ((Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sumac",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 350F/180C."
+    },
+    {
+      "order": 2,
+      "instruction": "Roll up the flatbread then cut into thin slices. Use your fingers to loosen them into a pile of \"ribbons\"."
+    },
+    {
+      "order": 3,
+      "instruction": "Pile onto a baking tray, drizzle over olive oil and a couple of pinches of salt, then use your fingers to coat all the ribbons with the oil."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake in oven for 3 minutes, then remove tray and move the ribbons around a bit so they bake evenly. At this stage some of the ribbons will not yet be crisp. Turn the oven OFF, then return the tray into the oven for a couple of minutes. This will make all the ribbons crisp without over browning them."
+    },
+    {
+      "order": 5,
+      "instruction": "While the ribbons are baking, combine the red onion in a small bowl with 1 tbsp lemon juice and pinch of salt. Set aside - it lightly pickles and removes some of the acidity from the onion."
+    },
+    {
+      "order": 6,
+      "instruction": "Combine the dressing ingredients."
+    },
+    {
+      "order": 7,
+      "instruction": "Combine the tomatoes, cucumbers, mint and coriander leaves in a small bowl. Squeeze excess juice from the lemons, and add to the bowl."
+    },
+    {
+      "order": 8,
+      "instruction": "Pour over dressing and toss gently to combine - you may not need all the dressing."
+    },
+    {
+      "order": 9,
+      "instruction": "Transfer salad onto a platter then pile on the crunchy flatbread ribbons."
+    },
+    {
+      "order": 10,
+      "instruction": "Sprinkle with extra sumac."
+    }
+  ]
+}

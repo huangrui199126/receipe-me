@@ -1,0 +1,101 @@
+{
+  "id": "tr_1976",
+  "title": "Chocolate Pistachio Chia Shake.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/01/Thick-+-Creamy-Chocolate-Pistachio-Chia-Shake-edited-1.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/thick-creamy-chocolate-pistachio-chia-shake/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "chia shake"
+  ],
+  "nutrition": {
+    "calories": 498,
+    "protein": 12.0,
+    "carbs": 63.0,
+    "fat": 15.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "unsweetened almond milk (plus more to thin if desired)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "black chia seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  whole medjool dates (pitted)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "roasted + shelled pistachios (plus more for topping)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  frozen medium + very ripe bananas (peeled and sliced)",
+      "emoji": "🍌",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoon",
+      "name": "unsweetened cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "plain greek yogurt or use coconut milk yogurt for a vegan option",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a small bowl mix together the milk and chia seeds. Let this sit for 10-15 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile add the pistachios and dates to the bowl of a food processor or high powered blender. Blend until the mixture becomes finely chopped and almost butter like, scraping down the side as you go. You want to get it as smooth as possible. I let the mixture blend for about 5 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "To the blender add the chia seeds + milk mixture, the frozen banana chunks, cocoa powder, greek yogurt and vanilla extract. Blend until thick, creamy, and smooth, about 3-4 minutes. Scrape down the sides of the blender as needed. If the shake is too thick add more milk to your liking."
+    }
+  ]
+}

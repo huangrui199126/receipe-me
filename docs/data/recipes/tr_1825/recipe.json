@@ -1,0 +1,101 @@
+{
+  "id": "tr_1825",
+  "title": "Eggnog Chocolate Marzipan Babka French Toast.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/12/Eggnog-Chocolate-Marzipan-Babka-French-Toast-11.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/eggnog-chocolate-marzipan-babka-french-toast/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 8,
+  "tags": [
+    "chocolate",
+    "christmas",
+    "eggnog",
+    "french toast",
+    "marzipan"
+  ],
+  "nutrition": {
+    "calories": 228,
+    "protein": 8.0,
+    "carbs": 16.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "eggnog",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "rum",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "nutmeg",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6-8 slices Babka, thick Brioche or Challah bread",
+      "emoji": "🍞",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "whipped cream, toasted almonds, maple, and powdered sugar, for serving",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Beat eggs and eggnog together. Add cinnamon, nutmeg, salt vanilla and rum. Dip sliced Babka into egg mixture, allowing each side to sit for 1-2 minutes in the eggnog mixture. You may also leave the slices in the eggnog mixture overnight."
+    },
+    {
+      "order": 2,
+      "instruction": "When ready to cook the french toast. Heat a large skillet or griddle over medium heat and coat generously with butter. When the skillet is hot, cook the french toast in batches (do not overcrowd) until golden and crisp, 3 to 4 minutes per side. Remove and serve immediately with whipped cream, toasted almonds and maple syrup. DEVOUR! :)"
+    }
+  ]
+}

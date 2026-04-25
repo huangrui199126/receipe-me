@@ -1,0 +1,132 @@
+{
+  "id": "tr_1459",
+  "title": "My Favourite Chocolate Frosting",
+  "image": "https://www.recipetineats.com/tachyon/2026/04/My-Favourite-Chocolate-Frosting_9.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/my-favourite-chocolate-frosting-recipe/",
+  "servings": 6,
+  "prepTime": 30,
+  "cookTime": 2,
+  "tags": [
+    "chocolate frosting",
+    "fluffy chocolate icing",
+    "real chocolate chocolate frosting",
+    "smooth chocolate frosting"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7 oz  dark chocolate chips or melts ((semi-sweet chocolate chips), or chopped block (Note 1))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "thickened cream / heavy cream (, or other whipping cream 35 - 40% fat (Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "dutch processed cocoa powder ((no need to sift), or regular unsweetened cocoa powder (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 7 tbsp  unsalted butter (, softened (or use salted and skip salt))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "soft icing sugar / powdered sugar (, sifted (Note 4))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz  Philadelphia cream cheese block ((not tub), at room temperature (Note 4))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "thickened cream / heavy cream (, fridge cold)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((halve for table salt, +50% for flakes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bloom cocoa with cream for 5 minutes. Melt chocolate, mix with bloomed cocoa, cool 15 minutes. Beat butter, then icing sugar (goes sandy), then cream cheese until smooth. Beat in chocolate. Chill 2 hours. Add cream, whip to stiff peaks. Use immediately to frost or pipe. Chill finished cakes 30 minutes to set before serving."
+    },
+    {
+      "order": 2,
+      "instruction": "Bloom cocoa - Heat the cream in a heatproof bowl until hot but make sure it doesn&#39;t come to a boil. Add cocoa powder and whisk until lump free - it will be like a thin paste. Set aside 5 minutes to bloom (brings out chocolate flavour)."
+    },
+    {
+      "order": 3,
+      "instruction": "Melt chocolate - Place the chocolate chips in a heatproof bowl and melt in the microwave in bursts until smooth - 30 seconds on high, stir, then 20 second increments."
+    },
+    {
+      "order": 4,
+      "instruction": "Chocolate paste - Add the cocoa paste into the melted chocolate. Whisk until combined and smooth, it will be like a thin paste. Cool for 15 minutes on the counter - it will thicken. Don&#39;t worry if a skin forms on the surface, it will beat out in the next step."
+    },
+    {
+      "order": 5,
+      "instruction": "Cream cheese whip - In a separate large bowl, beat butter with a handheld mixer until soft and fluffy (about 1 1/2 minutes on high). Add icing sugar and beat until it resembles wet sand (~ 30 seconds). Add cream cheese and beat until smooth and creamy (~30 seconds), stopping once no yellow butter bits remain."
+    },
+    {
+      "order": 6,
+      "instruction": "Beat in chocolate - Add all the chocolate paste and beat until combined."
+    },
+    {
+      "order": 7,
+      "instruction": "Refrigerate - Cover the bowl with cling wrap and refrigerate for 2 hours until properly fridge-cold (stick the beaters in the bowl). This gives the frosting structure. You can leave it in the fridge at this point for days."
+    },
+    {
+      "order": 8,
+      "instruction": "Fluff frosting - Remove bowl from the fridge. Add cream and salt. Beat on high for 1 1/2 minutes or until you have stiff peaks (ie upright Santa hats, not floppy elf hat). The frosting should be beautifully creamy like buttercream but also fluffy like whipped cream - better taste test to check! It will be a little pale - it darkens once piped/spread."
+    },
+    {
+      "order": 9,
+      "instruction": "Frost - Use immediately to frost cakes and pipe onto cupcakes - spread with knife/offset spatula or transfer into piping bag. (Note 5 on thickness) Refrigerate frosted cakes for at least 30 minutes to let the frosting set before serving."
+    },
+    {
+      "order": 10,
+      "instruction": "Once set, the frosting will hold its shape in the fridge and will not deflate. It does not harden in the fridge so can be enjoyed fridge cold, though I personally prefer my cakes at room temperature. When out of the fridge, keep it out of the sun - the frosting melts more easily than buttercream, but is much more stable than whipped cream."
+    }
+  ]
+}

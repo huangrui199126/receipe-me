@@ -1,0 +1,141 @@
+{
+  "id": "tr_737",
+  "title": "Teriyaki Salmon Noodles",
+  "image": "https://www.recipetineats.com/tachyon/2022/07/Teriyaki-Salmon-Noodles_1-1-SQ.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/teriyaki-salmon-noodles/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "salmon noodles"
+  ],
+  "nutrition": {
+    "calories": 683,
+    "protein": 34.0,
+    "carbs": 66.0,
+    "fat": 30.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil ((veg or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   salmon fillet ((s), skinless, sliced into 2cm / 0.7\" strips (lengthwise, Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  instant noodle / ramen noodle cakes ((discard seasoning packs) (Note 2 other noodles))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, cut into 1cm / 0.3\" slices)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small bunch Chinese broccoli ((gai lan), cut into 5 cm / 2&quot; lengths, leaves separated from stem (Note 3))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "soy sauce (, light or all-purpose (Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "mirin ((Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cooking sake ((Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Teriyaki Sauce: Mix the ingredients in a small bowl until the sugar is dissolved."
+    },
+    {
+      "order": 2,
+      "instruction": "Coat salmon with 1 tablespoon of Teriyaki Sauce in a bowl, then set aside while you cook the noodles. (No need to marinate)"
+    },
+    {
+      "order": 3,
+      "instruction": "Cook your noodles per the packet directions. Drain, briefly rinse under tap water then set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook salmon: Heat 1/2 tablespoon oil in a large non-stick pan over high heat. Cook the salmon for 1 1/2 minutes on each side or until golden, then remove to a plate. Pour any remaining sauce in the skillet over the salmon."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook aromatics: Roughly clean the pan with a paper towel then return to the stove, still on high heat. Heat 1 tablespoon of the remaining oil and cook the onion and garlic for 30 seconds. Add Chinese broccoli stems and cook for 1 minute."
+    },
+    {
+      "order": 6,
+      "instruction": "Noodles &amp; sauce: Add noodles and half the Sauce. Toss for 2 minutes until the Sauce is absorbed. Add the remaining Sauce and toss to disperse. Then spread the noodles out in the pan, cook for 30 seconds un-disturbed. Repeat again 3 to 4 times (~3 min total) - a trick for nice caramelisation on the noodles (which = flavour!)."
+    },
+    {
+      "order": 7,
+      "instruction": "Leafy greens: Drizzle the remaining 1/2 tablespoon oil around the side of the pan, then add the Chinese broccoli leaves. Toss for a further 1 1/2 minutes or until the leaves wilt."
+    },
+    {
+      "order": 8,
+      "instruction": "Add back salmon: Remove pan from stove. Place salmon on top, break into large chunks then toss through."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve: Divide between bowls and serve immediately!"
+    }
+  ]
+}

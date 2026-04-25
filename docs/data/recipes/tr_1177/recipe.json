@@ -1,0 +1,184 @@
+{
+  "id": "tr_1177",
+  "title": "Sesame Crusted Salmon",
+  "image": "https://www.recipetineats.com/tachyon/2018/02/Sesame-Crusted-Salmon_2.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sesame-crusted-salmon/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "asian salmon",
+    "quick salmon recipe",
+    "sesame crusted salmon",
+    "sesame salmon"
+  ],
+  "nutrition": {
+    "calories": 598,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  x 150-200g / 5-7 oz skinless boneless salmon or trout fillets ((Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "75g/ 1/2 cup  white sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "vegetable or canola oil ((or other neutral oil, not olive oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced shallots / scallions (, optional garnish)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   dried soba noodles ((Note 2))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "bunches",
+      "name": "baby buk choi (, or other greens of choice (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "soy sauce (, light or ordinary (Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "vegetable or canola oil ((or other neutral oil, not olive))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "rice vinegar ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Mirin ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sugar ((any, I use white))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fresh ginger (, minced)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Take salmon out of fridge 20 minutes before cooking."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 220C/430F (standard) or 200C/390F (fan). Place shelf about 20cm/8\" from the broiler heat source at the top of the oven."
+    },
+    {
+      "order": 3,
+      "instruction": "Sprinkle both sides of the salmon with salt and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Place sesame in shallow dish. Press salmon into sesame seeds to coat on all sides. Place on tray."
+    },
+    {
+      "order": 5,
+      "instruction": "Drizzle top with oil."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake for 10 minutes. Flick to broiler on high - broil / grill for 3 minutes until the top is a bit golden (or bake for 5 minutes, but won't be as golden). (Note 5)"
+    },
+    {
+      "order": 7,
+      "instruction": "Remove from oven, rest 3 minutes. Serve with soba and greens, garnished with scallions (optional) and drizzled with Dressing."
+    },
+    {
+      "order": 8,
+      "instruction": "Bring a large pot of water to the boil."
+    },
+    {
+      "order": 9,
+      "instruction": "Cook soba per packet directions. Add greens for the last 1 minute of cooking."
+    },
+    {
+      "order": 10,
+      "instruction": "Drain then divide between bowls."
+    },
+    {
+      "order": 11,
+      "instruction": "Place ingredients in jar and shake. Set aside for 5 minutes."
+    }
+  ]
+}

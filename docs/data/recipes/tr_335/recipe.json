@@ -1,0 +1,330 @@
+{
+  "id": "tr_335",
+  "title": "Chicken Tikka Masala",
+  "image": "https://www.recipetineats.com/tachyon/2018/04/Chicken-Tikka-Masala_0-SQ.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-tikka-masala/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 45,
+  "tags": [
+    "chicken tikka masala",
+    "tikka masala"
+  ],
+  "nutrition": {
+    "calories": 582,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "600g/ 1.2lb   chicken thigh ((boneless, skinless), cut into 3cm / 2.2\" cubes (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "plain yoghurt, ( full fat best (Greek is fine))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "6",
+      "unit": "cloves",
+      "name": "garlic (, minced (~1.5 tbsp))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh ginger (, grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garam masala ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "each salt, cumin, ground coriander, paprika (sweet, normal or smokey)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "cayenne pepper ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp oil ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "turmeric",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "garam masala ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "cardamom powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "(65ml)  vegetable oil ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  unsalted butter OR ghee",
+      "emoji": "🧈",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion, finely chopped ((brown, white or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh ginger (, grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "6",
+      "unit": "cloves",
+      "name": "garlic (, crushed or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "paprika ((not smoked))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1 2/3",
+      "unit": "cups",
+      "name": "(400ml)  tomato passata ((tomato puree))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1 2/3",
+      "unit": "cups",
+      "name": "(400ml)  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "100",
+      "unit": "ml",
+      "name": "(1/3 cup + 1 tbsp)  cream ((thickened or pure is fine))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp   unsalted butter OR ghee",
+      "emoji": "🧈",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Basmati rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 29
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine all ingredients except chicken in a bowl and mix. Add chicken and turn well to coat."
+    },
+    {
+      "order": 2,
+      "instruction": "Cover with cling wrap and leave in fridge to marinate overnight (3 hours minimum)."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 1 tbsp oil in a non stick pan over high heat until smoking. Add half the chicken and spread out. Leave for 2 minutes or until charred. Turn each piece and cook the other side until charred - don't worry if not cooked inside. (Note 4, also Video helpful here) Remove into bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Scrape out charred bits left in pan and discard. Add more oil if required and cook remaining chicken."
+    },
+    {
+      "order": 5,
+      "instruction": "Wipe skillet with paper towels (or do this part in a pot as you need a lid). Turn heat down to medium high."
+    },
+    {
+      "order": 6,
+      "instruction": "Add oil and butter. When butter is melted, add onions, ginger and salt."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook, stirring constantly to ensure it doesn't burn, until the ginger is starting to turn golden and the onions smell sweet, about 5 - 7 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Reduce the heat to medium. Add the garlic and paprika, and cook for 2 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Add the Curry Sauce Spices, and cook a further 2 minutes, stirring."
+    },
+    {
+      "order": 10,
+      "instruction": "Add tomato passata and water, and mix. Bring to a simmer, then cover and reduce heat to low."
+    },
+    {
+      "order": 11,
+      "instruction": "Simmer for 15 minutes, stirring occasionally."
+    },
+    {
+      "order": 12,
+      "instruction": "Pour curry into a bowl, then use a stick blender to puree until smooth (Note 5)."
+    },
+    {
+      "order": 13,
+      "instruction": "Return sauce to skillet. Add cream, sugar and butter. Stir to melt the butter."
+    },
+    {
+      "order": 14,
+      "instruction": "Add chicken, stir. Simmer for a few minutes until the chicken is cooked through."
+    },
+    {
+      "order": 15,
+      "instruction": "Optional: Sprinkle with a pinch of extra garam masala at the end."
+    },
+    {
+      "order": 16,
+      "instruction": "Serve over basmati rice, sprinkled with coriander/cilantro if desired. Try this No Yeast Flatbread as a quick naan!"
+    }
+  ]
+}

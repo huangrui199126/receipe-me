@@ -1,0 +1,270 @@
+{
+  "id": "tr_605",
+  "title": "Spinach Ricotta Stuffed Shells (Conchiglioni)",
+  "image": "https://www.recipetineats.com/tachyon/2023/03/Spinach-ricotta-stuffed-shells_4-SQ.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spinach-ricotta-stuffed-shells/",
+  "servings": 5,
+  "prepTime": 25,
+  "cookTime": 105,
+  "tags": [
+    "pasta shells",
+    "stuffed shells"
+  ],
+  "nutrition": {
+    "calories": 798,
+    "protein": 43.0,
+    "carbs": 69.0,
+    "fat": 39.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eschallots/shallots or 1 small onion (, finely chopped (Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bay leaf (, fresh (sub dried))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each dried thyme and oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 25 oz  tomato passata (US: tomato sauce) ((Note 2))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "Chardonnay or other dry white wine ((sub more stock))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "vegetable stock/broth (, low sodium)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/3",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   frozen chopped spinach (, thawed (Note 3))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   ricotta (, full fat please (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parmesan (, finely shredded)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded cheese ((Mozzarella, Colby, Cheddar, Tasty, Gruyere, Swiss, anything!))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Grated fresh nutmeg (just a sprinkling) ( or 1/8 tsp nutmeg powder (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz  jumbo pasta shells (conchiglioni) ((Note 3))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded mozzarella",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parmesan (, shredded)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh basil and parmesan (, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté - Heat oil in a small pot over medium high heat. Add garlic, onion, bay leaf, thyme and oregano. Cook for 3 - 4 minutes until the onion is translucent. Add tomato paste and cook for 1 minute."
+    },
+    {
+      "order": 2,
+      "instruction": "Reduce wine - Add wine, increase heat to high and let it simmer rapidly until mostly evaporated (about 2 minutes)."
+    },
+    {
+      "order": 3,
+      "instruction": "Simmer - Add passata, stock, sugar, salt and pepper. Stir then simmer on low *(uncovered) for 20 minutes. Use while hot."
+    },
+    {
+      "order": 4,
+      "instruction": "Squeeze spinach - Grab handfuls of spinach and squeeze out excess water."
+    },
+    {
+      "order": 5,
+      "instruction": "Mix filling - Place spinach in a bowl with remaining Filling ingredients. Mix well."
+    },
+    {
+      "order": 6,
+      "instruction": "Preheat oven to 200°C/400°F (180°C fan)."
+    },
+    {
+      "order": 7,
+      "instruction": "Stuff - Stuff UNCOOKED shells with spinach ricotta filling. Stuff them full!"
+    },
+    {
+      "order": 8,
+      "instruction": "Assemble - Pour the hot tomato sauce in a 23 x 33 cm / 9 x 13&quot; baking dish. Gently place the stuffed shells in - most will be submerged, some may poke above surface."
+    },
+    {
+      "order": 9,
+      "instruction": "Bake - Cover with a baking tray (or foil) then bake for 70 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Cheese it! Check the shells - they should be al dente! (If not, return to oven, covered). Sprinkle with mozzarella then parmesan. Bake 15 minutes until melted."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve, garnished with extra parmesan and basil if desired!"
+    }
+  ]
+}

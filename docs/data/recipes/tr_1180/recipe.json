@@ -1,0 +1,143 @@
+{
+  "id": "tr_1180",
+  "title": "Oven Fried Parmesan Baked Chicken Tenders",
+  "image": "https://www.recipetineats.com/tachyon/2016/06/Parmesan-Baked-Chicken-Tenders_3.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/oven-fried-parmesan-baked-chicken-tenders/",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 385,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "grated parmesan cheese (, store bought (Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "mayonnaise* ((I use whole egg mayonnaise))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1½",
+      "unit": "tbsp",
+      "name": "dijon mustard* ((or any other mustard of choice))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced*)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "plain flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt &amp; pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/1 lb   chicken tenderloins ((or chicken breast cut into ⅔\" / 1.5cm thick slices, lengthwise))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200C/390F."
+    },
+    {
+      "order": 2,
+      "instruction": "Spread panko breadcrumbs on a baking tray. Spray lightly with oil. Bake for 3 to 5 minutes or until LIGHT golden."
+    },
+    {
+      "order": 3,
+      "instruction": "Scrape into a bowl. Add parmesan and mix."
+    },
+    {
+      "order": 4,
+      "instruction": "In a separate bowl, whisk together Batter ingredients with a fork. Add chicken and mix to coat."
+    },
+    {
+      "order": 5,
+      "instruction": "Optional: Place a rack on the baking tray (Note 3)"
+    },
+    {
+      "order": 6,
+      "instruction": "Pick up chicken with left hand and place in breadcrumbs. Use right hand to sprinkle with breadcrumbs, press to adhere. Use right hand to transfer to baking tray. Repeat with remaining chicken. Spray lightly with oil."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake for 15 minutes for small tenders, 18 minutes for large ones. No longer than 20 minutes, otherwise they will begin to lose juiciness."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve immediately with Ranch or Honey Mustard Dip if desired (Note 4)."
+    }
+  ]
+}

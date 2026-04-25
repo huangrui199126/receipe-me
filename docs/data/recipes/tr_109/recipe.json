@@ -1,0 +1,235 @@
+{
+  "id": "tr_109",
+  "title": "Nachos Pie",
+  "image": "https://www.recipetineats.com/tachyon/2015/07/Nacos-Pie_600px_2a_Featured.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/nachos-pie/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 40,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 29.6,
+    "carbs": 27.3,
+    "fat": 22.8
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, diced (brown, yellow, white))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "13",
+      "unit": "oz",
+      "name": "/ 400 g   ground/mince beef ((use lean!))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "oz",
+      "name": "/ 28 g   packet Taco Seasoning OR make your own - see Note 1",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 24oz   tomato passata or pureed canned tomatoes ((Note 2))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "14",
+      "unit": "oz",
+      "name": "/ 400 g   canned red kidney beans ((or any other beans), drained)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 4  soft tortillas ((flour or corn) - for layering)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "grated cheese ((I used mozzarella, but any melting cheese is fine))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "oz",
+      "name": "/ 70 g   corn chips",
+      "emoji": "🌽",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  avocado (, diced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large tomato (, deseeded and diced (Note 3))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  spanish ((red) onion, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice ((fresh or bottled))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "fresh coriander leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the over to 350F/180C."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat the oil in a large skillet over high heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the garlic and onion, and cook until translucent."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the beef and cook, breaking up into pieces, until browned. Add the Taco Seasoning and pepper about halfway through browning the beef."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the tomato passata, water and beans. Cook for 5 minutes, stirring occasionally until thickened but still very saucy. Remove from heat."
+    },
+    {
+      "order": 6,
+      "instruction": "Lay a tortilla in a pie dish (24 cm / 9 inch diameter). Use a slotted spoon to top with just under 1/2 the meat. Try to avoid using too much sauce so sort of \"shake\" each spoonful to drain out sauce."
+    },
+    {
+      "order": 7,
+      "instruction": "Top with another tortilla + torn/cut pieces of another tortilla to cover completely."
+    },
+    {
+      "order": 8,
+      "instruction": "Top with the remaining meat, again avoiding the sauce."
+    },
+    {
+      "order": 9,
+      "instruction": "Top with remaining tortillas, then pour over all the sauce (and any residual meat)."
+    },
+    {
+      "order": 10,
+      "instruction": "Place in the oven and bake for 20 minutes. If you're worried about overspill, place it on a baking tray."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove from the oven, cover with corn chips then scatter with cheese. Bake until the chips are a bit golden and the cheese is melted - 10 to 15 minutes."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve, topped with Pico De Gallo and Sour Cream on the side, if using."
+    },
+    {
+      "order": 13,
+      "instruction": "Combine ingredients in a bowl. Toss and adjust salt/pepper to taste."
+    }
+  ]
+}

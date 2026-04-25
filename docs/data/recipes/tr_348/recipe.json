@@ -1,0 +1,156 @@
+{
+  "id": "tr_348",
+  "title": "Char Siu Pork - Chinese BBQ Pork",
+  "image": "https://www.recipetineats.com/tachyon/2018/05/Char-Siu-Chinese-Barbecue-Pork_9-SQ.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-barbecue-pork-char-siu/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 90,
+  "tags": [
+    "char siu",
+    "char siu pork",
+    "char siu sauce",
+    "chinese bbq pork"
+  ],
+  "nutrition": {
+    "calories": 438,
+    "protein": 48.0,
+    "carbs": 20.0,
+    "fat": 17.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "brown sugar ((white also ok))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "light soy sauce (, or all purpose soy (Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce (, just all purpose (or more light soy) (Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Chinese five spice powder ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil ((vegetable or canola) (Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "red food colouring (, optional (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.2 - 1.5kg / 2.4 - 3lb  pork scotch fillet (aka collar neck, pork neck) OR pork shoulder ((Note 5))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Extra Honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut pork in half to make two long strips. (Note 5)"
+    },
+    {
+      "order": 2,
+      "instruction": "Mix Marinade ingredients in a bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the pork and Marinade in a stain proof container or ziplock bag. Marinate 24 to 48 hours in the fridge (3 hours is the bare minimum)."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven to 160C/320F."
+    },
+    {
+      "order": 5,
+      "instruction": "Line a tray with foil and place a rack on top (recommended but not critical)."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove pork from the marinade, save Marinade. Place pork on rack."
+    },
+    {
+      "order": 7,
+      "instruction": "Roast for 30 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Meanwhile, pour reserved marinade in a saucepan. Mix Extra Honey into marinade. Bring to simmer over medium high and cook for 2 minutes until syrupy. Remove from heat."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove pork from oven. Dab marinade all over, then turn. Baste then roast for a further 30 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove pork from oven. Brush with marinade again, then turn, brush with marinade and roast for a further 20 minutes. If charring too quickly, cover with foil."
+    },
+    {
+      "order": 11,
+      "instruction": "Baste again on surface then bake for a further 10 minutes until caramelised and sticky. Meat should be tender but not falling apart, like with pulled pork. Allow to rest for 10 minutes before slicing."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve with rice and steamed Chinese greens. See notes for more uses!"
+    }
+  ]
+}

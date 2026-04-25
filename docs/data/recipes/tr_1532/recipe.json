@@ -1,0 +1,120 @@
+{
+  "id": "tr_1532",
+  "title": "Buckeye Fudge Ice Cream.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/09/Buckeye-Fudge-Ice-Cream-7.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/buckeye-fudge-ice-cream/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "buckeye",
+    "fudge",
+    "fudge ice cream",
+    "ice cream"
+  ],
+  "nutrition": {
+    "calories": 665,
+    "protein": 10.0,
+    "carbs": 47.0,
+    "fat": 54.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "heavy cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "can sweetened condensed milk (14)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "unsweetened cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "semi-sweet chocolate chips",
+      "emoji": "🍫",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of flaky sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "creamy peanut butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "butter (softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 cups powdered sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add the heavy cream, 7 ounces (about half the can) sweetened condensed milk, cocoa powder and vanilla to the bowl of a stand mixer fitted with the whisk attachment (or use a hand held electric mixer). Whip until stiff peaks form."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the remaining sweetened condensed milk and the chocolate chips in a microwave safe bowl and microwave on power level high for 30 seconds intervals, stirring after each interval until melted and smooth."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir in a pinch of salt."
+    },
+    {
+      "order": 4,
+      "instruction": "In a separate mixing bowl, beat together the peanut butter, butter, and powdered sugar until smooth. Roll the peanut butter mix into small marble size balls and then carefully stir them into the ice cream. You may not need to use all the peanut butter. Now gently swirl in the fudge sauce."
+    },
+    {
+      "order": 5,
+      "instruction": "Spoon the ice cream into a freezer safe container and freeze 4-6 hours or overnight."
+    }
+  ]
+}

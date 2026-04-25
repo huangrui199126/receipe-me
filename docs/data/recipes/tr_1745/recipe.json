@@ -1,0 +1,154 @@
+{
+  "id": "tr_1745",
+  "title": "Campfire Grilled S'more Calzone.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/05/Campfire-Grilled-S’more-Calzone-1.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/campfire-grilled-smore-calzones/",
+  "servings": 10,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "calzone",
+    "s'mores"
+  ],
+  "nutrition": {
+    "calories": 643,
+    "protein": 9.0,
+    "carbs": 65.0,
+    "fat": 7.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "warm water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "teaspoons",
+      "name": "active dry yeast",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "white whole wheat or whole pastry flour (may also use all-purpose flour)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "ground cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "batch of the above dough or 1 store bought pizza or pastry dough",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-4  Hershey's Milk Chocolate Bars",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  [homemade | https://www.halfbakedharvest.com/grilled-banana-bread-peanut-butter-smore-with-vanilla-marshmallows/] or store bought marshmallows",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "finely crushed graham crackers and powdered sugar (for dusting)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "vanilla ice cream (for serving)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large bowl, combine water, yeast and honey. Mix with a spoon, then let sit until foamy, about 10 minutes. Add in the 1 1/2 cups whole wheat flour, all-purpose flour, cinnamon, salt and olive oil, stirring with a spoon until the dough comes together but is still sticky. Using your hands, on a floured surface, form the dough into a ball and work the additional 1/2 cup flour into the dough if needed. All of the mixing and kneading can also be done in a stand mixer with the dough hook attachment. Next, rub the same bowl with olive oil, then place the dough inside, turning to coat. Cover with a towel and place in a warm place to rise for about 1 hour."
+    },
+    {
+      "order": 2,
+      "instruction": "Divide the dough in 10 equal size balls. Then either roll the dough out into a 6 inch circle or divide the balls into two and roll into 2 (3 1/2 inch) circles. Working on one side of the dough or with one dough round, add two pieces of chocolate. Flatten one marshmallow and place it on top of the chocolate. If desired add another two pieces of chocolate (I did). Now either take the top half of the dough and fold it over the filling or add the top round of dough. Crimp the edges of the dough to seal. At this point, the s'mores can be placed on a floured cookies sheet, covered and stored in the fridge overnight or until ready to cook."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat the grill to medium high heat or the oven to 375 degrees F."
+    },
+    {
+      "order": 4,
+      "instruction": "Brush the top and bottom of each s'more with melted butter. If baking the s'mores, line a cookie sheet with parchment and place the buttered s'mores on the baking sheet. Bake 15-20 minutes or until lightly golden."
+    },
+    {
+      "order": 5,
+      "instruction": "To grill, add the buttered s'mores to the grill and grill for 2-3 minutes per side."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve the s'mores warm, dusted with graham cracker crumbs, powdered sugar or even served with ice cream."
+    }
+  ]
+}

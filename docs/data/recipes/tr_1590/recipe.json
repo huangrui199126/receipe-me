@@ -1,0 +1,179 @@
+{
+  "id": "tr_1590",
+  "title": "Rocky Road Pudding Parfaits.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/04/Rocky-Road-Pudding-Parfaits-1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/rocky-road-pudding-parfaits/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "parfait",
+    "pudding",
+    "rocky road"
+  ],
+  "nutrition": {
+    "calories": 757,
+    "protein": 12.0,
+    "carbs": 53.0,
+    "fat": 45.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "whole milk or canned full-fat coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "ounces",
+      "name": "semi-sweet or dark chocolate (chopped)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "teaspoons",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "heavy whipping cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "powdered sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "roasted peanuts (chopped)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "roasted almonds (chopped)",
+      "emoji": "🥜",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "mini marshmallows",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "semi sweet chocolate chips",
+      "emoji": "🍫",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "cup",
+      "name": "vanilla (chocolate or chocolate peanut butter ice cream, for serving (optional))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "melted chocolate or hot fudge (for serving (optional))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a medium size sauce pan, combine the sugar, cocoa powder, pinch of salt and cornstarch and whisk until combined. Slowly pour in the milk, whisking until smooth. Place the pan over medium heat and bring to a low boil, whisking consistently. Cook for about 8-10 minutes or until the mixture has thickened and is pudding like. Remove from the heat and stir in the chopped chocolate and vanilla."
+    },
+    {
+      "order": 2,
+      "instruction": "Scoop about 3/4 cup of the pudding out into a separate bowl. Cover and place in the fridge to chill. Divide the remaining pudding between 4-6 parfait glasses. Cover and place in the fridge to chill."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, add the cream to a large mixing bowl. Using an electric mixer, whip the cream until soft peaks form. Add the powdered sugar and vanilla and whip until combined. Grab the reserved 3/4 cup chocolate pudding from the fridge. Fold the pudding into the whipped cream."
+    },
+    {
+      "order": 4,
+      "instruction": "Divide the whipped cream among each parfait glass."
+    },
+    {
+      "order": 5,
+      "instruction": "In a bowl, mix together the peanuts, almonds, marshmallows and chocolate chips. Sprinkle the rocky road evenly over top each parfait. Chill the parfaits, covered until ready to serve."
+    },
+    {
+      "order": 6,
+      "instruction": "To serve, top each parfaits with a scoop of ice cream and a drizzle of chocolate or fudge sauce. EAT!"
+    }
+  ]
+}

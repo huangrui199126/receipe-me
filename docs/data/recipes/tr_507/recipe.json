@@ -1,0 +1,155 @@
+{
+  "id": "tr_507",
+  "title": "Easy Broccoli Cheese Soup",
+  "image": "https://www.recipetineats.com/tachyon/2016/01/Broccoli-Cheese-Soup_2-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easy-broccoli-cheese-soup/",
+  "servings": 5,
+  "prepTime": 5,
+  "cookTime": 25,
+  "tags": [
+    "broccoli cheddar soup",
+    "broccoli soup",
+    "cream of broccoli soup"
+  ],
+  "nutrition": {
+    "calories": 366,
+    "protein": 15.0,
+    "carbs": 24.0,
+    "fat": 25.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "(15g)  butter ((or olive oil))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, diced (brown, white yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "(1 litre)  chicken broth / stock (, low sodium (or veg stock))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 1.4lb  broccoli florets ((2 large broccoli + diced peeled stem, Note 1))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  potatoes (, peeled and diced into 1.5cm / 2/3&quot; cubes)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "cheddar cheese (, shredded (or other cheese of choice))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "cream (or milk)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cream, for drizzling",
+      "emoji": "🥛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra grated cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt butter in a large pot over medium high heat. Add onion and garlic, saute for 2 minutes until onion is softened."
+    },
+    {
+      "order": 2,
+      "instruction": "Add broth/ water, broccoli, potato, salt and pepper. Bring to simmer, then place the lid on, turn the heat down to medium high and cook for 20 minutes or until the broccoli is soft."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn stove off (but leave on stove). Puree using a stick blender until smooth (Note 2)."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir in cream, then add cheese a handful at a time, stirring in between to melt."
+    },
+    {
+      "order": 5,
+      "instruction": "Taste and add more salt if desired."
+    },
+    {
+      "order": 6,
+      "instruction": "Ladle into bowls. Drizzle with cream and top with extra grated cheese, if desired."
+    }
+  ]
+}

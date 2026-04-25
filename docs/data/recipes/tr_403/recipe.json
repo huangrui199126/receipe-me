@@ -1,0 +1,221 @@
+{
+  "id": "tr_403",
+  "title": "Puttanesca Fish Tray Bake",
+  "image": "https://www.recipetineats.com/tachyon/2025/05/Puttanesca-fish-tray-bake-shoot-1_3.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/puttanesca-fish-tray-bake/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 45,
+  "tags": [
+    "baked fish",
+    "fish tray bake",
+    "sheet pan dinner",
+    "sheet pan fish recipe",
+    "tray bake dinner"
+  ],
+  "nutrition": {
+    "calories": 433,
+    "protein": 36.0,
+    "carbs": 42.0,
+    "fat": 15.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "600g/1.2 lb  baby potatoes (, smaller ones up to 3.5cm/1.5\" halved, larger ones quartered (Note 1))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium fennel (, fronds reserved for garnish, halved, cut into 0.5cm / 0.2&quot; half moon shapes (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(200g)  cherry or grape tomatoes ((1 punnet))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "pitted kalamata olives",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, finely minced (can use garlic crusher))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "baby capers ((or regular, roughly chopped))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  anchovy fillets (, finely minced - can reduce to 1 (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/ 14oz  canned tomato (, crushed or diced)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "chilli flakes ((red pepper flakes), mild spiciness, can reduce or omit)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried organo",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 x 160 - 180g / 6oz  barramundi fillets (, skinless, or other firm fish fillets about 2.5/3cm/1&quot; thick (Note 4))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 loosely packed cup basil leaves (, roughly chopped (recommended but can live without or sub with 2 tbsp roughly chopped parsley))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Warm crusty bread (, for mopping)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 20
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/390°F (200°C fan-forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Roast potatoes: In a large mixing bowl, toss the potatoes with the oil, salt and pepper. Spread on a baking tray with a rim at least 2cm/0.8&quot; high (or 23x33cm / 9x13&quot; pan). Roast for 20 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Puttanesca sauce: Meanwhile, mix all the sauce ingredients together (use the potato bowl, no need to clean). Add to the tray, toss with the potatoes, return to the oven for 10 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Season fish: Pat the fish dry with paper towels. Sprinkle each side with the salt and pepper."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake fish: Place fish on top of puttanesca sauce. Drizzle all over with the 1 1/2 tablespoons of oil. Bake 15 minutes or until fish is just cooked through (it should flake easily)."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve: Remove from the oven. Drizzle with a bit more olive oil, scatter with basil and reserved fennel fronds. Serve with warm, crusty bread!"
+    }
+  ]
+}

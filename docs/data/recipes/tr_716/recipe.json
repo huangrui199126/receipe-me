@@ -1,0 +1,190 @@
+{
+  "id": "tr_716",
+  "title": "Mediterranean Savoury Muffins",
+  "image": "https://www.recipetineats.com/tachyon/2019/09/Mediterranean-Savoury-Muffins_8.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mediterranean-savoury-muffins/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [
+    "cheese muffins",
+    "savoury muffins"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 10.0,
+    "carbs": 25.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Butter or oil spray (, for greasing)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(200g)  cheddar cheese (, shredded (or other cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "75",
+      "unit": "g",
+      "name": "/ 2.5oz  feta (, crumbled*)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "green olives slices (*)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sun-dried tomatoes strips (*)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "roasted peppers (*, drained and chopped (capsicum))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "green onions (*, sliced )",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(300g)  flour ((plain / all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking soda  (/ bi-carb soda (sub 1 1/2 tsp baking powder))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg ((large, about 60g / 2 oz))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(250 ml)  milk ((full or low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(60g)  sour cream (or plain yoghurt (Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(60ml)  vegetable oil ( (or any plain flavoured oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (160°C/320°F fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Brush a 12 hole standard muffin tin generously with butter"
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk Dry ingredients in a bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Whisk Wet ingredients in a separate bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Pour Wet into the Dry ingredients bowl. Mix 8 times."
+    },
+    {
+      "order": 6,
+      "instruction": "Add cheese, feta, sun dried tomato, capsicum, olives and green onion. Mix as few times as possible just to incorporate remaining bits of flour - no more than 7 big stirs (secret to soft muffs)."
+    },
+    {
+      "order": 7,
+      "instruction": "Divide between 12 holes in muffin in (I use an ice cream scooper). Batter should be thick and fill muffin tin slightly mounded (see video)"
+    },
+    {
+      "order": 8,
+      "instruction": "Bake for 25 minutes or until the muffins are golden and crusty and spring back when touched in the centre."
+    },
+    {
+      "order": 9,
+      "instruction": "Cool for 10 minutes, then transfer to cooling rack. Serve warm for optimum experience!"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "tr_516",
+  "title": "Firecracker Beef",
+  "image": "https://www.recipetineats.com/tachyon/2022/11/Firecracker-beef-mince_2-2.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spicy-firecracker-beef/",
+  "servings": 4,
+  "prepTime": 3,
+  "cookTime": 10,
+  "tags": [
+    "beef mince recipe",
+    "spicy beef"
+  ],
+  "nutrition": {
+    "calories": 326,
+    "protein": 26.0,
+    "carbs": 13.0,
+    "fat": 18.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1½",
+      "unit": "tbsp",
+      "name": "oil ((vegetable, canola, peanut))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  beef mince / ground beef ((Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "chilli flakes / red pepper flakes ((adjust to your taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "soy sauce (, light or all-purpose (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "rice vinegar ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "sriracha sauce ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "brown sugar ((tightly packed))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rice,  (soba or vermicelli noodles)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Diced cucumber, julienned carrot, finely sliced red radish",
+      "emoji": "🥕",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra sriracha sauce (, if you dare!)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauce: Mix Firecracker sauce ingredients in a small bowl and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook beef: Heat oil in a large frypan over high heat. Add beef and cook, breaking it up as you go, until you can no longer see raw meat (2½ minutes). Add garlic and chilli flakes and cook for 1 minute."
+    },
+    {
+      "order": 3,
+      "instruction": "Caramelise beef: Add Firecracker sauce ingredients, stir to coat the beef. Cook for 5 to 7 minutes, stirring only every minute or so initially, then more towards the end, until the sauce reduces and you can see the beef caramelising. Caramelise well for good flavour!"
+    },
+    {
+      "order": 4,
+      "instruction": "Water: Add the water and cook for 1 minute (the water makes the beef saucier!)"
+    },
+    {
+      "order": 5,
+      "instruction": "Serve over rice, sprinkled with sesame seeds, green onion and a squirt of extra sriracha if you&#39;re feeling brave! Add a pile of vegetables of choice on the side. Dive in!"
+    }
+  ]
+}

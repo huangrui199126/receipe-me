@@ -1,0 +1,127 @@
+{
+  "id": "tr_1769",
+  "title": "Island Mango Goji Berry Sunrise Smoothie.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/03/Island-Mango-Goji-Berry-Sunrise-Smoothie-5.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/island-mango-goji-berry-sunrise-smoothie/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "goji berry",
+    "mango",
+    "smoothie"
+  ],
+  "nutrition": {
+    "calories": 438,
+    "protein": 6.0,
+    "carbs": 49.0,
+    "fat": 22.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cups",
+      "name": "fresh or frozen mango (peeled + roughly chopped, about 1 1/2)",
+      "emoji": "🥭",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "fresh orange juice + 1-2 teaspoons orange zest",
+      "emoji": "🍊",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "chia seeds (optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  ripe banana (frozen if possible)",
+      "emoji": "🍌",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "almond or coconut milk (more if needed)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "fresh or frozen raspberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "fresh or frozen strawberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "half a small raw beet (cut into chunks (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "goji berries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "fresh ginger (grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a blender, combine the mango chunks, 1/2 cup orange juice and the orange zest. Add half of the banana. Blend until smooth, adding more orange juice if needed. Once smooth, add the chia seeds and blend until just mixed. Careful you don't want to grind the chia seeds into the drink. Pour the mango smoothie into a glass measuring cup."
+    },
+    {
+      "order": 2,
+      "instruction": "In the same blender (no need to clean it), add the remaining banana half, raspberries, strawberries, beets (if using) goji berries, ginger and vanilla. Add the almond or coconut milk and blend until smooth, adding more milk if needed."
+    },
+    {
+      "order": 3,
+      "instruction": "Pour the red smoothie into two glasses. Pour the mango smoothie over top of the the raspberry-goji smoothie and use a long spoon to mix them together - just a little. Drink up!"
+    }
+  ]
+}

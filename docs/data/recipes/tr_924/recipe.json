@@ -1,0 +1,195 @@
+{
+  "id": "tr_924",
+  "title": "Chickpea Lamb Shawarma Soup",
+  "image": "https://www.recipetineats.com/tachyon/2017/12/Chickpea-Lamb-Shawarma-Soup-4.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lamb-shawarma-chickpea-soup/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 458,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "EACH cumin powder, coriander, paprika",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cardamon powder ((can omit if you don’t have))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "¼",
+      "unit": "tsp",
+      "name": "cinnamon powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "tsp",
+      "name": "cayenne pepper ((adjust to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   lamb mince ((ground lamb, or beef) (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  carrots (, peeled and chopped (about size of chickpeas))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 21 oz   canned chickpeas (, drained and rinsed (1.5 standard cans, Note 2))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz   can crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "/ 750 ml   chicken broth / stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "spinach (, roughly chopped (about 4 packed cups) (wilts a lot))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Plain yoghurt ((or sour cream))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped fresh coriander / cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large pot over high heat. Add garlic and onion, cook for 1 minute until starting to turn translucent."
+    },
+    {
+      "order": 2,
+      "instruction": "Add lamb and cook, breaking it up as you go. When it has mostly turned from pink to light brown, add spices."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook for 1 minute, then add tomato paste and cook for another 1 minute. (It smells amazing!)"
+    },
+    {
+      "order": 4,
+      "instruction": "Add carrots, chickpeas, tomato and broth. Stir and bring to simmer."
+    },
+    {
+      "order": 5,
+      "instruction": "Cover with lid, lower heat so it is bubbling energetically but not crazy rapidly. Cook for 10 minutes until carrot is tender but not super soft – I like it to have a bit of bite still, if you want super soft, keep cooking."
+    },
+    {
+      "order": 6,
+      "instruction": "Stir through spinach. Once wilted, adjust salt, pepper and spiciness (cayenne) to taste, and water if you want more liquid."
+    },
+    {
+      "order": 7,
+      "instruction": "Ladle into bowls, add a dollop of yoghurt and a generous sprinkling of coriander. Enjoy!"
+    }
+  ]
+}

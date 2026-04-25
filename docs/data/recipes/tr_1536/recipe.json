@@ -1,0 +1,144 @@
+{
+  "id": "tr_1536",
+  "title": "Grilled Tomato, Fig and Prosciutto Pizza.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/08/Grilled-Tomato-Fig-and-Prosciutto-Pizza-1.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/grilled-tomato-fig-prosciutto-pizza/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "fig",
+    "pizza",
+    "prosciutto",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 569,
+    "protein": 26.0,
+    "carbs": 87.0,
+    "fat": 37.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "homemade or store bought pizza dough (at room temperature)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "kosher salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "handful",
+      "name": "fresh basil (roughly torn + more for serving)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded cheddar cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4.4",
+      "unit": "ounces",
+      "name": "Castello Traditional Danish Blue Cheese (crumbled)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  heirloom tomatoes and or mixed cherry tomatoes (sliced)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  fresh figs (halved or quartered)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "ounces",
+      "name": "thinly sliced prosciutto",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  handfuls fresh arugula",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "honey (for drizzling)",
+      "emoji": "🍯",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "balsamic vinegar (for drizzling)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the grill to high."
+    },
+    {
+      "order": 2,
+      "instruction": "Divide your pizza dough into 2 balls. On a floured surface, push/roll the dough out into a circle."
+    },
+    {
+      "order": 3,
+      "instruction": "Once the grill is hot, carefully rub the rolled out pizza dough with olive oil. Transfer the"
+    },
+    {
+      "order": 4,
+      "instruction": "pizza dough to the grill. Grill for 2-3 minutes or until lightly charred. Flip and drizzle the dough lightly with more olive oil. Sprinkle with salt + pepper and a pinch of crushed red pepper flakes. Add the chopped basil, then sprinkle on the cheddar cheese and blue cheese evenly over the dough."
+    },
+    {
+      "order": 5,
+      "instruction": "Cover the grill and grill another 3-4 minutes or until the cheese has melted. Remove from the grill and place on a serving board. Layer the fresh tomatoes over the cheese. Sprinkle the tomatoes lightly with salt + pepper. Add the prosciutto, figs and arugula + a handful of fresh basil. Drizzle the pizza with honey and balsamic."
+    }
+  ]
+}

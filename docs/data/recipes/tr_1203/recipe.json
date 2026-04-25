@@ -1,0 +1,189 @@
+{
+  "id": "tr_1203",
+  "title": "Texan BBQ Candied Nuts",
+  "image": "https://www.recipetineats.com/tachyon/2025/07/Texan-BBQ-candied-nuts_9-close-up.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/texan-bbq-candied-nuts/",
+  "servings": 8,
+  "prepTime": 5,
+  "cookTime": 25,
+  "tags": [
+    "bar snacks",
+    "candied nuts",
+    "party nuts",
+    "roasted nuts",
+    "sweet and spicy nuts"
+  ],
+  "nutrition": {
+    "calories": 359,
+    "protein": 8.0,
+    "carbs": 21.0,
+    "fat": 29.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "pecans",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "almonds (, raw unsalted (or toasted))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cashews (, raw, unsalted (toasted ok too))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((halve for table salt, increase by 50% for flakes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "25",
+      "unit": "g",
+      "name": "/ 1 1/2 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "white sugar ((Note 3))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "chipotle ((slightly spicy, can sub with 3/4 tsp extra smoked paprika))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "coriander powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cayenne pepper (, optional (for more spicy!))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sea salt flakes (, for extra salt to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Simmer candied coating 2 min, toss with nuts, bake 20 min at 180°C/350°F (160°C fan), tossing halfway. Break up while warm, fully cool. Attack!"
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan-forced). Line a large tray with foil then baking paper (parchment)."
+    },
+    {
+      "order": 3,
+      "instruction": "Nuts - Put the nuts in a bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Candied coating - Put the butter in a small saucepan over medium heat. Once mostly melted, add all the remaining candied coating ingredients. Stir, then once it comes to a simmer, reduce stove to medium low so it&#39;s simmering gently for 2 minutes, stirring regularly so it doesn’t catch."
+    },
+    {
+      "order": 5,
+      "instruction": "Toss - Pour over the nuts, toss well - take about 30 seconds, use a rubber spatula. It should be quite thick and coat the nuts well, no runny caramel pooling at bottom of bowl."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake - Spread on tray, bake for 20 minutes, tossing well at the halfway mark, until the nuts are deep golden. There should be hardly any candy coating liquid left on the tray."
+    },
+    {
+      "order": 7,
+      "instruction": "Break up - Cool undisturbed on the tray for 10 minutes then break it up while still warm (separates better). Then leave to fully cool on the tray - the candy coating will fully harden (about 30 minutes). (Note 4 if nut surface is not shiny smooth)"
+    },
+    {
+      "order": 8,
+      "instruction": "Uses - Serve in bowls for snacking (brilliant bar snack), fill jars for gifting, add to platters, chop and sprinkle on salads. Adding a sprinkle of sea salt is a nice finishing touch."
+    }
+  ]
+}

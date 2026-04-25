@@ -1,0 +1,90 @@
+{
+  "id": "tr_1335",
+  "title": "Lemon Curd",
+  "image": "https://www.recipetineats.com/tachyon/2025/12/Lemon-curd_7.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lemon-curd/",
+  "servings": 160,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "easy lemon curd",
+    "lemon curd recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "caster sugar ((superfine sugar) - or regular / granulated sugar)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon zest",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  egg yolks ((from the eggs used in the meringue))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "(3 1/2 tbsp)  unsalted butter (, cut into 1 cm / 1/2&quot; cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of  salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rub the sugar and zest together using your fingers in a small bowl (brings out lemon flavour)."
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk – Put the lemon sugar in a small saucepan with the egg yolks and whisk to combine (use a small whisk). Add lemon juice, butter and salt, then mix. Place on the stove over medium heat (or medium low, if your stove is strong)."
+    },
+    {
+      "order": 3,
+      "instruction": "Thicken - Whisk every now and then as the butter is melting then constantly (but leisurely) once the butter is melted. When you see the first bubble (~3 to 4 minutes), whisk for 1 minute, then remove off the stove. It should have a custard like consistency - if not, keep cooking."
+    },
+    {
+      "order": 4,
+      "instruction": "Cool – Pour into a small bowl (strain, if you see little egg lumps). Immediately cover with cling wrap touching the surface. Cool on the counter for 30 minutes then refrigerate for 1 hour before using."
+    }
+  ]
+}

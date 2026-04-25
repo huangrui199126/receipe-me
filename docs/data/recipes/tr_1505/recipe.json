@@ -1,0 +1,138 @@
+{
+  "id": "tr_1505",
+  "title": "Spaghetti and Meatballs.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/12/Spaghetti-and-Meatballs-7.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/spaghetti-and-meatballs/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [
+    "meatballs",
+    "spaghetti"
+  ],
+  "nutrition": {
+    "calories": 473,
+    "protein": 19.0,
+    "carbs": 10.0,
+    "fat": 20.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "lean ground sirloin",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "bread crumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "grated parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of crushed red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "kosher salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  jar marinara sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "mozzarella (shredded)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "whole wheat pasta or spaghetti squash (for serving)",
+      "emoji": "🍝",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 450 degrees F. Grease a 9x13 inch baking dish with olive oil."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix together the ground sirloin, bread crumbs, parmesan cheese, parsley, dried oregano, crushed red pepper, salt, pepper, olive oil and egg to a mixing bowl until just combined."
+    },
+    {
+      "order": 3,
+      "instruction": "Coat your hands with a bit of olive oil, and roll the meat into 2 tablespoon size balls (will make 10-12 meatballs). Place the meatballs in the prepared baking dish and place in the oven. Bake for 15 minutes or until the meatballs are crisp on the outside, but not yet cooked through on the inside. Add the mozzarella cheese and continue cooking another 15-20 minutes or until the meatballs are cooked through."
+    },
+    {
+      "order": 4,
+      "instruction": "To make a Giant meatball, form the meat mixture into and oval and place in the prepared baking dish. Transfer to the oven and bake for 35-45 minutes or until the meat is cooked through. During the last 10 minutes of cooking, add the cheese. Serve with pasta and marinara."
+    }
+  ]
+}

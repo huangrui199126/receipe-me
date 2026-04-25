@@ -1,0 +1,135 @@
+{
+  "id": "tr_990",
+  "title": "Ham and cheese omelette",
+  "image": "https://www.recipetineats.com/tachyon/2023/06/Ham-and-cheese-omelette_1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/ham-and-cheese-omelette/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "ham and cheese omelette",
+    "how to make an omelette",
+    "omelette"
+  ],
+  "nutrition": {
+    "calories": 595,
+    "protein": 35.0,
+    "carbs": 2.0,
+    "fat": 49.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs (, ~55g/2oz each (fridge cold fine))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt ((that&#39;s all you need))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cream ((or milk), optional (Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 tbsp/ 15 g  unsalted butter ((or 2 tsp extra virgin olive oil))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "chopped ham ((I use store bought, Note 2))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/3 - 1/2 cup shredded colby cheese (, use box grater (or cheddar, tasty, gruyere, Monterey Jack - Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  stem chive (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Garlic butter roasted mushrooms",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Roasted cherry tomatoes ((on vine, Note 4))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Toast",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat control - If at any stage your omelette is cooking too fast, remove the pan off the stove to let it cool down and lower the heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk the eggs, salt and cream in a bowl for 10 seconds until slightly foamy."
+    },
+    {
+      "order": 3,
+      "instruction": "Warm ham - Melt 1/3 of the butter in a 24cm/9.5&quot; non-stick pan (or thereabouts, Note 5) over medium heat until foamy. Swirl/spread to coat the base, then cook ham using a rubber spatula for 90 seconds until warmed through. Remove into bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Semi-scramble eggs - Melt and swirl remaining butter in the pan. Give the eggs a quick whisk then pour into the pan. Leave for 15 seconds or until the very edges set, then do long leisurely strokes around and across the pan to scrape up cooked egg and let the raw egg run onto the base. Continue for 30 seconds or so until the egg is partially cooked. GOAL: wet enough to spread like jam, but not so wet that the egg runs when you tilt the pan."
+    },
+    {
+      "order": 5,
+      "instruction": "Spread the egg evenly across the pan (no need to be meticulous). Top half with cheese, then ham. (By this time, the omelette should be almost cooked through but still shiny/custardy on the surface)."
+    },
+    {
+      "order": 6,
+      "instruction": "Loosen the naked side then fold over using 2 rubber spatulas. Leave in the pan for another 30 seconds to melt the cheese and finish cooking inside."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve - Slide or flip onto a plate and serve! Sprinkle with chives if desired."
+    }
+  ]
+}

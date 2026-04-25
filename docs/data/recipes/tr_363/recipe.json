@@ -1,0 +1,299 @@
+{
+  "id": "tr_363",
+  "title": "Sweet and Sour Pork",
+  "image": "https://www.recipetineats.com/tachyon/2020/08/Sweet-and-Sour-Pork_7-SQ.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sweet-and-sour-pork/",
+  "servings": 5,
+  "prepTime": 20,
+  "cookTime": 30,
+  "tags": [
+    "crispy chinese pork",
+    "crispy pork",
+    "sweet and sour pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/14oz  pork scotch roast (aka pork neck, collar butt) or shoulder / butt, (cut into 2cm / 4/5&quot; cubes (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely grated (Note 2a))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic (, finely grated (Note 2a))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ginger (, finely grated (Note 2a))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/8",
+      "unit": "tsp",
+      "name": "baking soda (bi-carb) ((Note 2b))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cornflour/cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "light soy sauce (, or all purpose (Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "cornflour/cornstarch ( - for mixing in)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cornflour/cornstarch ( - for Coating)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 cups vegetable or canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "apple cider vinegar ((or 1/4 cup normal white vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "pineapple juice ((from a 227g/8oz can pineapple pieces in juice, preferably no added sugar, Note 4))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "ketchup ((or Aussie tomato sauce))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce (, light)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Oyster Sauce ((Note 5))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "cornflour/corn starch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger (, finely chopped)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion ((medium), cut into 2.5cm/ 1\" cubes (brown, white, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red capsicum/bell pepper ((large), cut into 2.5cm / 1\" cubes)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  green capsicum/bell pepper ((large), cut into 2.5cm /  1\" cubes)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "pineapple pieces ((from the can of pineapple under Sauce))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Pork with Marinade. Marinade 18 to 24 hours. (See Note 1 for marinating time for other cuts)"
+    },
+    {
+      "order": 2,
+      "instruction": "Rack &amp; warm oven: Preheat oven to 80°C/175°F and place rack on tray - to keep pork warm."
+    },
+    {
+      "order": 3,
+      "instruction": "Sauce: Place all Sauce ingredients EXCEPT water in a large jug or small bowl. Mix until combined, then mix in water."
+    },
+    {
+      "order": 4,
+      "instruction": "Be Stir Fry Ready: Have all ingredients lined up, ready to toss in. After Fry #2, things move quickly."
+    },
+    {
+      "order": 5,
+      "instruction": "Coating #1: Mix 5 tablespoons cornflour into the pork and leave for 5 minutes. At first, it will be white from the cornflour, but after a while it will sweat and make the cornflour (mostly / partially) wet, and will be sticky (this is key for coating to stick)."
+    },
+    {
+      "order": 6,
+      "instruction": "Coating #2: Spread 1/2 cup cornflour in a shallow bowl. Coat pork, shaking off excess, and pile onto a plate."
+    },
+    {
+      "order": 7,
+      "instruction": "Reserve cornflour in case you need to dust again just prior to frying. Pork should be at least half white when you put it into the oil (if not, just sprinkle with reserved cornflour)."
+    },
+    {
+      "order": 8,
+      "instruction": "Heat oil: Pour enough oil into a large saucepan or small pot so it&#039;s 2.5cm / 1&quot; deep. Heat to 180°C/350°F (or until pork immediately starts sizzling when you dip it in)."
+    },
+    {
+      "order": 9,
+      "instruction": "Fry #1: Cook pork in batches, being sure not to crowd the pot, for 3 minutes until golden. Drain on rack. This step is just to cook the pork. It takes me 4 batches."
+    },
+    {
+      "order": 10,
+      "instruction": "Fry #2: Turn the stove up slightly and heat oil to 200°C/390°F. Starting with the coolest pork, add half the pork (you can crowd the pot) and cook for 1 1/2 minutes, or until pork is deep golden brown and crispy. Transfer to rack, repeat with remaining pork - I do 2 batches."
+    },
+    {
+      "order": 11,
+      "instruction": "Keep warm in oven."
+    },
+    {
+      "order": 12,
+      "instruction": "Heat oil in a very large skillet over high heat."
+    },
+    {
+      "order": 13,
+      "instruction": "Add garlic, ginger and onion, stir for 1 1/2 minutes. Add capsicum and stir for 2 minutes."
+    },
+    {
+      "order": 14,
+      "instruction": "Add Sauce &amp; pinapple, then let it come to a rapid simmer. Simmer for 2 minutes until it thickens - when you drag the spoon across the base, a path should briefly appear (see video at 1 min 53 s)."
+    },
+    {
+      "order": 15,
+      "instruction": "10 second toss: Add pork, then QUICKLY toss to coat - aim for 10 seconds!"
+    },
+    {
+      "order": 16,
+      "instruction": "Serve asap! Pour onto serving plate, serve immediately! Will stay crispy for around 5 minutes then starts softening but still has a solid coating. This is just the reality of Sweet and Sour Pork, even at restaurants!"
+    }
+  ]
+}

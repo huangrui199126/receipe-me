@@ -1,0 +1,166 @@
+{
+  "id": "tr_1063",
+  "title": "Molten Chocolate Cakes",
+  "image": "https://www.recipetineats.com/tachyon/2021/02/Chocolate-Lava-Cake_7-SQ.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/molten-chocolate-cakes/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "lava cake",
+    "molten chocolate cake"
+  ],
+  "nutrition": {
+    "calories": 695,
+    "protein": 8.0,
+    "carbs": 58.0,
+    "fat": 48.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "dark chocolate chips or melts/ semi sweet chocolate chips ((Note 1))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "cream (, heavy/thickened)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dark chocolate chips or melts/ semi sweet chocolate chips ((Note 1))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 7 tbsp  unsalted butter (, cut into 1cm / ½&quot; cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (, at room temperature)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  egg yolks (, at room temperature (Note 2))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "caster/superfine sugar ((sub ordinary white sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Ice-cream or cream ((highly recommended!))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cocoa or icing sugar / powdered sugar (, for dusting)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Strawberries (, raspberries or edible flowers, optional decoration)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place chocolate and cream in a microwave-proof bowl. Microwave on high for three 20-second bursts, stirring in between, until chocolate is melted and smooth."
+    },
+    {
+      "order": 2,
+      "instruction": "Let cool on the counter for 10 minutes, then refrigerate for 3 hours or until firm enough to scoop into balls. (Note 3)"
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 200°C / 390°F (180°C fan)."
+    },
+    {
+      "order": 4,
+      "instruction": "Grease &amp; dust moulds: Grease 4 x 170ml / 5.75oz dariole or pudding moulds with butter then dust insides with cocoa powder, tapping out excess. (Note 4)"
+    },
+    {
+      "order": 5,
+      "instruction": "Melt chocolate and butter: Place chocolate and butter in a bowl. Microwave in 30 second bursts, stirring in between. Stir well until smooth, then leave to cool for 5 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Whisk eggs and sugar: In a separate bowl, whisk together the eggs, egg yolks and sugar."
+    },
+    {
+      "order": 7,
+      "instruction": "Combine with chocolate: Add the melted chocolate into the eggs, and mix until combined."
+    },
+    {
+      "order": 8,
+      "instruction": "Fold through flour: Add flour and fold through until just combined. Do not over-mix."
+    },
+    {
+      "order": 9,
+      "instruction": "Fill moulds: Pour or scoop the batter into prepared moulds until it reaches ⅓ of the way up."
+    },
+    {
+      "order": 10,
+      "instruction": "Drop in ganache: Place one generously-heaped teaspoon of ganache into middle of batter. Top with more batter until it reaches 1.5cm / ⅗&quot; from the top rim. Repeat for remaining moulds."
+    },
+    {
+      "order": 11,
+      "instruction": "Bake 20 minutes: Place the moulds on an oven tray and bake for 20 minutes, or until the pudding tops spring back when gently touched."
+    },
+    {
+      "order": 12,
+      "instruction": "Turn out: Stand for 2 minutes, then turn onto plate. Tap base then gently remove each mould."
+    },
+    {
+      "order": 13,
+      "instruction": "Serve with ice-cream or cream, dusted with cocoa powder. Decorate with strawberries!"
+    }
+  ]
+}

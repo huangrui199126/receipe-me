@@ -1,0 +1,135 @@
+{
+  "id": "tr_120",
+  "title": "Chicken Meatloaf Wellington with Sun Dried Tomatoes",
+  "image": "https://www.recipetineats.com/tachyon/2015/09/Chicken-Meatloaf-Wellington_680px_1.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-meatloaf-wellington-with-sun-dried-tomatoes/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 40,
+  "tags": [],
+  "nutrition": {
+    "calories": 444,
+    "protein": 32.7,
+    "carbs": 25.9,
+    "fat": 23.1
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, grated (about 1/2 cup))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500 g   ground chicken ((mince) (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "panko breadcrumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "parmesan cheese (, finely grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "fresh basil (, roughly chopped (Note 2))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "roughly chopped sun dried tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "sheet",
+      "name": "puff pastry (, thawed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg (, lightly beaten (optional) (Note 3))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F. Line a baking tray with parchment paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the Filling ingredients in a bowl and use your hands to mix together. It should be quite soft and wet, not dry and crumbly."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the filling onto the puff pastry. Shape into a loaf and roll the puff pastry up, ending with the seam side down."
+    },
+    {
+      "order": 4,
+      "instruction": "Transfer to baking tray. Cut a few diagonal slashes across the top."
+    },
+    {
+      "order": 5,
+      "instruction": "Brush with egg wash and bake for 35 to 40 minutes, or until the pastry is deep golden brown. Turn the tray at around 25 minutes for even browning."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from the oven. Rest for 5 minutes before serving."
+    }
+  ]
+}

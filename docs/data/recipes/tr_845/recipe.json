@@ -1,0 +1,151 @@
+{
+  "id": "tr_845",
+  "title": "Spicy Thai Chicken Stir Fry",
+  "image": "https://www.recipetineats.com/tachyon/2016/11/Spicy-Thai-Chicken-Stir-Fry_2.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spicy-thai-chicken-stir-fry/",
+  "servings": 3,
+  "prepTime": 7,
+  "cookTime": 8,
+  "tags": [],
+  "nutrition": {
+    "calories": 427,
+    "protein": 49.6,
+    "carbs": 6.6,
+    "fat": 21.5
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "light soy sauce ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dark soy sauce ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cooking oil ((I use peanut or vegetable oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  Thai or birds eye chillis or other small hot red chilli (, finely chopped (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, halved and sliced (brown, white or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   ground / mince chicken",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  shallot / scallions stems (, chopped into slices)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "coriander/cilantro leaves ((loosely packed))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Steamed jasmine rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Sauce ingredients in a small bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a wok or heavy based skillet over high heat. Add garlic and chilli - cook for 15 seconds."
+    },
+    {
+      "order": 3,
+      "instruction": "Add onion and cook for 45 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Add chicken and cook, breaking it up as you go. When it changes from pink to white, add Sauce. Cook until the liquid mostly disappears - about 2 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Stir through shallots. Then stir through coriander and immediately take off the heat."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve immediately with jasmine rice or other rice - or for a low carb, low cal option, try Cauliflower Rice! Add slices of cucumber and tomato wedges (very authentic Thai!). Garnish with extra chilli and coriander if desired."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "tr_632",
+  "title": "Supreme Soy Noodles",
+  "image": "https://www.recipetineats.com/tachyon/2022/05/Supreme-Soy-Noodles_1-SQ.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/supreme-soy-noodles/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 315,
+    "protein": 8.0,
+    "carbs": 45.0,
+    "fat": 12.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  fresh yellow or white noodles (, medium thickness (see Note 1))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil ((vegetable, canola, or peanut))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  green onions (, ends trimmed, cut into 7cm / 2.5” lengths, white parts separated from green parts)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil ((toasted sesame oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "light soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dark soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oyster sauce ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "mirin ((Note 4 for subs))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Sauce ingredients in a small bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook noodles per packet directions (see cooking tip in Notes). Drain and give it a quick rinse under tap water to stop them sticking together as they sit."
+    },
+    {
+      "order": 3,
+      "instruction": "Sauté garlic - Heat oil in a large deep non-stick skillet or wok over high heat. Add white part of green onions, stir for 20 seconds. Add garlic and stir for 10 seconds or until light golden."
+    },
+    {
+      "order": 4,
+      "instruction": "Add noodles, sauce - Add noodles then pour over Sauce. Toss for 1 1/2 minutes. Don’t skimp on this step, the flavour is so much better when the noodles caramelise slightly. If your stove is a bit weak, you might need to go longer!"
+    },
+    {
+      "order": 5,
+      "instruction": "Green onions - Add green onion and toss until just wilted, about 20 seconds. Serve immediately."
+    }
+  ]
+}

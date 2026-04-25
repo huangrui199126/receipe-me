@@ -1,0 +1,240 @@
+{
+  "id": "tr_754",
+  "title": "Spinach Beef Cannelloni (Manicotti)",
+  "image": "https://www.recipetineats.com/tachyon/2019/11/Beef-Cannelloni_8.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spinach-beef-cannelloni-manicotti/",
+  "servings": 5,
+  "prepTime": 30,
+  "cookTime": 45,
+  "tags": [
+    "beef cannelloni",
+    "cannelloni",
+    "cannelloni fillings",
+    "manicotti"
+  ],
+  "nutrition": {
+    "calories": 609,
+    "protein": 42.1,
+    "carbs": 50.1,
+    "fat": 27.6
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (, small, finely chopped (optional))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  celery rib (, finely chopped (optional))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 28oz  crushed tomato (, canned)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(500ml)  chicken stock / broth (, low sodium (or vegetable))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "EACH thyme, oregano, salt, pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "chilli flakes (, optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1lb  beef mince (, lean)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8oz  frozen spinach, chopped (, thawed, excess liquid squeezed out (Note 1))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  beef bouillon cube (, crumbled (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Worcestershire Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "21 - 24  cannelloni tubes (220g/7oz)  (OR 10 Manicotti tubes (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "mozzarella cheese (, freshly grated (or other melting cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped parsley (, garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large saucepan or pot over medium high heat. Add garlic and onion, cook 2 minutes. Add carrot and celery, cook 5 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Add remaining Sauce ingredients then stir. Bring to simmer, lower heat to medium, cover with lid and simmer for 10 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Use a stick blender to blitz until smooth (or cool slightly and use blender or food processor). Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil in a large skillet over high heat. Add onion and garlic, cook 2 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Add beef and cook, breaking it up as you go, until it all changes from red to brown."
+    },
+    {
+      "order": 6,
+      "instruction": "Stir in spinach, then add crumbled beef cube, Worcestershire sauce, pepper and 1 cup of Cannelloni Sauce. Stir, cook 2 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove and cool slightly."
+    },
+    {
+      "order": 8,
+      "instruction": "Preheat oven to 180°C/350°F."
+    },
+    {
+      "order": 9,
+      "instruction": "Transfer Beef Filling into a piping bag with a wide nozzle. Stand cannelloni tubes upright in a container, then pipe filling in. (Or do this step with teaspoon/finger/dinner knife!)."
+    },
+    {
+      "order": 10,
+      "instruction": "Spread about 1 1/4 cups Sauce in a 23x33cm / 9x13&quot; dish. Lay the cannelloni on top, then pour over remaining Sauce."
+    },
+    {
+      "order": 11,
+      "instruction": "Sprinkle with cheese, loosely cover with foil."
+    },
+    {
+      "order": 12,
+      "instruction": "Bake 25 minutes, remove foil then bake a further 10 minutes until the cheese is bubbly with some golden spots."
+    },
+    {
+      "order": 13,
+      "instruction": "Remove from oven, sprinkle with parsley if using then serve!"
+    }
+  ]
+}

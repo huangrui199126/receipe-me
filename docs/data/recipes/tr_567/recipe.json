@@ -1,0 +1,117 @@
+{
+  "id": "tr_567",
+  "title": "Garden Salad",
+  "image": "https://www.recipetineats.com/tachyon/2021/08/Garden-Salad_47-SQ.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/garden-salad/",
+  "servings": 4,
+  "prepTime": 7,
+  "cookTime": 0,
+  "tags": [
+    "garden salad"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small head iceberg lettuce or other lettuce or leafy greens (, chopped into big bite size pieces (5 to 6 big handfuls))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cherry or grape tomatoes, halved ((~125g/4oz), or 2 tomatoes cut into wedges or chunks)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cucumber (, sliced (medium Lebanese / Persian cucumber, or 1/2 long Telegraph/English cucumber))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (, peeled and grated using a box grater)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "parsley or chives (, very finely chopped (if you're feeling fancy!))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cider vinegar ((or any vinegar or lemon juice) (Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil ((or other neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Dijon Mustard ((or other non spicy smooth mustard))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt ((or 1/4 tsp table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Dressing: Shake Dressing in a jar. Taste and adjust - more oil for creamier/less tang, vinegar for more tang, sugar if you want touch of sweet."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss: Place all Salad ingredients in a big bowl. Pour over Dressing. Toss well."
+    },
+    {
+      "order": 3,
+      "instruction": "Serve: Transfer to serving bowl and serve immediately!"
+    }
+  ]
+}

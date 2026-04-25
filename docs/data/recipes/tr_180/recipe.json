@@ -1,0 +1,146 @@
+{
+  "id": "tr_180",
+  "title": "Fish with Spicy Salsa",
+  "image": "https://www.recipetineats.com/tachyon/2016/03/Italian-Fish-Spicy-Salsa_4.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fish-with-spicy-salsa/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "fish with salsa",
+    "healthy fish recipe"
+  ],
+  "nutrition": {
+    "calories": 422,
+    "protein": 34.6,
+    "carbs": 42.6,
+    "fat": 13.3
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  ripe tomatoes (, deseeded and diced (Note 1))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "fresh chili (, finely chopped (or 1/4 tsp red pepper flakes))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": ", packed, basil leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "eggplant (, 1cm / 1/2\" thick)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 x 150g / 5oz  fish fillets ((I used perch))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "plain flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "sourdough bread (, toasted)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the Spicy Salsa ingredients except basil in a bowl. Set aside for 20 minutes to sweat so juices seep and the tomatoes soften."
+    },
+    {
+      "order": 2,
+      "instruction": "Season eggplant and fish generously with salt and pepper. Then dust fish with flour, shaking off excess."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 1/2 tbsp oil in a non stick skillet over high heat. Add the eggplant and cook each side until charred and softened - about 2 minutes first side, 1 1/2 minutes second side. Remove onto a plate."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat remaining oil. Add fish and cook until light golden on both sides, pressing down with an egg flip to brown it evenly."
+    },
+    {
+      "order": 5,
+      "instruction": "Tear basil leaves with your hands and toss through the salsa."
+    },
+    {
+      "order": 6,
+      "instruction": "To serve, place 3 eggplants on each plate, top with a piece of fish and spoon over the salsa + juices. Serve with toasted sourdough on the side."
+    }
+  ]
+}

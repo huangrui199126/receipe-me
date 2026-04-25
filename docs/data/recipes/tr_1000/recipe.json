@@ -1,0 +1,278 @@
+{
+  "id": "tr_1000",
+  "title": "Beetroot Cured Salmon (Gin or Vodka, Gravlax)",
+  "image": "https://www.recipetineats.com/tachyon/2021/03/Beetroot-Cured-Salmon_0-1-copy.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/beetroot-cured-salmon-gin-or-vodka/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "beetroot cured salmon",
+    "cured salmon",
+    "gin cured salmon",
+    "preserved salmon",
+    "salmon gravlax",
+    "voda cured salmon"
+  ],
+  "nutrition": {
+    "calories": 136,
+    "protein": 17.0,
+    "carbs": 4.0,
+    "fat": 5.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1kg/ 2 lb  single piece of fresh salmon",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/ 14 oz  beetroot/beet ((raw), peeled and diced in 1cm / 0.5&quot; cubes (500g/1 lb weight pre-peeling))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cooking salt / kosher salt ( (NOT iodised and NOT table salt, Note 2))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "caraway seeds (, whole)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "white peppercorn (, whole)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "coriander seeds (, whole)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "5 1/2",
+      "unit": "tbsp",
+      "name": "vodka ((OK to omit, Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "black peppercorns (, whole)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "juniper berries (, whole)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "coriander seeds (, whole)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "5 1/2",
+      "unit": "tbsp",
+      "name": "gin ((OK to omit, Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "horseradish (fresh), finely grated  ((Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "lemon zest",
+      "emoji": "🍋",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "chopped dill",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  cucumbers ((Lebanese not the long English/Telegraph ones))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "red or white wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dill (, roughly chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Dark rye bread (, thinly sliced 3mm / ⅛ &quot; (or crackers or other thinly sliced bread))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "capers ((some for garnish, some for assembling bites))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "oil ((vegetable, canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh dill sprigs and lemon wedges or slices",
+      "emoji": "🍋",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Make beetroot cure: Place the beetroot, sugar, salt plus the gin cure OR vodka cure ingredients in a food processor. Blitz until pureed like a smoothie – about 15 seconds on high, scraping down the sides as needed."
+    },
+    {
+      "order": 2,
+      "instruction": "Line container: Use a container into which the salmon fits snugly, but flat (Note 3). Line with two large pieces of cling wrap, overlapping one horizontally and one vertically, like a cross (so it will wrap salmon completely)."
+    },
+    {
+      "order": 3,
+      "instruction": "Place salmon in beetroot: Spread beetroot mixture on the cling wrap inside the container. Lay salmon on top, flesh side down. Press down lightly but not too firm – flesh should be fully in contact with beetroot, not base of container."
+    },
+    {
+      "order": 4,
+      "instruction": "48-hour cure: Wrap up securely with the cling wrap, cover with lid (or seal container with more cling wrap). Refrigerate 48 hours (do not turn)."
+    },
+    {
+      "order": 5,
+      "instruction": "Rinse: Unwrap salmon, rinse off beetroot mixture, then pat dry."
+    },
+    {
+      "order": 6,
+      "instruction": "Recommended – rest overnight: If time permits, place washed and dried salmon in an airtight container and refrigerate overnight. This allows the salt to redistribute more evenly throughout the salmon. (Note 4)"
+    },
+    {
+      "order": 7,
+      "instruction": "Horseradish cream: Mix ingredients together until smooth."
+    },
+    {
+      "order": 8,
+      "instruction": "Cucumber Ribbons: Use a potato peeler to make long thing ribbons lengthwise down the cucumber. Toss with vinegar and salt, set aside for 10 minutes. Drain liquid, toss with dill, transfer to serving dish."
+    },
+    {
+      "order": 9,
+      "instruction": "Fried crispy capers: Heat oil in a small pan to 190°C/375°F. Fry capers for 30 sec/1 min until crisp. Drain on paper towels and cool."
+    },
+    {
+      "order": 10,
+      "instruction": "Crispy bread: Brush bread lightly on each side with olive oil, then bake in a 180°C/350°F oven for 8 minutes, turning halfway, until crisp."
+    },
+    {
+      "order": 11,
+      "instruction": "Plating: Place uncut salmon on a serving platter (one you can cut on). Scatter salmon with crispy capers and fresh dill. Place crispy bread and horseradish cream on the side, along with fresh lemon if using."
+    },
+    {
+      "order": 12,
+      "instruction": "To serve: Cut thin slices down to the skin (but not through it). Pivot the knife blade so it&#039;s almost parallel to the skin and cut the each slice carefully away from the skin (you cannot eat the skin). Smear crispy bread with horseradish cream, top with salmon, a few capers, and sprig of fresh dill. Devour!"
+    }
+  ]
+}

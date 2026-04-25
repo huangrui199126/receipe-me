@@ -1,0 +1,129 @@
+{
+  "id": "tr_1567",
+  "title": "Southwest BBQ Pork Sliders.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/05/Southwest-BBQ-Pork-Sliders-1.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/southwest-bbq-pork-sliders/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 360,
+  "tags": [
+    "bbq",
+    "bbq pork",
+    "pork",
+    "pork slider",
+    "sliders"
+  ],
+  "nutrition": {
+    "calories": 1007,
+    "protein": 30.0,
+    "carbs": 13.0,
+    "fat": 30.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "2 1/2",
+      "unit": "pounds",
+      "name": "pork shoulder or butt",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (19 ounce) can Old El Paso Enchilada Sauce + more for serving if desired",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  brioche slider buns",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "12",
+      "unit": "slices",
+      "name": "pepper jack cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large ripe avocados (halved, seeded and peeled (they have to be ripe!))",
+      "emoji": "🥑",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large or 2 small limes (juiced)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 leave large jalapeño (seeded + chopped ( some of the seeds in for a little heat))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped (or more to your liking))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  ears grilled corn (kernels removed from the cob)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add the pork and enchilada sauce to the bowl of your crockpot. Cover and cook on low for 6-8 hour or on high for 4-5 hours."
+    },
+    {
+      "order": 2,
+      "instruction": "Shred the pork in the crockpot and toss with the sauce. Discard and fatty pieces."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat the broiler to high. Place the slider bun bottoms on a baking sheet and top each bottom bun with pork. Add a slice of cheese and place under the broiler for 1-2 minutes or until the cheese has melted. WATCH CLOSE."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove from the oven and add the guacamole (see below) + top bun. EAT!"
+    },
+    {
+      "order": 5,
+      "instruction": "Add the avocado halves to a medium size mixing bowl. Squeeze the lime juice over the avocados and toss well to coat. Now grab a fork and lightly mash the avocados. I like to keep my guacamole on the chunky side. Next fold in the chopped jalapeño, cilantro, corn and a pinch of salt. Taste and season with more salt if desired."
+    }
+  ]
+}

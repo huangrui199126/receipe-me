@@ -1,0 +1,180 @@
+{
+  "id": "tr_330",
+  "title": "Pot Roast",
+  "image": "https://www.recipetineats.com/tachyon/2018/09/Slow-Cooker-Beef-Pot-Roast-4.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/slow-cooker-beef-pot-roast/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 500,
+  "tags": [
+    "beef pot roast",
+    "pot roast",
+    "slow cooked beef",
+    "slow cooker pot roast"
+  ],
+  "nutrition": {
+    "calories": 615,
+    "protein": 53.0,
+    "carbs": 23.0,
+    "fat": 33.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "kg",
+      "name": "/ 4 lb   beef chuck roast , rolled ((Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion ((large), cut into large dice)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  garlic cloves (, peeled and smashed (Note 2a))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  carrots (, peeled and cut into 2.5cm/1\" pieces)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  celery stalks (, cut into 4 cm / 1.5\" pieces)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(250ml)  dry red wine  ((sub with beef broth))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "(750ml)  beef broth (, salt reduced)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "(50g)  flour ((plain / all purpose) (GF - Note 2b))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried rosemary",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "750",
+      "unit": "g",
+      "name": "/ 1.5 lb   potatoes (, peeled and cut into 2.5 cm / 1\" pieces)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pat beef dry with paper towels. Sprinkle generously with salt and pepper all over."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a skillet over high heat. Brown aggressively all over - a deep dark brown crust is essential for flavour base! Should take about 7 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Transfer beef to slow cooker."
+    },
+    {
+      "order": 4,
+      "instruction": "In the same skillet, add onion and garlic. Cook for 2 minutes until onion is browned."
+    },
+    {
+      "order": 5,
+      "instruction": "Add wine, reduce by half. Transfer to slow cooker."
+    },
+    {
+      "order": 6,
+      "instruction": "Mix together flour and about 1 cup of the broth. Lumps is fine. Pour into slow cooker."
+    },
+    {
+      "order": 7,
+      "instruction": "Add remaining broth, carrots, celery, rosemary and thyme into slow cooker."
+    },
+    {
+      "order": 8,
+      "instruction": "Cover and slow cook on LOW for 5 hours. (45 min pressure cook on HIGH, Note 3a for Oven and Stove)"
+    },
+    {
+      "order": 9,
+      "instruction": "Add potato, slow cook on LOW for 3 hours. (10 min pressure cooker on HIGH, Note 3b)"
+    },
+    {
+      "order": 10,
+      "instruction": "Remove beef. Rest for 5 minutes, then slice thickly."
+    },
+    {
+      "order": 11,
+      "instruction": "Adjust salt and pepper of Sauce to taste."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve beef with vegetables and plenty of sauce! Bread also terrific for mopping up sauce - try these No Knead Dinner Rolls, No Yeast Irish Soda Bread or these fabulous Cheese Muffins."
+    }
+  ]
+}

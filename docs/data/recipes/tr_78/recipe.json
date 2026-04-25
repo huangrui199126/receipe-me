@@ -1,0 +1,151 @@
+{
+  "id": "tr_78",
+  "title": "Double Cheese and Bacon Rolls",
+  "image": "https://www.recipetineats.com/tachyon/2015/02/DSC_0448.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/double-cheese-bacon-rolls/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 504,
+    "protein": 26.5,
+    "carbs": 38.1,
+    "fat": 26.5
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  sachet Active Dry Yeast ((7g, 1/4oz, 2 1/4 tsp (US, AUS), 2 tsp UK) (see Note 1 for Instant Yeast))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "caster sugar ((or granulated or super fine white sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "warm water ((Not boiling. Just tap water is fine))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "bread flour ((Note 2))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil ((or sub with any other oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg (, lightly beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10 oz   bacon (, diced)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3.5",
+      "unit": "oz",
+      "name": "/ 100g   provolone cheese (, cut into 8 slices (or any other melting cheese) (Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "grated cheese ((tasty, cheddar or any other cheese that melts))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the yeast, sugar and water in a bowl and mix until yeast dissolves. Set aside in a warm place for 10 minutes until frothy. (Note 4)"
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the flour and salt in a bowl. Add the yeast mixture and olive oil. Then either use the dough hook on your mixer and mix for about 3 minutes on medium low, or knead by hand on a lightly floured surface (about 100 kneads), until the dough is smooth and elastic. It should come away from the side of the bowl and shouldn't stick. If it is too sticky, add some extra flour."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the dough in a bowl and cover loosely. (Note 5) Set aside in a warm place for 1 hour or until doubled in size. (Note 4)"
+    },
+    {
+      "order": 4,
+      "instruction": "Meanwhile, sauté half the bacon in a non stick pan over high heat until lightly browned. Remove from pan and set aside to cool."
+    },
+    {
+      "order": 5,
+      "instruction": "Spray baking tray with oil."
+    },
+    {
+      "order": 6,
+      "instruction": "Punch down the dough, then cut into 8 pieces."
+    },
+    {
+      "order": 7,
+      "instruction": "Get one piece of dough and flatten it. Take a piece of provolone cheese and fold it in half to form a square. Top with 1 tbsp of cooked bacon. Fold the edges in to \"wrap\" it, shaping it into a round shape. Seal then flip over and place on baking try. Flatten with your hand to around 2cm / 4/5\" thick. Repeat with remaining dough."
+    },
+    {
+      "order": 8,
+      "instruction": "Brush with egg mixture. Top each with 1 1/2 tbsp grated cheese and the uncooked bacon."
+    },
+    {
+      "order": 9,
+      "instruction": "Cover with clean tea towel and set aside for 30 minutes or so in a warm place until it has risen by around 50% (Note 6)."
+    },
+    {
+      "order": 10,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 11,
+      "instruction": "Bake for 20 to 25 minutes or until they are golden brown."
+    },
+    {
+      "order": 12,
+      "instruction": "Best served warm, so the filling is gooey!"
+    }
+  ]
+}

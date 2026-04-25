@@ -1,0 +1,167 @@
+{
+  "id": "tr_114",
+  "title": "Garlic Butter Cauliflower Pasta with Pangritata",
+  "image": "https://www.recipetineats.com/tachyon/2015/08/Garlic-Butter-Cauliflower-Pasta_600px_Featured.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/garlic-butter-cauliflower-pasta-with-pangritata/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 408,
+    "protein": 13.4,
+    "carbs": 58.3,
+    "fat": 14.6
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 to 2 slices bread (, crusts removed, preferably stale (enough to make 1/2 cup))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray ((preferably olive oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, smashed (Note 1))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  large head of cauliflower (, broken/cut into florets about 2\"/5cm long (about 4 to 5 cups) (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250 g   fettuccine ((or pasta of choice))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, thinly sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 to 1 tsp red chili flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemon (: 2 tbsp lemon juice + zest of 1/2 the lemon)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt &amp; pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan cheese (, freshly grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley (, finely chopped (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Dice the bread into small pieces - you want (at least!) 1/2 cup. Spray generously with oil."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a large skillet over medium high heat. Add the bread crumbs and saute for about 2 minutes until golden brown. Remove from the skillet into a bowl and sprinkle with salt."
+    },
+    {
+      "order": 3,
+      "instruction": "Return the skillet to the stove. Melt the butter then add the oil. When hot, add the smashed garlic cloves and cook for 1 minute until fragrant."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the cauliflower. Cook, stirring occasionally, for around 3 minutes, then add the red onion and sprinkle with salt and pepper. Continue cooking for another 5 minutes, until the cauliflower is beautiful golden brown but still a bit firm."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove the smashed garlic cloves."
+    },
+    {
+      "order": 6,
+      "instruction": "Meanwhile, cook the pasta in salted boiling water - 1 minute less than the recommended cooking time on the packet!"
+    },
+    {
+      "order": 7,
+      "instruction": "RESERVE 1/2 cup of the pasta cooking water. Then drain the pasta or use tongs to transfer it directly to the skillet."
+    },
+    {
+      "order": 8,
+      "instruction": "Pour the reserved pasta cooking water into the skillet along with the red chili flakes, a good pinch of salt and pepper. Gently toss the pasta for 1 to 2 minutes, until the water evaporates - you will be left with a luscious coating of sauce on each strand of pasta (this is called emulsification) and the cauliflower will finish cooking."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove from the stove. Grate over zest of 1/2 the lemon and drizzle over about 2 tbsp of lemon juice. Toss quickly."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve, sprinkled with Pangrattato with freshly grated parmesan and parsley, if using."
+    }
+  ]
+}

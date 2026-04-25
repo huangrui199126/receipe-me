@@ -1,0 +1,118 @@
+{
+  "id": "tr_695",
+  "title": "Avocado salad",
+  "image": "https://www.recipetineats.com/tachyon/2023/11/Avocado-salad_0.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/favourite-avocado-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "avocado cucumber salad",
+    "avocado salad"
+  ],
+  "nutrition": {
+    "calories": 229,
+    "protein": 3.0,
+    "carbs": 12.0,
+    "fat": 21.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  big ripe avocados (, cut into quarters then 1 cm / 0.4\" slices)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  cucumbers ( ~17cm/7&quot; long, sliced into 4mm / 1/6&quot; rounds (Note 1))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  red onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "dill (, finely chopped, optional recommended (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "coriander/cilantro leaves (,roughly chopped, optional recommended (Note 2))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "lime juice (, or lemon juice (or more, adjust to taste!))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "chilli flakes / red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Put all the salad ingredients in large bowl. Drizzle over lime juice and oil, sprinkle with salt, pepper and red chilli flakes."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss gently using your hands, gently separating the avocado slices as you go. Taste and add more lime if you want."
+    },
+    {
+      "order": 3,
+      "instruction": "Tumble into a bowl and serve!"
+    }
+  ]
+}

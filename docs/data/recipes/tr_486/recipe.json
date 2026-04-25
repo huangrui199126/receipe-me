@@ -1,0 +1,151 @@
+{
+  "id": "tr_486",
+  "title": "Pork Tenderloin with Creamy Mustard Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2021/05/Pork-Tenderloin-with-Creamy-Mustard-Sauce_4-SQ.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pork-tenderloin-with-creamy-mustard-sauce/",
+  "servings": 5,
+  "prepTime": 8,
+  "cookTime": 20,
+  "tags": [
+    "baked pork tenderloin",
+    "pork fillet",
+    "pork tenderloin"
+  ],
+  "nutrition": {
+    "calories": 357,
+    "protein": 38.0,
+    "carbs": 2.0,
+    "fat": 21.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  pork tenderloins (, 500g / 1lb each (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil ((vegetable, canola, or olive oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cream (, heavy / thickened (Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Dijon mustard ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "whole grain mustard ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "tarragon (, finely chopped (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "parsley (, finely chopped (Note 4))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp water (, as needed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven: Preheat oven to 200°C / 390°F (180°C fan). Place a rack over a tray (for resting the cooked meat)."
+    },
+    {
+      "order": 2,
+      "instruction": "Season pork: Sprinkle the tenderloins all over with salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Sear pork: Heat oil in a large oven-proof skillet over medium-high heat. Sear pork all over until golden. This takes around 5 minutes (I sear 4 sides)."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake (Note 5): Transfer the skillet with the pork in it to the oven. Bake for 12 - 15 minutes or until an instant read thermometer reads 65°C / 149°F. This will have a blush of pink, a perfect medium for optimum juiciness. (For no pink at all, add 3 minutes cooking and target an internal temperature of 68°C / 155°F.)"
+    },
+    {
+      "order": 5,
+      "instruction": "Rest: Remove pork from skillet and transfer to the resting rack for 5 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Creamy Mustard Sauce: Return same skillet to the stove over medium heat. Add cream and both mustards. Mix well, scraping the bottom of the pan to dissolve any golden bits stuck to the base of the pan into the sauce (free flavour!). Once it becomes hot but not simmering, stir in salt, pepper, tarragon and parsley. If the sauce seems too thick, thin with a little water as needed. No need to simmer, the sauce is done!"
+    },
+    {
+      "order": 7,
+      "instruction": "Serve: Slice into 2 - 2.5cm (0.8 - 2&quot;) slices. Serve with Creamy Mustard Sauce!"
+    }
+  ]
+}

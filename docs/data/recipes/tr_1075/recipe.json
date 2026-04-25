@@ -1,0 +1,147 @@
+{
+  "id": "tr_1075",
+  "title": "Hazelnut Olive Oil Cake (GF, DF)",
+  "image": "https://www.recipetineats.com/tachyon/2022/09/Olive-oil-hazelnut-cake_7.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/charlottes-hazelnut-olive-oil-cake/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 45,
+  "tags": [
+    "dairy free cake",
+    "gluten free cake",
+    "olive oil cake"
+  ],
+  "nutrition": {
+    "calories": 241,
+    "protein": 3.0,
+    "carbs": 19.0,
+    "fat": 18.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5oz   hazelnut meal (1 3/4 cups firmly packed) ((ground hazelnut, sub almond meal, Note 1))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking soda / bicarbonate soda (, sifted (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest of 1 lemon (, finely grated (about 2 teaspoon or so))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "+ 1 1/2 tbsp  extra-virgin olive oil ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "caster sugar / superfine sugar ((sub ordinary/granulated sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs (, at room temperature (Note 4))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "whole hazelnuts (, toasted then roughly chopped (Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Icing sugar / confectioners' sugar (, for dusting)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crème fraîche ((dollop for company))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 170°C / 340°F (150°C fan). Grease a 20 cm/8&quot; springform pan with olive oil then line with baking paper (parchment paper), then grease the paper. (Note 6)"
+    },
+    {
+      "order": 2,
+      "instruction": "Dry ingredients: In a medium bowl, mix the hazelnut meal, baking soda, lemon and salt."
+    },
+    {
+      "order": 3,
+      "instruction": "Beat wet ingredients: In a large bowl, beat the olive oil, eggs and sugar for 2 to 3 minutes on speed 7 of a handheld beater or until it becomes pale and thick (like pouring cream)."
+    },
+    {
+      "order": 4,
+      "instruction": "Add vanilla and beat on speed 1 for 10 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Mix in dry: Add the Dry ingredients and mix in gently using a rubber spatula."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake 45 minutes: Pour the batter into the prepared pan and bake for 45 minutes. It will puff up dramatically in the oven but it collapses as it cools."
+    },
+    {
+      "order": 7,
+      "instruction": "Cool: Remove from the oven and allow the cake to fully cool in the pan before releasing from the springform pan. This is a rustic cake that has higher edges and a flatter centre. Perfect proportions, I say: plenty of meringue-like edges and not an overwhelming amount of the rich brownie-like centre of the cake!"
+    },
+    {
+      "order": 8,
+      "instruction": "Decorate: Sprinkle with hazelnuts and dust with icing sugar, if desired. Serve fully cool."
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "id": "tr_941",
+  "title": "Momofuku Bossam (Korean Slow Cooked Pork Shoulder Roast)",
+  "image": "https://www.recipetineats.com/tachyon/2020/02/Momofuku-Bossam-Korean-Slow-Cooked-Pork-Shoulder_1-1.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/momofuku-bossam-korean-slow-cooked-pork/",
+  "servings": 10,
+  "prepTime": 10,
+  "cookTime": 300,
+  "tags": [
+    "bo ssam",
+    "bossam",
+    "david chang bossam",
+    "korean pork",
+    "slow cooked pork"
+  ],
+  "nutrition": {
+    "calories": 626,
+    "protein": 67.0,
+    "carbs": 18.0,
+    "fat": 30.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3.5-4 kg/ 7-8 lb  pork butt / shoulder (, bone in &amp; skinless (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(110g)  white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(115g)  kosher or cooking salt (NOT table salt) ((Note 2))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "kosher or cooking salt (NOT table salt) ((Note 2))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "7",
+      "unit": "tbsp",
+      "name": "brown sugar (, light or normal (not dark))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2.5",
+      "unit": "cups",
+      "name": "scallions (, thinly sliced (both green and white parts, ~5-6 stems))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh ginger (, peeled and finely grated (Note 3))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "canola oil ((Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "light soy sauce ((or all purpose, not dark soy sauce Note 5))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sherry vinegar ((Note 6))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "kosher or cooking salt  (, to taste (Note 2))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "ssamjang ((Note 8))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "gochujang ((Note 8))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "5",
+      "unit": "tsp",
+      "name": "sherry vinegar ((Note 6))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "canola oil ((Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 - 5  heads butter/bib lettuce ((40 - 50+ leaves, Note 9))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "cooked white rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/1lb   kimchi",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  + oysters (, raw, in shell (optional, Note 10))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix sugar and salt together. Pat pork dry. Coat pork in sugar salt mixture, getting it into all the crevices. Rub/pat well to adhere as best you can - discard excess salt unused/falls off (usually ~ 2-3 tbsp)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place in a glass dish (Note 13), cover loosely with cling wrap and refrigerated 24 - 36 hours (Note 11)."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 150°C/300°F (all oven types) with rack in the middle of oven."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove pork from fridge - surface will be wet. Either transfer pork to clean pan (metal, ceramic or glass) or drain off excess liquid / scrape out salt/sugar in same glass pan. Do not rinse pork."
+    },
+    {
+      "order": 5,
+      "instruction": "Roast 5 hours (Note 12), uncovered, spooning over pan juices once each hour, until you can easily pull the meat apart with 2 forks (check on side)."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from oven, rest for 10 minutes (up to 1 hour is fine, loosely cover in foil)."
+    },
+    {
+      "order": 7,
+      "instruction": "Turn oven up to 260°C/500°F (all oven types)."
+    },
+    {
+      "order": 8,
+      "instruction": "Mix brown sugar and salt."
+    },
+    {
+      "order": 9,
+      "instruction": "Spoon juices all over pork."
+    },
+    {
+      "order": 10,
+      "instruction": "Spoon sugar onto pork and use your hands to make it stick to the top and sides (not underneath). Make layer on top as even as you can (for even caramelisation)."
+    },
+    {
+      "order": 11,
+      "instruction": "Place in oven for 10 minutes until surface is a deep golden crust, sugar is bubbling and caramelised (see VIDEO!). Keep a close eye on it from 5 minutes. If the highest points start getting black, cover with small piece of foil (just stick it on)."
+    },
+    {
+      "order": 12,
+      "instruction": "Remove from oven and transfer to serving platter for serving. (Don't use pan juices, it will be salty from brine)"
+    },
+    {
+      "order": 13,
+      "instruction": "Ginger Shallot Sauce: Mix ingredients in bowl and stand for 20 minutes to let it soften."
+    },
+    {
+      "order": 14,
+      "instruction": "Ssam Sauce: Mix ingredients together. Oil will naturally separate over time if sauce is left to stand, just mix again to reincorporate."
+    },
+    {
+      "order": 15,
+      "instruction": "Place pork on serving platter with lettuce, oysters, kimchi, rice, Ginger Shallot Sauce and Ssam Sauce on the side."
+    },
+    {
+      "order": 16,
+      "instruction": "Attack the pork - it will shred easily. Shred as much or little as you want, let people do it themselves or you can do it for them. Prepare to fight over the epic crust."
+    },
+    {
+      "order": 17,
+      "instruction": "To eat, place lettuce in hand. Spoon in some rice, top with pulled pork, small piece of kimchi, oyster, some ginger shallot sauce then finally a little drizzle of spicy Ssam sauce."
+    },
+    {
+      "order": 18,
+      "instruction": "Bundle up, bite and enjoy!"
+    }
+  ]
+}

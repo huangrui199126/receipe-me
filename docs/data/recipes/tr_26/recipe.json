@@ -1,0 +1,187 @@
+{
+  "id": "tr_26",
+  "title": "Dan Dan Noodle Soup (Vegetarian)",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/DSC_0038-680x451-1.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/dan-dan-noodle-soup-vegetarian/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 288,
+    "protein": 13.5,
+    "carbs": 42.4,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "dried rice stick noodles ((see notes))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "(32 oz/1 litre)   vegetable or chicken stock (broth)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "minced ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cornflour / corn starch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "Tbsp",
+      "name": "sesame paste or tahini",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "black vinegar ((see notes))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "chilli bean sauce ((or substitute with another chilli paste or sauce). Adjust to taste!)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium carrots (, peeled and sliced diagonally)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  bok choy",
+      "emoji": "🥬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "broccoli florets",
+      "emoji": "🥦",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion / shallot (, chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine stock ingredients in a large pot and bring to boil."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, mix the Stock Sauce ingredients together in a small bowl and cut all the vegetables into bite size pieces."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the Stock Sauce and mix well to dissolve into the soup. Adjust seasoning as required."
+    },
+    {
+      "order": 4,
+      "instruction": "When the stock comes to a boil, place rice stick noodles in the stock, then 1 minute later add the carrots and broccoli, then 1 minute later remove from heat and add the bok choy stems."
+    },
+    {
+      "order": 5,
+      "instruction": "Divide the noodles and vegetables between bowls, top with the bok choy leaves and bean sprouts."
+    },
+    {
+      "order": 6,
+      "instruction": "Ladle soup into bowls over the vegetables and noodles, and garnish with spring onions."
+    },
+    {
+      "order": 7,
+      "instruction": "Optional: finish with chilli oil and more chilli paste - if you can handle the heat!"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "tr_972",
+  "title": "Creamy Zucchini Soup",
+  "image": "https://www.recipetineats.com/tachyon/2017/08/Creamy-Zucchini-Soup-5.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-zucchini-soup/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 215,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil or butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion (, chopped (brown, yellow or white))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb    zucchinis (, cut into 1.5cm / 3/5” slices, larger ones halved (Note 1))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "/ 750 ml  vegetable or chicken broth (, preferably salt reduced)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 250 ml  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "/ 185 ml  cream, heavy / thickened (or light or add a good knob of butter instead) ((Note 2))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 250 ml  milk (, any fat %, or more cream)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cream (, for swirling)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely shredded parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large pot over medium high heat. Add garlic and onions, and cook for 3 - 4 minutes until they are light golden brown."
+    },
+    {
+      "order": 2,
+      "instruction": "Add zucchinis, broth and water. Bring to a boil, then cover and reduce heat to medium. Optional: Scoop brown foam (scum) off surface every now and then."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook for 15 - 20 minutes or until zucchini is very soft."
+    },
+    {
+      "order": 4,
+      "instruction": "Use a stick blender to whizz until smooth. (Note 1 for blender)"
+    },
+    {
+      "order": 5,
+      "instruction": "Stir through cream and milk. Add salt and pepper to taste."
+    },
+    {
+      "order": 6,
+      "instruction": "Ladle into bowls, swirl over a touch of cream if desired, a pinch of shredded parmesan, and more pepper. Serve hot or at room temperature."
+    }
+  ]
+}

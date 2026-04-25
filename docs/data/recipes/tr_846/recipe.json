@@ -1,0 +1,135 @@
+{
+  "id": "tr_846",
+  "title": "Crunchy muesli bars (granola bars)",
+  "image": "https://www.recipetineats.com/tachyon/2024/02/Crunchy-muesli-bars_3.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crunchy-muesli-bars/",
+  "servings": 10,
+  "prepTime": 10,
+  "cookTime": 35,
+  "tags": [
+    "crunchy granola bars",
+    "crunchy muesli bars",
+    "muesli bars"
+  ],
+  "nutrition": {
+    "calories": 183,
+    "protein": 5.0,
+    "carbs": 24.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "honey ((Note 1))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "natural peanut butter, smooth ((or crunchy!) (Note 2))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "rolled oats* ((not steel cut))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "almonds* (, roughly chopped)",
+      "emoji": "🥜",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "pepitas* ((pumpkin seeds))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sultanas*",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cinnamon powder ((or other, like pumpkin spice))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "small chocolate chips (or 3 tbsp regular dark choc chips, optional (Note 4))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 160°C/325°F (140°C fan-forced). Place a sheet of baking paper over a 20 cm / 8&quot; square tin with overhang so it&#39;s easy to lift out later (no greasing needed)."
+    },
+    {
+      "order": 2,
+      "instruction": "Toast: Spread the oats, chopped almonds and pepitas on a tray. Bake for 10 minutes. Tip into a heatproof bowl. (Note 5) Add the sultanas, cinnamon and salt."
+    },
+    {
+      "order": 3,
+      "instruction": "Muesli mixture: Microwave the honey and peanut butter in a heatproof jug for 30 seconds on high. Mix to combine. (Note 6) Pour over the oat mixture and mix through. It might seem like it won&#39;t mix in, but persist, it will! Use a cutting motion if needed. Last resort - Note 7"
+    },
+    {
+      "order": 4,
+      "instruction": "Press: Tip the muesli mixture into the pan then press firmly into the pan. Once cooled, scatter the choc chips across surface (if using). Cover with a sheet of paper then press down firmly with your hands to push the choc chips in."
+    },
+    {
+      "order": 5,
+      "instruction": "Refrigerate for 1 hour or until firm enough to lift out without bending."
+    },
+    {
+      "order": 6,
+      "instruction": "Preheat the oven to 160°C/325°F (140°C fan-forced)."
+    },
+    {
+      "order": 7,
+      "instruction": "Cut: Use the paper overhang to lift the muesli slab onto a cutting board. Cut in half, then each into 5 (10 bars). Transfer onto a tray using the paper, then space the muesli bars out."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake for 25 minutes or until quite golden on the surface and golden brown on the edges but not burnt."
+    },
+    {
+      "order": 9,
+      "instruction": "Cool &amp; crunchy: Remove from the oven and cool on the tray - it will become crunchy! Store in an airtight container once cooled, in the fridge if it&#39;s warm where you are. It will still be crunchy 3 weeks later!"
+    }
+  ]
+}

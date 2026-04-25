@@ -1,0 +1,115 @@
+{
+  "id": "tr_1435",
+  "title": "JB's Chicken au Poivre (Creamy Peppercorn Sauce)",
+  "image": "https://www.recipetineats.com/tachyon/2026/02/Chicken-Au-Poivre_4-copy.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/french-chicken-au-poivre-sauce/",
+  "servings": 4,
+  "prepTime": 8,
+  "cookTime": 20,
+  "tags": [
+    "chicken au poivre",
+    "chicken with creamy pepper sauce",
+    "creamy pepper chicken"
+  ],
+  "nutrition": {
+    "calories": 442,
+    "protein": 35.0,
+    "carbs": 3.0,
+    "fat": 27.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large chicken breasts (, skinless &amp; boneless (250–300g / 8–10oz each) (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vegetable oil (, or any other neutral flavoured oil)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "whole black peppercorns (, coarsely crushed (Note 2))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "brandy or cognac  (, or masala (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "beef stock / broth (, low sodium (Note 4))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "thickened / heavy cream (, or any other full fat cream)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Season chicken with salt. Sear in oil until golden. Remove. Deglaze with cognac. Add beef stock, simmer for 4 minutes . Pour cream, add pepper and simmer for 5 minutes. Return chicken, cook for 3 minutes while basting. Serve immediately."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare the chicken - Cut each chicken breast in half horizontally to make 4 thin steaks and sprinkle both sides with salt (If you’re wondering why I don’t season the chicken with pepper it’s because once combined with the sauce, it would make the dish too peppery.)"
+    },
+    {
+      "order": 3,
+      "instruction": "Sear the chicken - Heat oil in a large pan (28cm / 11&quot;) over high heat. Add chicken and cook 2–3 minutes per side until golden. Remove to a plate and rest (don’t cover). If you think your chicken is still a little bit under after resting, don’t worry it will finish cooking later in the sauce."
+    },
+    {
+      "order": 4,
+      "instruction": "Deglaze with brandy - TURN THE STOVE OFF to avoid the brandy catching fire (unless you want to flambé). Then carefully pour the brandy in. Be careful, it will sizzle hard, that’s normal. Let it bubble for 20-30 seconds to let alcohol burn off, reduce by about 2/3 (turn the stove on if needed). Scrape the fond at the base of the pan well to release all that flavour. (Note 5 &amp; 6)"
+    },
+    {
+      "order": 5,
+      "instruction": "Beef stock - Turn the heat back on high. Add beef stock. Simmer rapidly for 4 minutes, until reduced by half."
+    },
+    {
+      "order": 6,
+      "instruction": "Cream - Stir in cream and crushed pepper. Lower the heat to medium high. Simmer for 3-4 minutes, to reduce the sauce until it thickens enough to lightly coat the back of a spoon. Stir and scrape the sides of the pan as it reduces. Keep in mind that some stoves run stronger than others. If the heat is gentler, the sauce may take a little longer to reduce, so just allow a bit of extra time."
+    },
+    {
+      "order": 7,
+      "instruction": "Simmer - Turn heat down to medium. Return chicken and resting juices to the pan. Cook 2–3 minutes, spooning the sauce over the chicken, until it is warmed through and the sauce darkens in colour and thickens a little more. When you drag a spoon through the pan, the sauce should slowly flow back together. If it thickens too much, add a splash of cream or water to loosen."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve - This dish is best served straight away. If it sits, the sauce can become too thick and the chicken be overcooked."
+    }
+  ]
+}

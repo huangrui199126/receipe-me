@@ -1,0 +1,131 @@
+{
+  "id": "tr_183",
+  "title": "Cheese and Bacon Bread Boats",
+  "image": "https://www.recipetineats.com/tachyon/2015/07/Cheese-Bacon-Egg-Boats_680px_1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cheese-and-bacon-bread-boats/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "oz",
+      "name": "/ 60g   bacon (, diced)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large or 3 small eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cream or milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper ((pinch of each))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  baguettes (, about 20 / 8\" long and 6cm / 2.5\" in diameter)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "melted butter (, for brushing or oil spray (optional))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped/sliced shallots/scallions or jalapeños ((or 1 tbsp fresh herb of choice) (optional))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cheddar or tasty cheese (, grated (or any other flavoured cheese that melts))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a non stick pan over high heat. Cook the bacon until lightly browned, then drain on a paper towel and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk together the eggs, cream and salt and pepper in a jug."
+    },
+    {
+      "order": 4,
+      "instruction": "Cut a \"V\" shape out of each baguette. Pull some bread out, leaving about 1/2\" / 1.25cm thick base."
+    },
+    {
+      "order": 5,
+      "instruction": "Brush crust of the bread with melted butter. (Optional - this makes the bread extra golden and buttery)"
+    },
+    {
+      "order": 6,
+      "instruction": "Place the bread on a baking tray."
+    },
+    {
+      "order": 7,
+      "instruction": "Carefully pour half the egg mixture into the crevice of each baguette. Leave it for a couple of minutes to soak into the bread a bit."
+    },
+    {
+      "order": 8,
+      "instruction": "Divide the bacon and shallots between each baguette. Then sprinkle over half the cheese (reserve the other half to put on top)."
+    },
+    {
+      "order": 9,
+      "instruction": "Carefully pour the remaining egg mixture into each baguette. Pour slowly, giving the egg time to sink into the filling. Top with remaining cheese."
+    },
+    {
+      "order": 10,
+      "instruction": "Bake at 350F/180C for 20 to 25 minutes, or until light golden brown on top and the egg does not \"jiggle\" when you shake the baguette."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve whole or sliced."
+    }
+  ]
+}

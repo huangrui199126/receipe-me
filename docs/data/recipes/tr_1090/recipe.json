@@ -1,0 +1,135 @@
+{
+  "id": "tr_1090",
+  "title": "Bacon Wrapped Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2016/08/Bacon-Wrapped-Chicken_2.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/bacon-wrapped-chicken/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 593,
+    "protein": 62.4,
+    "carbs": 9.8,
+    "fat": 32.1
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cayenne pepper ((or sub with more paprika))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  large chicken thigh fillets ((about 5oz / 150g each), cut in half (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "8",
+      "unit": "pieces",
+      "name": "bacon (, streaky (Note 2))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "olive oil ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200C/390F (fan forced / convection) (Note 3)"
+    },
+    {
+      "order": 2,
+      "instruction": "Line tray with baking paper."
+    },
+    {
+      "order": 3,
+      "instruction": "Combine Seasoning in a small bowl. Place brown sugar in a separate bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Coat chicken in Seasoning, shaking off excess. Place on one end of bacon and roll up, finishing with the seam side down. Repeat with remaining chicken."
+    },
+    {
+      "order": 5,
+      "instruction": "Coat chicken in sugar - use your fingers to rub it on if required. Place on baking tray."
+    },
+    {
+      "order": 6,
+      "instruction": "Drizzle with olive oil (helps make it brown faster, optional)"
+    },
+    {
+      "order": 7,
+      "instruction": "Bake for 25 minutes. If the bacon is not golden enough for your taste, switch on the broiler for a few minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Brush the juices on the tray onto the bacon to make it glossy and juicy. Serve on mashed potatoes, drizzled with extra pan juices if desired!"
+    }
+  ]
+}

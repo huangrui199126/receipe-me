@@ -1,0 +1,218 @@
+{
+  "id": "tr_880",
+  "title": "Salmon Salad with Asian Ginger Sesame Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2019/07/Salmon-Salad_1-SQ.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/salmon-salad/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "asian dressing",
+    "salmon salad"
+  ],
+  "nutrition": {
+    "calories": 571,
+    "protein": 37.0,
+    "carbs": 21.0,
+    "fat": 38.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 4  salmon fillets (, skinless)",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt and pepper (, each)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 1.5 cups  cherry tomatoes (, halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  cucumber (, sliced (or 1 English/telegraph long cucumber))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large avocado (, cut into 1.5cm / 2/3\" pieces)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  red radish (, sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5 oz   leafy crisp lettuce of choice ((6 big handfuls))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "edamame (, cooked per packet (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green onion (, finely sliced on diagonal)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "crispy fried shallots ((Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "soy sauce ((light or all purpose))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "rice vinegar ((aka rice wine vinegar Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sesame oil ((toasted, Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil ((or other neutral flavoured oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "sugar (, any type)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fresh ginger (, grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Dressing ingredients in a jar and shake well."
+    },
+    {
+      "order": 2,
+      "instruction": "Sprinkle both sides of salmon with salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a non stick skillet over medium high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Place salmon in upside down (ie skin side up), cook for 3 minutes or until deep golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Turn and cook for another 2 - 3 minutes, or until cooked to your taste."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove onto plate and cool for 5 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Place lettuce in a large bowl. Drizzle with a bit of dressing and toss."
+    },
+    {
+      "order": 8,
+      "instruction": "Place lettuce in a large serving bowl (or individual plates). Top with salmon, then place tomato, cucumber, avocado, edamame and radish in piles around it."
+    },
+    {
+      "order": 9,
+      "instruction": "Sprinkle with green onion and crispy shallots."
+    },
+    {
+      "order": 10,
+      "instruction": "Just prior to serving, drizzle all over with remaining Dressing."
+    }
+  ]
+}

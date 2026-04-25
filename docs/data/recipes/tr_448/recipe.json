@@ -1,0 +1,141 @@
+{
+  "id": "tr_448",
+  "title": "Stovetop Macaroni and Cheese",
+  "image": "https://www.recipetineats.com/tachyon/2016/11/Mac-and-Cheese-Stovetop_-1.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/stovetop-macaroni-cheese/",
+  "servings": 5,
+  "prepTime": 3,
+  "cookTime": 15,
+  "tags": [
+    "mac and cheese"
+  ],
+  "nutrition": {
+    "calories": 472,
+    "protein": 19.9,
+    "carbs": 46.3,
+    "fat": 22.9
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 1/2 tbsp  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "milk ((full fat preferred but low fat is ok))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 2 1/2 cups  elbow macaroni (, uncooked)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "mozzarella cheese (, shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "cheese (Cheddar, Colby, Gruyere) (, shredded (Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt butter in a medium pot or large saucepan over medium heat. Add flour and cook for 1 minute."
+    },
+    {
+      "order": 2,
+      "instruction": "Add about 3/4 cup of milk and mix into butter mixture - it will become a slurry pretty quickly."
+    },
+    {
+      "order": 3,
+      "instruction": "Add remaining milk and mix so the slurry mixes in. Then add water and Seasonings."
+    },
+    {
+      "order": 4,
+      "instruction": "Add macaroni and mix. Stir occasionally as it comes to heat. When you see wisps of steam as you stir, lower the heat down to medium low."
+    },
+    {
+      "order": 5,
+      "instruction": "Stir regularly as it cooks for 9 - 10 minutes (it will bubble gently), or until the sauce thickens and the macaroni is just cooked - tender but still firm. It should still be saucey at this stage and thinner than you want."
+    },
+    {
+      "order": 6,
+      "instruction": "Take it off the stove and stir the cheese in quickly. Adjust salt and pepper to taste. &lt;- In this step, the sauce thickens and reduces considerably."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve immediately!!"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "tr_482",
+  "title": "Guacamole",
+  "image": "https://www.recipetineats.com/tachyon/2019/12/Guacamole_6-SQ.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/best-ever-authentic-guacamole/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "guacamole",
+    "guacamole recipe",
+    "traditional guacamole"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 1.0,
+    "carbs": 7.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped white onion ((or red, brown or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "finely chopped jalapeno or serrano chilli ((or other chilli of choice) (adjust to taste))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt (, plus more to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "roughly chopped coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium avocados (or 1 very large one) ((Note 1))",
+      "emoji": "🥑",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime juice (, to taste (I use 1/4 - 1/2 lime))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Optional: 1 ripe tomato (, peeled, deseeded and chopped)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the onion, jalapeño, salt and half the coriander on a cutting board and use a fork to mash until juicy. OR do this in a mortar and pestle - grind into a paste."
+    },
+    {
+      "order": 2,
+      "instruction": "Scrape into a bowl, add avocado and remaining coriander, and mash to desired consistency."
+    },
+    {
+      "order": 3,
+      "instruction": "Do a taste test then adjust to your taste: salt, lime juice for sour, more chilli for spiciness."
+    },
+    {
+      "order": 4,
+      "instruction": "If using tomatoes, stir through."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve with corn chips!"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "id": "tr_872",
+  "title": "Lunchbox pizza bread (quick)",
+  "image": "https://www.recipetineats.com/tachyon/2023/02/Lunchbox-pizza-bread_8-1.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lunchbox-pizza-bread/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 40,
+  "tags": [
+    "lunchbox idea",
+    "mini pizzas",
+    "pizza bread"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 10.0,
+    "carbs": 19.0,
+    "fat": 16.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "plain flour  (all-purpose flour)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking soda / bi-carb soda (, sifted (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg ((60g / 2 oz))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk ((full or low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "sour cream (, or plain yogurt)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded cheese ( (colby, cheddar, Monterey Jack, Devondale &quot;3 cheese blend&quot;) (Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded cheese, ( same as above (Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "pizza sauce (, store bought or homemade (any of them))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  red onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  green capsicum / bell pepper (, finely sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "sliced kalamata olives",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "50g/ 2 oz   pepperoni slices ((about 1/2 cup))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan). Oil spray a 23 x 33 cm (9 x 13&quot;) metal pan then line with baking / parchment paper (Note 3)."
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk Dry ingredients in a large bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk Wet ingredients in a separate bowl until combined."
+    },
+    {
+      "order": 4,
+      "instruction": "Combine Wet &amp; Dry - Pour Wet into the Dry ingredients. Mix with a rubber spatula until the flour is mostly mixed in but you can still see a bit of flour. Add cheese then stir until you can no longer see flour. Some small lumps is fine, they will bake out."
+    },
+    {
+      "order": 5,
+      "instruction": "Assemble - Scrape into the baking pan and evenly spread - it&#39;s not that thick, remember it rises! Spread the surface with pizza sauce. Sprinkle with cheese, then (in this order) onion, capsicum, olives then pepperoni."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake 40 min - Bake 25 minutes uncovered. Cover with a baking tray (or foil) then bake for a further 15 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Cool 10 minutes in the pan then use the paper overhang to lift or slide out onto a cooling rack. Cool for a further 10 minutes before slicing to serve."
+    },
+    {
+      "order": 8,
+      "instruction": "Serving - Great at room temp though for VIP&#39;s, sometimes I warm it in the oven, drizzle with a swish of olive oil and sprinkle with a pinch of oregano."
+    }
+  ]
+}

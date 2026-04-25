@@ -1,0 +1,130 @@
+{
+  "id": "tr_1233",
+  "title": "Tomato Salad with Olive Tapenade",
+  "image": "https://www.recipetineats.com/tachyon/2020/12/Tomato-with-Olive-Tapenade_5-SQ.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tomato-salad-with-olive-tapenade-very-french/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "olive tapenade",
+    "tomato salad"
+  ],
+  "nutrition": {
+    "calories": 79,
+    "protein": 1.0,
+    "carbs": 5.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  tomatoes (, medium sized, sliced into 1cm/ 0.2&quot; thick rounds)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "flat leaf parsley leaves (, left whole or roughly torn)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra olive oil (, for drizzling)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "kalamata or other black deli olives (, preferably unpitted (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "capers (, drained or rinsed (if packed in salt), chopped)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, medium, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large or 2 small anchovy fillets ((Note 2), minced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "red or white wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  - 5 tbsp extra virgin olive oil (, use your best stuff!)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Season tomatoes: Place sliced tomatoes into a bowl. Sprinkle over the salt and toss well but gently. Leave to sit for 15 mins, then drain off any liquid the tomatoes have dropped. Meanwhile make the tapenade."
+    },
+    {
+      "order": 2,
+      "instruction": "Pit olives if required. Combine olives, capers, garlic, anchovy and vinegar in a blender or food processor. Smaller is better, eg. a Nutribullet."
+    },
+    {
+      "order": 3,
+      "instruction": "Add 4 tbsp of olive oil and blend until a rough paste forms, scraping down the sides as you go. If the paste is very thick and you are having trouble blending, add another 1 tbsp of olive oil to help it along."
+    },
+    {
+      "order": 4,
+      "instruction": "You should have a nice paste that’s combined to a smooth but not super-fine puree (we want a little character), and isn’t excessively oily."
+    },
+    {
+      "order": 5,
+      "instruction": "Drain your tomatoes one last time, then arrange slices overlapping on a large plate or platter. Dollop over the tomatoes 1/3 of the tapenade, or as much as you feel you want."
+    },
+    {
+      "order": 6,
+      "instruction": "Garnish with parsley leaves. Drizzle salad with a little more olive oil (~1 tbsp). Serve with some remaining tapenade on the side so people can help themselves."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "tr_256",
+  "title": "Lebanese Fattoush",
+  "image": "https://www.recipetineats.com/tachyon/2025/04/Fattoush_0.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lebanese-fattoush-salad/",
+  "servings": 5,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "fattoush",
+    "lebanese side salad",
+    "middle eastern salad"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  pita bread or 1 lebanese bread",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "cos/romaine lettuce (, cut into large bite size pieces)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  Lebanese cucumbers (, thinly sliced into 3mm rounds)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cherry tomatoes (, halved (~200g), or 1 1/2 regular tomatoes cut into large chunks)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  small red onion (, thinly sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  red radish (, finely sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "mint leaves (, lightly packed (large ones torn in half))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "roughly chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "pomegranate molasses",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium garlic clove (, finely grated or crushed using garlic crusher)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sumac ((still worth making without))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/425°F (200°C fan-forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Separate the pita bread into 2 thin sheets. Cut into 3cm / 1.2&quot; squares."
+    },
+    {
+      "order": 3,
+      "instruction": "Pile on a tray, drizzle with olive oil, toss, then sprinkle with the salt and toss again."
+    },
+    {
+      "order": 4,
+      "instruction": "Spread on the tray. Bake for 5 minutes or until crispy, then cool on the tray before use."
+    },
+    {
+      "order": 5,
+      "instruction": "Dressing - Shake the dressing ingredients in a jar until well combined."
+    },
+    {
+      "order": 6,
+      "instruction": "Salad - Place the Salad ingredients in a large bowl. Drizzle over half the dressing, toss. Add most of the crispy pita chips, drizzle with remaining dressing and toss again."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve - Transfer into a serving bowl, top with remaining crispy pita and serve immediately."
+    }
+  ]
+}

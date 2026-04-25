@@ -1,0 +1,163 @@
+{
+  "id": "tr_1062",
+  "title": "Cowboy Bean Salad",
+  "image": "https://www.recipetineats.com/tachyon/2020/02/Bean-Salad_8.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cowboy-bean-salad/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "bean salad",
+    "black bean salad",
+    "cowboy salad"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9.0,
+    "carbs": 30.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/14 oz   can black beans (, rinsed &amp; drained (Note 1))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/14 oz   can corn (, drained (or frozen thawed 1.5 cups))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red capsicum/bell pepper (, 1cm/1/3\" diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  avocado (, diced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "coriander/cilantro (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250g/8oz  cherry tomatoes (, quartered (or 2 large tomatoes, deseeded and diced, Note 2))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "chipotle powder ((or American Chili Powder, Note 3))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic (, finely ninced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Shake Dressing in a jar."
+    },
+    {
+      "order": 2,
+      "instruction": "Place Salad ingredients in a big bowl. Drizzle over Dressing, toss."
+    },
+    {
+      "order": 3,
+      "instruction": "Serve immediately, or keep for up to 4 days! Might need a squeeze of lime to freshen the flavour."
+    },
+    {
+      "order": 4,
+      "instruction": "Serve as a light meal or side (goes with everything - beef, fish, prawns, pork, chicken). Especially great with all things Mexican – stuff in / pile on tacos, burritos, enchiladas, nachos, fajitas - and Southern Foods (pulled pork, barbcue ribs, fried chicken!)"
+    }
+  ]
+}

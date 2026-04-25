@@ -1,0 +1,266 @@
+{
+  "id": "tr_461",
+  "title": "Maple sweet potato salad - with whipped tahini and crispy chickpeas",
+  "image": "https://www.recipetineats.com/tachyon/2025/06/Maple-sweet-potato-salad-with-whipped-tahini_3.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/maple-sweet-potato-salad-with-whipped-tahini/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 40,
+  "tags": [
+    "roasted sweet potatoes",
+    "sweet potato salad"
+  ],
+  "nutrition": {
+    "calories": 304,
+    "protein": 8.0,
+    "carbs": 41.0,
+    "fat": 13.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "kg",
+      "name": "/ 3 lb  sweet potatoes",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "maple syrup ((or 2 1/2 tbsp honey))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/ 14 oz can  chickpeas (, drained but not dried)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "maple syrup ((sub 2 tbsp honey))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sriracha ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((halve for table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "plain yogurt (, full fat, unsweetened)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "tahini ((mix well if oil is separated))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 large garlic clove (, finely grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped coriander/cilantro leaves ((sub parsley))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "toasted pistachios (, finely chopped (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 220°C/450°F (200°C fan). Arrange the oven racks so they are 20 cm/8&quot; apart (for air circulation)."
+    },
+    {
+      "order": 2,
+      "instruction": "Spicy maple sauce - Mix until combined. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Sweet potato - Cut each sweet potato lengthways into 6 wedges (or 8, if they are thicker potatoes). Put on a paper lined tray, then toss with the maple syrup, olive oil, salt and pepper. Lay sweet potato wedges on their side."
+    },
+    {
+      "order": 4,
+      "instruction": "Chickpeas - Drain the chickpeas then spread on a tray (still wet)."
+    },
+    {
+      "order": 5,
+      "instruction": "Baking - Put both trays in the oven (sweet potato on the top shelf). Roast the potatoes for 30 minutes, turning them at the halfway mark. Take the chickpeas out after 10 minutes to flavour them."
+    },
+    {
+      "order": 6,
+      "instruction": "Crispy seasoned chickpeas - Remove the oven dried chickpeas from the oven after 10 minutes (Note 4). Push them to one side of the tray, drizzle/sprinkle and toss with the oil, spices, salt and pepper. Toss well using a rubber spatula, then return to the oven for a further 15 - 20 minutes until they&#39;re crispy (they will clatter! Note 4)."
+    },
+    {
+      "order": 7,
+      "instruction": "Sweet potato charring (optional) - After 30 minutes (or when the potatoes are soft), switch the oven grill/broiler to high. Tuck in or fold down excess paper around the tray edges (so it doesn&#39;t touch heat element and catch fire). Stand the wedges sharp edge facing up, then pop it under the broiler for 3 to 5 minutes until a bit charred on the edges. ⚠️ SAFETY NOTE: Do not walk away, make sure the paper does not catch fire."
+    },
+    {
+      "order": 8,
+      "instruction": "Whipped tahini yogurt sauce - While the potatoes are roasting whisk ingredients in a heat-proof bowl just to combine. When ready to use, microwave for just 30 seconds on high, then whisk again for 10 seconds – it will resemble softly whipped cream. (Note 5)"
+    },
+    {
+      "order": 9,
+      "instruction": "Optional tahini drizzle - Remove 1/4 cup of the tahini sauce and loosen with a little water to a drizzle-able consistency."
+    },
+    {
+      "order": 10,
+      "instruction": "Assemble - Spread the whipped tahini on a large plate. Pile the sweet potato on, mostly in a single layer. Drizzle with the tahini drizzle (if using), the spicy maple sauce, sprinkle with most of the pistachio and coriander. Sprinkle over chickpeas, then sprinkle with the remaining coriander and pistachios. EAT! (PS Great served warm or at room temperature)"
+    }
+  ]
+}

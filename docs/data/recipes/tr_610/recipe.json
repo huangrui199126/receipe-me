@@ -1,0 +1,146 @@
+{
+  "id": "tr_610",
+  "title": "Apple and rhubarb crumble",
+  "image": "https://www.recipetineats.com/tachyon/2023/07/Rhubarb-crumble-with-apple_5.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/rhubarb-crumble/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 35,
+  "tags": [
+    "rhubarb crumble",
+    "rhubarb recipe"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 5.0,
+    "carbs": 77.0,
+    "fat": 13.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 4 1/2 cups  rhubarb stems",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  Granny Smith apples (~600g/1.2lb whole) (, peeled and cut 1.5cm / 3/5&quot; cubes, ~3 cups/450g once cut (Note 2))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest of 1 orange (, optional but recommended)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "rolled oats ((not quick or steel cut))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "flour (, plain/all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(tightly packed) brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cinnamon powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "90g/ 6 tbsp  unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Vanilla ice cream (- or pouring custard)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/375°F (180°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Filling: Place rhubarb, apple, sugar and orange zest in a large mixing bowl and toss well. Spread evenly in a 30 x 20cm baking dish (12 x 8&quot;) (Note 3)"
+    },
+    {
+      "order": 3,
+      "instruction": "Crumble topping: Place topping ingredients in a bowl and mix with a wooden spoon until all the flour is incorporated (use cutting motion/ smearing up wall, as needed). It will be a sandy mixture."
+    },
+    {
+      "order": 4,
+      "instruction": "Scrunch &amp; top: Grab handfuls of crumble and enclose your fist to press into lumps. Break into clumps and scatter over the filling. (Note 4 explains this unusual step!)."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake for 35 minutes or until rhubarb is soft and the crumble is golden brown. (Bake time - Note 5)"
+    },
+    {
+      "order": 6,
+      "instruction": "Rest &amp; serve: Remove from the oven, rest for 5 minutes. Scoop into bowls and serve with vanilla ice cream or custard!"
+    }
+  ]
+}

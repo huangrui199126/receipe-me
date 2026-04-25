@@ -1,0 +1,111 @@
+{
+  "id": "tr_166",
+  "title": "Roasted Broccoli with Toasted Pangritata (Breadcrumbs)",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/DSC_0004.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roasted-broccoli-parmesan-pangritata-toasted-breadcrumbs/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 165,
+    "protein": 5.1,
+    "carbs": 12.7,
+    "fat": 11.7
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large broccoli or 2 small (, cut into florets)",
+      "emoji": "🥦",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "freshly ground black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "homemade breadcrumbs ((chunkier the better) or panko)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "finely grated Parmesan ((optional) (see notes))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Toss broccoli with 2tbsp olive oil, salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Spread on tray and roast in 350F/180C oven for around 10 minutes until slightly softened and starting to brown."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, combine breadcrumbs, parmesan, 1 tbsp olive oil and salt in small bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "When broccoli is almost done, take the tray out, move the broccoli to one side to make room to spread out the breadcrumbs on the tray."
+    },
+    {
+      "order": 5,
+      "instruction": "Roast broccoli and breadcrumbs for approximately 12 min until the breadcrumbs are golden - don't walk away, the breadcrumbs will cook quickly."
+    },
+    {
+      "order": 6,
+      "instruction": "Pile combined broccoli and breadcrumbs into serving bowl."
+    }
+  ]
+}

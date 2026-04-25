@@ -1,0 +1,180 @@
+{
+  "id": "tr_1819",
+  "title": "Vanilla Chia and Earl Grey Chocolate Banana Muffins.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/01/Vanilla-Chia-and-Earl-Grey-Chocolate-Banana-Muffins-1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/vanilla-chia-earl-grey-chocolate-banana-muffins/",
+  "servings": 18,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [
+    "banana",
+    "chia",
+    "chocolate",
+    "muffins"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4.0,
+    "carbs": 27.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "Earl Grey tea bags or 2 loose leaf Earl Grey Tea",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "coconut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "old fashioned oats",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "white whole wheat flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "chia seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "ground ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  medium size ripe bananas, mashed (about 1 1/2 cups mashed)",
+      "emoji": "🍌",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "dark chocolate (melted)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 350 degrees F. Line 15-18 muffin tins with paper liners."
+    },
+    {
+      "order": 2,
+      "instruction": "In a small saucepan, bring the coconut milk to a gentle simmer. Add the tea bags (or loose leaf tea) and steep for about 10 minutes. Do not allow the milk to boil. Once the milk has steeped, stir in the coconut oil."
+    },
+    {
+      "order": 3,
+      "instruction": "While the milk is steeping, combine the oats, white whole wheat flour, brown sugar, chia seeds, baking powder, baking soda, salt, cinnamon and ginger in a large mixing bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "In a smaller mixing bowl, mash the bananas (and mash them well!). Whisk in the egg and vanilla. Take the steeped milk, squeeze the milk from the tea bags and then discard the tea bags. Now add the steeped milk to the banana mixture."
+    },
+    {
+      "order": 5,
+      "instruction": "Fold the banana mixture into the flour mixture until just combined. If desired you can stir in a large handful of dark chocolate chips... I (of course) did!"
+    },
+    {
+      "order": 6,
+      "instruction": "Divide the batter among 15-18 muffins cups. Bake for 20-25 minutes or until a toothpick inserted into the middle comes out clean. Allow the muffins to cool slightly and then drizzle with melted chocolate."
+    }
+  ]
+}

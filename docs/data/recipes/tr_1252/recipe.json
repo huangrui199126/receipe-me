@@ -1,0 +1,87 @@
+{
+  "id": "tr_1252",
+  "title": "Salted Caramel Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/Salted-Caramel-Sauce_square-1.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/salted-caramel-sauce/",
+  "servings": 4,
+  "prepTime": 3,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "caster sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "heavy whipping cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine sugar and water in saucepan over medium heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring to rolling boil, stirring to help dissolve the sugar."
+    },
+    {
+      "order": 3,
+      "instruction": "Boil for 5 to 8 minutes, until it turns a golden brown."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour in the cream, whisking constantly. Be careful, as the caramel is hot and it will foam."
+    },
+    {
+      "order": 5,
+      "instruction": "Once the cream is combined, remove from heat and whisk in the salt and vanilla."
+    },
+    {
+      "order": 6,
+      "instruction": "The caramel will seem thin. It thickens alot as it cools."
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "tr_1008",
+  "title": "Spanish Healthy Vegetable Soup",
+  "image": "https://www.recipetineats.com/tachyon/2017/07/Healthy-Vegetable-Soup.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/healthy-vegetable-soup/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [
+    "healthy vegetable soup"
+  ],
+  "nutrition": {
+    "calories": 112,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fennel seeds ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium carrots (, finely chopped)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large celery stalk/rib (, finely chopped)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  red capsicums / bell peppers (, cut into 2 cm / 4/5” pieces)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "cabbage (, cut into 3 cm / 1.2” pieces (about 400g/14oz))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 28 oz   crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "(750 ml)  vegetable or chicken broth ((low fat!))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "smoked paprika ((or any paprika))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cayenne pepper ((adjust spiciness to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemon – zest + juice to taste",
+      "emoji": "🍋",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large pot over medium heat. Add garlic and onion, cook for 30 seconds or so."
+    },
+    {
+      "order": 2,
+      "instruction": "Add oregano and fennel seeds, cook for 2 minutes (lets flavour “bloom”)."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn heat down to medium low. Add carrots and celery, cook, stirring regularly, for 8 minutes until onion is sweet (not browned). This step is key to the flavour base of this soup."
+    },
+    {
+      "order": 4,
+      "instruction": "Add capsicum, turn heat up to high and cook for 2 minutes, stirring constantly."
+    },
+    {
+      "order": 5,
+      "instruction": "Add remaining Soup ingredients, bring to simmer then place lid on. Turn heat down to medium low, simmer for 25 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove lid, adjust salt and pepper to taste."
+    },
+    {
+      "order": 7,
+      "instruction": "Ladle soup into bowls. Grate over lemon zest, squeeze of lemon juice and sprinkle with parsley. Serve!"
+    }
+  ]
+}

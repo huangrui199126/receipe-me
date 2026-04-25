@@ -1,0 +1,126 @@
+{
+  "id": "tr_508",
+  "title": "Chewy muesli bars (granola bars)",
+  "image": "https://www.recipetineats.com/tachyon/2023/02/Muesli-bars_5-copy.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/muesli-bars-granola-bars/",
+  "servings": 10,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "granola bars",
+    "muesli bars"
+  ],
+  "nutrition": {
+    "calories": 309,
+    "protein": 8.0,
+    "carbs": 43.0,
+    "fat": 14.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(120g)   pure natural peanut butter, smooth, or other nut butter ((mix oil in well, Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(175 g)  honey ((Note 2))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "rolled oats",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sultanas",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "desiccated coconut (, unsweetened)",
+      "emoji": "🥥",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "almonds (, very roughly chopped)",
+      "emoji": "🥜",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "pepitas",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Add-ins - Using a wooden spoon, mix the add-ins in a large microwaveable bowl (just in case, Note 4)."
+    },
+    {
+      "order": 2,
+      "instruction": "Glue - Using a rubber spatula, mix the peanut butter and honey in a saucepan over medium heat until smooth. Once combined, turn the stove down to low. As soon as you start seeing little bubbles around the edges, cook for 5 minutes, stirring constantly scraping the base, until it is like a very thick caramel (see photos and video in post). You should be able to draw a path across the base and it holds before closing in on itself. DO NOT WALK AWAY, it will catch easily. (Note 5)"
+    },
+    {
+      "order": 3,
+      "instruction": "Mix - Immediately pour it all over surface of the oats etc then mix with the wooden spoon. It takes a bit of effort but it does come together eventually. Stabbing and smearing against the wall of the bowl helps. If it gets too thick, microwave for 20 seconds on high to loosen the glue then mix (then it&#39;s a breeze!)."
+    },
+    {
+      "order": 4,
+      "instruction": "Press - Put a square piece of paper over a 20cm/8&quot; square tin (no need to grease). Drop muesli mix in then spread right into the corners, using a combination of your hands and the wooden spoon. Firmer press = chewier muesli bars."
+    },
+    {
+      "order": 5,
+      "instruction": "Set - Refrigerate 2 hours until firm then cut into 10 bars (cut in half, then each half into 5)."
+    }
+  ]
+}

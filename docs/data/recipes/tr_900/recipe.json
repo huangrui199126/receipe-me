@@ -1,0 +1,115 @@
+{
+  "id": "tr_900",
+  "title": "Creamy Avocado Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2020/08/Creamy-Avocado-Dressing-SQ.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-avocado-salad-dressing/",
+  "servings": 8,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "avocado recipe",
+    "avocado salad dressing",
+    "healthy creamy dressing"
+  ],
+  "nutrition": {
+    "calories": 71,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "ripe avocado ((smush into cup to measure, or estimate - 1/2 medium avo))",
+      "emoji": "🥑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "sour cream or yogurt ((Greek or plain, unsweetened) - OPTIONAL (Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove, small (, minced using garlic crusher (Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "water ((to thin out, it's very rich!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "See Note 3",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place all ingredients into a Nutribullet or small food processor and blitz until smooth. (Inc Extra Flavouring Options)"
+    },
+    {
+      "order": 2,
+      "instruction": "Use water to thin to just pourable consistency (so it&#039;s not super gloopy and thick)."
+    },
+    {
+      "order": 3,
+      "instruction": "Taste and add the following to taste: salt, pepper, lemon, oil. Use as salad dressing!"
+    },
+    {
+      "order": 4,
+      "instruction": "Keeps 3 days in the fridge without going brown. See Note 3 for how to keep even longer!"
+    }
+  ]
+}

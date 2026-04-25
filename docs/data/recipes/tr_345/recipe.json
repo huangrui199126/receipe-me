@@ -1,0 +1,170 @@
+{
+  "id": "tr_345",
+  "title": "Drunken Noodles (Pad Kee Mao)",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Close-up-Thai-Drunken-Noodles-1.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pad-kee-mao-thai-drunken-noodles/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 6,
+  "tags": [
+    "drunken noodles",
+    "pad kee mao"
+  ],
+  "nutrition": {
+    "calories": 454,
+    "protein": 22.9,
+    "carbs": 58.6,
+    "fat": 14.8
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "7",
+      "unit": "oz",
+      "name": "/200g   dried rice noodles (, wide (Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil ((peanut, vegetable or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large cloves of garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  birds eye chilli or Thai chillies (, deseeded, very finely chopped (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/7oz   chicken thighs (, cut into bite size pieces (breast ok too))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fish sauce ((or soy sauce))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green onions (, cut into 3cm/2\" pieces)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "Thai or Thai Holy Basil leaves ((sub regular basil, Note 3))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "light soy sauce ((Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "dark soy sauce ((Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare noodles per packet directions."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix Sauce in a small bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in wok or large heavy based skillet over high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Add garlic and chilli and cook for 10 seconds. Don't inhale - the chilli will make you cough!"
+    },
+    {
+      "order": 5,
+      "instruction": "Add onion, cook for 1 minute.&nbsp;"
+    },
+    {
+      "order": 6,
+      "instruction": "Add chicken and fish sauce, and fry until cooked, around 2 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Add green onion, noodles and sauce and cook for 1 minute until the sauce reduces and coats the noodles."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove from heat and immediately add basil, toss until just wilted, then serve immediately."
+    }
+  ]
+}

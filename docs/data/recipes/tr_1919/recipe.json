@@ -1,0 +1,132 @@
+{
+  "id": "tr_1919",
+  "title": "Grilled Caprese Toast with Burrata Cheese + Grilled Avocados.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/05/Grilled-Caprese-Toast-with-Burrata-Cheese-+-Grilled-Avocados-15.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/grilled-caprese-toast-burrata-cheese-grilled-avocados/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "avocado",
+    "caprese",
+    "cheese",
+    "tomatoes"
+  ],
+  "nutrition": {
+    "calories": 444,
+    "protein": 17.0,
+    "carbs": 55.0,
+    "fat": 25.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  loaf crusty sourdough or ciabatta bread (sliced, or use a gluten free loaf if needed)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large ripe (but firm avocados, peeled, pitted + sliced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "slices",
+      "name": "olive oil (enough to drizzle over bread and avocados)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "burrata cheese (or use fresh sliced mozzarella)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "fresh basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-6  heirloom tomatoes (sliced)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "brown sugar (optional)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add vinegar and brown sugar, if using, to a small saucepan and bring to a boil. Reduce to a very low simmer and cook for 10-15 minutes, until liquid reduces by about half and is slightly syrupy. Remove from heat, pour vinegar in a bowl or glass to pour, and set aside to cool and thicken."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat your grill to high heat or preheat your oven to 450° degrees F."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the slices of bread of bread on a baking sheet and drizzle with olive oil on both sides. Rub each side of bread with the halved garlic clove. Sprinkle the toast with salt and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Place the avocado slices on a plate and drizzle with olive oil. Sprinkle with salt and pepper."
+    },
+    {
+      "order": 5,
+      "instruction": "Place the bread slices and avocados on the grill and grill both for about 2-3 minutes per side or until lightly chard. Remove from the grill."
+    },
+    {
+      "order": 6,
+      "instruction": "Cut into the burrata and divide it among the toast. Top the burrata with fresh basil and then add the grilled avocado slices. Now add the tomato slices and drizzle everything with just a little more olive oil. Sprinkle with salt and pepper. Serve with the balsamic."
+    }
+  ]
+}

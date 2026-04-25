@@ -1,0 +1,115 @@
+{
+  "id": "tr_1449",
+  "title": "Baby Gem Lettuce Salad",
+  "image": "https://www.recipetineats.com/tachyon/2026/03/French-Baby-Gem-Lettuce-Salad_7.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/little-gem-lettuce-salad/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "baby gem lettuce salad",
+    "french side salad",
+    "little gem lettuce salad"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  baby gem lettuce ((aka little gem lettuce), leaves separated, washed and dried (Note 1))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cherry tomatoes (, cut in half (or grape tomatoes, or 2 regular tomatoes cut into bite size pieces))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  eschalot ((US: shallot), finely diced (Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "chives (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 quantity Creamy French Dressing",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "white bread like baguette (, ciabatta, sourdough, cut into 1cm / 0.4\" cubes - preferably stale (Note 3))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 200°C / 390°F (180°C fan-forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss the bread with the oil and salt. Spread on a tray and bake for 10 minutes, tossing once halfway."
+    },
+    {
+      "order": 3,
+      "instruction": "Cool on the tray before using. (These will keep for weeks in an airtight container in the pantry)."
+    },
+    {
+      "order": 4,
+      "instruction": "Place all the lettuce leaves in a large bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Add half of each the tomatoes, croutons, chives and eschalots. Drizzle with half the dressing then gently toss with your hands."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour into a serving bowl or pile on a platter. Scatter the remaining tomatoes, croutons, chives and eschalots across the top, then drizzle with the remaining dressing. Serve!"
+    }
+  ]
+}

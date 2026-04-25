@@ -1,0 +1,143 @@
+{
+  "id": "tr_81",
+  "title": "Bacon French Toast",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/Bacon-French-Toast-Muffin-8-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pull-apart-bacon-french-toast-muffins/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 205,
+    "protein": 11.3,
+    "carbs": 18.3,
+    "fat": 9.4
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "of bread (, cut into 2cm/1\" cubes (fresh or stale - see notes 1 and 2))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  rashers bacon (, diced)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "milk ((low or full fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 pinches salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Maple syrup ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the Egg Mixture ingredients in a bowl and whisk with a fork until combined."
+    },
+    {
+      "order": 2,
+      "instruction": "Add bread cubes and mix well to each piece of bread is well coated with the Egg Mixture."
+    },
+    {
+      "order": 3,
+      "instruction": "If using fresh bread, set aside for 10 to 30 minutes in the fridge. If using stale bread, set aside for 20 minutes to overnight. If you're in a rush, use your hands to gently squeeze the cubes to help them absorb the egg mixture faster."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 5,
+      "instruction": "Spray a medium fry pan with oil spray and heat on high heat. Add the bacon and cook until just starting to brown. Don't cook until it is very brown because otherwise it will overcook in the oven. Remove bacon from fry pan and drain on absorbent paper."
+    },
+    {
+      "order": 6,
+      "instruction": "Spray 6 holes in a muffin tin."
+    },
+    {
+      "order": 7,
+      "instruction": "Mix the bread-egg mixture to evenly disperse the egg mixture that will have settled at the bottom of the bowl."
+    },
+    {
+      "order": 8,
+      "instruction": "Divide 1/3 of the bread-egg mixture between the 6 muffin cups."
+    },
+    {
+      "order": 9,
+      "instruction": "Sprinkle with half the bacon, then press the mixture down with medium pressure using the back of a spoon."
+    },
+    {
+      "order": 10,
+      "instruction": "Top with the remaining bread mixture. Use your fingers to lightly compress them. Each muffin should be slightly mounded even after lightly compressing them. The bread cubes on top will puff back up when you bake it."
+    },
+    {
+      "order": 11,
+      "instruction": "Sprinkle with remaining bacon."
+    },
+    {
+      "order": 12,
+      "instruction": "Bake for 15 to 20 minutes until the top is golden brown."
+    },
+    {
+      "order": 13,
+      "instruction": "Let rest for 5 minutes before removing from the muffin tin."
+    },
+    {
+      "order": 14,
+      "instruction": "Serve with maple syrup, if using."
+    }
+  ]
+}

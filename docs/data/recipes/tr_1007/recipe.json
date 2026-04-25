@@ -1,0 +1,143 @@
+{
+  "id": "tr_1007",
+  "title": "No Chop Roast Pumpkin Soup",
+  "image": "https://www.recipetineats.com/tachyon/2016/07/No-Chop-Roasted-Pumpkin-Soup_3.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/no-chop-roast-pumpkin-soup/",
+  "servings": 5,
+  "prepTime": 5,
+  "cookTime": 70,
+  "tags": [],
+  "nutrition": {
+    "calories": 242,
+    "protein": 10.2,
+    "carbs": 36.3,
+    "fat": 8.3
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "kg",
+      "name": "/ 3 lb   butternut pumpkin ((US: butternut squash), cut in half, skin on)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, peeled (brown, yellow or white))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "head",
+      "name": "of garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 4 cups milk ((of choice))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cream for drizzling",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Garlic bread for dunking",
+      "emoji": "🍞",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Place pumpkin cut side up on baking tray with onion and garlic. Drizzle with oil, sprinkle with salt and pepper. Wrap garlic in foil."
+    },
+    {
+      "order": 3,
+      "instruction": "Bake for 70 - 80 minutes or until the pumpkin is soft (test with skewer)."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour 2 cups of milk into a blender."
+    },
+    {
+      "order": 5,
+      "instruction": "Scoop seeds out of pumpkin and discard. Use a large spoon to scoop out pumpkin flesh from one pumpkin half and place into blender."
+    },
+    {
+      "order": 6,
+      "instruction": "Peel off most of the dark burnt outer layer of onion. Cut in half (with spoon!) and transfer to blender."
+    },
+    {
+      "order": 7,
+      "instruction": "Unwrap garlic and squeeze the flesh out of half the garlic into the blender."
+    },
+    {
+      "order": 8,
+      "instruction": "Whizz until smooth. Adjust consistency to taste with water / milk. Adjust seasoning to taste."
+    },
+    {
+      "order": 9,
+      "instruction": "Pour into bowls. Repeat with remaining pumpkin."
+    },
+    {
+      "order": 10,
+      "instruction": "Drizzle with cream, sprinkle with parsley and serve with hot garlic bread on the side."
+    }
+  ]
+}

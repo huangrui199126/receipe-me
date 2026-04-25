@@ -1,0 +1,131 @@
+{
+  "id": "tr_1133",
+  "title": "Tetsuya's Oysters with Japanese Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2023/12/Tetsuya-oysters-Japanese-dressing_4-close-up.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tetsuyas-oysters-with-japanese-dressing/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "asian oysters",
+    "japanese oysters",
+    "tetsuya oysters"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "Japanese soy sauce ((substitute light soy, Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "rice vinegar ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "mirin ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "grapeseed or vegetable oil ((or other neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil (, toasted (Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "grated ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  oysters ((Sydney Rock or Pacific, Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "20",
+      "unit": "g",
+      "name": "/ 2/3 oz (1 heaped tbsp)  salmon roe (, for topping (optional, makes it extra special, Note 6))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "chives (, finely sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rock salt (, crushed ice or leafy greens - for serving bed (Note 7))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine sugar, soy, rice vinegar and mirin in a jug or bowl. Whisk well until sugar is dissolved. Add oils and ginger. Whisk again and use immediately."
+    },
+    {
+      "order": 2,
+      "instruction": "Place oysters on a serving platter on ice or rock salt (Note 7)."
+    },
+    {
+      "order": 3,
+      "instruction": "Spoon dressing in each - I use 3/4 teaspoon on small oysters and 1 1/4 teaspoon for large. Or more!"
+    },
+    {
+      "order": 4,
+      "instruction": "Top with a small pile of salmon roe, sprinkle with chives. Serve!"
+    }
+  ]
+}

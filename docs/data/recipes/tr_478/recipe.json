@@ -1,0 +1,191 @@
+{
+  "id": "tr_478",
+  "title": "Chicken Pasta recipe of your dreams!",
+  "image": "https://www.recipetineats.com/tachyon/2019/05/Chicken-Alfredo_4.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-pasta-recipe/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "chicken alfredo",
+    "chicken pasta recipe",
+    "creamy chicken pasta"
+  ],
+  "nutrition": {
+    "calories": 887,
+    "protein": 44.0,
+    "carbs": 72.0,
+    "fat": 50.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10 oz  fettuccine ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp   butter (, separated)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  chicken breasts (, cut in half horizontally)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125ml)  dry white wine ((sub more chicken broth))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125ml)  chicken stock / broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "(315ml)  cream (, thickened / heavy (Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(75g)  parmesan (, finely shredded (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "70",
+      "unit": "g",
+      "name": "/ 2.5oz  baby spinach",
+      "emoji": "🥬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 3oz  sun dried tomato strips ((Note 4))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 4oz  bacon (, cooked and crumbled)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "More parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley (, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook pasta in a large pot of salted boiling water for time per packet minus 1 1/2 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Just before draining, scoop out a mugful of pasta cooking water. Then drain pasta."
+    },
+    {
+      "order": 3,
+      "instruction": "Sprinkle both sides of chicken with salt and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Melt half the butter in a large skillet over hig heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Add chicken and cook for 2 minutes on each side until deep golden."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove chicken onto plate, rest for a few minutes then shred with 2 forks."
+    },
+    {
+      "order": 7,
+      "instruction": "Turn down heat to medium high. In the same skillet, add remaining butter and garlic."
+    },
+    {
+      "order": 8,
+      "instruction": "Cook garlic for 30 seconds until golden, then add wine."
+    },
+    {
+      "order": 9,
+      "instruction": "Simmer rapidly, stirring to scrape the brown bits off the bottom of the pan. Once mostly evaporated, add chicken broth, cream, parmesan and sun dried tomato."
+    },
+    {
+      "order": 10,
+      "instruction": "Simmer on medium for 3 - 5 minutes, stirring leisurely, until it reduces and thickens."
+    },
+    {
+      "order": 11,
+      "instruction": "Add spinach, chicken and cooked pasta."
+    },
+    {
+      "order": 12,
+      "instruction": "Toss for 1 1/2 - 2 minutes on the stove, until sauce thickens and coats the pasta strands (see VIDEO). Use pasta cooking water if needed if it gets too thick."
+    },
+    {
+      "order": 13,
+      "instruction": "Serve immediately with parmesan, crumbled bacon and parsley (if desired)."
+    }
+  ]
+}

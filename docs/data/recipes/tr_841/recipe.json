@@ -1,0 +1,307 @@
+{
+  "id": "tr_841",
+  "title": "Mexican Fiesta Menu",
+  "image": "https://www.recipetineats.com/tachyon/2018/05/Mexican-Fiesta-SQ.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mexican-fiesta-menu/",
+  "servings": 8,
+  "prepTime": 60,
+  "cookTime": 600,
+  "tags": [
+    "mexican fiesta",
+    "mexican food",
+    "mexican menu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pork Carnitas",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Restaurant style salsa ((doubles as taco sauce + dip))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Authentic Guacamole",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pickled red cabbage ((Note 1))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Warmed tortillas",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Homemade tortilla chips ((see below))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Grilled corn ((See below))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour Cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped white onions ((Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Coriander/cilantro leaves ((whole or chopped))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Marinated Chicken for tacos",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime marinated chicken",
+      "emoji": "🍗",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chicken Fajitas",
+      "emoji": "🍗",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mexican Shredded Chicken",
+      "emoji": "🍗",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Beef Fajitas",
+      "emoji": "🥩",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mexican Shredded Beef",
+      "emoji": "🥩",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fish Tacos",
+      "emoji": "🐟",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Prawn/shrimp Tacos",
+      "emoji": "🦐",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pico de Gallo",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Queso Dip ((stays silky when cool!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mexican Corn Salad",
+      "emoji": "🌽",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Avocado Corn Salad",
+      "emoji": "🌽",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mexican Grilled Corn with Chipotle Adobo Sauce",
+      "emoji": "🌽",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pig Out Salsa ((Chorizo and Corn))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mexican Red Rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Refried Beans ((Note 3))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Shredded Cheeses",
+      "emoji": "🧀",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Avocado Slices (instead of guac)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Hot Sauces",
+      "emoji": "🥄",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced Jalapeno",
+      "emoji": "🥄",
+      "section": "",
+      "order": 30
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Churros ((quick, and great for make ahead))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 31
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Choose one or two proteins, then sides of choice. See linked recipes for directions (except tortilla chips and grilled corn, see below)."
+    },
+    {
+      "order": 2,
+      "instruction": "Main Taco Filling Selection:&nbsp;The most convenient big batch protein is Pork Carnitas because it freezes great and only requires a quick pan fry to freshen up, and stays good for several hours (tips are in Carnitas recipe notes). The Shredded Chicken and Beef are almost as good (pork is slightly juicier) and stored similarly. The next simplest is Fish Tacos because it's very quick to cook, then just put them in a serving dish and break into chunks with fork. If you want to use one of the chicken recipes to make ahead, use boneless thigh fillets, cook, then keep whole, cover and cool, reserve every drop of leached juice. Before serving, chop/slice, cover and microwave reheat."
+    },
+    {
+      "order": 3,
+      "instruction": "Taco Fixings:&nbsp;I like to have at least one fresh thing to stuff in tacos (pickled cabbage is my choice in this Fiesta), + a sauce (the Restaurant Style Salsa,) + avocado in some form (guac or slices or in Pico de Gallo) + coriander/cilantro. Chopped white onion is very common in Mexico, and Tex Mex fans such as myself will almost always have sour cream and shredded cheese too!"
+    },
+    {
+      "order": 4,
+      "instruction": "Other Sides:&nbsp;Tortillas + things to stuff in tortillas usually makes for a satisfying meal in itself, but to round things out I usually provide a salad or vegetables of some form. Plain grilled corn is very on theme!&nbsp;"
+    },
+    {
+      "order": 5,
+      "instruction": "Homemade Tortillas Chips: Chop corn tortillas to desired shape, fry in oil until crisp and light golden. Transfer for paper towel, sprinkle with salt while hot."
+    },
+    {
+      "order": 6,
+      "instruction": "Grilled Corn:&nbsp;Grill corn on BBQ over high heat until nicely charred. Brush with melted salted butter and sprinkle with chipotle powder (or chilli or cayenne, to taste)"
+    }
+  ]
+}

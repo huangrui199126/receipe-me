@@ -1,0 +1,143 @@
+{
+  "id": "tr_220",
+  "title": "Creamy Salmon Risoni / Orzo (15 Minute Meal)",
+  "image": "https://www.recipetineats.com/tachyon/2016/03/Creamy-Salmon-Risoni-Orzo_2.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-salmon-risoni-orzo-15-minute-meal/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 553,
+    "protein": 29.7,
+    "carbs": 69.3,
+    "fat": 18.1
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "oz",
+      "name": "/ 40g / 3 tbsp   unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, diced (brown, white, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "plain flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "milk ((light or full fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "chicken broth / stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "dried risoni / orzo ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "frozen peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "grated parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "6",
+      "unit": "oz",
+      "name": "/ 185 g   hot-smoked salmon (, flaked into large chunks using 2 forks)",
+      "emoji": "🐟",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley (, chopped, to garnish)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt butter in a deep skillet or pot over medium high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Add onion and garlic, cook for 2 minutes until translucent."
+    },
+    {
+      "order": 3,
+      "instruction": "Add flour and cook for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Switch to a whisk and add half the milk. Whisk to dissolve the pasty onion mixture into the milk (about 20 seconds). Then add remaining milk, chicken broth, risoni and peas."
+    },
+    {
+      "order": 5,
+      "instruction": "Bring to simmer then turn heat down to medium so it bubbles gently. Cook for 5 minutes - stir occasionally for the first half then more frequently during the second half."
+    },
+    {
+      "order": 6,
+      "instruction": "At 5 minutes, take it off the stove - it will still be quite saucy (see video) but will reduce in the next steps and while serving."
+    },
+    {
+      "order": 7,
+      "instruction": "Stir through parmesan cheese, salt and pepper to taste. Then gently stir through salmon."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve immediately, sprinkled with parsley leaves if desired."
+    }
+  ]
+}

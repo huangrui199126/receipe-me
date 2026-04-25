@@ -1,0 +1,123 @@
+{
+  "id": "tr_1395",
+  "title": "Baked Broccoli Cheese Balls",
+  "image": "https://www.recipetineats.com/tachyon/2017/05/Broccoli-Cheese-Balls-3.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baked-broccoli-cheese-balls/",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 374,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(packed) roughly chopped soft cooked broccoli (well drained) ((~400g/14 oz raw broccoli) (Note 1))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "panko breadcrumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large eggs ((~55g/2oz each in-shell))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "shredded cheese ((Cheddar, Colby or Tasty cheese are my usual))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green onion stems (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((halve for table salt, + 50% for flakes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 batch Lemon Yogurt Sauce ((or plain yogurt))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/400°F (180°C fan forced). Line a tray with baking / parchment paper. (Note 2)"
+    },
+    {
+      "order": 2,
+      "instruction": "Mixture - Place all ingredients (except oil spray) in a bowl. Mix well to combine, mashing up the broccoli as you go (like when you are cooking mince)."
+    },
+    {
+      "order": 3,
+      "instruction": "Form balls - Scoop up a heaped tablespoon, then press in firmly. Flick out into your hand then form into a ball. Place on tray. Repeat with remaining mixture - should make 15 - 18 balls."
+    },
+    {
+      "order": 4,
+      "instruction": "Spray and bake - Spray with oil then bake for 25 minutes, or until the surface is slightly crisp and golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve with Lemon Yoghurt Sauce – it also goes great with ketchup!"
+    }
+  ]
+}

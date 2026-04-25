@@ -1,0 +1,179 @@
+{
+  "id": "tr_1482",
+  "title": "Glowing Citrus, Avocado, Quinoa, and Blackened Salmon Salad.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2017/02/Glowing-Citrus-Avocado-Quinoa-and-Blackened-Salmon-Salad-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/glowing-citrus-avocado-quinoa-blackened-salmon-salad/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "citrus salad",
+    "easy dinner recipe",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 693,
+    "protein": 34.0,
+    "carbs": 38.0,
+    "fat": 23.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "skin on salmon (cut into 4 pieces)",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "kosher salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "zest of 1 lime",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "plain greek yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "juice of 2 limes",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "kale (chopped)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  oranges or grapefruits (I used grapefruit, blood and cara cara oranges)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  avocado (sliced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cooked quinoa",
+      "emoji": "🌾",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "fresh cilantro (microgreens, and or basil, for topping)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large gallon size zip-top bag or bowl, combine the olive oil, smoked paprika, garlic powder, thyme, salt, pepper and lime zest + lime juice. Add the salmon and toss to combine."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a medium size skillet over medium-high heat. Add the salmon, skin side facing up. Sear the salmon for 3-4 minutes and then flip and continue cooking for another 4-5 minutes or until the salmon reaches your desired doneness. Cooking times will vary depending on the size of your salmon."
+    },
+    {
+      "order": 3,
+      "instruction": "To make the salad. In a blender, combine the yogurt, cilantro, lime juice, honey and a large pinch of salt. Blend until creamy and smooth. Taste and add salt if needed."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the kale to a large bowl and massage with a few tablespoons of the yogurt sauce. Add the oranges, avocado, and quinoa and gently toss to combine. Divide the salad among plates and top with salmon. Serve with the remaining yogurt sauce."
+    }
+  ]
+}

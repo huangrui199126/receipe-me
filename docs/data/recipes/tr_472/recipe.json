@@ -1,0 +1,150 @@
+{
+  "id": "tr_472",
+  "title": "Moist Blueberry Muffins",
+  "image": "https://www.recipetineats.com/tachyon/2019/11/Blueberry-Muffins_4-SQ.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/moist-blueberry-muffins/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "blueberry muffins",
+    "blueberry recipes"
+  ],
+  "nutrition": {
+    "calories": 288,
+    "protein": 5.2,
+    "carbs": 45.8,
+    "fat": 9.8
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "plain flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "baking soda / bi carb soda ((sub extra 3 tsp baking powder))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "white sugar ((caster, granulated or superfine))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "buttermilk ((Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 4 tbsp  butter (, unsalted, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large eggs (, at room temperature, lightly whisked (Note 2))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   blueberries (, fresh (~2 cups, Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/390°F (all oven types) (Note 4). Line a 12 hole muffin tin with paper patties."
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk Dry: Whisk flour, baking powder, baking soda, sugar and salt in a bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk Wet: In a separate bowl, whisk buttermilk, melted butter, oil, eggs and vanilla."
+    },
+    {
+      "order": 4,
+      "instruction": "Combine Wet &amp; Dry: Make a well in the flour bowl, pour in egg mixture. Mix until just combine - try not to stir more than 8 times. Some flour lumps in the batter is fine."
+    },
+    {
+      "order": 5,
+      "instruction": "Add blueberries: Stir through most of the blueberries - reserve some for topping."
+    },
+    {
+      "order": 6,
+      "instruction": "Fill muffin tin: Divide batter between paper cases. Top with remaining blueberries."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake 1: Bake for 5 minutes, then turn oven down to 180°C/350°F."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake 2: Bake for a further 13 minutes (fan) or 15 minutes (standard ovens), or until a skewer inserted into the muffin comes out clean."
+    },
+    {
+      "order": 9,
+      "instruction": "Cool: Remove muffins from the muffin tin immediately onto a cooling rack. Serve warm or at room temperature (warm is extra yum!)"
+    }
+  ]
+}

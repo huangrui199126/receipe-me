@@ -1,0 +1,135 @@
+{
+  "id": "tr_541",
+  "title": "Mexican Shredded Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2016/03/Slow-Cooker-Mexican-Chicken_1.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mexican-shredded-chicken/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 240,
+  "tags": [],
+  "nutrition": {
+    "calories": 297,
+    "protein": 41.5,
+    "carbs": 6.4,
+    "fat": 12.1
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "lb",
+      "name": "/ 750g   chicken breast (, skinless boneless (~3 halves))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Chipotles in Adobo Sauce ((4 chillies + sauce) (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "14",
+      "unit": "oz",
+      "name": "/ 400g   can crushed tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "EACH dried oregano, cumin powder and onion powder (or garlic powder)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sugar ((any))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt ((Note 2))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Slow Cooker: Place Chicken &amp; Sauce ingredients in the slow cooker and cook for 4 hours on low. The chicken is ready when it can be shredded easily with 2 forks but it should NOT be mushy (i.e. overcooked)."
+    },
+    {
+      "order": 2,
+      "instruction": "Pressure cooker: 35 minutes on high."
+    },
+    {
+      "order": 3,
+      "instruction": "Stove: Place Chicken &amp; Sauce ingredients in a medium saucepan and add 1 cup water. Simmer covered on medium low for 40 - 50 minutes, turning chicken occasionally, until chicken can be shredded with 2 forks."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove chicken and shred. Set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "Add lime juice (to taste) and 1 tbsp olive oil to the sauce. Use a stick blender (or transfer to blender) to puree the sauce. Adjust salt and pepper to taste. You should have about 2 cups of sauce."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat 1 tbsp oil in a large skillet over high heat. Add 1/3 to 1/2 the chicken and fry until dark golden brown on one side, flip and cook the other side very briefly (don't brown), then remove. Use 1 tbsp oil for each batch you fry."
+    },
+    {
+      "order": 7,
+      "instruction": "Toss chicken in the sauce OR serve it on the side."
+    },
+    {
+      "order": 8,
+      "instruction": "Use for tacos (guacamole and Pico de Gallo, enchiladas, burritos, on green Mexican rice, quesadillas, sliders, on tostadas."
+    }
+  ]
+}

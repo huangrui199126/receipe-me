@@ -1,0 +1,210 @@
+{
+  "id": "tr_358",
+  "title": "Beef Enchiladas",
+  "image": "https://www.recipetineats.com/tachyon/2016/06/Beef-Enchiladas_main.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/beef-enchiladas/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 35,
+  "tags": [
+    "beef enchiladas",
+    "enchiladas recipe"
+  ],
+  "nutrition": {
+    "calories": 649,
+    "protein": 45.6,
+    "carbs": 55.3,
+    "fat": 28.6
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "each onion &amp; garlic powder ((Note 1))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "each cumin powder, paprika and dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 1 tsp cayenne pepper ((optional, spiciness))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "flour (, plain/all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(500ml)  chicken stock / broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(375 ml)  tomato passata OR US 1 can (8 oz) canned tomato sauce (eg Hunts) ((Note 2))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped (~1 cup))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   ground beef ((mince))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14oz  refried beans ((1 can, I use Old El Paso))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14oz  black beans, drained ((1 can, Note 3))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  tortillas ((or burrito wraps))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "(150g)  grated melting cheese, or more ((I like Monterey Jack, tasty or cheddar cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cilantro/coriander leaves (, roughly chopped (optional garnish))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix together Spice Mix ingredients. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a large saucepan over medium heat. Add flour and mix to combine into a paste. Cook for 1 minute, stirring constantly."
+    },
+    {
+      "order": 3,
+      "instruction": "Add 1/2 cup chicken broth, whisk straight away then it will turn into a thick smooth paste quite quickly."
+    },
+    {
+      "order": 4,
+      "instruction": "Add remaining chicken broth, passata, salt, pepper and 2 tablespoons of SPICE MIX. Whisk"
+    },
+    {
+      "order": 5,
+      "instruction": "Increase heat slightly to medium high. Cook for 3 to 5 minutes, whisking regularly, until the sauce thickens to the consistency of thick syrup (see video). Remove from stove."
+    },
+    {
+      "order": 6,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat oil in a skillet over high heat. Add garlic and onion, cook for 2 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Add beef and cook for 2 minutes, breaking it up as you go. Add remaining Spice Mix. Cook for a further 2 minutes or until completely brown."
+    },
+    {
+      "order": 9,
+      "instruction": "Add refried beans, black beans, about 1/4 cup of Enchilada Sauce + salt &amp; pepper. Mix (Note 4) and cook for 2 minutes then remove from stove (see video)."
+    },
+    {
+      "order": 10,
+      "instruction": "Smear a bit of Sauce on the bottom of a baking dish (stops sliding)."
+    },
+    {
+      "order": 11,
+      "instruction": "Place filling on the lower third of a tortilla. Roll up then place in the baking dish, seam side down. Repeat with remaining Filling &amp; Tortillas."
+    },
+    {
+      "order": 12,
+      "instruction": "Pour Sauce over the Enchiladas, top with cheese, bake for 10 minutes covered (Note 5) then 10 minutes uncovered. Serve hot!"
+    }
+  ]
+}

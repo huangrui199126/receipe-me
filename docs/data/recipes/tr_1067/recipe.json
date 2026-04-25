@@ -1,0 +1,119 @@
+{
+  "id": "tr_1067",
+  "title": "Spinach Artichoke Dip",
+  "image": "https://www.recipetineats.com/tachyon/2017/05/Spinach-Artichoke-Dip-7.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spinach-and-artichoke-dip/",
+  "servings": 10,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 200,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz   artichoke hearts in brine (, drained (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   frozen chopped spinach (, thawed (Note 2))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   Philadelphia cream cheese ((Note 3))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder ((or 2 garlic cloves, minced))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "mayonnaise ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "sour cream or yoghurt ((full fat recommended))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "grated cheese (, any with flavour like Cheddar, Colby, Tasty Cheese (Australian) (Note 5))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "grated parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Roughly chop the artichokes."
+    },
+    {
+      "order": 2,
+      "instruction": "Squeeze excess liquid out of spinach. Either use paper towels or a clean dishtowel, or my method is to use a colander and press liquid out using a wooden spoon."
+    },
+    {
+      "order": 3,
+      "instruction": "Place cream cheese in a large heatproof bowl. Microwave in 2 x 30 second bursts or until softened. Mix until smooth."
+    },
+    {
+      "order": 4,
+      "instruction": "Add remaining ingredients. Mix until just combined (don’t overmix vigorously, otherwise you’ll smush the artichokes and spinach)."
+    },
+    {
+      "order": 5,
+      "instruction": "Warm in microwave to your taste. Adjust salt and pepper to taste."
+    },
+    {
+      "order": 6,
+      "instruction": "Best served warm but terrific served at room temperature too! Serve with your favourite crackers, vegetable sticks and chips."
+    }
+  ]
+}

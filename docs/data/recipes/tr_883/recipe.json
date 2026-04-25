@@ -1,0 +1,149 @@
+{
+  "id": "tr_883",
+  "title": "Sesame Noodles",
+  "image": "https://www.recipetineats.com/tachyon/2017/08/Sesame-Noodles-2.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sesame-noodles/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "sesame noodles"
+  ],
+  "nutrition": {
+    "calories": 178,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   fresh egg noodles ((Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "green onions (, finely sliced (scallions))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sesame seeds, (plus more for garnish)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp crushed peanuts, (optional, plus more for garnish)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 ½",
+      "unit": "tbsp",
+      "name": "dark soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "normal soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 ½",
+      "unit": "tbsp",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fresh grated ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "peanut butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese sesame paste or tahini ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "garlic chilli paste, like Sambal Oelak, or Sriracha (adjust to taste) ((Note 4))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook noodles per packet directions. Drain then briefly rinse under tap to stop them sticking together."
+    },
+    {
+      "order": 2,
+      "instruction": "Place Sauce ingredients in a bowl. Mix until smooth – microwave briefly if required to assist."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the noodles in a large bowl, add shallots, dressing, sesame seeds and peanuts if using. Toss well. Garnish with more sesame seeds. Serve warm or at room temperature."
+    }
+  ]
+}

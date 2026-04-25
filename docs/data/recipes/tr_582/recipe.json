@@ -1,0 +1,209 @@
+{
+  "id": "tr_582",
+  "title": "Lamingtons",
+  "image": "https://www.recipetineats.com/tachyon/2019/01/Lamingtons_7.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/classic-lamingtons/",
+  "servings": 15,
+  "prepTime": 40,
+  "cookTime": 25,
+  "tags": [
+    "lamingtons"
+  ],
+  "nutrition": {
+    "calories": 369,
+    "protein": 4.2,
+    "carbs": 60.5,
+    "fat": 13.7
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 4.5 oz   unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(220g)  caster sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs (, room temperature)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 3/4",
+      "unit": "cups",
+      "name": "(260g)  flour (, plain/all purpose, sifted (Note 1))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3.5",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125 ml)  milk ((low or full fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "(480g)  icing sugar ((confectionary sugar), sifted)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "(22g)  cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "(15g)  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "150",
+      "unit": "ml",
+      "name": "(1/2 cup + 2 tbsp)  boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 4 cups desiccated coconut",
+      "emoji": "🥥",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Strawberry jam",
+      "emoji": "🍓",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(250 ml)  cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F (or fan forced 160C/320F)."
+    },
+    {
+      "order": 2,
+      "instruction": "Sift flour and baking powder together."
+    },
+    {
+      "order": 3,
+      "instruction": "Grease a 20 cm x 30 cm / 8\" x 12\" cake pan. Line with baking paper (parchment paper), leaving an overhang on all sides (to make it easy to remove)."
+    },
+    {
+      "order": 4,
+      "instruction": "Beat butter, sugar and vanilla with an electric mixer on medium high speed until light and fluffy - about 1 1/2 to 2 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Add eggs 1 at a time, beating well after each addition so the batter is smooth, not curdled."
+    },
+    {
+      "order": 6,
+      "instruction": "Add half the flour and gently fold to combine, then stir in half the milk. Repeat with remaining flour and milk."
+    },
+    {
+      "order": 7,
+      "instruction": "Pour the batter into the prepared pan and bake for 25 minutes until a skewer inserted into the centre comes out clean."
+    },
+    {
+      "order": 8,
+      "instruction": "Stand for 5 minutes then use the overhang baking paper to lift the cake out onto a wire rack and cool completely.&nbsp;"
+    },
+    {
+      "order": 9,
+      "instruction": "Cut cake into 15 squares (5 x 3), or 18 rectangles. Freeze for 1 to 1.5 hours. (Note 2)"
+    },
+    {
+      "order": 10,
+      "instruction": "Combine the Icing ingredients in a heat proof bowl and mix until smooth. Should be a syrup consistency, but not watery. (Note 2)"
+    },
+    {
+      "order": 11,
+      "instruction": "Place coconut in a shallow bowl or pan with a largish surface area (Note 3)."
+    },
+    {
+      "order": 12,
+      "instruction": "Place a piece of cake in the icing and roll to coat using 2 forks. Transfer it into the coconut and quickly roll to coat all over in coconut. Transfer to tray."
+    },
+    {
+      "order": 13,
+      "instruction": "Repeat with remaining sponges.&nbsp;"
+    },
+    {
+      "order": 14,
+      "instruction": "Stand for 1 to 2 hours, or until set. Then serve with tea and coffee!"
+    },
+    {
+      "order": 15,
+      "instruction": "Beat cream and sugar until firm peaks form."
+    },
+    {
+      "order": 16,
+      "instruction": "Cut coated Lamington in half horizontally. Spread with jam then pipe or dollop on cream. Top with lid, keep refrigerated."
+    }
+  ]
+}

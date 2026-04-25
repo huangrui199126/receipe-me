@@ -1,0 +1,136 @@
+{
+  "id": "tr_304",
+  "title": "Vietnamese Caramelised Pork Bowls",
+  "image": "https://www.recipetineats.com/tachyon/2015/11/Vietnamese-Ground-Pork-Bowls_7.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vietnamese-caramelised-pork-bowls/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "ground pork recipe",
+    "ground pork stir fry",
+    "pork mince recipe",
+    "pork mince stir fry"
+  ],
+  "nutrition": {
+    "calories": 341,
+    "protein": 22.0,
+    "carbs": 17.0,
+    "fat": 13.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "cooking oil ((I use peanut oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely diced (brown, white or yellow) (~1/2 cup))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger (, grated or minced)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced (2 tsp paste))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  birds eye or Thai chili (, deseeded and finely chopped (can omit, Note 1))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  pork mince ((ground pork) (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "(tightly packed brown sugar ((don&#39;t skimp, else won&#39;t caramelise))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green onion stem (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Jasmine rice (or other rice for serving)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced red chilli, tomato, cucumber ((optional))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil in a large skillet over high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Sauté - Add the onion, ginger, garlic and chili and cook for 2 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook pork - Add the pork mince and cook for 2 minutes or so until white all over, breaking up the meat with a wooden spoon."
+    },
+    {
+      "order": 4,
+      "instruction": "Add sauce &amp; caramelise - Add the sugar and fish sauce. Stir, then leave it to cook without touching until all the juices cook out and the pork starts caramelised - about 2 minutes. Then stir it and leave it again, without stirring, for around 30 seconds to get more caramelisation. Repeat twice more until caramelised to your taste."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve over jasmine or other rice, or vermicelli noodles, garnished with sliced green onion. For a low carb, low cal option, try Cauliflower Rice! I like to have chunks of plain cucumber and carrots on the side which is a classic way of making Vietnamese bowls."
+    }
+  ]
+}

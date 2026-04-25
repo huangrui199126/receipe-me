@@ -1,0 +1,160 @@
+{
+  "id": "tr_422",
+  "title": "Mexican Corn Salad",
+  "image": "https://www.recipetineats.com/tachyon/2017/03/Mexican-Corn-Salad_9-SQ.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mexican-corn-salad/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "corn salad",
+    "fresh corn salad",
+    "mexican corn salad",
+    "mexican side dish"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 6.0,
+    "carbs": 23.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "corn cut from the cob (~4 large ears) ((or frozen corn, not thawed, Note 1))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "/ 30g  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "mayonnaise ((can cut down to 2 tbsp))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "sour cream ((or yoghurt))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parmesan cheese (, finely grated (Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Jalapeno (, deseeded and finely chopped (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "coriander / cilantro leaves (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "green onion (, finely sliced (~2 stems))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp lime juice (, fresh (plus more to taste))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 2 oz  Cotija or Feta (, crumbled (optional) (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Jalapeno slices, coriander/cilantro leaves, lime wedges (, optional)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut off kernels: Cut the corn off the cob (see photo in post or video for how I do this without getting corn everywhere!) If using frozen, do not thaw."
+    },
+    {
+      "order": 2,
+      "instruction": "Brown corn: Melt butter in a large skillet over high heat. Add garlic and stir for 10 seconds. Add corn and cook for 5 minutes, stirring every now and then, until you get lovely golden brown bits and the corn is cooked and sweet (don&#039;t stir constantly, harder to brown)."
+    },
+    {
+      "order": 3,
+      "instruction": "Season corn: Add salt and pepper halfway through cooking corn."
+    },
+    {
+      "order": 4,
+      "instruction": "Toss with dressing: Transfer corn into large bowl. Add mayonnaise, sour cream, lime juice and parmesan. Toss well to combine - heat will &quot;melt&quot; dressing. Add coriander/cilantro, red onion, green onion and jalaepno. Toss again."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve: Transfer to serving bowl. Crumble over cotija/feta and garnishes of choice. Serve warm or at room temperature."
+    }
+  ]
+}

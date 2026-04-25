@@ -1,0 +1,163 @@
+{
+  "id": "tr_879",
+  "title": "Creamy Broccoli Casserole",
+  "image": "https://www.recipetineats.com/tachyon/2015/05/Broccoli-Casserole_8.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-parmesan-garlic-broccoli-casserole-gratin-bake/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 60,
+  "tags": [],
+  "nutrition": {
+    "calories": 359,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 1.2 lb   broccoli florets (, small to medium (2 large heads, Note 1))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 4 tbsp   unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "plain flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "milk (, preferably warm (full or low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "chicken broth/stock (, preferably warm)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "cheddar cheese, freshly grated  ((Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "grated parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "panko breadcrumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "grated parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "20",
+      "unit": "g",
+      "name": "/ 1.5 tbsp  unsalted butter, melted",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix Topping ingredients in a bowl with a pinch of salt and pepper. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Melt butter in a large pot over medium heat. Add garlic and cook for 1 minute until it smells incredible."
+    },
+    {
+      "order": 4,
+      "instruction": "Add flour and cook for 1 minute, stirring constantly."
+    },
+    {
+      "order": 5,
+      "instruction": "While whisking, slowly pour in half the milk. Once fully incorporated, whisk in the remaining milk plus the chicken broth."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook for 4 to 5 minutes, whisking every now and then and more towards the end, until the sauce thickens so that it coats the back of a wooden spoon and when you draw your finger across it, the path stays (see video)."
+    },
+    {
+      "order": 7,
+      "instruction": "Turn off heat, add cheeses, stir in (don't worry if it doesn't melt fully). Then do a taste test and add a bit of salt if required."
+    },
+    {
+      "order": 8,
+      "instruction": "Add broccoli and stir well to coat."
+    },
+    {
+      "order": 9,
+      "instruction": "Pour into a casserole dish, pat down to fill. Sprinkle over Topping, cover with foil then bake for 25 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove foil and bake for a further 20 minutes until the topping is deep golden and the broccoli is tender."
+    },
+    {
+      "order": 11,
+      "instruction": "Stand for 5 minutes before serving."
+    }
+  ]
+}

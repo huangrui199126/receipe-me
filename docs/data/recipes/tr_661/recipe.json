@@ -1,0 +1,123 @@
+{
+  "id": "tr_661",
+  "title": "Lemon Butter Sauce for Fish",
+  "image": "https://www.recipetineats.com/tachyon/2018/04/Fish-with-Lemon-Butter-Sauce.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lemon-butter-sauce-fish/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 393,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 4 tbsp   unsalted butter (, cut into pieces)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and finely ground pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 x   thin white fish fillets  (120-150g / 4-5oz each), skinless boneless (I used Bream, Note 1)",
+      "emoji": "🐟",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil ((I use canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley, optional",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the butter in a light coloured saucepan or small skillet over medium heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Melt butter then leave on the stove, whisking / stirring very now and then. When the butter turns golden brown and it smells nutty - about 3 minutes, remove from stove immediately and pour into small bowl. (Note 2)"
+    },
+    {
+      "order": 3,
+      "instruction": "Add lemon juice and a pinch of salt and pepper. Stir then taste when it has cooled slightly. Adjust lemon/salt to taste."
+    },
+    {
+      "order": 4,
+      "instruction": "Set aside - it will stay pourable for 20 - 30 minutes. See Note 3 for storing."
+    },
+    {
+      "order": 5,
+      "instruction": "Pat fish dry using paper towels. Sprinkle with salt &amp; pepper, then flour. Use fingers to spread flour. Turn and repeat. Shake excess flour off well, slapping between hands if necessary."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat oil in a non stick skillet over high heat. When the oil is shimmering and there are faint wisps of smoke, add fish. Cook for 1 1/2 minutes until golden and crispy on the edges, then turn and cook the other side for 1 1/2 minutes (cook longer if you have thicker fillets)."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove immediately onto serving plates. Drizzle each with about 1 tbsp of Sauce (avoid dark specks settled at the bottom of the bowl), garnish with parsley and serve with lemon on the side. Pictured in post with Kale and Quinoa Salad."
+    }
+  ]
+}

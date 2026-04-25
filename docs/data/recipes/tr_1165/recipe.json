@@ -1,0 +1,153 @@
+{
+  "id": "tr_1165",
+  "title": "Green Bean Avocado Salad with Creamy Avocado Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2020/08/Chargrill-Charlies-Green-Bean-Avocado-Salad-with-Avocado-Dressing_9-SQ.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/green-bean-avocado-salad/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 0,
+  "tags": [
+    "avocado recipe",
+    "avocado salad",
+    "avocado salad dressing",
+    "green bean salad",
+    "healthy creamy dressing"
+  ],
+  "nutrition": {
+    "calories": 144,
+    "protein": 3.0,
+    "carbs": 11.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  green beans (, ends trimmed, cut into 5cm / 2&quot; pieces)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  tomatoes (, cut into thin wedges)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  avocado (large, or 2 medium) (, diced into 1.5cm / 2/3&quot; pieces)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red capsicum / bell pepper (, diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "ripe avocado ((smush into cup to measure, or estimate - 1/2 medium avo))",
+      "emoji": "🥑",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "sour cream or yogurt ((Greek or plain, unsweetened) - OPTIONAL (Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove, small (, minced using garlic crusher (Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "water ((to thin out, it's very rich!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place all ingredients into a Nutribullet or small food processor and blitz until smooth (including any Extra Flavouring Options suggested in the standalone Creamy Avocado Dressing recipe)."
+    },
+    {
+      "order": 2,
+      "instruction": "Use water to thin to just pourable consistency (so it&#039;s not super gloopy and thick). Taste and add the following to taste: salt, pepper, lemon, oil."
+    },
+    {
+      "order": 3,
+      "instruction": "Steam green beans using method of choice until soft (I microwave, 5 minutes on high). Drain then leave to cool and dry."
+    },
+    {
+      "order": 4,
+      "instruction": "Place remaining salad ingredients in a large bowl with the beans. Drizzle with half the Dressing. Toss. Serve with remaining Dressing on the side."
+    },
+    {
+      "order": 5,
+      "instruction": "Presention note: It looks a bit of a mess once tossed. If you&#039;re serving to impress, just drizzle the Avocado Dressing over and take to the table like that (see in post, it&#039;s much prettier!)."
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "tr_466",
+  "title": "Pork Stir Fry with Green Beans",
+  "image": "https://www.recipetineats.com/tachyon/2018/04/Pork-Stir-Fry-with-Green-Beans_6-1.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/stir-fried-green-beans-with-pork/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "ground pork recipe",
+    "pork mince recipe",
+    "pork stir fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15.0,
+    "carbs": 12.0,
+    "fat": 27.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10oz   green beans ((Note 1))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "220",
+      "unit": "g",
+      "name": "/ 7 oz  pork mince ((Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  small onion (, finely chopped (about 1/2 cup))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped (Note 3))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger (, finely chopped (Note 3))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "peanut oil  ((or vegetable or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dark soy sauce  ((Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine (shaoxing wine) ((Note 5 for subs))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sugar ((sub any sugar or faux sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "+ Chilli Garlic Sauce  ((Note 6))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rice of choice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced red chilli",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauce - Mix Sauce ingredients in a bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Trim the stem end of the beans, then chop into 2 - 2.5cm / 4/5 - 1&quot; pieces."
+    },
+    {
+      "order": 3,
+      "instruction": "Char Beans: Heat 1 1/2 tbsp oil in a heavy based skillet over high heat (I use cast iron) until smoking. Add beans, spread out to cover base. Leave for 1 minute. Quick stir, spread out, cook for 30 seconds. Stir, then leave for 30 seconds, then repeat once more (so 2 1/2 minutes in total cook time) until beans are charred but tender crisp (not withered and floppy). Remove into bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Sauté aromatics - Turn heat down to medium high, add 1 tbsp oil. Add onion, then garlic and ginger. Cook for 1 minute until edges of onion are golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook pork - Turn heat back up to high. Add pork and cook, breaking it up as you go. Cook for 2 minutes until the pork is cooked through, then add Sauce. Cook for 30 seconds, then add beans and stir for another 30 seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve over rice. Garnish with slices of large red chilli (it&#39;s mild), entirely optional. To eat, mix the pork into the rice then eat it with a spoon - forget chopsticks for this one! (For a low carb, low cal option, try Cauliflower Rice)"
+    }
+  ]
+}

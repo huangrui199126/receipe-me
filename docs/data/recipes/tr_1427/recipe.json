@@ -1,0 +1,238 @@
+{
+  "id": "tr_1427",
+  "title": "Our Easy Chilli Crisp",
+  "image": "https://www.recipetineats.com/tachyon/2026/03/Chilli-crisp-2.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/our-easy-chilli-crisp-recipe/",
+  "servings": 310,
+  "prepTime": 20,
+  "cookTime": 30,
+  "tags": [
+    "chilli crisp",
+    "crispy chilli oil"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  dried bay leaf ((substitute fresh))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  star anise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  cinnamon stick ((just break by hand))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "green cardamom pods ((~7 - 8 pods))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tsp",
+      "name": "red (or pink) sichuan peppercorns ((whole not powder) (Note 1))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "fennel seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cloves ((~8 pieces))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green onion stem (, cut into 15cm/6&quot; lengths)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh ginger (, sliced 3mm/ 0.1&quot; thick (slice then press into tablespoon to measure))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "vegetable oil ((or canola or peanut oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "dried chilli flakes ((red pepper flakes) (Note 2))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "smoked paprika (, sub regular/sweet paprika)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "light soy sauce (or all-purpose soy (not dark soy))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Chinese black vinegar ((Chinkiang) (Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "caster sugar / superfine sugar ((Note 4))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Chinese chicken stock powder",
+      "emoji": "🍗",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "crispy fried shallots (, store bought (Note 6))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "crispy fried garlic (, store bought (Note 6))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 20
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Soak Dried Spices with the water 30 minutes. Gently simmer with Oil Infusion ingredients 25 minutes. Strain into bowl over Oil Sizzle ingredients. Cool 30 minutes, mix in Seasoning &amp; Crispy Bits. Fridge 24 hours. Mix very well before use!"
+    },
+    {
+      "order": 2,
+      "instruction": "Chop hard spices - Roughly cut the cinnamon, bayleaf and star anise into ~1cm / 0.4&quot; pieces."
+    },
+    {
+      "order": 3,
+      "instruction": "Soak dried spices - Scrape into a bowl with the remaining Spices. Add the water and mix so everything is coated. Leave for 30 minutes so they absorb all the water. (This prevents burning when infusing hot oil and softens the surface for better flavour extraction)."
+    },
+    {
+      "order": 4,
+      "instruction": "Oil infusion – Put the soaked spices into a 20cm/8&quot; saucepan with the green onion, ginger and cold oil. Start on medium-low, then adjust the heat until you see small fizzy bubbles coming up from the base."
+    },
+    {
+      "order": 5,
+      "instruction": "30 minute fizzy simmer - Maintain that gentle fizzy bubbling for 25 to 30 minutes, stirring 2 or 3 times, and ensure nothing burns. Towards the end, the bubbling will slow (a sign the water has evaporated from the spices, ginger etc) and the ginger and green onion should be dark golden, not burnt. (Note 7 if browning to fast!!)"
+    },
+    {
+      "order": 6,
+      "instruction": "Oil Sizzle ingredients - Just before the oil simmering finishes, put the Oil Sizzle ingredients in a metal bowl (or high heat-proof container that can sustain hot oil). ⚠️ Don&#39;t do this too far ahead of time else the sesame seeds may absorb too much of the liquids."
+    },
+    {
+      "order": 7,
+      "instruction": "Strain - When the infused oil is done, strain the hot oil into the bowl using a fine-mesh metal sieve. Then mix. Discard all the used spices etc caught in the strainer. (Note 8 on oil temp)"
+    },
+    {
+      "order": 8,
+      "instruction": "Cool - Leave the oil to cool for at least 15 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Seasoning and crispy bits - Mix all the Seasoning and Crunchy bits into the cooled oil."
+    },
+    {
+      "order": 10,
+      "instruction": "Infuse overnight - Pour into a jar or airtight container. Once fully cool, seal with a lid. Leave for at least 24 hours to let all the flavours meld. It just gets better with time, peaking on day 3 onwards. Keeps in the fridge for 6 to 8 weeks. Always mix well before using, being sure to agitate all the good stuff into the oil!"
+    },
+    {
+      "order": 11,
+      "instruction": "Use on stir fries, noodles, fried rice, soups (Asian or not!), eggs, in burgers, dipping sauce for dumplings, turn a boring plain poached chicken or fish into an exciting dinner, serve with steak (I DO THIS ALL THE TIME!), dollop over Lebanese pizza or roast vegetables, smear in this or this gyros and donor kebab wraps. Mix with mayo or sour cream to make an instant dip/sauce for fries, wedges or veggie sticks, or use it for tacos and burritos. The question really is - what can&#39;t you use it for??!! :)"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": "tr_1003",
+  "title": "Super Easy Christmas Menu",
+  "image": "https://www.recipetineats.com/tachyon/2019/12/Christmas-Recipes-and-Menus-square-3.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/christmas-recipes/",
+  "servings": 8,
+  "prepTime": 180,
+  "cookTime": 720,
+  "tags": [
+    "easy christmas menu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  Minute Festive  Brie",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crackers for dipping",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Juicy Slow Cooker Turkey Breast with Gravy",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Brown Sugar Glazed Ham OR",
+      "emoji": "🥓",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Maple Glazed Ham OR",
+      "emoji": "🥓",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Christmas Baked Salmon",
+      "emoji": "🐟",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Easy creamy cheesy Potato Bake",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "OR Lemon Potato Salad – easy (, and great make ahead!)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Wild Rice Salad",
+      "emoji": "🍚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Choose a side salad (OR)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Leafy greens, a garden salad or halved cherry tomatoes (+ torn up basil) (with one of these dressings:)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Balsamic Dressing (or)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "French Dressing (or)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Italian Dressing",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Store bought bread",
+      "emoji": "🍞",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Butter or olive oil for dipping",
+      "emoji": "🧈",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Easy Chocolate Fudge Cake",
+      "emoji": "🍫",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare components ahead, then takes minutes to assemble on the day."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare rub ahead, then slow cook first thing in the morning."
+    },
+    {
+      "order": 3,
+      "instruction": "Can be entirely prepped ahead, or even baked ahead!"
+    },
+    {
+      "order": 4,
+      "instruction": "All components can be prepared ahead, then salmon is baked in foil on the day of for simple clean up!"
+    },
+    {
+      "order": 5,
+      "instruction": "A simpler version of Potatoes au Gratin! Prepare ingredients ahead then bake on the day. OR bake ahead then reheat in the oven, covered."
+    },
+    {
+      "order": 6,
+      "instruction": "Is best made the day before!"
+    },
+    {
+      "order": 7,
+      "instruction": "Prep all ingredients ahead then toss to serve on the day."
+    },
+    {
+      "order": 8,
+      "instruction": "Make dressings the up to 2 days ahead."
+    },
+    {
+      "order": 9,
+      "instruction": "Can be made days in advance!"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "tr_1078",
+  "title": "Cauliflower Fried Rice",
+  "image": "https://www.recipetineats.com/tachyon/2020/01/Cauliflower-Fried-Rice_4.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cauliflower-fried-rice/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "cauliflower fried rice"
+  ],
+  "nutrition": {
+    "calories": 144,
+    "protein": 9.0,
+    "carbs": 13.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "oil (, separated (vegetable, canola, peanut))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "75g/ 2.5 oz   ham or bacon (, diced)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "frozen diced peas, carrots, corn ((mix, or other diced fresh veg of choice))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "(4 cups)   cauliflower rice, raw ((Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (, lightly whisked)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green onions (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Mirin (or Chinese Cooking Wine) ((sub dry sherry or cooking sake) (Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Oyster Sauce ((sub Hoisin))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "soy sauce (, light or all purpose (Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil (, toasted)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat 1 tbsp oil in a large skillet over high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Add garlic and onion, cook for 30 seconds."
+    },
+    {
+      "order": 3,
+      "instruction": "Add ham, cook for 1 minute to release flavour."
+    },
+    {
+      "order": 4,
+      "instruction": "Add frozen vegetables, cook 2 minutes until carrot is almost cooked."
+    },
+    {
+      "order": 5,
+      "instruction": "Add cauliflower and Sauce. Cook, stirring regularly, for 4 minutes until sauce is reduced and cauliflower is almost cooked - firm, tender crisp, not soft and mushy."
+    },
+    {
+      "order": 6,
+      "instruction": "Push the cauliflower to one side of the skillet. Add 1/2 tbsp oil, let it heat up briefly, then pour in egg."
+    },
+    {
+      "order": 7,
+      "instruction": "Leave for 10 seconds, then leisurely scramble it. Once almost cooked, mix egg through cauliflower."
+    },
+    {
+      "order": 8,
+      "instruction": "Toss through green onions then serve immediately!"
+    }
+  ]
+}

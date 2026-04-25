@@ -1,0 +1,119 @@
+{
+  "id": "tr_1002",
+  "title": "Crispy Skin Fish",
+  "image": "https://www.recipetineats.com/tachyon/2021/10/Crispy-Skin-Barramundi_97-SQ.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/how-to-cook-fish-with-crispy-skin/",
+  "servings": 2,
+  "prepTime": 3,
+  "cookTime": 0,
+  "tags": [
+    "barramundi recipe",
+    "crispy skin barramundi",
+    "crispy skin fish"
+  ],
+  "nutrition": {
+    "calories": 266,
+    "protein": 36.0,
+    "carbs": 1.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "180g/6oz x 2 barramundi or other fish fillets (, skin on, pin boned (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil ((or vegetable, canola or grapeseed oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt ((or 1/2 tsp table salt, Note 2))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sauces and sides (- see Note 7 below)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Thick Fillets definition: Fish &gt; 2.5cm / 1&quot; thick at the thickest point. Best finished in the oven. (Note 3)"
+    },
+    {
+      "order": 2,
+      "instruction": "Pan type: Non-stick pan, an oven proof one if you have Thick Fillets. (Note 4)"
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven (for Thick Fillets): Preheat oven to 200°C/390°F (180°C fan)."
+    },
+    {
+      "order": 4,
+      "instruction": "Dry skin: Pat skin dry with paper towels. For extra precaution, leave the fish fillets in the fridge skin side up, uncovered, for an hour. (I rarely do this)"
+    },
+    {
+      "order": 5,
+      "instruction": "Scoring skin (Note 5): For Thick Fillets, score the skin by cutting slashes into the skin as pictured in post. 4cm slashes 1cm apart, 2 - 3mm deep, through the skin and ever so slightly into the flesh (1.6&quot; long, 0.4&quot; apart, 0.1&quot; deep)"
+    },
+    {
+      "order": 6,
+      "instruction": "Season fish: Sprinkle the flesh and skin with the salt and pepper just before cooking."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat oil well: Heat oil in a non stick pan over medium high heat until you see the first small wisps of smoke."
+    },
+    {
+      "order": 8,
+      "instruction": "Press fish down: Place one fillet into the pan skin side down, then use your fingers or spatula to press down lightly for 10 seconds to allow the skin to seal flat against the hot surface. Repeat with the other fillet (PROS: Do both at the same time!)."
+    },
+    {
+      "order": 9,
+      "instruction": "Cook skin 2 - 3 minutes: Cook the skin side for 2 to 3 minutes until it&#39;s crispy in the centre and golden. Lift up to check."
+    },
+    {
+      "order": 10,
+      "instruction": "Transfer Thick Fillets to oven: Transfer to oven for 10 minutes (do not flip, keep skin side still down - goes crispier!) or until the internal temperature is 55°C/131°F. (Note 6)"
+    },
+    {
+      "order": 11,
+      "instruction": "Thin fillets: Turn and cook the flesh side in the pan."
+    },
+    {
+      "order": 12,
+      "instruction": "Rest 3 minutes: Transfer fish to a rack with the skin side UP. Rest for 3 minutes."
+    },
+    {
+      "order": 13,
+      "instruction": "Serving: To serve, place on a plate skin side UP. Do not pour sauce on the skin until just before serving else it will soften the fish skin. See ingredients above for suggested sauces and sides!"
+    }
+  ]
+}

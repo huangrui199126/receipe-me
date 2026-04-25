@@ -1,0 +1,71 @@
+{
+  "id": "tr_1989",
+  "title": "Mom’s Ridiculously Easy Butterscotch Monkey Bread.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2013/12/Moms-Ridiculously-Butterscotch-Monkey-Bread-8.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/moms-ridiculously-easy-butterscotch-monkey-bread/",
+  "servings": 16,
+  "prepTime": 20,
+  "cookTime": 40,
+  "tags": [],
+  "nutrition": {
+    "calories": 673,
+    "protein": 3.0,
+    "carbs": 63.0,
+    "fat": 1.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3  loaves of defrosted Rhodes bread dough",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 boxes butterscotch pudding mix (do not use instant )",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  sticks (1 cup) unsalted butter (melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Grab 3 medium size prep bowls. Add the melt the butter to the first, the butterscotch pudding to the second and brown sugar to the third."
+    },
+    {
+      "order": 2,
+      "instruction": "Grab your defrosted bread dough loaves and, using a sharp knife, cut the dough into bite size (or larger if you're in a hurry - this is my mom's way, she is always in a hurry!) pieces. Working one piece at a time, dip the balls into the melted butter, allowing excess butter to drip back into bowl, then butterscotch pudding and then roll through the brown sugar. Layer the balls evenly in your greased bundt pan. Repeat with the remaining balls. If you have any butter, butterscotch pudding or brown sugar left over pour or sprinkle the leftover over on top the bread."
+    },
+    {
+      "order": 3,
+      "instruction": "Cover the Bundt pan with plastic wrap and place in warm place for 40 to 45 minutes or place in the fridge overnight. Preheat your oven to 350 degrees F."
+    },
+    {
+      "order": 4,
+      "instruction": "Place the monkey bread on a cookie sheet and bake for about 40-50 minutes until the crust is a deep dark brown on top. When it's finished cooking, remove it from the oven and allow it to sit for about 10-15 minutes. The turn the bundt over onto a plate for 5 minutes or so. Serve warm!"
+    }
+  ]
+}

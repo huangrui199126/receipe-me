@@ -1,0 +1,173 @@
+{
+  "id": "tr_1241",
+  "title": "Lentil Soup",
+  "image": "https://www.recipetineats.com/tachyon/2020/03/Lentil-Soup-6-SQ.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lentil-soup/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 45,
+  "tags": [
+    "lentil soup"
+  ],
+  "nutrition": {
+    "calories": 311,
+    "protein": 18.0,
+    "carbs": 48.0,
+    "fat": 5.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion, chopped ((white, brown, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large carrot  (, chopped (about 1 1/4 cups))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  celery ribs (, chopped (about 1 1/4 cups))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 400g  dried lentils (, green or brown, rinsed (Note 1))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz  crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1.5",
+      "unit": "litres",
+      "name": "/ 1.5 quarts (6 cups)  vegetable or chicken  (stock / broth, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each cumin and coriander powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "paprika powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  dried bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemon (zest + juice)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt and pepper, (each)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped fresh parsley, for garnish",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Warm bread, to serve",
+      "emoji": "🍞",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large pot over medium heat. Add garlic and onion, cook for 2 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Add celery and carrot. Cook for 7 - 10 minutes or until softened and the onion is sweet. Don't rush this step, it is key to the flavour base of the soup."
+    },
+    {
+      "order": 3,
+      "instruction": "Add all remaining ingredients except the lemon and salt. Stir.&nbsp;"
+    },
+    {
+      "order": 4,
+      "instruction": "Increase heat and bring to simmer. Scoop scum on the surface off and discard (do this again during cooking if required). Place lid on and turn heat down to medium low. Simmer for 35 - 40 minutes or until lentils are soft."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove bay leaves."
+    },
+    {
+      "order": 6,
+      "instruction": "Thicken Soup: Using a stick blender, do 2 or 3 quick whizzes to thicken the soup (see video below). Or transfer 2 cups to a blender, let it cool slightly, then hold lid with tea towel and blend then transfer back into pot."
+    },
+    {
+      "order": 7,
+      "instruction": "Add a touch of water if you want to adjust soup consistency. Season to taste with salt and pepper. Grate over the zest of the lemon then add a squeeze of lemon juice just before serving. Garnish with parsley if desired and serve with warm crusty bread slathered liberally with butter!"
+    }
+  ]
+}

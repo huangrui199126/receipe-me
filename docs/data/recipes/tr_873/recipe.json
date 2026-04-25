@@ -1,0 +1,117 @@
+{
+  "id": "tr_873",
+  "title": "Creamy Cinnamon Rice Pudding (really easy!)",
+  "image": "https://www.recipetineats.com/tachyon/2020/06/Rice-Pudding-cinnamon_SQ.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-cinnamon-rice-pudding/",
+  "servings": 5,
+  "prepTime": 5,
+  "cookTime": 60,
+  "tags": [
+    "rice pudding"
+  ],
+  "nutrition": {
+    "calories": 309,
+    "protein": 8.0,
+    "carbs": 48.0,
+    "fat": 10.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "unsalted butter (, for greasing)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "milk ((full or reduced fat, Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "medium grain white rice, uncooked (- definitely the best for rice pudding (Note 2))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sultanas or raisins ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cream (, thickened/heavy (or bit of butter))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (all types)."
+    },
+    {
+      "order": 2,
+      "instruction": "Grease a 10 cup+ casserole dish with butter."
+    },
+    {
+      "order": 3,
+      "instruction": "Place milk, sugar and vanilla in a saucepan over medium high heat. Bring to a simmer, stirring to dissolve the sugar, until the surface is foamy - do not boil, it will split."
+    },
+    {
+      "order": 4,
+      "instruction": "Place rice, sultanas and cinnamon in baking dish. Pour over milk, give it a brief stir then cover with lid or foil."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake for 1 hour, stirring every 20 minutes to break up the rice that starts to set on the base."
+    },
+    {
+      "order": 6,
+      "instruction": "After 1 hour, remove from oven and add cream. Give it a good stir - it will look a bit watery straight out of the oven but it evaporates quickly. I like mine creamy so it oozes when you serve it."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve immediately, just as is or with a scoop of vanilla ice cream if you want to take it over the top!"
+    }
+  ]
+}

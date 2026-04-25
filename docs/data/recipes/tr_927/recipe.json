@@ -1,0 +1,187 @@
+{
+  "id": "tr_927",
+  "title": "Chinese Beef and Broccoli Noodles",
+  "image": "https://www.recipetineats.com/tachyon/2017/10/Beef-and-Broccoli-Noodles-2.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-beef-broccoli-noodles/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 493,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "350 - 400 g / 12 - 14 oz   beef rump or fillet (, thinly sliced (or other quick cooking cut of beef))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "peanut or vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large head broccoli (, broken into small florets)",
+      "emoji": "🥦",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400 - 450g / 14 - 15 oz   egg noodles ((hokkien, lo mein, singapore - from the fridge) (Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "dark soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "light soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine/Shoasing wine ((Note 3))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sugar ((omit if using Mirin))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "Chinese five spice powder ((not critical))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sesame oil (not critical)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "pepper (white or black)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped shallots / green onions / scallions",
+      "emoji": "🧅",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauce: Place water and cornflour in a bowl, mix. Then add remaining ingredients and mix."
+    },
+    {
+      "order": 2,
+      "instruction": "Beef: Place in a bowl and add 1 1/2 tbsp Sauce. Mix."
+    },
+    {
+      "order": 3,
+      "instruction": "Broccoli &amp; Noodles: Bring a large pot of water to the boil. Add broccoli, cook for 1 minute. Add noodles then after 15 seconds, use a wooden spoon to separate the noodles then immediately drain (don't have the noodles in the water for more than 1 minute)."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil in a large skillet over high heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Add garlic, quickly stir. Add onion and cook for 1 minute until it's tinged with brown."
+    },
+    {
+      "order": 6,
+      "instruction": "Add beef and cook until it changes from red to brown."
+    },
+    {
+      "order": 7,
+      "instruction": "Add noodles, broccoli and sauce. Toss together for 1 1/2 - 2 minutes or until Sauce thickens and coats the noodles. Sprinkle with sesame seeds and shallots, if using, and serve!"
+    }
+  ]
+}

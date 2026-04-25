@@ -1,0 +1,172 @@
+{
+  "id": "tr_701",
+  "title": "Beef fried rice",
+  "image": "https://www.recipetineats.com/tachyon/2023/02/Beef-fried-rice_6-SQ.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/beef-fried-rice/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "beef mince recipe",
+    "fried rice",
+    "ground beef recipe",
+    "rice meals"
+  ],
+  "nutrition": {
+    "calories": 471,
+    "protein": 22.0,
+    "carbs": 50.0,
+    "fat": 20.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dark soy sauce ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "light soy sauce ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oyster sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine ((Note 3))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "white pepper ((sub black))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (, lightly whisked)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil ((peanut, veg, canola or other neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz  beef mince / ground beef ((I use lean, Note 4))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "frozen diced carrots, peas, corn ( (still frozen fine!) (or fresh diced veg))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "day-old cooked rice ((1c uncooked rice = 3c cooked, Note 5))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "finely sliced green onions ((1-2 stems))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Sauce ingredients in a small bowl, then set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Scramble eggs - Heat sesame oil in a large wok or non-stick pan over medium high heat. Add egg and cook, stirring gently, so it is softly scrambled. Remove onto a plate."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook beef - Heat vegetable oil in the same pan over high heat. Add onion and garlic, cook for 30 seconds. Add beef and cook, breaking it up as you go, for 2 minutes or until you no longer see raw beef. Add 2 tablespoons of sauce and cook for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Veg / caramelise beef - Add frozen vegetables and cook for 2 minutes or until the beef gets nicely caramelised - this is the trick to great flavour so do not shortcut this!"
+    },
+    {
+      "order": 5,
+      "instruction": "Rice &amp; sauce - Add rice and remaining sauce. Toss for 2 minutes until the sauce is well dispersed throughout the rice and the rice grains start to caramelise a bit."
+    },
+    {
+      "order": 6,
+      "instruction": "Egg &amp; green onion - Then add scrambled eggs and green onion, give it a quick toss to disperse then divide between bowls. EAT!"
+    }
+  ]
+}

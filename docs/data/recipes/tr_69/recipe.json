@@ -1,0 +1,207 @@
+{
+  "id": "tr_69",
+  "title": "Meatloaf Cupcakes With Mashed Potato",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/Meatloaf-Cupcakes-1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/meatloaf-cupcakes-mashed-potato/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 263,
+    "protein": 23.3,
+    "carbs": 23.9,
+    "fat": 7.9
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   beef mince ((ground beef))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, grated (brown, white or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  small carrots (, grated)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "grated parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "tomato ketchup ((or tomato sauce))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "panko ((or breadcrumbs))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 large or 3 medium   potatoes",
+      "emoji": "🥔",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "butter ((optional))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 1 cup milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Tomato ketchup or sauce",
+      "emoji": "🍅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley (, finely chopped (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Spray 8 holes of a muffin tin."
+    },
+    {
+      "order": 3,
+      "instruction": "Grate the onion and carrot straight into a large bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Add remaining meatloaf ingredients and use your hands to mix and combine well."
+    },
+    {
+      "order": 5,
+      "instruction": "Scoop up 1/2 cup of mince and use your hands to form a rough ball shape. Press into the muffin tin. The surface should be a slight dome shape."
+    },
+    {
+      "order": 6,
+      "instruction": "Repeat with remaining mince. It should make about 8."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake for 20 - 25 minutes until browned on top. Remove from oven."
+    },
+    {
+      "order": 8,
+      "instruction": "Peel and dice the potato. Steam or boil until soft but not waterlogged."
+    },
+    {
+      "order": 9,
+      "instruction": "Drain, then add butter and 1/2 cup of milk. Mash using a potato masher until smooth or to your liking. Add extra milk if you need it. The mash needs to be creamy but stiff enough to hold its shape when piped or piled onto the Meatloaf Cupcakes."
+    },
+    {
+      "order": 10,
+      "instruction": "Smear a dollop of tomato ketchup on the Meatloaf Cupcakes."
+    },
+    {
+      "order": 11,
+      "instruction": "Top with mashed potato, either by piping it or just dolloping it on with a spoon."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve with a sprinkle of parsley, if using."
+    }
+  ]
+}

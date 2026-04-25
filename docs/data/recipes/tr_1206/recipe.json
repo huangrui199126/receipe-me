@@ -1,0 +1,179 @@
+{
+  "id": "tr_1206",
+  "title": "Savoury Sweet Potato Casserole",
+  "image": "https://www.recipetineats.com/tachyon/2019/11/Sweet-Potato-Casserole_5.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/browned-butter-savoury-sweet-potato-casserole/",
+  "servings": 10,
+  "prepTime": 20,
+  "cookTime": 135,
+  "tags": [
+    "mashed potato bake",
+    "savoury sweet potato casserole",
+    "sweet potato casserole"
+  ],
+  "nutrition": {
+    "calories": 321,
+    "protein": 7.0,
+    "carbs": 4.0,
+    "fat": 31.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1.75",
+      "unit": "kg",
+      "name": "/ 3.5lb  sweet potato ((3 large or 6 smaller ones))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(115g)  sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(50g)  parmesan (, freshly grated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8oz  butter (, salted, cut into 2cm/1\" cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "15  sage leaves ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((Note 2))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(50g)  parmesan (, finely grated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5oz  bacon (, streaky, cooked until golden then finely chopped)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F."
+    },
+    {
+      "order": 2,
+      "instruction": "Place potatoes on a foil lined tray. Bake for 1 hour 15 minutes (small) to 1 hour 40 minutes (large) until knife can be easily inserted into the centre."
+    },
+    {
+      "order": 3,
+      "instruction": "Cool potatoes until they can be handled (but still piping hot inside!) or use tea towel to handle."
+    },
+    {
+      "order": 4,
+      "instruction": "Meanwhile, place butter in a large silver saucepan over medium heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Once melted and starts to foam, add sage leaves. Cook 1 minute or until golden brown, then fish through the foam to find the leaves and drain on paper towels (will crisp when cool)."
+    },
+    {
+      "order": 6,
+      "instruction": "Continue to leave butter on stove until foam dies down and you see black bits on the bottom of the pan (it will smell nutty)."
+    },
+    {
+      "order": 7,
+      "instruction": "Strain through paper towel lined sieve - should have 180ml or so."
+    },
+    {
+      "order": 8,
+      "instruction": "Crumble sage leaves in your hand (chop if not fully crisp) and place in bowl."
+    },
+    {
+      "order": 9,
+      "instruction": "Add 1/4 cup Browned Butter, panko, parmesan, garlic, salt and pepper, mix."
+    },
+    {
+      "order": 10,
+      "instruction": "Cut slits down the middle of the potatoes then scoop flesh out into a bowl."
+    },
+    {
+      "order": 11,
+      "instruction": "Add 1/4 cup Browned Butter (below), sour cream, parmesan, salt and pepper. Mash or use electric beater to mash until smooth (if using food processor, be careful not to overdo as it will make potato gluey)."
+    },
+    {
+      "order": 12,
+      "instruction": "Place half the potato in a baking dish (2 litre / 2 quarts). Make swirls across surface with spoon (as catchment for butter!), then drizzle over 1/4 cup Browned Butter. Cover the butter pools with remaining potato - the less you disturb the butter, the better!"
+    },
+    {
+      "order": 13,
+      "instruction": "Sprinkle over Topping. Bake 25 minutes until top is golden brown and edges are bubbling."
+    },
+    {
+      "order": 14,
+      "instruction": "Sprinkle with crumbled bacon, then bake a further 5 minutes. If you&#x27;ve got any leftover butter, drizzle it on then serve!"
+    }
+  ]
+}

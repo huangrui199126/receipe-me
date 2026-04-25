@@ -1,0 +1,60 @@
+{
+  "id": "tr_1302",
+  "title": "Bang Bang Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2025/09/Bang-Bang-Sauce_0.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/bang-bang-sauce/",
+  "servings": 0,
+  "prepTime": 3,
+  "cookTime": 0,
+  "tags": [
+    "bang bang sauce",
+    "creamy pink sauce",
+    "creamy sweet chilli sauce",
+    "sweet and spicy sauce"
+  ],
+  "nutrition": {
+    "calories": 833,
+    "protein": 1.0,
+    "carbs": 18.0,
+    "fat": 84.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "whole-egg mayonnaise ((Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sweet chilli sauce ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sriracha (, or other chilli sauce you want, adjust amount to control spiciness (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix ingredients together until smooth."
+    },
+    {
+      "order": 2,
+      "instruction": "Use for smearing in burgers, wraps (Doner Kebabs!), sandwiches, as a dipping sauce for fries, wedges, chicken fingers, drizzle across salads and poke bowls. And soon, I will share my Bang Bang Shrimp recipe!"
+    }
+  ]
+}

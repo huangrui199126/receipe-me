@@ -1,0 +1,168 @@
+{
+  "id": "tr_758",
+  "title": "No-Stir Creamy Lemon & Herb Baked Risotto (it's magic!)",
+  "image": "https://www.recipetineats.com/tachyon/2020/11/Creamy-baked-risotto-lemom-herb_9-SQ.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-lemon-herb-baked-risotto-recipe/",
+  "servings": 5,
+  "prepTime": 5,
+  "cookTime": 35,
+  "tags": [
+    "baked risotto",
+    "easy risotto recipe",
+    "lemon herb risotto recipe",
+    "risotto recipe"
+  ],
+  "nutrition": {
+    "calories": 406,
+    "protein": 12.0,
+    "carbs": 57.0,
+    "fat": 14.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "Arborio risotto rice ((Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "chicken stock (, low sodium (or vegetable))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely diced (brown, white, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, finely minced (large!))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "30g/ 2 tbsp  butter (, unsalted, cut into 1.5cm / 1/2\" pieces)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "parmesan cheese (, finely grated (store bought pre grated is fine))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "30g/ 2 tbsp  extra butter (, unsalted, cut into 1.5cm / 1/2\" pieces (Note 3))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lemon rind ((1 lemon))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "chives (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "dill (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (all oven types)."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat stock: Heat up the chicken stock until just before boiling using whatever method suits - stove or microwave."
+    },
+    {
+      "order": 3,
+      "instruction": "Pour everything into casserole dish: Pour the stock into a small casserole pot ~24cm/10&quot; wide. Then add all the remaining Risotto ingredients - rice, butter, onion, garlic, pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake 35 minutes: Cover with lid or foil, bake 35 minutes or until rice is just cooked - tender but not mushy. The risotto will still look liquidy - that&#039;s what you want to ensure risotto is creamy at the end!"
+    },
+    {
+      "order": 5,
+      "instruction": "Stir vigorously: Remove from oven, stir ta few times to break up rice. Add finishing butter and parmesan, then stir vigorously until the watery liquid becomes creamy, and mostly evaporates/gets absorbed."
+    },
+    {
+      "order": 6,
+      "instruction": "Goal - oozy and creamy:The risotto should be oozy and creamy, not thick, gluey or stodgy. If it gets too thick, add 1 tbsp of boiling water at a time to loosen it up, stirring well after each addition."
+    },
+    {
+      "order": 7,
+      "instruction": "Taste for salt: Taste for seasoning and adjust (I find it&#039;s just right)."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve asap! Serve while hot and creamy, topped with more parmesan if desired!"
+    },
+    {
+      "order": 9,
+      "instruction": "Add lemon rind, juice and herbs, stir through gently just before serving."
+    }
+  ]
+}

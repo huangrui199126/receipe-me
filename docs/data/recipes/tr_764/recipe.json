@@ -1,0 +1,138 @@
+{
+  "id": "tr_764",
+  "title": "Salsa Verde recipe",
+  "image": "https://www.recipetineats.com/tachyon/2021/03/Salsa-Verde_5-SQ.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/salsa-verde/",
+  "servings": 1,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "green sauce",
+    "salsa verde"
+  ],
+  "nutrition": {
+    "calories": 526,
+    "protein": 3.0,
+    "carbs": 5.0,
+    "fat": 57.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "green basil (, packed)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "parsley (, flatleaf; packed)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "mint leaves (, packed)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "gherkins (, roughly chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "capers",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "red wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  ice cube - for loosening but keeps the mixture green.",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2  anchovies",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  small garlic clove (, roughly chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Substitute the basil and mint with more parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Blitz - Place all ingredients in a tall container and blitz into a fine puree (or to the texture you prefer) using a stick blender. You could also use a small food processor."
+    },
+    {
+      "order": 2,
+      "instruction": "Serving: See in post for extensive list. Serve with steaks, chops or roasted lamb, beef, pork, chicken and seafood (especially great with fish!). It&#039;s also excellent with legumes, cooked vegetables and even eggs. You can also use it in the same ways as a tapenade or pesto: Spread on crostini, use in sandwiches, dress salads with it, toss with pasta!"
+    }
+  ]
+}

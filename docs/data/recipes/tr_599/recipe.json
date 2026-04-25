@@ -1,0 +1,235 @@
+{
+  "id": "tr_599",
+  "title": "No Bake Mango Cheesecake",
+  "image": "https://www.recipetineats.com/tachyon/2018/01/Mango-Cheesecake-4-copy.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/no-bake-mango-cheesecake/",
+  "servings": 12,
+  "prepTime": 30,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 380,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5 oz  Arnott's Marie Biscuits (17 crackers), or digestives, Graham Crackers or other plain sweet biscuit",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 3.5 oz  unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 1.4 lb  mango flesh ( (2 large mangoes) (Note 1))",
+      "emoji": "🥭",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4 1/2",
+      "unit": "tsp",
+      "name": "gelatin powder ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml  cold tap water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   Philadelphia cream cheese, softened ((2 blocks))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "/ 150g  caster sugar ((superfine white sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "300",
+      "unit": "ml",
+      "name": "/ 10 oz   whipping cream*",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "gelatin powder ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65 ml  cold tap water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "300",
+      "unit": "ml",
+      "name": "/ 10 oz   whipping cream*",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large mango, cut into cubes",
+      "emoji": "🥭",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  passionfruit",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Use a 22 cm / 9\" springform pan (or similar size). Turn the base UPSIDE DOWN (for ease of removal later)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place a square sheet of baking paper on the base, then secure in springform pan (see video) with excess paper hanging out sides."
+    },
+    {
+      "order": 3,
+      "instruction": "Grease sides with butter and line with paper."
+    },
+    {
+      "order": 4,
+      "instruction": "Blitz crackers into fine crumbs in a food processor."
+    },
+    {
+      "order": 5,
+      "instruction": "Add butter and sugar, blitz until combined. Pour into prepared cake pan. Press down firmly - base only, not sides."
+    },
+    {
+      "order": 6,
+      "instruction": "Put water in a heatproof bowl. Sprinkle gelatin over surface (don't dump in centre). Stir to partly dissolve. Set aside 5 minutes - it turns gelatinous."
+    },
+    {
+      "order": 7,
+      "instruction": "Microwave 15 seconds on high x 2, stirring in between. Stir until dissolved (few tiny specks ok). Cool 5 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Place mango in food processor. Blitz until smooth."
+    },
+    {
+      "order": 9,
+      "instruction": "Measure out 3/4 cup and reserve for mango jelly, set aside."
+    },
+    {
+      "order": 10,
+      "instruction": "Add cream cheese, cream, sugar and gelatine mixture into food processor (2.5L/2.5qt/10 cup+ capacity - Note 3). Blitz for 30 seconds or so until smooth."
+    },
+    {
+      "order": 11,
+      "instruction": "Pour into cake pan. Refrigerate 3+ hours until top is set."
+    },
+    {
+      "order": 12,
+      "instruction": "Pour water into bowl, sprinkle over gelatin. Leave 5+ min. Microwave on high 2 x 10 sec, stir well until granules dissolved. Set aside 5 minutes to cool."
+    },
+    {
+      "order": 13,
+      "instruction": "Place reserved mango puree (from step 4 under Filling) and lemon in a bowl. Pour over gelatin and whisk well."
+    },
+    {
+      "order": 14,
+      "instruction": "Pour over cheesecake filling. Tilt cake around to spread."
+    },
+    {
+      "order": 15,
+      "instruction": "Refrigerate 12 hours+."
+    },
+    {
+      "order": 16,
+      "instruction": "Release pan sides, then use overhang paper to slide cheesecake onto serving plate. Then slide the paper out from under the cheesecake."
+    },
+    {
+      "order": 17,
+      "instruction": "Place cream, vanilla and sugar in a bowl. Whip until the cream is softy whipped."
+    },
+    {
+      "order": 18,
+      "instruction": "Piled over the centre of the cheesecake."
+    },
+    {
+      "order": 19,
+      "instruction": "Top with more chopped mango and passionfruit pulp. Serve and relish in praises!"
+    }
+  ]
+}

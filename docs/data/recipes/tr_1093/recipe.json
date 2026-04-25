@@ -1,0 +1,179 @@
+{
+  "id": "tr_1093",
+  "title": "Pork Carnitas Tacos",
+  "image": "https://www.recipetineats.com/tachyon/2016/08/Pulled-Pork-Tacos_3.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mexican-pulled-pork-tacos-carnitas-good-food-wine-show-fun-bloopers/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 160,
+    "protein": 17.5,
+    "carbs": 13.1,
+    "fat": 4.1
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pork Carnitas",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Spicy Tomato Salsa Sauce",
+      "emoji": "🍅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Small tortillas ((corn or flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Avocado slices",
+      "emoji": "🥑",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Tomato slices",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "White onions (, finely sliced or diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Coriander / cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Grated cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "finely chopped onion ((white, brown or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "14",
+      "unit": "oz",
+      "name": "/ 435 g   can refried beans ((I use Old El Paso))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "onion powder ((or garlic powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/3 - 1/2 cup sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a saucepan over medium high heat. Add garlic and onion, saute for 3 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Add remaining ingredients except sour cream and stir to combine. Add about 1/4 cup sour cream, stir, then add more to achieve your desired consistency. Once the beans are heated, remove from heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Warm tortillas, according to packet instructions."
+    },
+    {
+      "order": 4,
+      "instruction": "Pile up Pork Carnitas on a plate."
+    },
+    {
+      "order": 5,
+      "instruction": "Spoon Refried Beans onto a plate and top with grated cheese."
+    },
+    {
+      "order": 6,
+      "instruction": "Place coriander, lime, onion, tomato and avocado onto a plate."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve with Spicy Tomato Salsa on the side as the sauce!"
+    }
+  ]
+}

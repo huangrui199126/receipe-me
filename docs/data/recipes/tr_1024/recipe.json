@@ -1,0 +1,174 @@
+{
+  "id": "tr_1024",
+  "title": "Noodle Salad With Creamy Sesame Peanut Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Noodle-Salad-Creamy-Sesame-Peanut-Dressing_4.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/noodle-salad-creamy-sesame-peanut-dressing/",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "asian noodle salad",
+    "work lunch idea"
+  ],
+  "nutrition": {
+    "calories": 541,
+    "protein": 17.0,
+    "carbs": 67.0,
+    "fat": 24.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "peanut butter (, preferably smooth (Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sesame oil (, toasted (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "canola oil ((or other neutral oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "soy sauce ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sweet chilli sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sriracha ((adjust spiciness to taste))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice ((sub rice or cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 to 4 tbsp water (, if needed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "/ 12 oz  fresh egg noodles  ((about 4 cups, packed))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "carrot (, julienned (1 large or 2 small carrots))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "beansprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "green beans (, halved)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "red bell pepper/capsicum (, finely sliced (1 large))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  green onion stems (, finely sliced on the diagonal )",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white sesame seeds ((preferably toasted))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare noodles according to packet directions (most just require soaking in hot water). Drain, rinse and set aside to cool."
+    },
+    {
+      "order": 2,
+      "instruction": "Dressing - Mix together Dressing ingredients, using water only if needed to loosen so it can be tossed through salad. If you reduce Sriracha, might need to add smidge more lime."
+    },
+    {
+      "order": 3,
+      "instruction": "Beans - Steam or boil green greens until just cooked, tender but still crisp. Drain under running water to cool."
+    },
+    {
+      "order": 4,
+      "instruction": "Toss - Place salad ingredients in a big bowl, toss with dressing.&nbsp;"
+    },
+    {
+      "order": 5,
+      "instruction": "Garnish with sesame seeds then serve at room temp. Keeps 4 days in the fridge."
+    }
+  ]
+}

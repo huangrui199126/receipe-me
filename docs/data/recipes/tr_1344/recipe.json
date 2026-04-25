@@ -1,0 +1,118 @@
+{
+  "id": "tr_1344",
+  "title": "Homemade Peri-naise",
+  "image": "https://www.recipetineats.com/tachyon/2025/09/Peri-naise_2.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/peri-naise/",
+  "servings": 0,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "nandos creamy sauce",
+    "peri-naise"
+  ],
+  "nutrition": {
+    "calories": 1169,
+    "protein": 2.0,
+    "carbs": 7.0,
+    "fat": 126.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "Peri Peri Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "mayonnaise (, preferably whole egg (Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "mayonnaise (, preferably whole egg (Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "smoked paprika ((sub regular paprika))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder ((sub fresh garlic, finely grated))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cayenne pepper ((adjust or remove for not spicy))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice ((or apple cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix - For both versions, mix ingredients in a bowl and refrigerate for at least 30 minutes before using to let the flavours meld, if you can."
+    },
+    {
+      "order": 2,
+      "instruction": "Use for burgers and wraps, dipping (like fries, crunchy tenders, popcorn chicken), drizzling on salad and rice bowls, poke bowls etc. See list of suggested recipes in post!"
+    },
+    {
+      "order": 3,
+      "instruction": "Storage - The Peri Peri Sauce version will keep 5 days in the fridge, the dry spices one will keep for at least a week. Not suitable for freezing."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": "tr_986",
+  "title": "Slow Cooker BBQ Pulled Pork Sandwich",
+  "image": "https://www.recipetineats.com/tachyon/2017/01/BBQ-Pulled-Pork-Sandwiches-9.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/slow-cooker-bbq-pulled-pork-sandwich/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 480,
+  "tags": [],
+  "nutrition": {
+    "calories": 670,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "paprika powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.5 - 2.2 kg/ 3 - 4.5 lb   pork shoulder or butt (, skinless and boneless (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "apple cider or apple juice ((Note 2))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  quantity Coleslaw",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6 - 8  bread rolls",
+      "emoji": "🍞",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "pork juices from slow cooker, once cooked",
+      "emoji": "🥩",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "ketchup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "each black pepper, onion (or garlic powder), mustard powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix together Rub then rub all over the pork. Optional: Marinate for 1 hour."
+    },
+    {
+      "order": 2,
+      "instruction": "Place in the slow cooker and pour over apple cider. Slow cook for 8 hours on low or pressure cook for 1 hr 30 minutes on high. (Note 3)"
+    },
+    {
+      "order": 3,
+      "instruction": "Remove pork from liquid into a roasting pan. Reserve liquid."
+    },
+    {
+      "order": 4,
+      "instruction": "OPTIONAL: Roast pork for 20 - 30 minutes at 180C/350F until browned (Note 4). Meanwhile, make BBQ Sauce."
+    },
+    {
+      "order": 5,
+      "instruction": "Shred pork with forks - it should be fall apart tender (see video)."
+    },
+    {
+      "order": 6,
+      "instruction": "Toss in BBQ sauce - use as much as you like, the recipe makes enough to coat the pork well but not dripping in sauce, plus a bit extra on the side."
+    },
+    {
+      "order": 7,
+      "instruction": "To make Pulled Pork Sandwiches, pile pork on warmed rolls and top with Coleslaw. I like to lay everything out for people to make their own."
+    },
+    {
+      "order": 8,
+      "instruction": "Place all ingredients in a medium saucepan over medium heat and whisk. Bring to simmer, then turn down the heat so it simmers gently. Cook for 1 hour. Remove from stove and use per recipe."
+    }
+  ]
+}

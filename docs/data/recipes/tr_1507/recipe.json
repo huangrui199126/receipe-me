@@ -1,0 +1,187 @@
+{
+  "id": "tr_1507",
+  "title": "Crispy Belgian Waffles.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/11/Crispy-Belgian-Waffles-7.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/crispy-belgian-waffles/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "belgian waffles",
+    "crispy",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 797,
+    "protein": 5.0,
+    "carbs": 44.0,
+    "fat": 42.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cornstarch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "shaken buttermilk",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg (separated)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "6",
+      "unit": "tablespoons",
+      "name": "unsalted butter (melted and cooled)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "whipped cream and fresh fruit (for serving)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "8",
+      "unit": "tablespoon",
+      "name": "butter (softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "maple syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "nutmeg",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large bowl, whisk together the flour, cornstarch, salt, baking powder, and baking soda."
+    },
+    {
+      "order": 2,
+      "instruction": "In a large measuring cup, whisk together the buttermilk, water, egg yolk, butter, and vanilla. Pour into the flour mixture and stir until just combined. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "In another bowl, with an electric mixer on high speed, beat the egg white until foamy. Add the sugar and beat until stiff, glossy peaks form. Fold into the reserved batter until just combined."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook the batter according to your waffle iron's instructions."
+    },
+    {
+      "order": 5,
+      "instruction": "Top with the whipped eggnog butter, maple syrup, and fruit (if using)."
+    },
+    {
+      "order": 6,
+      "instruction": "Using an electric mixer, beat together the butter, maple syrup, cinnamon, nutmeg, and cloves until combined. Serve with waffles. Leftovers can be kept in the fridge."
+    }
+  ]
+}

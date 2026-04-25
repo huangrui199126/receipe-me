@@ -1,0 +1,150 @@
+{
+  "id": "tr_1377",
+  "title": "Lemon Garlic Slow Cooker Roast Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2019/01/Lemon-Garlic-Slow-Cooker-Roast-Chicken_4-copy.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/slow-cooker-lemon-garlic-roast-chicken/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 300,
+  "tags": [
+    "slow cooker roast chicken",
+    "slow cooker whole chicken"
+  ],
+  "nutrition": {
+    "calories": 478,
+    "protein": 35.0,
+    "carbs": 0.0,
+    "fat": 35.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "kg",
+      "name": "/ 4 lb   whole chicken (, patted dry (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2.5",
+      "unit": "tbsp",
+      "name": "olive oil ((or melted butter), plus extra for drizzling)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large lemon (, all zest + all juice)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornflour/cornstarch mixed with 1 tbsp water",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  extra lemon (, just in case)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rub – Mix Rub ingredients. should be fairly thick and sludgy. Adjust with extra oil if too thick."
+    },
+    {
+      "order": 2,
+      "instruction": "Loosen Skin:&nbsp;Use upside spoon to loosen skin of chicken (see video). Spoon most of the Rub under the skin, leaving about 1 tbsp mostly oil for the skin. Use hands or spoon on skin to spread the paste - doesn't need to be perfect."
+    },
+    {
+      "order": 3,
+      "instruction": "Stuff used lemon inside the chicken.&nbsp;"
+    },
+    {
+      "order": 4,
+      "instruction": "Put rack inside slow cooker (Note 3), place chicken on top. Spread with remaining sludge, sprinkle with a pinch of salt and pepper."
+    },
+    {
+      "order": 5,
+      "instruction": "Slow cook 5 hours on low or 3 hours on high, or until juices run clear or internal temperature is 75C / 165F using a meat thermometer. (Note 4 for other cook methods)"
+    },
+    {
+      "order": 6,
+      "instruction": "Brown skin: Remove chicken from slow cooker, drizzle with a bit of extra oil. Grill/broil on medium high for 5 to 10 minutes to brown the skin (~25cm /10\" from heat source). Or oven 240C/450F for 10 min."
+    },
+    {
+      "order": 7,
+      "instruction": "Spoon over pan juices, then serve with Lemon Sauce! (No need to rest chicken)"
+    },
+    {
+      "order": 8,
+      "instruction": "Pour all slow cooker liquid into a saucepan, add cornflour / water mixture. Mix."
+    },
+    {
+      "order": 9,
+      "instruction": "Bring to simmer over medium high and cook until liquid thickens to thin syrup (depends how much liquid you have, usually 3 min or so). Adjust salt and pepper to taste, add more lemon if desired (the extra lemon). Pour into jug."
+    }
+  ]
+}

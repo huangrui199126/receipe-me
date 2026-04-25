@@ -1,0 +1,131 @@
+{
+  "id": "tr_143",
+  "title": "Vegetarian Garlic Stuffed Mushrooms",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/DSC_0262.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/panko-herb-stuffed-mushrooms/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 140,
+    "protein": 3.3,
+    "carbs": 8.5,
+    "fat": 11.4
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "10",
+      "unit": "oz",
+      "name": "/ 300 g   button mushrooms",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "fresh thyme leaves (, chopped (or 1/4 tsp dried thyme) (see notes))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 to 3 pinches of salt ((to your taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Break the stalks off the mushrooms, being careful to keep the caps in one piece."
+    },
+    {
+      "order": 3,
+      "instruction": "Pile the caps into a baking dish or tray. Drizzle over 1 tbsp olive oil and toss to coat. Spread the mushrooms out on the tray, cup side up."
+    },
+    {
+      "order": 4,
+      "instruction": "Finely chop the stalks."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat 1 tbsp olive oil in a fry pan over medium high heat."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the mushroom stalks and garlic and sauté for 1 1/2 to 2 minutes until softened."
+    },
+    {
+      "order": 7,
+      "instruction": "Add the panko bread crumbs and sauté for 1 to 2 minutes until it becomes a light golden colour."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove pan from heat and toss through salt, pepper, parsley and thyme leaves."
+    },
+    {
+      "order": 9,
+      "instruction": "Use a teaspoon to spoon panko filling into each mushroom cup. Don't worry about spillage! Just pile the filling into each cup as well as you can."
+    },
+    {
+      "order": 10,
+      "instruction": "Drizzle over remaining 1 tbsp of olive oil and bake for approximately 10 minutes, or until the mushrooms are softened (but not soft. They will go soggy and lose their shape)."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve warm or at room temperature."
+    }
+  ]
+}

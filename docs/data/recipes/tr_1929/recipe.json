@@ -1,0 +1,324 @@
+{
+  "id": "tr_1929",
+  "title": "Kentucky Derby Mini Chocolate-Pecan Cakes with Vanilla Bourbon Smash Ice Cream.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/04/Kentucky-Derby-Mini-Chocolate-Pecan-Cakes-with-Vanilla-Bourbon-Smash-Ice-Cream.-82.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/kentucky-derby-mini-chocolate-pecan-cakes-vanilla-bourbon-smash-ice-cream/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 60,
+  "tags": [
+    "birthday cake",
+    "chocolate",
+    "pecan",
+    "vanilla"
+  ],
+  "nutrition": {
+    "calories": 1473,
+    "protein": 18.0,
+    "carbs": 198.0,
+    "fat": 127.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  large egg yolks",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk (2% or whole)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "heavy whipping cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  vanilla bean (seed scraped + pods reserved)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "teaspoon",
+      "name": "sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "bourbon",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "unsalted butter (1/2 stick)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "packed dark brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "heavy cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Bourbon",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "unsalted butter (divided, 1 1/2 sticks)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "brown sugar (divided)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "light corn syrup (divided)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "3/4",
+      "unit": "teaspoon",
+      "name": "salt (divided)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "3",
+      "unit": "teaspoons",
+      "name": "vanilla extract (divided)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "3",
+      "unit": "cup",
+      "name": "toasted whole pecans (divided)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Bourbon",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "unsweetened cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "buttermilk",
+      "emoji": "🧈",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "bourbon",
+      "emoji": "🥄",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "butter (softened to room temperature, 1 1/2 sticks)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "semi-sweet chocolate chips",
+      "emoji": "🍫",
+      "section": "",
+      "order": 30
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a medium size bowl whisk the egg yolks with 2 tablespoons granulated sugar until the yolks are pale yellow."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the milk, heavy cream, honey and vanilla bean seeds + pods to a medium size sauce pot and set over medium heat. Bring the mixture to boil, watching very closely to make sure the milk does not boil over. Once the mixture is boiling immediately remove from the heat and carefully pour about 1/3 cup of the hot milk into the eggs, whisking constantly to temper the eggs. Next, add the milk/egg mixture into the remaining pot of hot milk, whisking constantly. Place the pot back on the stove and stir custard over low heat until thick enough to coat the back of a wooden spoon, about 5 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Place a fine-mesh sieve (strainer) over a large heat proof bowl and immediately strain the custard into the bowl. Discard the vanilla bean pods and stir in the bourbon and vanilla. Let custard cool 10 minutes. Cover and place in the fridge for 4 hours or overnight, stirring as often as possible. If needed the custard can be quickly cooled in the freezer for 1-2 hours, but make sure to stir the custard every 30 minutes to prevent uneven freezing."
+    },
+    {
+      "order": 4,
+      "instruction": "Once the ice cream mixture is well chilled, freeze in an ice cream maker according to the manufacturer’s instructions. Transfer the ice cream to an airtight container (or in my case a loaf pan). Freeze for 4-6 hours before serving."
+    },
+    {
+      "order": 5,
+      "instruction": "Melt the butter in a small sauce pot. Add the brown sugar, heavy cream and salt. Bring to a boil and then reduce heat to medium. Boil for 3 to 4 minutes. Remove from heat and stir in the vanilla and scotch, if using."
+    },
+    {
+      "order": 6,
+      "instruction": "Preheat the oven to 350 degrees F."
+    },
+    {
+      "order": 7,
+      "instruction": "Divide 2 1/4 cups toasted pecans among six 16-ounce jars (or twelve 8-ounce jars)."
+    },
+    {
+      "order": 8,
+      "instruction": "To make the bottom praline layer. Melt 1 stick (8 tablespoons) butter in a small sauce pan. Whisk in 2/3 cup brown sugar, 2/3 cup corn syrup, 1/2 teaspoon salt and 2 teaspoons vanilla extract. Allow the mixture to come to a boil and them immediately remove from the heat and evenly pour the mixture over the pecans in the bottom of each jar."
+    },
+    {
+      "order": 9,
+      "instruction": "To make the cake. Whisk the cocoa powder, flour, baking soda and salt in a medium bowl. Whisk the buttermilk and bourbon in another small bowl."
+    },
+    {
+      "order": 10,
+      "instruction": "Beat the butter and granulated sugar with a mixer on high speed until fluffy, about 8 minutes. With the mixer on low, beat in the eggs, one at a time until incorporated. Add the flour mixture in three parts, alternating with the buttermilk mixture, starting and ending with flour. Fold in the chocolate chips."
+    },
+    {
+      "order": 11,
+      "instruction": "Divide the batter among the 6 jars and bake until a toothpick inserted into the center comes out clean, about 40-50 minutes."
+    },
+    {
+      "order": 12,
+      "instruction": "Just before serving preheat the broiler to high. Top each cake with the remaining toasted pecans. Melt 1/2 stick (4 tablespoons) butter in a small sauce pan. Whisk in 1/3 cup brown sugar, 1/3 cup corn syrup, 1/4 teaspoon salt and 1 tablespoon Bourbon. Allow the mixture to come to a boil and then immediately remove from the heat and evenly pour the mixture over the pecans. Place under the broiler for 30 seconds. Remove and immediately serve warm with ice cream and a drizzle of butterscotch. Happy Racing!"
+    }
+  ]
+}

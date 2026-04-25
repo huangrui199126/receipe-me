@@ -1,0 +1,78 @@
+{
+  "id": "tr_1036",
+  "title": "Whipped cream - with stabilised option",
+  "image": "https://www.recipetineats.com/tachyon/2022/11/Chantilly-cream_5.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chantilly-cream-lightly-sweetened-whipped-cream/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "chocolate eclairs",
+    "eclairs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "heavy / thickened cream or whipping cream (, cold - NOT pouring cream! (Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "icing sugar/powdered sugar (, sifted, sub 2 tbsp white sugar (Note 2))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract (my standard) (- best economical option)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla bean paste (- my most used &quot;good&quot; option)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  vanilla pod (, seeds scraped (PREMIUM option))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Whip cream – Place the cream, icing sugar, vanilla of choice plus mascarpone (if making stabilised cream). Whip using an electric beater on medium high, moving the beater around the bowl, or until whipped to stiffness you are after. Then it&#39;s ready for use!"
+    },
+    {
+      "order": 2,
+      "instruction": "Stiffness options - Whip for around 1 1/2 minutes if you want soft peaks (kind of dollops) or 2 minutes for stiff peaks (for piping). See in post for photos of soft vs stiff peaks. If scaling up, it will take longer."
+    },
+    {
+      "order": 3,
+      "instruction": "To use – Fill a piping bag with nozzle of choice and pipe. Spread onto cakes or dollop on a bowl of fruit or onto pies!"
+    }
+  ]
+}

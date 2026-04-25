@@ -1,0 +1,190 @@
+{
+  "id": "tr_790",
+  "title": "Thai Meatballs",
+  "image": "https://www.recipetineats.com/tachyon/2020/04/Thai-Meatballs-SQ-copy.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/thai-meatballs/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 25,
+  "tags": [
+    "pork meatballs",
+    "thai meatballs"
+  ],
+  "nutrition": {
+    "calories": 486,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   pork mince ((ground pork, or chicken))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemongrass paste (or finely chopped fresh) (Note 1)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "grated ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  kaffir lime leaves, stem removed and very finely shredded, optional extra (Note 2)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  Thai or birds eye chillies (, seeds removed and finely chopped (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander/cilantro (, leaves and stem finely chopped (Note 4))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar (any)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fish sauce (can sub with soy sauce if required)",
+      "emoji": "🐟",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((+ extra 1/4 cup if needed))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml  sweet chilli sauce (, store bought (Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice (, plus more to taste)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Coriander/cilantro leaves (, finely sliced large red chillies)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Steamed jasmine rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220C/430F (standard) or 200C/390F (fan / convection)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place a rack on a tray (optional, rack keeps balls slightly rounder)."
+    },
+    {
+      "order": 3,
+      "instruction": "Place Meatball ingredients in a bowl (except oil spray), mix well with your hands. Only use extra breadcrumbs if necessary - sometimes, chicken mince can be quite wet. Scoop up 1 slightly heaped tablespoon and roll into a ball (about 3cm / 1.25\" diameter). (Note 6 for my way)"
+    },
+    {
+      "order": 4,
+      "instruction": "Spray rack well with oil and place the meatballs on the rack."
+    },
+    {
+      "order": 5,
+      "instruction": "Spray meatballs generously with oil, then bake for 20 - 25 minutes or until a bit browned. They should be beautifully soft - see video!"
+    },
+    {
+      "order": 6,
+      "instruction": "Serve warm with Sauce, garnished with coriander and chillies if desired."
+    },
+    {
+      "order": 7,
+      "instruction": "Place ingredients in a bowl and mix. Set aside for at least 10 minutes before using."
+    }
+  ]
+}

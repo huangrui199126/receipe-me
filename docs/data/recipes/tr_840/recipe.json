@@ -1,0 +1,98 @@
+{
+  "id": "tr_840",
+  "title": "Roasted Asparagus",
+  "image": "https://www.recipetineats.com/tachyon/2020/12/Roasted-Asparagus_9-SQ.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roasted-asparagus/",
+  "servings": 3,
+  "prepTime": 5,
+  "cookTime": 7,
+  "tags": [
+    "aparagus recipe",
+    "roasted asparagus"
+  ],
+  "nutrition": {
+    "calories": 84,
+    "protein": 4.0,
+    "carbs": 6.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/1 lb  asparagus ((3 standard Australian bunches))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, finely minced (knife or garlic press))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "parmesan (, freshly grated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/430°F (200°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Snap the woody ends off the asparagus - it will naturally break at the right point."
+    },
+    {
+      "order": 3,
+      "instruction": "Pile onto tray. Drizzle with oil, sprinkle with salt, pepper and garlic. Toss, then spread out on tray."
+    },
+    {
+      "order": 4,
+      "instruction": "Roast 7 minutes, or until ends have a bit of colour on them and the asparagus is just cooked through. It will take 10 - 12 minutes for very thick ones. Don't let them get wrinkly and sad!"
+    },
+    {
+      "order": 5,
+      "instruction": "Remove from oven."
+    },
+    {
+      "order": 6,
+      "instruction": "Toss with lemon juice, if using. Pile onto serving platter, grate over optional parmesan. Serve!"
+    }
+  ]
+}

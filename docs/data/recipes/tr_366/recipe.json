@@ -1,0 +1,151 @@
+{
+  "id": "tr_366",
+  "title": "Christmas Cookies (Vanilla Biscuits / Sugar Cookies)",
+  "image": "https://www.recipetineats.com/tachyon/2019/12/Christmas-Cookies-Sugar-Cookies_7.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/christmas-cookies-vanilla-biscuits/",
+  "servings": 40,
+  "prepTime": 25,
+  "cookTime": 10,
+  "tags": [
+    "christmas biscuits",
+    "christmas cookies",
+    "vanilla biscuits"
+  ],
+  "nutrition": {
+    "calories": 96,
+    "protein": 1.0,
+    "carbs": 12.0,
+    "fat": 5.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "225",
+      "unit": "g",
+      "name": "/ 1 cup   unsalted butter (, softened (or use salted, skip salt))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "caster/superfine sugar ((granulated/ordinary white sugar ok too))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg ((55-60g / 1.9-2oz))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Icing for Sugar Cookies",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat Oven to 180°C / 350°F (160°C fan). Line 2 baking sheets with parchment paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Beat butter and sugar in a large bowl until creamy (1 minute on speed 5)"
+    },
+    {
+      "order": 3,
+      "instruction": "Add egg and vanilla, beat until completely combined."
+    },
+    {
+      "order": 4,
+      "instruction": "Add flour, baking powder, and salt."
+    },
+    {
+      "order": 5,
+      "instruction": "Start mixing slowly, then beat until the flour is incorporated - it will be clumpy."
+    },
+    {
+      "order": 6,
+      "instruction": "Dust work surface with flour, scrape dough out of bowl. Pat together then cut in half, then shape into 2 discs."
+    },
+    {
+      "order": 7,
+      "instruction": "Roll out to 0.3cm / 1/8&quot; (for thinner, crispier cookies) or 0.6cm / 1/4&quot; (for thicker, softer cookies), sprinkling with flour under and over the dough so it doesn&#x27;t stick."
+    },
+    {
+      "order": 8,
+      "instruction": "Use cookie cutters to press out shapes and use a knife or spatula to transfer shapes to prepared baking sheets. (Keep dough that doesn't fit in the oven in the fridge)."
+    },
+    {
+      "order": 9,
+      "instruction": "Bake for 10 minutes, swapping trays halfway (Note 2), until the surface is pale golden and the edges are just beginning to turn light golden."
+    },
+    {
+      "order": 10,
+      "instruction": "Allow cookies to cool completely on trays (they will finish cooking on the trays)."
+    },
+    {
+      "order": 11,
+      "instruction": "Icing - see Icing for Christmas Cookies recipe."
+    },
+    {
+      "order": 12,
+      "instruction": "Melt chocolate then dip the surface into chocolate."
+    },
+    {
+      "order": 13,
+      "instruction": "Dot with icing sugar and decorated with silver balls"
+    },
+    {
+      "order": 14,
+      "instruction": "Dust with icing sugar"
+    },
+    {
+      "order": 15,
+      "instruction": "Serve plain! They are sweet vanilla biscuits so they are wonderful eaten just as they are!"
+    }
+  ]
+}

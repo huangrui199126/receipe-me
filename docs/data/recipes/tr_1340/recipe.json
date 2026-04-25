@@ -1,0 +1,324 @@
+{
+  "id": "tr_1340",
+  "title": "Slow-roast Easter stuffed lamb",
+  "image": "https://www.recipetineats.com/tachyon/2025/04/Easter-stuffed-lamb-shoot-2_2.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/slow-roast-easter-stuffed-lamb/",
+  "servings": 5,
+  "prepTime": 40,
+  "cookTime": 180,
+  "tags": [
+    "easter lamb",
+    "lamb roulade",
+    "rolled lamb",
+    "stuffed lamb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.35 - 1.5 kg/ 2.7 - 3 lb  deboned lamb shoulder ((Note 1))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt (, divided)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper (, divided)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "/ 20g  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eschalots (, finely diced (US: shallots, sub 1 small onion) (Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "300g/ 10 oz  mushrooms (, button/white (Note 3))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 tightly packed cups baby spinach (, roughly chopped 100g)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "skinless hazelnuts ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "pistachios (, roughly chopped (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped (ok to omit))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "rosemary (, fresh, finely chopped (sub fresh thyme, or 1 tsp dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon zest ((divine touch, don&#39;t skip this!))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 kg/ 2 lb  baby potatoes (, cut in half (4 if large) (Note 5))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "flour (plain / all-purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "beef stock/broth (, low sodium)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "dark soy sauce ((optional, for deeper colour) (Note 6))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper (, if needed (I don't add any more))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "pistachios (, roughly chopped (optional garnish))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rosemary sprigs (, optional garnish)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sautéed green beans ((pictured - vegetable side, splash of colour))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 26
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Roast hazelnuts - Preheat oven to 180°C/350°F (160°C fan-forced). Roast the hazelnuts for 8 minutes. Cool, then roughly chop."
+    },
+    {
+      "order": 2,
+      "instruction": "Blitz the mushrooms in a food processor, scraping down the sides as needed, until the mushrooms are chopped into little 3mm/0.1&quot; pieces."
+    },
+    {
+      "order": 3,
+      "instruction": "Duxelle - Melt the butter in a non-stick pan over high heat. Add eschalots, garlic and mushrooms. Cook, stirring regularly, for 5 minutes or until the liquid that comes out of the mushrooms mostly evaporates. Add spinach and cook until wilted."
+    },
+    {
+      "order": 4,
+      "instruction": "Cool - Transfer the filling into a bowl. Cool for 20 minutes then stir in remaining ingredients."
+    },
+    {
+      "order": 5,
+      "instruction": "Stuffing log - Pile the stuffing on a piece of cling wrap. Use your hands to roughly shape it into a 35cm / 13.5&quot; long log. Tightly roll up with cling wrap. Place in the freezer for 3 hours (up to 3 days) until it is firm. (Note 7)"
+    },
+    {
+      "order": 6,
+      "instruction": "Pound - Place the lamb shoulder fat-side down. Cover with plastic wrap (I use go between) or baking paper. Then use a rolling pin or meat mallet to pound the meat (hard!) into a 40 x 22cm rectangle (15.5 x 8.5&quot;). Aim for even thickness ~1.75cm (2/3&quot;). Trim and patch as needed to make your rectangle - see video, I cut &amp; rearrange 2 large flappy bits that stick out."
+    },
+    {
+      "order": 7,
+      "instruction": "Roll - Sprinkle the surface of the lamb with half the salt and pepper. Unwrap the frozen stuffing log then roll it up tightly, finishing with the seam side down."
+    },
+    {
+      "order": 8,
+      "instruction": "Tie - Secure with kitchen twine tied every 2cm / 0.8&quot;. (See video for tips)"
+    },
+    {
+      "order": 9,
+      "instruction": "Preheat oven to 220°C/425°F (200°C fan-forced)."
+    },
+    {
+      "order": 10,
+      "instruction": "Season - Rub the lamb roll all over with the olive oil, then sprinkle with the remaining salt and pepper."
+    },
+    {
+      "order": 11,
+      "instruction": "Potatoes - Toss the potatoes with the salt, pepper and olive oil in a large roasting pan (not a baking tray). Put the lamb on top of the potato, on the diagonal if needed to fit."
+    },
+    {
+      "order": 12,
+      "instruction": "Short high temp roast - Roast for 30 minutes (renders some fat and gives the colour a head start)."
+    },
+    {
+      "order": 13,
+      "instruction": "Slow roast - Turn the oven down to 160°C/320°F (140°C fan). Cook for 2 1/2 hours, or until the internal temperature is 98°C/208°F or the meat can be fairly easily teased apart using two fork (check in a discreet spot)."
+    },
+    {
+      "order": 14,
+      "instruction": "Rest - Remove lamb and potato to a tray and loosely cover with foil while you make the gravy."
+    },
+    {
+      "order": 15,
+      "instruction": "Drippings - The roasting pan will have meat juices and fat. Tilt the pan so you can scoop off and discard all but 3 tablespoons of fat (the clear liquid that rises to the surface). Make sure you keep the dark brown juices in the pan. If you&#39;re short of fat, add butter."
+    },
+    {
+      "order": 16,
+      "instruction": "Heat fat - Put the pan directly on the stove over medium heat. Once the fat is hot, sprinkle the flour over and stir for 1 minute."
+    },
+    {
+      "order": 17,
+      "instruction": "Thicken - While stirring, slowly pour in the stock. Add soy sauce, then keep stirring as it bubbles gently until it thickens into a maple syrup consistency."
+    },
+    {
+      "order": 18,
+      "instruction": "Taste and add more salt and pepper if desired (I don&#39;t need more). Pour into a jug (strain, if needed)."
+    },
+    {
+      "order": 19,
+      "instruction": "Cut the string off the lamb then slice into 2cm / 0.8&quot; thick slices."
+    },
+    {
+      "order": 20,
+      "instruction": "Plate on a platter, surround with the potatoes. Serve with gravy, sprinkled with extra chopped pistachios if desired! (Shown in the video with sautéed green beans)."
+    }
+  ]
+}

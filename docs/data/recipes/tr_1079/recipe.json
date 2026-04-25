@@ -1,0 +1,163 @@
+{
+  "id": "tr_1079",
+  "title": "Chinese BBQ Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2017/06/Chinese-BBQ-Chicken-5.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-chicken/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 366,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 ½",
+      "unit": "tbsp",
+      "name": "light soy sauce ((or all purpose))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Chinese five spice powder (Note 1)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sesame oil ((not critical))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Few drops red food colouring (, optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "750",
+      "unit": "g",
+      "name": "/ 1.5lb   chicken thigh fillets (, skinless boneless (or breast))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10 – 12   bamboo skewers (, soaked in water for 1 hour (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Green onions / scallions (, finely sliced, for garnish (optional))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Marinade ingredients in a ziplock bag or bowl and mix to combine."
+    },
+    {
+      "order": 2,
+      "instruction": "Add chicken and mix to coat. Marinade for 3 – 24 hours."
+    },
+    {
+      "order": 3,
+      "instruction": "Optional: Cut chicken into bite size or large pieces and thread onto skewers. Use 1 skewer for small pieces, 2 for large, like pictured in post."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat half the oil in a heavy based skillet over medium high heat, or BBQ on medium (if using grill side, brush oil on bars)."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove chicken from marinade (RESERVE for basting) and place in the skillet - cook in 2 batches, don't crowd the pan. Cook for 4 minutes then turn."
+    },
+    {
+      "order": 6,
+      "instruction": "Use the Marinade to baste the cooked side of the chicken. After 3 minutes, turn the chicken over so the basted side is now cooking again - cook for 1 minute."
+    },
+    {
+      "order": 7,
+      "instruction": "Baste the chicken, then turn again and cook for 45 sec - 1 min."
+    },
+    {
+      "order": 8,
+      "instruction": "Transfer chicken to a plate, cover loosely with foil and rest for 5 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve, garnished with green onions / scallions if using!"
+    }
+  ]
+}

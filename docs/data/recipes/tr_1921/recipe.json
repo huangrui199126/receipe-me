@@ -1,0 +1,288 @@
+{
+  "id": "tr_1921",
+  "title": "Cajun Shrimp ‘n’ Chips Po Boy Salad with Avocado Tarter Sauce.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/05/Cajun-Shrimp-n-Chips-Po-Boy-Salad-with-Avocado-Tarter-Sauce.-1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/cajun-shrimp-n-chips-po-boy-salad-avocado-tarter-sauce/",
+  "servings": 6,
+  "prepTime": 30,
+  "cookTime": 30,
+  "tags": [
+    "avocado",
+    "cajun",
+    "shrimp",
+    "tartar sauce"
+  ],
+  "nutrition": {
+    "calories": 564,
+    "protein": 31.0,
+    "carbs": 68.0,
+    "fat": 20.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "pounds",
+      "name": "unpeeled russet potatoes (cut into wedges or strips)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "cajun seasoning",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "creole seasoning",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "8",
+      "unit": "cups",
+      "name": "of butter lettuce (chopped)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "purple cabbage (sliced)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red bell pepper (sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "grape tomatoes (halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "ears [grilled corn | https://www.halfbakedharvest.com/exactly-how-i-grill-my-corn-chipotle-lime-and-cotija-cheese-butter/]",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  green onions (sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "uncooked shrimp (peeled + deveined)",
+      "emoji": "🦐",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "creole seasoning",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cajun seasoning",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "panko bread crumbs (use gluten free if needed)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cornmeal",
+      "emoji": "🌽",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "canola oil (for frying)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  whole avocado",
+      "emoji": "🥑",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "greek yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "horseradish (or more or less to your taste)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  lemon (juiced)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 27
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 450 degrees F."
+    },
+    {
+      "order": 2,
+      "instruction": "Place cut potatoes in a large bowl and drizzle with oil, cajun seasoning, creole seasoning and pepper. Gently toss with your hands or two spatulas to evenly coat. Spread on a baking sheet in one layer. Roast for 25-30 minutes, then flip and roast for 25-30 minutes more. This may take longer depending on how thick you cut your potatoes. You want the potatoes to be deeply golden and crispy on the outside!"
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile add the lettuce, cabbage, bell peppers, tomatoes, corn, green onions and parsley to a large salad bowl and toss well. Place in the fridge, covered until ready to serve."
+    },
+    {
+      "order": 4,
+      "instruction": "To make the shrimp, add the shrimp to a bowl and toss with the creole seasoning, cajun seasoning, smoked paprika and cayenne. Set aside"
+    },
+    {
+      "order": 5,
+      "instruction": "In a small bowl whisk the milk and egg together. In another medium bowl combine the Panko bread crumbs with the cornmeal."
+    },
+    {
+      "order": 6,
+      "instruction": "Take the shrimp and dip it in the milk/egg mixture and then dredge the shrimp through the Panko mixture and place on a plate. Repeat until all the shrimp have been breaded."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat a skillet with about an 1/2 inch of oil over medium heat. Once hot fry the shrimp for 2-3 minutes per side or until lightly golden and crisp. Remove and place on paper towels to drain."
+    },
+    {
+      "order": 8,
+      "instruction": "To assemble the salads divide the greens among plates or bowls, top with chips and crispy shrimp. Serve with fresh lemon wedges and the avocado tarter sauce (below)."
+    },
+    {
+      "order": 9,
+      "instruction": "Add the avocado, greek yogurt, horseradish, lemon juice, honey and a pinch of salt + pepper to a blender or food processor. Blend until smooth and creamy. Serve along side the salad. Store in the fridge."
+    }
+  ]
+}

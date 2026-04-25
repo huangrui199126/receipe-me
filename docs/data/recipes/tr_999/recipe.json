@@ -1,0 +1,131 @@
+{
+  "id": "tr_999",
+  "title": "Smoked Salmon Bites (Appetizer)",
+  "image": "https://www.recipetineats.com/tachyon/2016/10/Smoked-Salmon-Bites_2.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/smoked-salmon-appetizer/",
+  "servings": 49,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 40,
+    "protein": 2.0,
+    "carbs": 2.3,
+    "fat": 2.5
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz  cream cheese, softened",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest of 1 lemon ((large) - more is better, adjust to taste!)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "dill, chopped",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  soft large wraps / tortillas (approx 23 cm / 9\" diameter) (Note 1)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "350 - 480 g / 12 - 16 oz  smoked salmon slices",
+      "emoji": "🐟",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Table butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Spread ingredients together."
+    },
+    {
+      "order": 2,
+      "instruction": "Spread half on a flatbread in a square shape."
+    },
+    {
+      "order": 3,
+      "instruction": "Top with half the smoked salmon."
+    },
+    {
+      "order": 4,
+      "instruction": "Spread a flatbread with butter - just thinly, like buttering a piece of bread. Place the butter side down onto the salmon (Note 2)"
+    },
+    {
+      "order": 5,
+      "instruction": "Spread remaining Spread on flatbread, again in a square shape. Top with remaining salmon. Butter 3rd wrap and place butter side down onto the salmon."
+    },
+    {
+      "order": 6,
+      "instruction": "Use a large flat object, like a cutting board, and press down lightly to smooth the surface and compress everything."
+    },
+    {
+      "order": 7,
+      "instruction": "Cover with cling wrap and refrigerate for 4 hours (up to 48 hours) so the filling sets."
+    },
+    {
+      "order": 8,
+      "instruction": "Using a serrated knife, trim edges to make a square. Don't cut down - filling may squirt out, cut back and forth in a sawing motion. Chef privileges: nibble on offcuts."
+    },
+    {
+      "order": 9,
+      "instruction": "Cut square into 6 or 7 even strips, then each strip into squares. Serve with toothpicks, wedges of lemon and extra dill for garnish."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "tr_83",
+  "title": "Crispy Couscous Pancake with Tomato &amp; Onion",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/DSC_00611-680x680-1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crispy-couscous-pancake-tomato-onion/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "couscous",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vegetable stock powder (or chicken stock powder, or just salt)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  brown onion, diced",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium tomatoes, diced (about 1 1/4 cups) (see notes)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "Handful",
+      "name": "coriander or parsley leaves (optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine couscous, stock powder (or salt) and water. Cover with cling wrap and put aside for 10 minutes, then fluff with a fork."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 2 tbsp olive oil in a pan about 20cm wide over medium heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the onion and sauté until translucent and soft, but not browned - about 3 to 5 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Add tomato paste and sugar and stir for 1 minute."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the diced tomatoes, salt and black pepper and cook for 3 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Combine the tomato mixture and couscous, and mix well."
+    },
+    {
+      "order": 7,
+      "instruction": "Wipe the pan (you don't need to clean it thoroughly), then heat the remaining 2tbsp olive oil over medium heat."
+    },
+    {
+      "order": 8,
+      "instruction": "Add the couscous mixture, using the back of a spoon to press the mixture firmly and evenly into the pan. The firmer you press it in, the better it will hold together."
+    },
+    {
+      "order": 9,
+      "instruction": "Cover (even with a lid for a larger pot is fine) and leave for 10 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove from heat, loosen the edges slightly with a knife, put a plate on top, say a prayer, then flip quickly to invert the couscous pancake onto a plate with the crispy side up."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve warm while it is nice and crispy!"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "tr_1205",
+  "title": "Leftover Celery Salad",
+  "image": "https://www.recipetineats.com/tachyon/2020/11/Celery-Salad_6-SQ.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/leftover-celery-salad/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "celery salad",
+    "leftover celery"
+  ],
+  "nutrition": {
+    "calories": 144,
+    "protein": 1.0,
+    "carbs": 4.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  ribs celery",
+      "emoji": "🫑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "dill (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "caraway seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "white wine vinegar (, red wine vinegar or cider vinegar)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Remove the leaves from the celery and trim off the dirty base. Finely slice on the diagonal into 4mm / 1/6\" slices."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss in a bowl with remaining ingredients. Set aside for 10 minutes before serving."
+    },
+    {
+      "order": 3,
+      "instruction": "Keeps for up to 3 days in the fridge - the celery softens and becomes even more pickle like."
+    }
+  ]
+}

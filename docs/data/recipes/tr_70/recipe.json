@@ -1,0 +1,231 @@
+{
+  "id": "tr_70",
+  "title": "Italian Meatloaf with Marinara Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2015/12/Italian-Meatloaf_2.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/italian-meatloaf-with-marinara-sauce/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 60,
+  "tags": [],
+  "nutrition": {
+    "calories": 356,
+    "protein": 718.0,
+    "carbs": 10.7,
+    "fat": 13.2
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "diced red bell pepper / capsicum ((1 large))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "stale white bread (, crusts removed, roughly diced (about 3 slices))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cream ((or milk))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "13",
+      "unit": "oz",
+      "name": "/ 400 g   ground pork ((mince))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1.6",
+      "unit": "lb",
+      "name": "/ 800 g    ground beef ((mince))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tsp",
+      "name": "fennel seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "paprika ((sweet or smoked))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely chopped (brown, white, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1.4",
+      "unit": "lb",
+      "name": "/ 700 g   tomato passata or crushed tinned tomatoes ((Note 1))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dried Mixed Italian Herbs",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 3 tsp red pepper flakes ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F. Spray a 28cm/11\" loaf pan, then line with parchment / baking paper, leaving overhang (Note 2)."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil over high heat. Add capsicum, leave for 1 minute without stirring so it starts to char (burn) then stir and continue cooking to char it more (about 2 minutes in total). Remove and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Place bread in a large bowl. Grate onion into the bowl, using a normal box cutter (Note 3). Add cream, then use your hands to squidge the mixture together so the bread is completely soaked and starts to disintegrate."
+    },
+    {
+      "order": 4,
+      "instruction": "Add remaining meatloaf ingredients, including capsicum. Use your hands to mix it together until JUST combined. Do not over mix otherwise it will become dense."
+    },
+    {
+      "order": 5,
+      "instruction": "Press into the loaf pan (Note 4). Drizzle with olive oil then bake for 30 minutes. Meanwhile, make the Sauce."
+    },
+    {
+      "order": 6,
+      "instruction": "Take the meatloaf out of the oven. Carefully lift the meatloaf out of the loaf pan (using the paper overhang) onto a work surface. Then transfer the meatloaf into the skillet with the Sauce."
+    },
+    {
+      "order": 7,
+      "instruction": "Pour juices in the loaf pan into the skillet. Return to the oven for a further 30 to 40 minutes, or until cooked to your liking."
+    },
+    {
+      "order": 8,
+      "instruction": "Take it out of the oven and let it rest for 5 minutes before slicing. Serve the meatloaf with the Sauce, garnished with parmesan if desired."
+    },
+    {
+      "order": 9,
+      "instruction": "I like to serve this with mashed potatoes but it is also lovely with pasta."
+    },
+    {
+      "order": 10,
+      "instruction": "Heat oil in a ovenproof skillet over medium heat. Add onion and garlic and cook for 3 minutes until translucent."
+    },
+    {
+      "order": 11,
+      "instruction": "Add remaining ingredients. Bring to a simmer and cook for 5 minutes on the stove, adjusting salt and pepper to taste."
+    },
+    {
+      "order": 12,
+      "instruction": "Take it off the stove. Follow the steps above to place the meatloaf in and bake it."
+    }
+  ]
+}

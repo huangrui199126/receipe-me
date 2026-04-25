@@ -1,0 +1,130 @@
+{
+  "id": "tr_707",
+  "title": "Omelette",
+  "image": "https://www.recipetineats.com/tachyon/2017/09/Omelette-with-Mushrooms_0-2.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/omelette/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "how to make an omelette",
+    "omelette"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 31.0,
+    "carbs": 7.0,
+    "fat": 59.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "/ 15g   butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cream (or 1 ½ tbsp milk) ((Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "grated cheese ((any melting cheese, I usually use cheddar))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "/ 15g   butter or olive oil",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5 oz   mushrooms (, sliced (about 1 ½ cups))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of fresh thyme leaves and finely chopped parsley ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mushroom Filling: Melt butter in a medium or small non stick skillet over high heat. Add mushrooms and cook until starting to go golden on the edges – about 1 ½ minutes. Add garlic, salt and pepper, cook until golden – about 1 ½ minutes. Remove from skillet."
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk eggs, cream, salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Cool skillet and lower heat to medium."
+    },
+    {
+      "order": 4,
+      "instruction": "Add butter, then when it foams, add egg. Immediately give it a few stirs (as though you’re making scrambled eggs) then when the base just starts to set, spread it all out to cover the base (see video)."
+    },
+    {
+      "order": 5,
+      "instruction": "Wait 20 - 30 seconds, then use a rubber spatula to lift up the edge, tilt pan to make the egg run off the surface under the omelette. Repeat 2 or 3 times around the edges of the omelette."
+    },
+    {
+      "order": 6,
+      "instruction": "Sprinkle half the omelette with some of the cheese, top with mushrooms, sprinkle with thyme and parsley, top with remaining cheese."
+    },
+    {
+      "order": 7,
+      "instruction": "Cover with lid and cook for 30 seconds or until the underside is light golden and top is just set – cheese won’t melt."
+    },
+    {
+      "order": 8,
+      "instruction": "Fold omelette in half to cover mushrooms, transfer to serving plate immediately – residual heat will melt cheese."
+    }
+  ]
+}

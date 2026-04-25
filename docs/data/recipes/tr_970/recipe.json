@@ -1,0 +1,97 @@
+{
+  "id": "tr_970",
+  "title": "Quick and Easy Baked Zucchini",
+  "image": "https://www.recipetineats.com/tachyon/2020/07/Parmesan-Roasted-Zucchini_4-SQ.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baked-zucchini/",
+  "servings": 4,
+  "prepTime": 3,
+  "cookTime": 12,
+  "tags": [
+    "baked zucchini",
+    "courgette recipe",
+    "how to cook zucchini in the oven",
+    "how to cooke courgettes in the oven",
+    "zucchini recipe"
+  ],
+  "nutrition": {
+    "calories": 115,
+    "protein": 3.0,
+    "carbs": 8.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "600g/ 1.2lb  zucchinis ((4 large, 5 medium))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "breadcrumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "parmesan (, grated (store bought sandy type is best))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 240°C / 450°F (220°C fan) with the oven shelf set high in the oven."
+    },
+    {
+      "order": 2,
+      "instruction": "Trim the ends off the zucchini. Cut medium zucchinis in quarters lengthwise, and large ones into sixths (halve then cut each half into 3 lengthwise to make 6 long \"wedges\")."
+    },
+    {
+      "order": 3,
+      "instruction": "Pile zucchini on a tray. Drizzle with 1 tablespoon oil, salt and pepper. Toss."
+    },
+    {
+      "order": 4,
+      "instruction": "Line up in two rows so they're touching each other, with the skin side down."
+    },
+    {
+      "order": 5,
+      "instruction": "Sprinkle evenly with breadcrumbs, then parmesan, drizzle with 1 tablespoon oil."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake 12 minutes until the parmesan is golden and zucchini is soft but not soggy."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve immediately!"
+    }
+  ]
+}

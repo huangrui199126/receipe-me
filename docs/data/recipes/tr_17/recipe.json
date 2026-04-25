@@ -1,0 +1,207 @@
+{
+  "id": "tr_17",
+  "title": "Huevos Rancheros Tortilla Bowls",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/Huevos-Rancheros-Tortilla-Bowls-1-1.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/huevos-rancheros-tortilla-bowls/",
+  "servings": 3,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 405,
+    "protein": 21.1,
+    "carbs": 60.0,
+    "fat": 11.1
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  flour tortillas ((20cm/8\" rounds))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion ((red, brown, white, yellow), halved and sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "red capsicum ((bell peppers), roughly diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander/cilantro ((leaves and stems roughly chopped) (loosely packed))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz   crushed tinned tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "canned black beans (, drained)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "paprika powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 3/4 tsp salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Diced avocado",
+      "emoji": "🥑",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Grated cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat a fry pan over high heat. Use a fry pan with a lid or use the lid of a larger pot (it doesn't matter if it doesn't fit snugly)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place tortilla in fry pan and cook for 30 seconds until charred. Flip and cook the other side for 30 seconds."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove from fry pan and place into a bowl or casserole dish to form a bowl shape. As the tortilla cools, it will hold its shape in a bowl form."
+    },
+    {
+      "order": 4,
+      "instruction": "Repeat with remaining tortillas."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat oil in fry pan over high heat."
+    },
+    {
+      "order": 6,
+      "instruction": "Add garlic and onion and sauté for 2 minutes until starting to become translucent."
+    },
+    {
+      "order": 7,
+      "instruction": "Add capsicum (bell pepper) and cook for 2 minutes until starting to char."
+    },
+    {
+      "order": 8,
+      "instruction": "Add remaining Tomato Filling ingredients, reserving some coriander leave for garnish. Bring to simmer and cook for 1 minute to thicken, then turn heat down to medium."
+    },
+    {
+      "order": 9,
+      "instruction": "Use a spoon to make 3 indents in the Tomato Filling."
+    },
+    {
+      "order": 10,
+      "instruction": "Crack eggs into indents."
+    },
+    {
+      "order": 11,
+      "instruction": "Cover with lid and cook for 3 minutes or to your liking. Check it at 2 minutes, then take a quick peek every 30 seconds thereafter. It can go from under to overcooked in a flash! Note that the eggs will continue to cook slightly after taking it off the heat."
+    },
+    {
+      "order": 12,
+      "instruction": "Remove fry pan from heat."
+    },
+    {
+      "order": 13,
+      "instruction": "Divide Tomato Filling between each Tortilla Bowl, topped with an egg."
+    },
+    {
+      "order": 14,
+      "instruction": "Top with remaining coriander leaves and garnish of choice. Serve immediately."
+    }
+  ]
+}

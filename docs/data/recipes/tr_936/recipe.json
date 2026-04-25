@@ -1,0 +1,169 @@
+{
+  "id": "tr_936",
+  "title": "Salted Caramel-Stuffed Brownies",
+  "image": "https://www.recipetineats.com/tachyon/2015/08/Salted-Caramel-Stuffed-Brownies_7a-SQ.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/salted-caramel-stuffed-brownies/",
+  "servings": 16,
+  "prepTime": 20,
+  "cookTime": 30,
+  "tags": [
+    "caramel brownie"
+  ],
+  "nutrition": {
+    "calories": 293,
+    "protein": 4.0,
+    "carbs": 33.0,
+    "fat": 17.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7oz  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7oz  dark chocolate /  semi sweet chocolate chips ((Note 1))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs (, lightly whisked)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract ((or essence))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "flour (, plain/all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "395",
+      "unit": "g",
+      "name": "/ 14 oz  can sweetened condensed milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "golden syrup or maple syrup ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 2 oz  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (all oven types)."
+    },
+    {
+      "order": 2,
+      "instruction": "Butter and line a 20cm / 8&quot; square tin with parchment / baking paper."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the ingredients in a small saucepan over medium high heat. Stir occasionally for the first 1 minute. When it is heated (ie. when you see wisps of steam), whisk constantly (leisurely, not vigorously!) for 7 minutes, ensuring the base doesn&#039;t catch (Note 3). It should be a pale golden colour."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove from stove and whisk for 30 seconds. Place lid on, set aside and keep warm."
+    },
+    {
+      "order": 5,
+      "instruction": "Melt chocolate &amp; butter: Place chocolate and butter in a bowl. Microwave in three 30 second bursts on high, stirring in between bursts, until melted and smooth."
+    },
+    {
+      "order": 6,
+      "instruction": "Add sugar, eggs, vanilla: Add the sugar, eggs and vanilla extract to the chocolate mixture and mix well to combine."
+    },
+    {
+      "order": 7,
+      "instruction": "Add dry ingredients: Sift in the flour, cocoa powder and salt. Mix until smooth and combined."
+    },
+    {
+      "order": 8,
+      "instruction": "Reserve some batter: Measure out 1/2 cup of brownie batter and set aside. Pour the remaining batter into the prepared tin."
+    },
+    {
+      "order": 9,
+      "instruction": "Pour over caramel: Pour the Salted Caramel over the brownie batter, getting as much coverage as you can (as you can&#039;t easily spread the caramel once poured). If caramel has cooled and is no longer pourable, reheat it on stove for 1 minute until runny again."
+    },
+    {
+      "order": 10,
+      "instruction": "Cover with reserved brownie batter: Dollop the reserved 1/2 cup of brownie batter randomly over the Salted Caramel. Use a knife or skewer to make “swirls” - they won&#039;t be so visible once baked, it&#039;s more about spreading brownie batter over the caramel."
+    },
+    {
+      "order": 11,
+      "instruction": "Bake: Place in the oven and bake for 30 minutes (for very gooey brownie, as pictured) to 35 minutes (for very moist but not super-gooey)."
+    },
+    {
+      "order": 12,
+      "instruction": "Cool: Leave to cool in pan for 10 minutes. Use surplus paper overhang to lift out onto a cooling rack. Cool for a further 20 minutes before slicing. Note: Caramel is a bit gooey when still warm but sets firmer once fully cooled, ie. it will cut through neatly."
+    }
+  ]
+}

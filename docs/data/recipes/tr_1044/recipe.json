@@ -1,0 +1,113 @@
+{
+  "id": "tr_1044",
+  "title": "Strawberry Ice Cream (No Churn)",
+  "image": "https://www.recipetineats.com/tachyon/2018/07/Strawberry-Ice-Cream-No-Churn_1a.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/strawberry-ice-cream-no-churn/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 60,
+  "tags": [
+    "strawberry ice cream"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb   strawberries (, ripe, hulled and halved)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "sweetened condensed milk ((395g / 13 oz))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500 ml  cream (, full fat, for whipping (Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 160°C/320°F (140°C fan) with shelf in the middle."
+    },
+    {
+      "order": 2,
+      "instruction": "Pile strawberries on a tray. Sprinkle over sugar. Toss through, then spread strawberries out on tray."
+    },
+    {
+      "order": 3,
+      "instruction": "Roast for 45 minutes, rotating tray halfway. Remove from oven, toss strawberries, then return to oven for 15 minutes. Keep an eye on it - don't want juices to become toffee and stick to tray."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove from oven, use spatula to scrape into a food processor, being sure to get all the juices and caramelised bits off the tray."
+    },
+    {
+      "order": 5,
+      "instruction": "Blitz until smooth as possible (caramelised bits won't blitz smooth), scrape into bowl then cool completely."
+    },
+    {
+      "order": 6,
+      "instruction": "Add condensed milk and vanilla into strawberries. Beat well for 1 1/2 minutes on high to aerate and combine."
+    },
+    {
+      "order": 7,
+      "instruction": "Place cream in another bowl. Use electric beater to beat into stiff peaks - about 3 minutes on high."
+    },
+    {
+      "order": 8,
+      "instruction": "Add a dollop of cream into the strawberry mixture. Fold through gently, don't beat in furiously (see video for technique). When mostly mixed through, add another dollop and for through about 5 times."
+    },
+    {
+      "order": 9,
+      "instruction": "Tip strawberry mixture into the cream bowl. Gently fold through until it's a uniform pink colour - about 15 to 20 folds max. Some streaks is ok."
+    },
+    {
+      "order": 10,
+      "instruction": "Pour mixture into a container (preferably glass with airtight lid), smooth top."
+    },
+    {
+      "order": 11,
+      "instruction": "Place sheet of baking paper on surface and press out air bubbles (stops icicles forming). Cover with lid, freeze 12+ hours."
+    },
+    {
+      "order": 12,
+      "instruction": "Remove from freezer, remove paper. Scoop with ice cream scooper and serve in cones or bowls!"
+    }
+  ]
+}

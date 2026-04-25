@@ -1,0 +1,183 @@
+{
+  "id": "tr_1087",
+  "title": "Chicken banh mi (Vietnamese sandwich)",
+  "image": "https://www.recipetineats.com/tachyon/2023/02/Chicken-banh-mi_5.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-banh-mi-vietnamese-sandwich/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "banh mi recipe",
+    "chicken banh mi",
+    "vietnamese sandwich"
+  ],
+  "nutrition": {
+    "calories": 624,
+    "protein": 38.0,
+    "carbs": 46.0,
+    "fat": 31.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium carrots (, peeled cut into 2-3mm / 1/10\" batons (Note 1))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  large white radish ((daikon), peeled, cut the same as carrots (Note 1))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "rice wine vinegar ((sub apple cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  crusty white rolls (~ 20cm/8&quot; (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp salted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "120g/ 4 oz   chicken pate ((or other pate of choice))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "whole egg mayonnaise or Kewpie",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "(400g/ 14oz)  shredded chicken",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3  green onion stems (, cut to bread roll length (3 pieces per Banh Mi))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cucumber (, thinly sliced lengthwise (2 slices per Banh Mi))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(lightly packed) coriander/cilantro sprigs",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "Maggi seasoning (per Banh Mi (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3  birds eye or Thai red chilli (, finely sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pickle - In a large bowl, dissolve the salt and sugar in the hot water. Stir in vinegar. Add carrots and daikon - they should just about be covered."
+    },
+    {
+      "order": 2,
+      "instruction": "2 hours - Leave for 2 hours until slightly floppy. Drain well then use per recipe."
+    },
+    {
+      "order": 3,
+      "instruction": "Split the bread roll in half but don&#39;t cut all the way through."
+    },
+    {
+      "order": 4,
+      "instruction": "Butter - Spread the lid with butter."
+    },
+    {
+      "order": 5,
+      "instruction": "Pate then mayo - Spread the base with 1 to 2 tablespoons pate (be generous!), then 1 1/2 tbsp mayonnaise."
+    },
+    {
+      "order": 6,
+      "instruction": "Chicken &amp; Maggi - Pile on shredded chicken, drizzle with 1/4 tsp Maggi seasoning (you can always add more later)."
+    },
+    {
+      "order": 7,
+      "instruction": "Fresh stuff! Stuff with pickled vegetables, 2 slices of cucumber, 3 slices of green onion and coriander. Finally, sprinkle with as much chilli as you dare. Jam the lid down and devour!"
+    }
+  ]
+}

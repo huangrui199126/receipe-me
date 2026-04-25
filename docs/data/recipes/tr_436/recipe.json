@@ -1,0 +1,145 @@
+{
+  "id": "tr_436",
+  "title": "Ultra Lazy Creamy Chicken and Broccoli Pasta Bake",
+  "image": "https://www.recipetineats.com/tachyon/2017/07/Ultra-Lazy-Creamy-Chicken-Pasta-Bake-2.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/healthy-chicken-and-broccoli-pasta-bake/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 35,
+  "tags": [
+    "chicken pasta bake"
+  ],
+  "nutrition": {
+    "calories": 348,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz  chicken tenderloin (raw) (, breast or thigh, cut into 1.5cm / 3/5\" pieces)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried thyme ((or other herbs and/or spices of choice))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   spiral pasta, uncooked ((See Note 1 for other shapes))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "flour ((all purpose / plain))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "chicken broth/stock (, warmed)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "milk (, warmed (any fat %))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "/ 30g  unsalted butter (, recommended but optional)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large broccoli ( or 2 medium broccoli or cauliflower, broken into small to medium florets (Note 2 for subs))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(tightly packed) shredded cheddar or colby cheese ((or tasty cheese, pizza mix etc, Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/390°F (180°C fan-forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Sprinkle chicken with salt (be generous), pepper and thyme, toss to coat."
+    },
+    {
+      "order": 3,
+      "instruction": "Spread pasta in a 23 x 33cm / 9 x 13&quot; baking dish. Sprinkle flour all across the surface (don&#39;t dump in clump else it won&#39;t dissolve). Pour over milk and broth, add garlic and butter. Stir."
+    },
+    {
+      "order": 4,
+      "instruction": "Spread chicken over the top, then broccoli."
+    },
+    {
+      "order": 5,
+      "instruction": "Cover with foil, bake for 15 minutes (or 20 minutes if milk &amp; broth were cold)."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove foil, STIR WELL. Add most of the cheese, then STIR WELL again. Top with remaining cheese."
+    },
+    {
+      "order": 7,
+      "instruction": "Return to oven. Bake for 15 - 20 minutes until top is golden and sauce is thickened (See note 4 for troubleshooting)."
+    },
+    {
+      "order": 8,
+      "instruction": "Stand for a few minutes then serve immediately!"
+    }
+  ]
+}

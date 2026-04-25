@@ -1,0 +1,175 @@
+{
+  "id": "tr_86",
+  "title": "Red Velvet Cookies",
+  "image": "https://www.recipetineats.com/tachyon/2015/04/Red-Velvet-Cupcake-Cookies-Cream-Cheese-Frosting_680px_Main_2.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/red-velvet-cupcake-cookie-with-cream-cheese-frosting/",
+  "servings": 20,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 206,
+    "protein": 2.2,
+    "carbs": 28.2,
+    "fat": 9.8
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "unsalted butter (, softened (110g / 3 3/4 oz))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla bean paste ((or extract/essence))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "caster sugar ((220g / 7 3/4 oz))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (, at room temperature)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "sour cream or plain yogurt ((full fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "tbsp",
+      "name": "red food colouring",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "plain white flour ((250g / 9 oz))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "unsalted butter (, softened (75g / 2 1/2 oz))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "5",
+      "unit": "oz",
+      "name": "/ 150g   cream cheese (, softened)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla bean paste ((or extract/essence))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "powdered ((icing) sugar (225g / 7 1/2 oz))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Red sprinkles ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Line two cookie sheets with baking (parchment) paper. I streak the tray with a bit of butter to make the paper stay in place."
+    },
+    {
+      "order": 3,
+      "instruction": "Use a mixer or handheld beater to cream the butter, vanilla extract and sugar until light and fluffy - around 3 minutes on high."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the eggs, sour cream, cocoa powder and red food colour and mix until combined."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the flour and baking powder and mix until just combined."
+    },
+    {
+      "order": 6,
+      "instruction": "Drop heaped tablespoons of batter onto the baking tray, spacing them out around 1 inch / 2.5cm from each other and the edge of the tray."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake for 8 to 10 minutes until the top springs back when touched."
+    },
+    {
+      "order": 8,
+      "instruction": "Allow to cool for 5 minutes on the tray before transferring to a wire rack."
+    },
+    {
+      "order": 9,
+      "instruction": "Top with cream cheese frosting and red sprinkles, if using."
+    },
+    {
+      "order": 10,
+      "instruction": "Beat the ingredients together until fluffy and smooth - around 5 minutes on high."
+    }
+  ]
+}

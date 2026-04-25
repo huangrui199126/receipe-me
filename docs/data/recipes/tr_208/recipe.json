@@ -1,0 +1,111 @@
+{
+  "id": "tr_208",
+  "title": "Trio of Bruschetta: Celery and Lime Bruschetta",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Celery-and-Lime-Bruschetta-1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/trio-bruschetta-celery-lime-bruschetta/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 215,
+    "protein": 3.9,
+    "carbs": 18.6,
+    "fat": 14.6
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "of good quality crusty bread like sourdough or ciabatta (, sliced 1cm/0.5\" thick, preferably slightly stale)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, halved (unpeeled))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  large sticks of celery",
+      "emoji": "🫑",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, peeled)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt (, plus more to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat a griddle pan or barbecue (grill side, not hotplate side) on high."
+    },
+    {
+      "order": 2,
+      "instruction": "Place bread on the barbecue or griddle pan, and cook each side until nicely toasted and golden brown with char lines. You can also toast the bread in a toaster or grill/broil."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove from heat and rub the surface of the bread lightly with the garlic."
+    },
+    {
+      "order": 4,
+      "instruction": "Cut 5 1/2 of the celery sticks into chunks (about 4 cups) and place into food processor with remaining ingredients and whizz until smooth. Season to taste with salt and pepper."
+    },
+    {
+      "order": 5,
+      "instruction": "Dice the remaining 1/2 celery stick. Stir into the celery puree."
+    },
+    {
+      "order": 6,
+      "instruction": "Spread topping onto bread. Drizzle with extra virgin olive oil and serve immediately."
+    }
+  ]
+}

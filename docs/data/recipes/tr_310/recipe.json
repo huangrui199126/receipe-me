@@ -1,0 +1,86 @@
+{
+  "id": "tr_310",
+  "title": "Poached Chicken - Foolproof, perfect, AMAZINGLY juicy breast",
+  "image": "https://www.recipetineats.com/tachyon/2020/01/Poached-Chicken_8.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/poached-chicken/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "poached chicken",
+    "poached chicken breast"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 53.0,
+    "carbs": 0.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  chicken breasts (, boneless skinless, 250g/8.5 oz each (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemon (, quartered)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bay leaf (, dried or fresh)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Take chicken out of the fridge 30 minutes before cooking."
+    },
+    {
+      "order": 2,
+      "instruction": "Fill a saucepan with water so the chicken breast will be well submerged with at least 2&quot; / 5cm of water above it in a single layer (can be snug but do not stack)."
+    },
+    {
+      "order": 3,
+      "instruction": "Add Flavourings, if using (squeeze in lemon juice, add used lemon)."
+    },
+    {
+      "order": 4,
+      "instruction": "Bring water to boil."
+    },
+    {
+      "order": 5,
+      "instruction": "Place chicken breast in water, place lid on, bring back up to the boil. IMMEDIATELY remove saucepan from stove and set aside for 20 minutes (it&#x27;s fine up to 45 min to 1 hr, won&#x27;t overcook)."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove chicken from water. Slice and be amazed how perfectly juicy and tender the breast is!! Or chop/shred and use as desired."
+    },
+    {
+      "order": 7,
+      "instruction": "If reserving for later use, cover loosely to cool then refrigerate whole - see Note 6."
+    }
+  ]
+}

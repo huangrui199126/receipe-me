@@ -1,0 +1,258 @@
+{
+  "id": "tr_332",
+  "title": "Vietnamese Noodles with Lemongrass Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2017/01/Vietnamese-Noodles-with-Lemongrass-Chicken_7.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vietnamese-chicken-noodle-bowl/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "lemongrass chicken",
+    "vietnamese noodles"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 39.9,
+    "carbs": 65.2,
+    "fat": 13.6
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "600 - 800g / 1.2 - 1.6lb   chicken thigh fillets (, skinless and boneless or breast (or pork, beef or any seafood))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "stalk",
+      "name": "lemongrass (, white part only, bruised them sliced into pieces easy to pick out later (Note 1))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped or minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fish sauce ((Note 2))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce ((all purpose or light, NOT dark soy))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fish sauce ((Note 3))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red birds eye chilli (, finely chopped (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7 oz   vermicelli noodles (, dried)",
+      "emoji": "🍜",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  carrots (, julienned)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  cucumbers (,  julienned (optional: remove seeds))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "iceberg lettuce (, finely sliced)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "Handful",
+      "name": "of mint leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "Handful",
+      "name": "of cilantro/coriander",
+      "emoji": "🌿",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced red chilli ((for garnish - optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges ((to serve - optional but recommended))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine Chicken and Marinade ingredients and set aside for at least 1 hour, up to 24 hours. (Note 4)"
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 1/2 tbsp oil in a fry pan over medium heat (or heat the BBQ). Remove chicken from marinade, shaking off large bits of lemongrass (small bits should fall off during cooking)."
+    },
+    {
+      "order": 3,
+      "instruction": "Place chicken in the pan and cook each side until dark golden brown and chicken is just cooked through - about 6 to 8 minutes in total."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove from pan, shaking off any remaining bits of visible lemongrass and set aside to rest for 5 minutes. Then slice into thin pieces."
+    },
+    {
+      "order": 5,
+      "instruction": "Combine the Nuoc Cham ingredients and mix well to dissolve the sugar. Adjust to your taste (spiciness, lime, sweetness) and set aside for at least 20 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Soak the vermicelli noodles in hot water for 3 minutes (or according to packet instructions), then drain and rinse under cold water to stop the noodles from sticking together."
+    },
+    {
+      "order": 7,
+      "instruction": "Individual servings: Place noodles in bowl. Top with vegetables and herbs, and sliced chicken pieces. Drizzle with a few tablespoons of Nuoc Cham Sauce (be generous, ~ 4 tbsp per serving) and serve with lime wedges."
+    },
+    {
+      "order": 8,
+      "instruction": "DIY (my preferred way): Place chicken, vegetables, herbs, noodles and sauce in separate bowls / piled on platters. Then let everyone make their own bowls!"
+    }
+  ]
+}

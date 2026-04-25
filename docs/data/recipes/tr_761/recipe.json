@@ -1,0 +1,123 @@
+{
+  "id": "tr_761",
+  "title": "Herb & Garlic Butter Chicken Marylands (chicken leg quarters)",
+  "image": "https://www.recipetineats.com/tachyon/2023/06/Herb-Garlic-Chicken-Marylands_8.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/herb-garlic-chicken-marylands/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 50,
+  "tags": [
+    "chicken marylands",
+    "chicken quarters",
+    "whole chicken legs"
+  ],
+  "nutrition": {
+    "calories": 659,
+    "protein": 35.0,
+    "carbs": 2.0,
+    "fat": 54.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "pieces",
+      "name": "(~1.5 kg/3 lb)  chicken marylands (US: leg quarters) ( or 8 bone-in, skin-on thighs (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "chardonnay or other dry white wine ((sub low-sodium chicken stock/broth))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "100g/7 tbsp  unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, minced using a garlic press (Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fresh rosemary leaves (, finely chopped (Note 3 for dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "thyme leaves (, finely chopped (Note 3 for dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/425°F (200°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix Herb &amp; Garlic Butter ingredients until combined."
+    },
+    {
+      "order": 3,
+      "instruction": "Butter chicken - Use an upside down tablespoon to loosen the chicken skin from the flesh on the thigh and most of the leg (Note 4). Smear 80% of the butter under the skin, just a small amount (~5%) on the underside (flesh side) then the remainder on top of the skin. (The flesh side gets lots of flavour from the pan juices)."
+    },
+    {
+      "order": 4,
+      "instruction": "Put chicken in roasting pan, skin side up. Sprinkle skin with the 1/2 tsp salt. Pour wine around chicken."
+    },
+    {
+      "order": 5,
+      "instruction": "Roast 50 minutes - Roast 10 minutes to get the skin going. Then reduce the heat to 200°C /400°F (180°C fan) and roast for a further 40 minutes, basting every 10 minutes from the 20 minute mark onwards."
+    },
+    {
+      "order": 6,
+      "instruction": "Rest &amp; serve - Remove from oven. Rest 10 minutes then serve with the garlic-herb-butter pan juices as the sauce!"
+    }
+  ]
+}

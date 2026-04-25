@@ -1,0 +1,119 @@
+{
+  "id": "tr_469",
+  "title": "Asian Sesame Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/Asian-Sesame-Dressing-4.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/asian-sesame-dressing/",
+  "servings": 1,
+  "prepTime": 3,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 52,
+    "protein": 0.2,
+    "carbs": 1.4,
+    "fat": 5.8
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "toasted sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "white vinegar ((adjust to taste for sharpness))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "olive oil ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sugar ((any type) or 1 1/2 tbsp honey)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "toasted sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar ((any type) or 1 1/2 tsp honey)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place ingredients in a jar and shake well until sugar is dissolved. Adjust saltiness with salt and sweetness with sugar to taste."
+    },
+    {
+      "order": 2,
+      "instruction": "Keep for up to 3 weeks, in the fridge (to be safe). Bring to room temp and shake well before use."
+    },
+    {
+      "order": 3,
+      "instruction": "Single serving batch is enough for 3 - 4 cups of shredded cabbage / leafy greens i.e. a side salad for 4 people."
+    },
+    {
+      "order": 4,
+      "instruction": "Big batch - my rule of thumb for how much dressing to use is generally 1 tbsp of dressing per 1 packed cup of shredded vegetables and 2 tsp per handful of leafy greens."
+    }
+  ]
+}

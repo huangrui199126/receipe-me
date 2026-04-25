@@ -1,0 +1,132 @@
+{
+  "id": "tr_350",
+  "title": "My Secret Less-Sweet, Fluffy Vanilla Frosting",
+  "image": "https://www.recipetineats.com/tachyon/2020/09/Fluffy-Vanilla-Frosting_Less-Sweet_Ermine-Frosting_1-white-copy-SQ.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fluffy-vanilla-frosting/",
+  "servings": 12,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "boiled milk frosting",
+    "ermine frosting",
+    "fluffy vanilla frosting",
+    "smooth frosting"
+  ],
+  "nutrition": {
+    "calories": 224,
+    "protein": 1.0,
+    "carbs": 20.0,
+    "fat": 16.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "flour (, plain/all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "white sugar (, regular/granulated (can reduce to 1/2 cup, Note 1))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk, warmed using any method (, full fat best (but even 0% fat works))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "225",
+      "unit": "g",
+      "name": "/ 1 cup  unsalted butter (, softened but not too soft! (Note 3))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cocoa powder, unsweetened ((Dutch processed best, if you can))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place flour and sugar in a large saucepan over medium heat. Cook, stirring constantly, for 30 seconds."
+    },
+    {
+      "order": 2,
+      "instruction": "While whisking constantly, slowly pour the milk in (this ensure it's lump free)."
+    },
+    {
+      "order": 3,
+      "instruction": "As the milk gets hotter, it will start to thicken - stir constantly so the base doesn't catch."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook until the mixture thickens in a thick, dolloping custard - see video for texture. TIP: Thicker texture = thicker frosting texture but won&#039;t make the frosting dense, it&#039;s still fluffy and spreadable but it just makes it &quot;sturdier&quot; with sharper edges when piped."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove from heat and scrape into a bowl. Cover with cling wrap, pressing down onto the surface to prevent a skin from forming."
+    },
+    {
+      "order": 6,
+      "instruction": "Cool completely (I leave on counter for 20 min or so then refrigerate 30 min to speed up but don&#039;t let it get chilled, best at room temp to beat into butter). You can leave in fridge overnight but take it out 1 hour prior to using (to dechill - otherwise it won&#039;t mix well with softened butter)."
+    },
+    {
+      "order": 7,
+      "instruction": "Place butter in a bowl and use either a handheld beater or stand mixer (with whisk attachment) to beat for 3 minutes until it&#039;s smooth and changes from yellow to very pale yellow, almost white."
+    },
+    {
+      "order": 8,
+      "instruction": "Now start whipping in the Thickening Roux. On speed 5 (medium), start adding the thick roux one heaped tablespoon at a time. Take about 1 minute to add it all."
+    },
+    {
+      "order": 9,
+      "instruction": "Once all added, add vanilla and salt, then whip for 2 to 3 minutes until you can see that it is still enough to hold peaks. Then it&#039;s ready to use!"
+    },
+    {
+      "order": 10,
+      "instruction": "Beat in the cocoa powder at the end, just until mixed through."
+    },
+    {
+      "order": 11,
+      "instruction": "Use it like any other frosting on cakes and cupcakes - either spread it on with a knife or put in a piping bag. You can pipe sky-high mounds and it will hold its form, as pictured on Vanilla Cupcakes in this post."
+    },
+    {
+      "order": 12,
+      "instruction": "See notes for storage / make ahead."
+    }
+  ]
+}

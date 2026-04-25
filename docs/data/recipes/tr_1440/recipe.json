@@ -1,0 +1,256 @@
+{
+  "id": "tr_1440",
+  "title": "Rogan Josh (Indian Lamb Curry)",
+  "image": "https://www.recipetineats.com/tachyon/2020/02/Rogan-Josh_5.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/rogan-josh/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 150,
+  "tags": [
+    "indian curry",
+    "lamb curry",
+    "lamb rogan josh",
+    "rogan josh"
+  ],
+  "nutrition": {
+    "calories": 381,
+    "protein": 29.0,
+    "carbs": 16.0,
+    "fat": 23.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "3 1/2",
+      "unit": "tbsp",
+      "name": "ghee (, substitute butter (Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cinnamon stick",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  green cardamom pods (, lightly bruised)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ginger (, finely grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "tomato passata ((US: tomato puree/sauce, Note 5))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((halve for table salt, double for flakes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "750g/1.5lb  boneless lamb shoulder (, cut into 3cm/1.2&quot; cubes (Note 6))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "chicken stock (, salt reduced (broth))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "paprika (, normal or sweet)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "chilli powder ((or to taste, Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "ground coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "turmeric powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "nutmeg powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garam marsala ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "fennel powder ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "plain yoghurt ((Greek yogurt fine))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "extra garam masala ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "extra fennel powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped coriander leaves, finely shredded ginger, yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Basmati rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Toast whole spices in ghee, then sauté onion, garlic and ginger. Toast ground spices 30 seconds, add tomato, salt, stock and lamb. Simmer gently covered 1 hr 45 min until lamb fork-tender, simmer with lid off 15 min to reduce. Stir in Finishes, serve!"
+    },
+    {
+      "order": 2,
+      "instruction": "Toast whole spices - Melt ghee over medium heat in large heavy based pot. Add cinnamon, cardamom and cloves and cook for one minute."
+    },
+    {
+      "order": 3,
+      "instruction": "Sauté - Add onion and cook for 7 minutes, stirring frequently, until pieces are golden and starting the brown on the edges. Add the garlic and ginger, cook for another minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Toast spices - Stir in the Spices, cook for 30 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Sauce and lamb - Mix in the tomato puree and salt, then add stock and mix. Add lamb, stir, bring to simmer."
+    },
+    {
+      "order": 6,
+      "instruction": "Simmer 1 h 45 min - Place lid on and adjust heat to low or medium low so it&#39;s simmering gently. Cook 1 hour 45 minutes, giving it an occasional stir, until lamb is quite tender - use 2 forks to check, it should pry apart pretty easily."
+    },
+    {
+      "order": 7,
+      "instruction": "Reduce - Remove lid, and continue cooking for another 15 minutes (to reduce sauce slightly) - lamb should be very tender by this stage."
+    },
+    {
+      "order": 8,
+      "instruction": "Finish - Stir in the Yogurt, the Extra garam marsala and fennel. Cook for another few minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve with basmati rice, sprinkled with fresh coriander leaves and other garnishes if desired. More sides (pictured): Cucumber salad (Note 7) and Easy naan - No Yeast Flatbread"
+    }
+  ]
+}

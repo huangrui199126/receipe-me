@@ -1,0 +1,264 @@
+{
+  "id": "tr_1911",
+  "title": "No-Churn Caramel Peanut Butter Cup Soft Pretzel Ice Cream Sammies w/Hot Fudge Sauce.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/05/No-Churn-Caramel-Peanut-Butter-Cup-Soft-Pretzel-Ice-Cream-Sammies-w-Hot-Fudge-12.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/churn-caramel-peanut-butter-cup-soft-pretzel-ice-cream-sammies-whot-fudge/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [
+    "caramel",
+    "ice cream",
+    "peanut",
+    "peanut butter"
+  ],
+  "nutrition": {
+    "calories": 1058,
+    "protein": 15.0,
+    "carbs": 94.0,
+    "fat": 58.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "heavy whipping cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (14 ounce) can sweetened condensed milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "butterscotch sauce (or caramel)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "creamy peanut butter (melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "chopped Reese's",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "warm water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "light brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "teaspoons",
+      "name": "active dry yeast ((1 packet))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 stick (8 tablespoons) unsalted butter, melted",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "sea salt or kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "4 1/2",
+      "unit": "cups",
+      "name": "to 5 all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2/3",
+      "unit": "cups",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  whole egg (beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "coarse sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "unsweetened cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "packed brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "heavy cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "3",
+      "unit": "ounces",
+      "name": "milk chocolate (chopped)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "3",
+      "unit": "ounces",
+      "name": "good bittersweet or dark chocolate (chopped)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoon",
+      "name": "unsalted butter (cut into small cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Line a 9x13 inch baking dish with parchment paper."
+    },
+    {
+      "order": 2,
+      "instruction": "In the bowl of a stand mixer, or using a hand held mixer, whip the heavy creamy until stiff peaks form."
+    },
+    {
+      "order": 3,
+      "instruction": "Using a rubber spoon stir the sweetened condensed milk, butterscotch sauce, warmed peanut butter and vanilla extract until no steaks remain."
+    },
+    {
+      "order": 4,
+      "instruction": "Fold in the chopped Reese's. Pour the ice cream into the prepared baking dish, cover and freeze overnight."
+    },
+    {
+      "order": 5,
+      "instruction": "combine the water, sugar, yeast, and butter in the bowl of a stand mixer and mix with the dough hook until combined. Let sit for 5 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the salt and 4 1/2 cups flour to the mixture and mix on low speed until combined. Increase the speed to medium and continue kneading until the dough is smooth and begins to pull away from the side of the bowl, about 3 to 4 minutes. If the dough appears too wet, add additional flour, 1 tablespoon at a time. Remove the dough from the bowl, place on a flat surface and knead into a ball with your hands. Coat a large bowl with canola oil, add the dough and turn to coat with the oil. Cover with a clean towel or plastic wrap and place in a warm spot until the dough doubles in size. This will take about 1 hour."
+    },
+    {
+      "order": 7,
+      "instruction": "Preheat the oven to 425 degrees F. Bring the water to a boil in a large pot."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove the dough from the bowl and place on a flat surface. Divide the dough into 16 equal pieces. Roll each piece into a long rope. To shape into pretzels, take the right side and cross over to the left. Cross right to left again and flip up. Slowly add the baking soda to the boiling water. Boil the pretzels in the water solution, 2 at a time for 30 seconds, splashing the tops with the warmed water using a spoon. Remove with a large flat slotted spatula or a spider. Place 8 pretzels on each baking sheet, brush the tops with the egg wash and season liberally with sea salt. Bake for 10 to 15 minutes or until pretzels are golden brown. Remove pretzels from oven and let cool slightly"
+    },
+    {
+      "order": 9,
+      "instruction": "Stir together cocoa powder, brown sugar, honey, cream, salt and half of the chopped milk chocolate. Place in a small sauce pan and cook over medium heat, stirring, until chocolate is melted. Cook mixture at a low boil, stirring occasionally for 5 minutes. Remove pan from heat, add remaining chocolate, butter and vanilla and stir until smooth. Any leftover sauce can be refrigerated in an airtight container. Reheat over low heat, stirring or in the microwave."
+    },
+    {
+      "order": 10,
+      "instruction": "Slice the warm pretzels in half."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove the ice cream from the freezer and slice into squares or use a circle cookie cutter and cut them into circles. Place the ice cream on the bottom half of the cut pretzel. Drizzle the ice cream with hot fudge sauce. Place the top of the pretzel back on top of the ice cream. Drizzle with butterscotch or caramel if desired - EAT RIGHT AWAY!! Mmm!"
+    }
+  ]
+}

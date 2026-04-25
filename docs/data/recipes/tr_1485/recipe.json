@@ -1,0 +1,121 @@
+{
+  "id": "tr_1485",
+  "title": "Winter Bliss Balls.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2017/01/Winter-Bliss-Balls-1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/winter-bliss-balls/",
+  "servings": 18,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "bliss balls"
+  ],
+  "nutrition": {
+    "calories": 152,
+    "protein": 3.0,
+    "carbs": 20.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "25-30  medjool dates, pitted (about 2 cups packed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "roasted cashews",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "unsweetened coconut flakes",
+      "emoji": "🥥",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cacao powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "hemp seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "chia seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoon",
+      "name": "maca powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "orange zest",
+      "emoji": "🍊",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of flaky sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "melted chocolate, nuts,seeds, dried roses, cocoa or cacao powder, for topping",
+      "emoji": "🍫",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Line a baking sheet with parchment paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Add all the ingredients to a food a processor and pulse until fully combined and the dough easily holds together when squeezed in your hand."
+    },
+    {
+      "order": 3,
+      "instruction": "Roll the dough into tablespoon size balls. If desired, roll on your desired toppings OR dip in melted chocolate and sprinkle your toppings onto the chocolate. Allow the chocolate to set in the fridge."
+    },
+    {
+      "order": 4,
+      "instruction": "Store the balls in an airtight container in the fridge for up to 1 week."
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "id": "tr_1982",
+  "title": "Buffalo Chicken and Crunchy Baked Onion Ring Salad with Blue Cheese.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/01/Buffalo-Chicken-and-Crunchy-Baked-Onion-Ring-Salad-with-Greek-Yogurt-Ranch-5.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/buffalo-chicken-blue-cheese-guacamole-crunchy-baked-onion-ring-salad/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [
+    "blue cheese",
+    "buffalo",
+    "buffalo salad",
+    "onion rings",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 546,
+    "protein": 45.0,
+    "carbs": 50.0,
+    "fat": 9.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  smallish chicken breast (cut into strips)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 inch large sweet onions (cut into 1/2 slices)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "butter milk",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-1 1/2 cups + 2 tablespoons [buffalo wing sauce | https://www.halfbakedharvest.com/blue-cheese-guacamole-stuffed-mushrooms-with-buffalo-sauce/]",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "panko bread crumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "cornmeal",
+      "emoji": "🌽",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "whole wheat pastry flour or white whole wheat flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "a good pinch of salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8-12 cups butter lettuce (chopped)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "grape tomatoes (halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  carrots (sliced into matchsticks)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  green onions (sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh cilantro or parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  batch [blue cheese guacamole | https://www.halfbakedharvest.com/blue-cheese-guacamole-stuffed-mushrooms-with-buffalo-sauce/]",
+      "emoji": "🧀",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "crumbled blue cheese (for topping)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "plain greek yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dried parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "dried chives",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "dried dill weed",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/8",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cayenne (optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "smoked paprika (optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To make the dressing. In small bowl mix together the greek yogurt, parsley, chives, dill, garlic powder, onion powder, salt and pepper. Add the cayenne and smoked paprika if using. Mix well and if needed, thin with 1 or two tablespoons of buttermilk. Place in the fridge until ready to use."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat the oven to 450 degrees F. Line 2 baking sheets with parchment paper or a silpat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the chicken to a large bowl and pour half the buttermilk (about 3/4 cup) overtop. Mix well and set aside. Add the remaining buttermilk to a bowl and set aside. Place the flour in a sealable plastic bag, then add onions, and shake to coat. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "In a shallow pie dish or large bowl add the panko, cornmeal, cayenne and a pinch of salt and pepper. Mix well."
+    },
+    {
+      "order": 5,
+      "instruction": "Now grab the bag of onions. Shake off the excess flour and dip the onions 1 at a time into the buttermilk, then dip into bread crumbs and place on a baking sheet. Spray oil evenly over rings and sprinkle with salt and pepper. Bake for 20 to 25 minutes, or until coating is crisp flipping half way through. Season with salt, to taste. Set aside, but keep warm."
+    },
+    {
+      "order": 6,
+      "instruction": "Meanwhile make the chicken. Remove each piece of chicken from the buttermilk, and dredge through the the remaining crumbs, pressing gently to adhere. Place on the prepared baking sheet. Repeat until all the chicken has been used. Make sure not to crowd your pan, if necessary use two baking sheets. Spray each chicken \"wing\" with non-stick spray or a mist of olive oil."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake for 10-12 minutes, then gently flip using kitchen tongs and spray the other side. Bake for 10-12 minutes more, then remove from oven. Reduce the oven to 400 degrees F."
+    },
+    {
+      "order": 8,
+      "instruction": "Gently toss each piece of chicken in the 1/2 cup of buffalo sauce, draining the excess sauce back into the bowl. Place the chicken back on the pan and repeat until all the chicken is coated in the sauce. Place both the onion rings and chicken back in the oven for 5 minutes just to re-warm."
+    },
+    {
+      "order": 9,
+      "instruction": "Meanwhile add the lettuce, carrots, tomatoes, green onions and cilantro leaves to a large bowl and toss well. Divide the salad among four large plates or salad bowls. Top each plate with chicken and onion rings. Dollop with blue cheese guacamole and sprinkle with blue cheese crumbles. Drizzle on the ranch and buffalo sauce as desired. EAT."
+    }
+  ]
+}

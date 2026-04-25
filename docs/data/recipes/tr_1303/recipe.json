@@ -1,0 +1,164 @@
+{
+  "id": "tr_1303",
+  "title": "Crispy Prawn Burgers (Shrimp)",
+  "image": "https://www.recipetineats.com/tachyon/2025/09/Prawn-burgers_5.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crispy-prawn-burgers/",
+  "servings": 4,
+  "prepTime": 16,
+  "cookTime": 4,
+  "tags": [
+    "crumbed prawn patties",
+    "prawn burger",
+    "shrimp burger",
+    "shrimp burger recipe"
+  ],
+  "nutrition": {
+    "calories": 675,
+    "protein": 31.0,
+    "carbs": 40.0,
+    "fat": 45.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14oz fresh OR 500g/1lb frozen  raw peeled prawns (shrimp) ((Note 1))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "green onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg (, lightly whisked with a fork)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "plain flour ((all-purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "panko breadcrumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "olive oil (, or any neutral flavoured oil (vegetable, canola etc))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  brioche buns (10-12cm / 4-5&quot; wide) (or other soft white buns, lightly toasted)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded iceberg lettuce (or cos lettuce (romaine))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Gherkins (, finely sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Bang Bang Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Blitz half prawns and garlic, mix with rest of pattie ingredients. Roll into balls, dredge in flour, egg, then flatten into patty in panko, flip to coat. Fry 4 minutes until golden, assemble burgers."
+    },
+    {
+      "order": 2,
+      "instruction": "Thaw - If using frozen prawns, thaw thoroughly and discard excess water (you lose ~20% in weight in water), then chop into 8mm / 1/3&quot; pieces."
+    },
+    {
+      "order": 3,
+      "instruction": "Blitz - Put half the prawns and garlic in a jug large enough to fit the head of a stick blender. Blitz until it becomes a paste (no need to puree 100% perfectly)."
+    },
+    {
+      "order": 4,
+      "instruction": "Prawn patties mixture - Scrape into a bowl. Mix in the chopped prawns green onion, salt and pepper. The mix will be sloppy, but don’t worry - it firms up as it cooks, and the shaping method handles the softness. :)"
+    },
+    {
+      "order": 5,
+      "instruction": "Dredging station - Put the egg and flour in separate shallow bowls, and the panko on a plate (need squishing space)."
+    },
+    {
+      "order": 6,
+      "instruction": "Crumb - Using slightly wet hands, roll mixture into 4 balls. Coat ball in flour, then egg (let the excess drip off), then press down into a patty in the panko. Make it a smidge larger than the size of your bun (it shrinks a wee bit). Flip using a spatula, press down to adhere panko and make sure to coat the sides. Remove with a spatula onto a plate, repeat with remaining balls."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook - Heat the oil in a large non-stick pan over medium high heat. Cook patties for 2 minutes on each side until golden, then remove onto a paper towel lined tray."
+    },
+    {
+      "order": 8,
+      "instruction": "Assemble burgers as follows - smear base with sauce. Top with prawn patty, cover with gherkins, pile on lettuce. Smear lid with sauce, place on top, EAT! (Homemade fries on the side are the ultimate sidekick but were out of reach today, so I used frozen)."
+    }
+  ]
+}

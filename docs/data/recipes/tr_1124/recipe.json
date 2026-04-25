@@ -1,0 +1,159 @@
+{
+  "id": "tr_1124",
+  "title": "Outrageous Triple Chocolate Cookies",
+  "image": "https://www.recipetineats.com/tachyon/2019/06/Triple-Chocolate-Cookies_7.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/outrageous-triple-chocolate-cookies/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 12,
+  "tags": [
+    "chewy cookies",
+    "chocolate cookies",
+    "triple chocolate cookies"
+  ],
+  "nutrition": {
+    "calories": 248,
+    "protein": 3.0,
+    "carbs": 34.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 4 tbsp   unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2/3",
+      "unit": "cups",
+      "name": "(120g)   brown sugar (, tightly packed)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  egg yolks (, at room temperature (Note 4 for using leftover whites))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "glucose ((sub light corn syrup, Note 1))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(150g)   flour (, plain/all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(30g)  cocoa powder (, unsweetened, preferably Dutch processed (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(150g)  white chocolate chips ((Note 3))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(100g)  dark chocolate chips ((Note 3))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 190C/375F (170C fan) with one shelf in the middle and another under it."
+    },
+    {
+      "order": 2,
+      "instruction": "Use a bowl at room temp, not ice cold glass/metal (butter will go hard)."
+    },
+    {
+      "order": 3,
+      "instruction": "Place butter in bowl and beat until smooth - about 30 seconds on speed 5."
+    },
+    {
+      "order": 4,
+      "instruction": "Add sugar and beat for 45 sec to 1 min until light and fluffy."
+    },
+    {
+      "order": 5,
+      "instruction": "Add yolks, beat until fully incorporated (~20 sec)."
+    },
+    {
+      "order": 6,
+      "instruction": "Add vanilla and glucose, beat until incorporated (~15 sec)."
+    },
+    {
+      "order": 7,
+      "instruction": "Add flour, baking powder and cocoa. Stir with wooden spoon until incorporated (will be a stiff dough)."
+    },
+    {
+      "order": 8,
+      "instruction": "Mix through chocolate chips."
+    },
+    {
+      "order": 9,
+      "instruction": "Scoop / roll 12 balls a touch smaller than a golf ball, then flatten to 1cm / 2/5\" thick on baking trays (2 trays)."
+    },
+    {
+      "order": 10,
+      "instruction": "Bake both trays for 10 minutes."
+    },
+    {
+      "order": 11,
+      "instruction": "Take top tray out, move tray underneath to top shelf and bake a further 1 minute then remove. The cookies will look ever so slightly undercooked in the centre - they will finish cooking on the tray (this is how we make them chewy!)"
+    },
+    {
+      "order": 12,
+      "instruction": "Leave cookies to cool on the tray for 20 minutes, then transfer to cooling rack."
+    },
+    {
+      "order": 13,
+      "instruction": "Allow to cool fully before serving (becomes chewy when cools, even better the next day!)"
+    }
+  ]
+}

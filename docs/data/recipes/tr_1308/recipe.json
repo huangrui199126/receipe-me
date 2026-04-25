@@ -1,0 +1,171 @@
+{
+  "id": "tr_1308",
+  "title": "Korean Bulgogi Beef Stir Fry",
+  "image": "https://www.recipetineats.com/tachyon/2015/08/Korean-Beef-Bowl_680px_1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/korean-beef-bowl-bulgogi-korean-bbq-beef/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "14",
+      "unit": "oz",
+      "name": "/ 400 g   thinly sliced beef (, any good quality tender cut suitable for grilling (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion/shallot stem (, green and white part separated, both finely sliced (Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  large onion ((brown, yellow or white), peeled and thinly sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  medium carrot (, peeled, cut vertically then cut into thin slices on the diagonal)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cooking oil ((I use peanut or vegetable oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "ordinary soy sauce ((I use Kikkoman))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "mirin ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "grated onion ((brown, white or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "grated red apple ((not green - they are too tart) OR nashi pears)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "minced ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Blot the beef dry using a paper towel then place into a bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix together the Marinade ingredients in a small bowl, then add the beef. Stir gently to coat the beef, cover with cling wrap and set aside to marinate for at least 1 hour, preferably overnight. Because the meat is thin, you still get good flavour even with 1 hour of marinating."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat the oil in a wok or large fry pan over high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the onion and white part of the scallion/shallots. Cook for 1 minute."
+    },
+    {
+      "order": 5,
+      "instruction": "Then add the beef, including the Marinade, and carrots. Cook for around 3 to 5 minutes, stirring constantly, until the beef is just cooked."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from heat, then toss through the sesame seeds."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve immediately with rice - or for a low carb, low cal option, try Cauliflower Rice! Sprinkle with extra sesame seeds and the reserved green part of the scallions."
+    }
+  ]
+}

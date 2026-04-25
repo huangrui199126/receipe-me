@@ -1,0 +1,579 @@
+{
+  "id": "tr_415",
+  "title": "Pizza toppings",
+  "image": "https://www.recipetineats.com/tachyon/2020/05/Pizza-Toppings.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pizza-toppings/",
+  "servings": 1,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "pizza recipes",
+    "pizza topping ideas",
+    "pizza toppings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  pizza base ((28cm / 11&quot; base, see separate recipe))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "pizza sauce ((see separate recipe))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/3",
+      "unit": "cups",
+      "name": "mozzarella cheese (, freshly grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "20",
+      "unit": "slices",
+      "name": "pepperoni (, cut 3mm / 1/8” thick)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/3",
+      "unit": "cups",
+      "name": "mozzarella cheese (, freshly grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "onion (, cut 0.5cm (1/4”) thick)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "bacon (, cut into 1 x 3cm (1/2 x 2”) pieces)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "capsicum (, sliced  0.5cm (1/4”) thick)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "12",
+      "unit": "slices",
+      "name": "pepperoni (, cut 3mm / 1/8” thick)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "beef mince (ground beef) (, formed into 1cm (1/2”) balls)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "button mushrooms (, cut 3mm (1/8”) thick)",
+      "emoji": "🍄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "black olives (, sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/3",
+      "unit": "cups",
+      "name": "mozzarella cheese (, freshly grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "ham (, cut into 2 x 0.5cm (1 x 1/4\") batons)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "pineapple (, cut into small chunks)",
+      "emoji": "🍎",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "barbecue sauce (instead of pizza sauce)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "mozzarella cheese (, freshly grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "10",
+      "unit": "slices",
+      "name": "pepperoni (, cut 3mm (1/8”) thick)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "bacon (, cut into 1 x 3cm (1/2 x 2”) pieces)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "cabanossi (, cut into 5mm (1/4”) pieces)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "beef mince (ground beef) (, formed into 1cm (1/2”) balls)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "ham (, cut into 2 x 0.5cm (1 x 1/4\") batons)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1 1/3",
+      "unit": "cups",
+      "name": "mozzarella cheese (, freshly grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  medium raw prawns/shrimp (, shelled and deveined)",
+      "emoji": "🦐",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "25",
+      "unit": "g",
+      "name": "/ 1 1/2 tbsp  butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "garlic (, chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "capsicum (, sliced  0.5cm (1/4”) thick)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "onion (, sliced  0.5cm (1/4”) thick)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "long red chillis (, sliced finely)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "baby rocket (, loosely packed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 30
+    },
+    {
+      "amount": "1 1/3",
+      "unit": "cups",
+      "name": "mozzarella cheese (, freshly grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 31
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "pork sausage (, skin removed, torn into 12 or so little balls (raw))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 32
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "kale (, stems removed, torn into pieces (raw))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 33
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 34
+    },
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 4.4oz  fresh buffalo mozzarella (, very well drained)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 35
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 36
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  basil leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 37
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Capricciosa recipe ((separate recipe with video tutorial))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 38
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 heaped cup mozzarella cheese (, freshly grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 39
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sliced provolone cheese (, torn into pieces)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 40
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "blue cheese (, broken into 1.5cm (1/2”) pieces)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 41
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "parmesan cheese (, grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 42
+    },
+    {
+      "amount": "1 1/3",
+      "unit": "cup",
+      "name": "mozzarella cheese (, freshly grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 43
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil (, plus extra for drizzling)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 44
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 - 10 slices prosciutto",
+      "emoji": "🥄",
+      "section": "",
+      "order": 45
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "baby rocket (, loosely packed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 46
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cheese and garlic pizza ((separate recipe))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 47
+    },
+    {
+      "amount": "1 1/3",
+      "unit": "cups",
+      "name": "mozzarella cheese (, freshly grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 48
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "potato (waxy variety) (, 2mm (1/12&quot;) slices)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 49
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh rosemary leaves (picked, loosely packed)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 50
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 51
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 52
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 275°C/530°F, or as high as it will go. Place oven shelf in top third of oven."
+    },
+    {
+      "order": 2,
+      "instruction": "Stretch dough to form pizza base and slide onto baking pan."
+    },
+    {
+      "order": 3,
+      "instruction": "Follow topping directions below, then place in oven."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn pizza at 4 minutes so it cooks evenly, and check at 8 minutes (even if recipe says 10 minutes). Take out early if cheese gets too brown."
+    },
+    {
+      "order": 5,
+      "instruction": "Spread pizza sauce over base, followed by cheese."
+    },
+    {
+      "order": 6,
+      "instruction": "Distribute pepperoni over pizza, and bake."
+    },
+    {
+      "order": 7,
+      "instruction": "Spread pizza sauce over base, followed by cheese."
+    },
+    {
+      "order": 8,
+      "instruction": "Scatter remaining ingredients over pizza, and bake."
+    },
+    {
+      "order": 9,
+      "instruction": "Spread pizza sauce over base, followed by cheese."
+    },
+    {
+      "order": 10,
+      "instruction": "Scatter remaining ingredients over pizza, and bake."
+    },
+    {
+      "order": 11,
+      "instruction": "Spread barbecue sauce over base, followed by cheese."
+    },
+    {
+      "order": 12,
+      "instruction": "Scatter remaining ingredients over pizza, and bake."
+    },
+    {
+      "order": 13,
+      "instruction": "Toss prawns/shrimp with salt."
+    },
+    {
+      "order": 14,
+      "instruction": "Heat butter over medium heat in a skillet or heavy frying pan until frothing. Add garlic and cook for another 30 seconds."
+    },
+    {
+      "order": 15,
+      "instruction": "Cook prawns for 1 minute on one side until just starting to brown. Flip prawns, cook 1 minute more and remove. Reserve garlic butter."
+    },
+    {
+      "order": 16,
+      "instruction": "Spread pizza sauce over base, followed by cheese."
+    },
+    {
+      "order": 17,
+      "instruction": "Scatter remaining ingredients except rocket over pizza, top with prawns. Bake until done."
+    },
+    {
+      "order": 18,
+      "instruction": "Drizzle reserved garlic butter over prawns and scatter with rocket."
+    },
+    {
+      "order": 19,
+      "instruction": "Spread pizza sauce over base, followed by cheese."
+    },
+    {
+      "order": 20,
+      "instruction": "Scatter remaining ingredients over pizza, and bake. (Note 2)"
+    },
+    {
+      "order": 21,
+      "instruction": "Spread pizza sauce over base. Drizzle 1 tbsp of oil over base, and bake."
+    },
+    {
+      "order": 22,
+      "instruction": "After 5 minutes, remove pizza from oven. Tear buffalo mozzarella into 10 pieces and distribute over pizza. Continue baking until pizza is done."
+    },
+    {
+      "order": 23,
+      "instruction": "Drizzle with remaining olive oil, and scatter with basil leaves."
+    },
+    {
+      "order": 24,
+      "instruction": "See recipe directions in the separate recipe here."
+    },
+    {
+      "order": 25,
+      "instruction": "Spread mozzarella cheese over base. Scatter provolone, parmesan and finally blue cheese over pizza. Bake."
+    },
+    {
+      "order": 26,
+      "instruction": "Spread pizza sauce over base, followed by cheese. Drizzle 1 tbsp oil over pizza and bake."
+    },
+    {
+      "order": 27,
+      "instruction": "2 minutes before the pizza is done, remove from oven. Drape prosciutto casually around the pizza."
+    },
+    {
+      "order": 28,
+      "instruction": "Continue baking until done. Scatter rocket over pizza and drizzle with a little more olive oil."
+    },
+    {
+      "order": 29,
+      "instruction": "See recipe directions in the separate recipe here."
+    },
+    {
+      "order": 30,
+      "instruction": "Spread mozzarella cheese over base."
+    },
+    {
+      "order": 31,
+      "instruction": "Arrange potato slices over pizza, each slice overlapping no more than 1/3 so it will cook through properly."
+    },
+    {
+      "order": 32,
+      "instruction": "Sprinkle over the rosemary and salt, and drizzle with the olive oil. Bake for the standard cooking time given. Check with a fork or skewer that the potato is tender. If not fully cooked, cook another 2 minutes."
+    }
+  ]
+}

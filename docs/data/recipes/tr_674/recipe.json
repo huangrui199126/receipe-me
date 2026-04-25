@@ -1,0 +1,182 @@
+{
+  "id": "tr_674",
+  "title": "Baked Vegetable Frittata",
+  "image": "https://www.recipetineats.com/tachyon/2019/03/Baked-Frittata_1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baked-vegetable-frittata/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 70,
+  "tags": [
+    "baked frittata",
+    "vegetable frittata"
+  ],
+  "nutrition": {
+    "calories": 332,
+    "protein": 15.0,
+    "carbs": 7.0,
+    "fat": 26.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cups",
+      "name": "cream or milk (, full fat best (Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt and pepper, each",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded cheese ((cheddar, tasty, or other of choice))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "100g/3 oz   mushroom, sliced ((I used 1 large, optional))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 3oz   feta (, crumbled (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "mixed dried herbs ((or use any of choice))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "/ 12oz   pumpkin (, butternut or sweet potato, 1.7cm / 0.7\" cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  zucchinis (, sliced 1.25 / 0.5\" thick rounds)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large red capsicum ((bell pepper), sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/430°F (200°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss vegetables on tray with oil, garlic, herbs, salt and pepper. Spread out."
+    },
+    {
+      "order": 3,
+      "instruction": "Roast 25 minutes, undisturbed (no flipping). Remove and cool for at least 5 minutes before using."
+    },
+    {
+      "order": 4,
+      "instruction": "Lower oven to 180°C/350°F (160°C fan)."
+    },
+    {
+      "order": 5,
+      "instruction": "Grease &amp; line pan: Spray a 19 x 30cm / 8 x 10&quot; rectangle or 22 cm / 9&quot; square pan lightly with oil, then line with parchment paper with overhang. (Note 3)"
+    },
+    {
+      "order": 6,
+      "instruction": "Egg mixture: Whisk eggs, cream, salt and pepper in a bowl."
+    },
+    {
+      "order": 7,
+      "instruction": "Assemble: Spread 2/3 of the vegetables in the prepared pan. Pour over egg mixture, sprinkle with cheese, then top with remaining vegetables."
+    },
+    {
+      "order": 8,
+      "instruction": "Topping: Top with crumbled feta, then mushrooms. Drizzle mushrooms with a touch of olive oil (makes it brown)."
+    },
+    {
+      "order": 9,
+      "instruction": "Bake: Bake 40 minutes until centre is just set."
+    },
+    {
+      "order": 10,
+      "instruction": "Rest &amp; serve: Rest frittata 5 minutes in the pan. Use paper overhang to lift out of pan, then slice into squares and serve."
+    },
+    {
+      "order": 11,
+      "instruction": "Serving later: Cool on rack and remove paper from underneath (otherwise base gets soggy). Cut then refrigerate up to 5 days, or freeze. Reheat in microwave."
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "id": "tr_488",
+  "title": "Ultra Crunchy Fried Chicken Burger",
+  "image": "https://www.recipetineats.com/tachyon/2023/09/Crispy-fried-chicken-burgers_5.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crispy-fried-chicken-burger/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "crunchy chicken burger",
+    "fried chicken burger",
+    "kfc burger"
+  ],
+  "nutrition": {
+    "calories": 730,
+    "protein": 31.0,
+    "carbs": 43.0,
+    "fat": 48.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 x 250g/8oz chicken breast ((I use this))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  boneless thigh fillets",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "buttermilk ((Note 1 for sub))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  soft buns (, split and lightly toasted (mine are 10cm/4\"))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 cups iceberg lettuce (, finely sliced (or other leafy greens of choice))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  tomatoes (, sliced (optional, sometimes I do))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  gherkins / dill pickles (, sliced on an angle)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "mayonnaise (, preferably whole egg)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "garlic (, finely grated  (1 clove))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "corn flour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "celery salt ((or heaped 1/8 tsp celery seed))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sweet paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "cayenne pepper ((inc to 1/2 tsp for spicy ZINGER burger!))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "ginger powder",
+      "emoji": "🫚",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "vegetable oil ((or canola or peanut) (2.5cm/1\" depth in cooking vessel))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Shortform recipe:"
+    },
+    {
+      "order": 2,
+      "instruction": "Pound chicken to 1cm / 0.4&quot; thickness, trim, marinade 3 - 24 hrs. Mix coating and seasoning, mix in 2 tbsp marinade. Coat chicken, fry at 180°C/350°F for 4 min (don&#39;t touch for first 90 sec). Assemble!"
+    },
+    {
+      "order": 3,
+      "instruction": "Full instructions:"
+    },
+    {
+      "order": 4,
+      "instruction": "Chicken - Cover the chicken with a freezer bag or plastic sheet and pound to 1cm / 0.4&quot; even thickness. Trim to just a touch larger than the size of your bun. Save off-cuts for another use (stir fry - or Dozer, in my case!)."
+    },
+    {
+      "order": 5,
+      "instruction": "Marinade - Whisk Marinade ingredients in a bowl. Add chicken, toss. Marinate in the fridge for 3 hours minimum, to overnight (don&#39;t go beyond 24 hrs)."
+    },
+    {
+      "order": 6,
+      "instruction": "Garlic mayo - Mix in a small bowl and refrigerate until required."
+    },
+    {
+      "order": 7,
+      "instruction": "Prepare crunchy coating - Mix flour, cornflour and Seasoning ingredients in a bowl. Drizzle over 2 tablespoons of the marinade, then use fingers to mix through to form lumps - when this sticks to the chicken, it fries up into awesome crunchy bits!!"
+    },
+    {
+      "order": 8,
+      "instruction": "Heat oil in a large heavy based pot over medium high heat to 180°C/350°F (Note 2)."
+    },
+    {
+      "order": 9,
+      "instruction": "Coat chicken - Pick up a piece of chicken and allow excess marinade to drip off. Press to coat in flour coating. Shake off excess, then fry for 2 minutes on each side until golden. DO NOT TOUCH for the first 90 seconds to allow the coating to adhere. I fry 2 at a time. Drain on paper towels, cook remaining chicken."
+    },
+    {
+      "order": 10,
+      "instruction": "Assemble - Smear garlic mayo on the top and bottom of the buns. Pile lettuce on the base, top with tomato if using. Then chicken, gherkins and put the lid on. Sink your teeth into it immediately and enjoy!"
+    }
+  ]
+}

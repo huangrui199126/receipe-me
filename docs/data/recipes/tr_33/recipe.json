@@ -1,0 +1,55 @@
+{
+  "id": "tr_33",
+  "title": "Easy French Onion Soup Dip",
+  "image": "https://www.recipetineats.com/tachyon/2017/06/French-Onion-Dip-with-Soup-Mix-5.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easy-french-onion-soup-dip/",
+  "servings": 10,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz  sour cream ((full fat is better))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "mayonnaise ((Mayo labelled “whole egg” mayo is best))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "40",
+      "unit": "g",
+      "name": "/ 1.4 oz  French Onion Soup Mix (store bought) (, salt reduced is best)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix ingredients together in a bowl. Rest for 5 minutes or until onion bits in the soup mix become softened."
+    },
+    {
+      "order": 2,
+      "instruction": "Serve with your favorite chips!"
+    }
+  ]
+}

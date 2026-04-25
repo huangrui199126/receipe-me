@@ -1,0 +1,124 @@
+{
+  "id": "tr_857",
+  "title": "Flourless Chocolate Brownies (gluten free)",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/Flourless-Chocolate-Brownies-Gluten-Free_SQ.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/brownies-fudgey-easy-gluten-free/",
+  "servings": 16,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [
+    "almond meal brownies",
+    "flourless brownies",
+    "gluten free brownies",
+    "gluten free dessert"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 3.0,
+    "carbs": 20.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dark chocolate chips or melts / semi-sweet chocolate ((Note 1))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "85",
+      "unit": "g",
+      "name": "/ 6 tbsp  unsalted butter (, cut into 1 cm / 1/2&quot; cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "brown sugar ((sub white))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large eggs ((55-60g / 2 oz each))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "almond meal / ground almonds ((or almond flour, Note 2))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "rice flour ((Note 3))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 180°C / 325°F (160°C fan-forced) with a rack in the lower third of the oven."
+    },
+    {
+      "order": 2,
+      "instruction": "Preparation: Grease and line a 20cm / 8&quot; square pan with baking paper (parchment paper) with excess overhang so it&#39;s easy to lift out the brownie when cooked."
+    },
+    {
+      "order": 3,
+      "instruction": "Melt butter and chocolate: Place chocolate, butter and salt in a heatproof bowl. Microwave in 3 x 30 second bursts on high, mixing in between, until melted and smooth. You could also do this over simmering water on the stove."
+    },
+    {
+      "order": 4,
+      "instruction": "Cool 5 minutes: Mix well to combine the chocolate and butter then leave to cool for 5 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Add vanilla, sugar and eggs: Stir in the vanilla and sugar. Crack the eggs straight into the bowl, and stir until combined."
+    },
+    {
+      "order": 6,
+      "instruction": "Add dry: Add almond meal and rice flour, and mix very well until fully combined."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake: Pour the batter into the prepared pan and smooth the surface. Bake for 25 minutes or until the brownies are slightly puffed all over and a toothpick inserted into the center comes out moist but clean. You want it to be moist!"
+    },
+    {
+      "order": 8,
+      "instruction": "Cool and serve: Cool brownies for at least 30 minutes in the pan. Remove the brownie by holding the edges of the baking paper, fully cool on a rack. Then cut into squares (3 x 3 for gigantic ones, 4 x 4 for sensible ones). See Note 4 for more cutting tips."
+    }
+  ]
+}

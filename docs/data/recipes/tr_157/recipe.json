@@ -1,0 +1,139 @@
+{
+  "id": "tr_157",
+  "title": "Louisiana Strawberry Spinach Salad with Strawberry Balsamic Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2016/11/Strawberry-Salad-13.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/strawberry-spinach-salad-with-strawberry-balsamic-dressing/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 387,
+    "protein": 8.1,
+    "carbs": 26.8,
+    "fat": 28.8
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   fresh strawberries (, tops cut off)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cups",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "brown sugar (, packed (light brown))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "strawberry jam or preserves",
+      "emoji": "🍓",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "pecans ((mostly whole, can chop some))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar ((any))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "/ 30 g   butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "baby spinach (, packed)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "16 (250 g / 8 oz)  large strawberries (, sliced )",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "75 - 100 g / 2 - 3.5 oz   blue cheese (, crumbled (to taste))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Whizz Dressing ingredients in a food processor or blender. Strain if desired (to remove little strawberry seeds). Keep for up to 2 weeks in the fridge."
+    },
+    {
+      "order": 2,
+      "instruction": "Pecans: Line a tray with parchment / baking paper. Melt butter in a medium saucepan over medium heat. Add pecans, toss to coat. Add sugar and stir for 5 minutes. The sugar will melt and coat the pecans. Pour onto tray, spread out, allow to cool - it will harden."
+    },
+    {
+      "order": 3,
+      "instruction": "To serve, place the spinach and half the strawberries in a bowl and drizzle over a bit of Dressing. Toss gently, then transfer to a serving bowl. Top with remaining strawberries, then drizzle with more Dressing. Crumble over blue cheese and scatter with pecans. Serve immediately, with remaining Dressing on the side!"
+    }
+  ]
+}

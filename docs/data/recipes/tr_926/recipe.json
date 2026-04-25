@@ -1,0 +1,159 @@
+{
+  "id": "tr_926",
+  "title": "Bruschetta summer pasta salad",
+  "image": "https://www.recipetineats.com/tachyon/2025/01/Bruschetta-pasta-salad_9.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/bruschetta-summer-pasta-salad/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "pasta salad",
+    "summer pasta salad",
+    "tomato pasta salad"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 16.0,
+    "carbs": 72.0,
+    "fat": 26.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/1 lb   penne (, ziti or other short pasta)",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt (, for cooking pasta)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb   tomatoes (, chopped into 1.25cm / 1/2” pieces, keep all juices (Note  2))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((Note 3))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "tightly packed basil leaves (, finely sliced (Note 1))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(tightly packed) finely shredded parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "extra virgin olive oil ((good time to break out the good stuff))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced using garlic press or very finely minced using knife)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((Note 3))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "pinenuts (, toasted)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Balsamic glaze (, for drizzling (Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook pasta in salted water until extra soft, toss with 2/3 Dressing, cool. Toss tomato with remaining Dressing, leave 10 min. Pour off juices into pasta, toss. Add 1/2 tsp salt into tomato, toss. Add into pasta with basil, parmesan. Finish with balsamic glaze and pine nuts. Enjoy!"
+    },
+    {
+      "order": 2,
+      "instruction": "Dressing - Shake the ingredients in a jar (or whisk in a jug)."
+    },
+    {
+      "order": 3,
+      "instruction": "Soft cooked pasta - Bring a large pot of water to the boil with the 2 teaspoons of salt. Cook the pasta per the packet time plus 2 minutes, until the pasta is overcooked and soft. (Note 5) Drain in a colander, then return the pasta into the same pot."
+    },
+    {
+      "order": 4,
+      "instruction": "Flavour the pasta - Give the dressing a good shake then pour 2/3 of it over the pasta. Stir (enjoy the smell!). Set aside to cool for 15 minutes and let the pasta absorb the dressing flavour."
+    },
+    {
+      "order": 5,
+      "instruction": "Bruschetta - Put chopped tomato and all watery juices into a bowl. Pour over remaining Dressing, gently toss. Set aside for 10 minutes or until the pasta is cool to let the flavours meld."
+    },
+    {
+      "order": 6,
+      "instruction": "Finishing (the order matters!) - Pour the juices accumulated in the tomato bowl into the pasta then toss to disperse. Add the salt into the tomato, gently toss, then add the tomato into the pasta. Add the basil, parmesan, gently toss."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve - Pour into a big bowl and serve! If using extra finishes, drizzle with a swish of balsamic glaze (not too much, it&#39;s strong!) and sprinkle with pine nuts. Eat!"
+    }
+  ]
+}

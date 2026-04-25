@@ -1,0 +1,271 @@
+{
+  "id": "tr_1998",
+  "title": "Middle Eastern Chicken and Couscous Wraps with Goat Cheese",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2013/12/Middle-Eastern-Chicken-and-Couscous-Wraps-with-Goat-Cheese-191.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/middle-eastern-chicken-couscous-wraps-goat-cheese/",
+  "servings": 8,
+  "prepTime": 35,
+  "cookTime": 10,
+  "tags": [
+    "chicken",
+    "couscous",
+    "wraps"
+  ],
+  "nutrition": {
+    "calories": 577,
+    "protein": 27.0,
+    "carbs": 54.0,
+    "fat": 31.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "boneless skinless chicken (sliced into strips)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "plain greek yogurt (I like to use Chobani 0%)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fresh ginger (minced or grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "crushed red pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cayenne",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "dry couscous",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water or chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 1 cup spinach (chopped)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "oil packed sun-dried tomatoes (drained and sliced, reserve 1-2 tablespoons of the oil)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "kalamata olives (sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "roasted shelled pistachios (chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped (may sub parsley))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "pomegranate arils (here is [how to deseed a pomegranate | https://www.halfbakedharvest.com/deseed-pomegranate-pictures/)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "goat cheese (crumbled)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "tahini (sesame paste)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoon",
+      "name": "greek yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemon (juiced)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-8 pieces of [naan | https://www.halfbakedharvest.com/homemade-naan-step-step-photos/] or [pita bread | https://www.halfbakedharvest.com/traditional-greek-pita-bread/]",
+      "emoji": "🍞",
+      "section": "",
+      "order": 27
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To marinate the chicken. In a medium bowl or gallon size ziplock bag combine the olive oil, greek, yogurt, ginger, garlic, pepper, cumin, crushed red pepper, cayenne and cinnamon. Add the chicken and toss well. Cover the bowl or seal the bag and place in the fridge for 30 minutes or overnight."
+    },
+    {
+      "order": 2,
+      "instruction": "In the meantime, to make the couscous. Bring the water (or broth) to a boil. Stir in the couscous cover and remove from the heat. Let sit for 5-10 minutes. After five minutes fluff the couscous with a fork and stir in the spinach, honey, olives, sun-dried tomatoes + oil, pistachios, cilantro salt and pepper. Set aside and keep warm."
+    },
+    {
+      "order": 3,
+      "instruction": "To make the Tahini sauce. In a small bowl whisk together the tahini (if the tahini is too thick to stir microwave it for 20-30 seconds), olive oil, garlic, greek yogurt, lemon and a pinch of salt and pepper until smooth. Set aside until ready to use. Just before serving stir in the pomegranate arils."
+    },
+    {
+      "order": 4,
+      "instruction": "After 30 minutes heat a large skillet over high heat and add 1 tablespoon of olive oil. When hot remove the chicken from the marinade and shake off just a little of the excess. Add the chicken to the skillet and stir fry for 4-6 minutes or until cooked through."
+    },
+    {
+      "order": 5,
+      "instruction": "To assemble the wraps, spread a little of the tahini sauce down the center of the warmed naan. Add the couscous and chicken and then top with crumbled goat cheese. If desired garnish with chopped cilantro, more pistachios and pomegranate arils. Wrap and eat!"
+    }
+  ]
+}

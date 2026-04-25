@@ -1,0 +1,157 @@
+{
+  "id": "tr_805",
+  "title": "Frittata",
+  "image": "https://www.recipetineats.com/tachyon/2018/09/Frittata-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/frittata-recipe/",
+  "servings": 8,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 15.0,
+    "carbs": 1.0,
+    "fat": 23.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "milk ((any))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10oz   bacon (, chopped)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "/ 15 g   butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  big handfuls baby spinach",
+      "emoji": "🥬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "/ 150g   mozzarella cheese (, shredded (or other melting cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "More cooked chopped bacon and spinach,  (for garnish as pictured)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk eggs, milk, salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a well seasoned skillet or non stick pan (about 26cm / 11\") over medium high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Add bacon and cook until almost golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Add garlic and cook for 30 seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Add spinach and toss until just wilted - bacon should now be golden."
+    },
+    {
+      "order": 7,
+      "instruction": "Turn heat down to medium. Remove about 1/3 of the bacon spinach into a bowl (for topping)."
+    },
+    {
+      "order": 8,
+      "instruction": "Add butter into the pan and swirl/spread across base of the pan."
+    },
+    {
+      "order": 9,
+      "instruction": "Pour in about 2/3 of the egg mixture. Scatter over half the cheese, then pour over remaining egg mixture."
+    },
+    {
+      "order": 10,
+      "instruction": "Scatter over reserved bacon and spinach, then cheese."
+    },
+    {
+      "order": 11,
+      "instruction": "Cook for about 3 minutes until the sides are just set but not golden - check with knife."
+    },
+    {
+      "order": 12,
+      "instruction": "Transfer to oven and cook for 8 minutes until the centre is just set and the cheese is melted on top."
+    },
+    {
+      "order": 13,
+      "instruction": "Rest for a few minutes then slice and serve."
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": "tr_1671",
+  "title": "Crockpot Italian Chicken and Broccoli Rabe Chili.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/10/Crockpot-Italian-Chicken-and-Broccoli-Rabe-Chili-1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/crockpot-italian-chicken-and-broccoli-rabe-chili/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 390,
+  "tags": [
+    "broccoli",
+    "chicken",
+    "chili",
+    "crockpot"
+  ],
+  "nutrition": {
+    "calories": 202,
+    "protein": 46.0,
+    "carbs": 16.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "pounds",
+      "name": "boneless (skinless chicken thighs or breasts)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small sweet onion (diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "allspice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "¼-½ teaspoon crushed red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  dried bay leaf",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt + pepper (or to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (6 ounce) can tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "low sodium chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large bunch broccoli rabe (ends trimmed + roughly chopped)",
+      "emoji": "🥦",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (12 ounce) jar roasted red peppers (sliced, )",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (15 ounce) can cannellini beans (drained + rinsed)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "freshly grated parmesan cheese (plus more for serving)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "chopped parsley (plus more for serving)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In the bowl of a 6-8 quart crockpot pot, add the chicken, onion, garlic, chili powder, oregano, paprika, thyme, allspice, crushed red pepper flakes, bay leaf, salt and pepper. Next add the tomato paste, chicken broth and balsamic vinegar. Give everything a gentle stir to combine. Cover the crockpot and cook on low for 6 to 8 hours (or 4-6 hours on high) stirring once or twice if possible."
+    },
+    {
+      "order": 2,
+      "instruction": "During the last 30 minutes of cooking, stir the broccoli rabe, roasted red peppers and cannellini beans together in a bowl and add to the crockpot. Crank the heat up to high, cover and let cook 20-30 minutes longer."
+    },
+    {
+      "order": 3,
+      "instruction": "Lightly shred the chicken with two forks, it should just fall apart. Stir in the parmesan and parsley."
+    },
+    {
+      "order": 4,
+      "instruction": "Ladle the soup into bowls and serve with parmesan + crusty bread for dipping."
+    }
+  ]
+}

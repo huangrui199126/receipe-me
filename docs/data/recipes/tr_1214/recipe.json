@@ -1,0 +1,187 @@
+{
+  "id": "tr_1214",
+  "title": "Chinese Cashew Chicken MEATBALLS!",
+  "image": "https://www.recipetineats.com/tachyon/2017/02/Cashew-Chicken-Meatballs-3-SQ.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cashew-chicken-meatballs-recipe/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 615,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "soy sauce, ordinary or light ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Chinese cooking wine ((shaoshing wine, or sub with dry sherry) (Note 4))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/1lb  chicken mince (ground chicken)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg, small ((Note 2))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "panko breadcrumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "white pepper (or sub with black)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "peanut oil ((or vegetable or canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion, sliced",
+      "emoji": "🧅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green capsicum / bell pepper, chopped into 1.75cm / 2/3\"",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cashews, unsalted",
+      "emoji": "🧂",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Sauce Part 1 ingredients in a jar and shake well. Place 2 tsp Sauce into a large bowl that you will be making the Meatballs in. Then add the cornflour into the Sauce jar and shake. Set Sauce aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Add remaining Meatballs ingredients into the bowl. Mix until just combined."
+    },
+    {
+      "order": 3,
+      "instruction": "Measure out a heaped tablespoon of mixture and dollop onto a work surface. Then roll into balls (see Note 2 if mixture is too loose / sticky to form into balls)."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil in a skillet over medium high heat. Add meatballs and cook, browning as best you can all over, or at least on both sides. Once browned all over (about 4 minutes), carefully transfer onto a plate. They will still be a bit raw inside."
+    },
+    {
+      "order": 5,
+      "instruction": "Return skillet to the stove, still on medium high. Add onion and garlic, cook for 1 minute. Add capsicum and cook for 1 minute. Add Sauce and water and quickly mix - it will simmer quickly."
+    },
+    {
+      "order": 6,
+      "instruction": "Transfer meatballs (and juices on the plate) into the Sauce. Turn heat down to medium and simmer, stirring occasionally, for 3 - 4 minutes, or until the Sauce reduces and thickens (by which time the meatballs will be cooked)."
+    },
+    {
+      "order": 7,
+      "instruction": "Stir through cashews, serve over rice!"
+    }
+  ]
+}

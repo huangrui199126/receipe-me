@@ -1,0 +1,143 @@
+{
+  "id": "tr_1354",
+  "title": "Cookie Mix In a Jar: White Chocolate Cranberry Cookies",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/Cranberry-Oatmeal-Cookie-Mix-Jar-8.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cookie-mix-in-a-jar-white-chocolate-cranberry-cookies/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 14,
+  "tags": [],
+  "nutrition": {
+    "calories": 243,
+    "protein": 2.4,
+    "carbs": 28.3,
+    "fat": 13.7
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "litre",
+      "name": "/ 4 cups / 1 quart / 32 oz mason jar",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "/ 70g   white sugar ((granulated, super fine or caster))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "/ 70g   brown sugar ((normal or light))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "/ 113g   plain flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 90g   quick cooking oats",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 120g   dried cranberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 cup/ 180g   white chocolate chips",
+      "emoji": "🍫",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 stick / 4 oz / 125g    unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg ((around 60g / 2oz))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Layer Cookie Mix ingredients in the jar in the order listed. I don't have anything to tamper with so I just shake / spread out with spoon (see video below recipe)."
+    },
+    {
+      "order": 2,
+      "instruction": "Seal and attach baking instructions - Print here."
+    },
+    {
+      "order": 3,
+      "instruction": "If your tray is prone to sticking, lightly grease with butter or line with baking / parchment paper (I do not bother). You will need 2 trays."
+    },
+    {
+      "order": 4,
+      "instruction": "Add Cookie Mix, butter and egg in a bowl. Mix with wooden spoon. Refrigerate 30 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Preheat oven to 375F/190C (standard) or 340F / 170C (fan / convection)."
+    },
+    {
+      "order": 6,
+      "instruction": "Scoop dough with ice cream scoop, level and press in with fingers, then drop onto tray 5cm / 2\" apart (makes 12 large cookies, 8cm/3” rounds). Or measure heaped tablespoon and roll into balls (makes 18 small cookies 5cm/2”)."
+    },
+    {
+      "order": 7,
+      "instruction": "Optional: If you remember, pick out some choc bits and cranberries and use to stud the top of the balls. For aesthetic reasons only. :)"
+    },
+    {
+      "order": 8,
+      "instruction": "Bake 8-10 minutes (small), 12-14 minutes (large) until light golden, swapping the trays at halftime. Rest 2 minutes then transfer to cooling rack."
+    }
+  ]
+}

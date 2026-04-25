@@ -1,0 +1,91 @@
+{
+  "id": "tr_135",
+  "title": "Coconut Coriander (Cilantro) Lime Rice",
+  "image": "https://www.recipetineats.com/tachyon/2016/05/Coconut-Lime-Rice_13.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/coconut-lime-cilantro-coriander-rice/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "long grain rice, uncooked ((jasmine is great too))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "finely chopped coriander / cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp fresh lime juice ((adjust to your taste))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Rice ingredients in a medium saucepan over medium heat with the lid on. Bring to simmer then turn down to medium low."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook for 15 to 18 minutes, or until liquid has been absorbed. Remove from heat, leaving the lid on, and rest for 10 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Fluff rice with a fork then stir through coriander/cilantro and lime juice. Adjust lime juice to taste."
+    }
+  ]
+}

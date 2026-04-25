@@ -1,0 +1,129 @@
+{
+  "id": "tr_584",
+  "title": "Easy Lemon Bars",
+  "image": "https://www.recipetineats.com/tachyon/2016/04/Lemon-Bars_2.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lemon-bars/",
+  "servings": 16,
+  "prepTime": 15,
+  "cookTime": 40,
+  "tags": [
+    "easy lemon bars"
+  ],
+  "nutrition": {
+    "calories": 186,
+    "protein": 2.2,
+    "carbs": 30.3,
+    "fat": 6.8
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "plain flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "rice flour ((or cornstarch/cornflour) (Note 1))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "icing sugar / powdered sugar (, sifted)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "110",
+      "unit": "g",
+      "name": "/ 1 stick   unsalted butter (, cold, cut into 1cm / 1/2&quot; cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs ((55-60g/2oz each))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "caster sugar / super-fine sugar ((sub regular sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "plain flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon zest ((do this before juicing))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "lemon juice ((2 - 3 lemons))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F (160C fan). Spray a 20cm/8&quot; square tin with oil and line with baking/parchment paper with overhang (so it can be lifted out once cooked)."
+    },
+    {
+      "order": 2,
+      "instruction": "Base - Place Shortbread Base ingredients in a food processor fitted with the standard &quot;S&quot; blade. Pulse 5 to 10 times until it becomes like sand. (Or use tips of fingers, Note 2). Pour into the tin, spread, then press firmly into the base, pushing it right up to the edges. Using something flat to press in is helpful!"
+    },
+    {
+      "order": 3,
+      "instruction": "Bake base for 20 minutes or until golden on the edges and pale golden in the middle. Remove from oven. (⚠️ Note: don&#39;t let it cool, pour in curd immediately)."
+    },
+    {
+      "order": 4,
+      "instruction": "Lemon Curd - While the base is baking, place Lemon Topping ingredients in a bowl and whisk until combined."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake 20 minutes - Pour Lemon Curd onto base, then bake for 20 minutes until the topping is set but still soft."
+    },
+    {
+      "order": 6,
+      "instruction": "Cool - Remove from then oven and cool on the counter for 1 hour, then fridge for at least 2 hours. Slice into 16 squares. Dust with icing sugar (confectionary sugar) and serve!"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id": "tr_855",
+  "title": "Café de Paris - Steak butter sauce",
+  "image": "https://www.recipetineats.com/tachyon/2021/08/Cafe-de-Paris-butter-for-steak_19.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cafe-de-paris-butter-sauce-for-steak/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "butter for steak",
+    "cafe de paris",
+    "compound butter",
+    "steak butter",
+    "steak sauce"
+  ],
+  "nutrition": {
+    "calories": 196,
+    "protein": 1.0,
+    "carbs": 3.0,
+    "fat": 21.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 7 tbsp  unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "eschalot ((small), very finely chopped  (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  anchovy fillets (, finely chopped (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "curry powder ((mild, Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "paprika ((plain or sweet, not smoked or spicy))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "kosher / cooking salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "tarragon (, finely chopped (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Steaks of choice ((Note 5))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt per steak",
+      "emoji": "🥩",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper per steak",
+      "emoji": "🥩",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable or canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place ingredients in a bowl and mix to combine."
+    },
+    {
+      "order": 2,
+      "instruction": "Place on cling wrap and roughly shape into a 20cm / 8\" log using spatulas or butter knives."
+    },
+    {
+      "order": 3,
+      "instruction": "Roll up, then twist ends tightly. As you tighten the ends, the butter will shape into a neat, firm log."
+    },
+    {
+      "order": 4,
+      "instruction": "Tie ends if needed to keep the shape. Refrigerate for 3 hours or until firm."
+    },
+    {
+      "order": 5,
+      "instruction": "To use - Slice into 0.7cm (1/3&quot;) slices, then let them soften to room temperature (so they melt easier). Place on hot steak so it melts - I use 2 slices each steak. Leftovers - fridge 3 days or freeze 2 months (pre sliced for ease of use)."
+    },
+    {
+      "order": 6,
+      "instruction": "Bring to room temp: Take the steak out of the fridge 30 minutes prior to cooking."
+    },
+    {
+      "order": 7,
+      "instruction": "Dry: Pat steaks dry with paper towels."
+    },
+    {
+      "order": 8,
+      "instruction": "Heat skillet: Heat oil in a heavy based skillet over high heat until it is very hot - you should see smoke!"
+    },
+    {
+      "order": 9,
+      "instruction": "Season: Sprinkle each side of the steak generously with salt and pepper, then immediately place in the skillet."
+    },
+    {
+      "order": 10,
+      "instruction": "Cook steak to taste: For 2cm (3/4&quot;) thick steaks, cook the first side for 2 minutes, then turn and cook the other side for 2 minutes (medium rare 52°C/125°F, chart below for other doneness temps)."
+    },
+    {
+      "order": 11,
+      "instruction": "Rest: Transfer steaks to a warm plate, cover loosely with foil and rest for 5 to 10 minutes, then serve."
+    },
+    {
+      "order": 12,
+      "instruction": "Leftovers - fridge 3 days or freeze 2 months (pre sliced for ease of use)."
+    }
+  ]
+}

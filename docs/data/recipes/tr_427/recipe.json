@@ -1,0 +1,115 @@
+{
+  "id": "tr_427",
+  "title": "Sandwich Bread WITHOUT Yeast! (Dead easy)",
+  "image": "https://www.recipetineats.com/tachyon/2020/05/No-Yeast-Sandwhich-Bread_9-SQ.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sandwich-bread-without-yeast-quick-easy/",
+  "servings": 16,
+  "prepTime": 5,
+  "cookTime": 50,
+  "tags": [
+    "bread without yeast",
+    "no yeast bread",
+    "sandwhich bread"
+  ],
+  "nutrition": {
+    "calories": 146,
+    "protein": 4.0,
+    "carbs": 24.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "flour (, plain/all purpose (Note 1))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "8",
+      "unit": "tsp",
+      "name": "baking powder ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cooking / kosher salt ((REDUCE to 1 tsp if using table salt, Note 3))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "milk (, warmed (any - Note 4))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "oil (, any plain (vegetable, canola, sunflower, rapeseed, grapeseed, light olive oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/430°F (200°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Grease a 22 x 13 cm / 9 x 5&quot; loaf pan, then line with parchment/baking paper with overhang (to lift out)."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix dry: Place flour, baking powder, salt and sugar in a bowl, mix to combine."
+    },
+    {
+      "order": 4,
+      "instruction": "Add wet: Make a well in the centre, pour in oil and milk. Mix until flour is fully incorporated - batter will be thick but stirrable."
+    },
+    {
+      "order": 5,
+      "instruction": "Fill pan: Scrape into loaf pan, using a rubber spatula to scrape the bowl clean and smooth the surface."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake 30 minutes. Remove from oven, cover with foil."
+    },
+    {
+      "order": 7,
+      "instruction": "Return to oven. Turn oven DOWN to 200°C/390°F (180°C fan), bake 20 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove from oven. Cool in pan 5 minutes, then use excess paper to lift out and transfer to cooling rack."
+    },
+    {
+      "order": 9,
+      "instruction": "Cool completely before slicing - 45 minutes+. It IS more delicate than yeast breads (can&#039;t change science!) but slices far better than the usual &quot;cake like&quot; no yeast breads. Slices perfectly on Day 2 and beyond."
+    },
+    {
+      "order": 10,
+      "instruction": "Use for sandwiches, toast, grilled cheese, french toast, bread and butter pudding - anything you use &quot;real&quot; sandwich bread for!"
+    }
+  ]
+}

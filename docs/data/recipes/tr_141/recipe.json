@@ -1,0 +1,151 @@
+{
+  "id": "tr_141",
+  "title": "Quiche Toast Cups",
+  "image": "https://www.recipetineats.com/tachyon/2014/08/Quiche-Toast-Cup-1-1.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/quiche-toast-cups/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 367,
+    "protein": 18.9,
+    "carbs": 32.2,
+    "fat": 18.7
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  rasher of bacon (, rind removed, diced (50g / 1.5 oz))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  onion (, finely diced (brown, white or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "white sandwich bread ((fresh))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  regular size eggs ((or 3 small))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "cheese (, grated (tasty, gruyere, cheddar - any good melting cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 1 tsp oil in small pan over high heat. Add onion and bacon and sauté until bacon is crisp - about 2 minutes. Remove from heat and set aside (you can just leave it in the pan)."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut bread into rounds or just cut crusts off. I use a 800g/28oz tomato can (emptied and washed) - the perfect size to cut rounds to fit into muffin tins out of bread, pastry etc."
+    },
+    {
+      "order": 4,
+      "instruction": "Use a rolling pin to flatten the bread."
+    },
+    {
+      "order": 5,
+      "instruction": "Lightly spray 6 muffin tin holes with oil spray, then press the bread into the muffin tin."
+    },
+    {
+      "order": 6,
+      "instruction": "Place in oven for 3 minutes. Remove from oven and set aside. The toast cups should not be browned, just a bit dry (like \"toast\")."
+    },
+    {
+      "order": 7,
+      "instruction": "Whisk together the egg, milk, parsley and a pinch of salt and pepper."
+    },
+    {
+      "order": 8,
+      "instruction": "Divide the bacon mixture between the 6 toast cups, then the cheese."
+    },
+    {
+      "order": 9,
+      "instruction": "Pour 2 1/2 tbsp of egg mixture into each cup, then immediately place in the oven. If you take too long between pouring the egg mixture into the toast cups and putting it in the oven, the egg will start soaking into the bread."
+    },
+    {
+      "order": 10,
+      "instruction": "Bake for 12 to 15 minutes until the top is lightly golden and the filling is set."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove from oven and rest for 5 minutes before serving. The filling will be puffed up but it will deflate while resting."
+    },
+    {
+      "order": 12,
+      "instruction": "Garnish with extra parsley if desired. Serve warm."
+    }
+  ]
+}

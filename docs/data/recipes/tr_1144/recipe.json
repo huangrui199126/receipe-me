@@ -1,0 +1,149 @@
+{
+  "id": "tr_1144",
+  "title": "Stabilised whipped cream",
+  "image": "https://www.recipetineats.com/tachyon/2022/11/Chantilly-cream_5.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/stabilised-whipped-cream/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "stabilised whipped cream"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "thickened cream (heavy cream) or whipping cream (, fridge cold (Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3 1/4",
+      "unit": "tsp",
+      "name": "cream stabiliser powder",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "thickened cream (heavy cream) or whipping cream (, fridge cold (Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "mascarpone (, fridge cold (40%+ fat, PLEASE GET A REPUTABLE ONE Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "gelatine powder ((unflavoured gelatine), I use McKenzie's brand)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "thickened cream (heavy cream) or whipping cream (, fridge cold (Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra heavy / thickened cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "caster sugar / superfine sugar OR",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "icing sugar / powdered sugar (, sifted (for Chantilly Cream - Note 4))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Put the cream, cream stabiliser, vanilla, and sugar or icing sugar in a bowl. Beat for 2 minutes on high until soft peaks form (or a little longer if you want stiff peaks). Ready for use!"
+    },
+    {
+      "order": 2,
+      "instruction": "Holds its structure for up to 3 days in the fridge."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the cream, mascarpone, and icing sugar or sugar and vanilla in a bowl. Beat until it is the stiffness you are after (1 1/2 minutes if you want soft peaks (kind of dollops) or 2 minutes for stiff peaks (for piping)."
+    },
+    {
+      "order": 4,
+      "instruction": "Holds its structure for up to 3 days in the fridge."
+    },
+    {
+      "order": 5,
+      "instruction": "Place the water in a small bowl and sprinkle the gelatine over. Mix to dissolve then leave for 5 minutes to bloom - it will turn into a rubbery lump."
+    },
+    {
+      "order": 6,
+      "instruction": "Microwave for 10 to 15 seconds to melt. Stir in 1 tbsp cream to cool it down."
+    },
+    {
+      "order": 7,
+      "instruction": "Put the cream, vanilla, and sugar or icing sugar in a bowl. Beat for 1 minute until quite foamy, then add the gelatine liquid. Keep beating until it is the stiffness you are after - about 30 seconds for soft peaks, or 1 minute for stiff peaks."
+    },
+    {
+      "order": 8,
+      "instruction": "Use immediately as you would regular cream (eg decorating cakes, piping, spreading)."
+    },
+    {
+      "order": 9,
+      "instruction": "Keep for use later - immediately transfer into a piping bag or bowl for use the next day. Important: DO NOT STIR before use, it breaks the cream and makes it watery."
+    }
+  ]
+}

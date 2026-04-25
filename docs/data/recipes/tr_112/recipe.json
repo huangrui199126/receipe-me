@@ -1,0 +1,195 @@
+{
+  "id": "tr_112",
+  "title": "Breakfast Enchiladas",
+  "image": "https://www.recipetineats.com/tachyon/2015/06/Breakfast-Enchiladas-2_680px.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/bacon-and-eggs-breakfast-enchiladas/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion ((red, brown, white, yellow), diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "red capsicum ((bell peppers), roughly diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz   crushed tinned tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz   canned black beans or red kidney beans (, drained)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "paprika powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250 g   bacon (, diced)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  large eggs ((or 6 normal eggs), lightly whisked)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  soft tortillas ((standard size around 20cm/8\" in diameter))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Diced avocado",
+      "emoji": "🥑",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Coriander/cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat olive oil in a large skillet over high heat. Add garlic and onion and saute until the onion is translucent."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the capsicum and cook for another 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Add remaining Filling ingredients. Stir then turn the heat down to medium and let it cook for 5 minutes or so until thickened. Transfer to a bowl and let it cool slightly."
+    },
+    {
+      "order": 5,
+      "instruction": "Wipe the pan clean and return to high heat. Add bacon and cook until light golden brown. Drain fat if there is excess. Turn heat down to medium Add the eggs and gently stir and fold them into the bacon mixture until the eggs almost set but are still watery."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove pan from heat. The eggs will continue cooking in the residual heat."
+    },
+    {
+      "order": 7,
+      "instruction": "Lay the tortillas on a work surface. Divide the Filling mixture between them, then top with Bacon and Egg mixture. Sprinkle with cheese then roll the Enchiladas up."
+    },
+    {
+      "order": 8,
+      "instruction": "Place in a baking dish (or tray) and bake for 10 to 15 minutes, or until the top is golden brown and you can see that the cheese has melted."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve with desired garnished. I highly recommend sour cream and avocado."
+    }
+  ]
+}

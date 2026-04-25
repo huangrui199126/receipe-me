@@ -1,0 +1,261 @@
+{
+  "id": "tr_1754",
+  "title": "Fiesta Chicken Quesadillas with Chipotle Relish and Mango Salsa.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/05/Fiesta-Chicken-Quesadillas-with-Chipotle-Relish-and-Mango-Salsa-4.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/fiesta-chicken-quesadillas-with-chipotle-relish-and-mango-salsa/",
+  "servings": 4,
+  "prepTime": 25,
+  "cookTime": 35,
+  "tags": [
+    "chipotle",
+    "mango",
+    "quesadillas",
+    "relish",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 907,
+    "protein": 49.0,
+    "carbs": 114.0,
+    "fat": 39.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small sweet onion (diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "8",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-3  chipotle chilies (finely chopped)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "can diced tomatoes (14, or sub 1 cup marinara sauce)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "brown sugar or honey",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  mangos (peeled + diced)",
+      "emoji": "🥭",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  ripe (but firm avocado, pitted, peeled + diced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red fresno chili (seeded + diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "juice of 1 lime",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "boneless skinless chicken tenders",
+      "emoji": "🍗",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "chipotle chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "spanish smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "brown sugar or honey",
+      "emoji": "🍬",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fresh lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red bell pepper OR 5-6 mini peppers",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-1 1/2 cups [cooked coconut rice | https://www.halfbakedharvest.com/hawaiian-hula-pork-fajitas-pineapple-slaw-coconut-rice/] or brown rice",
+      "emoji": "🥩",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  flour tortillas",
+      "emoji": "🌾",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cheddar cheese or pepper jack cheese (shredded (or use a mix of the two))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat a skillet to medium heat and add the olive oil. Once hot, add the onions and garlic, cook, stirring often until lightly caramelized and sweet, about 5-10 minutes. Stir in the chipotle chilies, diced tomatoes, tomato paste, vinegar and brown sugar. Add 1/4 cup water. Bring the sauce to a boil and then reduce the heat to a simmer. Simmer for 20-30 minutes or until thickened slightly. If desired you can puree the sauce (I did not). Transfer to a glass jar. Can be stored in the fridge for up to 2 weeks."
+    },
+    {
+      "order": 2,
+      "instruction": "In a bowl, combine the mangos, avocados, fresno chili, cilantro and lime juice. Toss well. Keep in the fridge until ready to eat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the chicken to a large bowl or gallon size ziplock bag. Add the chipotle chili powder, cumin, smoked paprika, brown sugar (or honey), garlic powder and a pinch of both salt and pepper. Drizzle a little olive oil over the chicken and add the lime juice. Toss well to combine and evenly distribute the seasonings. If possible, allow the chicken to sit in the marinade for 30 minutes or up to overnight (this is normally when I make the relish and salsa)."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat the grill, a grill pan or a heavy cast iron skillet to medium high heat. Rub the peppers with a little olive oil. Once the grill is hot, add the chicken and peppers. Grill the chicken for 4-5 minutes per side or until lightly charred. Grill the peppers until charred on all sides, about 10 minutes. Remove from the grill and allow the chicken to cool before cutting into bite size pieces. Once the peppers are cool, remove the seeds and slice."
+    },
+    {
+      "order": 5,
+      "instruction": "To assemble the quesadillas, heat an electric griddle or skillet over medium heat. Add a bit of olive oil. Place 4 tortillas down on a clean counter, covering each with a bit of cheese. Then evenly distribute the rice, top that with the peppers and then add the chopped chicken. If desired you can add a little of the chipotle relish to the filling too. Sprinkle with a little more of the cheese. Place the tortilla on the griddle or skillet, then cover with the other tortilla. Cook until the bottom is crispy and golden brown, then gently flip and cook for another 2-3 minutes until crispy and golden."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve with the chipotle relish and mango salsa."
+    }
+  ]
+}

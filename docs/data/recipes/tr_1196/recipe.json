@@ -1,0 +1,255 @@
+{
+  "id": "tr_1196",
+  "title": "Coq au Vin",
+  "image": "https://www.recipetineats.com/tachyon/2021/09/Coq-au-Vin_00-SQ.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/coq-au-vin/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 90,
+  "tags": [
+    "coq au vin",
+    "french chicken stew",
+    "red wine stew"
+  ],
+  "nutrition": {
+    "calories": 977,
+    "protein": 59.0,
+    "carbs": 32.0,
+    "fat": 54.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  chicken thighs (, bone-in, skin on (~220g / 7 oz each) (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  chicken drumsticks ((Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "16  pearl onions or picking onions ((Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bay leaf (, fresh (dry also ok))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  thyme sprigs ((sub 1 tsp dried thyme))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "750",
+      "unit": "ml",
+      "name": "/ 3 cups  pinot noir red wine (, or other dry red wine (Note 3))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 4 tbsp vegetable oil ((or canola oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt ((cooking/kosher salt, or 1/2 tsp table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14oz  white mushrooms (, halved (quartered if large) (Note 4))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5oz  bacon piece (, (speck) cut into 1 x 2.5cm / 0.4 x 1\" batons (Note 5))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 4 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, finely minced (with knife))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "7",
+      "unit": "tbsp",
+      "name": "flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "750",
+      "unit": "ml",
+      "name": "/ 3 cups  beef stock",
+      "emoji": "🥩",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt ((cooking/kosher salt, or 1/8 tsp table salt) (Note 7))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "parsley (, chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mashed potato ((or tagliatelle))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinate chicken: Place the Chicken Marinade ingredients in a large glass or ceramic bowl or dish. Marinate overnight in the fridge (minimum 12 hours, maximum 24 hours)."
+    },
+    {
+      "order": 2,
+      "instruction": "Strain wine into a bowl. Reserve herbs and wine. Separate the chicken and onion."
+    },
+    {
+      "order": 3,
+      "instruction": "Dry chicken: Spread chicken out on a try lined with paper towels, then pat dry with paper towels."
+    },
+    {
+      "order": 4,
+      "instruction": "Reduce wine: Pour red wine into a saucepan and bring to a boil over medium high heat. Simmer vigorously, skimming off any impurities that rise to the surface, until reduced by half. Set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "Preheat oven to 180°C / 350°F (160°C fan)."
+    },
+    {
+      "order": 6,
+      "instruction": "Season chicken: Sprinkle chicken with 3/4 tsp salt and 1/2 tsp black pepper."
+    },
+    {
+      "order": 7,
+      "instruction": "Brown chicken: Heat 3 tbsp oil in a large, heavy-based, oven-proof pot over medium-high heat. Add chicken thighs skin side down and cook for 2 - 3 minutes until nicely browned (it will be darker than usual because of the red wine). Flip thighs and cook the other side for another minute to kiss it with a little colour. Remove to a tray. Pull at skin of drumsticks to cover flesh as best as possible, then brown (I do 3 to 4 sides, ~5 minutes in total). Remove and set aside."
+    },
+    {
+      "order": 8,
+      "instruction": "Fry bacon: Remove any loose black burnt bits. Add a bit of extra oil if needed, then cook bacon for 3 minutes until golden. Add to tray with chicken."
+    },
+    {
+      "order": 9,
+      "instruction": "Sauté mushrooms: Add mushrooms and cook for 5 minutes, or until golden. Remove into a separate bowl."
+    },
+    {
+      "order": 10,
+      "instruction": "Sauté onion: Add a bit of extra oil if needed, then cook onions for 5 minutes or until there are nice golden patches."
+    },
+    {
+      "order": 11,
+      "instruction": "Butter and flour: Add butter into pot. Once melted, add garlic and cook for a further 1 minute. Add tomato paste and cook for 2 minutes. Add flour and cook for 2 minutes."
+    },
+    {
+      "order": 12,
+      "instruction": "Add wine and stock: While stirring, slowly pour in beef stock – this helps the flour dissolve lump-free into the stock. Then add the reduced wine and mix until flour mixture is dissolved and mostly lump-free. (Note 8)"
+    },
+    {
+      "order": 13,
+      "instruction": "Add everything back in: Add chicken, bacon, mushroom, thyme, bay leaf, salt and pepper into the pot, then stir."
+    },
+    {
+      "order": 14,
+      "instruction": "Oven 45 minutes: Bring to a simmer, then cover and transfer to oven for 45 minutes. Chicken will be very tender - but not &quot;falling apart&quot;. (Note 9)"
+    },
+    {
+      "order": 15,
+      "instruction": "Adjust salt: Remove from oven, taste sauce and add salt if needed."
+    },
+    {
+      "order": 16,
+      "instruction": "Leave overnight (recommended, Note 11): If time permits, leave the stew overnight before serving because as with all stews, it gets better with time! Reheat gently on a low stove in a covered pot, ensuring that chicken is fully heated through. Add water if needed to loosen sauce."
+    },
+    {
+      "order": 17,
+      "instruction": "Serve over mashed potato or tagliatelle, sprinkled with fresh parsley! For the ultimate experience, mop the plate clean with homemade brioche (surprisingly straight forward to make). See in post for side salad and dessert options."
+    }
+  ]
+}

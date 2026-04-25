@@ -1,0 +1,200 @@
+{
+  "id": "tr_379",
+  "title": "Pearl Couscous Salad",
+  "image": "https://www.recipetineats.com/tachyon/2017/07/Israeli-Couscous-Salad-3.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/israeli-couscous-salad/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "couscous salad",
+    "gourmet couscous salad",
+    "israeli couscous salad",
+    "pearl couscous salad"
+  ],
+  "nutrition": {
+    "calories": 477,
+    "protein": 16.0,
+    "carbs": 67.0,
+    "fat": 18.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  small onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(250g/ 8oz)  pearl couscous ((aka gourmet or Israeli couscous, Note 1))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "vegetable or chicken broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  cucumbers (, diced (about 2 cups))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   cherry tomatoes (, halved (about 2 cups))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "baby spinach (, finely sliced (Note 2))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "coriander / cilantro (, finely chopped (or sub with parsley))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "dill (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lemon zest",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar (, optional)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté onion &amp; garlic - Heat oil in a large saucepan or small pot over medium high heat. Add garlic and onion, saute until the onion is translucent and starting to brown."
+    },
+    {
+      "order": 2,
+      "instruction": "Couscous &amp; broth - Add couscous and stir, cooking for 1 minute. Add broth and water, bring to a simmer. Then place the lid on and turn the heat down to medium low so it is simmering gently."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook for 10 minutes until the liquid is absorbed and the couscous is cooked through but still firm. Use a fork to separate the couscous, then transfer into a large bowl to cool. (It will form a sticky block but don&#39;t worry, it will separate when tossed with Dressing)."
+    },
+    {
+      "order": 4,
+      "instruction": "Dressing - Place Dressing ingredients in a jar and shake well."
+    },
+    {
+      "order": 5,
+      "instruction": "Toss! Add Salad ingredients into the bowl, pour over Dressing and toss. Serve at room temperature."
+    }
+  ]
+}

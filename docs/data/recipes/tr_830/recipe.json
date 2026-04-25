@@ -1,0 +1,97 @@
+{
+  "id": "tr_830",
+  "title": "Bacon Wrapped Pork Tenderloin",
+  "image": "https://www.recipetineats.com/tachyon/2015/05/Bacon-wrapped-pork_69-SQ.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/bacon-wrapped-pork-tenderloin/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 30,
+  "tags": [
+    "bacon wrapped pork"
+  ],
+  "nutrition": {
+    "calories": 511,
+    "protein": 51.3,
+    "carbs": 9.4,
+    "fat": 28.8
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 to 10 slices of streaky bacon (, long enough to wrap around the pork 1 1/2 times.)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   pork tenderloin (, at room temperature)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "honey ( or maple syrup (honey works better, it&#39;s thicker))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/390°F (180°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Lay out bacon: Lay the bacon strips vertically on a board, slightly overlapping (see photo in post). There should be enough bacon so when rolled will wrap the length of the pork."
+    },
+    {
+      "order": 3,
+      "instruction": "Season the pork with salt and pepper. Tuck the thin end of the fillet under so the pork is roughly the same thickness from end to end."
+    },
+    {
+      "order": 4,
+      "instruction": "Brown pork: Heat the oil in an oven-proof skillet over high heat. Sear the pork on all sides until nicely browned. (Don&#39;t worry about cooking through, it will go in the oven.) Turn off heat, remove pork and allow to cool enough to handle."
+    },
+    {
+      "order": 5,
+      "instruction": "Wrap pork in bacon: Place pork on the arranged bacon at the end closest to you. Use a long knife to lift the bacon under the pork and roll the pork so the bacon wraps around the fillet. Finish with the bacon seam side down."
+    },
+    {
+      "order": 6,
+      "instruction": "Honey: Use the knife to transfer back into the skillet. Drizzle over honey and brush all over."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake 25 minutes: Transfer skillet to oven for 25 minutes and roast pork until the internal temperature is 65°C / 149°F. (Note 1) Baste with pan juices at the 20 minute mark, mopping up plenty of the honey and juices pooled in the pan (this will make bacon deep golden)."
+    },
+    {
+      "order": 8,
+      "instruction": "Rest 5 minutes: Remove from oven and let it rest for 5 minutes. Baste once more just before serving. To serve, cut into thick slices. Serve with remaining pan juices."
+    }
+  ]
+}

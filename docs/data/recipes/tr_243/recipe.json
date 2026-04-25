@@ -1,0 +1,131 @@
+{
+  "id": "tr_243",
+  "title": "Asian Grilled Shrimp / Prawns",
+  "image": "https://www.recipetineats.com/tachyon/2015/12/Asian-Barbecue-Prawns_31.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/asian-grilled-shrimp-prawns-bbq-or-stove/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 262,
+    "protein": 28.7,
+    "carbs": 2.4,
+    "fat": 14.7
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500 g   shrimp / prawns ((fresh), peeled and deveined (Note 1))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "salted butter ((or 1/3 cup unsalted butter + big pinch of salt))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3/4 to 1 tsp tsp sweet soy sauce / kecap manis ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lime (, large)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red birds eye chilli (, deseeded and finely sliced or chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cilantro / coriander leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine shrimp / prawns, garlic and oil in a small bowl, use your fingers to coat then set aside for 15 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, melt butter in a small silver fry pan or saucepan over medium heat. (Note 3)"
+    },
+    {
+      "order": 3,
+      "instruction": "Heat until it starts to foam, then swirl the pan occasionally to distribute heat evenly."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook until the butter turns golden, smells nutty and there are brown specks at the bottom (you might need a teaspoon to push the foam aside)."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove from heat immediately. Pour into a jug, leaving behind most of the bitter brown specks (I strained it - because I was making an effort!)."
+    },
+    {
+      "order": 6,
+      "instruction": "Set aside until required."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat the BBQ or fry pan over high heat (no oil)."
+    },
+    {
+      "order": 8,
+      "instruction": "Add prawns / shrimp and cook until each side is lightly golden brown, but be sure not to overcook! (Note 4)"
+    },
+    {
+      "order": 9,
+      "instruction": "Place prawns in a bowl. Grate over the zest of a lime, then cut the lime in half and squeeze over about 1 tbsp of lime juice. Drizzle with 1 tbsp of browned butter, toss gently."
+    },
+    {
+      "order": 10,
+      "instruction": "Transfer to a plate. Drizzle with 2 tbsp of browned butter then lastly, drizzle over kecap manis, using as thin a stream as you can."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve immediately, garnished with chilli and cilantro/coriander, if using."
+    }
+  ]
+}

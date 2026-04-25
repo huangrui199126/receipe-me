@@ -1,0 +1,227 @@
+{
+  "id": "tr_566",
+  "title": "Sausage ragu with pappardelle pasta",
+  "image": "https://www.recipetineats.com/tachyon/2016/02/Sausage-ragu_7-square.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sausage-ragu/",
+  "servings": 5,
+  "prepTime": 20,
+  "cookTime": 135,
+  "tags": [
+    "italian sausage ragu",
+    "sausage meat sauce",
+    "sausage pasta"
+  ],
+  "nutrition": {
+    "calories": 818,
+    "protein": 33.0,
+    "carbs": 75.0,
+    "fat": 40.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (, peeled and grated using a box grater (Note 1))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  celery stalks (, grated using a box grater (Note 1))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fennel seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "/ 12 oz  pork sausages (, meat removed from casings (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "/ 12 oz  beef sausages (, meat removed from casings (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "pinot noir red wine ((sub 0% alcohol red wine or more chicken stock))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "chicken stock/broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/14 oz  can crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  thyme sprigs ((or 1/2 tsp dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  bay leaves ((fresh better, else dried))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "chilli flakes ( (red pepper flakes), optional (for hint of heat))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1 lb   pappardelle pasta (, or other pasta (80g/2.8oz per serving) (Note 3))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan or parmigiano reggiano (, finely grated, for serving)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley (, finely chopped, optional garnish (just a pinch))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C (160°C fan-forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Soffrito - Heat the oil in a large heavy based pot (with a lid) over medium heat. Add the onion, garlic, carrot, celery and fennel seeds. Cook for 8 minutes until the carrot is soft and sweet, but not golden."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook sausage - Turn the heat up to high and add the sausage. Cook, breaking it up as you go, as best you can. It doesn&#39;t crumble as well as mince/ground meat but that&#39;s ok, we will break it up more later."
+    },
+    {
+      "order": 4,
+      "instruction": "Deglaze - Once the meat is no longer pink (it doesn&#39;t really brown), add the tomato paste. Cook for 1 minute. Add the wine and let it simmer rapidly for 2 minutes until reduced by half, stirring regularly to scrape the base of the pot clean."
+    },
+    {
+      "order": 5,
+      "instruction": "Slow cook #1 (1 hr) - Add the remaining ragu ingredients. Stir, bring to a simmer, put the lid on and place it in the oven for 1 hour."
+    },
+    {
+      "order": 6,
+      "instruction": "Slow cook #2 (45 min) - Remove from the oven and use a potato masher to mash the meat finer. Put the lid back on, and return to the oven for 45 minutes. The sauce will be quite thick, it gets loosened when tossed with the pasta."
+    },
+    {
+      "order": 7,
+      "instruction": "Salt - Taste and add more salt if desired. (Sausages vary in saltiness so I always start with less)"
+    },
+    {
+      "order": 8,
+      "instruction": "Cook pasta - Cook the pappardelle according to the packet instructions. Just before draining, scoop out 1 1/2 cups of the cooking water and set it aside."
+    },
+    {
+      "order": 9,
+      "instruction": "Toss with sauce - Have the ragu pot on the stove over medium heat. Add the pasta into the pot along with 1/2 cup of the pasta cook water. Use two spatulas to toss the pasta until the ragu is tangled in the pasta strands and it is stained red from the sauce. Use extra pasta cooking water if needed to loosen it up."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve in pre-warmed bowls, garnish with parmesan and a pinch of parsley if desired. Eat immediately!"
+    }
+  ]
+}

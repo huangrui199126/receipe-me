@@ -1,0 +1,245 @@
+{
+  "id": "tr_1849",
+  "title": "Italian Quinoa Risotto Lasagna Casserole w/Truffle Oil.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/10/Italian-Quinoa-Risotto-Lasagna-w-Truffle-Oil.-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/italian-quinoa-risotto-lasagna-wtruffle-oil/",
+  "servings": 8,
+  "prepTime": 30,
+  "cookTime": 60,
+  "tags": [
+    "lasagna"
+  ],
+  "nutrition": {
+    "calories": 866,
+    "protein": 36.0,
+    "carbs": 43.0,
+    "fat": 50.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "pancetta (chopped (optional, but adds great flavor))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  small sweet onion (diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red pepper (diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "ground spicy italian chicken sausage or regular spicy italian sausage",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dried basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dried parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "pepper + 1/2 teaspoon kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "can crushed tomatoes (28)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk (I use 2%)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "dry quinoa",
+      "emoji": "🌾",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "warm chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "white wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt + pepper (plus more to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "freshly grated parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "truffle oil (for drizzling)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "provolone cheese (shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "mozzarella cheese (shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "chopped fresh basil or parsley (for garnish)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by making the sauce. In a heavy bottomed pot, cook 1 tablespoon of olive oil and the pancetta over medium heat, stirring, until the pancetta is lightly browned, about 5 minutes. Add the onion, garlic and red pepper and cook, stirring until the veggies are softened, about 5 minutes. Push the veggies off to the side of the pan and increase the heat to medium-high. Add 1 tablespoon of olive oil to the center of the pan and crumble in the ground sausage. Cook without stirring for 3 minutes and then begin breaking up the meat and continue to cook, stirring occasionally, until well browned, about 5 minutes. Add the oregano, basil, parsley and thyme. Cook another minute or so."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the tomatoes, tomato paste,1 cup milk, salt and pepper to the pot. Simmer the sauce, stirring occasionally, until thickened, about 20-30 minutes. Taste to season with salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "While the sauce is cooking, make the quinoa. Bring 4 cups chicken broth to boil in 12 inch high sided skillet. Add quinoa, reduce heat to medium-low, cover, and simmer until tender and chicken broth is absorbed, about 15 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "After 15 minutes, remove the lid and add the butter, olive oil and remaining 1 cup of chicken broth, stir vigorously for 5 minutes, until the quinoa is thick. Add the wine and parmesan cheese. Continue to stir vigorously for 2 to 3 minutes, until the quinoa is thick and creamy. Season with salt and pepper. Drizzle with 1-2 tablespoons truffle oil."
+    },
+    {
+      "order": 5,
+      "instruction": "Preheat the oven to 375 degrees F. To assemble the lasagna, grease a 9x13 inch baking dish. Spread the quinoa risotto in one even layer over the bottom of the greased dish. Spoon the meat sauce over the quinoa and then top with the provolone and mozzarella cheese. Bake for 30-35 minutes or until the cheese is lightly golden and the sauce bubbling. Let sit 10 minutes and then cut and serve with some crusty bread and a drizzle of truffle oil. Garnish with fresh basil or parsley."
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "id": "tr_1437",
+  "title": "Easy Chickpea Curry with Potato (Chana Aloo Curry)",
+  "image": "https://www.recipetineats.com/tachyon/2019/02/Chickpea-Curry_3-SQ.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easy-chickpea-potato-curry-chana-aloo-curry/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [
+    "chickpea curry",
+    "easy curry recipe"
+  ],
+  "nutrition": {
+    "calories": 248,
+    "protein": 8.0,
+    "carbs": 32.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "curry powder (, mild - just regular grocery store brands like Clives, Keens(Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "All Spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "nutmeg powder ((or 1/2 tsp freshly grated))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "smoked paprika ((or normal/sweet))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dried thyme leaves ((or 3 tsp fresh))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cayenne pepper (for spiciness - reduce or omit (Note 3))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white pepper ((or 1/2 tsp black pepper) (Note 3))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "canola or coconut oil (any type) (, or any other oil for cooking)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion (, diced (brown, white, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "potatoes (, cut into 1.2cm / 1/2&quot; cubes (1 large, any type, peeled))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "28",
+      "unit": "oz",
+      "name": "/ 800g  canned chickpeas ((2 x 14oz/400g cans), drained (Note 3))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "14",
+      "unit": "oz",
+      "name": "/ 400g  canned crushed tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "vegetable or chicken broth/stock (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt (, plus more to taste (halve for table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green onion (, sliced (green &amp; white part))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh parsley (, finely chopped (or coriander/cilantro) - optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "coriander/cilantro leaves (, chopped - optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Dollop of  yogurt (- recommended)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Basmati rice (OR)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "White rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté garlic and onion, then toast Spices for 1 min. Stir in potatoes, then chickpeas, tomato, stock and salt. Simmer 15 min, stir in green onion and parsley, serve!"
+    },
+    {
+      "order": 2,
+      "instruction": "Sauté - Heat oil in a large pot or very deep skillet over medium high heat. Add onion and garlic, cook for 3 minutes until onion is translucent."
+    },
+    {
+      "order": 3,
+      "instruction": "Add Curry Spices and stir for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the potatoes and stir to coat in the Spices. If the spices start to stick to the bottom of the pot, add a tiny splash of water."
+    },
+    {
+      "order": 5,
+      "instruction": "Simmer 15 minutes - Add the chickpeas, tomatoes, veg or chicken broth and salt. Bring to simmer then turn down the heat to medium and simmer for 15 minutes, or until the potatoes are cooked and the sauce has thickened."
+    },
+    {
+      "order": 6,
+      "instruction": "Adjust salt - Taste and add more salt if needed. Stir through scallions/shallots and parsley."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve with rice with a dollop of yogurt and coriander/cilantro if desired. Basmati would be ideal, or Coconut Rice if you&#39;re wanting to impress. To go all out, add some Easy Soft Flatbreads!"
+    }
+  ]
+}

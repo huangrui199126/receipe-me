@@ -1,0 +1,155 @@
+{
+  "id": "tr_1385",
+  "title": "Greek Salad with Homemade Greek Salad Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2016/07/Greek-Salad_4.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/greek-salad/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 334,
+    "protein": 0.0,
+    "carbs": 15.9,
+    "fat": 28.4
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  tomatoes ((size of a tennis ball))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  Lebanese / Persian cucumbers ((about 8\"/20cm long))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  small red onion ((size of a tennis ball))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small green capsicum / bell pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250 g  feta block",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "5.5",
+      "unit": "oz",
+      "name": "/ 125g   black kalamata olives ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced (about 1/2 tsp minced garlic))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt ((or 1/2 tsp Kosher salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Freshly ground black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "red wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil ((preferably Greek!))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Greek Salad Dressing ingredients in a jar and shake until well combined. Set aside for 20 minutes to let the flavours infuse."
+    },
+    {
+      "order": 2,
+      "instruction": "Tomatoes: Cut each tomato into 6 wedges, then cut each wedge into 3 or 4 pieces. If the tomato is watery, scoop out the watery seeds inside with a teaspoon."
+    },
+    {
+      "order": 3,
+      "instruction": "Cucumbers: Slice the cucumber into 1/2cm / 1/5\" thick slices. Or if they are thick cucumbers, slice the cucumber in half vertically, then slice."
+    },
+    {
+      "order": 4,
+      "instruction": "Onion: Peel and finely slice the red onion. I keep it in rings - you could cut it in half then slice. (Note 2)"
+    },
+    {
+      "order": 5,
+      "instruction": "Capsicum: Cut into short strips."
+    },
+    {
+      "order": 6,
+      "instruction": "Feta: Cut into 1cm / 2/5\" cubes."
+    },
+    {
+      "order": 7,
+      "instruction": "Place the tomato, cucumber, onion, feta and olives in a bowl, sprinkle with oregano then pour over dressing. Toss to combine. Serve immediately!"
+    }
+  ]
+}

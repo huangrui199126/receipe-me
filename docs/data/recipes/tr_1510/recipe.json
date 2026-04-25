@@ -1,0 +1,123 @@
+{
+  "id": "tr_1510",
+  "title": "Turkey Enchilada Quinoa Soup.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/11/Turkey-Enchilada-Quinoa-Soup-1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/turkey-enchilada-quinoa-soup/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "enchilada",
+    "quinoa",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 381,
+    "protein": 14.0,
+    "carbs": 24.0,
+    "fat": 18.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small sweet onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  sweet potato (chopped (peel if you’d like))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "low sodium chicken broth (plus more if needed)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "ounce",
+      "name": "cans Old El Paso Enchilada Sauce (10)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "can Old El Paso Chopped Green Chiles (4)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "dry quinoa",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 cups shredded turkey (may also use shredded chicken)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "can black beans (drained and rinsed, 14)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 cups shredded cheddar cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "diced avocado (cilantro, and tortilla crisp/chips, for serving)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil in a large stockpot over medium-high heat. When the oil shimmers, add the onion and sweet potatoes. Season with salt and pepper and cook for 5-8 minutes or until softened and the onion fragrant. Slowly pour in the chicken broth, enchilada sauce, green chiles, and 1 cup water. Bring the mix to a boil over high heat. Add the quinoa, cover and reduce the heat to low. Cook for 15 minutes or until the quinoa is soft. Stir in the turkey, black beans, and 1 cup cheddar cheese. Cook until the cheese is melted and the turkey warm, about 5 minutes. Remove from the heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Ladle the soup into bowls, garnish with avocado, cheddar cheese, cilantro and chips. Eat!"
+    }
+  ]
+}

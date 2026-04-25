@@ -1,0 +1,190 @@
+{
+  "id": "tr_907",
+  "title": "Crispy Grilled Shrimp (Prawns) with Lemon Butter Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2019/06/Crispy-Grilled-Shrimp-Lemon-Butter-Sauce_1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/grilled-shrimp-with-lemon-garlic-butter/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "bbq prawns",
+    "grilled shrimp"
+  ],
+  "nutrition": {
+    "calories": 339,
+    "protein": 26.0,
+    "carbs": 4.0,
+    "fat": 24.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "90",
+      "unit": "g",
+      "name": "/ 6 tbsp   butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "garlic (, very finely chopped (do not use mincer, Note 1))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "lemon juice (, plus more to taste)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1 lb   large shrimp / prawns (, raw, peeled and deveined (Note 2))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "smoked paprika ((plain or sweet ok too))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice ((skip if using stove))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemon (, halved, grilled if desired)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon wedges or slices",
+      "emoji": "🍋",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Brush BBQ grills with oil, then preheat on high until very hot."
+    },
+    {
+      "order": 2,
+      "instruction": "If shrimp are small and might fall through grills, skewer them (use 2 skewers, Note 3)"
+    },
+    {
+      "order": 3,
+      "instruction": "Melt butter in a small saucepan over medium high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Add garlic and salt. Stir until garlic is LIGHT golden brown, then immediately remove from stove (residual heat will make garlic golden &amp; crispy)."
+    },
+    {
+      "order": 5,
+      "instruction": "Stir through lemon."
+    },
+    {
+      "order": 6,
+      "instruction": "Pat shrimp dry with paper towels (to ensure crispiness!)"
+    },
+    {
+      "order": 7,
+      "instruction": "Just prior to cooking, place in bowl, sprinkle/drizzle over remaining ingredients. Toss gently to coat."
+    },
+    {
+      "order": 8,
+      "instruction": "Working quickly, place shrimp on BBQ and cook each side for 2 minutes until golden and crusty."
+    },
+    {
+      "order": 9,
+      "instruction": "Immediately remove shrimp onto serving plate."
+    },
+    {
+      "order": 10,
+      "instruction": "Drizzle over all the Lemon Garlic Butter, sprinkle with parsley and serve immediately with fresh lemon."
+    },
+    {
+      "order": 11,
+      "instruction": "Crusty bread to mop up the crazy delish butter on the plate is essential!"
+    }
+  ]
+}

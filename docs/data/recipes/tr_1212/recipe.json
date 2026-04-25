@@ -1,0 +1,95 @@
+{
+  "id": "tr_1212",
+  "title": "No Washing Up Ham, Egg &amp; Cheese Bread Bowls",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/No-Washing-Up-Ham-Egg-Cheese-Bread-Bowls-3.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/no-washing-up-ham-egg-cheese-bread-bowl/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 415,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  bread rolls ((soft or crusty))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  small slices of ham (, or 2 big ones cut in half)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs (, at room temperature)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "shredded mozzarella cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh parsley (, finely chopped (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut the tops off the bread rolls."
+    },
+    {
+      "order": 3,
+      "instruction": "Scoop out the centre and reserve (see notes for ideas to use). To be neat, use a small knife to cut a round outline before scooping out the centre."
+    },
+    {
+      "order": 4,
+      "instruction": "Line the bread bowl with a layer of ham. Try to use one whole piece if you can because then there is less chance of egg seeping through and being soaked up by the bread."
+    },
+    {
+      "order": 5,
+      "instruction": "Crack in an egg."
+    },
+    {
+      "order": 6,
+      "instruction": "Top each with 2 tbsp of mozzarella cheese and a sprinkle of parsley (optional)."
+    },
+    {
+      "order": 7,
+      "instruction": "Put the top back on each roll. Wrap with foil and place in oven to bake for ~15 to 25 minutes. Take a peek at 20 minutes to check them. 20 minutes = runny yolks. 25 minutes + = just cooked yolks. (See notes for more information)"
+    },
+    {
+      "order": 8,
+      "instruction": "Remove from oven, unwrap and serve immediately."
+    }
+  ]
+}

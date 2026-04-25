@@ -1,0 +1,199 @@
+{
+  "id": "tr_316",
+  "title": "Lo Mein Noodles",
+  "image": "https://www.recipetineats.com/tachyon/2019/11/Lo-Mein_5.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lo-mein-noodles/",
+  "servings": 3,
+  "prepTime": 8,
+  "cookTime": 7,
+  "tags": [
+    "chicken lo mein",
+    "lo mein",
+    "lo mein noodles"
+  ],
+  "nutrition": {
+    "calories": 461,
+    "protein": 30.9,
+    "carbs": 63.8,
+    "fat": 8.1
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "vegetable or peanut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced (Note 1))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10oz  chicken or other protein (, sliced 0.5cm / 1/5\" thick (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium carrots (, peeled and cut into 4 x 0.75cm / 1.75 x 1/3\" batons)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large red capsicum / bell pepper (, sliced (or 2 small))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  green onions (, cut into 5 cm/2” lengths)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1lb  Lo Mein, Hokkien or other medium thickness egg noodles, fresh, (, prepared per packet (Note 3 for dried))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(65ml)  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "dark soy sauce ((Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "soy sauce or light soy sauce ( (Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine or Mirin ((Note 5 subs))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sugar ((omit if using Mirin))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sesame oil (, toasted, optional (Note 6))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "white pepper ((sub black))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Green onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauce: Mix cornflour and dark soy until lump free, then add remaining Sauce ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Season Chicken: Transfer 2 tsp Sauce into bowl with chicken. Toss to coat."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a wok or large heavy based skillet over high heat until smoking."
+    },
+    {
+      "order": 4,
+      "instruction": "Add onion and garlic, stir 30 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Add chicken, stir until white on the outside, still raw inside - 1 minute."
+    },
+    {
+      "order": 6,
+      "instruction": "Add carrot and capsicum/bell peppers, cook 2 minutes or until chicken is cooked."
+    },
+    {
+      "order": 7,
+      "instruction": "Add noodles, Sauce and water. Use 2 wooden spoons and toss for 30 seconds."
+    },
+    {
+      "order": 8,
+      "instruction": "Add green onions, toss for another 1 minute until all the noodles are slick with sauce."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve immediately, garnished with extra green onions if using."
+    }
+  ]
+}

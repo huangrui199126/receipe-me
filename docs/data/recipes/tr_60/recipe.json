@@ -1,0 +1,187 @@
+{
+  "id": "tr_60",
+  "title": "Middle Eastern Roasted Vegetables with Tahini Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/DSC_0035-1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/middle-eastern-roasted-vegetables-with-tahini-drizzle/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion (, sliced thickly)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (, cut into thick sticks)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  zucchini (, cut into thick sticks)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  pumpkin (, cut into 2\"/3cm cubes)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "large cauliflower florets",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  beetroot (, cut into 1.5\"/2cm cubes)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "tahini",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small garlic clove (, minced (or 1/2 large))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "za'atar spice mix ((see notes))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "pine nuts (, dry roasted)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "coriander (, chopped (or parsley))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 350F/180C."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine Roasted Vegetable ingredients, spread on baking tray and bake for 30 to 40 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Combine Tahini Sauce ingredients. Mix until smooth, and use water to adjust to the consistency of honey."
+    },
+    {
+      "order": 4,
+      "instruction": "Pile roasted vegetables onto a plate. Sprinkle with za'atar, drizzle with Tahini Sauce, scatter over roasted pine nuts and coriander."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve with lebanese bread wedges or pita bread."
+    }
+  ]
+}

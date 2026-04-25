@@ -1,0 +1,127 @@
+{
+  "id": "tr_126",
+  "title": "Mexican Pizzas",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/Mexican-Pizza-1-1.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mexican-pizzas-freezer-friendly/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 486,
+    "protein": 36.5,
+    "carbs": 60.7,
+    "fat": 12.5
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  large flatbreads ((about 30cm /12 inches in diameter))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "enchilada sauce ((preferably homemade, here is my Easy Classic Enchilada Sauce))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded cooked Pork Carnitas ((Mexican Shredded Pork), chicken or any other protein of your choice)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "corn kernels ((canned or frozen))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "red capsicum ((Bell peppers), diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  shallots / scallions (, finely sliced (or 1/2 red spanish onion, diced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "grated mozzarella cheese ((or any good melting cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh parsley or coriander/cilantro (, finely chopped (optional - for garnish))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220C/430F. You want the oven screaming hot!"
+    },
+    {
+      "order": 2,
+      "instruction": "Optional (but not really...): Heat 1/2 tbsp of oil in a fry pan over high heat. Add pork carnitas (or whatever protein you are using) and use a spatula to press down to make the bottom golden and crispy. Do not flip. When it is golden and crispy, remove from pan and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Divide the enchilada sauce between each flatbread and spread evenly."
+    },
+    {
+      "order": 4,
+      "instruction": "Top with shallots / scallions."
+    },
+    {
+      "order": 5,
+      "instruction": "Scatter over the pork carnitas, corn kernels, capsicum then lastly the cheese."
+    },
+    {
+      "order": 6,
+      "instruction": "Get 2 baking trays and place 2 pizzas on each."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake for 10 to 15 minutes, alternating trays halfway. The pizza is ready when the cheese is melted and starting to bubble."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove from oven, scatter with parsley or coriander (if using), then cut into wedges and serve."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "tr_810",
+  "title": "Crispy Parmesan Crusted Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2018/01/Parmesan-Crusted-Chicken_1.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/parmesan-crusted-chicken-breast/",
+  "servings": 4,
+  "prepTime": 7,
+  "cookTime": 8,
+  "tags": [],
+  "nutrition": {
+    "calories": 378,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   chicken breast (2 pieces) ( (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced (optional))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 4 oz /  1 1/4 cups  shredded parmesan ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "butter ((or more oil))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut each breast in half horizontally to make 4 steaks. If they are much thicker than 1.75 cm / 3/4\" thick (at the thickest point), pound a bit."
+    },
+    {
+      "order": 2,
+      "instruction": "Place egg, garlic, pinch of salt and pepper in a bowl. Whisk with fork."
+    },
+    {
+      "order": 3,
+      "instruction": "Place parmesan in a shallow bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Dredge chicken in egg, then place in parmesan CUT SIDE DOWN (Note 3). Press, then turn. Coat with extra parmesan, press. Shake off excess. Repeat with remaining chicken."
+    },
+    {
+      "order": 5,
+      "instruction": "Melt butter and heat oil in a large skillet over high heat."
+    },
+    {
+      "order": 6,
+      "instruction": "Place chicken in non-stick skillet (or well seasoned cast iron skillet). DO NOT MOVE chicken otherwise the cheese will slide off surface before it adheres! It adheres once it turns crispy."
+    },
+    {
+      "order": 7,
+      "instruction": "Press down lightly with spatula.&nbsp;Lift a corner to take a peek and turn with tongs when it's deep golden brown (3 minutes for me)."
+    },
+    {
+      "order": 8,
+      "instruction": "Cook the other side for 3 minutes or until also deep golden brown and crispy (again, do not move until golden). Lightly press down with spatula. Don't cook longer than 6 minutes in total - dries out the chicken."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve immediately! I served mine with lemon slices, Cauliflower Mash and a Fennel Slaw with Yoghurt Dressing (Note 5)."
+    }
+  ]
+}

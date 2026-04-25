@@ -1,0 +1,115 @@
+{
+  "id": "tr_171",
+  "title": "Make Ahead Mashed Potatoes (Restaurant Trick)",
+  "image": "https://www.recipetineats.com/tachyon/2015/11/Creamy-Make-Ahead-Mashed-Potato_1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/make-ahead-creamy-mashed-potatoes-restaurant-trick/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "lb",
+      "name": "/ 1 kg   starchy potatoes ((Note 1))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 250 ml  cream (, half and half or milk (Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 1/4 cup  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chives (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Peel and cut the potatoes into large chunks."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring a pot of water to the boil, then add the potatoes. Cook for 20 minutes until soft and starting to fall apart."
+    },
+    {
+      "order": 3,
+      "instruction": "Drain then tip back into the pot placed over the stove (turned off). Allow to steam dry for a few minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Mash to your taste. Do NOT use a hand held mixer, blender or food processor - it will activate the starches in the potatoes and make it gluey."
+    },
+    {
+      "order": 5,
+      "instruction": "To make ahead, transfer to a bowl and cover with cling wrap, pressing onto the potato to remove as much air as possible. Refrigerate up to 2 days until required."
+    },
+    {
+      "order": 6,
+      "instruction": "On the day of, place the cream and butter in a pot and bring to a boil. Turn the stove off but leave the pot on the stove. Add the potatoes and stir into the cream."
+    },
+    {
+      "order": 7,
+      "instruction": "If you want to make your potatoes creamier, push them to the side, add more cream/milk, turn the stove on, bring to a simmer then stir."
+    },
+    {
+      "order": 8,
+      "instruction": "Season with salt and pepper."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve warm, garnished with chopped chives, a drizzle of olive oil and pepper."
+    }
+  ]
+}

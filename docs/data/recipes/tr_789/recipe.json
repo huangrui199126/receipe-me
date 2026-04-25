@@ -1,0 +1,135 @@
+{
+  "id": "tr_789",
+  "title": "Pasta with Tomato Cream Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2018/03/Creamy-Tomato-Pasta_8.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-tomato-pasta/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "creamy tomato pasta",
+    "creamy tomato sauce",
+    "tomato cream sauce"
+  ],
+  "nutrition": {
+    "calories": 546,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "300g/10 oz   spaghetti",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "/ 30g   unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 250 ml  tomato passata (/ tomato puree (Note 1))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "/ 185 ml  heavy / thickened cream ((Note 2 for subs))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml  milk (, low fat)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "/ 30g  parmesan (, finely freshly grated (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried basil, or other herb of choice",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "chicken or vegetable stock powder (, or 1 bouillon cube, crumbled (Note 4))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely ground pepper + salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook pasta in a big pot of boiling water for time per packet MINUS 2 minutes. Just before draining, scoop out a mugful of pasta cooking water."
+    },
+    {
+      "order": 2,
+      "instruction": "Melt butter in large skillet over medium heat. Add garlic and onion, cook until translucent - about 2 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Add remaining ingredients. Stir until parmesan is melted. Turn heat up slightly and simmer for 2 minutes. Adjust salt to taste."
+    },
+    {
+      "order": 4,
+      "instruction": "Add pasta. Toss for 1 to 2 minutes or until sauce thickens and is clinging to pasta instead of swimming on the base of the skillet (video shows this well). Use reserved pasta cooking water if required to thin the sauce out if it gets too thick."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve immediately, garnished with more parmesan and parsley if desired."
+    }
+  ]
+}

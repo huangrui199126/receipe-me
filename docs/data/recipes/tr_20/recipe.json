@@ -1,0 +1,111 @@
+{
+  "id": "tr_20",
+  "title": "Crispy Chinese Rice Paper Wrapped Fish (5 Ingredients)",
+  "image": "https://www.recipetineats.com/tachyon/2015/10/Crispy-Chinese-Rice-Paper-Wrapped-Fish_680px_4.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crispy-chinese-rice-paper-wrapped-fish-5-ingredients/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 512,
+    "protein": 35.0,
+    "carbs": 69.5,
+    "fat": 9.7
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1.1",
+      "unit": "lb",
+      "name": "/ 600 g   firm white fish fillets ((Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Chinese Five Spice Powder ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3/4 - 1 tsp salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "15 to 18  rice paper rounds (, 22cm/9\" diameter (Note 3))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 to 3 tbsp cooking oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the fish into 2\"/5cm long x 1\"/3cm wide pieces, about 16 pieces. (Note 4)"
+    },
+    {
+      "order": 2,
+      "instruction": "Combine Chinese Five Spice Powder, salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Sprinkle with with spice mix."
+    },
+    {
+      "order": 4,
+      "instruction": "Fill a large bowl with hot tap water. Dunk the rice paper into the water for 3 seconds, then transfer it to a work surface. (Note 5)"
+    },
+    {
+      "order": 5,
+      "instruction": "Place a piece of fish at the bottom of the rice paper, per the photo below. Top with 2 coriander leaves, then roll up to enclose the fish with the rice paper. Repeat with remaining fish."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat oil in a skillet over medium high heat. Add the fish and cook for 2 minutes or until dark golden brown and crispy. Turn and cook the other side. Repeat with remaining fish (I cook them in 2 batches)."
+    },
+    {
+      "order": 7,
+      "instruction": "Transfer to a paper lined plate."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve immediately, while hot and crispy!"
+    }
+  ]
+}

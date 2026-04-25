@@ -1,0 +1,95 @@
+{
+  "id": "tr_1839",
+  "title": "(Idiot Proof) 5-Ingredient Puppy Chow Ritz Cracker Cookies.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/11/Idiot-Proof-5-Ingredient-Puppy-Chow-Ritz-Cracker-Cookies-53.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/idiot-proof-5-ingredient-puppy-chow-ritz-cracker-cookies/",
+  "servings": 32,
+  "prepTime": 15,
+  "cookTime": 2,
+  "tags": [
+    "chocolate",
+    "cookies",
+    "peanut butter"
+  ],
+  "nutrition": {
+    "calories": 110,
+    "protein": 1.0,
+    "carbs": 16.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "32  ritz crackers",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "creamy peanut butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "semi-sweet chocolate chips",
+      "emoji": "🍫",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "powdered sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the peanut butter and vanilla into a mixing bowl and whisk until smooth."
+    },
+    {
+      "order": 2,
+      "instruction": "Spread a little of the peanut butter mixture onto a cracker and sandwich together with another cracker. Repeat until all the crackers and peanut butter filling have been used."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the crackers on a cookie sheet and place in the freezer for 5-10 minutes"
+    },
+    {
+      "order": 4,
+      "instruction": "Meanwhile, melt the chocolate over a double broiler or in the microwave on full power, stirring every 30 seconds until melted and smooth."
+    },
+    {
+      "order": 5,
+      "instruction": "Place the powdered sugar in wide bowl."
+    },
+    {
+      "order": 6,
+      "instruction": "Use a fork or your hands to dip the chilled peanut butter sandwiches into the chocolate until completely covered. Place the chocolate covered sandwich directly into the powdered sugar and toss to coat. Place the cookie back onto the baking sheet and repeat with the remaining cookies."
+    },
+    {
+      "order": 7,
+      "instruction": "Store cookies in an airtight container at room temperature."
+    }
+  ]
+}

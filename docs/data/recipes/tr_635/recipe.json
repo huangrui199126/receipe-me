@@ -1,0 +1,198 @@
+{
+  "id": "tr_635",
+  "title": "Fish Chowder Soup",
+  "image": "https://www.recipetineats.com/tachyon/2019/04/White-Fish-Soup_4.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fish-chowder-soup/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "fish chowder",
+    "fish soup"
+  ],
+  "nutrition": {
+    "calories": 418,
+    "protein": 37.0,
+    "carbs": 39.0,
+    "fat": 10.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "40",
+      "unit": "g",
+      "name": "/ 3 tbsp   butter (, unsalted )",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  small carrots (, halved, cut into 0.5cm / 1/5\" slices)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125ml)   dry white wine ((can skip))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(35g)   flour ( (plain / all purpose))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "(750 ml)   milk (, any fat %)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(500 ml)   fish stock, clam juice OR chicken stock, preferably low sodium (Note 1)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "potato (, 1.5 cm/ 0.5\" cubes (~1 large potato))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "corn (, frozen or canned (drained))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "salt (, plus more to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely ground black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "600 g/1.2 lb   white fish fillets (, skinless, cut into 2cm / 4/5\" pieces (Note 2))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "peas (, frozen)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "green onions (, halved and finely sliced (garnish))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crusty bread for dunking",
+      "emoji": "🍞",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt butter in a large pot over medium heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Add garlic and onion, cook for 5 minutes until translucent but not golden."
+    },
+    {
+      "order": 3,
+      "instruction": "Add carrots and stir through."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn heat up to high and add wine. Stir then let it simmer rapidly until it's mostly evaporated."
+    },
+    {
+      "order": 5,
+      "instruction": "Add flour and stir for 30 seconds - it will become sludgy!"
+    },
+    {
+      "order": 6,
+      "instruction": "Slow pour in broth while stirring to dissolve paste, then stir in milk."
+    },
+    {
+      "order": 7,
+      "instruction": "Add potato, corn, salt and pepper. Bring to simmer then turn heat down so it's simmering gently."
+    },
+    {
+      "order": 8,
+      "instruction": "Cook, stirring every now and then, for 8 minutes or until potato is almost cooked."
+    },
+    {
+      "order": 9,
+      "instruction": "Add fish and peas, simmer for 3 minutes or until fish is just cooked (should flake easily)."
+    },
+    {
+      "order": 10,
+      "instruction": "Adjust salt and pepper to taste. If soup is too thick, add a touch of water or milk."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve, garnished with green onions and crusty bread on the side for dunking!"
+    }
+  ]
+}

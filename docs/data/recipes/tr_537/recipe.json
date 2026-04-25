@@ -1,0 +1,144 @@
+{
+  "id": "tr_537",
+  "title": "Jamaican rice and peas",
+  "image": "https://www.recipetineats.com/tachyon/2023/01/Jamaican-Rice-and-Peas-Beans_8.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/jamaican-rice-and-peas/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 45,
+  "tags": [
+    "jamaican rice and peas",
+    "jamaican rice dish",
+    "rice and beans",
+    "rice and peas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp  unsalted butter ((or 2 tbsp canola or veg oil))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "all spice powder ((sub mixed spice))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  bay leaves (, preferably fresh)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scotch bonnet or habanero chilli - any colour ((optional), keep whole (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 x 400g / 14oz cans red kidney beans (, drained (Note 2))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 x 400 ml / 14oz coconut milk (, full fat (Note 3))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "long grain white rice ((Note 4))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/400°F (180°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Sauté aromatics - Melt butter over medium-high heat in a medium or large ovenproof pot (Note 5). Cook garlic, onion, thyme, all spice, bay leaves, scotch bonnet until onion is translucent (~ 3 minutes)."
+    },
+    {
+      "order": 3,
+      "instruction": "Add coconut milk, water, beans and salt. Once it comes to a simmer, add rice then give it a quick stir. Once you see bubbles breaking the surface, immediately cover then transfer to oven."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake for 40 minutes. All liquid should be absorbed (tilt to check) though you will have some coconut cream on the surface."
+    },
+    {
+      "order": 5,
+      "instruction": "Rest - Leave the pot on the counter with the lid on for 15 minutes. Then fluff and serve!"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": "tr_1043",
+  "title": "Lemon Chicken Salad",
+  "image": "https://www.recipetineats.com/tachyon/2018/07/Lemon-Chicken-Salad-1a.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lemon-chicken-salad/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 8,
+  "tags": [
+    "chicken salad"
+  ],
+  "nutrition": {
+    "calories": 587,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lemon zest",
+      "emoji": "🍋",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt + 1/4 tsp black pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large chicken breast (, halved horizontally* OR 2 boneless skinless chicken thighs)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice (, extra)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped dill",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "8",
+      "unit": "cups",
+      "name": "cos/romaine lettuce (, chopped (or other lettuce of choice, Note 2))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cherry tomatoes (, halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium avocado (, quartered and sliced thickly)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, small, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "corn kernels (, fresh or canned drained)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "120g/ 4 oz   bacon (, cooked then chopped (optional))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Dressing ingredients in a jar. Shake well."
+    },
+    {
+      "order": 2,
+      "instruction": "Place chicken in a bowl. Add 2 tbsp Dressing, 1 tbsp extra lemon juice, plus a pinch of salt and pepper. Mix well. Marinate minimum 20 minutes up to 24 hours."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a non stick skillet over medium high heat (or use bacon fat if you use bacon in this!). Add chicken and cook. Halved breasts: 2 minutes each side. Thigh: 4 minutes each side."
+    },
+    {
+      "order": 4,
+      "instruction": "Transfer to plate, cover loosely with foil for 3 minutes. Slice."
+    },
+    {
+      "order": 5,
+      "instruction": "Add dill into remaining dressing. Shake."
+    },
+    {
+      "order": 6,
+      "instruction": "Place remaining salad ingredients in a bowl. Top with chicken."
+    },
+    {
+      "order": 7,
+      "instruction": "Drizzle dressing all over. Crumble over bacon if using. Serve immediately!"
+    }
+  ]
+}

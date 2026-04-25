@@ -1,0 +1,99 @@
+{
+  "id": "tr_1221",
+  "title": "Salami Cream Cheese Roll",
+  "image": "https://www.recipetineats.com/tachyon/2017/02/Salami-Rolls-17.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/salami-cream-cheese-roll-ups/",
+  "servings": 25,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 45,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   cream cheese ((I use Philadelphia, 1 block))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "180 g/ 6 oz   sliced large salami ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "baby capers (, drained)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped parsley or basil ((or other herb of choice, or omit))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crackers (, to serve (I use Jatz))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the cold cream cheese on a large piece of cling wrap."
+    },
+    {
+      "order": 2,
+      "instruction": "Cover with another piece of cling wrap."
+    },
+    {
+      "order": 3,
+      "instruction": "Use a rolling pin to roll it into a rectangle about 32cm / 13\" x 23 cm / 9\". (Note 2)"
+    },
+    {
+      "order": 4,
+      "instruction": "Peel off the cling wrap. Cover with salami, slightly overlapping."
+    },
+    {
+      "order": 5,
+      "instruction": "Cover salami with a new piece of cling wrap. Press down then turn over so the cream cheese side is up."
+    },
+    {
+      "order": 6,
+      "instruction": "Peel cling wrap off to expose cream cheese. Sprinkle with capers and parsley."
+    },
+    {
+      "order": 7,
+      "instruction": "Starting from the long edge, roll up, removing cling wrap as you go (see video below). Roll firmly to avoid air bubbles."
+    },
+    {
+      "order": 8,
+      "instruction": "Once rolled, wrap with the same cling wrap, twist the ends and refrigerate for 4 hours+."
+    },
+    {
+      "order": 9,
+      "instruction": "Unwrap from cling wrap. Slice into rounds. Serve with crackers."
+    }
+  ]
+}

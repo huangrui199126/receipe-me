@@ -1,0 +1,95 @@
+{
+  "id": "tr_523",
+  "title": "Truly Crispy Oven Baked Chicken Wings",
+  "image": "https://www.recipetineats.com/tachyon/2014/11/Crispy-Baked-Wings_6.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/crispy-oven-baked-chicken-wings-honey-garlic-sauce/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 70,
+  "tags": [],
+  "nutrition": {
+    "calories": 399,
+    "protein": 32.0,
+    "carbs": 0.0,
+    "fat": 28.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "lb",
+      "name": "/ 2 kg  chicken wings (, cut into wingettes and drumettes (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "5",
+      "unit": "teaspoons",
+      "name": "baking powder (NOT BAKING SODA / BI-CARB SODA!!)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "If you are organised enough, uncover the chicken wings and leave them in the fridge for a few hours to dry out. Otherwise, use a paper towel to pat the wings dry."
+    },
+    {
+      "order": 2,
+      "instruction": "Adjust oven racks to upper-middle and lower-middle positions."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 250F/120C (all oven types - standard/convection/fan)."
+    },
+    {
+      "order": 4,
+      "instruction": "Line a baking tray with foil, then place a rack (like a cooling rack) on the foil. Spray the rack with oil spray."
+    },
+    {
+      "order": 5,
+      "instruction": "Place wings in a large bowl or in a ziplock bag. Add the baking powder and salt, then toss to coat evenly."
+    },
+    {
+      "order": 6,
+      "instruction": "Place the wings on the baking tray in a single layer with the skin side up. They should just fit snugly. They will shrink when they cook because the fat renders out so don't worry if they look too snug."
+    },
+    {
+      "order": 7,
+      "instruction": "Place wings on the lower middle oven rack and bake for 30 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Move wings up to the upper middle rack and increase the oven temperature to 425F/220C. Bake for 40 - 50 minutes, rotating the tray halfway through."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove baking tray from the oven and let it stand for 5 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Toss wings in sauce of choice or serve it on the side to dip / drizzle on the wings, then serve."
+    }
+  ]
+}

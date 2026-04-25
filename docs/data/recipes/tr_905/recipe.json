@@ -1,0 +1,218 @@
+{
+  "id": "tr_905",
+  "title": "Homemade Filet-O-Fish Burger (BAKED!)",
+  "image": "https://www.recipetineats.com/tachyon/2018/08/Homemade-Filet-O-Fish_3.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/homemade-filet-o-fish-burger/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [
+    "filet o fish",
+    "fish burger"
+  ],
+  "nutrition": {
+    "calories": 656,
+    "protein": 34.0,
+    "carbs": 47.0,
+    "fat": 36.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "panko breadcrumbs ((Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400 - 500 g / 0.8 - 1 lb   white fish fillets (, flat / thin (I used Ling, Note 2))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  soft buns (, brioche recommended (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "processed cheese ((Note 4))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray ((I use olive oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "mayonnaise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dijon mustard ((or other mustard))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 220g   mayonnaise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dill pickle / gherkin/ cornichon (, very finely chopped)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fresh parsley (, chopped*)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "capers (, drained and finely chopped*)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "lemon juice (, fresh (or cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix ingredients in a bowl. Set aside for 10 minutes+."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 3,
+      "instruction": "Spread breadcrumbs on a tray. Spray with oil directly down, not from side."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake for 3 - 5 minutes until golden. Immediately transfer to bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Brush tray clean, spray with oil."
+    },
+    {
+      "order": 6,
+      "instruction": "Cut fish fillets into square-ish shapes slightly larger than the buns (they shrink when cooked).&nbsp;"
+    },
+    {
+      "order": 7,
+      "instruction": "Mix Batter ingredients in a bowl."
+    },
+    {
+      "order": 8,
+      "instruction": "Carefully coat fish in batter (handle with care, fish fillets can be delicate)."
+    },
+    {
+      "order": 9,
+      "instruction": "Place in breadcrumbs. Use other hand to cover top and sides with breadcrumbs, pressing to adhere. Transfer to tray. Repeat with remaining fish."
+    },
+    {
+      "order": 10,
+      "instruction": "Bake 12 - 15 minutes until fish is cooked through. Immediately top with cheese - allow residual heat to make it semi melt (do not oven melt processed cheese, you get a plasticy film!)."
+    },
+    {
+      "order": 11,
+      "instruction": "Cut buns in half, microwave for 20 seconds to warm through (microwave = stays soft)."
+    },
+    {
+      "order": 12,
+      "instruction": "Top with fish and cheese, dollop with tartare sauce. Devour!"
+    }
+  ]
+}

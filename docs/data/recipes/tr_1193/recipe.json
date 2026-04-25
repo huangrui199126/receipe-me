@@ -1,0 +1,123 @@
+{
+  "id": "tr_1193",
+  "title": "Roasted Flat Mushrooms with Green Onion, Thyme & Butter",
+  "image": "https://www.recipetineats.com/tachyon/2021/08/Large-roasted-mushrooms-with-shallot-scallion-butter_32.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roasted-flat-mushrooms-with-green-onion-thyme-butter/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "bbq mushrooms",
+    "field mushroom recipe",
+    "flat mushroom recipe"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 5.0,
+    "carbs": 10.0,
+    "fat": 21.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  large mushrooms ((flat, portobello, \"BBQ\"), around 10 - 12cm / 4 - 4.5\" wide, stem tips trimmed (Note 1))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 7 tbsp  unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "green onion ((US:scallions), thinly sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh thyme leaves ((sub 1 tsp dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "chopped scallions",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  dozen thyme stalks",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Clean mushrooms: See Note 1."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 200°C / 390°F (180°C fan)."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix butter: Mix the Herb &amp; Green Onion Butter ingredients together in a medium bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Smear mushrooms: Place mushrooms gills side up on a large tray. Smear the butter mix over the mushroom surfaces. Cover with foil (preserves green colour of herbs)."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake: Bake 25 minutes, until mushrooms are tender."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve! Arrange on a platter, including all butter and juices on tray. Scatter with thyme stalks and extra scallions over the mushrooms (for a fresh touch), and serve."
+    }
+  ]
+}

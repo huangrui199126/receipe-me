@@ -1,0 +1,256 @@
+{
+  "id": "tr_1239",
+  "title": "Chicken Mushroom Pie with Duchess Potato lid",
+  "image": "https://www.recipetineats.com/tachyon/2025/07/Duchess-potato-chicken-pie_9.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/duchess-potato-chicken-mushroom-pie/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 60,
+  "tags": [
+    "chicken cottage pie",
+    "chicken mushroom pie",
+    "chicken pie",
+    "potato topped chicken pie"
+  ],
+  "nutrition": {
+    "calories": 577,
+    "protein": 36.0,
+    "carbs": 43.0,
+    "fat": 29.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ (4 tbsp)  unsalted butter (, approximately divided into 4 (no need to be accurate))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt (, divided (Note 1))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper (, divided)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "750",
+      "unit": "g",
+      "name": "/ 1.5 lb  chicken thighs (, boneless skinless (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500 g/1 lb   button mushrooms - very small ones whole (, larger ones halved or quartered)",
+      "emoji": "🍄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 3.5 oz  thick cut streaky bacon (, cut into 2.5cm/1\" squares)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2  onions (, cut into 2cm/1\" square or thick wedges)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "sprigs",
+      "name": "fresh thyme ((or 1/2 tsp dried thyme))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "plain flour ((all-purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "Guinness beer ((Note 3))",
+      "emoji": "🍺",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "beef stock / broth (, low sodium)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb   starchy potatoes (, peeled, cut into 2.5cm / 1&quot; cubes (Note 4))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  unsalted butter (, cut into 1.5 cm / 1/2\" pieces)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "milk (, hot)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "white pepper ((sub black))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  unsalted butter (, melted (or olive oil spray))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "grated parmesan (, sandy store bought type works best or grate your own)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "finely chopped parsley for garnish (, optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 20
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Brown mushrooms, remove, sear chicken (aggressively!) in same pan, cut into large pieces. Sauté bacon, onion and garlic, deglaze with Guinness, make roux, add stock, simmer with mushrooms to thicken (~10 min). Add chicken towards end. Pour into a baking dish, pipe on mashed potato, finish with butter and parmesan, bake 30 min."
+    },
+    {
+      "order": 2,
+      "instruction": "Garlic butter mushrooms - Melt 1/4 of the butter in a large 30cm/12&quot; non stick pan over high heat. Add mushrooms, toss for 3 - 4 minutes until you get some browning on the surface. Add another 1/4 of the butter, melt, toss to coat. Add 1/4 tsp each salt and pepper and half the garlic, toss 30 seconds until garlic is golden - mushrooms will still be hard inside, they finish cooking later. Remove into bowl (make sure you scrape out all garlic bits)."
+    },
+    {
+      "order": 3,
+      "instruction": "Sear chicken - Sprinkle the chicken with 1/2 tsp salt and 1/4 tsp pepper. In the same pan, melt another 1/4 of the butter until hot and foamy. Sear chicken 2 minutes on each side until nicely golden but inside is still raw (if they don&#39;t fit in a single layer, do in batches). Remove onto plate, once cool enough to handle cut into 2.5cm (1&quot;) pieces."
+    },
+    {
+      "order": 4,
+      "instruction": "Bacon and onion - In the same pan, add bacon and stir for 15 seconds, then add the onion (there should be enough fat from the chicken). Cook for 2 minutes until the onion edges are golden and starting to soften. Add remaining garlic and stir 20 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Deglaze with Guinness - Add Guinness and let it simmer rapidly, scraping the base of the pan to loosen any golden bits into the liquid (“fond” = free flavour!), until the Guinness is reduced down by 75%."
+    },
+    {
+      "order": 6,
+      "instruction": "Sauce - Lower heat to medium and add remaining butter. Once melted, sprinkle flour all across the surface and stir for 1 minute - it will look pasty. While stirring, pour in half the stock. Keep stirring until the flour paste dissolves into the stock, for lump-free sauce (yay!). Then add remaining stock, water, tomato paste, 1/4 tsp salt and 1/2 tsp pepper, stir well."
+    },
+    {
+      "order": 7,
+      "instruction": "Simmer - Add the mushrooms plus all mushroom juices accumulated in the bowl into the pan. Simmer for 10 minutes or until the liquid reduces down into a fairly thick gravy and the mushrooms become soft. (Meanwhile, start the mash)"
+    },
+    {
+      "order": 8,
+      "instruction": "Thicken sauce - Add the chicken (plus all juices) and simmer for another 2 to 3 minutes until the gravy is quite thick and you can draw a path on the base of the pan. (Sauce thickness now = sauce thickness once baked). Taste - add more salt if needed (I don’t)."
+    },
+    {
+      "order": 9,
+      "instruction": "Assemble - Pour into a 1.5 - 2 L (6 - 8 cup) baking pan and smooth the surface. (Note 5 for other pan sizes)"
+    },
+    {
+      "order": 10,
+      "instruction": "Preheat oven to 200°C / 390°F (180°C fan-forced)."
+    },
+    {
+      "order": 11,
+      "instruction": "Duchess potato topping - Pipe mounds of mashed potato swirls on the surface. My swirls have a 4.5cm base (1.6&quot;), about 4cm tall (1.4&quot;), then I fill gaps with small swirls/blobs. I use all the mash! Drizzle with melted butter, sprinkle with parmesan. (Note 6 for no piping bag)"
+    },
+    {
+      "order": 12,
+      "instruction": "Bake for 30 minutes, rotating the pan at the 20 minute mark."
+    },
+    {
+      "order": 13,
+      "instruction": "Serve - Rest for 10 minutes, sprinkle with parsley if using. Attack!"
+    },
+    {
+      "order": 14,
+      "instruction": "Make mash - Put the potatoes into a large pot of cold tap water. Bring to a boil over high heat then cook for 15 minutes until soft. Drain, pass through a potato ricer (smoother) or mash well with a potato masher in the now empty pot. Add butter, milk, 1/2 tsp salt and 1/8 tsp white pepper, stir through - it should be creamy but not loose (so it holds its form when piped)."
+    },
+    {
+      "order": 15,
+      "instruction": "Piping bag - Transfer mash into a piping bag fitted with a star tip. (Note 6 for no piping bag)"
+    }
+  ]
+}

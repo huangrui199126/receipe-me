@@ -1,0 +1,154 @@
+{
+  "id": "tr_269",
+  "title": "Apple Crumble",
+  "image": "https://www.recipetineats.com/tachyon/2016/05/Apple-Crumble_1a-1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/apple-crumble/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 40,
+  "tags": [
+    "apple crisp",
+    "apple crumble"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "lb",
+      "name": "/ 1kg  Granny Smith Apples( green apples) (, weight before peeling)",
+      "emoji": "🍎",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "flour (, plain / all-purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "white sugar ((sub brown sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice ((or water))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "ground cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "rolled oats / oatmeal ((quick cooking is ok))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "flour (, plain / all-purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(loosely packed) brown sugar ((sub white sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cinnamon powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 1/2 cup  unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Vanilla ice cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C / 350°F (both fan and standard)."
+    },
+    {
+      "order": 2,
+      "instruction": "Apple - Peel apples, then cut into 1.5cm/ 1/2” cubes."
+    },
+    {
+      "order": 3,
+      "instruction": "Apple filling - Place apples in a bowl. Sprinkle with flour, sugar and cinnamon, then pour over lemon juice. Toss, then spread out evenly in a 1.5 litre/1.5 quart baking dish."
+    },
+    {
+      "order": 4,
+      "instruction": "Crumble topping - Place Topping ingredients in a bowl. Mix until clumps form, like wet sand (see video). Spread over the apples, crumbling with fingers if required to get that crumbly topping."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake for 30 to 40 minutes or until golden brown. Remove, cover loosely with foil to keep warm and let stand for 10 minutes before serving (let&#39;s the apple syrup thicken slightly)."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve warm with vanilla ice cream!"
+    }
+  ]
+}

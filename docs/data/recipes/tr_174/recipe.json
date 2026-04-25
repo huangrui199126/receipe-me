@@ -1,0 +1,99 @@
+{
+  "id": "tr_174",
+  "title": "3 Ingredient Shortbread Cookie Sandwich w/Dulce De Leche",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/Dulce-De-Leche-Shortbread-Cookie-Sandwich-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/3-ingredient-shortbread-cookie-dulce-de-leche/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 3,
+    "protein": 1.9,
+    "carbs": 24.4,
+    "fat": 23.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "225",
+      "unit": "g",
+      "name": "/ 8 oz (2 sticks)   unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "icing sugar ((powdered sugar), plus extra for dusting work surface)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "plain flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Dulce De Leche ((see Slow Cooker Dulce De Leche (Caramel Sauce) - 1 ingredient recipe))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Line a baking tray with parchment paper. If your baking tray is small, you might need 2."
+    },
+    {
+      "order": 3,
+      "instruction": "Combine butter and icing sugar in a bowl and mix until smooth and well combined."
+    },
+    {
+      "order": 4,
+      "instruction": "Add flour and mix until it starts to look like dough (it will start out looking crumbly but it will come together). Use your hands to roughly form a ball."
+    },
+    {
+      "order": 5,
+      "instruction": "Scatter icing sugar over a work surface and turn the dough out onto it."
+    },
+    {
+      "order": 6,
+      "instruction": "Flatten out to about 1cm / 1/2” thickness with your hand, then place a sheet of baking paper over it and use a rolling pin to lightly roll it out to 0.5cm / 1/4 “ thickness."
+    },
+    {
+      "order": 7,
+      "instruction": "Use a 6.5cm/2.5” round cookie cutter to cut rounds out, then use a knife or egg flip to transfer the cookies to the baking tray."
+    },
+    {
+      "order": 8,
+      "instruction": "Ball up the excess dough and cut more rounds. You should get 16 cookies."
+    },
+    {
+      "order": 9,
+      "instruction": "Bake for 15 to 18 minutes until pale golden brown and starting to just slightly brown on the edges. You might think it is undercooked, but it will continue to cook on the baking tray."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove baking trays from oven and let the cookies cool on the tray."
+    },
+    {
+      "order": 11,
+      "instruction": "When the cookies are cool, spread half the cookies with a dollop of Dulce De Leche. Then sandwich with remaining cookies."
+    }
+  ]
+}

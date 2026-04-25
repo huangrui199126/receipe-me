@@ -1,0 +1,234 @@
+{
+  "id": "tr_1726",
+  "title": "Sunflower Seed Veggie Burgers with Fried Halloumi + Curried Tahini Sauce.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/06/Sunflower-Seed-Veggie-Burgers-with-Grilled-Halloumi-Curried-Tahini-Sauce-1.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/sunflower-seed-veggie-burgers-with-grilled-halloumi-curried-tahini-sauce/",
+  "servings": 5,
+  "prepTime": 30,
+  "cookTime": 30,
+  "tags": [
+    "burgers",
+    "fried",
+    "halloumi",
+    "sunflower seeds",
+    "vegetarian burger",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 989,
+    "protein": 30.0,
+    "carbs": 60.0,
+    "fat": 59.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cooked quinoa",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sunflower seeds (lightly toasted + cooled)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cannellini beans (finely mashed)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "panko bread crumbs (use gluten free bread crumbs if needed)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg (lightly beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "chipotle chile powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  of your [favorite burger buns | https://www.halfbakedharvest.com/everything-bagel-slider-buns/]",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "Halloumi (sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium sweet potatoes OR 6 large carrots",
+      "emoji": "🥔",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoon",
+      "name": "coconut oil (melted)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "spicy curry powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "tahini (sesame seed paste)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 teaspoon thai red curry paste",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "maple syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "water (to thin)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "sesame seeds (for topping)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a bowl combine the quinoa, sunflower seeds, mashed cannellini beans, bread crumbs, egg, garlic, chipotle chile powder, salt and pepper. Mix well to moisten the ingredients and then form into 4 or 5 equal burger patties (I made 5). Place on a plate and put in the fridge."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat the oven to 375 degrees F."
+    },
+    {
+      "order": 3,
+      "instruction": "Slice the sweet potatoes into 1/8 inch thick straws or use a mandolin slicer and do the same. Place the straws on a baking sheet and toss them with the melted coconut oil, curry powder, salt and pepper - toss well. Divide the straws between two baking sheets. Bake for 15 minutes, toss, and then bake another 15-20 minutes more or until the edges just begin to crisp."
+    },
+    {
+      "order": 4,
+      "instruction": "To make the tahini sauce, add the tahini, curry paste, maple syrup, lemon juice and soy sauce to a bowl. Add a few tablespoons of water and mix until smooth and combined, if needed, add more water to thin. Top with sesame seeds."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat the olive oil in a large skillet over medium heat. Grab the burgers and cook until golden and crisp, about five minutes per side."
+    },
+    {
+      "order": 6,
+      "instruction": "Once the burgers are finished, remove and place on plate. Next add a drizzle more of olive oil to the skillet and once hot, add the Halloumi slices. Cook for 1-2 minutes per side or until lightly golden. Remove and drain on paper towels."
+    },
+    {
+      "order": 7,
+      "instruction": "Spread the bottom of each bun with the tahini sauce, top with a burger and fried Halloumi and crispy sweet potatoes. Add the top bun. Serve with more tahini sauce. Enjoy!!"
+    }
+  ]
+}

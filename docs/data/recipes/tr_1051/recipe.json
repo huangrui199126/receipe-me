@@ -1,0 +1,119 @@
+{
+  "id": "tr_1051",
+  "title": "Pan Fried Gnocchi with Pumpkin & Spinach",
+  "image": "https://www.recipetineats.com/tachyon/2017/02/Gnocchi-with-Roasted-Pumpkin-Spinach.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pan-fried-gnocchi-with-pumpkin-spinach/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 648,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/1lb  pumpkin, cut into 2cm / 4/5\" pieces",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "350g/12oz  gnocchi, store bought ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "45",
+      "unit": "g",
+      "name": "/ 3 tbsp  butter, salted (unsalted also ok, just add more salt)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (large), minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "80",
+      "unit": "g",
+      "name": "/ 2.5oz  baby spinach leaves",
+      "emoji": "🥬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "fresh sage, finely sliced",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt &amp; pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan cheese, freshly grated",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200C/390F. Place pumpkin in a large bowl, drizzle with oil, sprinkle with salt and pepper. Toss to coat, spread out on tray and bake for 20 - 25 minutes, turning once, until golden and soft inside. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring a large pot of water to the boil, add a good pinch of salt. Cook gnocchi according to packet directions, or until gnocchi pops to the surface of the water (see video). SCOOP OUT a large mug of cooking water, then drain gnocchi."
+    },
+    {
+      "order": 3,
+      "instruction": "Place butter in a skillet then put on the stove over medium high heat. Once it foams, add gnocchi immediately. Stir, turn up the heat to high, then leave to cook for about 30 seconds.&nbsp;"
+    },
+    {
+      "order": 4,
+      "instruction": "Add garlic and sage, then stir / toss for no longer than 1 1/2 minutes (i.e. 2 minutes in total - see note 2) until gnocchi is golden on both sides."
+    },
+    {
+      "order": 5,
+      "instruction": "Add about 3/4 cup of gnocchi cooking water and toss - the water will evaporate quickly and transform into a sauce."
+    },
+    {
+      "order": 6,
+      "instruction": "Then add the pumpkin, spinach and about 1/4 cup of cooking water. Stir quickly , then season with salt and pepper. Toss then serve immediately with freshly grated parmesan."
+    }
+  ]
+}

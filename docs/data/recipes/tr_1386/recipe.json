@@ -1,0 +1,135 @@
+{
+  "id": "tr_1386",
+  "title": "Greek Lemon Rice Pilaf",
+  "image": "https://www.recipetineats.com/tachyon/2016/07/Lemon-Rice_3.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/greek-lemon-rice/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 216,
+    "protein": 4.8,
+    "carbs": 39.2,
+    "fat": 4.1
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "extra virgin oil ((or butter))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely chopped (white, brown, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "long grain white rice (, uncooked (Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large lemon ((1 tsp zest + 3 - 4 tbsp lemon juice))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "finely chopped dill ((or sub with parsley, oregano, basil chives, mint))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil over medium heat in large saucepan or small pot."
+    },
+    {
+      "order": 2,
+      "instruction": "Add garlic and onion. Cook for 5 minutes or until translucent and sweet."
+    },
+    {
+      "order": 3,
+      "instruction": "Add rice and stir until rice turns mostly translucent."
+    },
+    {
+      "order": 4,
+      "instruction": "Add broth and water. Place lid on, bring to simmer then turn heat down to low."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook for 12 minutes or until water is evaporated."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from from stove and rest for 10 minutes (keep the lid on)."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove lid. stir through lemon zest, lemon juice, herbs and salt and pepper to taste."
+    },
+    {
+      "order": 8,
+      "instruction": "Lovey served warm or at room temperature."
+    }
+  ]
+}

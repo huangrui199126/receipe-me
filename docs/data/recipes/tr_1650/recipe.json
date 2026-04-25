@@ -1,0 +1,111 @@
+{
+  "id": "tr_1650",
+  "title": "Salted Peanut Butter Caramel Chocolate Truffles.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/12/Salted-Peanut-Butter-Caramel-Chocolate-Truffles-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/salted-peanut-butter-caramel-chocolate-truffles/",
+  "servings": 40,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [
+    "caramel",
+    "chocolate truffles",
+    "peanut butter"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 2.0,
+    "carbs": 12.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "granulated sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "heavy cream (at room temperature)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "8",
+      "unit": "tablespoons",
+      "name": "salted butter (softened, 1 stick)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "bourbon (optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoons",
+      "name": "vanilla bean (seed removed (or 2 vanilla extract))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "semi-sweet or dark chocolate (chopped, about 400 grams)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "creamy peanut butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "dark dark chocolate (melted)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "flaky sea salt + cocoa powder (for sprinkling)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a dry, large deep heavy pot cook the sugar over moderately high heat, stirring constantly with a heat proof rubber spatula until the sugar has melted and turns a deep golden caramel color. Remove the skillet from the heat and add the chunks of butter one by one, whisk until combined. The caramel will bubble, this is ok. Now slowly add the cream and then whisk until combined. Return the pot to the heat and cook the mixture over moderate heat, stirring until the caramel has thickened, about 3-5 minutes. Remove from the heat, stir in the bourbon (if using) and the vanilla. Add the chopped chocolate and stir until smooth and melted."
+    },
+    {
+      "order": 2,
+      "instruction": "Now add the peanut butter in tablespoon increments, gently stirring to swirl the peanut butter into the chocolate. Don't fully incorporate the peanut butter into the chocolate, as we are going for swirls of peanut butter."
+    },
+    {
+      "order": 3,
+      "instruction": "Cover the mixture and refrigerate for 2–3 hours or until set. Once set, roll tablespoonfuls of the mixture into balls and place on a cookie sheet lined with parchment paper. Freeze for 1 hour or until firm. Dip the truffles in the melted chocolate and place on a cookie sheet lined with parchment paper. Refrigerate for 1 hour or until the chocolate is set. If desired, dust with cocoa powder and sprinkle with flaky sea salt"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": "tr_253",
+  "title": "Slow Cooked Shredded Beef Ragu Pasta",
+  "image": "https://www.recipetineats.com/tachyon/2017/07/Beef-Ragu-11a.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/slow-cooked-shredded-beef-ragu-pasta/",
+  "servings": 5,
+  "prepTime": 20,
+  "cookTime": 150,
+  "tags": [
+    "beef ragu",
+    "ragu",
+    "ragu sauce",
+    "slow cooked shredded beef ragu"
+  ],
+  "nutrition": {
+    "calories": 678,
+    "protein": 42.0,
+    "carbs": 69.0,
+    "fat": 26.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1.2",
+      "unit": "kg",
+      "name": "/ 2.5 lb  chuck beef  (or other slow cooking beef cut, cut into equal 4 pieces (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "carrots (, diced (Note 2))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "celery (, diced (Note 2))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 28oz  crushed canned tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  beef bouillon cubes (, crumbled (Note 3))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 250ml  red wine (, full bodied  (like merlot, cabernet sauvignon), or sub with beef broth/stock)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "/ 375 ml  water ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "dried thyme ( or 3 sprigs fresh thyme)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  dried bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/500g   dried pappardelle (, or other pasta of choice (Note 4))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Freshly grated parmesan cheese or parmigiano reggiano",
+      "emoji": "🥚",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley (, finely chopped (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pat beef dry and sprinkle with salt and pepper"
+    },
+    {
+      "order": 2,
+      "instruction": "Sear Beef: Heat 1 tbsp olive oil over high heat in a heavy based pot. Add beef and sear each piece aggressively on all sides until very browned (3 - 5 minutes in total), then remove onto a plate."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn stove down to medium low and add remaining 2 tbsp of olive oil."
+    },
+    {
+      "order": 4,
+      "instruction": "Soffrito: Add garlic and onion and sauté for 2 minutes. Then add the carrots and celery and sauté slowly for 5 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Add remaining Ragu ingredients and return the beef to the pot (including pooled juices). Turn the stove up and bring it to a simmer, then turn it down to low so it's bubbling very very gently. (Note 7)"
+    },
+    {
+      "order": 6,
+      "instruction": "Slow cook:&nbsp;Cover the pot and let it cook for 2 hours or until beef is tender enough to shred. (Note 5 for slow cooker and pressure cooker)."
+    },
+    {
+      "order": 7,
+      "instruction": "Shred:&nbsp;Remove beef then coarsely shred with 2 forks. Return beef to the pot. Simmer for 30 minutes until sauce is reduced and thickened - beef will soften slightly more during this step."
+    },
+    {
+      "order": 8,
+      "instruction": "Final season:&nbsp;Do a taste test and adjust the seasoning to your taste with salt and pepper. ALSO, add 1/2 tsp sugar if sauce is a bit sour for your taste (Note 6).&nbsp;Place the lid on and set aside until ready to serve (it's even better the next day and freezes well for months!)."
+    },
+    {
+      "order": 9,
+      "instruction": "Bring a very large pot of water with 1 tbsp of salt to the boil."
+    },
+    {
+      "order": 10,
+      "instruction": "Add pasta and cook for 1 minute less than the recommended cooking time as per the packet instructions."
+    },
+    {
+      "order": 11,
+      "instruction": "Meanwhile, place 5 cups of the Ragu in a very large fry pan, dutch oven or use 2 normal size fry pans. Heat over high heat while the pasta is cooking."
+    },
+    {
+      "order": 12,
+      "instruction": "When the pasta is ready, transfer it directly from the pot into the fry pan using tongs."
+    },
+    {
+      "order": 13,
+      "instruction": "Add 3/4 cup of pasta water into the fry pan."
+    },
+    {
+      "order": 14,
+      "instruction": "Gently toss the pasta (I use 2 wooden spoons) for 1 to 2 minutes, until the sauce water evaporates and leaves you with a thick Ragu sauce that coats the pasta."
+    },
+    {
+      "order": 15,
+      "instruction": "Yell for your family to sit down at the dinner table because you need to serve it immediately!"
+    },
+    {
+      "order": 16,
+      "instruction": "Serve with plenty of freshly grated parmesan, or even better, with parmigiano reggiano."
+    }
+  ]
+}

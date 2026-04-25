@@ -1,0 +1,199 @@
+{
+  "id": "tr_1140",
+  "title": "Port Braised Lamb Shanks",
+  "image": "https://www.recipetineats.com/tachyon/2016/09/Lamb-Shanks-Port-Braised_4.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/port-braised-lamb-shanks/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 180,
+  "tags": [],
+  "nutrition": {
+    "calories": 678,
+    "protein": 60.6,
+    "carbs": 18.4,
+    "fat": 22.5
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  lamb shanks (, approx 400g/13oz each (Note 1))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped (white, brown, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  celery stalk (, finely chopped (optional, but recommended))",
+      "emoji": "🫑",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (, finely chopped (optional, but recommended))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "/ 1/4 cup  flour ((35g))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500 ml   beef broth ((liquid beef stock) (or sub with chicken broth))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "/ 750 ml   port ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "/ 375ml   red wine (, or more beef broth (Note 3))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "/ 1/4 cup   tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "5",
+      "unit": "sprigs",
+      "name": "thyme or 2 tsp dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  dried bay leaves ((or 5 fresh))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "4",
+      "unit": "stalks",
+      "name": "fresh parsley ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Season lamb with salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 1 tbsp oil in a dutch oven or large heavy based pot over high heat. Add 2 lamb shanks and cook, turning, until browned (see photo). Remove then repeat with remaining lamb."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn heat down to medium. Add remaining 1 tbsp oil, garlic, onion, carrot and celery. Sauté for 5 minutes until onion is softened."
+    },
+    {
+      "order": 4,
+      "instruction": "Add flour. Mix into onion mixture."
+    },
+    {
+      "order": 5,
+      "instruction": "Add remaining ingredients. Mix - lumps are ok, they will dissolve while cooking."
+    },
+    {
+      "order": 6,
+      "instruction": "Add lamb back in - the meat should be mostly submerged. Bring to simmer, then turn heat down to medium low and cover with lid."
+    },
+    {
+      "order": 7,
+      "instruction": "Simmer for 2 hours (Note 4) then remove lid and simmer for 30 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove lamb into a bowl."
+    },
+    {
+      "order": 9,
+      "instruction": "Optional: Strain sauce in dutch oven into a bowl. Use spoon to press into onion etc to squeeze out all the flavourful liquid. Pour sauce into dutch oven. (Note 5)"
+    },
+    {
+      "order": 10,
+      "instruction": "Skim excess fat off sauce."
+    },
+    {
+      "order": 11,
+      "instruction": "Increase heat to medium high and reduce liquid by half or until it thickens to a syrup consistency."
+    },
+    {
+      "order": 12,
+      "instruction": "Return lamb shanks and juices pooled in the bowl into sauce to reheat, then serve with creamy mashed potato, garnished with parsley."
+    }
+  ]
+}

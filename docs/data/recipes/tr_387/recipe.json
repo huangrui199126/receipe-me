@@ -1,0 +1,129 @@
+{
+  "id": "tr_387",
+  "title": "Salad Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2020/03/Salad-Dressing_5.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/salad-dressing/",
+  "servings": 4,
+  "prepTime": 2,
+  "cookTime": 0,
+  "tags": [
+    "salad dressing"
+  ],
+  "nutrition": {
+    "calories": 94,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "any vinegar or lemon juice ((my favourite is cider vinegar)  (Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil (or other neutral oil)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Dijon Mustard ((or other non spicy smooth mustard))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "EACH salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 1  small garlic clove* (, pressed through crusher or smashed (Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "lemon zest*",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "sugar ((Note 3))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "honey ((Note 3))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped fresh herbs",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried herbs*",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Dressing ingredients and Optional Flavourings in a jar and shake well until mustard dissolves."
+    },
+    {
+      "order": 2,
+      "instruction": "Makes enough for a big leafy salad for 4 people (4 big handfuls of lettuce), or garden salad."
+    },
+    {
+      "order": 3,
+      "instruction": "Storage: Excluding garlic and fresh herbs, Dressing will keep for weeks in the fridge - just give it a good shake before using. Big batch - click servings and slide."
+    },
+    {
+      "order": 4,
+      "instruction": "Use to dress any fresh salad (make sure leaves are dry otherwise it won&#x27;t stick) or steamed, boiled or roasted vegetables (douse while hot so it absorbs!). Drizzle and toss well just before serving."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "tr_75",
+  "title": "Shredded Sweet Soy Chicken Breast",
+  "image": "https://www.recipetineats.com/tachyon/2015/07/Sweet-Soy-Shredded-Chicken_680px_1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sweet-soy-sauce-shredded-chicken-breast/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 60,
+  "tags": [],
+  "nutrition": {
+    "calories": 446,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   chicken breast ((skinless, boneless pieces))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "of garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil ((vegetable, canola, olive oil or grapeseed oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "soy sauce ((ordinary soy sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "white vinegar ((or substitute with other vinegar except balsamic))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "jam ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "black peppercorns or 1/2 tbsp ground black pepper ((Note 2))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cornstarch / cornflour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Slow Cooker: Place all the Shredded Chicken ingredients in the slow cooker and cook on low for 5 hours (or 2 1/2 hours on high)."
+    },
+    {
+      "order": 2,
+      "instruction": "Pressure Cooker: Place all the Shredded Chicken ingredients in the pressure cooker. Cook for 35 minutes on high."
+    },
+    {
+      "order": 3,
+      "instruction": "Stove: Place all the Shredded Chicken ingredients in a saucepan large enough for the chicken to fit snugly in one layer. Add 1/2 cup extra water so the chicken is mostly, but not completely submerged. Cover and simmer for about 50 to 60 minutes, turning once or twice."
+    },
+    {
+      "order": 4,
+      "instruction": "The chicken is ready when it can be easily shredded with two forks. Remove the chicken from the liquid and shred it while it is warm. Set aside and cover to keep warm."
+    },
+    {
+      "order": 5,
+      "instruction": "Transfer the liquid from the slow cooker / pressure cooker to a saucepan and bring to simmer. (Note 3) Reduce to around1 1/4 cups - it should only take a few minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Mix together the Sauce Thickening ingredients and add to the saucepan. Simmer until it it thickens to a syrup consistency."
+    },
+    {
+      "order": 7,
+      "instruction": "Toss the chicken in the sauce and serve over rice. (Note 4)"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "id": "tr_1997",
+  "title": "Gingerbread Man Granola",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2013/12/Gingerbread-Man-Granola-8.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/gingerbread-boy-granola/",
+  "servings": 6,
+  "prepTime": 25,
+  "cookTime": 40,
+  "tags": [
+    "gingerbread",
+    "granola"
+  ],
+  "nutrition": {
+    "calories": 1165,
+    "protein": 17.0,
+    "carbs": 143.0,
+    "fat": 53.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "white whole wheat flour or whole wheat pastry flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "ground ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "ground cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "allspice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "6",
+      "unit": "tablespoons",
+      "name": "coconut oil (at room temperature)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "molasses",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg yolk",
+      "emoji": "🥚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "oats",
+      "emoji": "🌾",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded unsweetened flaked coconut",
+      "emoji": "🥥",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "candid ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "pistachios",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "pecans (almond or macadamia nuts)",
+      "emoji": "🥜",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "raw pumpkin seeds (pepitas)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "toasted wheat germ",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dried cranberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "molasses",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "pure maple syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoon",
+      "name": "coconut oil (melted (may sub butter))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "3",
+      "unit": "teaspoon",
+      "name": "instant espresso powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "3/4",
+      "unit": "teaspoon",
+      "name": "ginger (use 1 teaspoon for a better ginger flavor!)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 28
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To make the gingerbread cookie dough. In a small bowl combine the flour, whole wheat flour, baking soda, cinnamon, ginger, cloves, allspice and salt. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "In a large mixing bowl (using a hand mixer) or bowl of a stand mixer cream together the the coconut oil and brown sugar, beating for about 3-4 minutes until light and fluffy. Add the molasses and egg, beat until combined. Gradually mix in the dry ingredients until no streaks are showing in the dough. Line two cookie sheets with parchment paper or a silpat."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove the dough from the bowl and flour a clean work surface, and the dough. Roll it out as thin or thick as you like. If you want the cookies crisp roll thin and if you want them softer roll a thicker dough. Personally for this granola I thought somewhere in the middle of super thin and supper thick was good! Using a small ginger bread man (or girl!) cookie cutter. I used one from this pack -http://www.amazon.com/gp/product/B00004Y67U/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00004Y67U&amp;linkCode=as2&amp;tag=halbakhar-20"
+    },
+    {
+      "order": 4,
+      "instruction": "Cut out shapes with a cookie cutter, cutting them as close to one another as possible to minimize waste."
+    },
+    {
+      "order": 5,
+      "instruction": "Transfer the cookies to the prepared cookie sheets. Cover the baking sheets and place them in the fridge while you make the granola."
+    },
+    {
+      "order": 6,
+      "instruction": "Preheat oven to 325 degrees F."
+    },
+    {
+      "order": 7,
+      "instruction": "In a large bowl combine the oats, shredded coconut, candid ginger pecans (almonds or macadamia nuts), pistachios, pumpkin seeds, wheat germ and cranberries. Toss well."
+    },
+    {
+      "order": 8,
+      "instruction": "Melt the coconut in the microwave for 30 seconds, stir in the molasses and maple syrup. Place the mixture back in the microwave for another 30 seconds. Sprinkle the espresso powder over top and stir to dissolve. Add the cinnamon, ginger and salt. Stir in the vanilla."
+    },
+    {
+      "order": 9,
+      "instruction": "Pour the warm mixture over the dry oat mixture and stir to fully combine. I normally stir for a good 3 to 5 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Spread the granola out on a parchment lined baking sheet with sides and drizzle with 2 tablespoons honey. Bake for 30 to 40 minutes stirring every 15 minutes so the granola will get evenly toasted. The last time you stir the granola drizzle it with the remaining 2 tablespoons honey. Remove from the oven and let cool five minutes. Up the oven temperature to 350 degrees F."
+    },
+    {
+      "order": 11,
+      "instruction": "After 5 minutes spray the bottom of a flat 1 cup measuring cup or a flat bottomed glass with cooking spray. Press the granola into the pan using the bottom of the measuring cup so that you have a flat slab of granola that looks like they could be cut into bars. Let the granola sit for one hour to cool and harden. After an hour break the granola up into clusters."
+    },
+    {
+      "order": 12,
+      "instruction": "While the granola cools bake the gingerbread cookies. Remove the pans from the fridge and bake the cookies just until they're slightly brown around the edges 8 to 12 minutes, or until they feel firm. Let the cookies cool completely before tossing with the granola."
+    },
+    {
+      "order": 13,
+      "instruction": "When everything is cool toss about half the cookies or however many you wish with the granola. Enjoy!"
+    }
+  ]
+}

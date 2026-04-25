@@ -1,0 +1,299 @@
+{
+  "id": "tr_1750",
+  "title": "Greek Goddess Grain Bowl with Fried Zucchini, Toasted Seeds and Fried Halloumi.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/05/Greek-Goddess-Grain-Bowl-with-“Fried”-Zucchini-Toasted-Seeds-and-Fried-Halloumi-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/greek-goddess-grain-bowl-with-fried-zucchini-toasted-seeds-and-fried-halloumi/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 30,
+  "tags": [
+    "grain bowl",
+    "halloumi",
+    "zucchini"
+  ],
+  "nutrition": {
+    "calories": 1440,
+    "protein": 44.0,
+    "carbs": 85.0,
+    "fat": 105.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "mixed raw grains (I used quinoa (couscous, bulgar and quick cooking wild rice)*)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "fresh mint + oregano (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  roasted red bell pepper (sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "roasted artichoke hearts (drained)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cherry tomatoes (halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  avocado (sliced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "mixed olives",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Hard boiled eggs (fresh basil, dill and balsamic vinegar, for serving, optional)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "tahini (sesame paste)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic * (use roasted garlic if you have it!!)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "fresh lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "nutritional yeast (or grated parmesan)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh basil leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  jalapeno (seeded)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "honey (depending on your taste (omit if vegan))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "pine nuts",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "shelled sun-flower seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "flax seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "hemp seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 inch zucchinis (sliced into 1/4- rounds)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "canned coconut milk (or 1 egg + 1/4 cup buttermilk)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "Panko bread crumbs (use gluten free if needed)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "cornmeal",
+      "emoji": "🌽",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "nutritional yeast (or finely grated parmesan cheese)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "Halloumi Cheese (sliced (omit if vegan))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 29
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring 3 cups water to a boil, add your grains. Cover and simmer over low heat for 20-30 minutes or until the water has evaporated. Stir in the fresh mint and oregano. Keep warm until serving."
+    },
+    {
+      "order": 2,
+      "instruction": "In a blender or food processor, combine the tahini, garlic, lemon juice, nutritional yeast, olive oil, a pinch of salt + pepper, the basil, jalapeno and 1 tablespoon honey. Blend until smooth and creamy. Taste and adjust salt + pepper to your liking. Store in a glass jar in the fridge until ready to serve or up to 1 week."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat a skillet over medium heat and add enough olive oil to just cover the bottom. Add the pine nuts, sun flower seeds, flax seeds and sesame seeds. Cook, stirring often until toasted and fragrant, about 5 minutes. Watch closely as it is really important that you do not burn these! Once toasted remove from the heat and slide the seeds out into a bowl. Season with a little salt."
+    },
+    {
+      "order": 4,
+      "instruction": "Wipe off the same skillet you just used to toast the seeds and place it back on the stove. Add enough olive oil to cover the bottom of the skillet."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the coconut milk to a bowl. In another bowl, whisk together the Panko, flour, nutritional yeast, salt and pepper. Heat the large skillet over medium heat and add olive oil. Dip each zucchini slice into the coconut milk to coat, then dredge through the breadcrumbs, pressing gently to adhere. Place in the skillet and cook until golden. This took me about 3 to 4 minutes per side. When finished, remove the slices and let drain on a paper towel."
+    },
+    {
+      "order": 6,
+      "instruction": "Bring that same skillet back to medium heat and add a little more oil if needed. If the skillet is looking pretty dirty, wipe it clean before adding more oil."
+    },
+    {
+      "order": 7,
+      "instruction": "Once hot, add the Halloumi slices and cook for 1-2 minutes per side or until lightly golden. Remove and drain on paper towels."
+    },
+    {
+      "order": 8,
+      "instruction": "Divide the cooked grains among 4 bowls. Arrange the roasted red pepper, artichokes, tomatoes, avocado and olives along the side of the bowls. Add the toasted seeds, fried zucchini and halloumi. Drizzle with the tahini sauce and garnish with fresh basil + dill and if preferred, hard boiled eggs. Serve with pita chips."
+    }
+  ]
+}

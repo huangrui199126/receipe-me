@@ -1,0 +1,127 @@
+{
+  "id": "tr_648",
+  "title": "Tuna Steak",
+  "image": "https://www.recipetineats.com/tachyon/2021/05/Tuna-Steak-Main_2-SQ.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tuna-steak/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 3,
+  "tags": [
+    "how to cook tuna",
+    "tuna loin",
+    "tuna steak"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 35.0,
+    "carbs": 1.0,
+    "fat": 8.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 x 180 - 200g (6.5 - 7oz)  tuna ((skinless, boneless). 2.5-3cm / 1-1.2&quot; thick (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "olive oil (, or oil spray)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sauce Vierge ((French salsa / vinaigrette for fish))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chervil sprigs ((substitute small flat leaf or curly parsley leaves) or small edible flowers (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare resting tray: Place a rack on a tray. (Note 3)"
+    },
+    {
+      "order": 2,
+      "instruction": "Oil and season tuna: Drizzle half the oil over the tuna. Smear over one side, then sprinkle with half the salt and pepper. Flip and repeat."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat skillet: Heat skillet (preferably a skillet with grille lines) over high heat until smoking hot. The hotter, the better!"
+    },
+    {
+      "order": 4,
+      "instruction": "Oil skillet (if required): If your skillet is not well-seasoned, brush skillet with olive oil or take pan off stove and spray with any oil (SAFETY WARNING! Note 4)"
+    },
+    {
+      "order": 5,
+      "instruction": "Cook first side: Place tuna steak in the skillet (I do one at a time for best results, Note 5) and cook for 45 seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Rotate for grill lines: Turn steak 45 degree. Continue cooking another 45 seconds."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook other side: Flip tuna carefully, then leave for 1 minute or until the internal temperature in the middle reads 48°C / 118°F (Note 6)."
+    },
+    {
+      "order": 8,
+      "instruction": "Rest: Remove tuna from skillet and place on rack. Rest for 5 minutes – it will cool down almost to room temperature. This is desirable for easier slicing and better eating (Note 7) Serve! See Note 2 for sauce options."
+    },
+    {
+      "order": 9,
+      "instruction": "Slice, if desired (Note 7): Place tuna on a board with criss-crossing grill lines facing up. Slice the tuna into 4 or 5 thick slices, holding the edges with your fingers as needed to ensure the seared surface doesn&#039;t crumble. Transfer to serving plate and separate the slices slightly so they insides are just visible, or on an a slightly angle, overlapping each other."
+    },
+    {
+      "order": 10,
+      "instruction": "Sauce Vierge: Spoon the Sauce Vierge over steaks, leaving small piles of tomato here and there on the tuna slices, and a few on the plate. Other sauce options: See Note 2."
+    },
+    {
+      "order": 11,
+      "instruction": "Finishing: Drizzle with a bit of olive oil. It looks beautiful as it is, but if you want to raise the bar even higher, add a few small sprigs of chervil and some edible flowers!"
+    }
+  ]
+}

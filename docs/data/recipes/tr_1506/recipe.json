@@ -1,0 +1,125 @@
+{
+  "id": "tr_1506",
+  "title": "Chocolate Dipped Coconut Caramel Macaroons.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/11/Chocolate-Dipped-Coconut-Caramel-Macaroons-10.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/chocolate-dipped-coconut-caramel-macaroons/",
+  "servings": 15,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "macaroons"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 3.0,
+    "carbs": 20.0,
+    "fat": 19.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Bob’s Red Mill Pumpkin Seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "maple syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "full fat canned coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "coconut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of flaky sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "Bob’s Red Mill Flaked Coconut",
+      "emoji": "🥥",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Bob’s Red Mill Almond Flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "5",
+      "unit": "ounces",
+      "name": "dark chocolate (melted)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 350 degrees F. Line two baking sheets with parchment paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the pumpkin seeds to a prepared baking sheet and place in the oven for 5-8 minutes or until lightly toasted. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "To make the caramel - In a small saucepan set over medium heat, combine the maple syrup, coconut milk and coconut oil. Bring the mixture to a boil, stirring continuously, for 10 minutes or until the mixture has thickened slightly and reduced to ¾ cup. The caramel should be easily pourable. Remove from the heat and stir in the vanilla and a pinch of salt."
+    },
+    {
+      "order": 4,
+      "instruction": "To the bowl of a food processor, add the coconut, almond flour, and all but 1/4 cup of the caramel (reserve the 1/4 cup caramel for topping). Pulse until the mix is finely chopped and holds together when squeezed into a ball."
+    },
+    {
+      "order": 5,
+      "instruction": "Drop 1 tablespoon size balls of the mixture onto the prepared baking sheet. Make sure the balls are packed tight; if needed, use your hands to finely pack the balls together. Transfer to the oven and bake for 8-10 minutes or until the tops of the macaroons just begin to appear toasted. Remove from the oven and let cool completely."
+    },
+    {
+      "order": 6,
+      "instruction": "Add half the chocolate to a microwave-safe bowl and microwave on thirty second intervals, stirring after each interval until melted and smooth. Remove from the microwave and stir in the remaining chocolate until smooth."
+    },
+    {
+      "order": 7,
+      "instruction": "Gently dip the bottom of each macaroon into the melted chocolate and place on a parchment lined baking sheet. Drizzle with any remaining chocolate and then sprinkle with toasted pumpkin seeds. Place in the fridge to firm up. Once the chocolate has set, serve cold or at room temperature, and drizzle with the remaining caramel sauce. If desired, sprinkle with a bit more flaky sea salt!"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "tr_252",
+  "title": "Roast Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2016/05/Roast-Chicken_6a.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roast-chicken/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 90,
+  "tags": [
+    "roast chicken"
+  ],
+  "nutrition": {
+    "calories": 505,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.75 - 2 kg / 3.5 - 4lb   whole chicken (, patted dry)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemon, quartered",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  rosemary sprigs",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 1 stick   unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sage (, finely chopped (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "rosemary (, finely chopped (Note 1))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped (Note 1))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and black pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 250 ml  dry white wine (, or low sodium chicken broth)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, quartered (Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic bulb (, halved horizontally (Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Take the chicken out of the fridge 30 minutes before cooking."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 220C/450F (standard) or 200C/430F (fan/convection). Put shelf in the middle."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix together Butter ingredients. Add juice from 2 wedges of lemon."
+    },
+    {
+      "order": 4,
+      "instruction": "Place chicken in a roasting pan. Use a dessert spoon to loosen skin from chicken (see video). Do the top (the breast) and the drumsticks – not the underside."
+    },
+    {
+      "order": 5,
+      "instruction": "Prop chicken upright, drizzle butter under skin, using most of the garlic/herb sludge, but saving a bit of butter for the skin (Note 3)."
+    },
+    {
+      "order": 6,
+      "instruction": "Drizzle / smear remaining butter all over surface of the chicken. Squeeze over juice of 2 lemon wedges."
+    },
+    {
+      "order": 7,
+      "instruction": "Stuff used lemon wedges and rosemary inside chicken."
+    },
+    {
+      "order": 8,
+      "instruction": "Tie drumstick ends with string and tuck wing tips under the chicken."
+    },
+    {
+      "order": 9,
+      "instruction": "Sprinkle all over with salt and pepper."
+    },
+    {
+      "order": 10,
+      "instruction": "Place onion and garlic in the pan, place chicken on top. Pour wine around, drizzle chicken with oil."
+    },
+    {
+      "order": 11,
+      "instruction": "Transfer to oven. Roast for 10 minutes, then turn oven down to 180C/350F (all oven types). Roast for a further 1 hr 15 minutes, or until the internal temperature is 75C/165F or until juices run clear when pierced at the join between the drumstick and the body. Baste twice (30 min then at 1 hr), spooning pan juices over skin."
+    },
+    {
+      "order": 12,
+      "instruction": "Rest for 15 minutes – don’t cover, skin becomes wet."
+    },
+    {
+      "order": 13,
+      "instruction": "Serve with pan juices (see video for how to carve). I discard onion but use the garlic in the pan. See notes for side suggestions &amp; how to use carcass for incredible homemade broth!"
+    }
+  ]
+}

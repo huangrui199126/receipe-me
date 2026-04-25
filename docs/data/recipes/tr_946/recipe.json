@@ -1,0 +1,120 @@
+{
+  "id": "tr_946",
+  "title": "Pea Puree",
+  "image": "https://www.recipetineats.com/tachyon/2020/12/Pea-Puree-in-bowl-SQ.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pea-puree-side-sauce/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 6,
+  "tags": [
+    "chickpea recipe",
+    "frozen peas",
+    "pea puree",
+    "pea side dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb  frozen peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 8 tbsp  butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves, (minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium eschalots (, finely sliced (ie the baby onions, aka French onions, US: shallots))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken or vegetable stock/broth (, low sodium (use vegetable stock if the puree is for fish))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small handfuls mint leaves ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Aromatics: Melt butter in a saucepan over medium heat. Add garlic and eschalots, saute 3 minutes until soft, but don&#039;t let them go golden."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook peas: Add frozen peas and stock, increase heat to bring to simmer then cover and reduce heat to medium. Simmer 2 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Reserve Liquid: Remove 1/3 cup liquid from the saucepan, reserve."
+    },
+    {
+      "order": 4,
+      "instruction": "Blitz: Transfer all peas and remaining liquid into a food processor. Add salt and pepper, and mint if using. Blitz on high for 1 minute until smooth."
+    },
+    {
+      "order": 5,
+      "instruction": "Optional straining: For extra smooth, press through a mesh colander with a rubber spatula (it&#039;s easy)."
+    },
+    {
+      "order": 6,
+      "instruction": "Adjust consistency: Use Reserved Liquid as needed to achieve the desired consistency - I like a soft, dolloping consistency. Sometimes people want it looser. Add more salt and pepper if desired - remember, this is not supposed to be strongly flavoured or seasoned!"
+    },
+    {
+      "order": 7,
+      "instruction": "Serve warm. Either dollop/smear onto plates, or serve in bowls for people to help themselves."
+    }
+  ]
+}

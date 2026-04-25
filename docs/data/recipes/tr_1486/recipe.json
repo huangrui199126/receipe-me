@@ -1,0 +1,113 @@
+{
+  "id": "tr_1486",
+  "title": "Orange Turmeric Crush.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2017/01/Orange-Turmeric-Crush-1.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/orange-turmeric-crush/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "orange crush"
+  ],
+  "nutrition": {
+    "calories": 944,
+    "protein": 4.0,
+    "carbs": 41.0,
+    "fat": 2.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "Not-From-Concentrate Florida’s Natural® Brand Orange Juice",
+      "emoji": "🍊",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "coconut water",
+      "emoji": "🥥",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  pitted medjool dates",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium carrot",
+      "emoji": "🥕",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "frozen mango chunks",
+      "emoji": "🥭",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "turmeric",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "maca powder (optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "chia seeds (hemp seeds and or rose hips, for topping)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a high power blender, combine the orange juice, coconut water, dates, carrot, mango, vanilla, turmeric, maca power, and a pinch of salt. Add a large handful of ice and blend until completely smooth and creamy, about 3-5 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Divide between 2 glasses and top as desired. Enjoy!"
+    }
+  ]
+}

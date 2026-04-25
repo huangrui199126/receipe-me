@@ -1,0 +1,218 @@
+{
+  "id": "tr_1474",
+  "title": "California Chicken, Avocado and Goat Cheese Salad",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2017/04/California-Chicken-Avocado-and-Goat-Cheese-Salad-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/california-chicken-avocado-and-goat-cheese-salad/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "chicken salad",
+    "goats cheese salad"
+  ],
+  "nutrition": {
+    "calories": 770,
+    "protein": 35.0,
+    "carbs": 21.0,
+    "fat": 52.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "boneless skinless chicken tenders",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic, minced or grated",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh parsley, chopped ((or 1 tablespoon dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh basil, chopped ((or 1 tablespoon dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "cayenne",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "kosher salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "heads",
+      "name": "romaine lettuce, chopped",
+      "emoji": "🥬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh strawberries, halved",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  watermelon radishes, thinly slice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  Persian cucumbers, sliced",
+      "emoji": "🥒",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "herbed goat cheese, crumbled",
+      "emoji": "🧀",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  avocado, sliced",
+      "emoji": "🥑",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "roasted almonds, chopped",
+      "emoji": "🥜",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "large handful micro greens, sprouts, and or edible flowers, for serving",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of cayenne ((to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "kosher salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "1. In a bowl, combine the chicken, olive oil, garlic, parsley, basil, paprika, onion powder, cayenne, salt, and pepper. For added flavor, allow the chicken to marinate 1 hour or overnight.2. Preheat your grill, grill pan or cast iron skillet to medium high and brush the grates with oil.3. Grill the chicken for 5-8 minutes per side or until the chicken is cooked through. Remove from the grill and thinly slice the chicken.4. In a large salad bowl, toss together the lettuce, strawberries, radishes, and cucumbers. Add the chicken on top of the salad along with the goat cheese, avocado, almonds, and a handful of micro greens. Serve with the honey balsamic (below)."
+    },
+    {
+      "order": 2,
+      "instruction": "1. In a glass jar, combine the olive oil, balsamic vinegar, apple cider vinegar, honey, cayenne, and a pinch each of salt and pepper. Seal the jar and shake well. Taste and adjust seasonings as needed. Keep stored in the fridge for up to 1 week."
+    }
+  ]
+}

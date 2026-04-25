@@ -1,0 +1,188 @@
+{
+  "id": "tr_1593",
+  "title": "Kimchi Chicken and Bacon Fried Rice.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/04/Kimchi-Chicken-and-Bacon-Fried-Rice-1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/kimchi-chicken-and-bacon-fried-rice/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "bacon",
+    "chicken",
+    "fried rice",
+    "kimchi"
+  ],
+  "nutrition": {
+    "calories": 643,
+    "protein": 37.0,
+    "carbs": 169.0,
+    "fat": 36.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "low sodium soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "[gochujang | http://www.amazon.com/Chung-Jung-One-500g-Gochujang/dp/B002WTE0MQ/ref=sr_1_fkmr0_1_a_it?ie=UTF8&amp;qid=1459860970&amp;sr=8-1-fkmr0&amp;keywords=gochujang+korean+chile+paste+or+sriracha] or sriracha",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "ginger (grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "sesame oil (divided)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs (beaten with an added pinch of salt)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "thick cut bacon (chopped)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "pound",
+      "name": "boneless chicken breasts or tenders (cubed)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "cooked white rice OR quinoa",
+      "emoji": "🍚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 cups cubed pineapple chunks",
+      "emoji": "🍎",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "frozen green peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "homemade or store bought kimchi",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green onions (chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "pepper (to taste)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "toasted sesame seeds (for topping)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine all ingredients in a bowl and whisk until smooth. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a large skillet or wok over medium heat. Add a drizzle of sesame oil. Once hot, add the eggs and let cook until they begin to set on the edges, then gently scramble the eggs. Cook until soft and set. Remove the eggs from the skillet and set aside. Wipe the skillet clean and return to the stove."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the bacon and cook until crisp. Drain the bacon on a paper towel lined plate. Pour off all but 1 tablespoon of bacon grease from the skillet. Add a small drizzle of sesame oil and set the skillet back on the stove over medium heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Once hot, add the chicken and 2-3 tablespoons of the Korean BBQ sauce. Cook until the sauce glazes the chicken and the chicken is cooked through. Spoon the chicken onto the plate with the bacon."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat another drizzle of oil in the same pan. Once hot, add the rice and pineapple chunks, stir-fry for 2 to 3 minutes. Stir in the peas and kimchi, cooking until warmed through. Stir in the reserved eggs, bacon and chicken and cook another minute longer. Remove from the heat and add the green onions + cilantro."
+    },
+    {
+      "order": 6,
+      "instruction": "Divide the rice among bowls and serve drizzled with Korean BBQ Sauce and sesame seeds. EAT!"
+    }
+  ]
+}

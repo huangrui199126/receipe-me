@@ -1,0 +1,179 @@
+{
+  "id": "tr_73",
+  "title": "Prosciutto Wrapped Chicken and Scalloped Potatoes (One Pan!)",
+  "image": "https://www.recipetineats.com/tachyon/2015/08/One-Pan-Prosciutto-Chicken-Potatoes_680px1.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pan-prosciutto-wrapped-ricotta-chicken-with-scalloped-potatoes/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 45,
+  "tags": [],
+  "nutrition": {
+    "calories": 445,
+    "protein": 41.4,
+    "carbs": 31.8,
+    "fat": 17.8
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "ricotta",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest of 1 small lemon (, or 1/2 large lemon)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "finely sliced fresh sage leaves ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  chicken thigh fillets (, skinless and boneless (about 5 - 7 oz / 150 - 200g each))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 long or 8 small   thin slices of prosciutto",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1.5",
+      "unit": "lb",
+      "name": "/ 750 g   potatoes (, peeled and cut into thin slices)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, crushed (optional))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil + 1/2 tbsp extra olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried thyme leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "freshly grated parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix together the Ricotta Filling ingredients in a small bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Lay out the prosciutto on a work surface. Place chicken lengthwise at the bottom of each strip."
+    },
+    {
+      "order": 4,
+      "instruction": "Divide Ricotta Filling between the chicken, placing it at the bottom (closest to you)."
+    },
+    {
+      "order": 5,
+      "instruction": "Roll up the chicken, wrapping it in the prosciutto, finishing with the seam side down. Not too tightly otherwise the ricotta will ooze out!"
+    },
+    {
+      "order": 6,
+      "instruction": "Use toothpicks to seal the ends. (Note 2)"
+    },
+    {
+      "order": 7,
+      "instruction": "Spread the potato slices on the base of a roasting dish or large ovenproof skillet. Fan them out so they are overlapping slightly."
+    },
+    {
+      "order": 8,
+      "instruction": "Mix together 1 1/2 tbsp olive oil and garlic then pour over the potatoes, using a teaspoon or brush to spread it out. Sprinkle with salt and pepper and thyme leaves."
+    },
+    {
+      "order": 9,
+      "instruction": "Place chicken on top of the potato, drizzle the chicken with 1/2 tbsp olive oil and bake for 40 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove chicken onto a plate to rest, covered loosely with foil."
+    },
+    {
+      "order": 11,
+      "instruction": "Sprinkle the potatoes with parmesan cheese, then return just the potatoes back into the oven and turn up the oven to maximum. Bake for 5 minutes."
+    },
+    {
+      "order": 12,
+      "instruction": "Remove potatoes from the oven. Place chicken back on top."
+    },
+    {
+      "order": 13,
+      "instruction": "Serve asap!"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "tr_1682",
+  "title": "Crispy Buffalo Cheddar Potato Nachos.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/09/Crispy-Buffalo-Cheddar-Potato-Nachos-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/crispy-buffalo-cheddar-potato-nachos/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "buffalo",
+    "cheddar",
+    "nachos",
+    "potato nachos"
+  ],
+  "nutrition": {
+    "calories": 679,
+    "protein": 18.0,
+    "carbs": 7.0,
+    "fat": 74.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "slice",
+      "name": "russet potatoes (in 1/4 inch rounds)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "seasoned salt (divided)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt+ pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "butter (melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "hot sauce (I like to use Franks Hot Sauce)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "sharp cheddar cheese (shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "gorgonzola or blue cheese (crumbled)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  avocado (sliced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "chopped cilantro + green onion (for serving)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "[buttermilk ranch | https://www.halfbakedharvest.com/black-pepper-rub-chicken-fingers-greek-yogurt-ranch/] (for serving)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven 425 degrees F. Line 2 baking sheets with parchment paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Divide the thinly sliced potato rounds among the baking sheets. Drizzle the potatoes evenly with olive oil. Sprinkle with 1/2 teaspoon seasoned salt and then season the potatoes to taste with salt + pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Place in the oven and bake for 20-25 minutes, watching closely to make sure none of the rounds are burning. I found it helpful to rotate the pans and toss the potatoes around half way through cooking to ensure even baking."
+    },
+    {
+      "order": 4,
+      "instruction": "While the potatoes are baking, whisk together the butter, hot sauce and remaining 1/2 teaspoon seasoned salt."
+    },
+    {
+      "order": 5,
+      "instruction": "When the potatoes are crisp and lightly golden, remove them from the oven and drizzle with the buffalo sauce. Add the cheddar and blue cheese. Return the pans to the oven and bake for 5 minutes or until the cheese is melted. Remove and top with fresh cilantro, green onions and sliced avocado. Serve with ranch."
+    }
+  ]
+}

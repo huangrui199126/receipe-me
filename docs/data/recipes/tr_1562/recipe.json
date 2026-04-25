@@ -1,0 +1,115 @@
+{
+  "id": "tr_1562",
+  "title": "Strawberry Shortcake Grilled Doughnuts.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/06/Strawberry-Shortcake-Grilled-Doughnuts-1.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/strawberry-shortcake-grilled-doughnuts/",
+  "servings": 12,
+  "prepTime": 25,
+  "cookTime": 5,
+  "tags": [
+    "donuts",
+    "doughnuts",
+    "strawberry shortcake"
+  ],
+  "nutrition": {
+    "calories": 578,
+    "protein": 5.0,
+    "carbs": 10.0,
+    "fat": 15.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "cups",
+      "name": "fresh strawberries (hulled + halved)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-4 tablespoons granulated sugar (depending on your sweetness preference)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "zest of 1 lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  glazed doughnuts (see my homemade brioche doughnuts below)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "cream cheese",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "16",
+      "unit": "ounce",
+      "name": "whole milk ricotta cheese",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "heavy whipping cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a bowl, combine the strawberries, sugar, lemon zest and vanilla, tossing well to combine. Let the berries sit at room temperature for at least 20-30 minutes until the berries have released their juices. After 30 minutes at room temperature the berries can be kept in the fridge for up to 1 day."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile prepare the cream. In the bowl of a stand mixer (or use a hand held mixer) fitted with the whisk attachment, whip the cream cheese until light and fluffy. Add the ricotta and heavy cream, continue to whip until the the ricotta is smooth and the cream has fluffed, about 6-8 minutes. Add the vanilla and whip until combined. Keep the cream covered in the fridge until ready to assemble your shortcakes."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat the grill to medium heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Grill doughnuts until lightly caramelized, 30 seconds to 1 minute per side. Watch closely, they can burn easily because of the sugar. Allow the doughnuts to cool slightly and then slice in half. Fill each doughnut with strawberries and a dollop of cream. EAT... no, DEVOUR!"
+    }
+  ]
+}

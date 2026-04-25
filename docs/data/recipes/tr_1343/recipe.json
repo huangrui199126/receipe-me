@@ -1,0 +1,110 @@
+{
+  "id": "tr_1343",
+  "title": "Coleslaw",
+  "image": "https://www.recipetineats.com/tachyon/2018/06/Coleslaw_7a.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/coleslaw/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "coleslaw",
+    "coleslaw recipe"
+  ],
+  "nutrition": {
+    "calories": 169,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "7",
+      "unit": "cups",
+      "name": "green cabbage (, finely shredded (Note 1))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium carrot (, shredded (1 1/2 cups))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Hellman's mayonnaise ((or other whole egg mayo))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sour cream or yoghurt, (full fat is best)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "apple cider vinegar ((or sub with white wine vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "celery salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4 tso black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Dressing ingredients together."
+    },
+    {
+      "order": 2,
+      "instruction": "Place cabbage and carrot in a bowl. Pour over Dressing, toss well. Set aside for at least 20 minutes before serving, preferably 2 hours - this will make the cabbage go limp as it should, and also draw moisture out of the cabbage and carrot to thin out the dressing. Overnight is even better!"
+    },
+    {
+      "order": 3,
+      "instruction": "Toss well before serving.&nbsp;"
+    }
+  ]
+}

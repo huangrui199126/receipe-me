@@ -1,0 +1,211 @@
+{
+  "id": "tr_1388",
+  "title": "Greek Lamb and Salad Dinner",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/Greek-lamb-salad-dinner-3.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/quick-fix-greek-lamb-and-salad-dinner/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 554,
+    "protein": 30.9,
+    "carbs": 30.0,
+    "fat": 36.8
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 20 oz   lamb steaks ((4 pieces in total))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large cucumbers",
+      "emoji": "🥒",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  medium tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion ((spanish onion))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(combined) parsley and mint leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  small garlic clove",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "crumbled feta cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "16  olives ((black or green))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "8",
+      "unit": "slices",
+      "name": "sourdough bread",
+      "emoji": "🍞",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the Dressing ingredients and mix well (or put in a jar and shake)."
+    },
+    {
+      "order": 2,
+      "instruction": "Pour 1/4 cup of the Dressing, dried oregano, and a pinch of salt and pepper onto the lamb steaks and use your hands to coat evenly."
+    },
+    {
+      "order": 3,
+      "instruction": "To freeze: Place the lamb and marinade in a ziplock bag, remove as much air as possible and freeze. To cook, defrost completely and bring back to room temperature."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat BBQ (grill) or a heavy based pan on the stove over high heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove lamb from marinade. Place lamb on BBQ (or in the pan) and grill each side for 1 to 1 1/2 minutes, or until cooked to your liking. Remove lamb steaks from the BBQ / pan onto a plate and cover loosely with foil to rest."
+    },
+    {
+      "order": 6,
+      "instruction": "Cut cucumber vertically into 8 pieces."
+    },
+    {
+      "order": 7,
+      "instruction": "Cut tomatoes into thick slices."
+    },
+    {
+      "order": 8,
+      "instruction": "Peel red onion and slice finely."
+    },
+    {
+      "order": 9,
+      "instruction": "Toast bread, either in the toaster or on the BBQ/grill. While still warm, rub lightly with the cut side of the garlic. Optional: drizzle with extra olive oil."
+    },
+    {
+      "order": 10,
+      "instruction": "Slice lamb into thin slices."
+    },
+    {
+      "order": 11,
+      "instruction": "Place 4 slices of cucumber on each plate and top with tomato slices, red onion and olives."
+    },
+    {
+      "order": 12,
+      "instruction": "Place lamb on top, sprinkle over the feta, parsley and mint leaves."
+    },
+    {
+      "order": 13,
+      "instruction": "Drizzle over Dressing and serve with toasted bread on the side."
+    }
+  ]
+}

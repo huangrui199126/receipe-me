@@ -1,0 +1,182 @@
+{
+  "id": "tr_1572",
+  "title": "Grilled Skirt Steak with Chimichurri.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/05/Grilled-Skirt-Steak-with-Chimichurri-3.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/grilled-skirt-steak-with-chimichurri/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "chimichurri",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 695,
+    "protein": 32.0,
+    "carbs": 10.0,
+    "fat": 63.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "pounds",
+      "name": "skirt steaks (about 2 total)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "6",
+      "unit": "cloves",
+      "name": "garlic (finely minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "fresh oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "red wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh flat-leaf parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh oregano leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  green onions",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "cloves",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "crushed red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "red wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "fresh lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "sliced ripe tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (thinly sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the meat in a resealable plastic bag and add the garlic, salt, oregano, vinegar, and olive oil. Seal the bag and mix well. Marinate in the refrigerator for at least 4 hours or up to 8 hours."
+    },
+    {
+      "order": 2,
+      "instruction": "To make the chimichurri sauce: finely mince the parsley, oregano, green onions, and garlic. Combine them in a medium bowl with the red pepper flakes, olive oil, vinegar, and lemon juice. Mix thoroughly and season with salt. This can made up to a day ahead of time."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat the grill to high. Pull the steaks from the marinade and place them on the grill. Dump the remaining marinade over the steaks (a little flare-up is okay!). Grill the steaks for 3 minutes on each side for medium rare. Transfer the steaks to a cutting board and let them rest for 10 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "While the meat is resting, place the tomatoes and red onion in a a medium bowl and add two generous spoonfuls of the chimichurri sauce. Gently toss the tomatoes and onions with the sauce and transfer them to a serving platter."
+    },
+    {
+      "order": 5,
+      "instruction": "Slice the steak across the grain and pile it on top of the tomato salad. Serve with a generous amount of chimichurri sauce (spoon on top before or serve in a bowl)."
+    }
+  ]
+}

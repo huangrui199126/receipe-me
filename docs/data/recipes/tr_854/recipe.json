@@ -1,0 +1,197 @@
+{
+  "id": "tr_854",
+  "title": "Easy Taco Soup",
+  "image": "https://www.recipetineats.com/tachyon/2017/02/Taco-Soup-2.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easy-taco-soup/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "taco soup"
+  ],
+  "nutrition": {
+    "calories": 413,
+    "protein": 37.0,
+    "carbs": 45.0,
+    "fat": 10.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "EACH garlic powder, onion powder and cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "EACH dried oregano and paprika",
+      "emoji": "🌿",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped (brown or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   ground beef ((mince), lean)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400 g/ 14 oz   can black beans (1 can) (, drained and rinsed (Note 2))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14oz   can corn kernels (1 can) (, drained and rinsed)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 4.5 oz   canned green chili ((Note 3))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 28 oz   canned crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "beef broth",
+      "emoji": "🥩",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Shredded cheese ((essential!))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream (or yoghurt (essential!))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh coriander/cilantro leaves or shallots/scallions (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Corn chips",
+      "emoji": "🌽",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Other options: diced avocado, squeeze of lime juice",
+      "emoji": "🥑",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a pot over medium high heat. Add garlic and onion, cook until softened (3 min)."
+    },
+    {
+      "order": 2,
+      "instruction": "Add beef and turn up the heat to high. Cook, breaking it up as you go, until it all changes from pink to brown."
+    },
+    {
+      "order": 3,
+      "instruction": "Add remaining Soup ingredients and Taco Seasoning. Bring to a simmer then turn heat down to medium."
+    },
+    {
+      "order": 4,
+      "instruction": "Simmer for 10 minutes to bring the flavours together. Adjust thickness with water if desired."
+    },
+    {
+      "order": 5,
+      "instruction": "This is how I like to serve it: place a handful of corn chips in the bowl. Ladle in soup. Top with sour cream, cheese, coriander and a few crushed corn chips. For a healthier option, skip the corn chips in the bowl and/or serve more on the top / side of the soup."
+    }
+  ]
+}

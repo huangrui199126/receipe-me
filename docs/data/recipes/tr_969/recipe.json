@@ -1,0 +1,160 @@
+{
+  "id": "tr_969",
+  "title": "Pasta with Creamy Zucchini Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2020/08/Creamy-Zucchini-Pasta-Sauce_3-SQ.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pasta-with-creamy-zucchini-sauce/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "courgette pasta sauce",
+    "pasta with courgette",
+    "pasta with zucchini",
+    "zucchini pasta sauce"
+  ],
+  "nutrition": {
+    "calories": 631,
+    "protein": 18.0,
+    "carbs": 62.0,
+    "fat": 35.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely sliced (brown, white, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 1.2 lb  zucchini ((courgette), grated using standard box grater)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "EACH salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "thickened/heavy cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "chicken or vegetable stock/broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "parmesan (, finely grated using microplane (Note 1 for store bought))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "corn ((canned, drained, about 2/3 of a can, OR fresh))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "300g/ 10oz  spaghetti, fettucini or other long strand pasta ( (I used bucatini))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra finishing options: Handful of fresh basil (stir in at end), sprinkle of bacon or pangrattato",
+      "emoji": "🥓",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a large pot of water to the boil with 1 tablespoon of salt."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook pasta per packet directions MINUS 2 minutes (yes, 2 whole minutes!) - pasta should be a bit too firm in the middle."
+    },
+    {
+      "order": 3,
+      "instruction": "Scoop out a big mug of pasta cook water, set aside (for sauce loosening, just in case), then drain."
+    },
+    {
+      "order": 4,
+      "instruction": "Melt butter in a large skillet or pot over medium high heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Garlic and onion: Add garlic and onion, cook for 1 1/2 minutes until onion is slightly golden."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook Zucchini: Add zucchini, cook for 1 minute. Then add salt and pepper, then stir for 2 minutes until it reduces in volume by about 1/2."
+    },
+    {
+      "order": 7,
+      "instruction": "Add liquids: Stir in cream, chicken stock, parmesan and corn. Bring to simmer, then reduce heat to medium and simmer for 3 minutes. It will still seem watery because water comes out of the zucchini - don&#039;t worry, it cooks down in the next step."
+    },
+    {
+      "order": 8,
+      "instruction": "Toss! Add pasta, then use two wooden spoons to toss well for 2 minutes, or until sauce reduces and is coating the pasta instead of pooling in the skillet. If it gets too thick, add a splash of reserved pasta cooking water. Pasta will finish cooking in this step."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve: Remove from stove, serve immediately, garnished with extra parmesan."
+    }
+  ]
+}

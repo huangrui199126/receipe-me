@@ -1,0 +1,117 @@
+{
+  "id": "tr_294",
+  "title": "Anzac Biscuits (Golden Oatmeal Cookies)",
+  "image": "https://www.recipetineats.com/tachyon/2019/04/Anzac-Biscuits_7-SQ.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/anzac-biscuits-golden-oatmeal-cookies/",
+  "servings": 16,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "anzac biscuits"
+  ],
+  "nutrition": {
+    "calories": 74,
+    "protein": 1.1,
+    "carbs": 14.3,
+    "fat": 1.6
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "plain flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "rolled oats",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "desiccated coconut (, unsweetened)",
+      "emoji": "🥥",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "white sugar (, preferably caster / superfine)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5oz  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "golden syrup ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "baking soda ((bicarbonate soda))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan forced)"
+    },
+    {
+      "order": 2,
+      "instruction": "Line 2 baking trays with baking paper."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix dry: Mix flour, oats, coconut and sugar in a bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Melt butter and golden syrup: Place butter and golden syrup in a saucepan over medium high heat and stir until butter has melted."
+    },
+    {
+      "order": 5,
+      "instruction": "Baking soda: Add baking soda and stir to combine - it will fizz up, this is normal. Immediately remove from heat."
+    },
+    {
+      "order": 6,
+      "instruction": "Biscuit dough - Pour butter mixture into flour and mix until just combined. The mixture will be crumbly but should stick when you press together."
+    },
+    {
+      "order": 7,
+      "instruction": "Form patties - Scrunch / press 1 tablespoon of the mixture into balls, then flatten into patties. (Thinner = crisper, thicker = chewier centre, crispy edges) Place balls, 2.5 cm/1&quot; apart, on prepared trays."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake for 15 minutes, swapping trays halfway during cooking, or until deep golden. (Bake 12 min for chewy biscuits!)"
+    },
+    {
+      "order": 9,
+      "instruction": "Cool to crisp - Stand on trays for 5 minutes. Transfer to a wire rack to cool - they harden as they cool!"
+    }
+  ]
+}

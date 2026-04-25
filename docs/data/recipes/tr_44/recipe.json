@@ -1,0 +1,163 @@
+{
+  "id": "tr_44",
+  "title": "Super Quick Chicken Dinner: Crumbed Chicken with Mashed Potatoes",
+  "image": "https://www.recipetineats.com/tachyon/2014/12/Fast-Crumbed-Chicken-1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/4-ingredient-crunchy-chicken-mashed-potato-cucumber-ribbon-tomato-salad/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 659,
+    "protein": 43.9,
+    "carbs": 64.0,
+    "fat": 26.8
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 13oz   chicken breast minute steaks ((4 pieces x 100g/3oz each) (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "mayonnaise (, preferably whole egg (Note 2))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "parmesan cheese (, grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "panko breadcrumbs ((Note 3))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium potatoes ((Note 4), not peeled)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4 to 1/2 cup milk ((full fat or low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "butter ((optional))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper (, to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large cucumber ((or 2 small cucumbers))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  punnet cherry tomatoes ((or 2 medium tomatoes))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper (, to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Turn grill/broiler on high and place the shelf about 20cm/8\" from the heat source."
+    },
+    {
+      "order": 2,
+      "instruction": "Place potatoes in the microwave and cook on high for 3 minutes. Then turn the potatoes over and cook on high for a further 2 minutes (or until cooked). Squeeze the potatoes to check if they are cooked."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix the mayonnaise and parmesan cheese in a small bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Place the chicken in a large oven proof fry pan (Note 5). Using the back of a spoon, spread the mayonnaise mixture over each chicken breast."
+    },
+    {
+      "order": 5,
+      "instruction": "Sprinkle panko breadcrumbs over each piece of chicken. Use your fingers to pat the panko so it sticks to the chicken. (Note 6)"
+    },
+    {
+      "order": 6,
+      "instruction": "Place chicken under the grill/broiler for 8 minutes, or until just cooked through and the crumbs are golden. Check it once at around 6 minutes and rotate the fry pan if necessary so the crumb cooks evenly all over. When cooked, set aside to rest for a few minutes before serving."
+    },
+    {
+      "order": 7,
+      "instruction": "While the chicken is cooking, get the potatoes out of the microwave (use a dishcloth). Cut each potato in half, then use a dessert spoon to scoop the flesh out into a bowl. Add milk, butter, salt and pepper. Use a potato masher to mash. Add more milk to achieve the desired consistency."
+    },
+    {
+      "order": 8,
+      "instruction": "Salad: Use a potato peeler to make ribbons from the cucumber. Cut the cherry tomatoes in half. Pile the cucumber and cherry tomatoes onto a plate, then drizzle over lemon juice, olive oil and scatter with salt and pepper."
+    },
+    {
+      "order": 9,
+      "instruction": "To Serve: Place mashed potato on each plate then top with the chicken. Drizzle with extra olive oil and garnish with finely chopped fresh parsley, if desired. Serve the Salad on the side."
+    }
+  ]
+}

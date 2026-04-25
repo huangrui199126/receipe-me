@@ -1,0 +1,183 @@
+{
+  "id": "tr_1391",
+  "title": "Marinated Beef Kebabs",
+  "image": "https://www.recipetineats.com/tachyon/2018/07/Beef-Kabobs_5.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/marinated-beef-kabobs/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 8,
+  "tags": [
+    "beef kabobs",
+    "beef kebab",
+    "beef skewers"
+  ],
+  "nutrition": {
+    "calories": 207,
+    "protein": 22.0,
+    "carbs": 7.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "750",
+      "unit": "g",
+      "name": "/ 1.5 lb  rump (picanha), beef tri-tip, sirloin steak or other steak cut (suitable for quick cooking (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  capsicum / bell peppers ((red, yellow green))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large red onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "16  small mushrooms (, 3.25cm / 1.3\" wide)",
+      "emoji": "🍄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "minced garlic ((2 large garlic clove))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "onion powder ((or sub with garlic powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or other neutral flavoured oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "16  flat metal skewers (, 25 - 30cm / 10 - 12\" (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil (, for drizzling and cooking)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley (, garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pink sauce (, pictured in post - Note 4)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon Yogurt Sauce ((this goes well with the flavours here))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the beef into 3.25cm / 1.3&quot; wide cubes."
+    },
+    {
+      "order": 2,
+      "instruction": "Marinade - Mix Marinade in a bowl. Add beef. Marinate for 3 - 24 hours."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut capsicum and onion into 3.25cm / 1.3&quot; wide squares."
+    },
+    {
+      "order": 4,
+      "instruction": "Thread beef (reserve Marinade), vegetables and mushrooms on each skewer. I use 2 pieces of vegetables between each piece of beef. Thread loosely - don&#39;t smush together tightly (helps even cooking)."
+    },
+    {
+      "order": 5,
+      "instruction": "Brush kebabs lightly with Reserved Marinade (including vegetables), then drizzle with olive oil."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook and baste - Heat BBQ or large skillet over high heat. Add 1 tbsp oil, then when smoking, cook kebabs in batches for 2 minutes on each side until slightly charred (4 sides = 8 minutes in total), basting with Reserved Marinade as you go."
+    },
+    {
+      "order": 7,
+      "instruction": "Rest and serve - Transfer to plate, cover loosely with foil and rest for 3 minutes before serving. Garnish with parsley if desired. See note for pictured Pink Dipping Sauce."
+    }
+  ]
+}

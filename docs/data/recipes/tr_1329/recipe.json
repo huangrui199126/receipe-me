@@ -1,0 +1,103 @@
+{
+  "id": "tr_1329",
+  "title": "Thai Dipping Sauce - Nam Jim Jaew",
+  "image": "https://www.recipetineats.com/tachyon/2015/06/Thai-dipping-sauce_Nam-Jim-jaew-0.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/thai-dipping-sauce-nam-jim-jaew/",
+  "servings": 4,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "tamarind puree ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice ((sub 1 1/2 tbsp rice vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar or palm sugar ((shaved))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "hot water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic (, very finely minced with a knife)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "green onion (, very finely minced with a knife)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "eschalots (, very finely minced with a knife (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 2 tsp red Birds Eye chilli or Thai chilli (, deseeded, very finely minced with a knife - OPTIONAL (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix all the ingredients together until the sugar is dissolved."
+    },
+    {
+      "order": 2,
+      "instruction": "Set aside for 30 minutes or longer to let the flavours meld."
+    }
+  ]
+}

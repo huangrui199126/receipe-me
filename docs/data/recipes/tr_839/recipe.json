@@ -1,0 +1,94 @@
+{
+  "id": "tr_839",
+  "title": "Avocado Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2018/06/Quesadillas_9-1.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/avocado-sauce/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "avocado dip",
+    "avocado sauce"
+  ],
+  "nutrition": {
+    "calories": 83,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large (, ripe avocado)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "sour cream or yoghurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  small clove of garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Juice of 1/2 lemon OR 1 lime",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(packed) coriander / cilantro, roughly chopped",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine all ingredients in a food processor, blend until very smooth. (Or use a stick blender). Use water to adjust consistency as required."
+    },
+    {
+      "order": 2,
+      "instruction": "Adjust lemon or lime as required, and add salt to taste (bearing in mind saltiness of the food you are serving it with). Should have a bit of tang if intended to be paired with rich, bold flavoured food like Mexican food."
+    },
+    {
+      "order": 3,
+      "instruction": "Keeps for 4 days in an airtight container - and stays green!"
+    }
+  ]
+}

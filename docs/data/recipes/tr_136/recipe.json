@@ -1,0 +1,179 @@
+{
+  "id": "tr_136",
+  "title": "Fiery Fall Apart Mexican Beef Ribs",
+  "image": "https://www.recipetineats.com/tachyon/2015/02/Mexican-Beef-Short-Ribs-Chipotle-Adobo-Sauce-3.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fall-apart-mexican-beef-ribs/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 150,
+  "tags": [],
+  "nutrition": {
+    "calories": 721,
+    "protein": 89.8,
+    "carbs": 16.6,
+    "fat": 31.7
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Chipotles in Adobo - chipotles and sauce ((about half a 220g/7oz can) (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "28",
+      "unit": "oz",
+      "name": "/ 800g   can crushed tomato ((or tomato passata / tomato puree))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2.4",
+      "unit": "kg",
+      "name": "beef short ribs (, bone in (around 8 pieces, 10oz/300g each) (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "salt (, separated)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  dried bay leaves ((or 5 fresh))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  oranges ((or 1 cup orange juice))",
+      "emoji": "🍊",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C with the shelf in the middle."
+    },
+    {
+      "order": 2,
+      "instruction": "Puree the Chipotles in Adobo with the canned tomato (\"Chipotle Puree\"). (Note 3)"
+    },
+    {
+      "order": 3,
+      "instruction": "Pat the beef dry with a paper towel, then season with 1/2 tbsp salt and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil in a heavy based large fry pan over high heat. Add the beef in batches and sear on all sides until nicely browned, but not cooked through (about 4 minutes in total). Remove into a roasting dish (preferably one with a lid)"
+    },
+    {
+      "order": 5,
+      "instruction": "If the pan is looking dry, add a splash of oil. Add the garlic and sauté for 15 seconds, then add the onion and cook for 3 minutes until the onion is starting to brown."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the Chipotle Puree and all the remaining ingredients into the pan (including the remaining 1/2 tbsp salt). Bring to simmer and scrape the bottom of the pan to mix all the brown bits into the liquid. Cook for 1 minute."
+    },
+    {
+      "order": 7,
+      "instruction": "Pour the liquid into the roasting dish over the ribs."
+    },
+    {
+      "order": 8,
+      "instruction": "Cover with lid (or with foil - use a double layer) and bake in the oven for 1 1/2 hours."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove lid/foil, then return to oven for a further 45 minutes to 1 hour until the beef is \"fall apart\" and the sauce has thickened and darkened."
+    },
+    {
+      "order": 10,
+      "instruction": "Let rest for 5 minutes. Garnish with fresh coriander leaves, then serve with lime wedges on the side."
+    },
+    {
+      "order": 11,
+      "instruction": "I served this with Mexican Green Rice with Corn (recipe below). This would also be great for tacos, burritos, on mashed potato."
+    }
+  ]
+}

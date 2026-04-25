@@ -1,0 +1,163 @@
+{
+  "id": "tr_445",
+  "title": "Pesto pasta salad",
+  "image": "https://www.recipetineats.com/tachyon/2023/03/Pesto-pasta-salad_7-SQ.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pesto-pasta-salad/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "cold pasta salad",
+    "pesto pasta salad",
+    "vegetarian pasta salad"
+  ],
+  "nutrition": {
+    "calories": 663,
+    "protein": 21.0,
+    "carbs": 57.0,
+    "fat": 40.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "/ 12oz  spiral pasta ((fusilli, or other of choice, 3 1/2 cups))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "salt (, for cooking pasta)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "pinenuts (, toasted (sub walnuts, cashews, almonds))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(tightly packed) basil leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parmesan (, finely grated)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "7",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil ((or 50/50 grapeseed/olive oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "mayonnaise ((S&W, else Hellman's, Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "(1 heaped cup)   cherry tomatoes, cut in half",
+      "emoji": "🍅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "220g/ 7 oz  baby bocconcini (, drained, cut in half (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(tightly packed)  baby rocket/arugula leaves (40g)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Small basil leaves (, optional garnish)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook pasta - Bring 3 litres of water to the boil with the salt. Cook for the pasta packet time + 1 minute. Drain in a colander, rinse under cold water. Shake off excess water well, then allow to fully cool and dry."
+    },
+    {
+      "order": 2,
+      "instruction": "Pesto - Place all ingredients in a tall jug just large enough to fit the head of a stick blender. Blitz under pretty smooth. Not a green smoothie, we still want some visible green bits! but not chunks."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss - Place pasta in a bowl, scrape in the pesto. Add mayonnaise then toss well. Add bocconcini and tomato, toss gently just to disperse. Add rocket/arugula and toss just to disperse."
+    },
+    {
+      "order": 4,
+      "instruction": "Serve - Transfer into a serving bowl. Scatter with basil leaves, if using. Serve!"
+    }
+  ]
+}

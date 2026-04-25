@@ -1,0 +1,154 @@
+{
+  "id": "tr_983",
+  "title": "Spring Salad with Goats Cheese",
+  "image": "https://www.recipetineats.com/tachyon/2020/11/Spring-Salad-peas-asparagus-snow-peas-lettuce_5-SQ.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spring-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "asparagus salad",
+    "baby cos lettuce salad",
+    "gem lettuce salad",
+    "pea salad",
+    "snow peas recipe",
+    "spring salad"
+  ],
+  "nutrition": {
+    "calories": 206,
+    "protein": 7.0,
+    "carbs": 12.0,
+    "fat": 15.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "bunches",
+      "name": "(24 spears)  asparagus (, woody ends snapped off (Note 1))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 4oz  snow peas ((about 16 large or 20 smaller ones), trimmed and string removed)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "head",
+      "name": "baby gem or cos lettuce (aka romaine) (washed (16 leaves, Note 2))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "fresh or frozen peas ((Note 3))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "90",
+      "unit": "g",
+      "name": "/ 3oz  goats cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(loosely packed) fresh mint leaves,  (, roughly torn)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "lemon zest ((from 1 lemon))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30ml) lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "(90ml) extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a large pot of water to the boil."
+    },
+    {
+      "order": 2,
+      "instruction": "Add snow peas to pot, boil for 1 1/2 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the asparagus spears, boil for another 1 1/2 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Add frozen peas, and boil for another 30 seconds or until the water just returns to a simmer, and peas turn bright green."
+    },
+    {
+      "order": 5,
+      "instruction": "Immediately drain, refresh vegetables under cold running water until cooled to stop cooking process."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove the asparagus and snow peas, blot with paper towels to dry. Leave peas in colander to drain, giving them a toss now and then to help them dry. (It&#039;s important to dry vegetables, otherwise it dilutes the dressing and it won&#039;t stick. You could use a salad spinner with care, o just let them naturally dry which is easier.)"
+    },
+    {
+      "order": 7,
+      "instruction": "Split the larger baby cos leaves down the middle, use the small ones whole."
+    },
+    {
+      "order": 8,
+      "instruction": "Cut asparagus stems in half on a slight angle."
+    },
+    {
+      "order": 9,
+      "instruction": "Shake Dressing ingredients in a jar."
+    },
+    {
+      "order": 10,
+      "instruction": "Combine vegetables in a bowl, dress and toss."
+    },
+    {
+      "order": 11,
+      "instruction": "Arrange salad on a platter (Note 5). Top with small chunks of goats cheese. Serve immediately!"
+    }
+  ]
+}

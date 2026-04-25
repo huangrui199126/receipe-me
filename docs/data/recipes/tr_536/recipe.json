@@ -1,0 +1,237 @@
+{
+  "id": "tr_536",
+  "title": "Egg Foo Young (Chinese omelette)",
+  "image": "https://www.recipetineats.com/tachyon/2019/02/Egg-Foo-Yung-5-SQ.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/egg-foo-young/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "egg foo young"
+  ],
+  "nutrition": {
+    "calories": 227,
+    "protein": 16.0,
+    "carbs": 7.0,
+    "fat": 15.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "cornflour / corn starch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "light soy sauce (, or all purpose (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Oyster Sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese Cooking Wine  ((shaoxing wine) OR Mirin (Note 3))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 250 ml  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "Dash",
+      "name": "of white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "bean sprouts ((just eyeball it))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  shallots/green onions (, white part only, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and white pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "ONE Filling of Choice, below (Prawn or Pork)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "100 - 120g/3.5 - 4 oz   chopped raw small prawns/shrimp (, peeled and deveined (Note 4))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "100 - 120g/3.5 - 4 oz   ground/mince pork ((or chicken, turkey, beef or veal))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "EACH soy sauce and Oyster Sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "Dash",
+      "name": "of sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds, sliced green onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 20
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix cornflour and soy sauce. Then add remaining ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Pour into a saucepan over medium heat. Bring to simmer, stirring constantly. Simmer for 1 minute until sauce thickens to thin syrup consistency. Remove from stove, set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "MICROWAVE option: Microwave on high for 1 1/2 minutes. Stir very well, microwave for another 1 1/2 minutes until thickened. Mix well again."
+    },
+    {
+      "order": 4,
+      "instruction": "Place pork in a bowl, add remaining ingredients. Use fork to mix through."
+    },
+    {
+      "order": 5,
+      "instruction": "Whisk eggs in a bowl."
+    },
+    {
+      "order": 6,
+      "instruction": "Add beansprouts, green onions, pork or prawns, salt and pepper. If using pork, crumble the raw pork in with fingers (see video). Mix through."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat 1/2 tbsp vegetable oil and drizzle of sesame oil in a non stick skillet over medium heat. Add a bit of garlic and quickly saute (10 seconds) and push into centre of skillet."
+    },
+    {
+      "order": 8,
+      "instruction": "Ladle in 1/4 of batter. Use spatular to push edges in to form a round(ish) shape."
+    },
+    {
+      "order": 9,
+      "instruction": "Cook until the underside is light golden (about 1 1/2 minutes) then flip and cook the other side for 1 minute. The raw meat will cook through in this time. Repeat with remaining egg to make 4 omelettes (use 2 pans if you can!)."
+    },
+    {
+      "order": 10,
+      "instruction": "Slide omelette onto plate. Pour over sauce. Sprinkle with sesame seeds and green onions, if using."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve with a side of rice and steamed vegetables of choice. Double the sauce if you want enough to pour over the rice and veggies! (Click on Servings to scale recipe up)."
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "id": "tr_1926",
+  "title": "Chipotle Mahi Mahi Burrito Bowls with Coconut Cilantro Lime Rice + Spicy Strawberry-Mango Salsa.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/04/Chipotle-Mahi-Mahi-Burrito-Bowls-w-Coconut-Lime-Rice-+-Strawberry-Mango-Salsa.-2.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/chipotle-mahi-mahi-burrito-bowls-w-coconut-lime-rice-strawberry-mango-salsa/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [
+    "chipotle",
+    "fish",
+    "lime",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 695,
+    "protein": 43.0,
+    "carbs": 132.0,
+    "fat": 45.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "wild-caught (skin on, Mahi Mahi)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  whole chipotle chiles (finely minced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "a pinch of salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cup",
+      "name": "uncooked jasmine or basmati rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "light (canned coconut milk)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "coconut water (or water)",
+      "emoji": "🥥",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "chopped fresh cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lime (juiced)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "unsweetened (flaked coconut)",
+      "emoji": "🥥",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "coconut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium size ripe mango (peeled, pitted + diced)",
+      "emoji": "🥭",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "strawberries (chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  jalapeño (seeded + chopped)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lime (juiced)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  [tortilla bowls | https://www.halfbakedharvest.com/crockpot-carnitas-tortilla-burrito-bowl/]",
+      "emoji": "🥄",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "shredded lettuce",
+      "emoji": "🥬",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "cooked black beans",
+      "emoji": "🫘",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  ears of corn on the cob [grilled corn | https://www.halfbakedharvest.com/exactly-how-i-grill-my-corn-chipotle-lime-and-cotija-cheese-butter/]",
+      "emoji": "🧈",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "guacamole",
+      "emoji": "🥄",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "greek yogurt or sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 30
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "shredded cheddar + crumbled cajita cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 31
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "fresh cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 32
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a medium bowl combine the olive oil, chipotle chiles, garlic, smoked paprika, chili powder, cumin, salt, pepper and onion powder. Whisk to combine. Add the mahi mahi and toss well. Cover and place in the fridge while you start the rice."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the coconut milk and coconut water to a medium size pot. Bring to a low boil and then add the rice, salt, unsweetened coconut and coconut oil. Stir to combine, then place the lid on the pot and turn the heat down to the lowest setting possible. Allow the rice to cook ten minutes on low and then turn the heat off completely. Let the rice sit on the stove, covered for another 20 minutes (don't take any peeks inside!). After 20 minutes remove the lid and fluff the rice with a fork. Add the cilantro and lime juice, toss well. Keep warm."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile make the salsa. Add the diced mango, chopped strawberries, cilantro, jalapeño, lime juice, pinch of cayenne and a pinch of salt to a medium bowl. Toss well, cover and keep in the fridge until ready to serve."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat the grill to medium-high heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Once the grill is hot, add the mahi mahi, skin side facing up. Cook about 4-5 minutes and then flip and cook another 4-5 minutes or until crisp and mostly cooked through. Remove from the grill. Remove the skin and either flake with a fork or chop into chunks. This can also be done in a skillet if desired."
+    },
+    {
+      "order": 6,
+      "instruction": "To assemble the bowls divide the rice among 4 tortilla bowls or regular bowls. Add the lettuce, black beans and corn. Divvy up the fish and then top each bowl with salsa, cheese, and a dollop of greek yogurt or sour cream. Eat!"
+    }
+  ]
+}

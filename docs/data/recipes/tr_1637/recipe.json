@@ -1,0 +1,147 @@
+{
+  "id": "tr_1637",
+  "title": "Queso Fundido alla Tequila.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/12/Queso-Fundido-alla-Tequila-5.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/queso-fundido-alla-tequila/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "cheese",
+    "chorizo",
+    "jalapenos"
+  ],
+  "nutrition": {
+    "calories": 1376,
+    "protein": 24.0,
+    "carbs": 14.0,
+    "fat": 39.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  Old El Paso Taco Boats OR flour tortillas (cut into triangles)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "vegetable oil (for frying)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "¼ - ½ pound fresh ground chorizo",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "½  small sweet onion (finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "tequila (may sub water if desired)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "can Old El Paso Chopped Green Chiles (4)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "sharp cheddar cheese (shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "monterey jack cheese (shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoons",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "fruit or tomato salsa (for serving)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "fresh cilantro + jalapenos (for serving)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Add the oil to a large pot (make sure the oil comes 3-4 inches up the side of the pot) and heat to 350 degree F. Add the tortillas/boats a few at a time and fry, turning once with a slotted spoon or tongs, until golden brown, 30 seconds to 1 minute."
+    },
+    {
+      "order": 2,
+      "instruction": "Transfer to paper towels to drain. Sprinkle generously with sea salt and lime zest if desired. Serve warm or at room temperature"
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat the oven to 375 degrees F."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat a 10-inch skillet over medium high heat. Add the chorizo and brown all over. Slide the chorizo out of the skillet and onto a plate. Drain off any grease from the chorizo."
+    },
+    {
+      "order": 5,
+      "instruction": "Toss together the cheeses and flour. Set aside."
+    },
+    {
+      "order": 6,
+      "instruction": "To the skillet add the olive oil and onion. Cook 3-4 minutes or until the onion is soft and fragrant. Stir in the chopped green chiles and carefully add the tequila. Cook until the tequila is reduced by half. Remove from the heat, stir in the cheese, which will begin to melt as you add it. Next, add the chorizo to the top of the skillet, discarding any grease on the plate."
+    },
+    {
+      "order": 7,
+      "instruction": "Place the skillet in the oven and bake for 10-15 minutes or until the cheese has melted and begins to bubble."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve immediately with fresh cilantro, jalapenos and salsa. Use the chips for dipping!"
+    }
+  ]
+}

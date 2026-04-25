@@ -1,0 +1,95 @@
+{
+  "id": "tr_1294",
+  "title": "Whole Egg, Bacon and Avocado Quesadilla",
+  "image": "https://www.recipetineats.com/tachyon/2015/09/Egg-Bacon-Avocado-Quesadilla_680px_1_hero.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/whole-egg-bacon-and-avocado-quesadilla/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  rashers of streaky bacon (, chopped)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  flour tortillas ((Note 1))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large avocado (, halved and sliced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "grated cheese ((I used cheddar))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat a skillet over high heat. Add the bacon and cook until cooked to your liking. Remove bacon onto a paper towel lined plate."
+    },
+    {
+      "order": 2,
+      "instruction": "Drain excess fat from the skillet and wipe away/scrape off any black bits. Return to the stove over medium heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Place a tortilla in the skillet. Place avocado slices around the rim of half the tortilla and thinner slices across the middle to form a \"ring\" to hold the egg - as per the photo below. Squish the pieces close together to seal them so egg does not leak."
+    },
+    {
+      "order": 4,
+      "instruction": "Crack an egg into the centre, sprinkle with bacon, cheese and season with salt and pepper. Fold the tortilla over and cook for 4 minutes or until golden and crisp. I usually cook 2 in the skillet."
+    },
+    {
+      "order": 5,
+      "instruction": "Flip, turning over the folded edge (i.e. slide the flip under the curved edge and flip over the folded edge). Cook the other side for 3 minutes or until golden and crisp. Remove from the skillet. Repeat with remaining tortillas."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve immediately, while hot!"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "tr_981",
+  "title": "5 Ingredient Chocolate Peanut Butter Bars (NO BAKE!)",
+  "image": "https://www.recipetineats.com/tachyon/2015/06/Chocolate-Peanut-Butter-Bars_5.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/5-ingredient-peanut-butter-chocolate-bars-no-bake/",
+  "servings": 16,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "peanut butter bars"
+  ],
+  "nutrition": {
+    "calories": 248,
+    "protein": 4.9,
+    "carbs": 21.9,
+    "fat": 16.7
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "115",
+      "unit": "g",
+      "name": "/ 1/2 cup / 1 US stick  melted salted butter ((or unsalted butter + 1/4 tsp salt))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "crushed Arnott's Marie crackers (11 crackers) or graham cracker crumbs (8 crackers) (Note 1)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "icing sugar / powdered sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "peanut butter ((smooth))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dark chocolate chips - the melting kind ((US: semi sweet) (Note 2))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "peanut butter ((smooth))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Butter and line a 8\" / 20cm square dish or pan with baking paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the Base ingredients in a bowl and mix until combined. Press into the prepared pan."
+    },
+    {
+      "order": 3,
+      "instruction": "Melt the Topping ingredients (I do it in the microwave in 2 x 30 second bursts). Pour and spread over the Base - smooth the top or do swirls (see photos for examples of each)."
+    },
+    {
+      "order": 4,
+      "instruction": "Refrigerate until set - about 1 1/2 hours. Remove from fridge, allow to come to room temp slightly (so top cuts neatly). Cut into 16 squares (or whatever shape you want!).&nbsp;Best served at room temperature."
+    }
+  ]
+}

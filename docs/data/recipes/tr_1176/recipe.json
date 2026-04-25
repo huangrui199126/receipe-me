@@ -1,0 +1,125 @@
+{
+  "id": "tr_1176",
+  "title": "Taco Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2018/11/Taco-Sauce_0a.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/taco-sauce/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "taco sauce"
+  ],
+  "nutrition": {
+    "calories": 268,
+    "protein": 10.0,
+    "carbs": 60.0,
+    "fat": 2.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500ml   tomato passata / puree OR 1 can (16 ounce) US tomato sauce ( (Note 1))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "/  185 ml   water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  + teaspoon cayenne pepper ((adjust heat to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place all ingredients in a saucepan. Mix then simmer for 10 minutes on medium low."
+    },
+    {
+      "order": 2,
+      "instruction": "Transfer to serving bowl, cool and serve with tacos or other Mexican dishes requiring a sauce. Makes around 2.5 cups."
+    },
+    {
+      "order": 3,
+      "instruction": "Or cool, then refrigerate for up to 5 days OR freeze."
+    }
+  ]
+}

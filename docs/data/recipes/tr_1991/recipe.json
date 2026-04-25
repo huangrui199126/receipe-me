@@ -1,0 +1,224 @@
+{
+  "id": "tr_1991",
+  "title": "Brussels Sprout + Avocado Winter Rolls with Grapefruit Hoisin Dipping Sauce",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2013/12/Brussels-Sprout-+-Avocado-Winter-Rolls-with-Grapefruit-Hoisin-Dipping-Sauce-17.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/brussels-sprout-avocado-winter-rolls-grapefruit-hoisin-dipping-sauce/",
+  "servings": 12,
+  "prepTime": 30,
+  "cookTime": 15,
+  "tags": [
+    "avocado",
+    "brussel sprouts",
+    "hoisin",
+    "spring rolls"
+  ],
+  "nutrition": {
+    "calories": 156,
+    "protein": 4.0,
+    "carbs": 42.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "fresh ginger (grated or minced)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "brussels sprouts (stems removed and thinly sliced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large carrot (chopped into matchsticks)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red pepper (sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lime (juiced)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "curry powder (I like to use spicy yellow curry powder)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "zest of half a grapefruit",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  green onions (chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "bunch",
+      "name": "fresh cilantro or basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "cooked vermicelli noodles",
+      "emoji": "🍜",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2  large avocado's (sliced thin)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  package rice paper wrappers (you will not use them all (but I like to have extra wrappers incase I mess up a few))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "hoisin",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "freshly squeezed grapefruit juice (about half a large grapefruit)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoon",
+      "name": "creamy peanut butter (or can sub almond butter)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "sweet thai chili sauce",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "crushed red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "the zest of half a grapefruit (or more to your liking)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To make the sauce. Add the grapefruit juice, hoisin, peanut butter, sweet thai chili sauce and crushed red pepper flakes to a small sauce pot. Bring the mixture to a boil, reduce the heat and simmer for 5-10 minutes until the sauce has thickened and reduced slightly. Remove from the heat and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "To make the rolls. Heat a large skillet over medium heat. Add the sesame oil and once hot add the garlic and ginger, cooking till fragrant, about 30 seconds - 1 minute. Add the shaved or shredded brussels and saute for about 5 minutes, until the sprouts are just tender. Add the carrot, red pepper, soy sauce, lime juice, curry powder and pepper. Toss well and cook anther 2 minutes. Remove from the heat and add the grapefruit zest. Toss and set aside to cool slightly."
+    },
+    {
+      "order": 3,
+      "instruction": "To assemble the rolls gather up the veggie mixture, sliced avocado, cilantro (or basil), the cooked cooked vermicelli noodles and the rice paper wrappers. Create an assembly line of ingredients, so they are all ready to go. Fill a shallow dish with warm water. Add a rice paper sheet, one at a time for 5 to 10 seconds. Remove and place on a flat surface, the rice paper will become more workable as it soaks up water. Towards one end of the rice wrapper, layer the 2 to 3 leaves of cilantro (or basil), vermicelli noodles, the brussels spouts, carrots and peppers, sliced avocado, and green onions. Fold both ends to the center and roll the sheet as tightly as you can without ripping. Continue with remaining sheets until all the filling has been used. Serve the rolls with the dipping sauce."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "tr_888",
+  "title": "Mango pancakes",
+  "image": "https://www.recipetineats.com/tachyon/2023/02/Mango-pancakes-cut-open.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mango-pancakes/",
+  "servings": 10,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [
+    "mango pancakes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk (, full fat)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "plain flour ((all-purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "icing sugar / powdered sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs ((55-60g/2oz each))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "yellow food colouring ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Canola oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large ripe mangoes (, skin peeled with a knife, cut into 10 to 12 pieces (7 x 2.5 x 1 cm, 3 x 1 x 1/2&quot;))",
+      "emoji": "🥭",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "thickened/heavy cream (, fridge cold)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "icing sugar / powdered sugar (, sifted)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Batter - Place the milk in a bowl. Sift the flour, cornflour and icing sugar in then whisk until lump free. Add eggs and food colouring, whisk until combined. It will be a very thin, watery batter."
+    },
+    {
+      "order": 2,
+      "instruction": "Refrigerate for 1 hour. (Note 3)"
+    },
+    {
+      "order": 3,
+      "instruction": "Measure batter - Give the batter a mix (to stir in flour settled at bottom) then measure out 45 ml (3 tbsp) of crepe batter."
+    },
+    {
+      "order": 4,
+      "instruction": "Non-stick pan - Use a 18cm/7&quot; non-stick pan (Note 4). Spray lightly with oil then heat over a medium low stove."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook pancake - Pour the batter into the middle - it should sizzle very lightly - then swirl to cover the base in a thin layer. Cook for 45 seconds to 1 minute or until the middle is set to touch. About halfway through cooking, start loosening the edges with a rubber spatula to ensure it flips out easily."
+    },
+    {
+      "order": 6,
+      "instruction": "Flip the crepe out upside down onto a large cutting board. GOAL: Surface is set, underside has no golden patches. (Note 5) Adjust heat as needed."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook more! Spray pan with oil then continue cooking the pancakes. You can flip them out on top of each other."
+    },
+    {
+      "order": 8,
+      "instruction": "Cool - Full cool the crepes for 1 hour before using."
+    },
+    {
+      "order": 9,
+      "instruction": "Cream - Just before assembling, place the cream, icing sugar and vanilla in a cold bowl and beat until stiff (about 2 minutes on speed 8 of a 10 speed hand mixer)."
+    },
+    {
+      "order": 10,
+      "instruction": "Filling - Place a crepe on a work surface so the side that was in contact with the pan is facing up. (Note 6) Spread 1cm/1/3&quot; thick layer of cream one-third of the way up the pancake, in the shape of a piece of mango. Top with mango."
+    },
+    {
+      "order": 11,
+      "instruction": "Roll, burrito style (see step photos or video), ending with the seam-side down. Repeat with remaining pancakes."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve immediately! Mango pancakes wait for no-one (due to the cream)."
+    }
+  ]
+}

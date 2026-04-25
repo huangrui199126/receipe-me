@@ -1,0 +1,174 @@
+{
+  "id": "tr_800",
+  "title": "Extra Fluffy Blueberry Pancakes",
+  "image": "https://www.recipetineats.com/tachyon/2019/01/Blueberry-Pancakes_8.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fluffy-blueberry-pancakes/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "blueberry pancakes",
+    "fluffy pancakes"
+  ],
+  "nutrition": {
+    "calories": 186,
+    "protein": 4.0,
+    "carbs": 29.0,
+    "fat": 5.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(225g)   blueberries (, fresh or frozen (don&#39;t thaw) (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Butter for pan",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "baking soda ((aka bi carbonate soda/bi-carb) (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  melted butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "milk (, any fat % or non dairy)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white vinegar ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Softened butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Maple syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Whisk Dry ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Add Wet ingredients, whisk until just incorporated. Stir through blueberries."
+    },
+    {
+      "order": 3,
+      "instruction": "Melt about 1 tsp butter in a non stick skillet over medium high heat (medium if strong stove)."
+    },
+    {
+      "order": 4,
+      "instruction": "Dollop a heaped 1/4 cup into the skillet, quickly nudge into a circle about 10 - 12 cm / 4-5\" wide (smaller = thicker). (Note 4)"
+    },
+    {
+      "order": 5,
+      "instruction": "Cook for 1 1/2 minutes until a few bubbles appear and underside is mostly golden."
+    },
+    {
+      "order": 6,
+      "instruction": "Flip with confidence. Cook a further 1 minute - poke centre, should spring back, underside should be golden."
+    },
+    {
+      "order": 7,
+      "instruction": "Transfer to rack and keep warm in 100C/200F oven in single layer (do not stack). Or get 2 pans going (won't need to keep warm)"
+    },
+    {
+      "order": 8,
+      "instruction": "Repeat with remaining batter, using extra butter as required."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve with copious amounts of maple syrup and softened butter."
+    }
+  ]
+}

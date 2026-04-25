@@ -1,0 +1,175 @@
+{
+  "id": "tr_137",
+  "title": "Mexican Fried Rice",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Mexican-Fried-Rice-1-1.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mexican-fried-rice/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, diced (white or brown))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red bell pepper / capsicum (, diced (about 1 cup))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "tinned black beans ((drained))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "tinned corn kernels ((drained) (or frozen corn))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "cooked rice ((see notes))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Optional: 1 1/2 cups protein ((chicken, pork, beef), shredded or diced)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "enchilada sauce ((see notes))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "chilli powder ((or to taste))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine the Sauce ingredients in a small bowl and mix."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat the oil in a pan over high heat. Add garlic and cook for 10 seconds until fragrant."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the onion and bell pepper and cook until the onion becomes translucent - about 2 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "If you are using uncooked protein, add it and sauté until just cooked through."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the black beans and corn. If you are using cooked proteins (like shredded cooked chicken) add it at the same time. Cook for 1 minute just to heat through."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the rice and Sauce and stir quickly to coat the rice evenly."
+    },
+    {
+      "order": 7,
+      "instruction": "Check seasoning and add more salt if you require it. Amount of salt required depends on the saltiness of the enchilada sauce you are using."
+    },
+    {
+      "order": 8,
+      "instruction": "Season with black pepper and serve immediately."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "tr_207",
+  "title": "Enchilada Sauce - Classic",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/Enchilada-Sauce_no-text-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/enchilada-sauce/",
+  "servings": 3,
+  "prepTime": 3,
+  "cookTime": 12,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "flour (all purpose / plain)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 24oz  tomato passata (1 bottle) or 16 oz (2 cans) US tomato sauce",
+      "emoji": "🍅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "chicken broth, low sodium (or vegetable broth, or water + bouillon cube)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Optional extras: cayenne pepper (for spiciness), ground chipotle",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a saucepan over medium heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Add flour and whisk until well combined, about 1 minute."
+    },
+    {
+      "order": 3,
+      "instruction": "Add remaining ingredients except salt and pepper, whisk, bring to boil, then reduce to simmer."
+    },
+    {
+      "order": 4,
+      "instruction": "Simmer for 10 minutes or so, until thickened, whisking occasionally."
+    },
+    {
+      "order": 5,
+      "instruction": "Season with salt and pepper."
+    },
+    {
+      "order": 6,
+      "instruction": "This can be stored for up to 1 week in the refrigerator in an airtight container. It also freezes well."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "tr_494",
+  "title": "One Pot Chicken Alfredo Pasta",
+  "image": "https://www.recipetineats.com/tachyon/2017/03/One-Pot-Chicken-Alfredo-2.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pot-chicken-alfredo-pasta/",
+  "servings": 3,
+  "prepTime": 2,
+  "cookTime": 13,
+  "tags": [],
+  "nutrition": {
+    "calories": 491,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7oz chicken breast, cut in half horizontally",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz fettuccine",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "milk, any fat %",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "chicken stock / broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "thickened / heavy cream (Note 1)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "freshly grated parmesan (Note 2)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley, for garnish",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sprinkle both sides of the chicken with salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Use a skillet large enough to fit the pasta."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil over medium high heat. Add chicken and cook for 2 minutes on each side until golden and cooked through. Remove onto plate and rest for 5 minutes, then slice while pasta is cooking."
+    },
+    {
+      "order": 4,
+      "instruction": "Add milk, chicken broth and garlic. Bring to simmer then add pasta."
+    },
+    {
+      "order": 5,
+      "instruction": "Move pasta around every 30 seconds or so until it is softened (around 3 minutes) so it doesn't stick.&nbsp;Once pasta is softened, reduce heat to medium and stir every couple of minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "At about 9 - 10 minutes, the pasta should be almost cooked but there should still be liquid covering the base of the skillet. Add cream and parmesan and mix.&nbsp;"
+    },
+    {
+      "order": 7,
+      "instruction": "Simmer, stirring occasionally, for ~2 minutes, until sauce is thickened and pasta is cooked. If you cook it too long and the sauce goes gluggy, add a splash of hot tap water - will go back to silky with a few tosses."
+    },
+    {
+      "order": 8,
+      "instruction": "Adjust salt and pepper to taste and serve immediately, garnished with freshly grated parmesan and parsley!"
+    }
+  ]
+}

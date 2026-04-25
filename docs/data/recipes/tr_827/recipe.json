@@ -1,0 +1,110 @@
+{
+  "id": "tr_827",
+  "title": "Garlic cheese pizza",
+  "image": "https://www.recipetineats.com/tachyon/2023/05/Garlic-cheese-pizza_9.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/garlic-cheese-pizza/",
+  "servings": 1,
+  "prepTime": 10,
+  "cookTime": 8,
+  "tags": [
+    "cheese pizza",
+    "garlic pizza"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  classic pizza dough ((wood-fired Italian style))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  fast no-yeast pizza dough ((this is excellent!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Store bought",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "garlic ((2 - 3 large cloves), crushed using garlic press or make paste using side of knife - Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((or table salt, or double qty for salt flakes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "mozzarella cheese ((tightly packed cup), shredded using box grater (Note 3 on pre-shredded))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parmesan ((tightly packed cup), shredded using box grater (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 250°C / 480°F (230°C fan). Allow time to get it nice and hot!!"
+    },
+    {
+      "order": 2,
+      "instruction": "Garlic infused oil - Mix olive oil and garlic in a small bowl. Set aside to infuse with flavour for 10 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Pizza base - Make and roll out chosen pizza base, stretch onto pan."
+    },
+    {
+      "order": 4,
+      "instruction": "Top - Spread oil (and all garlic) onto the base, leaving the crust baked. Sprinkle with salt, parmesan then mozzarella. (If using no-yeast base, spray/brush exposed crust with olive oil.)"
+    },
+    {
+      "order": 5,
+      "instruction": "Bake 8 minutes, turning after 4 minutes, or until the the cheese has golden spots. Cut and eat, stat!"
+    }
+  ]
+}

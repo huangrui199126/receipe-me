@@ -1,0 +1,133 @@
+{
+  "id": "tr_1420",
+  "title": "Chocolate Mousse",
+  "image": "https://www.recipetineats.com/tachyon/2018/09/Chocolate-Mousse_9.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chocolate-mousse/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 0,
+  "tags": [
+    "chocolate mousse"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 7.0,
+    "carbs": 27.0,
+    "fat": 26.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs ((~55g/2 oz each))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 4.5 oz   70% cocoa chocolate or bittersweet chocolate, (, break or cut into small 1 cm / 0.2&quot; pieces (Note 1))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "10",
+      "unit": "g",
+      "name": "/ 0.3 oz  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cream (, full fat (Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "caster sugar ((superfine white sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "More whipped cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chocolate shavings ((Note 3))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "For reliable results, work at a steady pace so your whipped egg whites and cream do not get too warm!"
+    },
+    {
+      "order": 2,
+      "instruction": "Separate eggs and yolks while eggs are cold. Place whites in a large bowl and yolks in a small bowl. Leave whites while you prepare other ingredients. (Note 4)"
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk yolks until uniform."
+    },
+    {
+      "order": 4,
+      "instruction": "Melt chocolate and butter - Place chocolate in a microwave-proof bowl with the butter. Melt in the microwave in 20 second bursts, stirring in between, until smooth. (Stir in optional flavourings at this point, but read Note 6 first). Set aside to cool slightly while you proceed with other steps - we want it at room temperature but still pourable."
+    },
+    {
+      "order": 5,
+      "instruction": "Whip cream - Beat cream until stiff peaks form, being careful not to over-whip (see video)."
+    },
+    {
+      "order": 6,
+      "instruction": "Whip whites - Clean the whisks. Add sugar into the egg whites bowl. Beat until firm peaks form. GOAL - flopping &quot;elf hat&quot;! (see video and Note 5 for what this means)."
+    },
+    {
+      "order": 7,
+      "instruction": "Yolks and cream - Fold egg yolks into cream using a rubber spatula - 8 folds max. Some streaks is fine."
+    },
+    {
+      "order": 8,
+      "instruction": "Check chocolate temperature - The chocolate should be cooled to room temperature but still runny (minimum 35°C / 95°F; ideal 40°C / 104°F). If too cool or thick, microwave in burst of 5 seconds at a time until runny."
+    },
+    {
+      "order": 9,
+      "instruction": "Chocolate into cream - Pour chocolate into cream yolk mixture. Fold through - 8 folds max. Some streaks here are ok."
+    },
+    {
+      "order": 10,
+      "instruction": "Fold in egg whites - Add 1/4 of beaten egg whites into chocolate mixture. Fold through until incorporated - &quot;smear&quot; the spatular across surface to blend white lumps in - aim for 10 folds."
+    },
+    {
+      "order": 11,
+      "instruction": "Pour chocolate mixture into egg whites. Fold through until incorporated and no more white lumps remain - aim for 12 folds max, but ensure there are no obvious egg white patches."
+    },
+    {
+      "order": 12,
+      "instruction": "Chill in fridge - Divide mixture between 4 small glasses or pots. Refrigerate for at least 6 hours, preferably overnight."
+    },
+    {
+      "order": 13,
+      "instruction": "To serve, garnish with cream and chocolate shavings. Raspberries and a tiny sprig of mint for colour would also be lovely!"
+    }
+  ]
+}

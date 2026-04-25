@@ -1,0 +1,85 @@
+{
+  "id": "tr_1681",
+  "title": "Peanut Butter, Apple and Cheddar Croissants Sammies with Granola.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/09/Fall-Harvest-Peanut-Picnic-a-Family-Hike-110.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/fall-harvest-peanut-picnic-a-family-hike/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "apple",
+    "cheddar",
+    "croissants",
+    "granola",
+    "peanut butter"
+  ],
+  "nutrition": {
+    "calories": 457,
+    "protein": 11.0,
+    "carbs": 21.0,
+    "fat": 18.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "slice",
+      "name": "[homemade | https://www.halfbakedharvest.com/homemade-croissants-step-step-photos/] or store-bought croissants (in half)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "6",
+      "unit": "tablespoons",
+      "name": "apple butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6-12 tablespoons [Smucker's Organic Natural Chunky Peanut Butter | http://www.smuckersnaturalpeanutbutter.com/?utm_source=halfbakedharvest&amp;utm_medium=blogpost&amp;utm_campaign=mand]",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  honeycrisp or pink lady apples (thinly sliced)",
+      "emoji": "🍯",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "sharp cheddar cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "peanut granola (for topping (recipe below this one))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Spread the bottom of each croissant with apple butter and then spread 1 tablespoon peanut butter over the butter. Add a slice of cheddar cheese and a few thinly sliced apples. Sprinkle with granola."
+    },
+    {
+      "order": 2,
+      "instruction": "Spread the remaining tablespoon of peanut butter on the top half of the croissant and place over the granola. Serve or wrap tightly in plastic wrap for up to 1 day.*"
+    }
+  ]
+}

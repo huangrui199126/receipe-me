@@ -1,0 +1,175 @@
+{
+  "id": "tr_823",
+  "title": "Blueberry Bread Loaf",
+  "image": "https://www.recipetineats.com/tachyon/2016/06/Blueberry-Lemon-Loaf_34-SQ.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/blueberry-lemon-loaf/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 75,
+  "tags": [
+    "blueberry cake",
+    "blueberry loaf bread",
+    "blueberry recipes"
+  ],
+  "nutrition": {
+    "calories": 377,
+    "protein": 5.0,
+    "carbs": 60.0,
+    "fat": 14.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1 3/4",
+      "unit": "cups",
+      "name": "flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "white sugar (, preferably caster/superfine)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "plain yoghurt ((preferably not low fat))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs  (, 55 - 60g / 2oz each)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lemon zest ((1 large or 2 small lemons))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "canola oil ((or vegetable, grapeseed oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "frozen or fresh blueberries ((no need to defrost))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "soft icing sugar / powdered sugar (, sifted)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 tbsp milk (, if needed)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/390°F (180°C fan forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Line loaf pan: Butter and line a loaf pan with parchment / baking paper. I used a 21 x 11 x 7 cm pan (8.3 x 4.5 x 2.75&quot;) which makes a nice tall loaf."
+    },
+    {
+      "order": 3,
+      "instruction": "Coat blueberries: Toss blueberries in flour (less flour sticks if dry, more if frozen). This helps keep them suspended in the batter."
+    },
+    {
+      "order": 4,
+      "instruction": "Whisk Dry ingredients in a bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Add Wet ingredinets: Make a well in the Dry ingredients. Add Wet ingredients. Whisk until incorporated."
+    },
+    {
+      "order": 6,
+      "instruction": "Fold in blueberries: Fold in blueberries, including any flour remaining in the blueberry bowl."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake: Pour into the prepared tin. Bake for 50 minutes, then cover with foil. Bake for a further 15 - 25 minutes, or until a skewer comes out clean. Check after 15 minutes, then if the skewer comes out with batter on it, bake a further 10 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Cool: Rest for 5 minutes then turn onto a cooling rack and completely cool. Drizzle with Glaze. Wait until the glaze sets (about 20 minutes) before slicing to serve."
+    },
+    {
+      "order": 9,
+      "instruction": "Whisk icing sugar and lemon until smooth, using milk only if needed to achieve the right thickness (Note 3). Pour or spread over cake set on a rack over a baking tray. Scrape glaze drippings on the tray back onto the cake."
+    }
+  ]
+}

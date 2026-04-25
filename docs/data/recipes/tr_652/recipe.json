@@ -1,0 +1,138 @@
+{
+  "id": "tr_652",
+  "title": "Chinese Noodle Soup",
+  "image": "https://www.recipetineats.com/tachyon/2016/06/Chinese-Noodle-Soup-SQ.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-noodle-soup/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "asian soup broth",
+    "chinese noodle soup"
+  ],
+  "nutrition": {
+    "calories": 352,
+    "protein": 31.0,
+    "carbs": 39.0,
+    "fat": 10.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "chicken stock/broth, low sodium ((Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, smashed (Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.5 cm / 1/2&quot;  ginger piece,  (cut into 3 slices (optional, but highly recommended))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "light soy sauce (, or normal all purpose soy sauce (Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sugar ((any))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "chinese cooking wine ((Note 4))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4 - 1/2 tsp sesame oil (, toasted (optional) (Note 5))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "180",
+      "unit": "g",
+      "name": "/ 6oz  fresh egg noodles ((Note 6))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large bok choy or other vegetables of choice ((use any blanchable veg - Note 7))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded cooked chicken ((or other protein of choice))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion / shallot (, green part only finely sliced (optional garnish))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Broth ingredients in a saucepan over high heat. Place lid on, bring to simmer then reduce to medium and simmer for 8 - 10 minutes to allow the flavours to infuse."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, cook noodles according to packet directions."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut bok choys in half (for small / medium) or quarter (for large). Wash thoroughly."
+    },
+    {
+      "order": 4,
+      "instruction": "Either cook the bok choi in the broth in the soup broth OR noodle cooking water for 1 min (if noodles required boiling)."
+    },
+    {
+      "order": 5,
+      "instruction": "Pick garlic and ginger out of soup."
+    },
+    {
+      "order": 6,
+      "instruction": "Place noodles in bowls. Top with chicken and bok choy. Ladle over soup, garnish with green onions. Great served with chilli paste or fresh chillis."
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": "tr_401",
+  "title": "Chicken Burrito",
+  "image": "https://www.recipetineats.com/tachyon/2020/02/Chicken-Burritos_2.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-burrito/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [
+    "burrito recipe",
+    "chicken burrito"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 49.0,
+    "carbs": 72.0,
+    "fat": 23.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  tortillas (, flour (approx 20cm/8&quot; wide))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "each onion powder, dried oregano, salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "each dried cumin powder, paprika",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cayenne pepper ((optional, adjust to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 1.2 lb  chicken breast (, sliced in half horizontally (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red capsicum/bell pepper (, diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/14oz  refried beans (, canned (Note 2))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2.5",
+      "unit": "cups",
+      "name": "white rice (, plain (cooked, Note 3))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2.5",
+      "unit": "cups",
+      "name": "Mexican Red Rice ((the best for Burritos!))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/14oz  canned corn (, drained (or 280g/9oz frozen thawed))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "(150g)  cheese (, shredded (Mexican blend, cheddar, tasty, Montery Jack))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander/cilantro (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Avocado sauce",
+      "emoji": "🥑",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salsa ((restaurant style, smooth))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Burrito Seasoning - Mix Seasoning ingredients. Drizzle 1 tbsp oil over chicken, mix to coat. Sprinkle with Seasoning, toss to coat."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook chicken - Heat 1 tbsp oil in a large skillet over high heat. Add chicken, cook 2 minutes. Turn and cook 1.5 minutes. Remove, rest 2 minutes then chop."
+    },
+    {
+      "order": 3,
+      "instruction": "Saute onion - In the same skillet, add onion and garlic, cook 1 minute. Add capsicum, cook 2 minutes until onion is translucent."
+    },
+    {
+      "order": 4,
+      "instruction": "Finish Filling - Add refried beans, diced chicken and water. Stir and cook for 2 minutes until reduces slightly. Should be thick and juicy, not watery and not dry/stodgy! Let cool 5 minutes - will thicken."
+    },
+    {
+      "order": 5,
+      "instruction": "Gently warm tortillas in microwave (makes them pliable), lay on work surface."
+    },
+    {
+      "order": 6,
+      "instruction": "Place rice on lower third, top with Chicken Filling, corn, cheese then sprinkle with coriander. Fold up, burrito style."
+    },
+    {
+      "order": 7,
+      "instruction": "Toasting: Either pan fry over medium high heat (no oil) for 2 minutes each side to make tortilla crispy and melt cheese a bit OR wrap tightly in foil and bake in oven 10 minutes at 180°C/350°F."
+    },
+    {
+      "order": 8,
+      "instruction": "Dunk in sauce(s) of choice or douse with hot sauce of choice, and devour! Suggestions: Avocado Sauce, Guacamole, sour cream, Restaurant Style Salsa, Queso, Nacho Cheese Dip."
+    },
+    {
+      "order": 9,
+      "instruction": "Freezer friendly! Note 4 for directions."
+    }
+  ]
+}

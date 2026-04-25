@@ -1,0 +1,102 @@
+{
+  "id": "tr_945",
+  "title": "Quick Cheesy Garlic Bread",
+  "image": "https://www.recipetineats.com/tachyon/2019/01/Cheesy-Garlic-Bread_3.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/quick-cheesy-garlic-bread/",
+  "servings": 8,
+  "prepTime": 5,
+  "cookTime": 25,
+  "tags": [
+    "cheesy garlic bread",
+    "garlic cheese bread"
+  ],
+  "nutrition": {
+    "calories": 267,
+    "protein": 10.0,
+    "carbs": 25.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bread loaf approx 30cm/12\" long ((Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 1/2 cup   unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced (~ 3 tsp))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 2.5 cups (200 - 250g)   mozzarella cheese, grated (Note 2)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley (, for sprinkling (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 160C/320F."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix butter with garlic and salt."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut bread in half horizontally."
+    },
+    {
+      "order": 4,
+      "instruction": "Drizzle with garlic butter all over - don't miss any patches!"
+    },
+    {
+      "order": 5,
+      "instruction": "Bake 20 minutes until bread is crispy on the edges."
+    },
+    {
+      "order": 6,
+      "instruction": "Crank oven up to 200C/390F. Top with cheese, bake 7 - 10 min until cheese is melted and bubbly."
+    },
+    {
+      "order": 7,
+      "instruction": "Sprinkle with parsley if using, cut bread into pieces. Serve immediately as a side for meals, dunking in soups and stews!"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": "tr_629",
+  "title": "New Orleans Chicken Wings",
+  "image": "https://www.recipetineats.com/tachyon/2024/11/New-Oreleans-chicken-wings_1.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/new-orleans-chicken-wings/",
+  "servings": 4,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "baked chicken wings",
+    "chicken wings recipe",
+    "creole food",
+    "louisiana food",
+    "new orleans food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1.25",
+      "unit": "kg",
+      "name": "/ 2.5 lb  chicken wings cut up ((wingettes &amp; drumettes, Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed using garlic press (or very finely mince using knife))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "roughly chopped coriander/cilantro or parsley (, or sliced green onion (for sprinkling, optional))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "brown sugar ((tightly pack the tablespoons else you&#39;ll be short))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tsp",
+      "name": "paprika ((regular/sweet))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Toss wings in spice mix in 2 batches, then garlic butter. Bake at 200°C/390°F (180°C fan) for 45-50 min, basting at 30 min, 40 min and the end."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat the oven to 200°C/390°F (180°C fan-forced). Line a large tray with foil then baking paper (you&#39;ll thank me later!)."
+    },
+    {
+      "order": 3,
+      "instruction": "Seasoning - Mix the butter and garlic in a small bowl. Mix the Creole seasoning in a separate small bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Toss - Put the wings in a large bowl. Sprinkle over half the seasoning, toss (hands is best), sprinkle with remaining seasoning then toss again until all the wings are evenly coated. Pour over the garlic butter and toss."
+    },
+    {
+      "order": 5,
+      "instruction": "Spread the wings out on the tray, skin-side up. They should be in a single layer with a bit of space in between (Note 3 about crowding the tray)."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake for 45 - 50 minutes, basting the wings with the tray juices at the 30 minute and 40 minute mark, until the wings are golden. (Note 3 if tray juices remain watery)"
+    },
+    {
+      "order": 7,
+      "instruction": "Remove tray from the oven. Baste generously again, transfer the wings onto a serving plate, pour over every drop of the tray juices."
+    },
+    {
+      "order": 8,
+      "instruction": "Enjoy! Sprinkle with greenery of choice, grab and sink your teeth in. Weep with joy!"
+    }
+  ]
+}

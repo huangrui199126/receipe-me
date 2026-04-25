@@ -1,0 +1,455 @@
+{
+  "id": "tr_1249",
+  "title": "8 simple Italian Pasta Recipes",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/Pasta1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/quick-easy-pasta-recipes/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "pasta dishes",
+    "pasta recipes",
+    "quick pasta recipes"
+  ],
+  "nutrition": {
+    "calories": 468,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 lb/500 g   dried spaghetti ((or other long pasta))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  garlic cloves (, sliced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "red chilli flakes",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "21",
+      "unit": "oz",
+      "name": "/ 600g   crushed tinned tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "chilli flakes",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "anchovies (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "red chilli flakes",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  brown onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "14 oz/400g   crushed tinned tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "red chilli flakes",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6 oz/ 180g   thinly sliced guanciale (, or diced pancetta or bacon)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "24 oz/800g   fresh cherry tomatoes (, halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh basil (, lightly packed)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  brown onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "28",
+      "unit": "oz",
+      "name": "/ 800g   crushed tinned tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh basil (, lightly packed)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 30
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 31
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "14 oz/400g   crushed tinned tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 32
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "red chilli flakes",
+      "emoji": "🥄",
+      "section": "",
+      "order": 33
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 oz/100g   black sliced olives",
+      "emoji": "🥄",
+      "section": "",
+      "order": 34
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "capers",
+      "emoji": "🥄",
+      "section": "",
+      "order": 35
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 36
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 37
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 38
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  brown onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 39
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "14 oz/400g   crushed tinned tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 40
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5 oz/150g   tinned tuna",
+      "emoji": "🐟",
+      "section": "",
+      "order": 41
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 42
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook 1lb/500g of dried spaghetti (or any other long dried pasta) in a large pot of salted boiling water per packet MINUS 1 minute."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, prepare one of the sauces below."
+    },
+    {
+      "order": 3,
+      "instruction": "When pasta is ready, scoop out 1 cup of pasta cooking water, and drain pasta."
+    },
+    {
+      "order": 4,
+      "instruction": "Add pasta into chosen sauce with 3/4 cup pasta cooking water.&nbsp;Toss pasta until sauce thickens and sticks to pasta (called \"emulsifying\" the sauce), 1 - 2 minutes.&nbsp;Use more pasta water if needed to loosen sauce."
+    },
+    {
+      "order": 5,
+      "instruction": "Season with salt and pepper to taste. Finish pasta per chosen recipe."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat oil over medium high heat. Add garlic and cook until golden - be careful not to burn it. &nbsp;"
+    },
+    {
+      "order": 7,
+      "instruction": "Toss with pasta and cooking water per Base Directions. Toss through parsley and chilli flakes, serve with parmesan."
+    },
+    {
+      "order": 8,
+      "instruction": "Heat oil over medium high heat. Add garlic, stir until fragrant, then add the tinned tomatoes and chilli flakes, simmer on medium for 5 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Toss with pasta and cooking water per Base Directions. Toss through parsley and serve with parmesan."
+    },
+    {
+      "order": 10,
+      "instruction": "Heat oil over medium high heat. Add garlic and anchovies, stir until the garlic is fragrant and the anchovies have melted.&nbsp;"
+    },
+    {
+      "order": 11,
+      "instruction": "Toss with pasta and cooking water per Base Directions. Toss through parsley and chilli flakes, and serve with parmesan."
+    },
+    {
+      "order": 12,
+      "instruction": "Heat oil over medium high heat. Add the garlic, onion and guanciale (or pancetta or bacon) and cook until the onion has softened and the guanciale &nbsp;is golden."
+    },
+    {
+      "order": 13,
+      "instruction": "Add the tinned tomatoes and chilli flakes and bring to rapid simmer. Toss with pasta and cooking water per Base Directions. Serve with parmesan."
+    },
+    {
+      "order": 14,
+      "instruction": "Heat oil over medium high heat. Add garlic and cook&nbsp;until fragrant, add tomato and cook briefly, just to warm through.&nbsp;"
+    },
+    {
+      "order": 15,
+      "instruction": "Toss with pasta and cooking water per Base Directions. Toss through basil, serve with parmesan."
+    },
+    {
+      "order": 16,
+      "instruction": "Heat oil over medium high heat. Add garlic and cook until fragrant, then add the onion and cook until softened. Then add tinned tomatoes and 1/2 cup water, simmer 5 minutes.&nbsp;"
+    },
+    {
+      "order": 17,
+      "instruction": "Toss with pasta and cooking water per Base Directions. Toss through basil and serve with parmesan."
+    },
+    {
+      "order": 18,
+      "instruction": "Heat oil over medium high heat. Add garlic and cook until fragrant, then add tinned tomatoes, chilli flakes, olives, capers and 1/2 cup water. Simmer 3 minutes."
+    },
+    {
+      "order": 19,
+      "instruction": "Toss with pasta and cooking water per Base Directions. Toss through parsley and serve with parmesan."
+    },
+    {
+      "order": 20,
+      "instruction": "Heat oil over medium high heat. Add garlic and cook until fragrant. Add the onion and cook until softened, then add the tinned tomatoes and 1/2 cup water. Simmer 3 minutes, then add the tuna.&nbsp;"
+    },
+    {
+      "order": 21,
+      "instruction": "Toss with pasta and cooking water per Base Directions. Toss through parsley. Seafood pasta typically not served with parmesan but you can if you want!"
+    }
+  ]
+}

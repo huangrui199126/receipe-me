@@ -1,0 +1,177 @@
+{
+  "id": "tr_1255",
+  "title": "Chicken Brine",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/Chicken-Brine_3.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-brine-recipe/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 60,
+  "tags": [
+    "brine for chicken",
+    "brine for turkey",
+    "chicken brine",
+    "how to brine chicken",
+    "juicy roast chicken"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 63.0,
+    "carbs": 5.0,
+    "fat": 17.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "litres",
+      "name": "/ 2 quarts  water (, cold tap water)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "kosher or cooking salt, NOT table salt ((Note 1))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  lemons (, quartered)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "10",
+      "unit": "sprigs",
+      "name": "parsley (, fresh )",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "7",
+      "unit": "sprigs",
+      "name": "thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "sprigs",
+      "name": "rosemary",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  bay leaves, fresh ((or 3 dried))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  garlic cloves, (smashed (Note 3))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "black peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.5 - 2 kg / 3-4lb  chicken (, whole)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "/ 40g  butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper to season",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pour about 1/3 of the water into a large pot (large enough for the brine and submerged chicken) with remaining Brine ingredients. Bring to boil boil 1 minute, stir to dissolve salt."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove from heat, pour in remaining water. Cool completely before using (I cool about 30 min then refrigerate 1 1/2 hours). DO NOT put chicken in before full cool, this is a health hazard (Note 4)."
+    },
+    {
+      "order": 3,
+      "instruction": "Flip chicken upside down (so legs and breast are on underside. Submerge chicken in brine, cover and refrigerate for 12 - 24 hours (Note 5). Don&#x27;t worry if underside of chicken doesn&#x27;t stay under water - the the breast side is, that is what matters."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove chicken from brine and pat dry to remove excess moisture."
+    },
+    {
+      "order": 5,
+      "instruction": "Tie legs with string (if desired), tuck wings under. Drizzle/brush with most of the butter all over, including underside (butter will firm up on contact)."
+    },
+    {
+      "order": 6,
+      "instruction": "Sprinkle with pepper and the TINIEST pinch of salt, place chicken on a rack in a heavy based roasting tray. Set aside for 20 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Preheat fan forced oven to 220°C/430°F."
+    },
+    {
+      "order": 8,
+      "instruction": "Turn down the oven to 180°C/350°F, then roast chicken for 50 minutes to 1 hour (Note 7) or until the internal temperature at the joint between the leg and thigh is 75°C/165°F, or until juices run clear."
+    },
+    {
+      "order": 9,
+      "instruction": "Check at 45 minutes, rotate the pan if not browning evenly, and brush top with remaining melted butter."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove chicken from the roasting tray, cover loosely with foil and rest for 10 to 15 minutes."
+    },
+    {
+      "order": 11,
+      "instruction": "Chicken is so juicy, it needs little more than a tiny drizzle of the juices in the pan (go easy, it&#x27;s salty). Otherwise, make a gravy while the chicken is resting - see Note 8."
+    }
+  ]
+}

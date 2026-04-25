@@ -1,0 +1,139 @@
+{
+  "id": "tr_1151",
+  "title": "Chicken in White Wine Cream Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2016/07/Chicken-with-Bacon-White-Wine-Cream-Sauce_4.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-chicken-in-white-wine-sauce/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 75,
+  "tags": [],
+  "nutrition": {
+    "calories": 659,
+    "protein": 66.9,
+    "carbs": 7.0,
+    "fat": 31.1
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2.5",
+      "unit": "lb",
+      "name": "/ 1.2 kg   chicken pieces (, bone in thigh &amp; drumsticks are ideal (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "/ 15g / 0.5 oz  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion ((brown, white, yellow), finely chopped (~1 cup))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "5",
+      "unit": "oz",
+      "name": "/ 150 g   bacon (, diced)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500 ml   dry white wine ((Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 250 ml  chicken broth / stock or water",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fresh thyme leaves ((or 1 tsp dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "/ 185 ml   cream ((pouring or heavy cream, but not low fat cream))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Season chicken with salt and pepper. Heat oil in an ovenproof skillet (with lid) over high heat. Add chicken skin side down and cook until golden brown, then turn and cook the other side for 1 minute. Remove chicken from skillet. Drain excess fat from skillet (do not wipe)."
+    },
+    {
+      "order": 3,
+      "instruction": "Reduce heat to medium high. Melt butter then add garlic and onion. Cook for 3 minutes until softened, then add bacon. Cook until golden."
+    },
+    {
+      "order": 4,
+      "instruction": "Add wine. Bring to simmer, scraping the bottom of the skillet to mix the brown bits into the liquid. Simmer for 2 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Add chicken broth, thyme and return chicken to the skillet, skin side up. Cover with lid or foil, then transfer to the oven. Bake for 60 minutes, covered, then remove the lid and bake for a further 15 minutes to recrisp the skin. The chicken should be very tender."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove chicken or move to side. Stir cream into sauce and season with salt and pepper to taste."
+    },
+    {
+      "order": 7,
+      "instruction": "Garnish with plenty of parsley. Serve with creamy mashed potatoes. Mine are pictured with Glazed Carrots."
+    }
+  ]
+}

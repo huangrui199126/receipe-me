@@ -1,0 +1,215 @@
+{
+  "id": "tr_37",
+  "title": "Hummus with Lamb",
+  "image": "https://www.recipetineats.com/tachyon/2014/08/Hummus-with-Lamb-3-1.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/hummus-lamb/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 325,
+    "protein": 19.1,
+    "carbs": 34.0,
+    "fat": 13.3
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250 g   ground lamb ((mince))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  brown onion (, finely diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "coriander powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "paprika powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "cinnamon powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "15",
+      "unit": "oz",
+      "name": "/ 400 g   tin chickpeas (, drained)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Juice of ½ a small lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tahini ((sesame paste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "pine nuts",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra virgin olive oil ((for drizzling))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place a pan over medium high heat. Add pine nuts and toast until golden. Remove pine nuts from pan and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Return pan to stove (still on medium high heat) and add olive oil."
+    },
+    {
+      "order": 3,
+      "instruction": "Add onion and cook until translucent (2 minutes). Then turn up the heat to high, add mince, spices and salt. Cook, breaking up the mince into small pieces, until browned and cooked through (3 minutes)."
+    },
+    {
+      "order": 4,
+      "instruction": "Set aside and cover so it doesn't dry out. Bring it to room temperature."
+    },
+    {
+      "order": 5,
+      "instruction": "Place all ingredients except salt in a food processor or blender and process until smooth."
+    },
+    {
+      "order": 6,
+      "instruction": "Taste before adding salt and pepper. Different brands of chick peas have different levels of saltiness. Also adjust acidity with lemon juice, if required."
+    },
+    {
+      "order": 7,
+      "instruction": "Use water to adjust the consistency to a tomato sauce (ketchup) like consistency. This consistency is \"proper\" hummus. In the Middle East, hummus is not the thick consistency that is typical of store bought hummus in Western countries, it is thinner."
+    },
+    {
+      "order": 8,
+      "instruction": "Spread hummus on a plate, using the back of a spoon to create \"swirls\"."
+    },
+    {
+      "order": 9,
+      "instruction": "Top with lamb mince, scatter over the pine nuts and sprinkle with parsley. Finish with a drizzle of olive oil."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve with pita bread."
+    }
+  ]
+}

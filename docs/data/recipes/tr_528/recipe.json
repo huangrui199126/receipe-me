@@ -1,0 +1,182 @@
+{
+  "id": "tr_528",
+  "title": "Chinese Beef and Broccoli",
+  "image": "https://www.recipetineats.com/tachyon/2015/03/Chinese-Beef-and-Broccoli_3.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-beef-and-broccoli-extra-saucy-take-out-style/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "beef and broccoli",
+    "beef broccoli recipe"
+  ],
+  "nutrition": {
+    "calories": 392,
+    "protein": 43.5,
+    "carbs": 16.7,
+    "fat": 18.3
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cornstarch / cornflour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dark soy sauce ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "light soy sauce ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine ((Shaoxing wine) (Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "Chinese five spice powder ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil (optional)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "tsp black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "12",
+      "unit": "oz",
+      "name": "/ 360g   beef fillet, flank or rump ((Note 4 for tenderising option))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove, finely chopped",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fresh ginger, finely chopped",
+      "emoji": "🫚",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 - 5 cups broccoli florets  ((1 head), cooked (Note 5))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds (optional)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place cornflour and water in bowl then mix. Add remaining Sauce ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Slice the beef into 1/4\" / 0.5cm thick slices. Place the beef and 2 tbsp of the Sauce into a bowl and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a skillet over high heat. Add beef and spread out, leave for 1 minute until browned.&nbsp;"
+    },
+    {
+      "order": 4,
+      "instruction": "Stir beef for 10 seconds, then add garlic and ginger. Stir for another 30 seconds or until beef is no longer pink."
+    },
+    {
+      "order": 5,
+      "instruction": "Pour Sauce and water into the skillet and quickly mix."
+    },
+    {
+      "order": 6,
+      "instruction": "When the sauce starts bubbling, add broccoli. Stir to coat the broccoli in Sauce, then let it simmer for 1 minute or until Sauce is thickened."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove from heat immediately and serve over rice. Sprinkle with sesame seeds if desired."
+    }
+  ]
+}

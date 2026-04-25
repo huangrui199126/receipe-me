@@ -1,0 +1,220 @@
+{
+  "id": "tr_498",
+  "title": "Mexican Ground Beef Casserole with Rice (Beef mince!)",
+  "image": "https://www.recipetineats.com/tachyon/2019/09/Mexican-Ground-Beef-Casserole-with-Rice_0.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mexican-ground-beef-casserole-with-rice/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "beef mince and rice",
+    "beef mince recipes",
+    "ground beef recipes",
+    "ground beef rice casserole"
+  ],
+  "nutrition": {
+    "calories": 715,
+    "protein": 45.0,
+    "carbs": 73.0,
+    "fat": 28.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "(1 lb)  ground beef ((mince), lean)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cup",
+      "name": "long grain white rice (, uncooked (Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2.5",
+      "unit": "cups",
+      "name": "(625 ml)  chicken broth/stock (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "(14oz)  can corn kernels (, drained (Note 2))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "(14oz)  can black beans (, drained (or other beans))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  capsicum/bell pepper (, diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "green onions/shallots",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(200g)  cheese (, shredded (anything that melts! Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "cayenne pepper ((Note 4))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large pot over high heat. Add garlic and onion, cook 1 1/2 minutes until onion is translucent."
+    },
+    {
+      "order": 2,
+      "instruction": "Add beef and cook, breaking it up as you go, until you no longer see raw meat (about 2 minutes)."
+    },
+    {
+      "order": 3,
+      "instruction": "Add Mexican Spices and cook for 30 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Add capsicum and cook for 1 minute."
+    },
+    {
+      "order": 5,
+      "instruction": "Add tomato paste and broth, stir to mix in."
+    },
+    {
+      "order": 6,
+      "instruction": "Add rice, corn and black beans."
+    },
+    {
+      "order": 7,
+      "instruction": "Stir, bring to simmer then cover and lower heat to medium low (simmering gently). Cook 15 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove lid, quickly stir through green onion and HALF the cheese."
+    },
+    {
+      "order": 9,
+      "instruction": "Smooth top then sprinkle on remaining cheese. Cover and leave for 1 minute just to melt cheese."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove from stove and serve immediately, garnished with more green onion if desired."
+    }
+  ]
+}

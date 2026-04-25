@@ -1,0 +1,198 @@
+{
+  "id": "tr_1564",
+  "title": "Mediterranean Chicken and Farro Salad.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/06/Mediterranean-Chicken-and-Farro-Salad-4.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/mediterranean-chicken-and-farro-salad/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [
+    "chicken",
+    "farro"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 38.0,
+    "carbs": 37.0,
+    "fat": 28.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fresh chopped oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "crushed red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "juice of 2 lemons",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "pounds",
+      "name": "boneless skinless (chicken breast or tenders)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dry farro",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cherry tomatoes (halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "kalamata olives (pitted)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "pepperoncini (chopped)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "can cannelini beans (drained + rinsed, 14)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "jar marinated artichokes (drained, 8)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "fresh mozzarella (torn OR bocconcini (mozz balls))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "jar roasted red peppers (16, or 2 roasted red peppers)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "oil packed sun-dried tomatoes",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "toasted almonds or pine nuts",
+      "emoji": "🥜",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large gallon size zip-top bag, combine the ingredients for the chicken and toss to combine. Seal and chill at least 1 hour or up to 12 hours."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, cook the farro according to package directions and then add the cooked farro to a large bowl. Add the cherry tomatoes, olives, pepperoncini, cannelini beans, artichokes and mozzarella. Gently toss to combine. Add a spoonful or two of the roasted red pepper sauce and toss."
+    },
+    {
+      "order": 3,
+      "instruction": "Set your grill, grill pan or skillet to medium-high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Grill the chicken until lightly charred and cooked through, turning occasionally throughout cooking, about 10 to 12 minutes total. Transfer to a cutting board and allow to rest 5 minutes, then slice into thin strips against the grain. Add the chicken to the farro and serve with the remaining roasted red pepper sauce (see below). Garnish the salad with a large handful of arugula. Serve."
+    },
+    {
+      "order": 5,
+      "instruction": "Combine all the ingredients in a blender or food processor. Add 3 tablespoons of the oil from the sun-dried tomato jar and then pulse to combine until the sauce is mostly smooth. Store in a glass jar in the fridge for up to one week."
+    }
+  ]
+}

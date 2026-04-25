@@ -1,0 +1,102 @@
+{
+  "id": "tr_1225",
+  "title": "Lightly Sweet 'n Salty CRISPY Butter Popcorn",
+  "image": "https://www.recipetineats.com/tachyon/2020/11/Slightly-sweet-and-salty-popcorn_square.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/slightly-sweet-salty-butter-popcorn-keep-crispy/",
+  "servings": 13,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "butter popcorn",
+    "stovetop popcorn"
+  ],
+  "nutrition": {
+    "calories": 65,
+    "protein": 1.0,
+    "carbs": 7.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "popping corn",
+      "emoji": "🌽",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "clarified butter or ghee (, or oil, for stovetop popcorn(Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "salt ((you won&#039;t use it all, Note 2))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "clarified butter or ghee (, melted (Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Popcorn Salt ((per directions below))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "icing sugar / powdered sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pop the kernels using your method of choice - either popcorn maker or stove (see next section)"
+    },
+    {
+      "order": 2,
+      "instruction": "Heat fat: Melt clarified butter in a large pot over medium high heat (medium for strong stoves). Add a few kernels of popcorn and wait until they pop - this means the oil is now hot enough. Quickly remove test popcorn."
+    },
+    {
+      "order": 3,
+      "instruction": "Add popcorn: Add remaining popcorn, lift pot off stove to shake and spread corn out evenly. Cover with a lid and return to heat. Once the popping really gets going, shake the pot gently once."
+    },
+    {
+      "order": 4,
+      "instruction": "Done! Remove from heat when the popping largely stops (3 seconds between pops) and transfer to a (very!) large bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Place salt in a mortar and pestle then grind into a fine powder. You could also do this using a spice grinder. You won&#039;t use it all, but it&#039;s harder to work with a smaller quantity than this."
+    },
+    {
+      "order": 6,
+      "instruction": "Drizzle melted clarified butter all over the popcorn surface. Sprinkle with half the salt, then use small sieve to dust with half the icing sugar."
+    },
+    {
+      "order": 7,
+      "instruction": "Toss very well in large bowl. Then sprinkle with remaining salt and dust with remaining icing sugar. Toss well again. At this stage you can add more sugar or salt, to your taste. The above quantities make it slightly salty and lightly sweet which to me is the perfect balance!"
+    }
+  ]
+}

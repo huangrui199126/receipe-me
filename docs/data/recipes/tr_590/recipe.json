@@ -1,0 +1,282 @@
+{
+  "id": "tr_590",
+  "title": "Goan Fish Curry",
+  "image": "https://www.recipetineats.com/tachyon/2020/10/Goan-Fish-Curry_6-SQ.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/goan-fish-curry-indian/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [
+    "fish curry",
+    "goan fish curry"
+  ],
+  "nutrition": {
+    "calories": 484,
+    "protein": 34.0,
+    "carbs": 15.0,
+    "fat": 35.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "Kashmiri chilli powder ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "turmeric",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "fenugreek powder ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/8",
+      "unit": "tsp",
+      "name": "ground cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "6",
+      "unit": "cloves",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh ginger (, finely grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tamarind puree ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "water ((plus more, as needed))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black mustard seeds ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, cut in half again (like a quartered orange) and thinly sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "canned tomato pulp/polp ((Mutti), OR tomato passata or crushed tomato, Note 5))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400ml/ 14oz  coconut milk (, full fat (Note 6))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "salt (, cooking/kosher (or 3/4 tsp fine table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "chilli powder ((pure chilli, not US Chili Powder which is a mix, Note 7))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  long green chillies (, cut into half lengthwise and deseeded, optional (Note 8))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  tomato (, cut into 8 wedges then into 2.5cm / 1\" chunks)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 1.2 lb  firm-fleshed white fish (, cut into 3cm / 1.25&quot; cubes (Note 9))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely sliced green chillies (, optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Basmati rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 26
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Curry Paste ingredients in a tall jug or milkshake container (something that fits the head of a blender stick) then blitz on high for 5 to 10 seconds until the onion is pureed. Add more water if needed to make it puree."
+    },
+    {
+      "order": 2,
+      "instruction": "Sizzle black mustard seeds: Heat oil over medium heat in a large pot. Add black mustard seeds and let them sizzle for 30 seconds - careful, they might pop!"
+    },
+    {
+      "order": 3,
+      "instruction": "Saute onion: Add red onion and cook for 3 minutes until edges start to tinge with gold."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook off curry paste: Add curry paste and cook for 3 minutes - to evaporate water, make spices bloom and cook garlic &amp; ginger."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook off tomato: Turn heat up to medium high. Add tomato paste and tomato pulp, cook for 2 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Coconut milk: Add water, coconut milk, sugar, salt and chilli powder if using. Stir, then bring to simmer, low heat so it&#039;s bubbling gently."
+    },
+    {
+      "order": 7,
+      "instruction": "Simmer 2 minutes, add tomato &amp; green chilli: Simmer for 2 minutes, add tomato and green chilli."
+    },
+    {
+      "order": 8,
+      "instruction": "Simmer 3 minutes: Simmer for another 3 minutes, stirring every now and then - sauce should be thickened (not watery), it gets looser again when fish is added (because fish will drop some juices = even more flavour!)."
+    },
+    {
+      "order": 9,
+      "instruction": "Add fish: Add fish, stir, cook for 3 to 4 minutes until fish easily flakes."
+    },
+    {
+      "order": 10,
+      "instruction": "Garnish &amp; serve: Remove from stove and transfer to serving bowl. Garnish with coriander/cilantro and fresh green chillies if desired. Serve with basmati rice!"
+    }
+  ]
+}

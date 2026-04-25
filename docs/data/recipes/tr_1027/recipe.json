@@ -1,0 +1,206 @@
+{
+  "id": "tr_1027",
+  "title": "Garlic Shrimp Mac and Cheese (Prawns)",
+  "image": "https://www.recipetineats.com/tachyon/2018/12/Shrimp-Mac-and-Cheese_7.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/shrimp-mac-and-cheese/",
+  "servings": 6,
+  "prepTime": 7,
+  "cookTime": 15,
+  "tags": [
+    "prawn pasta bake",
+    "shrimp mac and cheese"
+  ],
+  "nutrition": {
+    "calories": 558,
+    "protein": 32.0,
+    "carbs": 44.0,
+    "fat": 27.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   peeled shrimp/prawns ((Note 1))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3.5 tbsp  unsalted butter (, divided)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "/ 30g  flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500ml  milk (, preferably warmed (Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2.5",
+      "unit": "cups",
+      "name": "hot tap water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz  elbow macaroni (, uncooked (2.5 cups))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "(150g)  cheese ((Cheddar, gruyere, or other), freshly grated (Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(75g)  mozzarella cheese (, freshly grated (Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "panko breadcrumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "grated parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat broiler/grill on high."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix together Breadcrumb Topping."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil and melt 1 tbsp butter in a large, deep skillet or heatproof pot on the stove over high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Add shrimp, sprinkle with pepper, then cook for 1 minute. Add garlic and cook for another minute until the shrimp has changed colour but not fully cooked."
+    },
+    {
+      "order": 5,
+      "instruction": "Transfer to bowl. Turn heat down to medium."
+    },
+    {
+      "order": 6,
+      "instruction": "Melt remaining butter. Add flour and cook for 1 minute."
+    },
+    {
+      "order": 7,
+      "instruction": "Pour milk in slowly, stirring as you go. Once incorporated and lump free (use whisk if needed), stir in Seasonings, then water."
+    },
+    {
+      "order": 8,
+      "instruction": "Once the liquid is hot, add macaroni. Cook for 8 minutes, stirring regularly, until macaroni is almost cooked through, then take it off the stove."
+    },
+    {
+      "order": 9,
+      "instruction": "Add cheeses and stir through, then add shrimp. Taste for salt - tweak if needed. It should be saucy (see video) - it gets absorbed. Should still be saucy at this stage - sauce gets absorbed/thickens more in next step."
+    },
+    {
+      "order": 10,
+      "instruction": "Sprinkle over breadcrumbs, then place under the hot grill for just 2 - 3 minutes until the top is golden."
+    },
+    {
+      "order": 11,
+      "instruction": "Sprinkle with parsley if desired and served immediately!"
+    }
+  ]
+}

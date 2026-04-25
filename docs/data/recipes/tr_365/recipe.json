@@ -1,0 +1,249 @@
+{
+  "id": "tr_365",
+  "title": "Homemade Chicken Noodle Soup (from scratch!)",
+  "image": "https://www.recipetineats.com/tachyon/2017/05/Chicken-Noodle-Soup-from-scratch_3.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/homemade-chicken-noodle-soup-from-scratch/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 100,
+  "tags": [
+    "homemade chicken noodle soup"
+  ],
+  "nutrition": {
+    "calories": 277,
+    "protein": 22.0,
+    "carbs": 32.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1.8",
+      "unit": "kg",
+      "name": "/ 3.5 lb  whole chicken (, rinsed and cleaned, the best quality you can afford (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "head",
+      "name": "of garlic (, cut in half horiztonally)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  carrots (, cut into chunks)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  celery ribs (, cut into chunks)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  onions (, peeled and cut into quarters)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "black peppercorns",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  bay leaves (, fresh or dried)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  thyme sprigs ((or 1 1/2 tsp dried thyme leaves))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "9 - 10 cups water ((enough to just cover chicken))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium carrots (, cut in quarters lengthwise then chopped)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  celery ribs (, cut into 1 cm/ 1/2\" thick pieces)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "shredded chicken ((from homemade broth))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "litres",
+      "name": "/ 2 quarts  homemade chicken broth ((above))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200 g/ 6 oz  egg noodles or pasta of choice ((Note 3))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tsp Vegeta  or other stock powder ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  thyme sprigs (, optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bay leaf (, optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley (, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the chicken in a large pot. Add remaining Broth ingredients, then add enough water so the chicken is just covered (too much water = weak broth).&nbsp;"
+    },
+    {
+      "order": 2,
+      "instruction": "Cover with lid, bring the water to a gentle simmer over medium heat. Then adjust heat so it's simmering GENTLY with the lid on. Simmer 1.5 hours until chicken is tender and easily comes off the bone. (Or 8 hours on low in a slow cooker)"
+    },
+    {
+      "order": 3,
+      "instruction": "Scoop scum off surface once or twice during first 30 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Transfer chicken to pan. Shred meat and discard bones. You&#39;ll only need half the chicken meat, save the rest for another purpose."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove carrots, celery etc from broth, and discard. Optional: Chop carrot and celery, add back into soup with chicken. (Note 5)"
+    },
+    {
+      "order": 6,
+      "instruction": "Optional: Refrigerate soup for a few hours until the fat sets, then scoop the fat off the surface (I do this, healthier &amp; makes soup clearer)."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat oil in a large pot over medium meat. Add onion and garlic, cook for 2 minutes. Add celery and carrots, cook for 5 minutes until softened and a bit sweet, don't let them brown."
+    },
+    {
+      "order": 8,
+      "instruction": "Turn heat up to medium high. Gently pour 8 cups broth in (top up with water if necessary), leaving behind residue settled in the bottom of the broth pot.&nbsp;"
+    },
+    {
+      "order": 9,
+      "instruction": "Add Vegeta (stock powder), thyme, bay leaf and pepper. Stir."
+    },
+    {
+      "order": 10,
+      "instruction": "When it starts bubbling, add noodles/pasta. Cook for time per packet MINUS 2 minutes. Stir gently only once or twice (Note 6)."
+    },
+    {
+      "order": 11,
+      "instruction": "Add half the chicken, stir (it warms quickly), then season with salt and pepper to taste - season well!"
+    },
+    {
+      "order": 12,
+      "instruction": "Serve soup immediately, garnished with fresh parsley."
+    }
+  ]
+}

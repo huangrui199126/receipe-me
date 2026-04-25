@@ -1,0 +1,206 @@
+{
+  "id": "tr_1011",
+  "title": "Prawn Risotto (Shrimp)",
+  "image": "https://www.recipetineats.com/tachyon/2018/05/Prawn-Risotto_0.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/prawn-risotto-shrimp/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "prawn risotto",
+    "shrimp risotto"
+  ],
+  "nutrition": {
+    "calories": 511,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 – 2   tbsp olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400 – 500g (14oz – 1 lb)  prawns/shrimp, raw, peeled (Note 1)",
+      "emoji": "🦐",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "(20g)  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "(85 ml)  dry white wine ((or water))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(270g)  Arborio rice (, uncooked (Note 2))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "(750ml)  chicken broth (, low sodium, at room temp)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(250 ml)  milk (, room temp (full or low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(150g)  frozen peas (, thawed)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "(40g)  grated parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 – 2 tbsp (15 – 30g)    Extra Butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Grated parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat 1 tbsp oil in a large heavy based pot over medium high heat. Spread half the prawns in a single layer, sprinkle with salt and pepper. Cook for 1 ½ minutes, then turn and cook the other side for 1 minute. Remove into bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Add a touch more oil and repeat with remaining prawns. Set aside and keep warm."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn heat down to medium. Melt butter in pot then add onion and garlic. Cook for 2 minutes until translucent."
+    },
+    {
+      "order": 4,
+      "instruction": "Add wine, and stir, scraping the bottom of the pot to mix the brown bits from the prawn into the liquid. Bring to simmer and cook for 2 minutes until harsh alcohol smell is gone."
+    },
+    {
+      "order": 5,
+      "instruction": "Add rice and stir for 30 seconds until rice is translucent on edges."
+    },
+    {
+      "order": 6,
+      "instruction": "Add about 2/3 of the chicken broth. Stir, bring to simmer. Adjust heat so it’s simmering gently."
+    },
+    {
+      "order": 7,
+      "instruction": "Simmer for 5 minutes. Stir, then simmer for a further 2 minutes until broth is mostly absorbed and rice is visible on the surface (see video and photos)."
+    },
+    {
+      "order": 8,
+      "instruction": "Add remaining broth and milk. Stir, simmer for 3 minutes. Stir, simmer for 2 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Risotto should be soupy and rice still a tiny bit undercooked."
+    },
+    {
+      "order": 10,
+      "instruction": "Add peas and parmesan, quickly stir."
+    },
+    {
+      "order": 11,
+      "instruction": "Taste, then add salt and pepper, then quickly stir."
+    },
+    {
+      "order": 12,
+      "instruction": "Add Extra Butter, then stir vigorously for 10 seconds (this is the step that makes it very creamy)."
+    },
+    {
+      "order": 13,
+      "instruction": "Lastly, gently stir through prawns (tip in any juices too)."
+    },
+    {
+      "order": 14,
+      "instruction": "Remove risotto from heat, it should be porridge-like. (Note 3, see video) To loosen, add hot tap water 2 tbsp at time and stir through."
+    },
+    {
+      "order": 15,
+      "instruction": "Give it a good final stir just before serving. Then ladle into bowls (it should ooze a bit, not be sticky lump). Garnish with parmesan and parsley if desired."
+    }
+  ]
+}

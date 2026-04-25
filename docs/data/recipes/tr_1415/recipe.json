@@ -1,0 +1,71 @@
+{
+  "id": "tr_1415",
+  "title": "Herbes de Provence",
+  "image": "https://www.recipetineats.com/tachyon/2026/03/Herbs-de-Provence_2.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/herbes-de-provence/",
+  "servings": 5,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "french herb mix",
+    "french spice mix",
+    "herbs de provence"
+  ],
+  "nutrition": {
+    "calories": 7,
+    "protein": 0.2,
+    "carbs": 2.0,
+    "fat": 0.2
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "dried rosemary ((Note 1))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dried marjoram (or savory) ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried organo",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Finely chop if needed - If any of the leaves are especially large (rosemary and thyme can be), finely chop them with a knife or use a spice grinder. You will get more flavour out of them."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix the dried herbs then use per recipe."
+    },
+    {
+      "order": 3,
+      "instruction": "Store in an airtight jar in a cool, dry pantry for up to 3 months (or the shelf life of the herbs you used)."
+    }
+  ]
+}

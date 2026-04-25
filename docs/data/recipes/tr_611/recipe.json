@@ -1,0 +1,131 @@
+{
+  "id": "tr_611",
+  "title": "Honey Soy Wings",
+  "image": "https://www.recipetineats.com/tachyon/2022/11/Honey-Soy-Wings_7.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/honey-soy-wings/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 60,
+  "tags": [
+    "baked wings",
+    "honey soy wings",
+    "sticky wings"
+  ],
+  "nutrition": {
+    "calories": 475,
+    "protein": 34.0,
+    "carbs": 19.0,
+    "fat": 29.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1.25",
+      "unit": "kg",
+      "name": "/ 2.5 lb  chicken wings ((wingettes/drumettes), or cut up whole wings (Note 1 for whole wings))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  green onion stem (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "light soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dark soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "apple cider vinegar ((or other clear vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove (, crushed using garlic press (or finely minced or grated))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix marinade in a bowl until honey is dissolved. Pour over the wings in a ziplock bag. (Note 3)"
+    },
+    {
+      "order": 2,
+      "instruction": "Marinade for 30 minutes. You can do overnight but it doesn&#39;t noticeably improve flavour in the flesh."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 200°C/400°F (180°C fan). Line a large tray with foil then paper."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake - Spread wings out on the tray, skin side up. Reserve marinade. Bake 30 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Drain off juices on the tray and discard. (Key step to ensure sauce thickens)."
+    },
+    {
+      "order": 6,
+      "instruction": "Sauce - Pour reserved marinade over wings. Toss to coat then spread the wings out, skin side up."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake &amp; baste - Turn oven down to 180°C/350°F (160°C fan). Bake wings for 30 minutes, basting with tray juices every 10 minutes (3 times). Rearrange wings as needed if cooking unevenly, you can even turn them upside down if they brown too quickly. Sauce should be syrupy by the end so you can glaze well. (Note 4 if sauce still watery)."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve - Transfer wings into a serving bowl. Pour over syrup on tray, sprinkle with sesame seeds and green onion. Serve!"
+    }
+  ]
+}

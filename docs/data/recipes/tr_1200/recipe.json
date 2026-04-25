@@ -1,0 +1,255 @@
+{
+  "id": "tr_1200",
+  "title": "Italian Meatball Soup",
+  "image": "https://www.recipetineats.com/tachyon/2016/04/Meatball-Soup_4.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/italian-meatball-soup/",
+  "servings": 5,
+  "prepTime": 25,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 565,
+    "protein": 47.9,
+    "carbs": 53.9,
+    "fat": 16.6
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lightly packed cup of sliced white sandwich bread (, torn into small pieces, crusts removed (Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "grated onion ((brown, white or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "14",
+      "unit": "oz",
+      "name": "/ 400 g   ground beef ((beef mince))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "oz",
+      "name": "/ 100g   ground pork ((mince) or more ground beef (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh parsley (, finely chopped (Note 3))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Parmigiano-Reggiano ((or parmesan), freshly grated)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "onion (, finely chopped (white, brown or yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken broth / stock ((or water))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "24",
+      "unit": "oz",
+      "name": "/ 700g   passata ((pureed tomato) (Note 4))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "28",
+      "unit": "oz",
+      "name": "/ 800g   canned tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Italian mixed herbs ((Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "garlic powder ((or onion powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tsp red pepper / chilli flakes ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250g   spaghetti ((dried, not fresh or cooked))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh basil leaves (, torn)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 3/4 cup shredded mozzarella cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmigiano-Reggiano ((or parmesan), freshly grated)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the bread and onion in a large bowl. Mix to combine so the onion juice soaks the bread."
+    },
+    {
+      "order": 2,
+      "instruction": "Add all the remaining Meatball ingredients. Use you hands to mix well."
+    },
+    {
+      "order": 3,
+      "instruction": "Roll a slightly heaped tablespoon of mixture into a ball. Repeat with remaining mixture. Should make around 24. (Note 6) Refrigerate meatballs for 30 minutes (Note 7)"
+    },
+    {
+      "order": 4,
+      "instruction": "Heat 1 1/2 tbsp olive oil in a large pot over medium high heat. Add the meatballs in a single layer and brown all over (still raw inside) - I do this in 2 batches. Remove meatballs onto a plate and set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "If the pot is looking dry, add a touch more olive oil. Add onion and garlic and cook for 2 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Add chicken broth, bring to simmer and scrape the bottom of the pot to mix the brown bits into the liquid."
+    },
+    {
+      "order": 7,
+      "instruction": "Add remaining Soup ingredients except spaghetti. Bring to simmer, turn heat down to medium and cook for 5 minutes, stirring occasionally, scraping the bottom of the pot."
+    },
+    {
+      "order": 8,
+      "instruction": "Take the lid off and add spaghetti. Use tongs to push it all under the liquid as it starts to soften. Once the spaghetti is submerged, add the meatballs. Cook for around 12 minutes, or until spaghetti is just cooked but still firm (al dente). Remove from stove."
+    },
+    {
+      "order": 9,
+      "instruction": "If using cheese, sprinkle on the surface of the soup after you take it off the stove, put the lid back on and let the heat melt the cheese (~2 minutes)."
+    },
+    {
+      "order": 10,
+      "instruction": "Ladle soup, spaghetti and meatballs into bowls. Garnish with basil leaves and serve with Parmigiano-Reggiano, if using."
+    }
+  ]
+}

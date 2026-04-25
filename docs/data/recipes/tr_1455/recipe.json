@@ -1,0 +1,155 @@
+{
+  "id": "tr_1455",
+  "title": "Coquillettes au Jambon - French Macaroni and Cheese with Ham",
+  "image": "https://www.recipetineats.com/tachyon/2026/04/Coquilettes-au-jambon_0.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/coquillettes-au-jambon-french-macaroni-and-cheese-with-ham/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "coquillettes au jambon",
+    "mac and cheese",
+    "macaroni and cheese with ham"
+  ],
+  "nutrition": {
+    "calories": 525,
+    "protein": 14.0,
+    "carbs": 84.0,
+    "fat": 14.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  elbow pasta / macaroni  (, but any similar size pasta would work  )",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt (, for pasta water, half for table salt)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7 oz  ham slices ((I use ham off-the-bone), diced 1cm / 0.4&quot; (Note 1))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "75",
+      "unit": "g",
+      "name": "/ 5tbsp tbsp unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "plain flour / all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "milk (, HOT, full fat preferred, but work with lite milk too)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt (, halve for table salt, +50% for flakes)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "ground nutmeg (, (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "Gruyère cheese, grated (, shredded using a standard box grater (tightly packed if using cups) (Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "pasta cooking water",
+      "emoji": "🍝",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook pasta per packet directions, scoop out 1 cup of water just before draining. In the same pot, melt butter, cook flour 2 min. Whisk in milk. Add salt, pepper and nutmeg, stir in cheese until melted. Stir in ham, then 1/2 cup pasta cooking water. Toss with pasta until coated, serve."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook pasta - Bring a large pot of water and salt to the boil. Cook pasta according to packet instructions. I always like to give a few stirs at the beginning so they don&#39;t stick to each other."
+    },
+    {
+      "order": 3,
+      "instruction": "Reserve 1 cup pasta cooking water, then drain and give the pasta brief rinse under cold water. Set aside and keep the pot for the sauce."
+    },
+    {
+      "order": 4,
+      "instruction": "Make roux - Using the pasta pot, melt the butter over medium heat. Add flour and whisk for 2 minutes. At first it will look like thick and pasty then it will loosen to become a smooth, glossy paste. Make sure to use the whisk to get into the corners of the pot and don’t let it brown, reduce heat if needed."
+    },
+    {
+      "order": 5,
+      "instruction": "Adding milk - Add half of the hot milk to the roux while whisking vigorously, it will thicken very quickly. Once smooth, slowly pour in the remaining milk while continuing to whisk. Keep whisking for 30 seconds to 1 minute until the sauce is smooth, with no lumps. It should be thick enough that you can draw a path with a spatula through the middle, holding its shape briefly before slowly sinking back. (Note 4)"
+    },
+    {
+      "order": 6,
+      "instruction": "Season - Add salt, pepper and nutmeg. Stir to combine."
+    },
+    {
+      "order": 7,
+      "instruction": "Add cheese and ham - Stir in Gruyère cheese and whisk until fully melted. You just made a Mornay sauce! Then stir in the ham with a wooden spoon."
+    },
+    {
+      "order": 8,
+      "instruction": "Finish sauce - Pour in 1/2 cup of the reserved pasta cooking water and stir until silky. Bring back to a simmer. It will be quite runny, it will thicken when the pasta is added."
+    },
+    {
+      "order": 9,
+      "instruction": "Combine - Add drained pasta and stir well until fully coated, the sauce will thicken slightly and cling to the macaroni. Add more pasta water if the sauce gets too thick."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve immediately while hot and creamy. I like to grind extra black pepper on top just before eating. Enjoy!"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "tr_564",
+  "title": "Fish with White Wine Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2021/08/Fish-in-white-wine-cream-sauce_95-SQ.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fish-with-white-wine-sauce/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 12,
+  "tags": [
+    "creamy sauce for fish",
+    "creamy wine sauce",
+    "white wine sauce",
+    "white wine sauce for fish"
+  ],
+  "nutrition": {
+    "calories": 533,
+    "protein": 32.0,
+    "carbs": 5.0,
+    "fat": 38.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4   x 150g / 5oz white fish fillets (, skinless, boneless (I used snapper, Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  eschalot (, small, finely chopped (~1 1/2 tbs, Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "white wine (, dry, not sweet or too woody (chardonnay is especially good, Note 3))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "lemon juice ((sub white wine vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white wine vinegar ((sub more lemon))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "thickened/heavy cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  unsalted butter (, cold, cut into 1cm / 1/3\" cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "finely chopped parsley ((or chives))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 50°C/120°F. Place rack over a tray."
+    },
+    {
+      "order": 2,
+      "instruction": "Season fish: Sprinkle fish with salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook fish: Heat oil in a large non stick skillet over medium high heat. Cook fish in two batches until golden, 2 minutes on each side, or until the internal temperature is 55°C/131°F. (Note 4)"
+    },
+    {
+      "order": 4,
+      "instruction": "Keep warm: Place fish on rack, and place in the oven to keep warm."
+    },
+    {
+      "order": 5,
+      "instruction": "Discard oil: Tip out excess oil from the skillet but don&#39;t wipe clean."
+    },
+    {
+      "order": 6,
+      "instruction": "Reduce wine: Add eschalot, white wine, lemon juice, vinegar, salt, pepper, sugar to the pan. Bring to simmer (still on medium high) and reduce by half (~3 minutes)."
+    },
+    {
+      "order": 7,
+      "instruction": "Simmer cream: Add cream, simmer for 2 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Finish with COLD butter: Turn heat to low and add cold butter one cube at a time while mixing with wooden spoon. Once all the butter is incorporated, the sauce should be thickened, satiny and beautifully glossy."
+    },
+    {
+      "order": 9,
+      "instruction": "Optional strain: Strain the sauce through a sieve (discard eschalot), then pour it back into the pan."
+    },
+    {
+      "order": 10,
+      "instruction": "Fish in sauce: Place fish back into the pan in the sauce. Spoon some sauce over the fish, leave for 30 seconds."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve: Transfer fish onto serving plates. Spoon sauce over each fish, sprinkled with parsley if desired. Pictured with a side of pea puree (great colour splash!)."
+    }
+  ]
+}

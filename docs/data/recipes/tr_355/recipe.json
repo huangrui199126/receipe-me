@@ -1,0 +1,151 @@
+{
+  "id": "tr_355",
+  "title": "Asian Beef Bowls",
+  "image": "https://www.recipetineats.com/tachyon/2017/05/Asian-Beef-Bowls_beef-mince-recipe.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/asian-beef-bowls/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 7,
+  "tags": [
+    "asian beef bowls",
+    "beef mince recipe",
+    "ground beef recipe"
+  ],
+  "nutrition": {
+    "calories": 302,
+    "protein": 26.0,
+    "carbs": 9.0,
+    "fat": 16.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Hoisin Sauce  ((or sub with Oyster))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Oyster Sauce ((or sub with 1 1/2 tbsp Hoisin))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine  ((or Mirin, dry sherry, sake or any rice wine) (Note 1))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "dark soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "white pepper  ((or sub with black))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion, finely chopped",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/1 lb  beef mince (ground beef) ( (lean is good))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "shallots / scallions (, sliced, plus more for garnish)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Sauce together in a bowl"
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a large skillet over high heat. Add garlic and onion, cook for 1 minute or until onion starts browning."
+    },
+    {
+      "order": 3,
+      "instruction": "Add beef and cook, breaking it up as you go."
+    },
+    {
+      "order": 4,
+      "instruction": "Once the beef has all changed from red to brown, add Sauce. Cook for a further 2 minutes, or until Sauce has evaporated and beef is cooked. If you want the beef cooked more, add a splash of water and keep cooking (I don't do this)."
+    },
+    {
+      "order": 5,
+      "instruction": "Stir through shallots, then serve over rice, garnished with more shallots and sesame seeds, if desired. Or for a low carb, low cal option, try Cauliflower Rice!"
+    }
+  ]
+}

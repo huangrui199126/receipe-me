@@ -1,0 +1,175 @@
+{
+  "id": "tr_77",
+  "title": "Spicy Italian Breakfast Roll Ups (Breakfast On The Go / Mini Taquitos)",
+  "image": "https://www.recipetineats.com/tachyon/2015/02/DSC_0077.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spicy-italian-breakfast-roll-ups-breakfast-go-mini-taquitos/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 298,
+    "protein": 13.7,
+    "carbs": 12.5,
+    "fat": 21.6
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "10",
+      "unit": "oz",
+      "name": "/ 300g   spicy Italian Sausages ((Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 small onion (, diced (brown, yellow, white, spanish))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  birds eye chillis (, sliced (adjust amount to taste - Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "grated cheese ((I used cheddar, any other flavoured cheese that melts works fine))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh basil leaves (, thinly sliced (or sub with 1 tbsp dried Italian herbs - basil, parsley, oregano))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 small tortillas (, corn or flour (around 6\" / 12 cm rounds))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil (, for brushing)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F. Spray a baking tray with oil, or line with parchment/baking paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove sausages from casings."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a large fry pan over high heat. Add the sausage and cook, breaking up into chunky pieces, until nicely browned. Remove from pan."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn stove down to medium high and melt butter in the same pan (don't clean the pan). Add the onion, chills and garlic and sauté for 3 to 5 minutes until the onion is translucent and a light golden brown."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the eggs, milk, salt and pepper. Stir slowly, not vigorously, using a wooden spoon until the eggs are \"holding together\" but are still wet - about 5 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove pan from the stove, stir through the sausage, cheese and basil leaves."
+    },
+    {
+      "order": 7,
+      "instruction": "Divide filling between the tortillas."
+    },
+    {
+      "order": 8,
+      "instruction": "Roll up the tortillas and place on the baking tray, seam side down. Brush with olive oil (optional), then bake for 15 to 20 minutes until light golden and slightly crisp."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve while warm."
+    },
+    {
+      "order": 10,
+      "instruction": "To freeze, allow to cool then place in the freezer. To reheat, defrost then reheat in the oven (to make it crisp again) or in the microwave (the tortilla will reheat soft so it will be more like a burrito)."
+    }
+  ]
+}

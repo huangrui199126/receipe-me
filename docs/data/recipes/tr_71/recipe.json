@@ -1,0 +1,123 @@
+{
+  "id": "tr_71",
+  "title": "Pull Apart Pizza Bread",
+  "image": "https://www.recipetineats.com/tachyon/2015/01/DSC_0379.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pull-apart-garlic-pizza-bread/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 269,
+    "protein": 9.3,
+    "carbs": 23.5,
+    "fat": 15.5
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "salted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced (or 2 if you like really garlicky))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  baguette / french (, 60cm / 2 feet long (or multiple short ones))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "pizza sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/4 to 1 1/2 cups grated mozzarella cheese ((Notes 1 and 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "oz",
+      "name": "/ 120g   pepperoni (, sliced or diced (I used mini pepperoni))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  red onion (, finely diced (optional))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "fresh parsley (, finely diced (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Melt butter with the garlic in it."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut the french stick into 1.5 - 2 cm / 3/5\" - 4/5\" thick slices (about 25 slices, including ends) and lay them out on a work surface."
+    },
+    {
+      "order": 4,
+      "instruction": "Brush butter on each slice, ensuring to dab some garlic on. Use most but not all the butter."
+    },
+    {
+      "order": 5,
+      "instruction": "Spread a small dab of pizza sauce on each piece of bread, top with onion, cheese then pepperoni (in this order)."
+    },
+    {
+      "order": 6,
+      "instruction": "Stack 6 or 7 pieces of bread on top of each other. Then pick up the stack (hold the top and bottom pieces) and place it in a 22cm / 8\" square baking dish. (See photos below) (Note 3)"
+    },
+    {
+      "order": 7,
+      "instruction": "Brush the top of the bread with the remaining butter."
+    },
+    {
+      "order": 8,
+      "instruction": "Cover with foil and bake for 15 minutes, or until cheese is mostly melted. Then remove the foil and bake for 10 minutes or until golden brown and crusty (to your liking)."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove from oven, sprinkle with parsley (if using) and serve immediately!"
+    }
+  ]
+}

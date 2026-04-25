@@ -1,0 +1,90 @@
+{
+  "id": "tr_288",
+  "title": "Sautéed Green Beans with Garlic",
+  "image": "https://www.recipetineats.com/tachyon/2021/10/Garlic-Sauteed-Green-Beans_08-SQ.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/garlic-sauteed-green-beans/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 8,
+  "tags": [
+    "green beans recipe",
+    "sauteed green beans"
+  ],
+  "nutrition": {
+    "calories": 102,
+    "protein": 2.0,
+    "carbs": 9.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250g/ 8oz  green beans (, trimmed (Note 1))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil ((or... butter!))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced (~ 2 tsp), do not use jar or garlic crusher (Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Blanch beans: Bring a large saucepan of water to the boil with 1 teaspoon of salt. Add beans, cook for 4 minutes (they will turn bright green), drain, then rinse under cold tap water to cool. (There&#39;s really no need to shock in ice water). Shake off excess water."
+    },
+    {
+      "order": 2,
+      "instruction": "Sauté: Heat oil in a large skillet over medium high heat. Add green beans and garlic. Toss (or stir!) for 2 minutes until the garlic is golden and crispy. Add salt and pepper, then toss."
+    },
+    {
+      "order": 3,
+      "instruction": "Serve: Transfer beans to serving dish. Serve warm!"
+    },
+    {
+      "order": 4,
+      "instruction": "Prepare ahead: Blanch beans per step 1, cool and dry, store in fridge until required. When ready to serve, just toss with garlic. It&#39;s an instant on-demand side!"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "tr_1281",
+  "title": "Mango muffins",
+  "image": "https://www.recipetineats.com/tachyon/2024/01/Mango-muffins_1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mango-muffins/",
+  "servings": 12,
+  "prepTime": 20,
+  "cookTime": 24,
+  "tags": [
+    "mango muffins"
+  ],
+  "nutrition": {
+    "calories": 252,
+    "protein": 4.0,
+    "carbs": 41.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "plain flour ((all-purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "baking soda ((bi-carbonate soda), sifted if lumpy (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "unrefined coconut oil ((or unsalted butter), melted and slightly cooled (Note 2))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg ((55 - 60g/2 oz each in shell))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white vinegar ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "white sugar ((can reduce to 1/2 cup but no less))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(260g)  mango puréed mango  ((1 1/3 cups small chopped mango  reduces to 1 cup once pureed, Note 3), room temp)",
+      "emoji": "🥭",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(370g)  chopped mango (, small, 8mm to 1 cm max, room temp (Note 3))",
+      "emoji": "🥭",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "desiccated coconut (, unsweetened (finely shredded coconut))",
+      "emoji": "🥥",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "demerara sugar ((Note 4))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/425°F (200°C fan-forced). Spray a muffin tin with canola oil or grease well with butter. (Note 5)"
+    },
+    {
+      "order": 2,
+      "instruction": "Batter - Whisk Dry ingredients in a medium bowl. Whisk all the Wet ingredients well in a separate large bowl until smooth. Pour the Dry ingredients into the Wet ingredients. Use a rubber spatula to mix together until the flour is almost incorporated."
+    },
+    {
+      "order": 3,
+      "instruction": "Add-ins - Add the chopped mango and coconut, then mix until you no longer see flour - stop mixing, even if there are a few flour lumps, else the muffin will be dry and tough. The mixture will be thicker than typical muffin batters because it gets a lot of moisture from the mangoes as it bakes."
+    },
+    {
+      "order": 4,
+      "instruction": "Crunchy top - Divide between muffin holes, it should be slightly mounded (as pictured in post). Sprinkle the top of each with 1/2 teaspoon of Demerara sugar."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake - Place in the oven. Immediately turn the oven down to 200°C/390°F (180°C fan). Bake for 24 minutes or until the surface is golden and crunchy, and a skewer inserted into the middle comes out clean."
+    },
+    {
+      "order": 6,
+      "instruction": "Cool - Leave in the muffin tin for 10 minutes then transfer onto a cooling rack. Cool for at least another 10 minutes before grabbing one!"
+    }
+  ]
+}

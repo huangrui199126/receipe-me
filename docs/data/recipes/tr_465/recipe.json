@@ -1,0 +1,143 @@
+{
+  "id": "tr_465",
+  "title": "Cornbread recipe (creamed corn)",
+  "image": "https://www.recipetineats.com/tachyon/2019/11/Corn-bread_1-SQ.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cornbread-recipe/",
+  "servings": 10,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "cornbread",
+    "creamed corn cornbread",
+    "easy cornbread"
+  ],
+  "nutrition": {
+    "calories": 277,
+    "protein": 5.0,
+    "carbs": 39.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "yellow cornmeal (, medium grind (Sold in packets labelled &quot;polenta&quot; in Australia, Note 1))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "flour ((plain / all purpose))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "canned creamed corn",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125g  melted butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (, lightly whisked)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cups",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp butter (, melted (for greasing &amp; brushing))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place a 26cm/10&quot; castiron skillet in the oven and preheat to 220C / 425F while making the batter."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the Dry Ingredients in a bowl and mix."
+    },
+    {
+      "order": 3,
+      "instruction": "Place Wet ingredients in a separate bowl and mix until combined."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour Wet into the Dry ingredients, mix until combined."
+    },
+    {
+      "order": 5,
+      "instruction": "Take the skillet out of the oven. Add the 1 tbsp of butter and swirl it around to coat the base and halfway up the sides (or use a brush to do this)"
+    },
+    {
+      "order": 6,
+      "instruction": "Pour the batter in, smooth surface."
+    },
+    {
+      "order": 7,
+      "instruction": "Turn oven down to 190°C/375°F, then bake for 25 to 30 minutes, or until the top is light golden brown and a skewer inserted into the middle comes out clean (or when you poke the top, it springs back)."
+    },
+    {
+      "order": 8,
+      "instruction": "Cool 15 minutes in the skilet before tunring out onto serving platter or cutting board."
+    },
+    {
+      "order": 9,
+      "instruction": "Best served warm! It can be served in the skillet or turned out. Serve with butter and honey as well, to take it over the top!"
+    }
+  ]
+}

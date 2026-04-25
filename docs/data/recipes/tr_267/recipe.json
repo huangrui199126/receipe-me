@@ -1,0 +1,198 @@
+{
+  "id": "tr_267",
+  "title": "Pad Thai",
+  "image": "https://www.recipetineats.com/tachyon/2020/01/Chicken-Pad-Thai_9-SQ.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-pad-thai/",
+  "servings": 2,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [
+    "pad thai",
+    "what is pad thai?"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 4oz   Chang's Pad Thai dried rice sticks ((Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "tamarind puree (, NOT concentrate (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "(packed) brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fish sauce ((Note 3))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "oyster sauce ((Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp vegetable or canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, sliced (brown, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "150 g/5oz   chicken breast (or thigh) (, thinly sliced)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (, lightly whisked)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "of beansprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "firm tofu, cut into 3cm / 1 1/4\" batons (see photo)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "garlic chives , cut into 3cm / 1 1/4\" pieces",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "finely chopped peanuts",
+      "emoji": "🫛",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges ((essential))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Ground chilli or cayenne pepper ((optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "More beansprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 16
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place noodles in a large bowl, pour over plenty of boiling water. Soak for 5 minutes, then drain in a colander and quickly rinse under cold water. Don't leave them sitting around for more than 5 - 10 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix Sauce in small bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 2 tbsp oil in a large non stick pan (or well seasoned skillet) over high heat. Add garlic and onion, cook for 30 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Add chicken and cook for 1 1/2 minutes until mostly cooked through."
+    },
+    {
+      "order": 5,
+      "instruction": "Push to one side of the pan, pour egg in on the other side. Scramble using the wooden spoon (add touch of extra oil if pan is too dry), then mix into chicken."
+    },
+    {
+      "order": 6,
+      "instruction": "Add bean sprouts, tofu, noodles then Sauce."
+    },
+    {
+      "order": 7,
+      "instruction": "Toss gently for about 1 1/2 minutes until Sauce is absorbed by the noodles."
+    },
+    {
+      "order": 8,
+      "instruction": "Add garlic chives and half the peanuts. Toss through quickly then remove from heat."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve immediately, sprinkled with remaining peanuts and lime wedges on the side, with a sprinkle of chilli and a handful of extra beansprouts on the side if desired (this is the Thai way!). Squeeze over lime juice to taste before eating."
+    }
+  ]
+}

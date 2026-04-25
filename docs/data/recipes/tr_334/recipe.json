@@ -1,0 +1,170 @@
+{
+  "id": "tr_334",
+  "title": "Slow Cooker Pork Loin Roast OR Pork Shoulder",
+  "image": "https://www.recipetineats.com/tachyon/2018/09/Slow-Cooker-Honey-Garlic-Pork-Roast_9-2.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/slow-cooker-pork-loin-roast/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 600,
+  "tags": [
+    "slow cooker pork loin",
+    "slow cooker pork roast"
+  ],
+  "nutrition": {
+    "calories": 561,
+    "protein": 56.0,
+    "carbs": 28.0,
+    "fat": 23.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.75 - 2.5 kg / 3.5 - 5lb   pork loin OR shoulder/boston butt ( ,or scotch fillet, skinless (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "olive oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "EACH paprika, thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "EACH garlic powder, onion powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cayenne pepper (, optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 1/2 cup   butter (, unsalted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt and pepper (, each)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "cornflour/cornstarch mixed with splash of water",
+      "emoji": "🌾",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Spice Rub: Rub pork with about 1 tsp oil. Mix Rub together then sprinkle over pork. Pat to adhere all over."
+    },
+    {
+      "order": 2,
+      "instruction": "Brown: Heat 1 tbsp oil in a large skillet over medium heat. Add pork and sear all around until deep golden brown (don't let spices burn). Place pork in slow cooker."
+    },
+    {
+      "order": 3,
+      "instruction": "Honey Butter Sauce:&nbsp;Wipe pan. Add butter and melt. Add garlic and cook for 1 minute until golden. Add remaining Sauce ingredients, mix, simmer rapidly for 30 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour Sauce over pork. Cover slow cooker.&nbsp;"
+    },
+    {
+      "order": 5,
+      "instruction": "Pork loin - Cook on LOW for 4 to 5 hours (see Note 2 for cook times for different sizes)"
+    },
+    {
+      "order": 6,
+      "instruction": "Pork Shoulder - Cook on LOW for 10 hours (see Note 2 for cook times for different sizes, and Note 4 for oven, InstantPot and pressure cooker methods)."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove pork onto serving platter, cover loosely with foil (10 - 20 minutes rest). (See Note 6 on Doneness)"
+    },
+    {
+      "order": 8,
+      "instruction": "Pour all juices in slow cooker into large saucepan. Add cornflour water mixture, mix."
+    },
+    {
+      "order": 9,
+      "instruction": "Thicken Sauce: Simmer on medium high for 5 minutes or until it reduces down to a syrupy consistency (Note 3)."
+    },
+    {
+      "order": 10,
+      "instruction": "Slice pork into thick slices (1.5 - 2 cm / 3/5 - 4/5\" thick). Serve with PLENTY of Honey Butter Sauce!"
+    }
+  ]
+}

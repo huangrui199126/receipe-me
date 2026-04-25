@@ -1,0 +1,107 @@
+{
+  "id": "tr_1647",
+  "title": "Christmas Sangria.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/12/Christmas-Sangria-4.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/christmas-sangria/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "christmas",
+    "festive cocktail",
+    "sangria"
+  ],
+  "nutrition": {
+    "calories": 156,
+    "protein": 0.0,
+    "carbs": 28.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (750ml) bottle white wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (12 ounce) ginger beer (plus more for topping if desired)",
+      "emoji": "🍺",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "apple cider",
+      "emoji": "🍎",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "brandy",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  pears (sliced)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  oranges (sliced)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "arils from 1 pomegranate",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  cinnamon sticks",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "cinnamon sugar (for the rims of your glasses (optional))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large pitcher, combine all the ingredient. Stir and then place in the fridge until chilled. Don't chill for longer than a few hours or the ginger beer will lose its fizz."
+    },
+    {
+      "order": 2,
+      "instruction": "Before serving, rim your glasses with cinnamon sugar. Fill each glass with ice and pour the sangria over the ice. If desired top with more ginger beer. Garnish with sliced of pears, oranges and pomegranate arils. Drink up!"
+    }
+  ]
+}

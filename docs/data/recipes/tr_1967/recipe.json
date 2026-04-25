@@ -1,0 +1,233 @@
+{
+  "id": "tr_1967",
+  "title": "One Pot Moroccan Chicken + Chickpeas with Pistachio Couscous and Goat Cheese.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/02/One-Pot-Moroccan-Chicken-+-Chickpeas-with-Pistachio-Couscous-and-Goat-Cheese.-11.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/one-pot-moroccan-chicken-chickpeas-pistachio-couscous-goat-cheese/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "one pot chicken"
+  ],
+  "nutrition": {
+    "calories": 1224,
+    "protein": 37.0,
+    "carbs": 83.0,
+    "fat": 20.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "skinless chicken",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "cayenne pepper (or more to your liking)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (thinly sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "fresh ginger (grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red pepper (chopped)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  carrots (chopped)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoon",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  chipotle chile pepper in adobo (minced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken broth (or veggie broth)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cooked chickpeas (rinsed and drained if using canned)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemon (zest + juice)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh cilantro (plus more for serving)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-4 cups cooked couscous",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "chopped pistachios",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  medjool dates (sliced (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-4 ounces goat cheese (crumbled)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a small bowl toss together the smoked paprika, cumin, cinnamon, coriander, cayenne pepper, salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a large high sided skillet over medium-high heat. Add some olive oil to coat the bottom of the skillet and once hot add the chicken and half of the seasoning mixture to the skillet. Brown the chicken all over until cooked through, about 6 minutes. Remove the chicken from the skillet and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "To the same skillet add a little more olive oil to pan and swirl to coat. Add the onion, ginger, garlic, red pepper and carrots to the skillet, sauté 4-6 minutes. Add the remaining spice mixture and sauté another 30 seconds, stirring constantly. Add the chicken back to the skillet. Stir in the tomato paste, chipotle chile, chicken broth, and chickpeas. Bring to a boil and reduce the heat, and simmer 5-10 minutes or until the mixture thickens. Remove from heat. Stir in the cilantro and lemon zest + juice. Taste and season with salt if needed."
+    },
+    {
+      "order": 4,
+      "instruction": "To serve, divide the couscous among bowls or plates and sprinkle the couscous with the chopped pistachios and dates (if using). Top each plate of couscous with the chickpea mixture. Sprinkle on the crumbled goat cheese and garnish with chopped pistachios and cilantro. EAT."
+    }
+  ]
+}

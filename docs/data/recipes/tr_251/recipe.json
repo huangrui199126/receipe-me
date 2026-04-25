@@ -1,0 +1,238 @@
+{
+  "id": "tr_251",
+  "title": "Thai Green Curry",
+  "image": "https://www.recipetineats.com/tachyon/2019/02/Thai-Green-Curry_5.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/thai-green-curry/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [
+    "green curry",
+    "thai green curry"
+  ],
+  "nutrition": {
+    "calories": 352,
+    "protein": 7.0,
+    "carbs": 16.0,
+    "fat": 31.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 - 6 tbsp Thai Green Curry Paste (Maesri best) OR ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 quantity homemade green curry paste ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fresh ginger (, finely grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemongrass paste ((Note 2))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(250ml)   chicken or vegetable broth, low sodium",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400 g/14oz   coconut milk (, full fat (Note 4))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 3 tsp fish sauce *",
+      "emoji": "🐟",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 3 tsp white sugar *",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "salt *",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  kaffir lime leaves (, torn in half (Note 5))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "350 g/12 oz   chicken thigh (, skinless boneless, sliced (Note 6))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  Japanese eggplants,  (, small, 1cm / 2/5\" slices (Note 7))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "snow peas (, small, trimmed)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "16  Thai basil leaves ((Note 8))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Juice of 1/2 lime (, to taste)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crispy fried Asian shallots (, high recommended (Note 9))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Thai basil or cilantro/coriander (, recommended)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Green or red chillies slices (, optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Steamed jasmine rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 20
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a heavy based skillet or pot over medium high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Add curry paste (and garlic, ginger and lemongrass Extras, if using) and cook for 2 to 3 minutes until it mostly \"dries out\" - see video. Don't breath in the fumes!!"
+    },
+    {
+      "order": 3,
+      "instruction": "Add chicken broth and coconut milk, mix to dissolve paste."
+    },
+    {
+      "order": 4,
+      "instruction": "Curry in a jar seasonings: Add 1 tsp fish sauce, 1 tsp sugar, no salt."
+    },
+    {
+      "order": 5,
+      "instruction": "Homemade curry paste seasonings: Add 3 tsp fish sauce, 3 tsp sugar, 1/8 tsp salt."
+    },
+    {
+      "order": 6,
+      "instruction": "Add kaffir lime leaves. Mix then bring to simmer."
+    },
+    {
+      "order": 7,
+      "instruction": "Add chicken, stir then lower heat to medium so it's bubbling gently. Cook 7 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Add eggplants, cook 5 minutes until soft."
+    },
+    {
+      "order": 9,
+      "instruction": "Taste sauce. Add fish sauce or salt for more saltiness, sugar for sweetness."
+    },
+    {
+      "order": 10,
+      "instruction": "Add snow peas, cook 2 minutes until a bit softened, then stir through basil and lime juice. Sauce should have reduced but will still be a be on the thin side, not thick - that's how it's should be. DO NOT keep simmering - sauce will darken."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve curry over jasmine rice with garnishes of choice."
+    }
+  ]
+}

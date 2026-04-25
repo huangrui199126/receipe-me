@@ -1,0 +1,153 @@
+{
+  "id": "tr_572",
+  "title": "Lamb Chops with Rosemary Gravy (Loin chops, forequarter, cutlets)",
+  "image": "https://www.recipetineats.com/tachyon/2020/06/Lamb-Chops-with-Rosemary-Gravy_6-SQ.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lamb-chops-with-rosemary-gravy/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "forequarter chops",
+    "lamb chops",
+    "lamb cutlets",
+    "lamb leg steak",
+    "lamb loin chops"
+  ],
+  "nutrition": {
+    "calories": 299,
+    "protein": 32.0,
+    "carbs": 7.0,
+    "fat": 15.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "750g/ 1.5lb  lamb chops (loin chops, forequarter, cutlets) ((Note 1))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "rosemary leaves (, finely chopped (Note 2))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "beef stock (, low sodium)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "flour (, plain/all purpose (Note 3 for GF))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "rosemary leaves (, finely chopped (Note 2))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  rosemary sprigs (, optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinade: Mix Marinade ingredients together, then pour over chops. Turn to coat and leave to marinade for at least 1 hour, preferably 3 hours or overnight."
+    },
+    {
+      "order": 2,
+      "instruction": "Take lamb out of fridge 30 minutes prior to cooking (to bring to room temp)."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat a large skillet over high heat (no oil needed)."
+    },
+    {
+      "order": 4,
+      "instruction": "Pick up a chop, scrape off excess bits of garlic (it burns) and let excess oil drip off. Place in skillet. Once all chops are in, turn heat down to medium high."
+    },
+    {
+      "order": 5,
+      "instruction": "Loin chops &amp; forequarter chops - 4 minutes each side, or until internal temp is 62°C/145°F for medium rare (Note 4 other doneness)"
+    },
+    {
+      "order": 6,
+      "instruction": "Cutlets &amp; thin leg steaks - 3 minutes on the first side then 2 minutes on the second side."
+    },
+    {
+      "order": 7,
+      "instruction": "Rest - Remove lamb from skillet and place on a plater. Loosely cover with foil and rest for 3 minutes while you make the gravy."
+    },
+    {
+      "order": 8,
+      "instruction": "Pour off all but about 3 tbsp oil (if you're short, add butter), return skillet to medium heat."
+    },
+    {
+      "order": 9,
+      "instruction": "Add flour and stir for 30 seconds."
+    },
+    {
+      "order": 10,
+      "instruction": "Pour in beef stock while stirring constantly to dissolve flour mixture in. If you have lumps, use a whisk."
+    },
+    {
+      "order": 11,
+      "instruction": "Add chopped rosemary and sprig."
+    },
+    {
+      "order": 12,
+      "instruction": "Simmer, stirring regularly, for 2 - 3 minutes until it thickens in a gravy consistency."
+    },
+    {
+      "order": 13,
+      "instruction": "Serve lamb chops with gravy over creamy mashed potato and a side of peas!"
+    }
+  ]
+}

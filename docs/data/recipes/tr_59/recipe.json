@@ -1,0 +1,151 @@
+{
+  "id": "tr_59",
+  "title": "Jalapeno Popper Dip",
+  "image": "https://www.recipetineats.com/tachyon/2016/07/Jalapeno-Popper-Dip_5.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/jalapeno-popper-dip/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 40,
+  "tags": [],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8.0,
+    "carbs": 13.2,
+    "fat": 17.5
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "oz",
+      "name": "/ 180g   Philadelphia cream cheese (, at room temperature)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "mayonnaise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each onion powder and garlic powder ((or 1 tsp of one of these))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "grated cheddar cheese ((or tasty, Monterey Jack or other flavoured cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "grated Mozzarella Cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3/4 - 1 cup canned jalapeños (, drained and finely chopped)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  Cob Bread ((round loaf 25cm / 10\" diameter) (optional))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "panko breadcrumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut the top off the bread, use a small knife to cut a ring and pull out the bread to form a bowl (leaving a 1cm / 1/2\" border/crust). Place bread on foil."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix together cream cheese, mayonnaise and sour cream. Add remaining Dip ingredients, mix combine. Pour into bread bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Mix together butter and panko. Sprinkle over top of dip."
+    },
+    {
+      "order": 5,
+      "instruction": "Wrap bread in foil. Bake for 30 minutes, then roll foil edges down and bake for a further 10 to 15 minutes until the panko is golden, the dip is bubbling and the bread is golden (insert knife into centre to ensure it is hot). (Note 1)"
+    },
+    {
+      "order": 6,
+      "instruction": "Serve with corn chips and the bread pulled out of the bread bowl (cut into chunks. Toasting is optional)"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tr_306",
+  "title": "Oven roasted eggplant (aubergine)",
+  "image": "https://www.recipetineats.com/tachyon/2020/07/Roasted-Eggplant_9-SQ.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roasted-eggplant/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 30,
+  "tags": [
+    "baked aubergine",
+    "roasted eggplant"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "700g/ 1.2 lb  eggplants ((2 medium), aka aubergine)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt ((kosher / cooking salt, or 1/4 tsp table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 240°C / 450°F (220°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Line a tray with parchment/baking paper (optional - recommended for first timers so you don't lose the caramelised surface)."
+    },
+    {
+      "order": 3,
+      "instruction": "Cut eggplant into large cubes - 3 cm / 1.2\". Place in large bowl, drizzle with oil, salt and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Toss well, spread on tray, roast 20 minutes. Turn, roast for a further 10 minutes - edges should be caramelised, soft inside, but they're not shrivelled up and dismal."
+    },
+    {
+      "order": 5,
+      "instruction": "Transfer to serving plate. Delicious served plain, but see below for some finishing options."
+    },
+    {
+      "order": 6,
+      "instruction": "1 teaspoon fresh thyme leaves (my favourite!), drizzle of fresh lemon juice, parsley, chives or green onions (for touch of freshness and colour, not so much flavour), tiny drizzle of balsamic vinegar (pop of tartness is terrific! OR drizzle of balsamic glaze), dollop of yogurt (creamy yogurt pairs really well with the juicy eggplant flesh)."
+    }
+  ]
+}

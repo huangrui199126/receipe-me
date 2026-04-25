@@ -1,0 +1,153 @@
+{
+  "id": "tr_1392",
+  "title": "Roasted Vegetables",
+  "image": "https://www.recipetineats.com/tachyon/2021/07/Roasted-Vegetables_55-SQ.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roasted-vegetables/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 90,
+  "tags": [
+    "roasted vegetables"
+  ],
+  "nutrition": {
+    "calories": 209,
+    "protein": 3.0,
+    "carbs": 25.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14oz   small potatoes (, skin on (10 or so))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  carrots (, medium/large, peeled)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large parsnip ((250g/8oz), peeled)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion (, large, peeled (200g / 7oz))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  garlic cloves (, smashed (Note 1))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  thyme sprigs",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  sage sprigs",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Potatoes - Cut in half. (For large, cut into 3 or 4)"
+    },
+    {
+      "order": 2,
+      "instruction": "Carrots - Cut into 3cm / 1.2&quot; triangles on the diagonal (see diagram in post)."
+    },
+    {
+      "order": 3,
+      "instruction": "Parsnip - Cut into 4cm / 1.5&quot; lengths. Then cut into batons / chunks so they are roughly equal size (see diagram in post)."
+    },
+    {
+      "order": 4,
+      "instruction": "Red onion - Cut in half, then cut each half into 4 wedges. Then in cut into 3 or 4 so you get 2cm/ 0.8&quot; squares."
+    },
+    {
+      "order": 5,
+      "instruction": "Smashed garlic - Place side of knife on unpeeled garlic clove. Hit firmly with palm of hand so the garlic bursts open a bit but mostly stays in tact."
+    },
+    {
+      "order": 6,
+      "instruction": "Preheat oven to 200°C / 390°F (180°C fan)."
+    },
+    {
+      "order": 7,
+      "instruction": "Onion - Toss onion in one bowl with 1 tablespoon oil, and a pinch of the salt and pepper. Set aside - we add these later."
+    },
+    {
+      "order": 8,
+      "instruction": "Other vegetables - Put all other vegetables, thyme and garlic in a separate bowl. Tear sage leaves and stems with hands, add into bowl. Toss with remaining oil, salt and pepper. Spread on a large baking tray."
+    },
+    {
+      "order": 9,
+      "instruction": "Roasting - Roast 30 minutes. Add onion, toss vegetables. Roast for a further 1 hour, tossing halfway, until cooked through with golden edges."
+    },
+    {
+      "order": 10,
+      "instruction": "Garnish &amp; serve - Sprinkle with parsley and serve immediately! If you want a sauce for serving (especially if having this as a meal rather than side), I recommend Lemon Yogurt Sauce - drizzle, dollop or dip as you go."
+    }
+  ]
+}

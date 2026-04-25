@@ -1,0 +1,249 @@
+{
+  "id": "tr_1237",
+  "title": "Smothered rissoles",
+  "image": "https://www.recipetineats.com/tachyon/2025/07/Smothered-rissoles-overhead.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mushroom-gravy-smothered-rissoles/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [
+    "rissoles"
+  ],
+  "nutrition": {
+    "calories": 456,
+    "protein": 33.0,
+    "carbs": 19.0,
+    "fat": 28.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  large onion (, grated using standard box grater (Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((sub regular breadcrumbs, Note 2))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1lb  beef mince ((ground beef))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small zucchini (, grated)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small carrot (, peeled and grated)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large garlic clove (, crushed using garlic press or finely grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried thyme ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "oregano ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((halve for table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil (, for cooking)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "30g/ 2 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, sliced 5mm/0.2&quot; thick)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/ 7 oz  mushrooms (, sliced 5mm/0.2\" thick)",
+      "emoji": "🍄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "tbsp",
+      "name": "flour ((plain / all-purpose))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "beef stock / broth (, low sodium)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((halve for table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mashed potato (or other starchy vehicle of choice)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix rissole ingredients, form 12 patties, slightly indent one side. Cook in 2 batches until lightly browned but raw inside. Wipe pan clean, melt butter, cook onion, then mushrooms, add garlic towards end. Make roux then gravy. Cook rissoles in gravy as it thickens, 4 - 5 minutes, serve!"
+    },
+    {
+      "order": 2,
+      "instruction": "Grate the onion into a large bowl, add panko, toss to soak in the onion juices. Add remaining rissole ingredients and mix well with your hands."
+    },
+    {
+      "order": 3,
+      "instruction": "Dented patties - Form 12 patties (1/4 cup each) and make a slight indentation on one side (this prevents doming while cooking)."
+    },
+    {
+      "order": 4,
+      "instruction": "Lightly brown - Heat 1 tablespoon of the oil in a large non-stick pan (30cm/12&quot;) over medium high heat. Cook half the rissoles for 1 1/2 minutes on each side until lightly browned but still raw inside. Remove onto a plate. Add the remaining oil and repeat with remaining rissoles."
+    },
+    {
+      "order": 5,
+      "instruction": "Clean pan - Discard excess oil and give the pan a rough clean with paper towels, just to remove most of the black bits."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook mushrooms - Melt the butter in the same pan, cook the onion for 1 minute, then add the mushrooms and cook for 3 - 4 minutes until they release water, soften, then become lightly browned. Add the garlic for the last 30 seconds."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook off flour - Turn the heat down to medium, scatter flour across the surface and stir for 1 minute - it will be like a dry paste."
+    },
+    {
+      "order": 8,
+      "instruction": "Half beef stock - While stirring, pour in half the stock then keep mixing until the flour paste dissolves and thickens the liquid, and is lump free (about 30 seconds)."
+    },
+    {
+      "order": 9,
+      "instruction": "Simmer rissoles and thicken gravy - Add remaining stock, Worcestershire sauce, salt and pepper. Stir, turn heat up slightly to medium high. When it starts simmering, gently place the rissoles in (including any juices pooled on the plate). Cook rissoles 4 - 5 minutes until the liquid thickens into a thin gravy (aim for thinner than you want, thickens as you serve)."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve rissoles over mash with plenty of sauce! Add a sprinkle of parsley if you&#39;re feeling fancy."
+    }
+  ]
+}

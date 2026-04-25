@@ -1,0 +1,107 @@
+{
+  "id": "tr_1944",
+  "title": "Honey Nut Cheerio Bars.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/03/Honey-Nut-Cheerio-Bars-12.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/honey-nut-cheerio-bars/",
+  "servings": 12,
+  "prepTime": 5,
+  "cookTime": 30,
+  "tags": [
+    "bars",
+    "cheerio",
+    "honey"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 2.0,
+    "carbs": 27.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "original cheerios (use gluten free cheerios for a gluten free version)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "+ 2 tablespoons honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coconut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "baking soda",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "roasted salted cashews",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 350 degrees F. Line a 9x13 inch baking dish with parchment paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the cheerios and cashews to a large mixing bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "In a microwave safe bowl add the honey, coconut oil and brown sugar. Microwave the mixture on 30 seconds interval, stirring until melted and smooth. This took me about 1 minute. Once the honey mixture is melted and easily pourable stir in the baking soda, salt and vanilla. Pour the honey mixture over the cheerios and toss well. Pour the cheerios out into the prepared baking dish. Bake for 25-35 minutes or until the top of the bars are golden brown. This mixture may bubble up a bit, but this is fine."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove from the oven and allow to cool completely, about 2-4 hours before cutting into bars. Once cool cut in bars and wrap in plastic wrap for easy snacking. If bars end up crumbling use as you would cereal or granola."
+    }
+  ]
+}

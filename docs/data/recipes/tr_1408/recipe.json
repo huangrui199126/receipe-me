@@ -1,0 +1,237 @@
+{
+  "id": "tr_1408",
+  "title": "Strawberry Cheesecake",
+  "image": "https://www.recipetineats.com/tachyon/2018/12/Strawberry-Cheesecake_8.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/strawberry-cheesecake/",
+  "servings": 12,
+  "prepTime": 30,
+  "cookTime": 55,
+  "tags": [
+    "strawberry cheesecake"
+  ],
+  "nutrition": {
+    "calories": 489,
+    "protein": 5.0,
+    "carbs": 55.0,
+    "fat": 28.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7oz  Arnott's Marie crackers or other plain biscuit (Aus) or 28 Graham Cracker squares ((Note 1))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 8 tbsp  unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g  cream cheese (, softened (Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "plain flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sour cream ((full fat, sub sour cream))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "caster sugar (superfine sugar)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest of 1 lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs (, at room temperature)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   strawberries (, half diced and half halved)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice OR water ((Note 3))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cornflour/cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 160C/320F (standard) or 140C/295F (fan/convection)."
+    },
+    {
+      "order": 2,
+      "instruction": "Get a 20cm/8\" springform cake tin. Turn the base UPSIDE DOWN (Note 4), butter lightly and place a square piece of parchment/baking paper on the base. Then clip into the springform pan - excess paper will stick out, see photos in post and video."
+    },
+    {
+      "order": 3,
+      "instruction": "Butter and line the side of the pan."
+    },
+    {
+      "order": 4,
+      "instruction": "Break up biscuits roughly by hand and place in a food processor."
+    },
+    {
+      "order": 5,
+      "instruction": "Blitz until fine crumbs (Note 5). Add butter, briefly blitz until dispersed and it resembles wet sand."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour into the prepared cake tin. Use a spatula to roughly spread it out over the base and up the walls."
+    },
+    {
+      "order": 7,
+      "instruction": "Use something with a flat base and vertical edges (I used a measuring cup) to press the crumbs up the wall almost to the top of the sides, and flatten the base."
+    },
+    {
+      "order": 8,
+      "instruction": "Use a mixer or beater to beat the cream cheese until just smooth, no longer than 20 seconds on speed 4. (You do not want to aerate cheesecake filling as it causes cracks when it bakes)"
+    },
+    {
+      "order": 9,
+      "instruction": "Add flour, beat for 5 seconds on speed 4 until just incorporated."
+    },
+    {
+      "order": 10,
+      "instruction": "Add vanilla, sour cream, sugar and lemon zest. Beat until just combined (10 sec max, speed 5)."
+    },
+    {
+      "order": 11,
+      "instruction": "Add eggs one at a time, beat in between until just combined (5 sec each), and after the last one, beat just until the egg is fully incorporated."
+    },
+    {
+      "order": 12,
+      "instruction": "Pour into prepared crust."
+    },
+    {
+      "order": 13,
+      "instruction": "Bake for 55 minutes. The top should be a very light golden brown, not cracked, and near perfectly flat. It should jiggle slightly when you gently shake the pan."
+    },
+    {
+      "order": 14,
+      "instruction": "Cool the cake in the oven with the door open 20 cm / 8\" (Note 6), then refrigerate for 4 hours+ in the pan."
+    },
+    {
+      "order": 15,
+      "instruction": "Remove sides. Use overhang paper to slide cheesecake off the cake pan. Then slide the cheesecake off the paper."
+    },
+    {
+      "order": 16,
+      "instruction": "Place chopped strawberries, vanilla, sugar and lemon juices in a saucepan. Stir then bring to simmer over medium heat."
+    },
+    {
+      "order": 17,
+      "instruction": "Simmer for 10 minutes until strawberries breakdown."
+    },
+    {
+      "order": 18,
+      "instruction": "Mix cornflour with water, then add into saucepan and stir."
+    },
+    {
+      "order": 19,
+      "instruction": "Add halved strawberries and cook for 1 minute to soften."
+    },
+    {
+      "order": 20,
+      "instruction": "Sauce should be syrupy - remove from stove and cool. Will thicken as it cools."
+    },
+    {
+      "order": 21,
+      "instruction": "Once cool, stirl. Adjust thickness to make it the right \"oozing\" consistency (see video, Note 7) with a tiny touch of water (be careful!)."
+    },
+    {
+      "order": 22,
+      "instruction": "Spoon onto cheesecake so it's covered with a single layer of strawberries. Flip strawberry halves so they are facedown. Refrigerate 2 hours+."
+    },
+    {
+      "order": 23,
+      "instruction": "Slice and serve with remaining Strawberry Sauce!"
+    }
+  ]
+}

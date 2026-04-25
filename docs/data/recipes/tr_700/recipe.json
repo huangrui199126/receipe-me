@@ -1,0 +1,105 @@
+{
+  "id": "tr_700",
+  "title": "My favourite Tomato Salad",
+  "image": "https://www.recipetineats.com/tachyon/2022/07/The-Best-Tomato-Salad_0-SQ.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/my-favourite-tomato-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "tomato salad"
+  ],
+  "nutrition": {
+    "calories": 117,
+    "protein": 1.0,
+    "carbs": 5.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  ripe tomatoes ((180g/ 6oz each) (Note 1))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "finely minced eschalots ((US: shallots) (Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "finely minced garlic ((use a knife, not garlic press))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white wine vinegar ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 pinches white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "finely sliced basil leaves (, plus extra for garnish (Note 4))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the tomatoes into 8 or 10 wedges, cutting out the core. Place in a large bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Sprinkle over eschallots, garlic, salt and pepper. Drizzle with olive oil and vinegar."
+    },
+    {
+      "order": 3,
+      "instruction": "Gently toss to coat tomatoes. Add basil, toss again to disperse."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour into bowl and serve immediately! (Tip: Bread for mopping up the tomato juices is on point)."
+    }
+  ]
+}

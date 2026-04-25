@@ -1,0 +1,282 @@
+{
+  "id": "tr_642",
+  "title": "Fish Pie",
+  "image": "https://www.recipetineats.com/tachyon/2018/03/Fish-Pie_2.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fish-pie/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 60,
+  "tags": [
+    "fish pie",
+    "fisherman's pie"
+  ],
+  "nutrition": {
+    "calories": 365,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz   smoked fish of choice ((Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz   raw unsmoked fish of choice (, I used Perch (Note 2))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "/ 750 ml   milk (, low fat or full fat)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  brown onion (, quartered (Note 3))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "(, optional (Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp   unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  small onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small carrot (, finely chopped)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small celery stick (, finely chopped)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "/ 50g  plain flour (all purpose flour, Note 11 for GF)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh tarragon (, finely chopped (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "750",
+      "unit": "g",
+      "name": "/ 1.5 lb   floury potatoes (, peeled and cut into 2.5cm / 1\" pieces (Note 5))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp+   unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml  milk, any fat %",
+      "emoji": "🥛",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "frozen peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  hard boiled eggs (, quartered (optional) (Note 6))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp   butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 15g   grated parmesan cheese (, optional)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley (, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Push a clove into the skin of each onion. Place in a pot or large skillet, add milk, turn stove onto medium high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "When milk is barely simmering, add fish - don't worry if it's not entirely covered, it can be turned / moved around."
+    },
+    {
+      "order": 3,
+      "instruction": "Poach fish for 7 minutes, then use a slotted spoon to transfer fish straight into a medium baking dish (Note 8)."
+    },
+    {
+      "order": 4,
+      "instruction": "Flake into chunks using forks. Remove bones if you see any."
+    },
+    {
+      "order": 5,
+      "instruction": "Use slotted spoon to remove onion and cloves from milk, discard. RESERVE milk."
+    },
+    {
+      "order": 6,
+      "instruction": "Preheat oven to 180C/350F. Boil water for potatoes."
+    },
+    {
+      "order": 7,
+      "instruction": "Melt butter in a large, deep skillet or pot over medium high heat. Add onion and garlic, cook for 1 minute. Then add celery and carrot, cook for 5 minutes until carrot is soft."
+    },
+    {
+      "order": 8,
+      "instruction": "Turn heat down to medium low. Add flour, mix in - it will look gluey."
+    },
+    {
+      "order": 9,
+      "instruction": "Add half the milk and quickly start mixing. Once incorporated, the mixture will thicken quickly. Add remaining milk and stir. (Video helpful here)"
+    },
+    {
+      "order": 10,
+      "instruction": "Turn heat up to medium and keep stirring until the mixture thickens to the consistency of honey - about 3 minutes. (Note 7)"
+    },
+    {
+      "order": 11,
+      "instruction": "Take it off the heat, stir through tarragon and parsley. Adjust salt and pepper to taste."
+    },
+    {
+      "order": 12,
+      "instruction": "Scatter top of flaked fish with peas, then pour over the Sauce. GENTLY stir through (don't want fish to turn into mush!).*"
+    },
+    {
+      "order": 13,
+      "instruction": "Smooth top, then nestle egg in all over the pie."
+    },
+    {
+      "order": 14,
+      "instruction": "Bring a large pot of water to the boil.&nbsp;Add potatoes and cook for 15 minutes or until soft. (Do this while making the Sauce)."
+    },
+    {
+      "order": 15,
+      "instruction": "Drain potato, add butter, milk, salt and pepper. Mash until creamy - add more milk if required."
+    },
+    {
+      "order": 16,
+      "instruction": "Immediately dollop then spread onto pie (cold mash = hard to spread)."
+    },
+    {
+      "order": 17,
+      "instruction": "Use fork to draw squiggles on surface (rough surface = better golden bits)."
+    },
+    {
+      "order": 18,
+      "instruction": "Drizzle surface with melted butter, sprinkle with parmesan."
+    },
+    {
+      "order": 19,
+      "instruction": "Bake for 35 minutes or until top is deep golden."
+    },
+    {
+      "order": 20,
+      "instruction": "Stand for 5 minutes before serving, garnished with parsley if desired. See notes for reheating and make ahead."
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "tr_205",
+  "title": "Creamy Seafood Pasta Bake",
+  "image": "https://www.recipetineats.com/tachyon/2016/06/Seafood-Gratin-Pasta_10.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/seafood-gratin-pasta-bake/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 514,
+    "protein": 33.2,
+    "carbs": 56.9,
+    "fat": 17.5
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "7",
+      "unit": "oz",
+      "name": "/ 200 g   macaroni or other pasta of choice",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500 g   mixed raw seafood ((Marinara seafood mix) (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  leeks (, white and pale green part only finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  chicken bouillon cube ((or 1 1/2 tsp chicken stock powder) OR 1/2 cup grated parmesan cheese)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "panko",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "grated parmesan cheese ((high recommended))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped fresh parsley ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook pasta according to packet directions. Drain and pour into baking dish."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 1 tbsp oil in a skillet over very high heat. Add seafood and sear for 30 seconds, turn then sear the other side for 30 seconds (should still be raw inside). Remove into baking dish."
+    },
+    {
+      "order": 4,
+      "instruction": "Return pan to stove, add remaining 1/2 tbsp oil and turn down to medium. Cook leeks and garlic for 3 minutes or until soft. Add to baking dish."
+    },
+    {
+      "order": 5,
+      "instruction": "Mix pasta, seafood and leeks together in the baking dish."
+    },
+    {
+      "order": 6,
+      "instruction": "Melt butter in the skillet. Add flour and mix into the butter. Cook for 1 minute,"
+    },
+    {
+      "order": 7,
+      "instruction": "Add 1 cup of milk and use a whisk to combine - it will thicken quickly. Add remaining milk and bouillon cube (crumbled) and whisk to combine. Cook, whisking occasionally at first then constantly as it thickens, for around 5 minutes or until the sauce is thick enough to coat the back of a wooden spoon (see photo in post). Season with salt and pepper."
+    },
+    {
+      "order": 8,
+      "instruction": "Pour into the baking dish. Top with panko and parmesan."
+    },
+    {
+      "order": 9,
+      "instruction": "Bake for 20 - 25 minutes, or until the top is golden."
+    },
+    {
+      "order": 10,
+      "instruction": "Rest for 5 minutes before serving, garnished with fresh parsley if desired."
+    },
+    {
+      "order": 11,
+      "instruction": "I served this with garlic spinach (Note 2)."
+    }
+  ]
+}

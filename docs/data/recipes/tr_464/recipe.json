@@ -1,0 +1,133 @@
+{
+  "id": "tr_464",
+  "title": "Pikelets",
+  "image": "https://www.recipetineats.com/tachyon/2016/06/Pikelets-51079.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pikelets/",
+  "servings": 12,
+  "prepTime": 5,
+  "cookTime": 12,
+  "tags": [
+    "pikelets"
+  ],
+  "nutrition": {
+    "calories": 69,
+    "protein": 2.3,
+    "carbs": 13.2,
+    "fat": 0.8
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "plain flour  (/ all-purpose flour (Note 1))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of  salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg ((50-55g / 2 oz in shell))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "milk ((full fat best, but any type even non dairy ok))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "vanilla extract ((optional but recommended))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Strawberry jam",
+      "emoji": "🍓",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Whipped cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Whisk dry - Whisk the flour, baking powder, salt and sugar in a bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Add wet - Make a well in the centre. Add the egg, milk and vanilla, then whisk until it&#39;s almost lump free. The batter should be the consistency like thick honey - looser than tomato sauce, thicker than maple syrup. (Note 2)"
+    },
+    {
+      "order": 3,
+      "instruction": "Melt 1 tsp butter in a non-stick pan over medium high heat (or medium, for strong stoves). Then most of the butter off with a paper towel so there are no visible drops of bubbles of butter (Note 3)."
+    },
+    {
+      "order": 4,
+      "instruction": "Drop ~2 tbsp batter into the pan and coax into 7.5cm/3&quot; rounds. An ice cream scoop with lever will be your friend here. I cook 4 at a time."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook until bubbles appear on the surface and once 4 or more of these bubbles pop (1 1/2 minutes), this means they are ready to flip. Flip with confidence! Then cook the other side for 1 minute or until golden."
+    },
+    {
+      "order": 6,
+      "instruction": "Keep cooking - Remove onto a plate. Cook the next batch (no need to add extra butter until 3rd batch)."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve warm with jam and cream, or butter!"
+    }
+  ]
+}

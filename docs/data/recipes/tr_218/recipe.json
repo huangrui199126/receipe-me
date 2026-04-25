@@ -1,0 +1,175 @@
+{
+  "id": "tr_218",
+  "title": "Peruvian Chicken with Garlic Butter Rice",
+  "image": "https://www.recipetineats.com/tachyon/2015/12/Peruvian-Roast-Chicken_1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/peruvian-roast-chicken/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 45,
+  "tags": [],
+  "nutrition": {
+    "calories": 445,
+    "protein": 67.2,
+    "carbs": 2.6,
+    "fat": 16.7
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2.5",
+      "unit": "lb",
+      "name": "(1.2 kg)  chicken pieces ((Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "garlic powder OR 3 garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "paprika powder ((preferably smoked but plain is ok))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice (, fresh (1 lime))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely diced (white, brown, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "long grain rice (, uncooked)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken broth / stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 4 tbsp butter ((Note 3))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the Marinade ingredients in a small bowl and mix until lump free."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the chicken in a ziplock bag (my preferred method) or non reactive bowl and coat with Marinade. Marinade for at least 3 hours, preferably overnight (24 hours) OR freeze it straight away, then it will marinade while it defrosts."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 180C/350F. Place chicken in a baking dish, skin side up. Slather leftover marinade onto the skin. Roast for 45 minutes or until deep burnt-red golden brown in colour."
+    },
+    {
+      "order": 4,
+      "instruction": "Rest for 5 minutes before serving with Garlic Butter Rice and a green salad."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat oil in a saucepan over medium heat. Add garlic and onion and cook for 5 minutes until onion is translucent and sweet."
+    },
+    {
+      "order": 6,
+      "instruction": "Add rice and stir so the rice becomes translucent. Add broth and water, then cover and turn heat down to medium low."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook for 12 to 15 minutes until the liquid has JUST evaporated, then remove from stove and allow to rest for 10 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "After resting, add the butter and stir the rice to fluff it up and disperse the butter."
+    }
+  ]
+}

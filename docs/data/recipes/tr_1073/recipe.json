@@ -1,0 +1,185 @@
+{
+  "id": "tr_1073",
+  "title": "Apple Crumble Bars",
+  "image": "https://www.recipetineats.com/tachyon/2019/05/Apple-Crumble-Bars_9.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/apple-crumble-bars/",
+  "servings": 9,
+  "prepTime": 20,
+  "cookTime": 35,
+  "tags": [
+    "apple crumble bars"
+  ],
+  "nutrition": {
+    "calories": 328,
+    "protein": 4.0,
+    "carbs": 51.0,
+    "fat": 12.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 1 stick   unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(300g)   flour (, plain/all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(100g)  white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "(30g)   rolled oats (Note 1)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 4  large granny smith apples (, cut into 0.7cm / 1/3\" dice(~4 cups))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(35g)   plain flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(50g)   white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "nutmeg",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salted caramel sauce",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Ice cream!",
+      "emoji": "🥛",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350."
+    },
+    {
+      "order": 2,
+      "instruction": "Grease a 20cm/8\" square pan and line with baking/parchment paper with overhang (so it can be lifted out once cooked)."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix together butter, flour, sugar, baking powder and salt until you can no longer see white bits of flour."
+    },
+    {
+      "order": 4,
+      "instruction": "Add egg and mix."
+    },
+    {
+      "order": 5,
+      "instruction": "Lightly press 2/3 of the mixture into the bottom of the pan."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake for 15 minutes until slightly golden, then remove and cool for 5 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Apple Filling: While the base is cooking, mix together Apple Filling ingredients in a bowl."
+    },
+    {
+      "order": 8,
+      "instruction": "Add oats into reserved crumble mixture. Mix with wooden spoon / fingers until oats are mostly incorporated into the dough."
+    },
+    {
+      "order": 9,
+      "instruction": "Spread Apple Filling on base, then use hands to crumble topping all over."
+    },
+    {
+      "order": 10,
+      "instruction": "Bake for 30 - 35 minutes or until the top is deep golden."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove and allow to cool in the tin before lifting out of the tin using the baking paper."
+    },
+    {
+      "order": 12,
+      "instruction": "Cut and serve! Eat with hands, or serve on plates. Take it over the top with ice cream and salted caramel sauce!"
+    }
+  ]
+}

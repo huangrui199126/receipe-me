@@ -1,0 +1,248 @@
+{
+  "id": "tr_1850",
+  "title": "Chili Style Sweet Potato Black Bean Burgers w/Baked Cheddar Beer Onion Rings + Fried Eggs.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/10/Sweet-Potato-Black-Bean-Chili-Burgers-w-Baked-Cheddar-Beer-Onion-Rings-Fried-Egg.-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/sweet-potato-black-bean-chili-burgers-wbaked-cheddar-beer-onion-rings-fried-egg/",
+  "servings": 5,
+  "prepTime": 30,
+  "cookTime": 35,
+  "tags": [
+    "beer",
+    "black bean",
+    "burger",
+    "cheddar"
+  ],
+  "nutrition": {
+    "calories": 793,
+    "protein": 13.0,
+    "carbs": 51.0,
+    "fat": 11.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "cooked quinoa",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "mashed sweet potatoes (about 1 medium sweet potato)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "black beans (finely mashed)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoons",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg (lightly beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "worchestire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "shredded sharp cheddar cheese (plus more for topping)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  of your favorite burger buns (toasted (optional, try eating these atop lettuce!))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  fried eggs (optional... but not really)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 inch large sweet onions (cut into 1/2 slices)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "buttermilk",
+      "emoji": "🧈",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "of your favorite beer (I used pumpkin beer)",
+      "emoji": "🍺",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "whole wheat flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "cheddar cheese crackers (finely crushed (gold fish or cheez it's))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Panko bread crumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt + 1/2 teaspoon pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a bowl combine the quinoa, mashed sweet potatoes, mashed black beans, tomato paste, egg, chili powder, smoked paprika, cinnamon, cayenne, salt, pepper, brown sugar and worchestire. Mix well to moisten the ingredients and then mix in the shredded cheddar cheese. Mix well again and form into 4 or 5 equal burger patties (I made 4). The mixture will be very wet and sticky, this is fine, just make rough circles. Place on a plate lined with wax paper and place in the fridge while you prepare the onion rings."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat the oven to 450 degrees F. Line 2 baking sheets with parchment paper or a silpat."
+    },
+    {
+      "order": 3,
+      "instruction": "To make the onion rings, whisk together the flour, buttermilk, beer and dijon mustard in medium size mixing bowl. In another shallow bowl, mix together the cheddar cheese cracker crumbs, Panko bread crumbs, smoked paprika, salt and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Now take the slices of onion and dip them through the buttermilk/beer mixture, making sure they are completely covered in batter. Using your other clean hand, dredge the onion ring through the cheddar crumbs, coating completely. Place on the prepared baking sheet and repeat with the remaining onion slices. Once you have coated all the onions slices, lightly spray them with olive oil or cooking spray."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake for 20 to 25 minutes, or until coating is crisp, flipping half way through. Season with salt, to taste."
+    },
+    {
+      "order": 6,
+      "instruction": "While the onion rings are baking, cook the burgers. Heat a large skillet over medium heat and add 2 tablespoons olive oil. Remove patties from the fridge and place in the hot skillet. They will be moist and sticky. Cook for 5-6 minutes, then if needed add more oil and flip the burgers very gently (be gentle, they crumble easily when hot). Cook for another 5-6 minutes. It is important to not flip the burgers until they are ready. During the last minute or so of cooking add some cheddar cheese to the top of each burger, cover the pan and cook 2-3 minutes or until the cheese has melted. My burgers were a little moist and very delicate, if they break on you, just put them back together the best you can. Once you remove them from the skillet and they cool slightly, they will firm up."
+    },
+    {
+      "order": 7,
+      "instruction": "To assemble the burgers, place each burger on a bun (or lettuce), top with an egg and a few onion rings."
+    }
+  ]
+}

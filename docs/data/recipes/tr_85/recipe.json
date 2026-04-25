@@ -1,0 +1,159 @@
+{
+  "id": "tr_85",
+  "title": "Chorizo Breakfast Hash with Crispy Smashed Potatoes and Eggs",
+  "image": "https://www.recipetineats.com/tachyon/2015/01/Chorizo-Bacon-Smashed-Potato-Breakfast-Hash-LR-edited-FINAL.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chorizo-bacon-smashed-potato-breakfast-hash/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 555,
+    "protein": 33.1,
+    "carbs": 24.1,
+    "fat": 36.1
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 (220g / 7oz)  baby potatoes  (, skin on)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  rashers of bacon (, or 3 strips of streaky bacon, cut into large dice)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "oz",
+      "name": "/ 100g   chorizo ((about 1/2 chorizo), sliced 1/2cm / 1/5\" thick)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cherry tomatoes (, halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 or 4   eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Avocado slices ((optional))",
+      "emoji": "🥑",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "fresh parsley (, finely chopped (optional, for garnish))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crusty bread to serve",
+      "emoji": "🍞",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Steam, boil or microwave the potatoes until soft. (Note 1)"
+    },
+    {
+      "order": 2,
+      "instruction": "Cut the potatoes in half."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat a skillet or fry pan over high heat."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the bacon (add a dash of olive oil if you have lean bacon) and fry until browned but not crisp."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove onto a plate with a slotted egg flip. (Note 2)"
+    },
+    {
+      "order": 6,
+      "instruction": "Add the chorizo into the same fry pan and cook each side until browned, around 2 to 3 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove on the plate with the bacon. (Note 2)"
+    },
+    {
+      "order": 8,
+      "instruction": "Place the potatoes, cut side down, into the fry pan. Use the egg flip or a potato masher to \"smash\" the potatoes down so they flatten onto the fry pan. Sprinkle with salt."
+    },
+    {
+      "order": 9,
+      "instruction": "Cook the first side until golden brown - around 1 to 1 1/2 minutes. Then turn and cook the other side until just golden brown, pressing down with the egg flip - around 1 to 1 1/2 minutes. Sprinkle with salt."
+    },
+    {
+      "order": 10,
+      "instruction": "Add the bacon, chorizo and cherry tomatoes into the fry pan. Toss gently."
+    },
+    {
+      "order": 11,
+      "instruction": "Crack the eggs into the pan. Drizzle the water down the side of the pan, then put a lid on the fry pan (Note 3). The eggs will \"steam cook\"."
+    },
+    {
+      "order": 12,
+      "instruction": "Cook until the eggs are cooked to your liking. For \"just set\" egg white with runny yolks, it is usually around 1 1/2 minutes."
+    },
+    {
+      "order": 13,
+      "instruction": "Remove from the stove, sprinkle with salt and pepper. Top with sprinkle of parsley and avocado (if using)."
+    },
+    {
+      "order": 14,
+      "instruction": "Serve with crusty bread or toast."
+    }
+  ]
+}

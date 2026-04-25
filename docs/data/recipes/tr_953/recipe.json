@@ -1,0 +1,214 @@
+{
+  "id": "tr_953",
+  "title": "Thai Coconut Soup",
+  "image": "https://www.recipetineats.com/tachyon/2018/10/Coconut-Noodle-Soup_3.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easy-thai-coconut-soup-with-shrimp-prawns/",
+  "servings": 2,
+  "prepTime": 8,
+  "cookTime": 12,
+  "tags": [
+    "coconut curry soup",
+    "thai coconut soup"
+  ],
+  "nutrition": {
+    "calories": 665,
+    "protein": 17.0,
+    "carbs": 52.0,
+    "fat": 46.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "10  prawns/shrimp (, peeled and deveined (Note 1))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger (, finely grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemongrass (, peeled, finely grated (Note 2))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "fish sauce ((or soy sauce))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "curry powder ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "coriander powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "chilli garlic paste or other chilli paste (, adjust to taste (Note 4))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400 g/14oz   coconut milk ((Note 5))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/500ml   chicken broth ((or vegetable))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lime zest ((1 lime))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7 oz   fresh egg noodles, (prepared per packet (other noodles Note 6))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Big handful bean sprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced red onion ((or sliced green onion), Fried Asian shallots (Note 7), sliced red chilli, more chilli paste (optional))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large saucepan over high heat. Add prawns and sear both sides until light golden (doesn't need to cook inside). Remove onto plate."
+    },
+    {
+      "order": 2,
+      "instruction": "Turn heat down to medium. If pot is looking dry, add a touch of extra oil."
+    },
+    {
+      "order": 3,
+      "instruction": "Add garlic, ginger and lemongrass. Saute for 20 seconds until garlic is golden."
+    },
+    {
+      "order": 4,
+      "instruction": "Add sugar and fish sauce. Stir and cook for 30 seconds - it should look like caramel."
+    },
+    {
+      "order": 5,
+      "instruction": "Add chilli paste, coriander and curry powder. Stir and cook for 30 seconds."
+    },
+    {
+      "order": 6,
+      "instruction": "Add chicken broth and coconut milk. Stir and bring to simmer."
+    },
+    {
+      "order": 7,
+      "instruction": "Simmer for 2 minutes, then add lime zest and return prawns into broth."
+    },
+    {
+      "order": 8,
+      "instruction": "Cook for 2 minutes just to reheat and finish cooking the prawns."
+    },
+    {
+      "order": 9,
+      "instruction": "Place noodles in bowl. Ladle over soup."
+    },
+    {
+      "order": 10,
+      "instruction": "Top with bean sprouts and coriander, plus toppings of choice (chilli, red onion, Asian fried shallots)."
+    },
+    {
+      "order": 11,
+      "instruction": "Squeeze over lime juice to taste. Slurp and be happy!"
+    }
+  ]
+}

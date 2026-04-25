@@ -1,0 +1,167 @@
+{
+  "id": "tr_644",
+  "title": "Beef Barbacoa - Mexican Pulled Beef for Tacos and everything!",
+  "image": "https://www.recipetineats.com/tachyon/2021/03/Beef-Barbacoa_2-SQ.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/beef-barbacoa/",
+  "servings": 10,
+  "prepTime": 10,
+  "cookTime": 495,
+  "tags": [
+    "barbacoa",
+    "barbacoa beef",
+    "barbacoa tacos"
+  ],
+  "nutrition": {
+    "calories": 372,
+    "protein": 35.0,
+    "carbs": 3.0,
+    "fat": 24.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "kg",
+      "name": "/ 4 lb  beef cheeks (, or chuck beef(see Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt (, kosher/cooking)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vegetable oil (, for searing)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  bay leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  chipotle chiles in adobo sauce ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "dark ale (beer), or low sodium beef broth/stock ( (Note 3))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  garlic cloves",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "ground cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut beef: Cut large cheeks in half so you have around 12 - 15 pieces cheeks. If using chuck, cut into 12 or so pieces."
+    },
+    {
+      "order": 2,
+      "instruction": "Season: Sprinkle with salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Brown beef: Heat oil in a large pot or skillet over high heat. Sear beef in batches, browning aggressively all over. Place beef in slow cooker."
+    },
+    {
+      "order": 4,
+      "instruction": "Blitz sauce: Place Barbacoa Sauce ingredients in a blender, food processor or similar (I use a Nutribullet). Blend until smooth – it shouldn&#039;t take long."
+    },
+    {
+      "order": 5,
+      "instruction": "Slow cooker (see Note 4 for alt. cooking methods): Pour sauce over cheeks in slow cooker. Add bay leaves. Arrange cheeks so they are submerged as much as possible. Don&#039;t worry, they will release juice as they cook and raise the liquid level."
+    },
+    {
+      "order": 6,
+      "instruction": "Slow-cook for 8 hours on low. The beef should be effortless to shred when done."
+    },
+    {
+      "order": 7,
+      "instruction": "Shred: Remove cheeks from slow cooker into a pan. Shred using 2 forks."
+    },
+    {
+      "order": 8,
+      "instruction": "Sauce: Pour over 3 or 4 ladles of the sauce, then toss."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve: Use in tacos with taco fixings of choice! Pictured with Mexican Red Rice, Pickled Red Cabbage for Tacos (in this Fish Tacos recipe) and Lime Crema (Note 5)."
+    }
+  ]
+}

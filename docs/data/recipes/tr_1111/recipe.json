@@ -1,0 +1,147 @@
+{
+  "id": "tr_1111",
+  "title": "Chinese Steamed Fish with Ginger Shallot Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2016/11/Chinese-Fish-Ginger-Shallot-Sauce-2.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-steamed-fish-with-ginger-shallot-sauce/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 229,
+    "protein": 17.2,
+    "carbs": 1.2,
+    "fat": 16.7
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 x 350 - 400g / 12 - 13 oz  bream or snapper fish (, gutted, scaled and cleaned (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  stems of shallots ((scallions / green onions), diagonally julienned to 5cm/2\" length)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 x 3cm / 1 x 2\" piece of  ginger julienned",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Japanese cooking sake ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 pinches of  salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "soy sauce ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "oil ((vegetable, canola or peanut oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Red chilli julienned ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut 2 slashes on each side of the fish. Cut through to the bone."
+    },
+    {
+      "order": 2,
+      "instruction": "Drizzle 1 tbsp of sake onto each fish."
+    },
+    {
+      "order": 3,
+      "instruction": "Steam fish using method of choice, or bake (see directions below)."
+    },
+    {
+      "order": 4,
+      "instruction": "Meanwhile, heat oil over medium high heat until hot."
+    },
+    {
+      "order": 5,
+      "instruction": "Transfer fish onto serving plates. Top with shallots and ginger."
+    },
+    {
+      "order": 6,
+      "instruction": "Sprinkle with salt, drizzle over soy sauce and sesame oil."
+    },
+    {
+      "order": 7,
+      "instruction": "Pour oil over fish - enjoy the drama as it bubbles!"
+    },
+    {
+      "order": 8,
+      "instruction": "Sprinkle with red chilli if using and serve with rice and steamed Asian Greens."
+    },
+    {
+      "order": 9,
+      "instruction": "Place fish on a plate and put plate in bamboo steamer. Repeat with other fish. Stack bamboo steamers and put lid on."
+    },
+    {
+      "order": 10,
+      "instruction": "Fill wok with water, ensuring it doesn't touch the bottom of the steamer. Bring water to boil over high heat, then place bamboo steamer on wok."
+    },
+    {
+      "order": 11,
+      "instruction": "Steam for 10 minutes. Carefully transfer fish onto serving places."
+    },
+    {
+      "order": 12,
+      "instruction": "Wrap each fish in foil, place on tray. Bake at 180C/350F for 15 minutes. Open foil and carefully transfer fish onto serving plates."
+    },
+    {
+      "order": 13,
+      "instruction": "Steamer fitted inside a large pot, or a microwave steamer."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "tr_1172",
+  "title": "Tomato Basil Rice",
+  "image": "https://www.recipetineats.com/tachyon/2018/08/Tomato-Basil-Rice_5.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tomato-basil-rice/",
+  "servings": 4,
+  "prepTime": 7,
+  "cookTime": 15,
+  "tags": [
+    "tomato rice"
+  ],
+  "nutrition": {
+    "calories": 245,
+    "protein": 4.0,
+    "carbs": 43.0,
+    "fat": 5.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil ((or butter))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  brown onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "tsp",
+      "name": "dried basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(180g)  long grain white rice (, uncooked (Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 3/4",
+      "unit": "cups",
+      "name": "(435 ml)  chicken broth (, full salt (or Veg broth))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "paprika (, sweet or normal (not smoked))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar ((any))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "sprig",
+      "name": "of basil with leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "finely chopped basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large saucepan over medium heat. Add garlic and onion, cook until translucent, 2 - 3 minutes. Add basil and cook for 20 seconds - don't let it burn."
+    },
+    {
+      "order": 2,
+      "instruction": "Add remaining ingredients except basil. Mix until tomato paste is dissolved.&nbsp;"
+    },
+    {
+      "order": 3,
+      "instruction": "Crush basil sprig in hand, drop on surface then push in (leave on surface, don't stir)."
+    },
+    {
+      "order": 4,
+      "instruction": "Cover and bring to simmer, then immediately turn down heat to medium low (or low if stove is strong) and cook for 15 minutes or until liquid is fully absorbed - tilt saucepan to check.&nbsp;"
+    },
+    {
+      "order": 5,
+      "instruction": "Remove from heat and set aside, covered, for 10 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove basil sprig. Fluff with fork, taste for salt. Then leave to stand for another 5 minutes, uncovered. Stir through fresh basil. Serve immediately."
+    }
+  ]
+}

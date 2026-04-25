@@ -1,0 +1,264 @@
+{
+  "id": "tr_1955",
+  "title": "BBQ Chickpea and Crispy Polenta Bowls with Asparagus + Ranch Hummus.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/02/Spicy-BBQ-Chickpea-and-Crispy-Polenta-Bowls-with-Asparagus-+-Ranch-Hummus.-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/spicy-bbq-chickpea-crispy-polenta-bowls-asparagus-ranch-hummus/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 25,
+  "tags": [
+    "bbq",
+    "chickpeas",
+    "polenta",
+    "ranch"
+  ],
+  "nutrition": {
+    "calories": 926,
+    "protein": 23.0,
+    "carbs": 102.0,
+    "fat": 46.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "cooked cannellini/great northern beans (or 1 can (drained and rinsed))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "tahini (sesame paste)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "greek yogurt or sour cream (I like greek yogurt, leave out for vegan version)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemon (juiced)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dried parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "teaspoon",
+      "name": "dried dill",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "dried chives",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "asparagus (ends trimmed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil (divided)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Good pinch of salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "of [your favorite BBQ sauce | https://www.halfbakedharvest.com/homemade-barbecue-sauce-just-like-sweet-baby-rays/]",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "rounded creole seasoning",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "rounded cajun seasoning",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "tube polenta (cut into 1/2 inch slices (use 2 tubes for a hungrier crowd), 1)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "parmesan cheese (grated (leave out for vegan version))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "cooked chickpeas (or 2 cans of rinsed + drained chickpeas)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "fresh arugula (spinach or your favorite greens)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 pint grape tomatoes (halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  avocado (sliced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-4 ounces sharp cheddar cheese (shredded (leave out for vegan version))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To make the hummus add the beans, tahini, greek yogurt, lemon juice, garlic, parsley, dill, onion powder, chives, pepper and salt to the bowl of a food processor. Puree the mixture until smooth, scrapping down the sides if necessary. With the machine running stream in the olive oil until smooth. Taste and season with salt and pepper if desired. Place in the fridge until ready to use."
+    },
+    {
+      "order": 2,
+      "instruction": "For the bowls, preheat the oven to 400 degrees."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the asparagus in a roasting pan or on a baking baking sheet and toss with the 1 tablespoon olive oil, salt and pepper. Roast in the preheated oven for 25-30 minutes or until tender and crisp. Remove and chop into thirds."
+    },
+    {
+      "order": 4,
+      "instruction": "While asparagus are roasting, add the BBQ sauce, creole seasoning, cajun seasoning and a pinch of cayenne to a glass measuring cup. Place the chickpeas in a medium bowl and toss with half the BBQ sauce or enough to completely coat the chickpeas. Reserve the remaining sauce."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat a medium sized skillet over medium heat. Add 1 tablespoon olive oil and the polenta slices. Let them sit undisturbed for 5 minutes. Flip and sear another 5, or until lightly crisped and golden on both sides. Remove and keep warm."
+    },
+    {
+      "order": 6,
+      "instruction": "To the skillet add the chickpea mixture and cook for about 5-10 minutes or until the BBQ sauce has a thick + sticky coating over the chickpeas. Remove from the heat and stir in one more tablespoon of the BBQ sauce."
+    },
+    {
+      "order": 7,
+      "instruction": "To assemble place some arugula in the bottom of you bowls. Add the warm + crispy polenta rounds. asparagus, tomatoes, warm BBQ chickpeas and avocado slices. Add a dollop of the Ranch Hummus and sprinkle the cheddar cheese or parmesan cheese on top. Serve with the remaining BBQ sauce."
+    }
+  ]
+}

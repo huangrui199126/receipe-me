@@ -1,0 +1,142 @@
+{
+  "id": "tr_423",
+  "title": "Bangers &amp; Mash (Sausage with Onion Gravy)",
+  "image": "https://www.recipetineats.com/tachyon/2016/10/Bangers-and-Mash-with-Onion-Gravy_42-SQ.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/bangers-and-mash-sausage-with-onion-gravy/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "bangers and mash",
+    "sausage with onion gravy"
+  ],
+  "nutrition": {
+    "calories": 666,
+    "protein": 36.4,
+    "carbs": 7.6,
+    "fat": 53.4
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  sausages of choice ((Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion (, halved and finely sliced (yellow, white or brown) (Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "flour ((plain))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "beef stock/broth",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mashed potato",
+      "emoji": "🥔",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook sausages: Heat oil in a large skillet / fry pan over medium high heat. Add sausages and cook, turning, until browned as much as possible all over and cooked through. Cook time will differ depending on sausage size - mine take around 8 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Remove sausages onto a plate. Turn heat down to medium."
+    },
+    {
+      "order": 3,
+      "instruction": "2 tbsp oil remaining: You need around 2 tbsp oil left in the skillet. If you have much less, add a bit of butter or oil."
+    },
+    {
+      "order": 4,
+      "instruction": "Saute onion and garlic: Add onion and garlic, cook until golden brown - around 4 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook off flour 2 minutes: Add flour and mix through. Then cook, stirring constantly for 2 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Gradually add beef stock: Add about 3/4 cup of beef broth and mix into the onion so it becomes a sludge. Then add remaining beef broth and mix until combined. If it&#39;s lumpy, use a whisk to help make it smooth."
+    },
+    {
+      "order": 7,
+      "instruction": "Thicken gravy: Simmer, stirring, for 2 to 3 minutes until the gravy thickens but is slightly thinner than you want - it will thicken more as you serve it."
+    },
+    {
+      "order": 8,
+      "instruction": "Season: Add salt and pepper. Stir, taste, then add more salt if you want."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve sausages with plenty of gravy, with mashed potato and peas on the side. (Low carb option - Creamy Cauliflower Mash)"
+    }
+  ]
+}

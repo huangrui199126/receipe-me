@@ -1,0 +1,145 @@
+{
+  "id": "tr_917",
+  "title": "Sausage Pasta",
+  "image": "https://www.recipetineats.com/tachyon/2017/08/Sausage-Pasta-3.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sausage-pasta/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "sausage pasta"
+  ],
+  "nutrition": {
+    "calories": 585,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 0.5 lb   spiral pasta ((Note 1))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   good Italian sausages (, or other quality sausages of choice)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 28 oz   crushed tomato ((or tomato passata))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "chilli flakes / red pepper flakes ((adjust to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2  big handfuls baby spinach ((optional))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Basil leaves (, finely sliced)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a large pot of water to the boil. Cook pasta per packet directions MINUS 1 -2 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Just before you drain, RESERVE 1 cup of pasta cooking water. Then drain pasta."
+    },
+    {
+      "order": 3,
+      "instruction": "Use a sharp knife to cut sausages into chunks about 1.5cm/3/5\". It will get a bit smeary and the chunks will be weird shapes - don't worry, it self fixes while cooking!"
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil in a large skillet over high heat. Add sausages and cook until quite browned on the outside, doesn't have to be cooked through inside."
+    },
+    {
+      "order": 5,
+      "instruction": "Add onion and garlic, cook for 2 minutes until onion is translucent and sausages are very browned."
+    },
+    {
+      "order": 6,
+      "instruction": "Add tomato, chilli flakes, pinch of salt and pepper. Mix and turn heat down to medium. Lets it bubble away energetically for 8 minutes or until it is quite thickened, stirring every now and then."
+    },
+    {
+      "order": 7,
+      "instruction": "Add baby spinach (if using), pasta, and about 1/2 cup pasta cooking water. Toss quickly, no longer than 1 minute (otherwise the pasta may start to break)."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove from stove, and serve immediately, garnished with plenty of basil and parmesan. Enjoy!"
+    }
+  ]
+}

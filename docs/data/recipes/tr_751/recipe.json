@@ -1,0 +1,119 @@
+{
+  "id": "tr_751",
+  "title": "Maple Roasted Pumpkin with Chili and Feta",
+  "image": "https://www.recipetineats.com/tachyon/2015/04/Roast-pumpkin-maple-feta-chilli_9.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/maple-roasted-pumpkin-with-chili-and-feta/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 165,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "lb",
+      "name": "/ 1 kg   pumpkin (, peeled, cut into 2.5cm / 1&quot; cubes (whole, unpeeled weight - Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion (, peeled, halved, then cut into 1cm / 0.4&quot; wedges)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "walnuts (, roughly chopped (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "maple syrup (or honey (sub brown sugar Note 3),)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 1 1/2 tsp dried chili flakes (, adjust to taste (Note 4))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "Danish feta ((or Greek feta, or upgrade to goats cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large red chilli ((cayenne pepper), deseeded, finely minced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "parsley (finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/400°F (180°C fan-forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss - Place the pumpkin, onion and walnuts on a large, paper lined tray. Drizzle with olive oil and maple syrup, then toss to coat (hands really is best). Sprinkle with chilli and salt, toss again, then spread out on a tray. Don&#39;t crowd them else they will stew instead of roast!"
+    },
+    {
+      "order": 3,
+      "instruction": "Roast for 30 minutes, or until the pumpkin is lightly browned and cooked through, tossing once at the 20 minute mark."
+    },
+    {
+      "order": 4,
+      "instruction": "Finishes - Remove from the oven. Gently toss again, then transfer to a serving platter in a single layer. Crumble over feta, sprinkle with parsley and chilli. Or do the sprinkling on the tray then pile into a bowl. Serve immediately!"
+    }
+  ]
+}

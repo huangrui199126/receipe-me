@@ -1,0 +1,139 @@
+{
+  "id": "tr_949",
+  "title": "Sticky Grilled Chicken",
+  "image": "https://www.recipetineats.com/tachyon/2020/06/Sticky-Grilled-Chicken_7-SQ.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sticky-grilled-chicken/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "grilled chicken",
+    "grilled chicken marinade",
+    "sticky grilled chicken"
+  ],
+  "nutrition": {
+    "calories": 297,
+    "protein": 35.0,
+    "carbs": 14.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "700g/ 1.4lb   chicken thighs (, skinless boneless (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "ketchup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "brown sugar (, packed)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "soy sauce (, all purpose or light (NOT dark))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "Worcestershire Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Marinade in a large bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Scoop out 1/2 cup and reserve for basting (&quot;Glaze&quot;)."
+    },
+    {
+      "order": 3,
+      "instruction": "Add chicken, turn to coat. Marinade overnight (minimum 3 hours, up to 48 hours, or freeze)."
+    },
+    {
+      "order": 4,
+      "instruction": "Brush BBQ with vegetable or canola oil, then preheat to medium."
+    },
+    {
+      "order": 5,
+      "instruction": "Pick up chicken, allowing excess Marinade to drip off."
+    },
+    {
+      "order": 6,
+      "instruction": "Place on BBQ, cook 4 minutes until nicely caramelised."
+    },
+    {
+      "order": 7,
+      "instruction": "Turn chicken, then brush generously with Glaze. Cook 4 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Flip, brush with more Glaze, flip again and brush with Glaze."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove chicken onto plate, cover loosely with foil."
+    },
+    {
+      "order": 10,
+      "instruction": "Rest 3 minutes before serving, sprinkled with parsley if using. Pictured in post with Macaroni Salad!"
+    },
+    {
+      "order": 11,
+      "instruction": "Stove - follow up steps in a non stick pan, heated to medium high with 1 tbsp oil (cook in batches if needed)."
+    },
+    {
+      "order": 12,
+      "instruction": "Oven - use this recipe: Sticky Baked Chicken"
+    }
+  ]
+}

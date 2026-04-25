@@ -1,0 +1,250 @@
+{
+  "id": "tr_1114",
+  "title": "Ayam Goreng (Malaysian Fried Chicken)",
+  "image": "https://www.recipetineats.com/tachyon/2021/07/Ayam-Goreng_08-SQ.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/ayam-goreng-malaysian-fried-chicken/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "ayam goreng",
+    "malaysian fried chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1.25",
+      "unit": "kg",
+      "name": "/ 2.5 lb  chichen thighs ad drumsticks, bone in skin on ( (I use 4 thighs, 3 drumsticks, Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "coriander seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cumin seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fennel seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, roughly chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ginger (, roughly chopped)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "galangal (, roughly chopped (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "curry powder ((any type fine, mild or spicy - your choice))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemongrass (, white part only roughly chopped (Note 3))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "turmeric powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  small eshalots ((French onions, US: shallots), peeled and roughly chopped (Note 4))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt ((or 1 tsp table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "chilli powder (, adjust to taste (Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "7",
+      "unit": "tbsp",
+      "name": "coconut milk ((full fat best!))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1.75",
+      "unit": "litres",
+      "name": "/ quarts vegetable or canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "garlic (,minced (not too small, else it burns))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "large red chilli ((cayenne pepper), deseeded and minced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "green onion (, minced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Toast spices: Toast spices in a small skillet over medium heat (no oil) for 2 minutes or until the spices smell fragrant. Transfer seeds into Nutribullet, small food processor OR into a tall jug that fits a stick blender."
+    },
+    {
+      "order": 2,
+      "instruction": "Curry paste: Add remaining Curry Paste ingredients and blend until smooth."
+    },
+    {
+      "order": 3,
+      "instruction": "Marinate: Pour Curry Paste over chicken in a ziplock bag (or bowl, Note 6). Toss to coat, then marinate for 24 hours in the fridge, up to 48 hours."
+    },
+    {
+      "order": 4,
+      "instruction": "Dechill chicken: Remove chicken from fridge 30 minutes prior to cooking and transfer into a bowl (most marinade should be stuck to chicken)."
+    },
+    {
+      "order": 5,
+      "instruction": "Preheat oven to 80°C/175°F and place rack on tray - to keep chicken warm. (Note 7)"
+    },
+    {
+      "order": 6,
+      "instruction": "Cornflour coating: Add cornflour to chicken and toss to coat - it will thicken the paste, this is what makes the craggy coating."
+    },
+    {
+      "order": 7,
+      "instruction": "Heat oil 180°C/350°F: Pour oil into a wide, heavy based pot to a depth of 6 cm / 2.5 &quot; (my 26cm/10.5&quot; cast iron pot = 1.75L/quarts oil, Note 8). Heat over medium high heat to 180°C/350°F - maintain temp as best you can (Note 9). This recipe will NOT work well with an air fryer – see Note 8."
+    },
+    {
+      "order": 8,
+      "instruction": "Fry: Carefully place 3 pieces of chicken in, do not touch for 2 min (to let crust adhere). Oil temperature should drop to 150°C/300°C - increase heat if needed."
+    },
+    {
+      "order": 9,
+      "instruction": "Fry 8 minutes (75°C / 167°F): Fry for 8 minutes (wings for 5 minutes), or until deep golden brown and internal temperature at thickest part is 75°C / 167°F."
+    },
+    {
+      "order": 10,
+      "instruction": "Keep warm: Place cooked chicken onto rack and keep warm in oven. Cook remaining chicken."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve immediately, sprinkled with coriander and garlic-chilli garnish, if using. See in post for side dish suggestions!"
+    },
+    {
+      "order": 12,
+      "instruction": "Heat 3 tbsp oil in a small skillet over medium heat. Add garlic and chilli, cook until garlic is starting to go light golden. Then add green onion and cook until garlic is golden. Drain on paper towels, sprinkle with salt. Cool then sprinkle on chicken."
+    }
+  ]
+}

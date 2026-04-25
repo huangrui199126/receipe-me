@@ -1,0 +1,87 @@
+{
+  "id": "tr_604",
+  "title": "Truly Crunchy Roast Potatoes",
+  "image": "https://www.recipetineats.com/tachyon/2015/02/DSC_0038.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/truly-crunchy-roast-potatoes/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 60,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "/ 165 ml  oil - it must be one of the following: Safflower Oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "lb",
+      "name": "/ 1.5 kg  potatoes ((Note 2))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "semolina ((best substitute is polenta))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "salt (increase to 3 tsp if you have a salty palette) ((Note 3))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pour the oil in a metal or cast iron baking dish and place in the oven. Crank up your oven to as high as it will go (mine is 250C/480F fan forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Boil a large pot of water. Peel and cut the potatoes into large pieces, about 6cm/2.2\" wide. (Note 4)"
+    },
+    {
+      "order": 3,
+      "instruction": "Boil the potatoes for 10 minutes. Drain then return to the pot."
+    },
+    {
+      "order": 4,
+      "instruction": "Scatter over the semolina and salt. Clamp the lid on and give the pot 5 good shakes to rough up the potatoes. Leave the lid on and set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "The oil should be hot enough by the time the oven comes to temperature. Test it by tossing in a pinch of potato - it should sizzle straight away."
+    },
+    {
+      "order": 6,
+      "instruction": "Pour the potatoes in (be careful of oil splashing). Working quickly, use an egg flip to toss the potatoes in the oil, spread them out as best you can then put the pan to the oven."
+    },
+    {
+      "order": 7,
+      "instruction": "Turn the oven down to 220C/425F. Roast for around 50 minutes, possibly up to 1 hr 15 minutes (Note 5), turning once during baking. They are ready when they are a golden brown with some browned edges and they are crunchy. (Note 6)"
+    },
+    {
+      "order": 8,
+      "instruction": "Serve immediately! They will stay crunchy for around 30 minutes, but the faster you get them on the table, the better! They also crisp up pretty well when reheated - reheat @220C/425F for around 15 minutes (from room temp, add 5 min from fridge)."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "tr_1224",
+  "title": "Pizza Stuffed Mushrooms",
+  "image": "https://www.recipetineats.com/tachyon/2019/07/Pizza-Stuffed-Mushrooms_0.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pizza-stuffed-mushrooms/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "flat mushrooms",
+    "stuffed mushrooms",
+    "stuffed portobello mushrooms"
+  ],
+  "nutrition": {
+    "calories": 236,
+    "protein": 11.0,
+    "carbs": 6.0,
+    "fat": 19.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  large mushrooms (, 10cm/4\" wide (portobello, flat mushrooms etc, Note 1))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "pizza sauce ((I use store bought))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "100g/ 3.5 oz   salami slices (, chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  red onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "black olive slices",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(100g)   mozzarella cheese (, shredded )",
+      "emoji": "🧀",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Carefully break or cut the stems off the mushrooms."
+    },
+    {
+      "order": 3,
+      "instruction": "Chop stems (will use as filling)."
+    },
+    {
+      "order": 4,
+      "instruction": "Place mushrooms cap side up. Using a small, sharp, THIN knife, cut a small cross in the mushroom, taking great care not to split the mushroom (to drain excess water, Note 2)"
+    },
+    {
+      "order": 5,
+      "instruction": "Brush the tops with oil, then quickly sprinkle on salt and pepper (be fast so it sticks!)"
+    },
+    {
+      "order": 6,
+      "instruction": "Flip then lightly dab the inside with remaining oil, sprinkle with salt and pepper."
+    },
+    {
+      "order": 7,
+      "instruction": "Fill mushrooms with pizza sauce, sprinkle with chopped mushroom, onion, half salami and half olives."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake 1 - Bake 10 minutes, remove from oven."
+    },
+    {
+      "order": 9,
+      "instruction": "Top with cheese, remaining salami and olives."
+    },
+    {
+      "order": 10,
+      "instruction": "Bake 2 - Bake further 10 minutes until cheese is melted. Serve immediately!"
+    },
+    {
+      "order": 11,
+      "instruction": "Preheat BBQ to medium high."
+    },
+    {
+      "order": 12,
+      "instruction": "Follow above steps in closed BBQ - 10 minutes for Bake 1, then 5 - 8 minutes for Bake 2."
+    }
+  ]
+}

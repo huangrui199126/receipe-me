@@ -1,0 +1,66 @@
+{
+  "id": "tr_1334",
+  "title": "Raspberry Coulis",
+  "image": "https://www.recipetineats.com/tachyon/2025/12/Raspberry-coulis_1.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/raspberry-coulis/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 7,
+  "tags": [
+    "raspberry coulis",
+    "raspberry sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250g/ 8 oz   raspberries (, fresh or frozen (no need to thaw))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "caster sugar ((superfine sugar) - or regular/granulated sugar)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat and mash - Place ingredients in a small saucepan over medium heat. As it heats up, the raspberries will release liquid. Once the liquid is simmering and the raspberries soften, mash them up with a fork."
+    },
+    {
+      "order": 2,
+      "instruction": "Simmer for 3 minutes. Puree with stick blender (you can do this in the saucepan if the head of the stick blender is submerged, else, transfer mixture to a jug)."
+    },
+    {
+      "order": 3,
+      "instruction": "Strain into a bowl (optional), pressing out as much coulis as you can. Discard seeds."
+    },
+    {
+      "order": 4,
+      "instruction": "Cool fully on the counter then refrigerate until required, it will thicken. Once cool, you can thin with a little water if needed. Typically served cold, but it can also be used warm!"
+    }
+  ]
+}

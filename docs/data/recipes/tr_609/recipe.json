@@ -1,0 +1,187 @@
+{
+  "id": "tr_609",
+  "title": "12 Minute Thai Chicken Peanut Noodles",
+  "image": "https://www.recipetineats.com/tachyon/2021/01/12-Minute-Thai-Chicken-Noodles_2-SQ.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/",
+  "servings": 2,
+  "prepTime": 3,
+  "cookTime": 9,
+  "tags": [
+    "chicken mince recipe",
+    "peanut noodles",
+    "ramen recipe"
+  ],
+  "nutrition": {
+    "calories": 581,
+    "protein": 31.0,
+    "carbs": 14.0,
+    "fat": 48.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/7oz  chicken mince ((ground chicken) (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "curry powder ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "red curry paste (, separated (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dark soy sauce ((Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "chicken stock/broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "coconut milk ((~1/2 a can), full fat for best flavour)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "peanut butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  instant ramen or noodle cakes (~70-100g/2.5-3.5oz per cake; any brand (discard seasoning pack, Note 5))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 (big!) handfuls baby spinach",
+      "emoji": "🥬",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "peanuts (, finely chopped)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Roughly chopped fresh coriander/cilantro leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sriracha or other chilli paste (, optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté garlic: Heat oil in a medium skillet over high heat (not too large, else the sauce will evaporate too quickly). Add garlic and cook for 20 seconds until it turns golden."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook chicken: Add chicken mince and cook for 2 minutes, breaking it up as you go, until it mostly changes from pink to white."
+    },
+    {
+      "order": 3,
+      "instruction": "Add flavourings: Add 1 tbsp red curry paste, curry powder and soy sauce. Cook for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook extra curry paste: Clear a space in the middle of the pan, add remaining 1/2 tbsp curry paste, stir the curry paste for 30 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Simmer stock: Add chicken stock, bring to a simmer then reduce to medium-high. Simmer for 1 minute."
+    },
+    {
+      "order": 6,
+      "instruction": "Add noodles: Squish the noodle cakes in, pushing chicken aside so the noodles are as submerged as possible."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook 45 sec, flip, 30 sec: Leave to cook for 45 seconds, then flip noodles. Leave for another 30 seconds, then separate the noodles with 2 wooden spoons."
+    },
+    {
+      "order": 8,
+      "instruction": "Add peanut sauce: Push noodles aside, add coconut milk, peanut butter and vinegar, then give it a quick mix to mostly dissolve the peanut butter."
+    },
+    {
+      "order": 9,
+      "instruction": "Toss with spinach: Add spinach, toss with the noodles for 30 seconds until wilted. Make sure it&#39;s still pretty saucy - everybody loves sauce!"
+    },
+    {
+      "order": 10,
+      "instruction": "Serve: Transfer to serving bowls, sprinkle with coriander, peanuts and Sriracha or chilli paste if desired."
+    }
+  ]
+}

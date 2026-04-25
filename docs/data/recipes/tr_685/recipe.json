@@ -1,0 +1,122 @@
+{
+  "id": "tr_685",
+  "title": "Frittata Egg Muffins",
+  "image": "https://www.recipetineats.com/tachyon/2018/02/Healthy-Egg-Muffins_8.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/healthy-egg-muffins/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "egg muffins",
+    "frittata muffins"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  eggs ((large or medium))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "½",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "¼",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "chopped spinach (baby or normal Spinach, or similar leafy greens)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "diced red capsicum / bell pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  cherry tomatoes (, quartered (Note 1))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "shallots (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "70",
+      "unit": "g",
+      "name": "/ 2.5 oz   feta (, crumbled (about 1/2 cup))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray (, for greasing muffin tin)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Spray 6 standard non stick muffin holes with oil."
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk eggs, salt and pepper. Stir through vegetables and feta."
+    },
+    {
+      "order": 4,
+      "instruction": "Divide mixture between holes."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake 20 minutes or until the top is light golden and the centre springs back when touched."
+    },
+    {
+      "order": 6,
+      "instruction": "Served immediately. Or allow to cool, then store in an airtight container in the fridge for 3 - 4 days, or freezer for 3 months (defrost 2 minutes in the microwave or overnight in the fridge)."
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": "tr_679",
+  "title": "Hot and Sour Soup",
+  "image": "https://www.recipetineats.com/tachyon/2019/02/Hot-and-Sour-Soup_1_6.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/hot-and-sour-soup/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [
+    "hot and sour soup",
+    "mushroom soup"
+  ],
+  "nutrition": {
+    "calories": 216,
+    "protein": 21.0,
+    "carbs": 19.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "220",
+      "unit": "g",
+      "name": "/ 7oz   chicken breast",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  dried shiitake mushrooms ((or 150g/5oz fresh) (Note 1))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "wood ear mushrooms (, chopped 1.5cm/ 3/5\" pieces (Note 1))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried chilli / red pepper flakes (, adjust spice to taste (Note 2))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dark soy sauce ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "light soy sauce ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ginger (, finely grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "white pepper ((sub black))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "6",
+      "unit": "cups",
+      "name": "(1.5L/1.5qt)   chicken or veg stock/broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(65 ml)  white vinegar ((adjust to taste))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 4oz   firm tofu (~ 1 cup) (, cut into 1.2cm / 0.5\" cubes (Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "bamboo shoots (, thinly sliced (Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (, whisked)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(40g)  cornstarch/cornflour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(125 ml)   water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  shallot/scallion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cover shiitake mushrooms with plenty of boiling water. Stand 20 - 30 minutes until soft, drain, then slice thinly. (Discard or reserve liquid for other use)"
+    },
+    {
+      "order": 2,
+      "instruction": "Place chicken broth, ginger, soy sauces, chilli, sugar, pepper and sesame oil in a large pot over medium high heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Once simmering, add chicken, cover and reduce heat so it's simmering."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook 10 minutes, remove chicken and shred."
+    },
+    {
+      "order": 5,
+      "instruction": "Add vinegar, shiitake, wood ear mushrooms, bamboo shoots, tofu and shredded chicken into the soup."
+    },
+    {
+      "order": 6,
+      "instruction": "Stir, simmer for 10 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Mix cornflour with water. While stirring soup at a medium pace, slowly pour the cornflour mixture in (ensures no lumps)."
+    },
+    {
+      "order": 8,
+      "instruction": "When it starts simmering again, stir constantly and slowly pour egg in a thin stream - this will create the signature \"egg ribbons\"."
+    },
+    {
+      "order": 9,
+      "instruction": "Taste - add salt if desired, more chilli if you want."
+    },
+    {
+      "order": 10,
+      "instruction": "Add shallots and serve!"
+    }
+  ]
+}

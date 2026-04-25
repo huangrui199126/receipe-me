@@ -1,0 +1,162 @@
+{
+  "id": "tr_473",
+  "title": "Mushroom Soup",
+  "image": "https://www.recipetineats.com/tachyon/2021/04/Mushroom-Soup-in-bowl-SQ.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mushroom-soup/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "creamy mushroom soup",
+    "mushroom soup"
+  ],
+  "nutrition": {
+    "calories": 264,
+    "protein": 6.0,
+    "carbs": 12.0,
+    "fat": 23.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz  white mushrooms ((Note 1))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/ 7 oz  Swiss Brown/Cremini mushroom ((Note 1))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3 1/4",
+      "unit": "cups",
+      "name": "vegetable stock",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt (, cooking/kosher)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "crème fraiche or cream ((any full-fat) (Note 3))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Croutons ((Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cream or extra virgin olive oil (, for drizzling)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley ((roughly chopped), chervil (if you&#039;re feeling a bit fancy), or thyme leaves)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Bread for dunking",
+      "emoji": "🍞",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Chopping mushrooms: Cut mushrooms into 4 slices, then dice into 3 or 4 pieces."
+    },
+    {
+      "order": 2,
+      "instruction": "Saute onion and garlic: Melt butter in a large pot over medium high heat. Add onion and garlic. Cook for 3 minutes until softened, but not golden."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook mushrooms: Add mushrooms and cook for 10 minutes, stirring regularly. Do not try to brown; they won&#039;t as the pot is too crowded but we do not need colour."
+    },
+    {
+      "order": 4,
+      "instruction": "Simmer 15 min: Add vegetable stock, salt and pepper. Bring to a boil, then lower heat to medium and simmer gently for 15 minutes without a lid."
+    },
+    {
+      "order": 5,
+      "instruction": "Cream: Stir in cream (or crème fraiche), then simmer for another 5 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Blitz: Transfer to a blender (do in batches, if necessary). Remove the cap from the feeding hole in the blender lid (Note 5), cover the hole with a folded tea towel. Blend until completely smooth."
+    },
+    {
+      "order": 7,
+      "instruction": "Return to pot, simmer for a minute or two until bubbles caused by blending largely subside and soup is hot."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve: Ladle into bowls. Garnish with a drizzle of extra virgin olive oil or cream, croutons and parsley or (if you&#039;re feeling a bit fancy), chervil. Don&#039;t forget bread for dunking!"
+    }
+  ]
+}

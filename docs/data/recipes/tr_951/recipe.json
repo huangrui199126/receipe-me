@@ -1,0 +1,168 @@
+{
+  "id": "tr_951",
+  "title": "Ottolenghi's Green Bean Salad",
+  "image": "https://www.recipetineats.com/tachyon/2021/07/Ottolenghi-Green-Bean-Salad_6-SQ.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/yotam-ottolenghi-green-bean-salad/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 5,
+  "tags": [
+    "green bean salad",
+    "middle eastern salad",
+    "middle eastern side dish",
+    "ottolenghi salad recipe"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 8.0,
+    "carbs": 25.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1 lb  green beans (, trimmed (Note 1))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  green onions (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chervil leaves ((Note 2 other herb options))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "roughly chopped tarragon leaves ((Note 2 other herb options))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lemon zest",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  red capsicum / bell peppers (, cut into 0.5cm / 0.2\" strips)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, finely sliced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "capers (, rinsed and patted dry)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "coriander seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook beans: Bring a large pot of salted water to the boil. Add beans, bring back up to the boil, then cook for 3 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Drain and dry: Drain, rinse under cold running tap water to cool. Shake off excess water well, then pat dry. Transfer to bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Blister capsicum: Heat oil in a heavy based skillet over high heat until smoking. Add capsicum with a pinch of salt and pepper. Cook, stirring every now and then, until tender-crisp with some nice charred edges. Transfer bowl with beans, allow to cool to room temperature."
+    },
+    {
+      "order": 4,
+      "instruction": "Dressing: Heat oil in a small skillet or saucepan over medium heat. Add garlic and cook for 20 seconds. Add capers and cook for 15 seconds. Add cumin and coriander seeds. Cook until garlic is golden, then immediately pour over the beans."
+    },
+    {
+      "order": 5,
+      "instruction": "Toss and serve: Add green onion, herbs, lemon zest, salt and pepper. Toss well. Serve immediately, though it keeps really well overnight too (make sure to serve at room temp)."
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": "tr_290",
+  "title": "One pot creamy tomato beef pasta",
+  "image": "https://www.recipetineats.com/tachyon/2023/08/One-pot-creamy-tomato-beef-pasta_0.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pot-creamy-tomato-beef-pasta/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "beef pasta",
+    "creamy tomato beef pasta",
+    "easy pasta dinner",
+    "one pot pasta"
+  ],
+  "nutrition": {
+    "calories": 610,
+    "protein": 35.0,
+    "carbs": 64.0,
+    "fat": 24.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500g/ 1 lb  beef mince / ground beef",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Italian herbs ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/ 14 oz  can crushed tomatoes ((or tomato passata))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "red pepper flakes ((chilli flakes, optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cooking salt/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "(1 L)   chicken stock/broth (, low sodium (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "350g/ 12oz  fusilli, penne, elbow macaroni ( or other short pasta (Note 3))",
+      "emoji": "🍝",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "cups",
+      "name": "thickened / heavy cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parmesan cheese (, finely grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley (, finely chopped, optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté - Heat the oil on high heat in a large heavy-based pot. Cook garlic and onion for 1 1/2 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook beef &amp; seasonings - Add beef and cook, breaking it up as you go, until you can no longer see red meat. Add the Italian herbs and cook for 30 seconds, then add tomato paste and cook for 1 minute to cook out the raw flavour."
+    },
+    {
+      "order": 3,
+      "instruction": "All in - Add crushed tomato, chicken stock, salt, pepper and red pepper flakes, if using. Stir, then add the pasta."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook 15 min - Bring the liquid to a simmer, then cook for 15 minutes, stirring every couple of minutes then more frequently towards the end (ensure pasta doesn&#39;t stick to base) until the pasta is just about cooked."
+    },
+    {
+      "order": 5,
+      "instruction": "Creamy - Add cream, then simmer for a further 1 to 2 minutes. It will still be quite saucy - this is what you want! Pasta absorbs liquid quickly, so it will still be nice and oozy when you start eating."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve - Remove from the stove. Give it a good stir then ladle into bowls. Serve with parmesan and parsley."
+    }
+  ]
+}

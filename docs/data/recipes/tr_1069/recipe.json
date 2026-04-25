@@ -1,0 +1,135 @@
+{
+  "id": "tr_1069",
+  "title": "Foolproof Poached Chicken with Ginger Shallot Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2016/10/Foolproof-Poached-Chicken-Ginger-Shallot-Sauce-3.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/foolproof-poached-chicken-breast-with-ginger-shallot-sauce/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [],
+  "nutrition": {
+    "calories": 381,
+    "protein": 40.9,
+    "carbs": 5.4,
+    "fat": 21.7
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  chicken breasts (, boneless skinless, 250g/8.5 oz each (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 4  shallots / scallions (, green and white part thinly sliced (1 heaped cup))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely grated ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "vegetable oil ((or peanut or grapeseed oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "chilli paste",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Sriracha",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "grated ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Take chicken out of the fridge 30 minutes before cooking."
+    },
+    {
+      "order": 2,
+      "instruction": "Fill a saucepan with water so the chicken breast will be well submerged with at least 2\" / 5cm of water above it."
+    },
+    {
+      "order": 3,
+      "instruction": "Bring water to boil. Place chicken breast in water, place lid on, bring back up to the boil. Remove saucepan from stove and set aside for 20 minutes (it's fine up to 45 min, won't overcook)."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove chicken from water and slice. Serve with Sauces (below) and rice."
+    },
+    {
+      "order": 5,
+      "instruction": "Combine and mix ingredients in a bowl. Set side for 20 minutes. It will sweat and become more liquidy."
+    },
+    {
+      "order": 6,
+      "instruction": "Mix ingredients in a bowl. Set aside for 15 minutes."
+    }
+  ]
+}

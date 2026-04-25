@@ -1,0 +1,158 @@
+{
+  "id": "tr_677",
+  "title": "Self Saucing Butterscotch Pudding",
+  "image": "https://www.recipetineats.com/tachyon/2019/09/Self-Saucing-Butterscotch-Pudding_4.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/self-saucing-butterscotch-pudding/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 40,
+  "tags": [
+    "butterscotch pudding",
+    "self saucing pudding"
+  ],
+  "nutrition": {
+    "calories": 449,
+    "protein": 5.0,
+    "carbs": 73.0,
+    "fat": 16.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(50g)  dark brown sugar (, packed (Note 1))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cup",
+      "name": "(185g)  plain flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2.5",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 7 tbsp  unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125ml)  milk ((full or low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "golden syrup ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(150g)  dark brown sugar (, packed (Note 2))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cornflour / corn starch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(500ml)  boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Vanilla ice cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Grease a 6 cup baking dish (1.6L/1.6Q) with butter."
+    },
+    {
+      "order": 3,
+      "instruction": "Butterscotch Sauce: Whisk sugar and cornflour in bowl. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Pudding batter: Place sugar, flour and baking powder in a separate bowl. Whisk to combine."
+    },
+    {
+      "order": 5,
+      "instruction": "Add butter, egg, milk and golden syrup. Whisk until mostly lump free."
+    },
+    {
+      "order": 6,
+      "instruction": "Scrape into baking dish and smooth surface."
+    },
+    {
+      "order": 7,
+      "instruction": "Sprinkle Butterscotch Sauce sugar mixture all over surface."
+    },
+    {
+      "order": 8,
+      "instruction": "Pour boiling water over the surface over the back of a dessert spoon held as close to the batter as you can (to soften the pour so it doesn't break the surface of the batter)."
+    },
+    {
+      "order": 9,
+      "instruction": "Transfer to oven, bake 40 minutes or until skewer inserted into the cake part comes out clean."
+    },
+    {
+      "order": 10,
+      "instruction": "Cut through pudding to reveal butterscotch sauce underneath."
+    },
+    {
+      "order": 11,
+      "instruction": "To serve, scoop pudding into a bowl then douse with butterscotch sauce. Top with ice cream!"
+    }
+  ]
+}

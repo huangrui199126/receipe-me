@@ -1,0 +1,110 @@
+{
+  "id": "tr_371",
+  "title": "Great Roasted Carrots",
+  "image": "https://www.recipetineats.com/tachyon/2020/07/Roasted-Carrots_7-SQ.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/great-roasted-carrots/",
+  "servings": 5,
+  "prepTime": 5,
+  "cookTime": 30,
+  "tags": [
+    "garlic carrots",
+    "roasted carrots"
+  ],
+  "nutrition": {
+    "calories": 132,
+    "protein": 2.0,
+    "carbs": 19.0,
+    "fat": 6.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb carrots (, peeled and ends trimmed (Note 1))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced using garlic press or finely grated using microplane (optional, Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "See Note 3",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C/430°F (200°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut the carrots on the diagonal into 5cm / 2&quot; lengths. Cut the thicker ones in half lengthwise so they are all roughly the same width."
+    },
+    {
+      "order": 3,
+      "instruction": "Place on a tray, drizzle with oil, sprinkle with salt and pepper, toss."
+    },
+    {
+      "order": 4,
+      "instruction": "Roast 20 minutes: Spread out on tray, roast 20 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Flip &amp; garlic: Remove from oven. Push carrots to one end, add garlic and toss. (Add other Flavour Options at this point too)"
+    },
+    {
+      "order": 6,
+      "instruction": "Roast 10 minutes: Roast for a further 10 minutes. Remove from oven, toss carrots to coat in the garlicky oil and juices on the tray."
+    },
+    {
+      "order": 7,
+      "instruction": "Sprinkle with parsley and serve!"
+    }
+  ]
+}

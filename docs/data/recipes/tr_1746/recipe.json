@@ -1,0 +1,173 @@
+{
+  "id": "tr_1746",
+  "title": "Tomato, Salami and Chunky Arugula-Basil Pesto Bruschetta.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/05/Tomato-Salami-and-Chunky-Arugula-Basil-Pesto-Bruschetta-1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/tomato-salami-and-chunky-arugula-basil-pesto-bruschetta/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "basil",
+    "bruschetta",
+    "pesto",
+    "salami",
+    "tomatoes"
+  ],
+  "nutrition": {
+    "calories": 495,
+    "protein": 21.0,
+    "carbs": 42.0,
+    "fat": 38.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "fresh basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh arugula",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (finely chopped or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "roasted cashews (almonds (pistachios, walnuts or pine nuts work too))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "fresh parmesan cheese (grated)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "thick cut sourdough bread (use your favorite gluten free bread if needed)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (halved)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "olive oil (for drizzling)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper (for sprinkling)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "buffalo mozzarella or burrata cheese (torn)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8-12 slices thin spicy salami",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  heirloom tomatoes (sliced + cherry tomatoes for garnish if desired)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  ear [grilled corn | https://www.halfbakedharvest.com/exactly-how-i-grill-my-corn-chipotle-lime-and-cotija-cheese-butter/]",
+      "emoji": "🧈",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "sprouts (for topping (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Finely chop the basil and arugula, add it to a medium size bowl. Chop the cashews and finely mince or grate the garlic, add them to the bowl with the basil and arugula. Add the parmesan and a pinch of salt + pepper. Pour in the olive oil. Using a fork mix well and then sort of mash all the ingredients together with the fork. If desired add more olive oil until your desired consistency is reached."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat your grill to high heat or preheat your oven to 450 degrees F. Place the slices of bread of bread on a baking sheet and drizzle with olive oil on both sides. Rub each side of bread with the halved garlic clove. Sprinkle the toast with salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the bread slices on the grill and grill both for about 2-3 minutes per side or until lightly chard. Remove from the grill."
+    },
+    {
+      "order": 4,
+      "instruction": "Spread the bread with pesto. Add a slice or two of salami and then add some of the torn mozzarella. Add a few slices of tomato, sprinkle with salt + pepper. Top with a little pesto and a little corn."
+    }
+  ]
+}

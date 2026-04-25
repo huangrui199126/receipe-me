@@ -1,0 +1,167 @@
+{
+  "id": "tr_1030",
+  "title": "Chow Mein Ramen Noodles",
+  "image": "https://www.recipetineats.com/tachyon/2019/06/Chow-Mein-Ramen_3.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chow-mein-ramen-noodles-recipe/",
+  "servings": 2,
+  "prepTime": 7,
+  "cookTime": 8,
+  "tags": [
+    "chicken chow mein",
+    "chow mein",
+    "easy chow mein"
+  ],
+  "nutrition": {
+    "calories": 624,
+    "protein": 22.0,
+    "carbs": 55.0,
+    "fat": 26.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/7oz   chicken (, sliced (thigh, breast))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  ramen or instant noodle cakes (, discard seasoning (Note 1))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/7oz   pre shedded Coleslaw mix (, cabbage and carrot (Note 2))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  green onion stems (, cut into 5cm/2\" lengths)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  heaped cup beansprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(250 ml)  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "light soy sauce ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "Oyster Sauce ((Note 4))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese Cooking Wine or Mirin ((Note 5))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sesame oil (, toasted (Note 6))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sugar (SKIP if using Mirin)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Sauce in a bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a large skillet over high heat. Add garlic, cook 10 seconds."
+    },
+    {
+      "order": 3,
+      "instruction": "Add chicken and cook until mostly changes from pink to white, then add Sauce."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook for 1 minute, then add Coleslaw mix and white part of green onions."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook for 1 1/2 minutes until cabbage wilts, then push everything to the side to make room for the ramen (see video &amp; photos in post)."
+    },
+    {
+      "order": 6,
+      "instruction": "Add water then squidge the ramen cakes in side by side."
+    },
+    {
+      "order": 7,
+      "instruction": "When water simmers, leave for 45 seconds. Flip, then leave for 30 seconds."
+    },
+    {
+      "order": 8,
+      "instruction": "Loosen noodles, add bean sprouts and green onion, then toss energetically for 1 1/2 - 2 minutes until sauce reduces and coats noodles. (Note 7)"
+    },
+    {
+      "order": 9,
+      "instruction": "Serve immediately!"
+    }
+  ]
+}

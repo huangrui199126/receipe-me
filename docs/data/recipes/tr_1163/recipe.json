@@ -1,0 +1,85 @@
+{
+  "id": "tr_1163",
+  "title": "Easy Classic Cranberry Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2015/11/Easy-Classic-Cranberry-Sauce_2.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easy-classic-cranberry-sauce/",
+  "servings": 10,
+  "prepTime": 2,
+  "cookTime": 20,
+  "tags": [
+    "cranberry sauce"
+  ],
+  "nutrition": {
+    "calories": 125,
+    "protein": 0.0,
+    "carbs": 32.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "16",
+      "unit": "oz",
+      "name": "/ 500g   bag frozen cranberries ((or fresh))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "lemon zest",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Tip the cranberries in a saucepan set over medium low heat. Remove a heaped 1/2 cup of cranberries and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Add remaining ingredients. Cook for 5 minutes or until sugar is dissolved."
+    },
+    {
+      "order": 3,
+      "instruction": "Increase heat to medium high. Cook for 10 minutes or until most of the cranberries have burst and the liquid is syrupy."
+    },
+    {
+      "order": 4,
+      "instruction": "Reduce heat to low, stir through reserved cranberries. Adjust sweetness to your taste with more sugar and add a pinch of salt.&nbsp;"
+    },
+    {
+      "order": 5,
+      "instruction": "Allow to cool and store in the fridge for up to 3 weeks. The sauce will continue to thicken as it cools. Best served at room temperature or warm.&nbsp;Serve with a juicy Roast Turkey&nbsp;- or Slow Cooker Turkey Breast or Roasted Breast."
+    }
+  ]
+}

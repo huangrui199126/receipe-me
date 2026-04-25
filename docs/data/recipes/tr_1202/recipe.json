@@ -1,0 +1,94 @@
+{
+  "id": "tr_1202",
+  "title": "Grilled Garlic Bread",
+  "image": "https://www.recipetineats.com/tachyon/2019/06/Grilled-Garlic-Bread_4.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/grilled-garlic-bread/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "garlic bread on bbq",
+    "grilled garlic bread"
+  ],
+  "nutrition": {
+    "calories": 331,
+    "protein": 7.0,
+    "carbs": 33.0,
+    "fat": 19.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bread loaf (, fairly flat (rather than a tall loaf, Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 1 stick salted butter ((or unsalted + 3/4 tsp salt))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, very finely chopped (do not use crusher or jar, Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "finely chopped parsley (, optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat BBQ to medium high."
+    },
+    {
+      "order": 2,
+      "instruction": "Melt butter in a small saucepan over medium high heat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add garlic and salt, stir until garlic is LIGHT golden and salt is dissolved."
+    },
+    {
+      "order": 4,
+      "instruction": "Immediately remove from heat, set aside for for few minutes to let garlic infuse into butter."
+    },
+    {
+      "order": 5,
+      "instruction": "Split the bread in half lengthwise. Or use thick individual slices of bread."
+    },
+    {
+      "order": 6,
+      "instruction": "Spoon just over half the butter onto the cut face of the bread, avoiding the garlic bits. Brush a bit of butter on the other side."
+    },
+    {
+      "order": 7,
+      "instruction": "Place bread cut face down and cook for 3 - 5 minutes or until you have crusty edges, then flip."
+    },
+    {
+      "order": 8,
+      "instruction": "Brush away any burnt garlic bits, then baste on the remaining garlic butter. Garlic bits are mainly for flavour infusion but feel free to put them on too, great texture!"
+    },
+    {
+      "order": 9,
+      "instruction": "Once underside is crusty (3 min or so), remove, sprinkle with parsley, cut and serve!"
+    }
+  ]
+}

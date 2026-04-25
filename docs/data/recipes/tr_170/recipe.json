@@ -1,0 +1,191 @@
+{
+  "id": "tr_170",
+  "title": "Pork Sausage Apple Stuffing in Pancetta Cups (Muffin Tin)",
+  "image": "https://www.recipetineats.com/tachyon/2014/12/DSC_0441.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/pork-sausage-apple-stuffing-pancetta-cups/",
+  "servings": 16,
+  "prepTime": 20,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 224,
+    "protein": 10.2,
+    "carbs": 8.3,
+    "fat": 16.6
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "16",
+      "unit": "slices",
+      "name": "of pancetta (, around 12cm/5\" in diameter (so it fits the muffin tin nicely))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   Italian pork sausage (, casings removed (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  celery stalk (, thinly sliced)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  granny smith apple (, skin on, finely chopped)",
+      "emoji": "🍎",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "almonds (, roughly chopped (note: original recipe called for pecans which I didn't have))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "slightly stale white bread (, cut into 1/3\" / 1cm cubes (Notes 2 &amp; 3))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "chicken stock/broth ((or turkey))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "heavy cream ((not whipped))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fresh sage (, finely chopped (or 1/2 tsp dried sage))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fresh thyme (, finely chopped (or 1/2 tsp dried thyme))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg (, lightly beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 350F/180C with the oven rack in the middle."
+    },
+    {
+      "order": 2,
+      "instruction": "Get 2 muffin trays and partially stack them so you have 16 muffin holes and the \"joined\" muffin tins will fit on one shelf (Note 4)."
+    },
+    {
+      "order": 3,
+      "instruction": "Line the holes with pancetta."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat a large fry pan over high heat. Add the pork sausage and cook it, breaking up the meat as you go. Cook until the sausage changes from pink to light brown and some of the bits starts to brown - about 5 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove the sausage into a bowl and drain the excess fat."
+    },
+    {
+      "order": 6,
+      "instruction": "Return the pan to the stove and reduce the heat to medium high. Add the butter, and once melted, add the onion and celery. Sauté for around 3 minutes until the onion is translucent."
+    },
+    {
+      "order": 7,
+      "instruction": "Add the apple and almonds, and cook, stirring occasionally, for another 3 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove the fry pan from the stove. Add the bread and gently stir to combine."
+    },
+    {
+      "order": 9,
+      "instruction": "Add the chicken stock/broth, cream, sage and thyme and sit to combine. Season with salt and pepper to taste."
+    },
+    {
+      "order": 10,
+      "instruction": "Add the egg and stir until mixed through."
+    },
+    {
+      "order": 11,
+      "instruction": "Divide the mixture between the 16 pancetta cups."
+    },
+    {
+      "order": 12,
+      "instruction": "Bake for 15 to 20 minutes until the top is golden brown."
+    },
+    {
+      "order": 13,
+      "instruction": "Remove from the oven and let them rest for 10 minutes before serving."
+    },
+    {
+      "order": 14,
+      "instruction": "To make ahead, transfer to a cooling rack. Cover and refrigerate until required. Then reheat in a 180C/350C preheated oven for 5 to 10 minutes until the pancetta and top is crispy."
+    }
+  ]
+}

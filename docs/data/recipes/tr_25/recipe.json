@@ -1,0 +1,151 @@
+{
+  "id": "tr_25",
+  "title": "Slow Cooker Marinara Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2014/08/Slow-Cooker-Marinara-Sauce-31-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/slow-cooker-marinara-sauce/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 360,
+  "tags": [],
+  "nutrition": {
+    "calories": 127,
+    "protein": 5.5,
+    "carbs": 25.9,
+    "fat": 2.5
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cans",
+      "name": "((800g/28oz each can) crushed tomatoes (see notes))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "(170 g / 6 oz)   tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium brown onion ((or white or yellow), diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  bay leaves ((dried or fresh))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "brown sugar ((or honey))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dried basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine all ingredients in a slow cooker. Set for 6 to 8 hours on low."
+    },
+    {
+      "order": 2,
+      "instruction": "Optional step: Remove bay leaves, then use a handheld blender to puree until smooth (or to your liking)."
+    },
+    {
+      "order": 3,
+      "instruction": "Cool before refrigerating or freezing."
+    },
+    {
+      "order": 4,
+      "instruction": "Bring a large pot of salted water to boil and add pasta."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat olive oil in a pan, add garlic and diced onion, cook until translucent then add 2 cups of Marinara Sauce per 500g/1lb of dried pasta."
+    },
+    {
+      "order": 6,
+      "instruction": "Bring sauce to rapid simmer, then add pasta (cooked to just before al dente)."
+    },
+    {
+      "order": 7,
+      "instruction": "Add 1/4 cup of pasta water and cook for 1 to 2 minutes until pasta is al dente and the sauce has thickened and coats the pasta."
+    },
+    {
+      "order": 8,
+      "instruction": "Serves 4 hungry people or 6 normal servings."
+    }
+  ]
+}

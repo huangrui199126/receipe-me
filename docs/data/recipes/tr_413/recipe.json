@@ -1,0 +1,154 @@
+{
+  "id": "tr_413",
+  "title": "Leek and Potato Soup",
+  "image": "https://www.recipetineats.com/tachyon/2015/10/Potato-Leek-Soup_4-copy.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/leek-and-potato-soup/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 35,
+  "tags": [
+    "leek soup",
+    "potato leek soup"
+  ],
+  "nutrition": {
+    "calories": 311,
+    "protein": 6.0,
+    "carbs": 32.0,
+    "fat": 19.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30g)  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, large, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  leeks (, white and pale green parts only sliced thinly (about 2 cups) (Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2lb  potatoes (Sebago/Russet/Maris Piper) (, peeled a diced into 1&quot;/2.5cm cubes (Note 2))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1.5",
+      "unit": "litre",
+      "name": "/ 1.5 qt  chicken or vegetable stock (, low sodium (6 cups))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "cream (, heavy/thickened (sub milk))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((table salt - reduce by 25%))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  thick slices bread (, torn into crouton size pieces)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "melted butter, or olive oil spray",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chives (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra cream (, for garnish)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté - Melt butter in a large pot over medium heat. Add garlic and leek and sauté for 7 minutes until soft and sweet."
+    },
+    {
+      "order": 2,
+      "instruction": "Simmer 25 minutes - Add potatoes and broth. Turn heat up and bring to simmer, then place lid on and lower heat so it&#39;s simmering gently. Simmer for 25 minutes or until potato is very soft and almost falling apart."
+    },
+    {
+      "order": 3,
+      "instruction": "Minimal blitz - Turn the stove off and puree with a stick blender until JUST smooth. Do not over puree (Note 3)."
+    },
+    {
+      "order": 4,
+      "instruction": "Season - Add salt and pepper, then stir through cream."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve, drizzled with cream and sprinkled with chives and croutons."
+    },
+    {
+      "order": 6,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan-forced). Drizzle bread with melted butter (or spray with oil). Bake for 5 minutes or until golden and crunchy. Sprinkle with a pinch of salt while hot!"
+    }
+  ]
+}

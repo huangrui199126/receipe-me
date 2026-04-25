@@ -1,0 +1,272 @@
+{
+  "id": "tr_1860",
+  "title": "Quick Gumbo with Grilled Corn Grits + Smoky Chilied Brown Butter.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/09/Quick-Gumbo-with-Grilled-Corn-Grits-Smoky-Chilied-Brown-Butter.-15.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/quick-gumbo-grilled-corn-grits-smoky-chilied-brown-butter/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 30,
+  "tags": [
+    "corn",
+    "grits",
+    "gumbo",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 544,
+    "protein": 32.0,
+    "carbs": 41.0,
+    "fat": 35.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "all-purpose flour (use a gluten free blend if needed)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  bell peppers (diced (I used 1 red and 1 orange))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh or frozen orka (I used frozen)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "large can diced tomatoes (14, I like to use fire roasted)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "dried basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "creole seasoning (rounded)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cayenne pepper (less if you do not want it too hot (more if you do))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-6 cups low sodium chicken broth",
+      "emoji": "🍗",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "pound",
+      "name": "andouille sausage (sliced + halved again into half circles (NO substitutions))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "boneless skinless chicken breast or thighs (cut into smaller pieces)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoons",
+      "name": "corn starch mixed with a 1/4 cup cold water",
+      "emoji": "🌽",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "quick cooking grits",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  ears [grilled corn | https://www.halfbakedharvest.com/exactly-how-i-grill-my-corn-chipotle-lime-and-cotija-cheese-butter/]",
+      "emoji": "🧈",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 27
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large soup pot, heat the oil over medium heat. Whisk in the flour and cook, whisking, until the flour begins to brown, about 4 minutes. Reduce the heat to low. Stir in the garlic, onion, orka and bell peppers, cook until the veggies begin to soften, about 5 minutes. Add the tomatoes, thyme, oregano, basil, creole seasoning, chili powder, cayenne, salt and pepper. Cover pot and cook for 5 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Stir in the broth, chicken and sausage. Bring to a boil. Reduce the heat and simmer for 15 minutes. Remove the chicken and shred with a fork. Return the chicken to the gumbo. If a thicker consistency for your broth is desired, bring the gumbo to a boil and add the corn starch mixture. Simmer 1-2 minutes or until just slightly thickened. Simmer over low heat until ready to serve."
+    },
+    {
+      "order": 3,
+      "instruction": "While the gumbo is cooking, prepare the grits. In a small pot, bring the water, milk, and salt to a boil. Slowly stir the grits into the boiling mixture. Stir continuously until the grits are well mixed. Let the pot return to a boil, cover and lower the heat to low, cook for about 20-30 minutes, stirring occasionally. Add more milk if necessary. Once the grits are creamy, stir in the butter and grilled corn kernels. Season with salt and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "To make the smoky chilied brown butter, heat a heavy-bottomed 10-12 inch skillet, add butter and melt over medium heat until just browned. Butter will melt, foam, and froth, and then begin to brown along the bottom. Whisk the browned bits off of the bottom of the pan. Stir in the smoked paprika and chili powder."
+    },
+    {
+      "order": 5,
+      "instruction": "To serve, divide the grits among bowls. Top with gumbo, drizzle with butter. Garnish with basil if desired. Enjoy!"
+    }
+  ]
+}

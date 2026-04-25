@@ -1,0 +1,93 @@
+{
+  "id": "tr_1494",
+  "title": "Salted Caramel Chocolate Covered Pretzels.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/12/Salted-Caramel-Chocolate-Covered-Pretzels-1.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/salted-caramel-chocolate-covered-pretzels/",
+  "servings": 16,
+  "prepTime": 20,
+  "cookTime": 0,
+  "tags": [
+    "pretzels"
+  ],
+  "nutrition": {
+    "calories": 37,
+    "protein": 4.0,
+    "carbs": 42.0,
+    "fat": 4.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (14 ounce) bag of caramels (unwrapped (or caramel bits))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "heavy cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (16 ounce) bag of pretzels (use your favorite size/shape)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "12",
+      "unit": "ounces",
+      "name": "milk (semi-sweet or dark chocolate, melted)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "flaky sea salt (for topping)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Line 2 baking sheets with parchment paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the caramels and cream in a saucepan over low heat. Melt stirring occasionally, until smooth, about 10 minutes. Remove from the heat and stir in the vanilla."
+    },
+    {
+      "order": 3,
+      "instruction": "Dip each pretzel in the caramel and remove with a fork allowing any excess to drip off and back into the pan. Place each pretzel on the prepared baking sheet and let the caramel set, about 10 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Meanwhile, melt the chocolate in a microwave safe bowl on 30 second intervals, stirring after each until melted and smooth."
+    },
+    {
+      "order": 5,
+      "instruction": "Dip each pretzel in chocolate and return to the parchment lined baking sheets. Repeat with the remaining pretzels. Sprinkle with flaky sea salt. Place the pretzels in the freezer to set for 10 minutes. Store in an air-tight container for up to 1 week."
+    }
+  ]
+}

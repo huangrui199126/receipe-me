@@ -1,0 +1,171 @@
+{
+  "id": "tr_240",
+  "title": "Vietnamese Chicken Wings",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Grilled-Vietnamese-Chicken-Wings-1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vietnamese-chicken-wings/",
+  "servings": 24,
+  "prepTime": 15,
+  "cookTime": 40,
+  "tags": [],
+  "nutrition": {
+    "calories": 387,
+    "protein": 49.4,
+    "carbs": 7.2,
+    "fat": 16.9
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "lb",
+      "name": "/ 1 kg   chicken wings",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil for grilling",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "minced garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "lime juice ((2 to 3 limes))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "stalks",
+      "name": "lemongrass",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  birds eye chilli (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Coriander leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bruise the lemongrass using the side of your knife (or a pestle). Slice the white part only into 0.5cm / 1/4\" slices, thick enough to pick off later if any stick to the wings."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine lemongrass with the rest of the marinade ingredients and mix well."
+    },
+    {
+      "order": 3,
+      "instruction": "Combine marinade with wings in a ziplock bag. Remove as much air as possible from the bag and seal. Massage marinade into the wings to evenly disperse."
+    },
+    {
+      "order": 4,
+      "instruction": "Marinate for at least a few hours, preferably overnight."
+    },
+    {
+      "order": 5,
+      "instruction": "When ready to cook, pour the wings and marinade into a large bowl."
+    },
+    {
+      "order": 6,
+      "instruction": "Lightly oil the grill and preheat on medium low. The grill side cooks the wings more evenly than the hotplate side."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove wings from marinade and grill until cooked through. Do not cook on a high heat otherwise the sugar will burn before the inside of the wings are cooked."
+    },
+    {
+      "order": 8,
+      "instruction": "Just before the wings are ready, remove the wings from the grill and put them back into the bowl and toss in the marinade, then put back on the BBQ and sear quickly on both sides."
+    },
+    {
+      "order": 9,
+      "instruction": "Preheat oven to 180C/350F and put the rack in the top part of the oven."
+    },
+    {
+      "order": 10,
+      "instruction": "Line a baking tray with baking paper and place a rack on it."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove wings from the marinade and spread out over the rack."
+    },
+    {
+      "order": 12,
+      "instruction": "Bake for 20 to 25 minutes until the top side is golden brown, then turn the wings and baste."
+    },
+    {
+      "order": 13,
+      "instruction": "Return to oven for another 10 to 15 minutes until the wings are a dark golden brown."
+    },
+    {
+      "order": 14,
+      "instruction": "Turn again, baste and return to the oven for another 5 minutes."
+    },
+    {
+      "order": 15,
+      "instruction": "Serve garnished with coriander leaves and chilli slices (optional)."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "tr_333",
+  "title": "A great Chicken Marinade (great grilled or pan seared!)",
+  "image": "https://www.recipetineats.com/tachyon/2019/06/Chicken-Marinade_9-SQ.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-marinade/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "chicken marinade"
+  ],
+  "nutrition": {
+    "calories": 243,
+    "protein": 33.0,
+    "carbs": 8.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 1.4 lb  chicken breast, tenderloins or thigh ((Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "honey OR brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil ((or any oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano ((or rosemary, thyme, minced herbs))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper (, ground)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon slices",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Recommended: Pound breast to even thickness&nbsp;using a meat pounder, rolling pin, or fist. OR cut large ones in half horizontally to form 2 cutlets (steaks) for each."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix marinade in a ziplock bag (or container in which chicken fits snugly).&nbsp;Add chicken."
+    },
+    {
+      "order": 3,
+      "instruction": "Marinate 3 hours to overnight, though even 30 minutes is effective. (Note 2)"
+    },
+    {
+      "order": 4,
+      "instruction": "Heat 1 tbsp olive oil in a large skillet over medium high heat, and cook chicken per times below until deep golden (see video). If browning too quickly, lower heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Transfer to serving plate, cover loosely with foil and rest for 3 minutes before serving, garnished with parsley and lemon slices if desired.&nbsp;"
+    },
+    {
+      "order": 6,
+      "instruction": "Whole breast and boneless thighs: 3 - 4 minutes each side (internal temp 165F/75C)"
+    },
+    {
+      "order": 7,
+      "instruction": "Cutlets and tenderloin - 2 minutes each side"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "tr_573",
+  "title": "Homemade Sausage and Egg McMuffin",
+  "image": "https://www.recipetineats.com/tachyon/2016/05/Sausage-Egg-McMuffins_5.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/homemade-sausage-egg-mcmuffin/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "mcdonald's sausage and egg mcmuffin recipe"
+  ],
+  "nutrition": {
+    "calories": 453,
+    "protein": 14.6,
+    "carbs": 67.3,
+    "fat": 14.9
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   ground pork ((juicier) OR beef (mince) (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried ground sage",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "onion powder ((or garlic powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sugar ((any))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  English muffins (, cut in half)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "cheese ((Note 3))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 130C/275F."
+    },
+    {
+      "order": 2,
+      "instruction": "Place muffins on a baking tray, cut side up, and top with cheese. (Alternative - melt cheese on sausage patties, see video)"
+    },
+    {
+      "order": 3,
+      "instruction": "Mix Sausage Patty ingredients in a bowl - use your hands to mix it real good!"
+    },
+    {
+      "order": 4,
+      "instruction": "Shape into 4 patties (thick ones, or 5 Maccers size patties). Make them slightly larger than the muffins because they will shrink when cooking."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat oil in a large non stick skillet over high heat. Add patties (in batches if needed). Cook the first side for 2 - 3 minutes or until browned. Flip then cook the other side until browned. (Optional: After flipping, top with cheese, cover with lid to melt)."
+    },
+    {
+      "order": 6,
+      "instruction": "Meanwhile, heat another pan over medium high heat with 1 tbsp oil. Spray egg rings with oil and place in the skillet. (Note 4 for other cook methods).&nbsp;"
+    },
+    {
+      "order": 7,
+      "instruction": "Crack egg into the rings. Add around 2 tbsp water into the skillet then cover with a lid. Cook for 1 - 2 minutes or until egg is cooked to your liking (I like runny yolks).&nbsp;"
+    },
+    {
+      "order": 8,
+      "instruction": "Remove warm muffins from the oven. Top with sausage, then egg, the lid of muffin."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve and enjoy!"
+    }
+  ]
+}

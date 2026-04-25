@@ -1,0 +1,155 @@
+{
+  "id": "tr_107",
+  "title": "Mexican Spring Rolls (Egg Rolls)",
+  "image": "https://www.recipetineats.com/tachyon/2014/08/Mexican-Spring-Rolls-1-1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/baked-mexican-spring-rolls-egg-rolls/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 142,
+    "protein": 8.7,
+    "carbs": 19.1,
+    "fat": 3.7
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  spring roll wrappers or 16 egg roll wrappers (, defrosted (Note 2))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Olive oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Enchilada sauce - for dipping ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  packed cup leftover pulled pork ((Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "grated cheese ((cheddar, tasty or any other good melting cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "corn kernels ((canned))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "black beans ((canned))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "red bell peppers ((capsicum), diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander leaves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 350F/180C."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the filling ingredients and mix well."
+    },
+    {
+      "order": 3,
+      "instruction": "Place a wrapper diagonally in front of you. Place 1/4 cup of the filling on the bottom half of the wrapper and shape into a log. If you are using egg roll wrappers, use 3 tablespoons per wrapper."
+    },
+    {
+      "order": 4,
+      "instruction": "Roll up the wrapper to halfway, then fold in the left and right sides, then roll to the end, using a little water to seal."
+    },
+    {
+      "order": 5,
+      "instruction": "Spray the spring rolls lightly, then turn each spring roll and lightly spray the other side."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake for 30 minutes, turning once, until golden."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve with Enchilada Sauce as the dipping sauce."
+    }
+  ]
+}

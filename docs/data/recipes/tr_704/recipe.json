@@ -1,0 +1,240 @@
+{
+  "id": "tr_704",
+  "title": "Salisbury steak meatballs with mushroom gravy",
+  "image": "https://www.recipetineats.com/tachyon/2023/01/Salisbury-Steak-Meatballs_0.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/salisbury-steak-meatballs-with-mushroom-gravy/",
+  "servings": 4,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "beef mince recipe",
+    "ground beef recipe",
+    "meatballs",
+    "salisbury steak"
+  ],
+  "nutrition": {
+    "calories": 381,
+    "protein": 25.0,
+    "carbs": 15.0,
+    "fat": 24.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((Note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, peeled (brown/yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  beef mince (ground beef)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ketchup ((or Aussie tomato sauce))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  beef bouillon cube (, crumbled (Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "dijon mustard (OR 2 tsp dry mustard powder)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "/ 30g  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz  mushrooms (, sliced)",
+      "emoji": "🍄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each cooking/kosher salt &amp; pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "beef stock (, low sodium)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each cooking/kosher salt &amp; pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "flour ((all purpose / plain))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Mashed potato ((or rice or pasta))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley (, finely chopped (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Grated onion - Place the breadcrumbs in a large bowl. Using a standard box grater, grate the onion over the panko so it soaks in. Mix through."
+    },
+    {
+      "order": 2,
+      "instruction": "Meatball mixture - Add remaining Meatball ingredients and mix well with your hands until thoroughly combined."
+    },
+    {
+      "order": 3,
+      "instruction": "Roll balls - Roll 20 to 22 balls (1 1/2 tablespoons of mixture). I use an ice cream scoop with lever, handy!"
+    },
+    {
+      "order": 4,
+      "instruction": "Slurry - Mix ingredients in a bowl until smooth. We will use this to thicken the gravy (no lumpy gravy, yay!)"
+    },
+    {
+      "order": 5,
+      "instruction": "Brown meatballs - Heat the oil in a large skillet over high heat. Cook meatballs, using tablespoons to roll (to minimise deforming) until browned on the outside but still raw inside. Remove onto a plate and set aside."
+    },
+    {
+      "order": 6,
+      "instruction": "Sauté mushrooms - Melt butter in the same skillet still on high. Cook mushrooms until they start to soften (~ 2 minutes). Add salt, pepper and the garlic, then cook for a further 2 minutes until the garlic is golden and mushrooms are soft."
+    },
+    {
+      "order": 7,
+      "instruction": "Make gravy - Add beef stock, salt, pepper and slurry, then stir to combine."
+    },
+    {
+      "order": 8,
+      "instruction": "Simmer meatballs - Once the liquid starts to simmer, add meatballs and any juices pooled on the plate. Adjust heat to medium so it&#39;s simmering gently and cook for 5 minutes until gravy is thickened and meatballs are cooked through."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve over mash sprinkled with parsley if desired."
+    }
+  ]
+}

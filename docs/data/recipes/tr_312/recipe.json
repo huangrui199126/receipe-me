@@ -1,0 +1,191 @@
+{
+  "id": "tr_312",
+  "title": "Cauliflower Cheese",
+  "image": "https://www.recipetineats.com/tachyon/2021/04/Cauliflower-Cheese_5-SQ.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cauliflower-cheese/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 60,
+  "tags": [
+    "cauliflower bake",
+    "cauliflower cheese",
+    "cauliflower gratin"
+  ],
+  "nutrition": {
+    "calories": 604,
+    "protein": 20.0,
+    "carbs": 19.0,
+    "fat": 52.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb  cauliflower florets ((1 very large, 1 1/2 medium or 2 small cauliflower heads, Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sea salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 4 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3½",
+      "unit": "tbsp",
+      "name": "flour (, plain / all-purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk ((full fat best))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cream ((or more milk))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt ((kosher salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "nutmeg powder ((freshly grated is best))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "Red Leicester cheese ((or cheddar), grated (Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "gruyère cheese (, grated (or other melting cheese of choice, Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Red Leicester cheese ((or cheddar), grated (Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "gruyère cheese (, grated (or other melting cheese of choice, Note 2))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220°C / 430°F (200°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss cauliflower in oil, salt and pepper. Spread on a large tray."
+    },
+    {
+      "order": 3,
+      "instruction": "Roast 20 minutes (don&#039;t turn). Cauliflower should still be a bit firm, but with some colour on them. Remove from oven."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn oven down to 180°C/350°F."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat milk: Heat milk and cream until hot – either on the stove or in microwave."
+    },
+    {
+      "order": 6,
+      "instruction": "Make roux: Melt butter in a large saucepan or small pot over medium heat. Add flour and cook, stirring regularly, for 3 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Add milk: While stirring, pour in half the milk. Once the roux is dissolved into the milk (mixture will thicken), stir in remaining milk. Stir on the heat for 1 minute – mixture should be thick enough to coat a wooden spoon."
+    },
+    {
+      "order": 8,
+      "instruction": "Add cheese: Turn the stove off, but leave the pot on the turned off stove. Stir in salt, nutmeg and both cheeses. The cheese will thicken the mixture so it&#039;s like a thick sauce."
+    },
+    {
+      "order": 9,
+      "instruction": "Mix in cauliflower: Add cauliflower and toss to coat in the sauce."
+    },
+    {
+      "order": 10,
+      "instruction": "Fill baking dish: Transfer mixture to a 2L / 2qt baking dish (30 x 20 x 5cm / 12 x 8 x 2&quot;)."
+    },
+    {
+      "order": 11,
+      "instruction": "Top with cheese: Sprinkle over gruyère followed Red Leicester cheese."
+    },
+    {
+      "order": 12,
+      "instruction": "Bake at 180°C/350°F for 30 minutes until the cheese is melted, and cauliflower is bubbly and golden."
+    },
+    {
+      "order": 13,
+      "instruction": "Serve: Sprinkle with parsley if desired. Stand 5 minutes then serve!"
+    }
+  ]
+}

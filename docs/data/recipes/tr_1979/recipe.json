@@ -1,0 +1,252 @@
+{
+  "id": "tr_1979",
+  "title": "Jamaican Jerk Chicken, Fried Plantain and Coconut Macadamia Fried Quinoa.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/01/Jamaican-Jerk-Chicken-and-Fried-Plantain-Fried-Quinoa-81.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/jamaican-jerk-chicken-fried-plantain-fried-quinoa/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 40,
+  "tags": [
+    "coconut",
+    "fried plantain",
+    "jerk",
+    "jerk chicken"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 26.0,
+    "carbs": 52.0,
+    "fat": 42.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "quinoa",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  ripe plantains (sliced into rounds)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "coconut oil (divided)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "chicken breast (cut into bite size chunks (or use 1 pound shelled shrimp))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "spicy curry powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "ketchup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "molasses",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "fresh ginger (grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  red bell peppers (diced (or 1 orange and 1 red pepper))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  banana pepper (chopped)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh pineapple (diced)",
+      "emoji": "🍎",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (lightly beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoon",
+      "name": "fresh orange juice",
+      "emoji": "🍊",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "soy sauce (use reduce sodium for less salt)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lime (juiced)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "unsweetened coconut (toasted (optional))",
+      "emoji": "🥥",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  green onions (chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "roasted macadamia nuts",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Start by making the quinoa. Add the coconut milk and water to a medium size pot. Bring to a low boil and then add the quinoa. Stir to combine and then place the lid on the pot and turn the heat down to the lowest setting possible. Allow the quinoa to cook on low for 20-25 minutes. After 20 minutes remove the lid and fluff the quinoa with a fork. Set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "In a medium size bowl add the chicken, curry powder, cayenne pepper, cinnamon, ketchup and molasses. Toss well to coat and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "In a heavy large skillet or wok melt 1/4 cup of the coconut oil on medium-high heat. Make sure the coconut oil completely covers the bottom of the pan, if not add more until it does."
+    },
+    {
+      "order": 4,
+      "instruction": "When a drop of water sizzles in the oil, add the plantain slices and cook until the bottom is golden brown, about 2-3 minutes. Carefully flip slices over and brown on the other side until slightly beginning to caramelize, another 2-3 minutes. Remove from pan and place the plantains on a paper towel to drain off excess oil. Set aside."
+    },
+    {
+      "order": 5,
+      "instruction": "If needed add 1 tablespoon more coconut oil to the skillet. Add the red bell peppers, banana peppers and pineapple. Cook for 3 to 5 minutes, until the red pepper is seared and the pineapple slightly caramelized. Add the garlic and ginger and toss for 30 seconds or so, being careful not to let burn. Remove the veggies + pineapple from the pan and place on a plate."
+    },
+    {
+      "order": 6,
+      "instruction": "Add another tablespoon of oil to the pan. Grab the chicken and toss in the skillet in a single layer. Stir fry the chicken for 5-6 minutes or until the chicken is crisped and cooked through. Remove from the skillet and add to the plate of veggies. If needed add another tablespoon of coconut oil. Add the eggs and season with pepper. Stir the eggs constantly and cook until almost set but still moist, then transfer egg to a bowl. Break the eggs up with a wooden spoon or spatula."
+    },
+    {
+      "order": 7,
+      "instruction": "Add 1 more tablespoon of oil to the pan and about half of the quinoa. Toss to coat, then add in the remaining quinoa, tossing once again. Cook for about 3 minutes, tossing often, until warmed through."
+    },
+    {
+      "order": 8,
+      "instruction": "Add the orange juice, soy sauce and lime juice, and toss. Cook for another 3 minutes, until the quinoa has browned sufficiently. Add the veggies, pineapple and chicken back in and cook until heated through. Remove from the heat and toss in the toasted coconut, macadamia nuts and chopped cilantro. Serve hot and garnish with chopped green onions."
+    }
+  ]
+}

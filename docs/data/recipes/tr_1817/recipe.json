@@ -1,0 +1,282 @@
+{
+  "id": "tr_1817",
+  "title": "Spicy Black Bean and Lentil Chili with Cotija Guacamole + Chipotle Sweet Potato Fries.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/01/1-12.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/spicy-black-bean-lentil-chili-cotija-guacamole-chipotle-sweet-potato-fries/",
+  "servings": 8,
+  "prepTime": 20,
+  "cookTime": 60,
+  "tags": [
+    "black bean",
+    "chipotle",
+    "cotija",
+    "fries",
+    "guacamole",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 863,
+    "protein": 22.0,
+    "carbs": 64.0,
+    "fat": 20.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  sweet onion (diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  carrots (chopped)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "cayenne (or more or less to your taste)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-5 cups veggie broth",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "green lentils",
+      "emoji": "🫘",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "cooked black beans (drained and rinsed if using canned)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (28 ounce) jar spicy marinara sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 (6 ounce) cans tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "worcestershire sauce (optional (not vegan friendly))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "sharp cheddar cheese for topping",
+      "emoji": "🧀",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large sweet potatoes (cut into 1/4 inch wide strips)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "chipotle chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  ripe avocados (peeled + pitted)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  jalapeno (seeded + chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "the juice of 1 lime",
+      "emoji": "🍋",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "crumbled Cotija cheese (may sub feta cheese)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 27
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large heavy pot over medium high heat, add the olive oil, then the onion and carrots. Cook until the onions have softened, about 10 minutes. Add the garlic and continue to cook for about another minute. Add the chili powder, paprika, cumin, cayenne and salt. Cook for about two more minutes or until everything is fragrant."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the veggie broth (starting with 4 cups), spicy marinara sauce, tomato paste and Worcestershire sauce. Stir in the lentils. Crank up the heat to high, bringing the broth to a boil. Once it boils, reduce the heat to medium low, cover and simmer for about 20-30 minutes or until the lentils are tender."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the black beans and cook for about 20 more minutes. Add the extra cup of broth, if needed to thin."
+    },
+    {
+      "order": 4,
+      "instruction": "While the chili is cooking, make the fries (if making). Preheat oven to 425 degrees F."
+    },
+    {
+      "order": 5,
+      "instruction": "Place cut potatoes in a large bowl and drizzle with oil. Add the garlic, chipotle chili powder, salt and pepper. Gently toss with your hands or two spatulas to evenly coat. Spread the fries among two baking sheets in one even layer. Bake for 15-20 minutes, then flip and bake for 15-20 minutes more at 400 degrees F. You want the sweet potatoes to be crispy, but not burnt."
+    },
+    {
+      "order": 6,
+      "instruction": "To make the guacamole, mash the avocados in a medium size bowl (I left mine pretty chunky, but go as chunky or as smooth as you like). Add the cilantro, jalapeño, lime juice, cumin, salt and pepper. Stir to combine and fold in the cotija cheese."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve the soup in bowls topped with guacamole, sweet potato fries and cheddar cheese."
+    }
+  ]
+}

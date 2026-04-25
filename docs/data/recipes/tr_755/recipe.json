@@ -1,0 +1,103 @@
+{
+  "id": "tr_755",
+  "title": "Homemade Mango Ice Cream Recipe",
+  "image": "https://www.recipetineats.com/tachyon/2017/02/Mango-Ice-Cream-7.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/homemade-mango-ice-cream-recipe/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 417,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large mangoes (, ripe and juicy - to make 2 cups puree (Note 1))",
+      "emoji": "🥭",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "395",
+      "unit": "g",
+      "name": "/ 14 oz   sweetened condensed milk ((1 can))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "thickened cream / heavy cream / whipping cream (, cold)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "yellow liquid food colouring ((optional) (Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Dice the flesh of the mango (see video for how I do it). Puree using a blender, food processor or stick blender then measure out 2 cups of mango puree (about 2 1/4 cups of diced mango)."
+    },
+    {
+      "order": 2,
+      "instruction": "Pour puree into a non stick skillet over medium low heat. Cook, stirring constantly, for 8 - 10 minutes or until it reduces by half. The test is when you can drag a wooden spoon across the skillet and the path remains there for a second (see video). Or measure out the puree to ensure it's reduced to at least 1 cup - less is even better!"
+    },
+    {
+      "order": 3,
+      "instruction": "Cool puree."
+    },
+    {
+      "order": 4,
+      "instruction": "Combine cooled mango and condensed milk in a bowl. Add food colouring if using. Whisk until combined."
+    },
+    {
+      "order": 5,
+      "instruction": "Beat cream with a hand held beater or stand mixer until stiff peaks form (see video)."
+    },
+    {
+      "order": 6,
+      "instruction": "Take a scoop of cream and put it in the mango mixture. Fold through until mostly combined - lumps is fine (this is just to lighten it up a bit)."
+    },
+    {
+      "order": 7,
+      "instruction": "Then pour the mango mixture into the cream. Fold through (see video) rather than mixing vigorously like you would cake batter, until lump free. This will take a few minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Pour into a container (preferably with a lid). I recommend glass, if you can, or other non reactive container."
+    },
+    {
+      "order": 9,
+      "instruction": "Place a piece of baking / parchment paper on the surface. Then place lid on or using cling wrap."
+    },
+    {
+      "order": 10,
+      "instruction": "Freeze for 12+ hours."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove parchment paper. Stand for 5 minutes to soften slightly, then scoop and serve!"
+    },
+    {
+      "order": 12,
+      "instruction": "If frozen for 24 hours or longer, it will need a couple of extra minutes to soften to a scoop able consistency."
+    }
+  ]
+}

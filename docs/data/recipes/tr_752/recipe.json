@@ -1,0 +1,145 @@
+{
+  "id": "tr_752",
+  "title": "Oatmeal Raisin Cookie (Soft &amp; Chewy)",
+  "image": "https://www.recipetineats.com/tachyon/2016/07/Oatmeal-Raisin-Cookies_3-SQ.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/oatmeal-raisin-cookie-soft-chewy/",
+  "servings": 16,
+  "prepTime": 20,
+  "cookTime": 25,
+  "tags": [
+    "oatmeal raisin cookies"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 3.6,
+    "carbs": 41.3,
+    "fat": 10.6
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "raisins ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "flour (all purpose  / plain)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cinnamon powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz (2 sticks)  unsalted butter (, at room temperature (Note 2))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "brown sugar  ((packed))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "white sugar ((granulated. Superfine/caster also ok))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large eggs (, at room temperature (Note 3))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "rolled oats ((Note 4))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan). Adjust oven racks to middle and low position, ensuring you have 4&quot;/10cm between each rack. Line 2 trays with parchment/baking paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Optional: Soak raisins in boiled water for 10 minutes. Drain then pat dry. (This makes them plumper)."
+    },
+    {
+      "order": 3,
+      "instruction": "Sift dry ingredients: Sift flour, salt, baking powder and cinnamon into a bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Cream butter and sugar: Using a stand mixer or electric mixer, beat butter until creamy. Then beat in sugar until fluffy - about 2 - 3 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Add eggs: Beat in eggs one at a time until incorporated."
+    },
+    {
+      "order": 6,
+      "instruction": "Mix in flour: Use a wooden spoon to stir the flour mixture in."
+    },
+    {
+      "order": 7,
+      "instruction": "Stir in oats and raisins: Stir in oats and raisins - this requires a bit of effort as the dough gets firm!"
+    },
+    {
+      "order": 8,
+      "instruction": "Roll and flatten balls: Form 4cm / 1.6&quot; balls (~18) and place onto baking trays 4&quot;/10cm apart. I use an ice cream scoop. Then press down to slighty flatten into a thick disc shape."
+    },
+    {
+      "order": 9,
+      "instruction": "Bake for 11 minutes. Then swap the trays between the shelves AND turn the trays around. Bake for a further 11 - 14 minutes, or until cookies are golden on the edges and LIGHT golden on the surface."
+    },
+    {
+      "order": 10,
+      "instruction": "Cool on the trays for 5 minutes before transferring to cooling rack. Cool for 30 minutes before serving."
+    }
+  ]
+}

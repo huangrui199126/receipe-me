@@ -1,0 +1,179 @@
+{
+  "id": "tr_241",
+  "title": "Sticky Chinese Pork Spare Ribs",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/Sticky-Chinese-Ribs-1.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sticky-chinese-pork-spare-ribs/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 150,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "kg",
+      "name": "/ 4 lbs  meaty pork ribs (, cut into single rib pieces)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "shao xing wine",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "brown sugar or honey",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "tomato sauce or ketchup",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sambal oelek",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "6",
+      "unit": "cloves",
+      "name": "garlic (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "grated ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Chinese five spice powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sesame seeds (, coriander, shallots and red chilli to garnish (optional))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix marinade ingredients together in a bowl or freezer bag. Add the ribs and marinate for at least an hour, or overnight if possible. You can freeze the marinaded meat if you wish."
+    },
+    {
+      "order": 2,
+      "instruction": "Before cooking, let the ribs come to room temperature."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat the oven to 160C/320F."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour the ribs and all the marinade into a baking dish large enough so the ribs are in a single layer, but not so large that they are too spread out."
+    },
+    {
+      "order": 5,
+      "instruction": "Add water up to about 1/3 of the way up the ribs. 6 Cover tightly with foil and place in oven to cook for approximately 1.5 hours."
+    },
+    {
+      "order": 6,
+      "instruction": "Take out of the oven, remove the foil and touch the ribs – they should be quite tender, but not falling off the bone. The marinade in the baking dish should still be quite watery."
+    },
+    {
+      "order": 7,
+      "instruction": "Turn the ribs over, then return the baking dish to the oven without the foil. After 20 minutes, take the ribs out – they should be nicely browned and starting to char. Turn the ribs, then spoon the marinade over, then return to the oven for another 10 to 20 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "The ribs are done when they are falling off the bone, sticky and glossy and the marinade has reduced down to a thick sauce coating the ribs."
+    },
+    {
+      "order": 9,
+      "instruction": "Rest for 5 minutes. Garnish with coriander, sesame seeds, julienned shallots and sliced fresh red chilli."
+    }
+  ]
+}

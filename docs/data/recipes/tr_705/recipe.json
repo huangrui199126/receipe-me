@@ -1,0 +1,238 @@
+{
+  "id": "tr_705",
+  "title": "Spicy maple roast carrots with crispy chickpeas and yogurt sauce",
+  "image": "https://www.recipetineats.com/tachyon/2024/02/Spicy-maple-roasted-carrots-with-crispy-chickpeas-and-yogurt-sauce-1.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spicy-maple-roast-carrots-with-crispy-chickpeas/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 40,
+  "tags": [
+    "carrot side dish",
+    "roasted carrots"
+  ],
+  "nutrition": {
+    "calories": 304,
+    "protein": 8.0,
+    "carbs": 41.0,
+    "fat": 13.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "16  Dutch carrots (, scrubbed clean and tops trimmed (keep 2cm/1\" of tops for looks))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "600 g/ 1.2 lb  regular carrots ((5 medium), peeled, cut into quarters (Note 1))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "maple syrup ((or 2 1/2 tbsp honey))",
+      "emoji": "🍯",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sriracha",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/ 14 oz can  chickpeas (, drained but not dried)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "maple syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "sriracha",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "plain yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic (, finely grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped coriander/cilantro leaves ((sub parsley))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "toasted pistachios (, finely chopped (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 200°C/425°F (180°C fan). Arrange the oven racks so they are 20 cm/8&quot; apart (for air circulation)."
+    },
+    {
+      "order": 2,
+      "instruction": "Chickpeas &amp; carrots - Drain the chickpeas then spread on a tray (still wet). Toss the carrots with the Spicy Maple Sauce ingredients. Put both trays in the oven (carrots on the top shelf)."
+    },
+    {
+      "order": 3,
+      "instruction": "Crispy chickpeas - Remove the oven dried chickpeas from the oven after 10 minutes (Note 4). Push them to one side of the tray, drizzle with the oil and sprinkle with the chickpea spices, salt and pepper. Toss well using a rubber spatula, then return to the oven for a further 20 - 25 minutes until they&#39;re crispy (listen for the clatter when you shake the tray - or eat one! Note 4)."
+    },
+    {
+      "order": 4,
+      "instruction": "Carrots 30 min - Roast the carrots for 30 minutes, tossing halfway, until they are tender and caramelised on the edges."
+    },
+    {
+      "order": 5,
+      "instruction": "Yogurt Sauce - Mix the ingredients in a bowl and set aside for at least 20 minutes to allow the flavours to develop."
+    },
+    {
+      "order": 6,
+      "instruction": "Extra sauce - Mix until combined."
+    },
+    {
+      "order": 7,
+      "instruction": "Assemble - Spread the yogurt sauce on a plate. Pile on the carrots, scraping out every drop of juices on the tray. Drizzle with extra sauce, if using. Sprinkle over chickpeas, then coriander and pistachios. EAT!"
+    }
+  ]
+}

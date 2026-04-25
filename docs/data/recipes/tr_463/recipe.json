@@ -1,0 +1,118 @@
+{
+  "id": "tr_463",
+  "title": "Homemade French Onion Dip",
+  "image": "https://www.recipetineats.com/tachyon/2015/07/French-Onion-Dip_5.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/homemade-french-onion-dip/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "french onion dip",
+    "onion dip"
+  ],
+  "nutrition": {
+    "calories": 162,
+    "protein": 2.1,
+    "carbs": 6.3,
+    "fat": 14.8
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "diced onions ((2 to 3 onions) (brown, yellow or white))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "4",
+      "unit": "oz",
+      "name": "/ 120 g   cream cheese ((cold), cut into cubes)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "whole egg mayonnaise",
+      "emoji": "🥚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sour cream ((full fat is best, but you can use low fat or even yoghurt))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt the butter in a fry pan over medium heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the onions, salt, pepper, onion powder and cayenne pepper. Cook for 5 minutes, stirring. Then reduce the heat to medium low and cook for 20 to 25 minutes, stirring occasionally. The onions should be sweet and golden. Remove from stove and allow to cool."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the cream cheese, sour cream and mayo in a bowl, mix until smooth (use microwave in 10 sec bursts if needed to assist)"
+    },
+    {
+      "order": 4,
+      "instruction": "Add the caramelised onions. Mix until just combined. Refrigerate at least 2 hours to allow flavours to develope, overnight is better!"
+    },
+    {
+      "order": 5,
+      "instruction": "Serve at room temperature, garnished with chopped chives if desired. Best served with crinkle cut plain potato chips!"
+    }
+  ]
+}

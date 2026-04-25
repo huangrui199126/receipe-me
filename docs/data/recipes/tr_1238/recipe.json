@@ -1,0 +1,138 @@
+{
+  "id": "tr_1238",
+  "title": "Churros Recipe",
+  "image": "https://www.recipetineats.com/tachyon/2016/08/Churros_9-SQ.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spanish-churros-recipe/",
+  "servings": 12,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "churros",
+    "churros recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "caster / superfine sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ground cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "flour, plain / all purpose ((Note 1))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable, canola or olive oil ((not extra virgin olive oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 cups+ vegetable or canola oil (, for frying)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "dark chocolate or semi sweet chocolate chips ((Note 2))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "thickened / heavy cream ((heavy cream))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cinnamon sugar coating: Combine sugar and cinnamon in a shallow bowl, set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Batter: Mix flour, baking powder and salt in a bowl. Add oil and water and mix until just combined - it should be a thick, gummy batter, like a wet sticky dough, not thin and watery."
+    },
+    {
+      "order": 3,
+      "instruction": "Piping bag: Transfer dough into a piping bag with a 8mm / 1/3&quot; star tip nozzle. Set aside while oil heats."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil: Heat 5cm / 2&quot; oil over medium high in a small pot, wok or small but deep skillet (Note 3) to 170°C/340°F, or until it takes 20 seconds for a small cube of bread to turn golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Pipe &amp; snip: Pipe 15cm / 6&quot; lengths of dough into the oil, snipping with scissors (snip close to oil surface to avoid splash). Do 3 to 4 per batch, makes 10 to 12 in total."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook: Cook for 2-3 minutes or until golden and crisp, rolling occasionally."
+    },
+    {
+      "order": 7,
+      "instruction": "Drain: Remove onto paper towel lined plate to drain. Then roll in sugar. Serve hot with Chocolate Sauce!"
+    },
+    {
+      "order": 8,
+      "instruction": "Place in a heatproof bowl and microwave in 30 second bursts, stirring in between, until smooth. Set aside for 5 minutes to cool and thicken slightly."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "tr_131",
+  "title": "Chinese Stir Fried Noodles Guide",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/Stir-Fried-Noodles-Build-Your-Own-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chinese-stir-fried-noodles-build-your-own/",
+  "servings": 1,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "thai stir fried noodles"
+  ],
+  "nutrition": {
+    "calories": 554,
+    "protein": 28.0,
+    "carbs": 46.5,
+    "fat": 31.2
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "100g/3.5oz  fresh noodles ((Note 1))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "75",
+      "unit": "g",
+      "name": "/ 2.5oz  dried noodles (, prepared per packet (Note 2))",
+      "emoji": "🍜",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(3 oz / 75g)   proteins",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "vegetables (, chopped packed cups))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Real All Purpose Chinese Stir Fry Sauce ((click through for recipe))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(65ml)  water ((4 tbsp))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Base Flavouring - your choice ((see below))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra Flavourings ((optional) - your choice (see below))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare the protein by slicing them against the grain into 1/4\" / 0.5cm slices or 2/3\" / 2cm cubes."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in wok over high heat. When oil is hot, add Base Flavouring of choice and stir fry for about 10 seconds - don't let them burn!"
+    },
+    {
+      "order": 3,
+      "instruction": "Add ingredients in order of length of time to cook, starting with those that take the longest but do not add leafy greens. Start with onion and proteins (together), followed by broccoli and other vegetables in \"floret\" form, followed by carrots, stems of leafy greens, zucchini, eggplant, beans and other firm vegetables, and lastly cabbage and snow peas and other vegetables that take little time to cook. DO NOT add bean sprouts or leafy greens - you will add them in the next step."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove from heat, add leafy greens (leafy part of bok choy, spinach etc) and bean sprouts (if using), the noodles (use your fingers to break them up), the Sauce, water and Extra Flavours (optional)."
+    },
+    {
+      "order": 5,
+      "instruction": "Return to heat, gently toss for 1 minute to heat through the noodles and for the sauce to thicken. If the water evaporates too quickly, add a bit more."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve immediately."
+    },
+    {
+      "order": 7,
+      "instruction": "Garlic clove, finely chopped (don&#x27;t use garlic crusher)"
+    },
+    {
+      "order": 8,
+      "instruction": "Ginger, finely chopped (1 tsp)"
+    },
+    {
+      "order": 9,
+      "instruction": "Birds eye chilli, finely chopped (1/4 to 1/2 tsp) (to your taste)"
+    },
+    {
+      "order": 10,
+      "instruction": "Sriracha, Chilli Bean Paste or other Spicy addition (1 tsp)"
+    },
+    {
+      "order": 11,
+      "instruction": "Sweet chilli sauce (1 tbsp)"
+    },
+    {
+      "order": 12,
+      "instruction": "Substitute some or all of the water with pineapple or orange juice"
+    },
+    {
+      "order": 13,
+      "instruction": "Rice vinegar - for a touch of tartness (1 tsp)"
+    },
+    {
+      "order": 14,
+      "instruction": "Fresh cilantro / coriander leaves, or thai basil (2 tbsp)"
+    },
+    {
+      "order": 15,
+      "instruction": "Garlic or ordinary chives, chopped (2 tsp)"
+    },
+    {
+      "order": 16,
+      "instruction": "Pinch of Chinese five spice powder"
+    }
+  ]
+}

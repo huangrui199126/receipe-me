@@ -1,0 +1,169 @@
+{
+  "id": "tr_668",
+  "title": "Shakshuka (Middle Eastern Poached or Baked Eggs)",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/Shakshuka_9.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/shakshuka-baked-eggs/",
+  "servings": 2,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "shakshuka"
+  ],
+  "nutrition": {
+    "calories": 354,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small red onion (, peeled, halved and sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small red capsicum (bell pepper) (, halved lengthways and sliced into 0.5cm/1/4” strips)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  tomato (, diced)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz   can crushed tomatoes",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml  chicken or vegetable broth (or water)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "EACH paprika and cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "EACH black pepper and cayenne pepper  ((or other hot spice, adjust to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 eggs  eggs (up to 6 eggs ok)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh parsley or coriander / cilantro  (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pita or crusty bread, to serve",
+      "emoji": "🍞",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F (if intending to bake them)."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a medium size cast iron skillet over medium high heat. Add garlic and onion, cook for 2 minutes until onion is translucent."
+    },
+    {
+      "order": 3,
+      "instruction": "Add capsicum, cook for 1 minute. Add diced tomato, cook for 2 minutes until broken down and it becomes a bit pasty (see video)."
+    },
+    {
+      "order": 4,
+      "instruction": "Add canned tomatoes, tomato paste, broth, paprika, cumin, salt and pepper. Mix to combine well."
+    },
+    {
+      "order": 5,
+      "instruction": "Lower stove to medium low and simmer for 5 minutes until just thickened enough to make indentations (don't want dry sludge, needs to still be saucy)."
+    },
+    {
+      "order": 6,
+      "instruction": "Make indentations in the mixture and carefully crack the eggs in. Leave to cook for 1 minute until edges of whites are set (Note 1)."
+    },
+    {
+      "order": 7,
+      "instruction": "Transfer to oven and bake for 7 to 12 minutes until whites are just set but yolks are still runny (or to your taste). OR cover with lid and steam on stove for 3 minutes (runny yolks), or just simmer them without a lid."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove from oven/stove and serve immediately, scattered with the coriander or parsley. Serve with crusty bread, or pita bread."
+    }
+  ]
+}

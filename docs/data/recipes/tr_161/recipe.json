@@ -1,0 +1,87 @@
+{
+  "id": "tr_161",
+  "title": "Shredded Red Cabbage, Carrot and Mint Salad",
+  "image": "https://www.recipetineats.com/tachyon/2014/11/Shredded-Red-Cabbage-Carrot-and-Mint-Salad.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/shredded-red-cabbage-carrot-mint-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 116,
+    "protein": 1.1,
+    "carbs": 5.7,
+    "fat": 10.6
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "finely shredded red/purple cabbage",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (, julienned)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "Handful",
+      "name": "of mint leaves (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine Salad ingredients in a bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Add Dressing ingredients, then toss to combine."
+    }
+  ]
+}

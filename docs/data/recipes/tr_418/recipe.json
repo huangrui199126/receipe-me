@@ -1,0 +1,154 @@
+{
+  "id": "tr_418",
+  "title": "Classic Baked Cheesecake",
+  "image": "https://www.recipetineats.com/tachyon/2016/03/Baked-Cheesecake_8-SQ.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easy-classic-baked-cheesecake/",
+  "servings": 12,
+  "prepTime": 30,
+  "cookTime": 55,
+  "tags": [
+    "baked cheesecake",
+    "cheesecake recipe"
+  ],
+  "nutrition": {
+    "calories": 408,
+    "protein": 5.0,
+    "carbs": 40.0,
+    "fat": 25.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7 oz  Arnott's Marie crackers or other plain biscuit ((Aus) or 28 Graham Cracker squares (Note 1))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 8 tbsp   unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   cream cheese (, softened (Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "plain flour ((all purpose flour))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sour cream ((full fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "caster sugar ((superfine sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest of 1 lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  large eggs (, at room temperature)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Strawberries, blueberries, raspberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Icing sugar / powdered sugar (, for dusting)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 160°C/320°F (140°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Prepare pan - Get a 20cm/8&quot; springform cake tin. Turn the base UPSIDE DOWN (Note 4), butter lightly and place a square piece of parchment/baking paper on the base. Then clip into the springform pan - excess paper will stick out, see photos in post and video. Butter and line the side of the pan."
+    },
+    {
+      "order": 3,
+      "instruction": "Blitz - Break up biscuits roughly by hand and place in a food processor. Blitz until fine crumbs (Note 5). Add butter, briefly blitz until dispersed and it resembles wet sand."
+    },
+    {
+      "order": 4,
+      "instruction": "Press into pan - Pour into the prepared cake tin. Use a spatula to roughly spread it out over the base and up the walls. Use something with a flat base and vertical edges (I used a measuring cup) to press the crumbs up the wall almost to the top of the sides, and flatten the base."
+    },
+    {
+      "order": 5,
+      "instruction": "Beat cream cheese - Use a mixer or beater to beat the cream cheese until smooth - about 30 seconds on medium high,."
+    },
+    {
+      "order": 6,
+      "instruction": "Finish batter - Add flour, beat until just combined (10 sec). Add vanilla, sour cream, sugar and lemon zest. Beat until just combined (10 - 15 sec). Add eggs one at a time, beat in between until just combined (10 sec each). Don&#39;t over beat, we don&#39;t want to aerate the batter."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake - Pour into prepared crust. Bake for 55 minutes. The top should be a very light golden brown, not cracked, and near perfectly flat. It should jiggle slightly when you gently shake the pan."
+    },
+    {
+      "order": 8,
+      "instruction": "Cool in the oven with the door open 20 cm / 8&quot; (Note 6), then refrigerate for 4 hours+ in the pan."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove springform pan sides. Use overhang paper to slide cheesecake off the cake pan. Then slide the cheesecake off the paper."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve - Top with berries and dust with icing sugar!"
+    }
+  ]
+}

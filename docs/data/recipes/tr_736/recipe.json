@@ -1,0 +1,135 @@
+{
+  "id": "tr_736",
+  "title": "Salmon Alfredo Pasta",
+  "image": "https://www.recipetineats.com/tachyon/2016/01/Salmon-Alfredo_2.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/salmon-alfredo-pasta-done/",
+  "servings": 3,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 603,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250g   dried fettuccine",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "/ 50g  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small shallot ((US) / eschallot (Australia), very finely minced (Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "/ 125 ml  heavy cream ((Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "¾",
+      "unit": "cup",
+      "name": "/ 185 ml  freshly grated Parmigiano Reggiano or parmesan ((Notes 3 and 4))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "¼",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Good grind of black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6-7 oz / 180 - 200g   hot smoked salmon fillet (, flaked (Note 5))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Extra Parmigiano Reggiano",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring a large pot of salted water to boil. Add the fettuccine and cook until al dente (still firm but just cooked through). (Note 6)"
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, melt the butter in a deep fry pan over medium high heat. (Note 7)"
+    },
+    {
+      "order": 3,
+      "instruction": "Add the shallots and sauté for 2 minutes or until tender."
+    },
+    {
+      "order": 4,
+      "instruction": "Add the cream and bring to boil. Turn heat down to medium low and simmer for 3 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove the fry pan from the heat and stir through the Parmigiano Reggiano, salt and pepper until the sauce is smooth."
+    },
+    {
+      "order": 6,
+      "instruction": "TAKE OUT 1/2 cup of pasta water PLUS scoop out an extra mug (extra, just in case). Then drain the pasta in a colander."
+    },
+    {
+      "order": 7,
+      "instruction": "Transfer the pasta and 1/2 cup of reserved pasta water into the fry pan with the sauce. Add salmon. Return the fry pan to the stove over medium heat. Toss very gently to coat the pasta in the sauce and allow the sauce to emulsify (Note 6) for 1 1/2 - 2 minutes, until the sauce coats the pasta - there should be no sauce pooled at the bottom of the skillet. (Note 7)"
+    },
+    {
+      "order": 8,
+      "instruction": "Remove from the stove and serve immediately, garnished with extra Parmigiano Reggiano and fresh parsley, if using."
+    }
+  ]
+}

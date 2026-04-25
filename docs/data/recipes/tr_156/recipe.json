@@ -1,0 +1,87 @@
+{
+  "id": "tr_156",
+  "title": "Balsamic Vinegar Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/Balsamic-Dressing-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/balsamic-vinegar-dressing/",
+  "servings": 1,
+  "prepTime": 2,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "balsamic vinegar ((ordinary, not caramelised or syrupy))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "extra virgin olive oil ((or less if you like sharper dressing))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil ((or less if you like sharper dressing))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Honey or sugar (, to taste)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place ingredients in a jar and shake very well. Adjust salt and pepper to taste."
+    },
+    {
+      "order": 2,
+      "instruction": "Keeps for 3 weeks on the counter (unless it is very hot where you are, store it in the fridge), assuming you use fresh olive oil. Do not keep for more than 4 weeks as high quality olive oil tends to lose flavour beyond 4 weeks after opening the bottle."
+    }
+  ]
+}

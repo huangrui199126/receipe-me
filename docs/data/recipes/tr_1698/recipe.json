@@ -1,0 +1,120 @@
+{
+  "id": "tr_1698",
+  "title": "Cheesy Kale and Corn Soufflé.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/08/Cheesy-Kale-and-Corn-Soufflé-1.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/cheesy-kale-and-corn-souffle/",
+  "servings": 4,
+  "prepTime": 30,
+  "cookTime": 30,
+  "tags": [
+    "cheese",
+    "corn",
+    "kale",
+    "souffle"
+  ],
+  "nutrition": {
+    "calories": 512,
+    "protein": 24.0,
+    "carbs": 9.0,
+    "fat": 38.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoon",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "kale (sliced into thin shreds*)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cups",
+      "name": "ear corn (kernels cut off (about 1 1/2 total))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt and pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  eggs (whites separated from the yolks)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "Gruyère cheese or sharp cheddar (shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh basil (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 325 degrees F. Lightly brush melted butter into 4 (1 1/2 cup) ramekins or 1 (6 cups or so) baking dish."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat a skillet over medium-high heat and add the butter + olive oil. Once the butter is melted, add the garlic and kale. Cook, stirring occasionally, until the kale is very tender, about 10 to 12 minutes. Stir in the corn and season lightly with salt + pepper. Continue cooking until the corn is bright yellow and soft, about 5 minutes. Remove the skillet from the heat and allow to cool."
+    },
+    {
+      "order": 3,
+      "instruction": "In a large bowl bowl, stir together the 6 egg yolks, cheese and a pinch of salt + pepper. Stir in the kale + corn and the fresh basil."
+    },
+    {
+      "order": 4,
+      "instruction": "In another large, clean bowl, whip the eggs whites until soft the whites are fluffy and have formed soft peaks. Stir about a third of the whites into the veggie/yolk mixture to lighten it and then gently fold in the remaining whites, being careful not to deflate them much."
+    },
+    {
+      "order": 5,
+      "instruction": "Divide the soufflé mixture into the prepared ramekins or dish. Bake until golden and puffy, 30 to 35 minutes, and serve immediately with fresh basil."
+    }
+  ]
+}

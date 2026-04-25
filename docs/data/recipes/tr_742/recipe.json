@@ -1,0 +1,133 @@
+{
+  "id": "tr_742",
+  "title": "Prawn Cocktail!!!",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/Prawn-Cocktails-7.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/prawn-cocktail/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "prawn cocktail"
+  ],
+  "nutrition": {
+    "calories": 232,
+    "protein": 23.2,
+    "carbs": 9.5,
+    "fat": 10.9
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb   medium fresh cooked or raw prawns with shell and heads on ((yields ~600g once peeled); OR)",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 1.2 lb   fresh cooked prawns already peeled",
+      "emoji": "🦐",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "About 3 cup iceberg lettuce, finely sliced",
+      "emoji": "🥬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon wedges",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "/ 165 ml   mayonnaise (, preferably good quality whole egg mayonnaise (Note 2))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "ketchup  (or Australian/UK tomato sauce (Note 3))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "freshly grated horseradish ((or sub 1 1/2 tsp jarred OR 3/4 tsp wasabi))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "Dash",
+      "name": "of tabasco sauce ((to taste))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of cayenne pepper ((to taste + tiny bit of colour))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "If you are using whole prawns, remove heads and peel them. Leave a few whole for decorative purposes, if you wish. I find that with medium size already cooked prawns, deveining is usually not necessary (it's hard to do + so small it's barely noticeably especially with sauce)."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix together Sauce in a small bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss prawns with Sauce."
+    },
+    {
+      "order": 4,
+      "instruction": "Place a bit of lettuce in serving dishes. I like to use Martini glasses, but you can use any small serving vessel, or even small lettuce cups."
+    },
+    {
+      "order": 5,
+      "instruction": "Top with prawns. Serve, garnished with lemon wedges and a sprinkle of parsley, if using."
+    }
+  ]
+}

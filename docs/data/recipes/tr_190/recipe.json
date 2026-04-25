@@ -1,0 +1,151 @@
+{
+  "id": "tr_190",
+  "title": "Smoked Trout Dip / Potted Smoked Trout (le Budget le Gourmet)",
+  "image": "https://www.recipetineats.com/tachyon/2014/12/Potted-Smoked-Trout-1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/potted-trout-le-posh-on-le-budget/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 434,
+    "protein": 22.0,
+    "carbs": 3.5,
+    "fat": 37.3
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 stick / 4 oz / 120 g   unsalted butter (, roughly chopped)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  eschallot ((golden shallot), finely diced (Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, very finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rind of 1 lemon (, very finely grated (yellow part only, the white part is bitter))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   whole smoked trout",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "oz",
+      "name": "/ 120g   creme fraiche ((or sub with full fat sour cream) (Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cream ((full fat, not whipped))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh dill (, coarsely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "chives (, coarsely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt butter in a small saucepan over medium heat until melted, then pour 2/3 into a bowl and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the shallot, garlic and lemon rind to the pan and let it cook gently for 3 to 5 minutes until soft and translucent (it should not brown). You will only need to stir it occasionally."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, remove the skin off the trout and discard. Use your hands to remove the flesh and place into a bowl, being careful to avoid the bones (you will be able to pull the flesh off the bones easily). Use a fork to flake the flesh. Discard the bones."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour the shallot butter mixture into the bowl with the trout."
+    },
+    {
+      "order": 5,
+      "instruction": "Add lemon juice, cayenne pepper, creme fraiche, cream and herbs. Stir gently until well combined. Do a taste test and add salt and pepper if required. You may not need salt as smoked trout is often salty (I only add a tiny pinch)."
+    },
+    {
+      "order": 6,
+      "instruction": "Spoon into jars or ramekins (1 large, 2 medium or 4 small) and smooth the surface."
+    },
+    {
+      "order": 7,
+      "instruction": "Pour over the reserved butter until the top is covered."
+    },
+    {
+      "order": 8,
+      "instruction": "Place in the refrigerator to set. (Note: Original recipe set to freeze it for 5 - 10 minutes first but I found that this caused the surface of the butter to crack)."
+    },
+    {
+      "order": 9,
+      "instruction": "This can be served on the day you make it, but it gets even better with time. It can be made up to a week in advance."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve with fresh or toasted bread."
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "id": "tr_901",
+  "title": "Vegetable Tagine",
+  "image": "https://www.recipetineats.com/tachyon/2021/01/Vegetable-Tagine_SQ.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vegetable-tagine/",
+  "servings": 8,
+  "prepTime": 30,
+  "cookTime": 60,
+  "tags": [
+    "tagine",
+    "vegetable tagine",
+    "vegetarian stew"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5.0,
+    "carbs": 26.0,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cardamom powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "coriander powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "ground fennel seeds / fennel powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cayenne ((omit for non-spicy))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "turmeric",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "ground cloves",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "ground ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (sliced; (sub any type of onion))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "800g/1.6lb  butternut pumpkin / squash ((1/2 a small), peeled, cut into 2.5cm / 1&quot; cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small eggplant (, cut into 2.5cm / 1/2\" cubes)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  cauliflower head (, small, cut into bite size florets)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  capsicum / bell pepper (, cut into 2.5cm / 1&quot; pieces (red or yellow))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  tomatoes (, seeds removed, cut into 1cm / 1/3\" dice)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3 1/2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400g/ 14oz  canned chickpeas (, drained)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 60z  green beans (, cut into 3.5cm / 1.5&quot; pieces (~2 cups cut))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest of 1 lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "slivered almonds (, toasted)",
+      "emoji": "🥜",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander / cilantro (, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Plain yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of paprika or cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 26
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine Tagine Spice Mix ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 180°C/350°F."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat 1 tbsp oil in a large, heavy-based pot over medium high heat. Add garlic and onion, cook until onion is wilted (~ 1 1/2 minutes), then remove to a large bowl. Scrape out any remaining garlic bits from pan (so they don&#039;t burn)."
+    },
+    {
+      "order": 4,
+      "instruction": "Add pumpkin / squash and cook, stirring, for 3 minutes or until lightly golden on most sides. Remove to same bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Add 2 tbsp olive oil. Cook eggplant for 3 minutes until tinged with gold on most sides, remove to same bowl."
+    },
+    {
+      "order": 6,
+      "instruction": "Add 1 tbsp oil if pot is looking dry. Add capsicum and cauliflower, cook for 2 minutes until the cauliflower is a bit golden on the edges. Remove into bowl."
+    },
+    {
+      "order": 7,
+      "instruction": "Add tomato and cook for 1 minute. Add Spice Mix, stir for 1 minute."
+    },
+    {
+      "order": 8,
+      "instruction": "Add all vegetables back to pot. Add water (it should just about cover the vegetables, they will sink), salt and pepper. Stir, bring to simmer on stove, then transfer to oven for 30 minutes. (Alternatively simmer on low stove, but stir gently otherwise veg may breakdown too much.)"
+    },
+    {
+      "order": 9,
+      "instruction": "Remove from oven, add beans and chickpeas. Simmer for 15 minutes uncovered on stove on medium-low to cook the beans and reduce the sauce."
+    },
+    {
+      "order": 10,
+      "instruction": "Stir through lemon juice and zest. The idea here is that some of the veg (butternut, cauliflower) breaks down a bit to slightly thicken the sauce. It also gets thicker left overnight."
+    },
+    {
+      "order": 11,
+      "instruction": "For a traditional experience, serve over couscous. Otherwise, try white, brown, or basmati rice, or quinoa. Or, serve just as is like a chunky stew. For a low-carb option try cauliflower rice! I like to top mine with a dollop of yogurt, a sprinkle of almonds, coriander/cilantro and a pinch of paprika or cayenne."
+    }
+  ]
+}

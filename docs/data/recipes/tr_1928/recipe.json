@@ -1,0 +1,387 @@
+{
+  "id": "tr_1928",
+  "title": "Tijuana Street Fries (Honey Glazed Chipotle Carnitas, Fries + Toppings).",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/04/Tijuana-Street-Fries-Honey-Glazed-Chipotle-Carnitas-Fries-+-Spicy-Salsa.-19.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/tijuana-street-fries/",
+  "servings": 6,
+  "prepTime": 45,
+  "cookTime": 480,
+  "tags": [
+    "chipotle",
+    "fries",
+    "honey"
+  ],
+  "nutrition": {
+    "calories": 1874,
+    "protein": 62.0,
+    "carbs": 78.0,
+    "fat": 80.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3-4 pounds pork shoulder roast (or butt)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoons",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tablespoon",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "chipotle chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "cayenne",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "cinnamon",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "tequila (or water)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "orange juice",
+      "emoji": "🍊",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 in large or 2 small chipotle chiles adobo (minced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  dried guajillo chiles (or a mix of guajillo (ancho chiles, chipotle chiles and habanero chiles))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "tomatillos (peeled, or about 5)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "ounce",
+      "name": "can fire roasted tomatoes (14)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "3",
+      "unit": "pounds",
+      "name": "russet potatoes (peeled (if desired) and sliced into thin 1/4-inch to 1/2 inch (thick) strips)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "teaspoons",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "half and half",
+      "emoji": "🥄",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "cream cheese",
+      "emoji": "🥛",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "10",
+      "unit": "ounces",
+      "name": "oaxaca cheese (shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 30
+    },
+    {
+      "amount": "10",
+      "unit": "ounces",
+      "name": "sharp cheddar cheese (shredded)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 31
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 in chipotle chiles adobo (minced)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 32
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 33
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  avocados (mashed with a pinch of salt and pepper, squirt of lime juice + chopped cilantro)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 34
+    },
+    {
+      "amount": "",
+      "unit": "slices",
+      "name": "pickled or fresh jalapeno",
+      "emoji": "🥄",
+      "section": "",
+      "order": 35
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "sour cream or greek yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 36
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "fresh cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 37
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cajita Cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 38
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine seasonings (salt, pepper, smoked paprika, cumin, onion powder, chipotle chili powder, oregano, cayenne, chili powder, garlic powder &amp; cinnamon) together in a bowl and mix until combined. Heat a large skillet over medium-high heat and add oil. Rub the pork all over with about 1/3 of the seasonings. Once hot, add pork and sear on all sides until golden brown (about 2 minutes per side)."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the pork to the crockpot and sprinkle with remaining seasonings all over. Pour in water, tequila, orange juice, honey and chipotle chilies, then cook on low for 8-12 hours. Check once or twice if possible. Before serving, use forks or kitchen tongs to shred pork in the crock pot. Mix to combine with the remaining liquid in the crockpot. Keep warm until ready to use."
+    },
+    {
+      "order": 3,
+      "instruction": "This can also be placed in an oven safe dutch oven and cooked at 350 degrees F for 3-4 hours or until tender. You may need to add more liquid during cooking. Shred as directed."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat your broiler to high."
+    },
+    {
+      "order": 5,
+      "instruction": "Place the tomatillos on a baking sheet lined with parchment. Place under the broiler for 4-5 minutes or until the tomatillos are charred all over. Remove from the oven and place in a food processor or high powered blender"
+    },
+    {
+      "order": 6,
+      "instruction": "Use a pair of scissors to cut the stem off the chiles. Cut them open lengthwise and remove their seeds. Heat a skillet over medium-high heat and place the garlic cloves (still in their paper/skins) near the edge. Place the chiles on the skillet. Working in batches, toast for 30 seconds or less per side. (Let the garlic continue to cook while you are toasting all the chiles)."
+    },
+    {
+      "order": 7,
+      "instruction": "Peel the skin away from the garlic and add the garlic + toasted chiles to a food processor with the tomatillos. Add the canned tomatoes. Puree until smooth. Stream in the olive oil. Season with salt and fresh cilantro. Store in the fridge until ready to use."
+    },
+    {
+      "order": 8,
+      "instruction": "Pre-heat the oven to 425 degrees F. Line two baking sheets with parchment paper or grease with a little olive oil."
+    },
+    {
+      "order": 9,
+      "instruction": "Cut each potato into very thin fries, lengthwise no more than a quarter-inch thick. In a large bowl, toss the fries with olive oil. I think I used about 2 tablespoons. Add the salt and pepper and arrange the fries in single layer without crowding them (this is very important - I used two baking sheets)."
+    },
+    {
+      "order": 10,
+      "instruction": "Bake for 20 minutes, remove and toss, then bake for 15-20 minutes longer. I like to start checking them at 15 minutes and make sure that none are burning or getting too crisp."
+    },
+    {
+      "order": 11,
+      "instruction": "Add the half and half and cream cheese to a medium size sauce pot. Bring the mixture to a low bowl and then reduce the heat to a simmer, stirring until the cream cheese is mostly melted. Add the shredded oaxaca and sharp cheddar cheeses. Stir until the cheese is melted and smooth. Stir in the chipotle chiles and chopped cilantro. This can be made ahead and gently reheated on the stove or in the oven until smooth and creamy."
+    },
+    {
+      "order": 12,
+      "instruction": "Divide the fries among 4 plates or bowls and drizzle them with a little of the queso. Top each with a serving of carnitas and then dollop with some mashed avocado. Add sour cream or greek yogurt, jalapeño slices, cajita cheese and cilantro. Drizzle with the salsa + more queso. EAT!"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "tr_18",
+  "title": "Homemade Teriyaki Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Teriyaki-Sauce-1-copy-1.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/homemade-teriyaki-sauce/",
+  "servings": 8,
+  "prepTime": 2,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 17,
+    "protein": 0.5,
+    "carbs": 4.1,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "mirin",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Japanese cooking wine ((sake))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine ingredients in a large saucepan over high heat. The larger the pan, the faster it will reduce. For me it takes about 10 minutes, but it depends on the size of the pan you use."
+    },
+    {
+      "order": 2,
+      "instruction": "Bring to boil, then turn heat down and simmer until it reduces by half. The consistency should be like a light syrup."
+    },
+    {
+      "order": 3,
+      "instruction": "Bring to room temperature before using."
+    },
+    {
+      "order": 4,
+      "instruction": "Combine 3 to 4tbsp of Marinade per 1lb/500g of meat and marinate for at least 20 minutes, preferably overnight. However, if marinating fish, do not marinate for more than a few hours at most - 20 minutes is enough (otherwise the flavour will overpower the fish)."
+    },
+    {
+      "order": 5,
+      "instruction": "Teriyaki goes very well with chicken, beef and fish that suit strong flavours such as salmon."
+    },
+    {
+      "order": 6,
+      "instruction": "You can grill/broil, pan fry or BBQ/grill the meat."
+    },
+    {
+      "order": 7,
+      "instruction": "If you are cooking it on the BBQ/grill or broiling/grilling the meat, then baste each side at least once during cooking."
+    },
+    {
+      "order": 8,
+      "instruction": "If you are cooking this on the stove then just before the meat has finished cooking, add 2 tbsp of water to the pan and swirl it around to mix with the marinade that has come off the meat. Bring it to a rapid simmer and cook until it becomes a thick sauce consistency, and move the meat around in the sauce to coat it."
+    }
+  ]
+}

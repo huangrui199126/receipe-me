@@ -1,0 +1,140 @@
+{
+  "id": "tr_250",
+  "title": "Easy Chocolate Brownies",
+  "image": "https://www.recipetineats.com/tachyon/2020/03/Brownies_0-SQ.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easy-chocolate-brownies/",
+  "servings": 9,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "best brownies",
+    "brownies recipe",
+    "chocolate brownies",
+    "easy brownies"
+  ],
+  "nutrition": {
+    "calories": 212,
+    "protein": 2.6,
+    "carbs": 21.0,
+    "fat": 14.5
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 14 tbsp  unsalted butter ((1 3/4 US sticks))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 1 1/4 cups  dark chocolate chips ((7 oz) (Note 1))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(175g)  brown sugar (, loosely packed )",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs (, lightly beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(75g)  plain flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(30g)  cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of  salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "180g/6oz  dark chocolate block/bar (optional)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "roughly chopped walnuts (or other nuts)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan forced)."
+    },
+    {
+      "order": 2,
+      "instruction": "Spray a 20cm/8\" square tin with oil and line with baking/parchment paper with overhang (Note 2)."
+    },
+    {
+      "order": 3,
+      "instruction": "Place butter and chocolate chips in a heatproof bowl, microwave in 30 second bursts (takes me 1m 30 sec) until melted. Stir until smooth."
+    },
+    {
+      "order": 4,
+      "instruction": "Add sugar and vanilla, mix, then add eggs and mix well until smooth and molten."
+    },
+    {
+      "order": 5,
+      "instruction": "Add flour, cocoa and salt and stir until smooth. Stir in chopped chocolate, pour into pan."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake 24 minutes for really gooey in the centre, 28 minutes for fudgey but still very moist (my favourie, shown in video &amp; photos), 32 minutes for moist fudge-cake-like. (See in post for toothpick testphotos)."
+    },
+    {
+      "order": 7,
+      "instruction": "If you didn&#039;t use the extra chocolate for stirring in, reduce cook time by 2 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "Rest for 10 minutes before lifting out of the pan. Allow to cool for at least 20 minutes before cutting. Store in an airtight container for 4 days (bet they don&#x27;t last that long!) or freeze for 3 months."
+    }
+  ]
+}

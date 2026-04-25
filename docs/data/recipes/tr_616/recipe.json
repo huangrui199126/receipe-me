@@ -1,0 +1,124 @@
+{
+  "id": "tr_616",
+  "title": "Ceviche",
+  "image": "https://www.recipetineats.com/tachyon/2020/09/Ceviche_1-SQ.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/ceviche/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "ceviche",
+    "fresh fish",
+    "sashimi grade fish",
+    "sushi grade fish"
+  ],
+  "nutrition": {
+    "calories": 188,
+    "protein": 15.0,
+    "carbs": 6.0,
+    "fat": 12.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz  kingfish, tuna, sea bass or other sashimi-grade fish suitable for raw eating ( (Note 1))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4  red onion (, very finely sliced using mandolin (so it &quot;flops&quot;))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fresh jalapeño (, finely chopped (or green chilli) - add more or less for spiciness)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  cherry tomatoes (, halved (large ones quartered))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "lime juice (, fresh (or lemon juice))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt (, cooking / kosher (or 1/4 tsp table salt, Note 2))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  avocado (, ripe, cut into 1.25cm / 1/2\" cubes)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander/cilantro leaves (, roughly chopped (sub chives))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut fish: Cut fish into 1.25cm / 1/2&quot; cubes."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss in lime, leave 5 minutes: Place in a bowl with onion, jalapeño, tomato, pepper and lime juice. Gently toss, then set aside for 5 minutes, mixing gently once."
+    },
+    {
+      "order": 3,
+      "instruction": "Add avocado then serve! Sprinkle over salt, then add avocado, coriander and olive oil. Gently stir, then serve immediately with corn chips (see in post for other ideas)."
+    },
+    {
+      "order": 4,
+      "instruction": "Ceviche will be good for 20 minutes or so, then fish will start to overcook and firm up. Do not leave overnight (for food safety reasons)."
+    }
+  ]
+}

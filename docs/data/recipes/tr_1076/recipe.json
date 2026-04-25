@@ -1,0 +1,207 @@
+{
+  "id": "tr_1076",
+  "title": "Emergency Chicken Rice Casserole",
+  "image": "https://www.recipetineats.com/tachyon/2019/08/Ultra-Lazy-Chicken-Rice-Casserole_6.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/emergency-chicken-rice-casserole/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 45,
+  "tags": [
+    "chicken broccoli rice casserole",
+    "chicken rice casserole",
+    "rice casserole with chicken"
+  ],
+  "nutrition": {
+    "calories": 617,
+    "protein": 42.0,
+    "carbs": 64.0,
+    "fat": 21.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "(1 lb)  chicken thighs or tenders (tenderloin) (, cut into 1.5cm / 2/3&quot; pieces (Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "vegetable or chicken stock powder (granulated bouillon) ((Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "(625 ml)  chicken broth/stock (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "(625 ml)  milk (, any fat %)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "long grain white rice (, uncooked (Note 3))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(35g)  flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vegetable or chicken stock powder (granulated bouillon) ((Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30g)  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  broccoli heads ((large!), cut into florets (Note 4))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(200g)  shredded cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  green onions (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 190°C/375°F (180°C/350°F fan/convection)."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix Chicken Ingredients."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat chicken broth and milk until hot using any method (stove, microwave). Can combine together in saucepan. (Note 5)"
+    },
+    {
+      "order": 4,
+      "instruction": "Spread rice in 23 x 33cm / 9 x 13&quot; ceramic or glass baking dish. (Note 6)"
+    },
+    {
+      "order": 5,
+      "instruction": "Sprinkle with flour, stock powder and garlic."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the hot chicken broth, stir until flour dissolved (some small lumps ok)."
+    },
+    {
+      "order": 7,
+      "instruction": "Add milk, swish rice to spread out evenly."
+    },
+    {
+      "order": 8,
+      "instruction": "Spread broccoli on top, then chicken, then plonk butter on (anywhere)."
+    },
+    {
+      "order": 9,
+      "instruction": "Bake uncovered for 40 minutes. (Might get some browned skin on surface, that's ok)"
+    },
+    {
+      "order": 10,
+      "instruction": "CHECK rice before stirring - should be JUST cooked (Note 7)."
+    },
+    {
+      "order": 11,
+      "instruction": "Add half the cheese, stir through, being sure to get rice in the corners and edges of pan. Should be creamy and quite loose (see video)."
+    },
+    {
+      "order": 12,
+      "instruction": "Top with cheese, return to oven for 5 minutes until just melted."
+    },
+    {
+      "order": 13,
+      "instruction": "Sprinkle with green onion, if using, then serve!"
+    }
+  ]
+}

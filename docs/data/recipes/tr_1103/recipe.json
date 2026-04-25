@@ -1,0 +1,155 @@
+{
+  "id": "tr_1103",
+  "title": "Beef Soba Noodle Bowl with Green Beans",
+  "image": "https://www.recipetineats.com/tachyon/2017/03/Beef-Bean-and-Soba-Bowls.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/beef-bean-soba/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 702,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "soy sauce, light or ordinary (Note 1)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "peanut oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "rice vinegar (Note 2)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "mirin (Note 3)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger, minced",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/7 oz  rump or sirloin beef steak, excess fat trimmed (Note 4)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6oz/180g  soba (Note 5)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6oz/200g  green beans, trimmed",
+      "emoji": "🫘",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  scallion/shallot, finely sliced",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "crispy Asian Shallots (Note 6)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Take the steak out of the fridge 30 minutes prior to cooking (or 15 minutes if it's a stinking hot summer day)."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine dressing ingredients in a jar and shake."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat the oil in a skillet over high heat until smoking, then cook the steak to your liking. I like mine medium rare - perfect for absorbing the flavours of the delicious dressing - so I cook this rump steak for 2 minutes on the first side and 1 minute 45 seconds on the second side.&nbsp;"
+    },
+    {
+      "order": 4,
+      "instruction": "Transfer to a plate and loosely cover with foil. Rest for 5 minutes, then slice into fairly thin slices against the grain (i.e. find the direction of the fibres then cut at a 90 degree angle straight through them)."
+    },
+    {
+      "order": 5,
+      "instruction": "Meanwhile, bring a pot of water to boil. Cook the soba according to packet instructions (usually 5 minutes). For the last 1 minute of cooking, add the green beans."
+    },
+    {
+      "order": 6,
+      "instruction": "Drain the noodles and beans and rinse under cold water to stop them from cooking further and to cool the noodles. Roughly separate beans from noodles."
+    },
+    {
+      "order": 7,
+      "instruction": "To serve, divide the noodles between 2 bowls, top with the beans then the steak slices. Drizzle with the dressing (over the steak and noodles), then garnish with shallot slices and Crispy Asian Shallots."
+    }
+  ]
+}

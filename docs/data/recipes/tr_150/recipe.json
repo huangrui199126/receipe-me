@@ -1,0 +1,211 @@
+{
+  "id": "tr_150",
+  "title": "Middle Eastern Roasted Eggplant with Couscous",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/Eggplant-Couscous-2-Version-2-680x1024-1.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/middle-eastern-roasted-eggplant-couscous/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 40,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  medium eggplants",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, crushed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ground coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "chilli flakes",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rind of 1 medium lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "couscous",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "sultanas or currants",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "roughly chopped green olives",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "flaked almonds (, dry toasted on stove or in oven)",
+      "emoji": "🥜",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "scallions or spring onion (, chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "chopped cilantro ((coriander) and mint (1/4 cup together))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Juice of 1/2 lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 350F/180C."
+    },
+    {
+      "order": 2,
+      "instruction": "Slice the eggplant lengthwise, then use small knife to make diagonal criss cross scores deep into the eggplant, making sure you don't cut the skin. (See notes)"
+    },
+    {
+      "order": 3,
+      "instruction": "Combine the chermoula ingredients and mix into a paste. Slather onto the eggplant."
+    },
+    {
+      "order": 4,
+      "instruction": "Place on baking tray, flesh side up, and roast for 40 minutes until completely soft. The cooking time will vary depending on the size of the eggplant you are using."
+    },
+    {
+      "order": 5,
+      "instruction": "Place the couscous, salt and sultanas into a bowl, add the boiling water and cover for 5 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Fluff the couscous with a fork, add the remaining ingredients and toss through to combine. Adjust seasoning to your taste."
+    },
+    {
+      "order": 7,
+      "instruction": "To serve, pile each eggplant high with couscous, finish with a dollop of yoghurt (see notes for vegan alternative) and garnish with cilantro. Best served warm but also delicious at room temperature."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "tr_1504",
+  "title": "Poinsettia Spritz Punch.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/12/Poinsettia-Spritz-Punch-7.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/poinsettia-spritz-punch/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "punch"
+  ],
+  "nutrition": {
+    "calories": 132,
+    "protein": 0.0,
+    "carbs": 13.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "vodka",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "100% cranberry juice or pomegranate juice",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "ounces",
+      "name": "St. Germain (elderflower liquor)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "champagne",
+      "emoji": "🥓",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh cranberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "slices",
+      "name": "rosemary and orange (for serving)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large pitcher, combine the vodka, cranberry juice and St. Germain. Chill until ready to serve."
+    },
+    {
+      "order": 2,
+      "instruction": "When ready to serve, add the champagne and cranberries. Pour among glasses and garnish with rosemary and orange zest/slices."
+    }
+  ]
+}

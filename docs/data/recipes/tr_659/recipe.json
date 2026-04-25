@@ -1,0 +1,153 @@
+{
+  "id": "tr_659",
+  "title": "Salmon Patties",
+  "image": "https://www.recipetineats.com/tachyon/2018/02/Salmon-Patties_8.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/salmon-patties/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [
+    "salmon patties"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "Panko breadcrumbs ((Note 1 for subs))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion ((or 1/2 large), grated)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400 g/ 14 oz   cooked fresh salmon OR canned red or pink salmon (, drained (Note 2))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  shallots / scallions / green onions (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "fresh dill (, roughly chopped (or 1 tsp dried herbs of choice))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parmesan (, grated or shredded)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220C/430F standard (200C fan)"
+    },
+    {
+      "order": 2,
+      "instruction": "Place breadcrumbs in a bowl. Grate over onion, including juices. Mix onion into breadcrumbs, ensuring all breadcrumbs are soaked. (Note 3)"
+    },
+    {
+      "order": 3,
+      "instruction": "Add remaining ingredients except salmon. Mix well."
+    },
+    {
+      "order": 4,
+      "instruction": "Add salmon. Stir through gently, leaving flakes of salmon (rather than vigorously mixing salmon into tiny pieces)."
+    },
+    {
+      "order": 5,
+      "instruction": "Scoop up 1/4 cup mixture (level, packed standard ice cream scoop, see Video). Form round patties about 1.5 cm/ 2/3\" thick and set aside."
+    },
+    {
+      "order": 6,
+      "instruction": "Drizzle oil all over tray. Place in oven for 2 minutes until hot - oil will spread over tray. Tilt tray to spread if needed."
+    },
+    {
+      "order": 7,
+      "instruction": "Place patties on tray - DO NOT press down (makes them stick on tray). Spray surface with oil spray."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake 15 minutes. Flip, spray surface with oil spray, bake 5 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve with sour cream or yoghurt on the side for dipping / dolloping, and extra fresh dill if desired."
+    },
+    {
+      "order": 10,
+      "instruction": "I served mine with cauliflower puree and Yoghurt Slaw - healthy side options! (Note 3)"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "id": "tr_1292",
+  "title": "Quesadilla (Beef, Vegetable or Chicken)",
+  "image": "https://www.recipetineats.com/tachyon/2018/06/Quesadillas_4.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/quesadilla/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "beef quesadilla",
+    "chicken quesadilla",
+    "quesadillas"
+  ],
+  "nutrition": {
+    "calories": 418,
+    "protein": 26.0,
+    "carbs": 33.0,
+    "fat": 21.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6 - 8  flour tortillas ((20cm/8\"))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(200g)  shredded Monterey Jack cheese ((or other of choice) (Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "roughly chopped coriander/cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "corn kernels ((frozen thawed or can drained))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "ONE Filling of Choice, below ((beef, chicken or vegetable))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "each onion powder, dried oregano, salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "each cumin powder, paprika",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each black pepper, cayenne pepper (optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   ground beef / mince",
+      "emoji": "🥩",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small red capsicum/bell peppers (, diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(65 ml)  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "500 g/1 lb   chicken thighs (, skinless boneless (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, quartered and sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small red capsicum/bell pepper (, diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "of black beans, drained ((400g/14oz))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  capsicum/bell pepper (, diced (any colour))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "corn ((canned drained or frozen thawed))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(65 ml)  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 27
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place tortilla on work surface. Sprinkle one side with a bit of cheese, top with Filling of Choice. Sprinkle with corn*, coriander and top with cheese. Fold in half."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat non stick skillet over medium low heat (no oil, if pan is not non-stick use 2 tsp oil)."
+    },
+    {
+      "order": 3,
+      "instruction": "Place quesadilla in skillet, press down lightly, cover with lid. Cook for 3 minutes until underside is super golden brown and crispy."
+    },
+    {
+      "order": 4,
+      "instruction": "Carefully flip over the folded edge (see video). Press down lightly. Cook for 3 minutes until crispy (no lid)."
+    },
+    {
+      "order": 5,
+      "instruction": "Transfer to cutting board, cut in half. Serve immediately!"
+    },
+    {
+      "order": 6,
+      "instruction": "Dipping Sauce options: Sour cream, salsa, Avocado Sauce (pictured)"
+    },
+    {
+      "order": 7,
+      "instruction": "Mix ingredients in a small bowl. Use for one of the Fillings Options below."
+    },
+    {
+      "order": 8,
+      "instruction": "Heat oil in a skillet over high heat. Add onion and garlic, cook for 2 minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Add beef and cook, breaking it up as you go. Once it changes from pink to brown, add capsicum. Cook for 1 minute."
+    },
+    {
+      "order": 10,
+      "instruction": "Add tomato paste, water and Spice Mix. Cook for 2 minutes. Transfer to bowl, cool."
+    },
+    {
+      "order": 11,
+      "instruction": "Drizzle chicken with 1 tbsp oil, toss to coat. Sprinkle over Spice Mix, toss well to coat."
+    },
+    {
+      "order": 12,
+      "instruction": "Heat 1 tbsp oil in a large skillet over high heat. Add onion and garlic, cook for 2 minutes. Add capsicum and cook for 1 minute. Transfer to bowl, cool."
+    },
+    {
+      "order": 13,
+      "instruction": "Return pan to stove, reduce to medium heat. Add remaining 1/2 tbsp oil. Add chicken and cook for 3 minutes until deep golden. Turn and cook for 3 minutes until cooked through."
+    },
+    {
+      "order": 14,
+      "instruction": "Transfer chicken to cutting board, rest for 2 minutes then dice and cool. Combine with capsicum mixture."
+    },
+    {
+      "order": 15,
+      "instruction": "Heat oil in a skillet over high heat. Add onion and garlic, cook for 2 minutes.&nbsp;Add capsicum, cook for 1 minute."
+    },
+    {
+      "order": 16,
+      "instruction": "Add beans, corn, tomato paste, water and Spice Mix. Cook for 2 minutes. Transfer to bowl, cool."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "tr_835",
+  "title": "Garlic Butter Rice with Kale",
+  "image": "https://www.recipetineats.com/tachyon/2018/05/Garlic-Butter-Rice-with-Kale_9.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/garlic-butter-rice-with-kale-recipe/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "garlic butter kale rice",
+    "kale recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "7",
+      "unit": "cups",
+      "name": "kale sliced leaves (, tightly packed (1cm / 2/5\" slices) (Note 1))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "(30g) unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 4  large garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "uncooked white rice ((Note 2))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "chicken broth ((or vegetable))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp (15 - 30g) butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "chopped almonds ((or other nuts / seeds of choice))",
+      "emoji": "🥜",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place kale in a large bowl. Drizzle over oil, sprinkle with a small pinch of salt and pepper. Scrunch with hands for 30 seconds, set aside while rice cooks."
+    },
+    {
+      "order": 2,
+      "instruction": "Melt butter in a large pot over medium high heat. Add garlic and stir for 1 minute until just starting to turn golden and is incredibly fragrant."
+    },
+    {
+      "order": 3,
+      "instruction": "Add rice, stir for 10 seconds."
+    },
+    {
+      "order": 4,
+      "instruction": "Add broth, stir, then cover."
+    },
+    {
+      "order": 5,
+      "instruction": "Turn heat down to medium or medium low so the liquid is simmering very gently. Cook for 12 - 15 minutes until all liquid is absorbed (tilt pot to check)."
+    },
+    {
+      "order": 6,
+      "instruction": "Quickly toss all the kale on top of the rice, put the lid back on then remove from heat."
+    },
+    {
+      "order": 7,
+      "instruction": "Rest for 10 to 15 minutes. Fluff rice with fork, stirring kale through."
+    },
+    {
+      "order": 8,
+      "instruction": "Lastly, stir through extra butter and add salt and pepper to taste."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve and sprinkle over nuts (or stir nuts through rice)."
+    }
+  ]
+}

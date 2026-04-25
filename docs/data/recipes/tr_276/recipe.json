@@ -1,0 +1,158 @@
+{
+  "id": "tr_276",
+  "title": "Pad See Ew - Thai Stir Fried Noodles",
+  "image": "https://www.recipetineats.com/tachyon/2019/03/Pad-See-Ew_2-SQ.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/thai-stir-fried-noodles-pad-see-ew/",
+  "servings": 2,
+  "prepTime": 8,
+  "cookTime": 10,
+  "tags": [
+    "pad see ew",
+    "thai stir fried noodles"
+  ],
+  "nutrition": {
+    "calories": 510,
+    "protein": 25.1,
+    "carbs": 73.4,
+    "fat": 13.2
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7 oz  dried wide rice stick noodles (, or 15 oz / 450g fresh wide flat rice noodles (Sen Yai) (Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dark soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "light soy sauce ((or all purpose, Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "white vinegar ((plain white vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sugar ((any type))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "peanut or vegetable oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic cloves, very finely chopped",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 150g / 5oz   chicken thighs ((boneless, skinless), sliced (Note 4))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  stems Chinese broccoli ((Note 5))",
+      "emoji": "🥦",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Chinese Broccoli - trim ends, cut into 7.5cm/3&quot; pieces. Separate leaves from stems. Cut thick stems in half vertically so they&#39;re no wider than 0.8cm / 0.3&quot; thick."
+    },
+    {
+      "order": 2,
+      "instruction": "Noodles - Prepare according to packet directions and drain. Time it so they're cooked just before using - do not leave cooked rice noodles&nbsp;lying around, they break in the wok."
+    },
+    {
+      "order": 3,
+      "instruction": "Sauce - Mix ingredients until sugar dissolves."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil: Heat 1 tbsp oil in a very large heavy based skillet or wok over high heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook garlic and chicken: Add garlic, cook 15 seconds. Add chicken, cook until it mostly changes from pink to white."
+    },
+    {
+      "order": 6,
+      "instruction": "Chinese broccoli STEMS: Add Chinese broccoli stems, cook until chicken is almost cooked through."
+    },
+    {
+      "order": 7,
+      "instruction": "Chinese broccoli LEAVES: Add Chinese broccoli leaves, cook until just wilted."
+    },
+    {
+      "order": 8,
+      "instruction": "Scramble egg: Push everything to one side, crack egg in and scramble."
+    },
+    {
+      "order": 9,
+      "instruction": "REMOVE chicken from wok: Remove everything in the wok onto a plate (scrape wok clean)."
+    },
+    {
+      "order": 10,
+      "instruction": "Caramelise noodles: Return wok to stove, heat 2 tbsp oil over high heat until it starts smoking (HOT is key!). Add noodles and Sauce. Toss as few times as possible to disperse Sauce and make edges of noodles caramelise - about 1 to 1 1/2 minutes."
+    },
+    {
+      "order": 11,
+      "instruction": "Add chicken back in: Quickly add chicken and veg back in, and toss to disperse. Serve immediately!"
+    }
+  ]
+}

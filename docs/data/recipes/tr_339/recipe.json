@@ -1,0 +1,256 @@
+{
+  "id": "tr_339",
+  "title": "Beef Bourguignon (Beef Burgundy)",
+  "image": "https://www.recipetineats.com/tachyon/2021/02/Beef-Bourguignon_7-SQ.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/beef-bourguignon-beef-burgundy/",
+  "servings": 5,
+  "prepTime": 40,
+  "cookTime": 150,
+  "tags": [
+    "beef bourguignon",
+    "beef burgundy",
+    "bœuf bourguignon",
+    "french beef stew"
+  ],
+  "nutrition": {
+    "calories": 745,
+    "protein": 47.0,
+    "carbs": 25.0,
+    "fat": 40.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "800g/ 1.6 lb  chuck beef (, cut in 4-5 cm / 2” cubes (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large carrots ((~300g/10oz), cut on an angle into 4-5 cm / 2” pieces)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "16  pearl onions or small, round pickling onions ((Note 2))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bay leaf (, fresh (sub: dried))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "sprigs",
+      "name": "thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "750ml/ 25 oz  pinot noir or other red wine ((Note 3))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "oil (, olive, canola or vegetable)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/ 7oz  mushrooms (, halved (quarters if large))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "150g/ 5oz  bacon piece (, cut into 1cm / 1/2” thick batons (Note 4))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "50g/3 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "flour (, plain/all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "beef stock (low sodium)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "chopped parsley (, for garnish)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinate beef: Place the Beef Marinade ingredients in a large, non-reactive ceramic dish or ziplock bag. Marinate overnight in the fridge (minimum 12 hours, maximum 24 hours)."
+    },
+    {
+      "order": 2,
+      "instruction": "Strain liquid into a bowl, reserve marinade. Separate the beef, carrots and onion."
+    },
+    {
+      "order": 3,
+      "instruction": "Reduce wine: Pour red wine into a saucepan and bring to a boil over medium high heat. Simmer vigorously, skimming off any impurities that rise to the surface, until reduced by half. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven to 180°C / 350°F (160°C fan)."
+    },
+    {
+      "order": 5,
+      "instruction": "Dry beef: Line a tray with paper towels, spread beef out, then pat dry with paper towels."
+    },
+    {
+      "order": 6,
+      "instruction": "Season beef: Sprinkle beef with 3/4 tsp salt and 1/2 tsp black pepper."
+    },
+    {
+      "order": 7,
+      "instruction": "Brown beef: Heat 2 tbsp oil in a large, heavy-based, oven-proof pot over high heat. Add 1/3 beef and brown aggressively all over. Remove into bowl, then repeat with remaining beef, adding more oil if needed."
+    },
+    {
+      "order": 8,
+      "instruction": "Fry bacon: Add bacon and cook for 3 minutes until golden. Add to bowl with beef."
+    },
+    {
+      "order": 9,
+      "instruction": "Sauté mushrooms: Add mushrooms and cook for 5 minutes, or until golden. Remove into a new bowl."
+    },
+    {
+      "order": 10,
+      "instruction": "Sauté onion: Add a bit of extra oil if needed, then cook onions for 5 minutes or until there are nice golden patches. Add to bowl with mushrooms."
+    },
+    {
+      "order": 11,
+      "instruction": "Sauté carrot: Add butter into pot. Once melted, add carrot and cook for 3 - 4 minutes until there are golden patches. Add garlic and cook for a further 1 minute."
+    },
+    {
+      "order": 12,
+      "instruction": "Tomato paste: Add tomato paste and cook for 2 minutes."
+    },
+    {
+      "order": 13,
+      "instruction": "Flour: Add flour and cook for 2 minutes."
+    },
+    {
+      "order": 14,
+      "instruction": "Add wine and stock: While stirring, slowly pour in beef stock – this helps the flour dissolve lump-free into the stock. Then add wine and mix until flour mixture is dissolved and mostly lump-free (Note 6)."
+    },
+    {
+      "order": 15,
+      "instruction": "Add beef into pot: Add beef, bacon, thyme, bay leaf, 1/4 tsp salt and pepper into the pot, then stir well."
+    },
+    {
+      "order": 16,
+      "instruction": "Oven 1 hour: Bring to a simmer, then cover and transfer to oven for 1 hour. (Note 7)"
+    },
+    {
+      "order": 17,
+      "instruction": "Mushrooms and onion: Remove from oven, stir in mushrooms and onion."
+    },
+    {
+      "order": 18,
+      "instruction": "Oven 1½ hours: Cover with lid and return to oven for 1½ hours, or until beef is &quot;fall-apart tender&quot;."
+    },
+    {
+      "order": 19,
+      "instruction": "Adjust salt: Remove from oven, taste sauce and add salt if needed. (Note 8 - important!)"
+    },
+    {
+      "order": 20,
+      "instruction": "Leave overnight (recommended): If time permits, leave the stew overnight before serving because as with all stews, it gets better with time! Reheat gently on a low stove."
+    },
+    {
+      "order": 21,
+      "instruction": "Serve over mashed potato – Essential for mopping up every drop of that amazing sauce!"
+    }
+  ]
+}

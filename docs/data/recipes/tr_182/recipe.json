@@ -1,0 +1,215 @@
+{
+  "id": "tr_182",
+  "title": "Chicken Salad with Avocado Dressing",
+  "image": "https://www.recipetineats.com/tachyon/2016/03/Chicken-Salad-Avocado-Dressing_7.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-salad-with-avocado-dressing/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 505,
+    "protein": 46.9,
+    "carbs": 32.0,
+    "fat": 22.7
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  large or 1 small ripe avocado",
+      "emoji": "🥑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "diced red onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cilantro (, stems and leaves, not packed in)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "olive oil ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "plain low fat yoghurt ((I use Greek))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 - 5 tbsp low fat milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "onion or garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5 - 7 oz / 250 - 300g   chicken breast (, skinless boneless (I had 1 large one))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "each onion powder (, garlic powder, cayenne pepper, salt)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "plain flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "diced red onion",
+      "emoji": "🧅",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  corn (, steamed, kernels cut off (or 3/4 cup cooked kernels))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "cherry tomatoes (, halved or quartered)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "chopped lettuce",
+      "emoji": "🥬",
+      "section": "",
+      "order": 20
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Avocado Dressing: Place the ingredients in a small food processor and whizz until smooth. Use MILK to adjust consistency, and adjust salt to taste. (Note 1)"
+    },
+    {
+      "order": 2,
+      "instruction": "Spice Rub: Combine ingredients and scatter on a plate."
+    },
+    {
+      "order": 3,
+      "instruction": "Chicken: Slice into 4 - 5 thin steaks on the diagonal, then coat both sides with Spice Rub."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook Chicken: Heat oil in a large skillet over high heat. Add chicken and cook both sides until dark brown. Remove onto a plate and cover loosely with foil. Rest for 5 minutes then slice thickly."
+    },
+    {
+      "order": 5,
+      "instruction": "Pile the Salad ingredients onto a serving platter then place the chicken on the side."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve with Avocado Dressing."
+    }
+  ]
+}

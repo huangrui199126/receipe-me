@@ -1,0 +1,275 @@
+{
+  "id": "tr_2009",
+  "title": "Fudge Browne and Chocolate Frangelico Crème Brûlée Pie",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2013/11/Fudge-Brownie-and-Chocolate-Frangelico-Crème-Brûlée-Pie-15.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/fudge-browne-chocolate-frangelico-creme-brulee-pie/",
+  "servings": 10,
+  "prepTime": 20,
+  "cookTime": 60,
+  "tags": [
+    "brownies",
+    "chocolate",
+    "fudge"
+  ],
+  "nutrition": {
+    "calories": 1005,
+    "protein": 11.0,
+    "carbs": 89.0,
+    "fat": 72.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "very cold butter (cut into small cubes, 3 sticks)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "all purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg (beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "tablespoons",
+      "name": "cold water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "canola oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "6",
+      "unit": "tablespoons",
+      "name": "unsalted butter (melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "6",
+      "unit": "tablespoon",
+      "name": "unsweetened cocoa powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/4",
+      "unit": "teaspoon",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3/4",
+      "unit": "cups",
+      "name": "chocolate chips",
+      "emoji": "🍫",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "heavy cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Frangelico hazelnut liqueur swap coffee (bourbon or simply more cream), or kahlua (YUM!)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "4",
+      "unit": "ounces",
+      "name": "semi-sweet chocolate (chopped)",
+      "emoji": "🍫",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  vanilla bean (seeds scraped)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large egg yolks",
+      "emoji": "🥚",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "corn starch",
+      "emoji": "🌽",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tablespoon",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6-8 tablespoons brown sugar (for topping)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "heavy whipping cream (very cold)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "powdered sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "Frangelico hazelnut liqueur or vanilla",
+      "emoji": "🫙",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "To make the pie crust. In a large bowl, with a pastry cutter, gradually work the butter into the flour until it resembles coarse meal. In a small bowl, beat the egg with a fork and then pour it into the flour and butter mixture. Add 5 tablespoons of cold water, 1 tablespoon of apple cider vinegar and 1 teaspoon of salt. Stir together gently until all of the ingredients are incorporated and dough forms a ball."
+    },
+    {
+      "order": 2,
+      "instruction": "Separate the dough ball into thirds. Form 3 evenly sized balls of dough and place each dough into a large Ziploc bag or wrap with plastic wrap. Using a rolling pin or your hands, slightly flatten each ball of dough to make rolling easier later. Seal the bags and place them in the freezer until you need them. If using the dough right away, remove 1 of the rounds of dough from the freezer after 15 minutes, then remove from bag or wrap and roll the dough out. Leave the remaining pieces of dough in the freezer for another use."
+    },
+    {
+      "order": 3,
+      "instruction": "On a floured surface roll the dough, starting at the center and working your way out. (Sprinkle some flour over top of the dough if it’s a bit too moist.) If the dough is sticking to the countertop use a metal spatula and carefully scrape it up and flip it over and continue rolling until it’s about 1/2 to 1 inch larger in diameter than your pie plate. Now carefully fold the dough in half and then in half again to make a large triangle. Carefully lift the triangle into a pie plate and unfold. Press the dough into the pie plate and shape the edges as desired."
+    },
+    {
+      "order": 4,
+      "instruction": "To make the brownie layer. Pre-heat oven to 325 degrees F."
+    },
+    {
+      "order": 5,
+      "instruction": "Mix canola oil and butter, add cocoa and stir until well blended. Beat the eggs with a mixer. Add sugar and vanilla, beat well. Add the chocolate mixture and continue to beat to combine. Slowly add in the flour and salt. Stir in chocolate chips."
+    },
+    {
+      "order": 6,
+      "instruction": "Spread the brownie mixture evenly into pie plate. Bake at 325 degrees for 45-50 minutes or until the top of the brownies are set. Remove from the oven and allow to cool while you make the Crème Brûlée Layer."
+    },
+    {
+      "order": 7,
+      "instruction": "For the Crème Brûlée, add the heavy cream, hazelnut liqueur, chopped chocolate and vanilla bean seeds to a medium sauce pot. Heat the mixture over medium heat, stirring frequently until the chocolate is melted and the mixture is smooth. Once smooth and melted remove from the heat and let sit 5 minutes."
+    },
+    {
+      "order": 8,
+      "instruction": "In the meantime add the eggs, sugar and cornstarch to a small bowl and whisk until smooth. Once the chocolate has set for 5 minutes whisk the egg mixture into the chocolate until smooth. Return the mixture back to medium heat and whisk consistently for 5-10 minutes or until the mixture is thickened. Don't worry if some of the alcohol separates from the chocolate, just keep whisking. Once the mixture is thick like pudding remove from the heat and pour over the brownie layer, smoothing out the top. Let cool slightly for 5 minutes and then cover with plastic wrap, pressing the plastic wrap against the chocolate Crème Brûlée. Refrigerate the pie for at least 2 hours (in a pinch the whole pie can be placed in the freezer for 1 hour) or until ready to serve."
+    },
+    {
+      "order": 9,
+      "instruction": "Before serving, whip the cream. Pour the cream into the a large bowl or bowl of a stand mixer and whip cream until stiff peaks are just about to form. Beat in the hazelnut liqueur and powdered sugar until peaks form. Make sure not to over-beat, cream will then become lumpy and butter-like."
+    },
+    {
+      "order": 10,
+      "instruction": "When ready to serve slice the pie into your desired amount of triangles. Sprinkle the brown sugar over each piece and use a kitchen torch to brûlée the top (do not brûlée the top until just before eating). Hold your kitchen torch two inches above the sugar and move it in a circular motion until the sugar creates a caramelized top. If you don’t have a kitchen torch, you can use the broiler for two to three minutes. Just make sure you watch the pie closely!! You do not want it to burn and you may need to rotate it to help it evenly caramelize. Also, you can brûlée the whole pie instead of doing individual slices, but I found that doing the slices made things easier to cut."
+    }
+  ]
+}

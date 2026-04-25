@@ -1,0 +1,67 @@
+{
+  "id": "tr_1161",
+  "title": "3 Minute Melty Festive Brie (Speed Baked Brie)",
+  "image": "https://www.recipetineats.com/tachyon/2016/12/3-Minute-Melted-Brie-3-2.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/festive-baked-brie/",
+  "servings": 4,
+  "prepTime": 2,
+  "cookTime": 1,
+  "tags": [],
+  "nutrition": {
+    "calories": 147,
+    "protein": 6.8,
+    "carbs": 7.1,
+    "fat": 10.5
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (250 g / 8 oz)   whole brie ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "roughly chopped pecans (, roasted (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "pomegranate seeds",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "maple syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Unwrap brie and place on a small microwave-proof plate with a rim (so maple syrup doesn't go everywhere)."
+    },
+    {
+      "order": 2,
+      "instruction": "Microwave on high for 1 minute 15 seconds, or until the brie is very soft when you prod the centre. Watch the brie as you microwave it - if it starts to puff up too much (i.e. risk of bursting), turn microwave off and leave brie inside - residual heat will continue to melt it."
+    },
+    {
+      "order": 3,
+      "instruction": "Top with pecans, pomegranate seeds and maple syrup. Serve immediately with crackers of choice (choose ones suitable for scooping). I serve this with a spoon and/or small pate knife."
+    }
+  ]
+}

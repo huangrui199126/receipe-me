@@ -1,0 +1,153 @@
+{
+  "id": "tr_1128",
+  "title": "Cheese and Bacon Dip",
+  "image": "https://www.recipetineats.com/tachyon/2016/10/Cheese-and-Bacon-Dip-1_-3.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cheese-bacon-dip/",
+  "servings": 10,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "bacon dip"
+  ],
+  "nutrition": {
+    "calories": 264,
+    "protein": 7.1,
+    "carbs": 6.8,
+    "fat": 23.7
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "/ 12 oz   bacon (, chopped)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   cream cheese (, softened)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sour cream ((preferably full fate))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "mayonnaise",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder ((or sub with onion powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded tasty or cheddar cheese ((Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded mozzarella cheese ((Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shallots / scallions (, chopped (~4 - 5 stalks))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  round cob bread ((sourdough works best))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  Jatz / Ritz or other plain savoury cracker (, crushed (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crackers (, chips, toasted bread)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook bacon in a non stick skillet / fry pan over high heat until browned. Transfer to paper towel lined plate to drain."
+    },
+    {
+      "order": 2,
+      "instruction": "Mix cream cheese, mayonnaise, sour cream and garlic powder together in a heat proof bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir through most of the bacon, all the cheese and most of the shallots. Microwave on high for 3 minutes. The dip may look like the oil from the cheese has separated. Just stir well and it will come (and stay) together."
+    },
+    {
+      "order": 4,
+      "instruction": "If serving as is, pour into a serving bowl, top with remaining bacon and shallots."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve with crackers, chips and the bread you pulled out to create the bread bowl (I toast it)."
+    },
+    {
+      "order": 6,
+      "instruction": "If making this in a bread bowl. use a small knife to cut a circle on the top of the cob loaf then remove enough bread to make a bowl. Pour the dip into the bowl."
+    },
+    {
+      "order": 7,
+      "instruction": "Top with crushed crackers, spray with oil. Bake for 20 minutes at 180C/350F until top is golden."
+    },
+    {
+      "order": 8,
+      "instruction": "Top with remaining bacon and shallots. Serve warm."
+    }
+  ]
+}

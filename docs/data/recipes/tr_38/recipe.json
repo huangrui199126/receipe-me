@@ -1,0 +1,119 @@
+{
+  "id": "tr_38",
+  "title": "Cheese and Bacon Muffin Tin Hash Browns",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/Bacon-Cheese-Hash-brown-muffins-2-1.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cheese-bacon-hash-brown-muffins/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 167,
+    "protein": 6.2,
+    "carbs": 13.3,
+    "fat": 10.1
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb   starchy potatoes ((see notes))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "olive oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "grated cheese ((any melting cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  bacon rashers (, finely diced)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped (for garnish - optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat 1/2 tbsp of olive oil in a pan over high heat. Add the bacon and sauté until crispy. Remove and drain on a paper towel."
+    },
+    {
+      "order": 3,
+      "instruction": "Peel and grate the potatoes and place in a colander. Rinse under cold water for a few seconds (to remove starch which helps make them fluffy inside and also stops the potatoes from browning)."
+    },
+    {
+      "order": 4,
+      "instruction": "Working a handful at a time, squeeze out the excess water and place into the bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Add most of the bacon (reserve some to garnish), 2 tbsp olive oil, salt, pepper and cheese. Mix well to combine."
+    },
+    {
+      "order": 6,
+      "instruction": "Spray a 12 hole muffin tray with oil."
+    },
+    {
+      "order": 7,
+      "instruction": "Place 1/3 cup (packed) of the mixture into each hole. Pat down lightly with the back of a spoon."
+    },
+    {
+      "order": 8,
+      "instruction": "Bake for 30 minutes until dark golden brown on top."
+    },
+    {
+      "order": 9,
+      "instruction": "Let stand for a few minutes before turning out from the muffin tray."
+    },
+    {
+      "order": 10,
+      "instruction": "Garnish with parsley and remaining bacon, and serve immediately."
+    }
+  ]
+}

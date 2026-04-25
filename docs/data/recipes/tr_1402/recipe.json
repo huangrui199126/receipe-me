@@ -1,0 +1,218 @@
+{
+  "id": "tr_1402",
+  "title": "Chilli Con Carne",
+  "image": "https://www.recipetineats.com/tachyon/2016/06/Chili-Con-Carne_8.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chilli-con-carne/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "chili",
+    "chilli con carne"
+  ],
+  "nutrition": {
+    "calories": 367,
+    "protein": 39.6,
+    "carbs": 30.5,
+    "fat": 10.1
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, diced (brown, white, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red capsicum ((bell pepper), diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g   beef mince / ground beef",
+      "emoji": "🥩",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 28 oz  can crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "14",
+      "unit": "oz",
+      "name": "/ 420g    can red kidney beans (, drained (or other beans))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  beef bouillon cubes ((stock cubes), crumbled (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "sugar ((any type))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 1 1/2 cups water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tsp cayenne pepper  ((adjust to taste) (Note 2))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "paprika powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "5",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "garlic powder ((or onion powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rice, corn chips, tortillas  ((Note 5 for more))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream, yoghurt, grated cheese, coriander./cilantro ((Note 6 for more))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large skillet over medium high heat. Add garlic and onion, cook for 1 minute, then add capsicum and cook for 2 minutes until onion is translucent."
+    },
+    {
+      "order": 2,
+      "instruction": "Turn heat up to high and add beef. Cook, breaking it up as you go, until mostly browned."
+    },
+    {
+      "order": 3,
+      "instruction": "Add Chili Spice Mix. Cook until beef is browned all over. (This step helps release extra flavour from the spices)"
+    },
+    {
+      "order": 4,
+      "instruction": "Add remaining ingredients, with 1/2 cup of water for Quick Cook or 1 1/2 cups for Slow Cook. Bring to simmer, then adjust heat per step below:"
+    },
+    {
+      "order": 5,
+      "instruction": "Quick Cook - 20 to 40 minutes, uncovered, on medium low heat so it's bubbling gently; OR"
+    },
+    {
+      "order": 6,
+      "instruction": "Slow Cook - 1.5 hours to 2 hours, covered, on low heat so it's bubbling very gently. (Note 3 Slow Cooker)"
+    },
+    {
+      "order": 7,
+      "instruction": "Adjust salt to taste just before serving."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve over rice, or ladle into bowls and serve with corn chips or warm tortillas on the side with Toppings of choice (Note 6). See Note 7 for more serving options. My usual: Either over rice or with corn chips, always with sour cream, cheese and coriander."
+    }
+  ]
+}

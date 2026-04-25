@@ -1,0 +1,131 @@
+{
+  "id": "tr_801",
+  "title": "Homemade Pastrami Without a Smoker",
+  "image": "https://www.recipetineats.com/tachyon/2014/05/Homemade-Pastrami-2.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easy-homemade-pastrami/",
+  "servings": 6,
+  "prepTime": 20,
+  "cookTime": 660,
+  "tags": [
+    "homemade pastrami",
+    "pastrami recipe",
+    "slow cooker pastrami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "lbs",
+      "name": "/ 2kg   good corned beef, with a thick fat cap ((Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "fresh coarsely ground black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "coriander powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "liquid smoke ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Spice Mix and spread out on a tray.&nbsp;Pat beef dry then roll in Spice Mix, coating well all over. Sprinkle with liquid smoke it using (I rarely use this)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place beef fat cap side down and wrap in a large sheet of foil. Repeat again with another sheet of foil and flip the beef so the fat cap is on the top."
+    },
+    {
+      "order": 3,
+      "instruction": "Place rack in slow cooker (Note 2), place beef on rack. Slow cook for 10 hours on low or electric pressure cook for 1 hour 40 minutes (see notes for oven)."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove beef, cool then refrigerate for 6 hours +. Reserve juices in slow cooker."
+    },
+    {
+      "order": 5,
+      "instruction": "Unwrap beef. Place rack on tray, place beef on rack. Bake 30 minutes at 180C/350F until spice crust is set."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from oven, slice thinly - pastrami will be tender. Place some pastrami in a dish, spoon over a bit of reserved juices. Cover and microwave to warm (I like to add a slice of Swiss cheese)."
+    },
+    {
+      "order": 7,
+      "instruction": "New York Deli style Pastrami Sandwich: Pile high on toasted rye bread slathered with plenty of mustard of choice. Serve with pickles on the side! Plus plain potato crisps (for the full deli experience!)"
+    },
+    {
+      "order": 8,
+      "instruction": "Rebuen sandwiches - see this recipe."
+    }
+  ]
+}

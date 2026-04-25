@@ -1,0 +1,175 @@
+{
+  "id": "tr_738",
+  "title": "One Pot Chicken, Vegetable &amp; Parmesan Orzo (Risoni)",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/Chicken-Vegetable-Risoni_9.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pot-chicken-vegetable-parmesan-orzo-risoni/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [
+    "orzo recipe",
+    "quick dinner",
+    "risoni"
+  ],
+  "nutrition": {
+    "calories": 536,
+    "protein": 36.9,
+    "carbs": 64.5,
+    "fat": 15.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8oz  chicken thigh or breast (, cut into bite size pieces)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "frozen diced vegetables ((carrots, peas, corn, capsicum/peppers, anything!))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "orzo / risoni (, uncooked (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2 1/4",
+      "unit": "cups",
+      "name": "milk (, any fat %)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken or vegetable stock / broth ((low sodium))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "baby spinach ((packed))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(tightly packed) parmesan (, finely grated (or store bought sandy type))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "More parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Parsley or chives, if desired",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large pan over high heat. Make sure the pan is reasonably deep - around 5cm / 2.5&quot; or more. Otherwise, use a large pot."
+    },
+    {
+      "order": 2,
+      "instruction": "Sear chicken - Add garlic and onion, cook for 1 minute. Add chicken, then cook for 2 minutes until seared on the outside but still raw inside."
+    },
+    {
+      "order": 3,
+      "instruction": "Vegetables and flour - Add frozen vegetables (still frozen ok) and flour, stir until flour is incorporated."
+    },
+    {
+      "order": 4,
+      "instruction": "Add uncooked risoni - Add risoni/orzo, stock and milk, then stir well."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook 7 minutes - Bring to simmer then adjust heat so it&#39;s bubbling gently (see video). Cook for 7 minutes (no lid), stirring every now and then, until risoni is almost tender (still quite soupy at this stage)."
+    },
+    {
+      "order": 6,
+      "instruction": "Add parmesan, spinach, salt and pepper. Stir through until the spinach is wilted."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve - The consistency should be like a loose risotto (it absorbs liquid and thickens quite quickly when serving), nice and creamy. Serve, garnished with parsley and more parmesan if desired!"
+    }
+  ]
+}

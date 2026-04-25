@@ -1,0 +1,127 @@
+{
+  "id": "tr_1321",
+  "title": "Roasted Garlic Butter",
+  "image": "https://www.recipetineats.com/tachyon/2025/11/Roasted-garlic-butter.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roasted-garlic-butter/",
+  "servings": 8,
+  "prepTime": 7,
+  "cookTime": 30,
+  "tags": [
+    "compound butter",
+    "roasted garlic butter",
+    "steak sauce"
+  ],
+  "nutrition": {
+    "calories": 134,
+    "protein": 1.0,
+    "carbs": 1.0,
+    "fat": 14.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large head of garlic (, separate the cloves but keep skin on)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "roasted garlic ((above))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "(1 stick / 8 tbsp)  unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "anchovy paste ((or finely chopped whole anchovies) (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "25",
+      "unit": "g",
+      "name": "(1/4 cup very tightly packed)  parmesan (, finely grated using microplane)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "parsley finely minced (, optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "If making this with the Rump Cap / Picanha roast (the recipe this butter was shared with), put the foil wrapped garlic in the oven at 140°C/285°F (120°C fan-forced) with the rump cap for 1 hour."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 180°C/350°F (160°C fan-forced)."
+    },
+    {
+      "order": 3,
+      "instruction": "Put the garlic cloves on a piece of foil, drizzle with oil and salt, then enclose with the foil."
+    },
+    {
+      "order": 4,
+      "instruction": "Place in the oven for 30 minutes or until the garlic flesh is soft like a paste (check a big one)."
+    },
+    {
+      "order": 5,
+      "instruction": "Open the foil and when cool enough to handle, squeeze the flesh out into a bowl."
+    },
+    {
+      "order": 6,
+      "instruction": "Measure out 2 tablespoons of the roasted garlic paste into a small bowl. Add remaining butter ingredients, then blitz with a stick blender until smooth. Stir in parsley, if using."
+    },
+    {
+      "order": 7,
+      "instruction": "Add a dab on steak, grilled chicken, fish etc, or on steamed vegetables. Or serve with dinner rolls - it&#39;s amazing! I like using it when softened but you can also make a log, refrigerate to firm then cut slices."
+    }
+  ]
+}

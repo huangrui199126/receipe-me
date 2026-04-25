@@ -1,0 +1,64 @@
+{
+  "id": "tr_796",
+  "title": "Affogato",
+  "image": "https://www.recipetineats.com/tachyon/2023/06/Affogato_0-SQ.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/affogato/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 0,
+  "tags": [
+    "affogato",
+    "affogato al caffe",
+    "coffee dessert",
+    "italian dessert"
+  ],
+  "nutrition": {
+    "calories": 183,
+    "protein": 2.0,
+    "carbs": 20.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 large or 2 small(ish) scoops vanilla gelato or ice cream ( (Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 shot (30 ml/1 oz)  hot espresso coffee ( (short black) - Note 2)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "frangelico, amaretto or other liquor ((optional) - Note 3)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Put ice cream in glass suitable for affogato eating (Note 4)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place shot of espresso and liquor (if using) on the side."
+    },
+    {
+      "order": 3,
+      "instruction": "Pour the hot espresso then liquor over the ice cream. Enjoy swirls of melty ice cream blending into the coffee. Dig in immediately!"
+    }
+  ]
+}

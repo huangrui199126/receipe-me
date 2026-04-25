@@ -1,0 +1,163 @@
+{
+  "id": "tr_932",
+  "title": "Whipped Feta Dip",
+  "image": "https://www.recipetineats.com/tachyon/2022/10/Feta-Dip_1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-feta-dip/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "dip",
+    "feta dip",
+    "party food"
+  ],
+  "nutrition": {
+    "calories": 234,
+    "protein": 8.0,
+    "carbs": 9.0,
+    "fat": 19.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 10 oz  Danish feta (, at room temp (ie. the creamy sort, not crumbly Greek sort, Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "125g/ 4 oz  cream cheese (at room temp) or 3/4 cup yogurt ((Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "garlic (, crushed using garlic press (Note 3))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "lemon zest (, optional)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "pistachios (, roughly chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "parsley (, finely minced)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of  chilli / red pepper flakes (, optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sprinkle of  lemon zest (, optional)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Thick slices of bread (, warmed)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lebanese (, pita or flat bread wedges)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crackers",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Veggie sticks ((ie crudités))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Feta Dip: Place all ingredients except the oil in a food processor. Blitz on high for 10 seconds or until pretty smooth, scraping down the sides once. (You could also use a stick blender, but a stand mixer will not work)"
+    },
+    {
+      "order": 2,
+      "instruction": "Olive oil: With the motor running, slowly pour the olive oil through the feeder then blitz until the dip is smooth and creamy, scraping down the sides as needed."
+    },
+    {
+      "order": 3,
+      "instruction": "Spread on a shallow bowl-plate / regular plate so it&#39;s around 1.5cm / 0.6&quot; thick. Use the back of a spoon to create swirls for the honey and oil to pool in."
+    },
+    {
+      "order": 4,
+      "instruction": "Drizzle over the honey and olive oil. Sprinkle with pistachios, parsley, chilli and lemon. Serve immediately with dippers of choice!"
+    }
+  ]
+}

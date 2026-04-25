@@ -1,0 +1,138 @@
+{
+  "id": "tr_331",
+  "title": "Easy Chicken Curry",
+  "image": "https://www.recipetineats.com/tachyon/2019/03/Best-easy-Chicken-Curry_5.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-curry/",
+  "servings": 4,
+  "prepTime": 8,
+  "cookTime": 20,
+  "tags": [
+    "chicken curry",
+    "coconut chicken curry"
+  ],
+  "nutrition": {
+    "calories": 383,
+    "protein": 29.0,
+    "carbs": 10.0,
+    "fat": 25.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "oil ((vegetable, canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ginger (, grated)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion  (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1lb  chicken thighs, sliced ((Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2.5",
+      "unit": "tbsp",
+      "name": "curry powder ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "270",
+      "unit": "ml",
+      "name": "/ 1.25 cups  coconut milk (, full fat (9 oz) (Note 3))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "(375 ml)  chicken stock low sodium",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "frozen peas",
+      "emoji": "🫛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander / cilantro leaves (, chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a skillet over medium high heat. Cook garlic, ginger and onion for 3 minutes until onion is translucent."
+    },
+    {
+      "order": 2,
+      "instruction": "Add chicken and cook until it it changes from pink to white."
+    },
+    {
+      "order": 3,
+      "instruction": "Add curry powder and cook for 2 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Add coconut milk and chicken stock. Stir, lower heat to medium and cook, simmering rapidly, for 10 minutes until sauce reduces and thickens."
+    },
+    {
+      "order": 5,
+      "instruction": "Add peas and salt. Cook for a further 2 minutes, then taste to see if it needs more salt. Garnish with coriander."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve over rice, noodles or mashed potato!"
+    }
+  ]
+}

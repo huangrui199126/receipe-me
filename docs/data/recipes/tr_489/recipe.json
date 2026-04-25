@@ -1,0 +1,290 @@
+{
+  "id": "tr_489",
+  "title": "Vegetable Lasagna",
+  "image": "https://www.recipetineats.com/tachyon/2018/02/Vegetarian-Lasagna_12.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vegetarian-lasagna/",
+  "servings": 8,
+  "prepTime": 25,
+  "cookTime": 50,
+  "tags": [
+    "vegetable lasagna",
+    "vegetarian lasagna"
+  ],
+  "nutrition": {
+    "calories": 524,
+    "protein": 27.0,
+    "carbs": 48.0,
+    "fat": 25.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  pumpkin (, 2cm / 4/5\" cubes)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large zucchinis (, cut into 2cm / 4/5\" chunks)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  onions (any type) (, cut into wedges)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   frozen chopped spinach (, thawed)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb   ricotta ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 50 g  grated parmesan ((or 3/4 cup shredded cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "grated nutmeg, optional (fresh or powder)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove",
+      "emoji": "🧄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, finely chopped (any, I use brown))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 24 oz   tomato passata ((Note 3))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz   crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml  water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "each dried thyme and oregano ((or basil, parsley))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dried chilli flakes ((can omit / adjust to taste))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "330",
+      "unit": "g",
+      "name": "/ 11 oz  jar roasted red pepper strips, drained ((Note 4))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "375",
+      "unit": "g",
+      "name": "/ 13 oz   fresh lasagne sheets ((Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 3 cups  shredded mozzarella ((or MORE!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200C/390F."
+    },
+    {
+      "order": 2,
+      "instruction": "Place vegetables on the tray, drizzle with oil, sprinkle with garlic, salt and pepper. Toss."
+    },
+    {
+      "order": 3,
+      "instruction": "Roast for 25 minutes, turning at 15 minutes, until tender and browned."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove from oven, loosen from tray with spatula while warm (can stick when cools)."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat oil in a skillet over medium high heat. Add garlic and onion, cook for 3 minutes until golden."
+    },
+    {
+      "order": 6,
+      "instruction": "Add passata, crushed tomato, water, dried herbs, chilli, salt and pepper. Stir. Simmer on medium low heat for 20 minutes. Adjust salt at the end. *Add a teeny touch of sugar if it's a bit sour, depends on quality of tomatoes used.*"
+    },
+    {
+      "order": 7,
+      "instruction": "Remove from stove and let cool for 5 minutes before using."
+    },
+    {
+      "order": 8,
+      "instruction": "Place ingredients in a bowl and mix until combined."
+    },
+    {
+      "order": 9,
+      "instruction": "Preheat oven to 160C/320F."
+    },
+    {
+      "order": 10,
+      "instruction": "Spread a ladle of tomato sauce on the base of a large baking dish (Note 5)."
+    },
+    {
+      "order": 11,
+      "instruction": "Cover with lasagna sheets, tearing as required to fit."
+    },
+    {
+      "order": 12,
+      "instruction": "Top with roasted vegetables, scatter over red peppers. Spoon over 2 1/2 cups of Sauce, then sprinkle with half the cheese."
+    },
+    {
+      "order": 13,
+      "instruction": "Cover with lasagna sheets. Spread over Ricotta mixture."
+    },
+    {
+      "order": 14,
+      "instruction": "Cover with lasagna sheets. Pour over remaining sauce and sprinkle with remaining cheese."
+    },
+    {
+      "order": 15,
+      "instruction": "Bake for 25 - 30 minutes or until the cheese is golden. If using dried lasagna sheets, stick a knife in the middle to ensure it's cooked - if it needs longer, cover and stick it back in the oven."
+    },
+    {
+      "order": 16,
+      "instruction": "Rest for 5 minutes before cutting and serving. Store leftovers per notes - brilliant reheated!"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "id": "tr_682",
+  "title": "Melting Moments",
+  "image": "https://www.recipetineats.com/tachyon/2023/11/Melting-moments_5.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/melting-moments/",
+  "servings": 14,
+  "prepTime": 20,
+  "cookTime": 15,
+  "tags": [
+    "melting moments"
+  ],
+  "nutrition": {
+    "calories": 335,
+    "protein": 2.0,
+    "carbs": 36.0,
+    "fat": 21.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "(2 sticks + 1 tbsp)  unsalted butter (, softened (Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "soft icing sugar / powdered sugar (, sifted (not PURE icing sugar, Note 2))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "plain / all-purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 7 tbsp  unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "soft icing sugar / powdered sugar (, sifted (not PURE icing sugar, Note 2))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "lemon zest",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "80",
+      "unit": "g",
+      "name": "/ 6 tbsp  unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "soft icing sugar / powdered sugar (, sifted (not PURE icing sugar, Note 2))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "fresh passionfruit pulp (, (not canned, too sweet))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C / 350°F (160°C fan-forced). Line 2 trays with paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Cream butter - Place butter, vanilla and icing sugar in a bowl. Beat for 1 minute until smooth and fluffy (start on low to avoid an icing sugar cloud-storm)."
+    },
+    {
+      "order": 3,
+      "instruction": "Dry in 3 lots - Stir in cornflour and flour in 3 lots using a rubber spatula. (ie add 1/3 of flour + cornflour, stir in, repeat twice more)."
+    },
+    {
+      "order": 4,
+      "instruction": "Scoop 1 tablespoon of the mixture onto the trays (cookie scoop handy here), then roll into balls using lightly floured hands (to prevent it from sticking). You should have 24 - 28 balls."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake - Press down into 1 cm / 0.4&quot; thickness using a fork. Bake for 15 minutes, switching the trays at the 10 minute mark. Fully cool on trays."
+    },
+    {
+      "order": 6,
+      "instruction": "Sandwiching - Pipe frosting onto half the melting moments, then sandwich with remaining cookies."
+    },
+    {
+      "order": 7,
+      "instruction": "Set - Refrigerate for 1 hour to set the frosting (else it&#39;s so soft, it squirts out!). Then remove from the fridge 30 minutes prior to serving."
+    },
+    {
+      "order": 8,
+      "instruction": "Cream butter - Place butter in a bowl and beat with an electric mixer on medium high for 1 minute until smooth and fluffy. Add 1/3 of the icing sugar, then beat in starting on low and increasing to high (to avoid snow-storm!). Repeat another 2 times."
+    },
+    {
+      "order": 9,
+      "instruction": "Beat 2 minutes - Add lemon zest and juice. Then beat on high for 2 minutes until fluffy. Transfer to piping bag, snip end off to make a 1cm / 1/2&quot; hole. Use per recipe."
+    },
+    {
+      "order": 10,
+      "instruction": "Same method as above for lemon icing."
+    }
+  ]
+}

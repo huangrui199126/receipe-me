@@ -1,0 +1,159 @@
+{
+  "id": "tr_320",
+  "title": "Slow Cooker Roast Lamb Leg with Gravy",
+  "image": "https://www.recipetineats.com/tachyon/2017/11/Slow-Cooker-Roast-Lamb-7-SQ.jpg",
+  "importCount": "7.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/slow-cooker-roast-lamb-leg/",
+  "servings": 5,
+  "prepTime": 5,
+  "cookTime": 600,
+  "tags": [
+    "roast lamb leg",
+    "slow cooker roast lamb",
+    "slow roast leg of lamb"
+  ],
+  "nutrition": {
+    "calories": 747,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "2.0",
+      "unit": "kg",
+      "name": "/ 4 lb  lamb leg, bone in ((Note 1))",
+      "emoji": "🐑",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "dried thyme OR rosemary ((or 2.5 tsp finely chopped fresh))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500ml  beef stock ((or chicken) (Note 2))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "sprig",
+      "name": "rosemary (, optional)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "/ 40 g  flour ((any white))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500 ml  braising liquid from slow cooker (, strained)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place lamb in slow cooker or on work surface. Sprinkle with salt, pepper, thyme or rosemary and garlic. Drizzle over oil, then rub on both sides."
+    },
+    {
+      "order": 2,
+      "instruction": "Pour beef stock into slow cooker, add sprig of rosemary (if using)."
+    },
+    {
+      "order": 3,
+      "instruction": "SLOW COOK on low for 10 hours, or pressure cook on high for 1 hour 40 minutes. (See oven version here)"
+    },
+    {
+      "order": 4,
+      "instruction": "The lamb should be tender enough to pull off with tongs, but still holding together (just!). Carefully remove lamb from slow cooker and transfer to tray."
+    },
+    {
+      "order": 5,
+      "instruction": "Drizzle lightly with oil (any). Bake at 200C/390F for 20 minutes or until browned. Remove and rest for 10 minutes before serving with gravy."
+    },
+    {
+      "order": 6,
+      "instruction": "Strain liquid in slow cooker into a bowl - you will have more than the 2 cups of broth you added, I usually have over 3 cups. Measure out 2 cups of liquid, reserve remaining liquid just in case."
+    },
+    {
+      "order": 7,
+      "instruction": "Melt butter in a saucepan over medium heat. Add flour and cook for 1 minute."
+    },
+    {
+      "order": 8,
+      "instruction": "Add a bit of liquid, mixing as you go so it dissolves. Then add remaining liquid. Whisk if there are lumps."
+    },
+    {
+      "order": 9,
+      "instruction": "Increase to medium high heat and cook, stirring regularly, until thickened to your taste. Use remaining liquid to thin if required."
+    }
+  ]
+}

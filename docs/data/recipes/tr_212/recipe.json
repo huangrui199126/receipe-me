@@ -1,0 +1,183 @@
+{
+  "id": "tr_212",
+  "title": "One Tray Oven Baked Honey Chili Lime Salmon with Potatoes and Beans",
+  "image": "https://www.recipetineats.com/tachyon/2015/06/Chili-Lime-Salmon-Overhead.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/oven-baked-honey-chili-lime-salmon-with-potatoes-and-beans-one-tray-meal/",
+  "servings": 3,
+  "prepTime": 15,
+  "cookTime": 35,
+  "tags": [],
+  "nutrition": {
+    "calories": 488,
+    "protein": 45.0,
+    "carbs": 37.0,
+    "fat": 20.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "pieces",
+      "name": "of salmon ((5 - 7 oz / 150 - 200g each, skin on or off))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large lime  ((or 2 small ones) - 1 1/2 tsp zest + 3 tbsp lime juice)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce ((or fish sauce))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "14",
+      "unit": "oz",
+      "name": "/ 450 g   baby potatoes (, halved (Note 1))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "melted butter ((or olive oil))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced (optional))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "/ 250 g   green beans (, trimmed)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  birds eye chili (, frozen whole (or finely chopped unfrozen chili))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lime",
+      "emoji": "🍋",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180C/350F and place a large rimmed baking tray in the oven."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the Marinade ingredients in a bowl or ziplock bag. Add the salmon and set aside to marinate for 20 minutes (while the potatoes are roasting). (Note 2)"
+    },
+    {
+      "order": 3,
+      "instruction": "Toss the Roast Potato ingredients in a bowl. Remove the tray from the oven and pour the potatoes onto the tray. Place in the oven and roast for 20 minutes. (Note 3)"
+    },
+    {
+      "order": 4,
+      "instruction": "Combine the Beans ingredients into bowl you used for the potatoes (so residual butter sticks to beans) and toss."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove salmon from the Marinade, reserving the Marinade."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove tray from the oven. Move the potatoes to one side and place the salmon in the middle, skin side down. Pile the beans into one corn of the tray (don't spread them out, they will overcook)."
+    },
+    {
+      "order": 7,
+      "instruction": "Sprinkle over the salt and pepper all over everything on the tray."
+    },
+    {
+      "order": 8,
+      "instruction": "Drizzle some Marinade on each salmon, then place the tray into the oven and bake for 4 minutes per 1/2 inch / 5 minutes per 1.5 cm of thickness (thickest part of the salmon). My salmon was 1.25 inches / 3 cm thick so I baked it for 10 minutes. (Note 4)"
+    },
+    {
+      "order": 9,
+      "instruction": "Turn the grill/broiler onto maximum. (Note 5) Drizzle the remaining Marinade onto the salmon and grill for 2 minutes or until light golden on top."
+    },
+    {
+      "order": 10,
+      "instruction": "Rest for 3 minutes. Use a grater to grate frozen chili and lime zest over the salmon. Serve with lime wedges on the side."
+    }
+  ]
+}

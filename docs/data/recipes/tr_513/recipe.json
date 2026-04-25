@@ -1,0 +1,171 @@
+{
+  "id": "tr_513",
+  "title": "Couscous Salad with Sun Dried Tomato and Feta",
+  "image": "https://www.recipetineats.com/tachyon/2018/01/Couscous-Salad-with-Sun-Dried-Tomato_5a.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/couscous-salad-feta/",
+  "servings": 5,
+  "prepTime": 12,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 260,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "dried couscous ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "/ 315 ml  boiled water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vegetable stock powder ((or 1 cube crumbled) (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "coriander powder (or cumin - I interchange)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14 oz  chickpeas (1 can) (, drained)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "coriander (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "parsley (, finely chopped (or mint))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red onion (, chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "220",
+      "unit": "g",
+      "name": "/ 7 oz   jar sun dried tomato strips in OIL ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "120",
+      "unit": "g",
+      "name": "/ 4 oz   rocket / arugula lettuce (, chopped into 5 cm / 2\" pieces)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest of 1 large lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "fresh lemon juice ((2 large lemons))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "coarsely ground black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 2 oz   feta (, crumbled)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper (, to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place chickpeas, couscous, vegetable stock powder, coriander and garlic in a large bowl. Pour over hot water, shake to level out couscous (chickpeas should mostly settle on top). Cover with plate or cling wrap, set aside for 5 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Fluff couscous with fork. Cool a bit."
+    },
+    {
+      "order": 3,
+      "instruction": "Add coriander, parsley, onion, sun dried tomatoes (including all oil), rocket, lemon juice and black pepper. Sprinkle zest across surface. Toss well to combine."
+    },
+    {
+      "order": 4,
+      "instruction": "Adjust salt and pepper to taste."
+    },
+    {
+      "order": 5,
+      "instruction": "Transfer to serving bowl, sprinkle with feta. Serve."
+    }
+  ]
+}

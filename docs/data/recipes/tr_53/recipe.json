@@ -1,0 +1,123 @@
+{
+  "id": "tr_53",
+  "title": "Vietnamese Pork Chop",
+  "image": "https://www.recipetineats.com/tachyon/2014/08/Vietnamese-Pork-Cutlets-1-1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vietnamese-pork-cutlet/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 347,
+    "protein": 11.2,
+    "carbs": 29.4,
+    "fat": 20.1
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  pork cutlets (, around 250g - 300g (8oz - 10oz) each)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable or peanut oil ((for cooking))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "chilli sauce ((sriracha, chilli paste) or 1 birds eye chilli, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "minced garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Juice of 1 lime",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "stalk",
+      "name": "lemongrass (, white part only, bruised them sliced into 1cm/0.5\" pieces)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the Marinade ingredients in a ziplock bag and massage the bag to mix the ingredients."
+    },
+    {
+      "order": 2,
+      "instruction": "Add pork to the Marinade and massage the bag to coat all the cutlets with the Marinade."
+    },
+    {
+      "order": 3,
+      "instruction": "Marinate for at least 4 hours, up to 24 hours."
+    },
+    {
+      "order": 4,
+      "instruction": "Brush the outdoor grill with oil and heat to medium high (or pan on a stove)."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove pork from the marinade."
+    },
+    {
+      "order": 6,
+      "instruction": "Place pork on the grill and cook each side for 2 minutes, or until cooked (depends on thickness of the cutlets). Remember that it will continue to cook while resting."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove pork from the grill onto a plate and cover loosely with foil. Rest for 5 minutes before serving."
+    }
+  ]
+}

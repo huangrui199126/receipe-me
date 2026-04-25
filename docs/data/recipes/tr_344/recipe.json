@@ -1,0 +1,103 @@
+{
+  "id": "tr_344",
+  "title": "Easy roast potatoes",
+  "image": "https://www.recipetineats.com/tachyon/2023/09/Easy-roast-potatoes_4a.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/roast-potatoes/",
+  "servings": 5,
+  "prepTime": 5,
+  "cookTime": 60,
+  "tags": [
+    "baby potatoes",
+    "new potatoes",
+    "roast potatoes"
+  ],
+  "nutrition": {
+    "calories": 255,
+    "protein": 4.0,
+    "carbs": 35.0,
+    "fat": 11.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 kg/ 2 lb  baby potatoes (or other small potatoes, halved (Note 1))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  garlic cloves with skin on (, smashed (Note 2))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  thyme sprigs (or 3 rosemary sprigs (Note 3 for dried herbs))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped parsley or fresh thyme ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C / 400°F (180°C fan)."
+    },
+    {
+      "order": 2,
+      "instruction": "Smashed garlic – Place side of knife on unpeeled garlic clove. Hit firmly with palm of hand so the garlic bursts open a bit but mostly stays in tact."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss - Put potatoes on a tray and push together. Drizzle with oil, sprinkle with salt and pepper. Toss to coat. Toss through thyme and garlic. Spread out on tray."
+    },
+    {
+      "order": 4,
+      "instruction": "Roast 1 hour - Roast for 30 minutes. Toss. Roast for a further 25 to 35 minutes, or until the potatoes are golden. (Note 4 for stuck potatoes &amp; golden TIPS!)"
+    },
+    {
+      "order": 5,
+      "instruction": "Serve - Sprinkle with parsley, if using, and serve immediately!"
+    }
+  ]
+}

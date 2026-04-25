@@ -1,0 +1,289 @@
+{
+  "id": "tr_1414",
+  "title": "Lasagna",
+  "image": "https://www.recipetineats.com/tachyon/2017/05/Lasagne-recipe-3-main-square.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lasagna/",
+  "servings": 10,
+  "prepTime": 20,
+  "cookTime": 240,
+  "tags": [
+    "lasagna"
+  ],
+  "nutrition": {
+    "calories": 594,
+    "protein": 39.0,
+    "carbs": 40.0,
+    "fat": 29.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely chopped (white, yellow or brown))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  medium carrot (, peeled and very finely diced)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  celery stick (, very finely diced)",
+      "emoji": "🫑",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb  beef mince ((ground beef) (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 28 oz  canned crushed tomato",
+      "emoji": "🍅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "tomato paste",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "pinot noir red wine (, or other dry red wine (Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  beef bouillon cubes (, crumbled)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  bay leaves (, dried or fresh)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "EACH dried thyme and oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Worcestershire Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tsp sugar ((if needed - Note 3))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt and black pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "/ 4 tbsp  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "milk (, preferably full fat but low fat ok)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "gruyere or Colby cheese (, shred yourself (or cheddar, Monterey Jack, OR 1 cup / 100g shredded parmesan) (Note 4))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of freshly ground nutmeg",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "350g/ 12 oz  fresh lasagna sheets ((or 250g/8oz dried) (Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(tightly packed) mozzarella cheese (, shred yourself (Note 4))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped basil or parsley (, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large heavy based pot over medium heat. Add garlic, onion, celery and carrots. Cook for 10 minutes until softened and sweet - they should not brown (if they do, turn heat down)."
+    },
+    {
+      "order": 2,
+      "instruction": "Add beef, turn heat up and cook the beef, breaking it up as you go."
+    },
+    {
+      "order": 3,
+      "instruction": "Once the beef has all turned brown, add the remaining Ragu ingredients EXCEPT the sugar."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir then adjust the heat so it is bubbling very gently. Place the lid on and cook for 1.5 - 2 hours, stirring every now and then, then remove the lid and simmer for 30 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "The ragu is ready when the meat is really tender and the sauce has thickened and is rich - see video for consistency (Note 6). Adjust salt and pepper to taste, and add sugar if required (Note 3)"
+    },
+    {
+      "order": 6,
+      "instruction": "Warm milk up in a saucepan (optional - just makes sauce thicken faster)."
+    },
+    {
+      "order": 7,
+      "instruction": "In a large saucepan, melt butter over medium low heat. Add flour and mix constantly for 1 minute."
+    },
+    {
+      "order": 8,
+      "instruction": "Pour about 1 cup of the milk in, mixing as you go to incorporate into the flour mixture. Once mostly lump free, add remaining milk. Use a whisk if needed to make it lump free."
+    },
+    {
+      "order": 9,
+      "instruction": "Turn heat up to medium high. Stir occasionally at first then regularly after a few minutes until sauce thickens - about 5 - 8 minutes. It should coat the back of the wooden spoon."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove from heat, add cheese, nutmeg, salt and pepper. Mix until the cheese is melted. The Sauce should be thick but still easily pourable - the consistency of heavy cream (you need to be able to drizzle it over the Ragu when layering - see video). If it's too thick, add a splash of water or milk."
+    },
+    {
+      "order": 11,
+      "instruction": "Preheat oven to 180°C/350°F."
+    },
+    {
+      "order": 12,
+      "instruction": "Use a 33 x 22 x 7 cm / 13 x 9 x 2.5\" baking dish."
+    },
+    {
+      "order": 13,
+      "instruction": "Smear a bit of Ragu on the base, then cover with lasagna sheets. Tear sheets to fit."
+    },
+    {
+      "order": 14,
+      "instruction": "Spread over 2 1/2 cups of Ragu (enough to cover sheets), then drizzle over 1 cup of Cheese Sauce."
+    },
+    {
+      "order": 15,
+      "instruction": "Top with lasagna sheets (Note 7). Spread with another 2 1/2 cups of Ragu, then 1 cup of Cheese Sauce. Top with lasagna sheets then repeat 1 more time."
+    },
+    {
+      "order": 16,
+      "instruction": "Top with a 4th layer of lasagna sheets, then pour over the remaining Cheese Sauce."
+    },
+    {
+      "order": 17,
+      "instruction": "Sprinkle with Mozzarella, then bake for 25 minutes or until golden and bubbling."
+    },
+    {
+      "order": 18,
+      "instruction": "Stand for 5 to 10 minutes before cutting and serving, garnished with basil or parsley if desired."
+    }
+  ]
+}

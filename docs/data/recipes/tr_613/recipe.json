@@ -1,0 +1,157 @@
+{
+  "id": "tr_613",
+  "title": "Jalapeño poppers",
+  "image": "https://www.recipetineats.com/tachyon/2024/02/Jalapeno-poppers_3.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/jalapeno-poppers/",
+  "servings": 24,
+  "prepTime": 30,
+  "cookTime": 25,
+  "tags": [
+    "jalapeno poppers"
+  ],
+  "nutrition": {
+    "calories": 77,
+    "protein": 2.0,
+    "carbs": 2.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12  jalapeños (, about 7.5cm / 3\" long, cut in half and deseeded)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "150",
+      "unit": "g",
+      "name": "/ 5oz   streaky bacon ((Note 2))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250g/ 8 oz  cream cheese ((I use Philadelphia))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(150g)  sharp cheddar cheese, ( shredded (or regular cheddar, tasty, Monterey Jack, colby))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "green onion (, finely sliced (2 big stems))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "panko breadcrumbs ((Note 3))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(100 g)  sharp cheddar cheese, (shredded (or other cheese listed above))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "chives (, finely sliced (optional garnish))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Crumbled bacon - Place bacon in a single layer in a large unheated non-stick pan (no oil, Note 2). Turn the stove onto medium high. As the pan heats up, the fat will start to melt. Once sizzling, cook each side for 2 minutes or until golden. Remove onto paper towels to drain the fat (leave fat in the pan). Repeat with remaining bacon. Once cool and crisp, finely chop into crumbs."
+    },
+    {
+      "order": 2,
+      "instruction": "Toast breadcrumbs - Top up the bacon fat with the oil so you have 2 tablespoons in total. Cool the pan slightly then return to medium heat. Add the breadcrumbs and salt. Toast, stirring regularly, until evenly golden - about 3 minutes. Transfer into a bowl and set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Filling - Put 3/4 of the bacon in a bowl (reserve the rest for topping). Add remaining ingredients then stir with a wooden spoon until combined."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven to 200°C/375°F (180°C fan). Line a tray with foil then place a rack on it (to keep jalapeños level)."
+    },
+    {
+      "order": 5,
+      "instruction": "Stuff jalapeños with the filling, slightly above the rim (it sinks a bit) but not too high else there will be overflow. Place on the rack so the surface is level. Top with the shredded cheese, press down to flatten. Spoon over panko."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake 15 minutes or until the cheese is melted and jalapeño is softened but still holding its shape (not saggy)."
+    },
+    {
+      "order": 7,
+      "instruction": "Transfer to serving platter, sprinkle with reserved bacon and chives. Serve hot! No dipping sauce needed."
+    }
+  ]
+}

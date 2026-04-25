@@ -1,0 +1,222 @@
+{
+  "id": "tr_1399",
+  "title": "Rainbow Chicken Stir Fry",
+  "image": "https://www.recipetineats.com/tachyon/2026/02/Rainbow-chicken-stir-fry_8.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/%f0%9f%8c%88-rainbow-chicken-stir-fry-%f0%9f%8c%88/",
+  "servings": 5,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "rainbow chicken",
+    "rainbow stir fry"
+  ],
+  "nutrition": {
+    "calories": 394,
+    "protein": 20.0,
+    "carbs": 19.0,
+    "fat": 27.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oyster sauce ((can sub with vegetarian oyster sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine ((Note 1))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "light soy sauce or all-purpose soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "white pepper ((or black pepper))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "350g/ 12 oz  boneless chicken thighs (, each cut in half then into 1 cm /0.4\" strips (Note 3 for breast))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Chinese cooking wine ((Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "peanut oil (, or vegetable or canola oil )",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, finely minced with a knife)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  green onion stems (, cut into 4 cm / 2\" lengths, white part separated from green part (or 1/2 onion sliced))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "sugar snap peas or small snow peas (, strings removed (Note 5))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 each red and yellow capsicum ((bell pepper), deseeded, cut into 1 cm /0.4&quot; strips)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  baby bok choy (, leaves cut off stems, big stems cut lengthways - or any other Asian greens)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "unsalted roasted cashews ((or almonds))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "frozen edamame beans - use frozen ((ie. shelled))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "purple cabbage (, cut into 5 x 1 cm /0.4\"  strips - or any other type of cabbage, baby spinach etc)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sesame oil ((for finishing))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "White rice ( - or any other rice of choice)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook chicken until mostly cooked, add garlic and white part of green onion towards end. Add first: capsicum, bok choy stems, cashews and edamame (1 min). Then bok choy leaves, cabbage and green part of green onion (30 seconds). Add sauce, thicken, then finish with sesame oil. Serve!"
+    },
+    {
+      "order": 2,
+      "instruction": "Sauce - In a jug, mix cornflour with a splash of the water until dissolved. Mix in everything else except the remaining water until dissolved. Then add remaining water."
+    },
+    {
+      "order": 3,
+      "instruction": "Chicken - Toss chicken with Chinese cooking wine and pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook - Heat the oil in a large 30 cm / 12&quot; non stick skillet over high heat (Note 6 on cooking vessel). Add chicken then stir constantly until mostly cooked, about 2 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Add garlic and the white part of green onion, cook for 1 minute."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the capsicum, sugar snap peas, bok choy stem, cashews and frozen edamame. Cook 1 minute."
+    },
+    {
+      "order": 7,
+      "instruction": "Add bok choy leaves, cabbage and green part of green onions. Toss with two spatulas until slightly wilted (~30 seconds)."
+    },
+    {
+      "order": 8,
+      "instruction": "Sauce - Add the sauce, stir and let it simmer until it becomes glossy and thickens so it coats everything beautifully, about 1 minute."
+    },
+    {
+      "order": 9,
+      "instruction": "Sesame oil - Add sesame oil, toss through, then serve over rice."
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": "tr_244",
+  "title": "Roasted Cauliflower with Almond Sauce (Ester Restaurant)",
+  "image": "https://www.recipetineats.com/tachyon/2015/03/Roasted-Cauliflower-Almond-Sauce-1_680px.jpg",
+  "importCount": "7.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/ester-restaurant-cauliflower-with-almond-sauce-easy-chef-recipe/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 418,
+    "protein": 7.4,
+    "carbs": 9.7,
+    "fat": 41.2
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "almond meal",
+      "emoji": "🥜",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "+ 1 tbsp   extra virgin olive oil (, separated)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown rice vinegar ((or rice vinegar or apple cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  egg yolks",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt ((plus more to taste))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large head of cauliflower ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  lemon (, juice only)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "almonds (, roughly chopped and lightly toasted in a dry frypan)",
+      "emoji": "🥜",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh mint leaves ((packed))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the almond meal, water and 2 tbsp of olive oil in a small saucepan over medium heat. Heat until the almond meal starts to swell - around 2 to 3 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Pour the almond mixture into a blender or small food processor and whiz until smooth. Add brown rice vinegar and salt and whizz to mix."
+    },
+    {
+      "order": 3,
+      "instruction": "With the blender running, add the egg yolks then pour the oil in a thin stream. Keep whizzing while you pour and the sauce will become thick and creamy. Taste to check the salt and pepper, then set aside (keep at room temperature)."
+    },
+    {
+      "order": 4,
+      "instruction": "Cut the cauliflower into quarters (leaving most of the outer leaves on). Cut off a bit of the core, otherwise it won't cook through because it is thicker (see photo below)."
+    },
+    {
+      "order": 5,
+      "instruction": "Bring a large pot of water to boil. Add the cauliflower, bring back to boil then boil for 3 minutes. (Alternatively you could steam it.)"
+    },
+    {
+      "order": 6,
+      "instruction": "Drain and leave the cauliflower to steam dry for 10 minutes. It also continues cooking."
+    },
+    {
+      "order": 7,
+      "instruction": "Preheat the grill/broiler on high and place the rack around 20cm/8\" from the heat source."
+    },
+    {
+      "order": 8,
+      "instruction": "Drizzle the cauliflower with olive oil then place under the grill/broiler for 5 minutes until nicely charred, then turn the cauliflower and char the other side for a few minutes."
+    },
+    {
+      "order": 9,
+      "instruction": "Remove the cauliflower from under the grill/broiler and drizzle with lemon juice and sprinkle with salt and pepper."
+    },
+    {
+      "order": 10,
+      "instruction": "Spread about 3/4 cup of the Almond Sauce on a plate. Place the cauliflower on top, sprinkle over the almonds and mint."
+    },
+    {
+      "order": 11,
+      "instruction": "This can be served warm or at room temperature.",
+      "imageUri": "https://www.recipetineats.com/tachyon/2015/03/Cauliflower-Step.jpg"
+    }
+  ]
+}

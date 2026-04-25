@@ -1,0 +1,139 @@
+{
+  "id": "tr_14",
+  "title": "Mexican Pork Rolls",
+  "image": "https://www.recipetineats.com/tachyon/2014/09/DSC_0170-1.jpg",
+  "importCount": "4.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mexican-pork-rolls-caramelised-onion/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 419,
+    "protein": 21.2,
+    "carbs": 48.1,
+    "fat": 15.8
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded Pork Carnitas ((Mexican Pulled Pork))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "Enchilada Sauce ((preferably homemade - here is my Easy Classic Enchilada Sauce))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  brown onions (, halved and finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "balsamic vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "grated mozzarella cheese ((or any other good melting cheese))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  soft white bread rolls",
+      "emoji": "🍞",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley (, finely chopped, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt butter in a fry pan over medium heat. Add onions and cook for 7 minutes, stirring every now and then so they cook evenly. Add remaining Caramelized Onion ingredients and cook for a further 5 minutes, stirring occasionally until sticky and caramelised. Remove onion from pan and set aside."
+    },
+    {
+      "order": 2,
+      "instruction": "Brown Pork Carnitas: Wipe pan clean and return to stove. Heat 1/2 tbsp oil over high heat. Add Pork Carnitas and press down lightly with a spatula to help crisp up. When the Pork Carnitas are heated through and the underside is golden brown and crisp (about 1 to 1/2 minutes), remove from pan (do not flip)."
+    },
+    {
+      "order": 3,
+      "instruction": "Place Pork Carnitas and Enchilada Sauce and mix to combine."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat grill (broiler) on high."
+    },
+    {
+      "order": 5,
+      "instruction": "Split rolls in half. Divide the Filling between them and pile onto the bottom half of the roll. Top with cheese then grill (broil) for 3 minutes until melted."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from the grill, top with caramelised onion and sprinkle with parsley (if using)."
+    },
+    {
+      "order": 7,
+      "instruction": "Sandwich with the other half of the bread roll and serve immediately."
+    }
+  ]
+}

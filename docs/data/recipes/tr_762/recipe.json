@@ -1,0 +1,211 @@
+{
+  "id": "tr_762",
+  "title": "Stir Fried Noodles with Peanut Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2018/03/Stir-Fried-Noodles-with-Peanut-Sauce_6.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/stir-fried-peanut-sauce-noodles/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 8,
+  "tags": [],
+  "nutrition": {
+    "calories": 732,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 60g   crunchy peanut butter ((Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "fish sauce ((Note 2))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "dark soy sauce ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cornflour / cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "grated ginger",
+      "emoji": "🫚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "curry powder ((any type))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65 ml   water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "180 g/ 6 oz   thinly sliced chicken breast",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "bicarb / baking soda ((optional, Note 4))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "100 g/3.5 oz   dried rice noodles ((Note 5))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic (, finely chopped)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  onion (, sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded carrot",
+      "emoji": "🥕",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "shredded cabbage",
+      "emoji": "🥬",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "beansprouts",
+      "emoji": "🫘",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely chopped coriander/cilantro",
+      "emoji": "🌿",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crushed peanuts",
+      "emoji": "🫛",
+      "section": "",
+      "order": 19
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Tenderise Chicken (optional, Note 4): Place chicken and bicarb in a bowl and mix with your fingers. Set aside for 20 minutes. Rinse well in a colander then shake off excess water. Roughly pat dry with a paper towel."
+    },
+    {
+      "order": 2,
+      "instruction": "Sauce: Place all ingredients except water in a bowl and mix (microwave if needed to melt the peanut butter). Add water and mix."
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare noodles per packet directions (usually soak in boiled water). Drain, set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil in a large skillet or wok over high heat. Add garlic and onion, stir for 30 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Add chicken and cook until the outside changes from pink to white. Add carrot and cabbage, cook until it starts to wilt."
+    },
+    {
+      "order": 6,
+      "instruction": "Add noodles, bean sprouts and Sauce. Toss for 1 1/2 - 2 minutes or until the Sauce thickens and coats the noodles."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve immediately, garnished with coriander and peanuts."
+    }
+  ]
+}

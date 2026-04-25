@@ -1,0 +1,153 @@
+{
+  "id": "tr_557",
+  "title": "French Onion Soup",
+  "image": "https://www.recipetineats.com/tachyon/2018/11/French-Onion-Soup_1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/french-onion-soup/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 90,
+  "tags": [
+    "french onion soup"
+  ],
+  "nutrition": {
+    "calories": 386,
+    "protein": 15.6,
+    "carbs": 34.3,
+    "fat": 21.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 3.5oz   unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1.25",
+      "unit": "kg",
+      "name": "/ 2.5 lb  brown / yellow onions (, peeled, halved, thinly sliced top to bottom (Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(185ml)  dry white wine (, optional (Note 2))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1.5",
+      "unit": "litres",
+      "name": "/ 6 cups / 1.5 quarts   good quality beef broth./stock OR chicken (, low sodium/salt reduced (Note 3))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  dried bay leaves ((or 3 fresh) (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "sprigs",
+      "name": "fresh thyme ((optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6 - 8 slices French baguette (or other softish bread (Note 4))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 3.5 oz   gruyere (or mozzarella cheese, or other melting cheese of choice)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh parsley or thyme leaves (, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt butter in a heavy based casserole pot over medium heat. When it starts to foam, add onions and stir to coat in butter."
+    },
+    {
+      "order": 2,
+      "instruction": "30 min on medium low:&nbsp;Turn heat down to medium low. Cook for 30 minutes stirring every few minutes, until the onions have softened and are semi transparent.&nbsp;"
+    },
+    {
+      "order": 3,
+      "instruction": "Salt, 20 min on medium high:&nbsp;Turn heat up to medium or medium high. Add salt, and cook for a further 20 - 30 minutes, stirring more regularly, until onions are deep golden and sweet."
+    },
+    {
+      "order": 4,
+      "instruction": "Deglaze: Add wine, then simmer rapidly for 2 minutes until mostly evaporated, stirring to scrape the bottom of the pot."
+    },
+    {
+      "order": 5,
+      "instruction": "Flour:&nbsp;Sprinkle flour over the onion and cook for 1 minute."
+    },
+    {
+      "order": 6,
+      "instruction": "Add broth &amp; herbs:&nbsp;Add broth, thyme and bay leaves.&nbsp;"
+    },
+    {
+      "order": 7,
+      "instruction": "Simmer:&nbsp;Cover, lower heat so it's simmering gently then simmer for 30 minutes.&nbsp;"
+    },
+    {
+      "order": 8,
+      "instruction": "Serve:&nbsp;Season to taste with salt and pepper. Ladle into bowls. Top with 1 or 2 slices of cheesy toast."
+    },
+    {
+      "order": 9,
+      "instruction": "Preheat grill / broiler to high.Toast each side of bread until light golden."
+    },
+    {
+      "order": 10,
+      "instruction": "Top bread with cheese, then grill until melted and some brown spots appear."
+    }
+  ]
+}

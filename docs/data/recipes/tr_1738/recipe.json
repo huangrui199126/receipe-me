@@ -1,0 +1,232 @@
+{
+  "id": "tr_1738",
+  "title": "Spicy Pork Al Pastor Quesadilla with Roasted Tomatillo Salsa Verde.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2015/05/Spicy-Pork-Al-Pastor-Quesadilla-with-Roasted-Tomatillo-Salsa-Verde-6.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/spicy-pork-al-pastor-quesadillas-with-roasted-tomatillo-salsa-verde/",
+  "servings": 6,
+  "prepTime": 15,
+  "cookTime": 20,
+  "tags": [
+    "pork",
+    "quesadillas",
+    "salsa verde",
+    "tomatillo"
+  ],
+  "nutrition": {
+    "calories": 668,
+    "protein": 34.0,
+    "carbs": 87.0,
+    "fat": 29.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1 ½",
+      "unit": "pounds",
+      "name": "thin-sliced pork shoulder (1/4-inch-thick slices are perfect)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  white onion (quartered)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "½",
+      "unit": "teaspoon",
+      "name": "salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3 in chipotle chilies adobo (chopped + 2 tablespoons adobo sauce)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "orange juice",
+      "emoji": "🍊",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "pineapple juice",
+      "emoji": "🍎",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 inch flour tortillas (6-)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "shredded Mexican cheese (I use a mix of cheddar and monterey jack)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cooked white or brown rice",
+      "emoji": "🍚",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh cilantro + lime wedges (for serving)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  tomatillos (skins removed)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "Korean Sunchang (can substitute sriracha or Gochujang (Korean chile paste) if needed*)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "¼",
+      "unit": "cup",
+      "name": "fresh pineapple chunks",
+      "emoji": "🍎",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "rice vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "low sodium soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Juice from 2 limes",
+      "emoji": "🍋",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 tablespoons toasted sesame seeds",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "½",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 22
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a blender or food processor, combine the onion, garlic, chili powder, oregano, cumin, chipotle chilies + adobo sauce (from the can of chipotle chilies), orange juice and pineapple. Blend until smooth. Add the pork to a large bowl or gallon size Ziploc bag and then pour the sauce over the pork. Toss well to coat. Try and make sure that almost all the pork is submerged in the sauce. Cover and place in the fridge for 1 hour or overnight."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, prepare the tomatillo salsa. Preheat the broiler to high. Line a baking sheet with parchment. Add the peeled tomatillos and place under the broiler for 3-5 minutes, turning once or twice or until the tomatillos are mostly charred all over. Remove from the oven and let cool slightly. Then add the charred tomatillos and pineapple chunks to a blender or food processor. To the blender, add the Korean Sunchang, sesame oil, rice vinegar, soy sauce and lime juice. Blend until mostly smooth. Pour into a glass jar or serving bowl and then stir in the sesame seeds. Cover and store in the fridge until ready to serve. The sauce can be stored for at least a week in the fridge."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat the grill or a grill pan to medium high heat. Once hot, remove the pork from the marinade and grill until cooked through, about 4-5 minutes per side (depending on how thick or thin your cut of pork is). As the pork is cooking, spoon the marinade over top for extra flavor. Allow the pork to rest at least 10 minutes and then dice into bite size pieces. While the pork is resting, you can add the remaining marinade to a small saucepan and bring to a boil, reduce the heat and simmer 5 minutes or until slightly thickened if desired."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat a waffle iron or quesadilla maker. Once preheated, layer one tortilla on the waffle maker and then add a layer of cheese, a layer of pork, a sprinkle of rice and then another layer of cheese. Add the top tortilla and carefully close your waffle iron. Be careful not to overload your quesadilla or your waffle iron will not shut. Cook until lightly golden and browned, about 5 minutes. Repeat with the remaining ingredients."
+    },
+    {
+      "order": 5,
+      "instruction": "Serve the quesadillas warms with the salsa verde and fresh cilantro."
+    }
+  ]
+}

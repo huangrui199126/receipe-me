@@ -1,0 +1,183 @@
+{
+  "id": "tr_885",
+  "title": "Sweet Potato Salad",
+  "image": "https://www.recipetineats.com/tachyon/2019/08/Sweet-Potato-Salad_4.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/sweet-potato-salad/",
+  "servings": 8,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [],
+  "nutrition": {
+    "calories": 354,
+    "protein": 6.0,
+    "carbs": 49.0,
+    "fat": 16.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2 lb   sweet potato (, cut into 2cm / 4/5\" cubes (Note 1))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200g/ 7oz   baby spinach ((or rocket/arugula))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "sliced almond (, toasted)",
+      "emoji": "🥜",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "90g/ 3oz   feta (, crumbled)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "dried cranberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cooked wild rice (, warm (Note 2))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "extra olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, small, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C / 390°F."
+    },
+    {
+      "order": 2,
+      "instruction": "Shake Dressing ingredients in a jar."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss sweet potato with olive oil, salt and pepper, spread onto tray."
+    },
+    {
+      "order": 4,
+      "instruction": "Roast for 20 minutes, flip, then roast for a further 5 minutes until golden on edges."
+    },
+    {
+      "order": 5,
+      "instruction": "Place baby spinach, onion and half almonds in a bowl. Drizzle with 2 tbsp Dressing, toss."
+    },
+    {
+      "order": 6,
+      "instruction": "Drizzle warm rice with 1 tbsp Dressing, toss."
+    },
+    {
+      "order": 7,
+      "instruction": "Spread spinach on serving platter. Top with rice, then sweet potato and cranberries."
+    },
+    {
+      "order": 8,
+      "instruction": "Drizzle with remaining Dressing, then top with feta and remaining almonds. Serve!"
+    }
+  ]
+}

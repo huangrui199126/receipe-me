@@ -1,0 +1,241 @@
+{
+  "id": "tr_1306",
+  "title": "Lemongrass Chicken Rice Paper Rolls",
+  "image": "https://www.recipetineats.com/tachyon/2025/09/Lemongrass-chicken-rice-paper-rolls_3.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lemongrass-chicken-rice-paper-rolls/",
+  "servings": 10,
+  "prepTime": 25,
+  "cookTime": 6,
+  "tags": [
+    "chicken rice paper rolls",
+    "fresh spring rolls",
+    "rice paper rolls",
+    "summer rolls",
+    "vietnamese rice paper rolls"
+  ],
+  "nutrition": {
+    "calories": 163,
+    "protein": 7.0,
+    "carbs": 18.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "350",
+      "unit": "g",
+      "name": "/ 12oz  boneless chicken thighs (, very finely sliced (2.5cm/1&quot; wide, 3mm / 1/8&quot; thick(Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "fish sauce ((substitute light or all-purpose soy sauce))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemongrass  (, finely grated (or paste) (Note 2))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lime juice ((substitute rice vinegar or apple cider vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, finely grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "canola oil (or other neutral oil, for cooking)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "10",
+      "unit": "sheets",
+      "name": "round rice paper (, ~22cm/8.5&quot; (Note 3))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "70",
+      "unit": "g",
+      "name": "/ 2.5 oz  dried vermicelli noodles ((rice noodles), or other very thin noodles)",
+      "emoji": "🍚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(packed) green cabbage (, very finely sliced (so it&#39;s soft and floppy not stiff and pokey) - or any lettuce)",
+      "emoji": "🥬",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(packed) red cabbage (, very finely sliced (or any lettuce))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  carrot (, peeled and finely julienned (or cucumber))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "coriander / cilantro leaves (roughly chopped (or Thai Basil leaves, extra mint leaves))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "small mint leaves ((or tear larger ones), regular, or Vietnamese mint)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "natural peanut butter (, smooth (Substitute regular peanut butter spread, Note 4))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "hoisin sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white vinegar ((or 1/2 tbsp lime juice))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4 - 1/3 cup milk ( (any fat %) (or water))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 small garlic clove (, finely grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "crushed chilli, samba oelak or other chilli paste (, adjust spiciness to taste (optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 21
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Marinate chicken - Mix the Marinade ingredients in a bowl. Add chicken and toss to coat. Set aside to marinate for 15 minutes while you prepare everything else (or overnight)."
+    },
+    {
+      "order": 2,
+      "instruction": "Peanut Sauce - Mix ingredients together in a small bowl until combined, using milk to adjust the consistency if needed so it&#39;s not too thick."
+    },
+    {
+      "order": 3,
+      "instruction": "Noodles - Place vermicelli noodles in a bowl and cover with hot water for 2 minutes, then drain very well and let cool. (Or follow packet instructions, if different)."
+    },
+    {
+      "order": 4,
+      "instruction": "Cook chicken - Heat the oil in a large non-stick pan over high heat until very hot. Add half the chicken (leave residual marinade in bowl) and cook for 3 minutes, stirring constantly, until lightly caramelised. Remove from the pan and spread out on a plate to cool before using. Repeat with remaining chicken. (Note: I don&#39;t cook in 2 batches in the video because the stove is super strong)."
+    },
+    {
+      "order": 5,
+      "instruction": "Water bowl - Fill a large bowl with warm water. (The bowl doesn&#39;t need to be large enough to fit the whole rice paper in one go.)"
+    },
+    {
+      "order": 6,
+      "instruction": "Submerge rice paper in the water for 2 seconds (if your bowl isn&#39;t large enough to fit the whole rice paper in one go, that&#39;s fine, just rotate it and count 2 seconds for each section you submerge into the water), place the smooth side down on a cutting board. (Note 3)"
+    },
+    {
+      "order": 7,
+      "instruction": "Stuffing - Place stuffing just beneath the middle, in whatever order you want (it doesn&#39;t really matter), but try to pile in a symmetrical stack (for ease of rolling / neat rolls). My typical: sprinkle ~2 tsp coriander, top with one-tenth of the chicken, then carrots, cabbages, mint leaves (generous), and noodles last to weigh everything down (I wrap around hand to bundle into a neat shape)."
+    },
+    {
+      "order": 8,
+      "instruction": "Roll (Note 5) - Fold the lower part of the rice paper up over the stuffing, then fold the sides in. Roll to enclose the filling, making it fairly firm. It will self-stick to seal (yay!). Don&#39;t worry if it&#39;s a bit wonky, it will still taste fabulous!"
+    },
+    {
+      "order": 9,
+      "instruction": "Serve - Transfer to serving plate (ignore what I do in the video - don&#39;t stack! They stick.) Serve with peanut dipping sauce. Sometimes I cut in half and stand upright, per photos in the post (great for appetisers!)."
+    }
+  ]
+}

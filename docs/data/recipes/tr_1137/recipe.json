@@ -1,0 +1,99 @@
+{
+  "id": "tr_1137",
+  "title": "German Cucumber Salad",
+  "image": "https://www.recipetineats.com/tachyon/2021/05/German-Cucumber-Salad_0.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/german-cucumber-salad/",
+  "servings": 5,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "creamy cucumber salad",
+    "cucumber salad",
+    "german cucumber salad"
+  ],
+  "nutrition": {
+    "calories": 66,
+    "protein": 1.0,
+    "carbs": 6.0,
+    "fat": 5.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  English / telegraph cucumbers ((ie. long cucumbers. Sub 4 x Lebanese cucumbers, Note 1))",
+      "emoji": "🥒",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "sour cream ((sub plain, thick yogurt))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "white vinegar ((plain distilled vinegar))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh dill (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Peel cucumbers and finely slice into 2mm / 0.2&quot; slices using a mandoline (or by hand and show off your knife skills!)"
+    },
+    {
+      "order": 2,
+      "instruction": "Mix dressing ingredients in a small bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Toss cucumbers with dressing, then set aside for at least 4 hours or even overnight. The cucumbers will soften and leach juice which will thin the dressing to the right consistency."
+    },
+    {
+      "order": 4,
+      "instruction": "Serving: Toss well then transfer to bowl for serving. Serve chilled for the most refreshing flavour!"
+    }
+  ]
+}

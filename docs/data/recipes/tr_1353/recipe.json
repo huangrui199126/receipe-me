@@ -1,0 +1,127 @@
+{
+  "id": "tr_1353",
+  "title": "Steak with Creamy Peppercorn Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2018/05/Steak-with-Creamy-Peppercorn-Sauce_5.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/peppercorn-sauce/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 12,
+  "tags": [],
+  "nutrition": {
+    "calories": 352,
+    "protein": 2.0,
+    "carbs": 1.0,
+    "fat": 28.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  300g/10oz New York Strip / Porterhouse steaks  ((or other of choice, Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "(85 ml)  brandy or cognac ((or marsala) (Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(185 ml)  beef broth/stock (, low sodium (important! Note 3))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125 ml)  cream (, heavy/thickened)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tsp coarsely crushed whole black peppercorns ((or canned green peppercorns, drained) (Note 4))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Take the steaks out of the fridge 20 minutes before planning to cook."
+    },
+    {
+      "order": 2,
+      "instruction": "Crush the pepper using a rolling pin, mortar and pestle or the side of a hardy knife."
+    },
+    {
+      "order": 3,
+      "instruction": "Just before cooking, sprinkle both sides of steak generously with salt and black pepper."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat oil in a skillet over high heat until smoking."
+    },
+    {
+      "order": 5,
+      "instruction": "Add steaks and cook the first side for 2 minutes until it has a great crust, then flip and cook the other side for 2 minutes (for medium rare)."
+    },
+    {
+      "order": 6,
+      "instruction": "Stack the steaks on top of each other, then use tongs to sear the fat strip."
+    },
+    {
+      "order": 7,
+      "instruction": "Transfer to plate, cover loosely with foil to rest while you make the sauce."
+    },
+    {
+      "order": 8,
+      "instruction": "Add brandy or cognac into the same skillet and let it simmer rapidly, scraping the bottom of the pan, until it has mostly reduced and you can no longer smell the harsh alcohol smell (~1 min)."
+    },
+    {
+      "order": 9,
+      "instruction": "Add broth, bring to simmer and let it simmer rapidly for 2 to 3 minutes or until it reduces by half."
+    },
+    {
+      "order": 10,
+      "instruction": "Turn heat down to medium. Add cream and pepper, stir, then simmer for 1 1/2 to 2 minutes until it thickens (do not let it boil rapidly)."
+    },
+    {
+      "order": 11,
+      "instruction": "Taste sauce, adjust salt (and pepper!) to taste."
+    },
+    {
+      "order": 12,
+      "instruction": "Transfer steaks to warmed serving plates. Spoon over sauce. Serve immediately! Pictured with Crispy Smashed Potatoes and Garlic Spinach. (Note 6)"
+    }
+  ]
+}

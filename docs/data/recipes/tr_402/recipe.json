@@ -1,0 +1,180 @@
+{
+  "id": "tr_402",
+  "title": "Chicken Francese",
+  "image": "https://www.recipetineats.com/tachyon/2023/10/Chicken-Francese_4.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-francese/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "chicken breast recipe",
+    "chicken francese",
+    "chicken french",
+    "chicken in white wine sauce"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 32.0,
+    "carbs": 11.0,
+    "fat": 21.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large chicken breasts (, skinless boneless (250-300g / 8-10oz each))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "flour (, plain / all-purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  large eggs",
+      "emoji": "🥚",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "milk ( (any fat %))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemon (, thinly sliced 0.3cm / 1/8\")",
+      "emoji": "🍋",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "flour (, plain / all-purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken stock/broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "Chardonnay or other dry white wine ((Note 1))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((no pepper!))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "finely chopped parsley (, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut each breast in half horizontally to form 4 thin steaks in total."
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk eggs and milk in a small bowl. Set aside."
+    },
+    {
+      "order": 3,
+      "instruction": "Flour coating - Mix flour, salt and pepper on a plate (I use my fingertips). Coat the chicken in the flour, shaking off excess, then set aside on a plate."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat the oil in a large nonstick pan over medium-high heat."
+    },
+    {
+      "order": 5,
+      "instruction": "Cook chicken - Dip the chicken in the egg, allow excess to drip off, then put into the pan. Cook for 3 minutes until golden. Flip, lower heat to medium, then cook for 4 minutes until the chicken is golden (internal temp 68°C/155°F). Remove onto a plate."
+    },
+    {
+      "order": 6,
+      "instruction": "Lemon - Add the lemon slices to the pan. Cook for a minute or until the lemons go soft / brown, then turn and cook the other side for 30 seconds. Remove onto a plate. (Note 2)"
+    },
+    {
+      "order": 7,
+      "instruction": "Wipe the pan clean using paper towels."
+    },
+    {
+      "order": 8,
+      "instruction": "White wine sauce - Still on medium heat, melt the butter in the pan. Add flour and stir for 1 minute using a wooden spoon. While stirring, slowly pour in half the stock. Once the flour is dissolved into the liquid, stir in remaining stock, then the wine and salt. (See Note 3 for lumps tip)"
+    },
+    {
+      "order": 9,
+      "instruction": "Thicken sauce - Turn the heat up slightly then simmer for 3 - 4 minutes or until the sauce thickens into a syrupy consistency."
+    },
+    {
+      "order": 10,
+      "instruction": "Sauce it! Return the chicken and lemon slices to the pan, then spoon the sauce all over the chicken. Sprinkle with parsley then serve the chicken with the sauce (use it ALL!)."
+    }
+  ]
+}

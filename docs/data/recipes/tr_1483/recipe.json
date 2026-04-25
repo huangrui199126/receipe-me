@@ -1,0 +1,149 @@
+{
+  "id": "tr_1483",
+  "title": "Chicken Parmesan Meatball Crostini.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2017/02/Chicken-Parmesan-Meatball-Crostini.-1.jpg",
+  "importCount": "2.9K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/chicken-parmesan-meatball-crostini/",
+  "servings": 16,
+  "prepTime": 10,
+  "cookTime": 20,
+  "tags": [
+    "meatball"
+  ],
+  "nutrition": {
+    "calories": 145,
+    "protein": 12.0,
+    "carbs": 16.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pound",
+      "name": "ground chicken",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "panko bread crumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "grated pecorino or parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "teaspoons",
+      "name": "Italian seasoning",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "kosher salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  loaf whole grain french bread (sliced)",
+      "emoji": "🍞",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh basil (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "marinara sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "8",
+      "unit": "ounces",
+      "name": "mozzarella cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "fresh basil and or arugula (for serving)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a medium bowl, combine the ground chicken, bread crumbs, pecorino, egg, Italian seasoning and a pinch each of salt and pepper."
+    },
+    {
+      "order": 2,
+      "instruction": "Roll mixture into scant tablespoon size balls, you should get around 16 meatballs."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat the oven to 375 degrees F."
+    },
+    {
+      "order": 4,
+      "instruction": "Arrange the bread slices on a baking sheet and drizzle lightly with olive oil to coat. Sprinkle the fresh basil over the bread. Transfer to the oven and bake for 8-10 minutes or until toasted."
+    },
+    {
+      "order": 5,
+      "instruction": "Meanwhile, heat a large skillet over medium heat and add a tablespoon of olive oil. When the oil shimmers, add the meatballs and cook for 3-5 minutes per side or until lightly golden, about 8-10 minutes total."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove the bread from the oven and top each piece with a little marinara. Add a meatball and then top with mozzarella. Return the baking sheet to the oven and bake for 5-10 minutes or until the cheese has melted."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve the crostini warm, topped with fresh basil and extra parmesan."
+    }
+  ]
+}

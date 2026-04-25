@@ -1,0 +1,151 @@
+{
+  "id": "tr_238",
+  "title": "Magic Three Layer Custard Cake (From One Batter)",
+  "image": "https://www.recipetineats.com/tachyon/2015/04/Magic-Cake-Whole-Cake_680px.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/magic-3-layer-custard-cake/",
+  "servings": 9,
+  "prepTime": 20,
+  "cookTime": 50,
+  "tags": [],
+  "nutrition": {
+    "calories": 247,
+    "protein": 5.4,
+    "carbs": 27.5,
+    "fat": 13.3
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs (, yolks and whites separated (at room temperature))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(150g)  sugar ( (ordinary or caster sugar))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 stick (4oz / 125g / 1/2 cup)   unsalted butter (, melted )",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "(4oz / 115g)  plain all purpose flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(500 ml / 1 pint)  milk ((lukewarm) (full fat or low fat but not zero fat) )",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Icing sugar ((powdered sugar), for dusting)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh strawberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Whipped cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 325F/160C (standard oven / fan forced or convection)"
+    },
+    {
+      "order": 2,
+      "instruction": "Butter a 8\" x 8\" / 20cm x 20cm square cake tin (Note 4)."
+    },
+    {
+      "order": 3,
+      "instruction": "Beat egg whites with a mixer until stiff peaks form. Set aside."
+    },
+    {
+      "order": 4,
+      "instruction": "Place the egg yolks and sugar in a bowl and beat until it turns pale yellow - about 1 minute."
+    },
+    {
+      "order": 5,
+      "instruction": "Add the vanilla extract and butter and beat until well incorporated - about 30 seconds to 1 minute."
+    },
+    {
+      "order": 6,
+      "instruction": "Add the flour and beat until just combined."
+    },
+    {
+      "order": 7,
+      "instruction": "Pour the milk in slowly while beating, and beat until well combined (or if using a hand held mixer, add 1/4 milk at a time, beating in between)."
+    },
+    {
+      "order": 8,
+      "instruction": "Use a spatula to fold in the egg whites in the batter, one third at a time, until just incorporated. You don't want to knock the air out of the egg whites. Don't worry if there are a few egg white lumps in the batter. The batter should be very thin, almost like a thick pouring cream."
+    },
+    {
+      "order": 9,
+      "instruction": "Pour the batter into the prepared cake tin."
+    },
+    {
+      "order": 10,
+      "instruction": "Bake until the top is golden brown and the cake does not \"jiggle\" when you gently shake the tin - around 40 to 50 minutes. Check the cake at 30 minutes - if the top is already golden brown but the cake is not yet set (i.e. it jiggles), cover loosely with foil and return to the oven, 10 minutes at a time, until set."
+    },
+    {
+      "order": 11,
+      "instruction": "Allow to cool in the tin for 10 minutes, then turn out onto a cooling rack.(Note 3) Cool completely before serving."
+    },
+    {
+      "order": 12,
+      "instruction": "Cut into squares - I cut it into 12 in the photo, but 9 is more realistic serving size portions."
+    },
+    {
+      "order": 13,
+      "instruction": "Dust with icing sugar just before serving."
+    },
+    {
+      "order": 14,
+      "instruction": "Serve with a side of whipped cream and strawberries, if using."
+    }
+  ]
+}

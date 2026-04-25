@@ -1,0 +1,115 @@
+{
+  "id": "tr_367",
+  "title": "How to cook steak - like a chef!",
+  "image": "https://www.recipetineats.com/tachyon/2019/07/Cheffy-Garlic-Butter-Steak_9.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/how-to-cook-steak/",
+  "servings": 1,
+  "prepTime": 5,
+  "cookTime": 6,
+  "tags": [
+    "garlic butter steak",
+    "how to cook steak",
+    "steak recipe"
+  ],
+  "nutrition": {
+    "calories": 919,
+    "protein": 61.0,
+    "carbs": 4.0,
+    "fat": 73.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2  boneless ribeye or scotch fillet (, 2.5 cm / 1\" thick, approx 300g/10 oz each (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "75",
+      "unit": "g",
+      "name": "/ 5 tbsp   unsalted butter (, cut into 1.25cm / 1/2\" cubes (Note 2))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "6",
+      "unit": "sprigs",
+      "name": "fresh thyme or 3 sprigs rosemary",
+      "emoji": "🌿",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  garlic cloves (, peeled and smashed to split (Note 3))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Bring to room temp: Take the steak out of the fridge 30 minutes prior to bring to room temperature."
+    },
+    {
+      "order": 2,
+      "instruction": "Dry steaks: Pat dry with paper towels."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat skillet: Heat oil in a heavy based skillet over high heat until it is very hot - you should see smoke!"
+    },
+    {
+      "order": 4,
+      "instruction": "Season: Sprinkle each side of the steak generously with salt and pepper, then immediately place in the skillet."
+    },
+    {
+      "order": 5,
+      "instruction": "Sear Side 1: Cook for 2 - 2.5 minutes until you get a great crust, then turn."
+    },
+    {
+      "order": 6,
+      "instruction": "Garlic Butter: Leave for 1 minute, then push steaks to one side and toss in butter, garlic and thyme. BE CAREFUL - the thyme will sputter!"
+    },
+    {
+      "order": 7,
+      "instruction": "Baste:&nbsp;As soon as the butter is melted, continuously spoon the butter over the steak until it's cooked to your liking - 2 minutes in total for the 2nd side for medium rare (52C/125F, chart below for other doneness temps)"
+    },
+    {
+      "order": 8,
+      "instruction": "Basting also renders fat on the side of the steak – use tongs to sear the edges at the end if you want it browned more."
+    },
+    {
+      "order": 9,
+      "instruction": "Rest: Transfer steak to a plate and cover loosely with foil, rest for 5 to 10 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve steak with a bit of the butter from the skillet drizzled on top. Pictured in post with Crispy Smashed Potatoes."
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "tr_602",
+  "title": "Easy Chocolate Fudge Cake",
+  "image": "https://www.recipetineats.com/tachyon/2018/11/Easy-Chocolate-Fudge-Cake_5-SQ.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easy-chocolate-fudge-cake/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 60,
+  "tags": [
+    "chocolate fudge cake"
+  ],
+  "nutrition": {
+    "calories": 473,
+    "protein": 5.0,
+    "carbs": 48.0,
+    "fat": 29.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 4 oz  dark chocolate chips  ((Note 1))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "100",
+      "unit": "g",
+      "name": "/ 7 tbsp  butter (, salted (or unsalted butter + 1/4 tsp salt))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "white sugar (, caster / superfine best (Note 2))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "oil ((vegetable, canola))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (, at room temperature)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cocoa powder ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "flour (, plain / all purpose (Note 4))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "boiling hot water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "coffee granules (, optional (Note 5))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "heavy / thickened cream (, 30%+ fat (Note 6))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz  dark chocolate chips  ((Note 1))",
+      "emoji": "🍫",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 150C/300F (standard) &nbsp;or 130C/265F (fan). Grease a 22 cm / 9\" springform cake pan and line with parchment / baking paper.&nbsp;"
+    },
+    {
+      "order": 2,
+      "instruction": "Melt butter and&nbsp;chocolate:&nbsp;Place butter and chocolate in a heatproof bowl. Microwave 3 x 30 seconds on high, mix in between, until melted. Mix."
+    },
+    {
+      "order": 3,
+      "instruction": "Oil, vanilla &amp; Sugar:&nbsp;Add oil, vanilla and sugar, mix to combine (this brings down batter temp)."
+    },
+    {
+      "order": 4,
+      "instruction": "Eggs: Add eggs and mix until combined."
+    },
+    {
+      "order": 5,
+      "instruction": "Dry Ingredients: Sift cocoa, baking powder and flour (and coffee, if using) directly into the bowl. Mix until smooth, batter will be thin. Some small lumps is ok."
+    },
+    {
+      "order": 6,
+      "instruction": "Hot water: Add hot water. Mix until incorporated."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake: Pour into the cake tin and bake for 1 hour or until a skewer inserted into the centre comes out moist but clean. Check at 50 minutes. The surface will crack (sometimes badly!) but sill subside when it cools and gets covered with frosting so don't stress!"
+    },
+    {
+      "order": 8,
+      "instruction": "Cool: Remove sides from the cake pan and transfer to a cooling rack to cool. Cool completely before carefully handling to remove base (Note 7).&nbsp;"
+    },
+    {
+      "order": 9,
+      "instruction": "Place chocolate and cream in a heatproof bowl. Microwave 3 x 30 seconds, mixing in between, until chocolate melts. DO NOT let cream come to boil."
+    },
+    {
+      "order": 10,
+      "instruction": "Stir chocolate until smooth. Refrigerate for 1 to 2 hours or until thickened to a spreadable consistency like peanut butter."
+    },
+    {
+      "order": 11,
+      "instruction": "Spread over the cake - tops and sides. Use a teaspoon in a swirling motion to achieve the textured surface you see in the photos."
+    }
+  ]
+}

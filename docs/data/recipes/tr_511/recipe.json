@@ -1,0 +1,175 @@
+{
+  "id": "tr_511",
+  "title": "Spaghetti alla Puttanesca",
+  "image": "https://www.recipetineats.com/tachyon/2021/08/Spaghetti-Puttanesca_64-SQ.jpg",
+  "importCount": "3.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/spaghetti-alla-puttanesca/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "pasta puttanesca",
+    "puttanesca",
+    "spaghetti alla puttanesca"
+  ],
+  "nutrition": {
+    "calories": 596,
+    "protein": 18.0,
+    "carbs": 91.0,
+    "fat": 19.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7oz  spaghetti (, or other long pasta)",
+      "emoji": "🍝",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil (, plus more for drizzling)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced (knife, not garlic press))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  anchovy fillets (, finely minced (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "pitted black olives (, preferably in oil, quartered (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "capers (, drained (Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "chilli flakes ((red pepper flakes))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "/ 14oz   can crushed tomato ((or hand crush whole canned tomatoes))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fresh oregano (, roughly chopped (sub 1/4 tsp dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "kosher / cooking salt ((or 2 pinches table salt))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "sugar (, if needed (depends on tomato quality, Note 4))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh basil (, roughly chopped (Note 6))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Prepare: Bring a large pot of water to the boil, ready for the pasta. Warm serving bowls (I microwave 1 minute)."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook garlic: Heat olive oil in a medium skillet over medium high heat. Add garlic and cook for 15 seconds until it starts turning golden."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook anchovies: Add anchovies, capers, olives and chilli flakes. Cook for 1 minute."
+    },
+    {
+      "order": 4,
+      "instruction": "Tomato: Add tomato, then add the 1/2 cup of water into the can. Swirl around to rinse then pour into the skillet."
+    },
+    {
+      "order": 5,
+      "instruction": "Simmer: Add oregano, salt and pepper. Stir, bring to simmer, then turn down to low and cook over medium heat for 10 minutes or until the tomato has broken down and created a sauce. Turn off stove when ready if not timed with cooked pasta."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook pasta: Meanwhile, add 2 teaspoons salt into the pot of water. Then add pasta and cook per packet directions."
+    },
+    {
+      "order": 7,
+      "instruction": "Reserve pasta water (Note 5): Just before draining, scoop out a mugful of pasta cooking water and set aside. Then drain pasta in a colander."
+    },
+    {
+      "order": 8,
+      "instruction": "Toss pasta: Immediately add pasta into sauce. Add 1/4 cup of pasta cooking water reserved from previous step (Note 5) then use 2 wooden spoons to toss the pasta, still on a low stove, for 1 minute or until the sauce is no longer in the skillet but rather clinging to the pasta strands (but still slick and slippery). If the pasta gets too dry, add more pasta cooking water and toss."
+    },
+    {
+      "order": 9,
+      "instruction": "Serve: Immediately transfer into warmed bowls. Drizzle with olive oil, sprinkle with basil. Serve immediately!"
+    }
+  ]
+}

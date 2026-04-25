@@ -1,0 +1,223 @@
+{
+  "id": "tr_27",
+  "title": "Quick Taco Soup with Pork Carnitas",
+  "image": "https://www.recipetineats.com/tachyon/2014/07/Enchilada-Pulled-Pork-Soup-2-1.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/taco-soup-pork-carnitas/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 398,
+    "protein": 23.8,
+    "carbs": 63.9,
+    "fat": 8.8
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  brown or white onion (, diced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red bell pepper ((capsicum), diced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "(15oz / 400g)   black beans  ((Note 2))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "(15oz / 400g)   sweet corn",
+      "emoji": "🌽",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "oregano ((dried))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "chilli ((optional))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "shredded Mexican pulled pork ((Pork Carnitas) (or shredded chicken))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "24",
+      "unit": "oz",
+      "name": "/ 680 g   tomato puree passata ((or crushed tomatoes - see Note 1))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "(1 litre / 2 pints)   chicken or vegetable broth / stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Corn chips",
+      "emoji": "🌽",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Grated cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cilantro / coriander leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Avocado (, diced)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 18
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat the oil in a large saucepan over high heat."
+    },
+    {
+      "order": 2,
+      "instruction": "Add the pulled pork and cook for 1 minute until parts of it are browned, then remove from the saucepan. Do this step even if you are using shredded chicken or another meat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add garlic and onion, sauté until onion becomes translucent (2 minutes), then add the capsicum (bell pepper) and cook for 1 minute until softened."
+    },
+    {
+      "order": 4,
+      "instruction": "Return the pulled pork into the saucepan and add all other ingredients except salt and pepper. If you are making this ahead to FREEZE, see below for instructions."
+    },
+    {
+      "order": 5,
+      "instruction": "Stir to scrap the brown bits from the pulled pork off the bottom of the pan to mix in with the soup flavours."
+    },
+    {
+      "order": 6,
+      "instruction": "Bring to boil then turn down heat slightly and allow to simmer rapidly for 3 minutes so the flavours can come together. If you are using crushed tinned tomatoes instead of passata, let it simmer for a further 5 minutes to let the tomatoes breakdown a bit. If the soup gets too thick to your liking, just add a bit more water."
+    },
+    {
+      "order": 7,
+      "instruction": "Do a taste test, then season with salt and pepper. It is important to season last because different stock brands have different levels of saltiness."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve with toppings of choice. The more toppings = more delicious!"
+    },
+    {
+      "order": 9,
+      "instruction": "Follow steps 1 to 3."
+    },
+    {
+      "order": 10,
+      "instruction": "In step 4, do not add the tomato passata or chicken/vegetable stock/broth. Instead, add 1 cup of water, bring to simmer and stir, scraping the bottom of the pot to get the brown bits off."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove pot from heat and set aside to cool, then pour the contents into a container or ziplock bag and freeze."
+    },
+    {
+      "order": 12,
+      "instruction": "To cook, defrost, then pour the contents into a saucepan. Add the tomato passata and chicken stock/broth. Then follow steps 6 onwards as per above."
+    }
+  ]
+}

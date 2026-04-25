@@ -1,0 +1,191 @@
+{
+  "id": "tr_453",
+  "title": "Japanese GYOZA (Dumplings)",
+  "image": "https://www.recipetineats.com/tachyon/2016/01/Gyoza-Japanese-Dumplings_2.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/gyoza-japanese-dumplings-potstickers/",
+  "servings": 40,
+  "prepTime": 25,
+  "cookTime": 20,
+  "tags": [],
+  "nutrition": {
+    "calories": 72,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "green cabbage, very finely chopped",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt, separated",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500g  ground pork (mince) (fattier the better)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "garlic chives, finely chopped (Note 1)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic cloves, crushed",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ginger, grated",
+      "emoji": "🫚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cornstarch / corn flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cornflour (cornstarch) - for tray",
+      "emoji": "🌾",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "40 - 45  round wonton (gyoza) wrappers (Gow Gee wrappers) - 1 1/2 packets (Note 2)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "vegetable oil (or other cooking oil)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rice wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chili oil (Rayu is Japanese chili oil)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine cabbage and 1/2 tsp salt in a small bowl, then set aside for 20 minutes to allow the cabbage to wilt slightly."
+    },
+    {
+      "order": 2,
+      "instruction": "Place remaining Filling ingredients (including remaining 1/2 tsp salt) in a large bowl. Squeeze out any excess water from the cabbage and add to the bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Use your hands to mix the Filling."
+    },
+    {
+      "order": 4,
+      "instruction": "Sprinkle a baking tray with 1 tsp of cornstarch / cornflour."
+    },
+    {
+      "order": 5,
+      "instruction": "Place 1 gyoza wrapper on your palm (left hand for right-handed people). Dip your finger in water and run it around the edge of half the gyoza wrapper (to seal)."
+    },
+    {
+      "order": 6,
+      "instruction": "Place 1 slightly heaped tbsp of Filling on the wrapper. Fold wrapper over and use your right hand assisted by your left hand thumb to create 4 pleats. Press to seal and place on the tray. Repeat with remaining wrappers. (See video for demo)"
+    },
+    {
+      "order": 7,
+      "instruction": "Heat 1 tbsp oil in a large skillet (that has a lid) over medium high heat."
+    },
+    {
+      "order": 8,
+      "instruction": "Place about 12 gyoza in rows, slightly overlapping each other. Cook until the underside is light golden, then pour 1/3 cup of water around the gyoza and place the lid on."
+    },
+    {
+      "order": 9,
+      "instruction": "Cook until the water has completely evaporated (so the golden underside is not wet and soggy) and the wrapper is slightly translucent on top - about 3 to 4 minutes. (See video)"
+    },
+    {
+      "order": 10,
+      "instruction": "Use an egg flip to transfer onto a plate upside down i.e. golden side up."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve with Dipping Sauce."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve each ingredient separately so people can mix according to their taste. I use about equal portions of soy sauce and vinegar with a generous splash of chili oil."
+    }
+  ]
+}

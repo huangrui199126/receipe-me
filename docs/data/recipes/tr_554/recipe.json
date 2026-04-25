@@ -1,0 +1,257 @@
+{
+  "id": "tr_554",
+  "title": "My best Pulled Pork",
+  "image": "https://www.recipetineats.com/tachyon/2022/10/The-most-amazing-Pulled-Pork-1.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/my-best-pulled-pork/",
+  "servings": 15,
+  "prepTime": 15,
+  "cookTime": 720,
+  "tags": [
+    "pulled pork"
+  ],
+  "nutrition": {
+    "calories": 499,
+    "protein": 51.0,
+    "carbs": 34.0,
+    "fat": 16.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 - 5 kg / 8 - 10 lb  pork butt / Boston butt / square cut pork shoulder ((skinless, bone in, fat cap on, Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "beer (, any except dark beers like Guinness (Note 2))",
+      "emoji": "🍺",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "paprika powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cumin powder",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cayenne pepper ((can omit))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cooking/kosher salt* ((Note 4))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "apple cider vinegar ((Note 5))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "ketchup  ((or Aussie tomato sauce))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "molasses ((original, not backstrap, Note 6))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Tabasco ((optional spiciness))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "4",
+      "unit": "tsp",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "garlic powder ((sub onion powder))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt ((Note 4))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 23
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Dry brine overnight (Note 7) – Pat the pork dry and place in a large ceramic dish. Mix Brine ingredients in a small bowl and rub it all over the pork, being sure to get into the cracks and crevices. Turn it fat side up (smoother side) covered with as much rub as possible. Refrigerate uncovered for 24 hours."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 110°C (both fan-forced and standard) / 230°F."
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare for roasting - Transfer pork to a roasting pan (do not wipe the rub off) with the fat side up. Discard any liquid and residual rub left in the brining dish. Pour beer and water around the pork, topping up with extra water as needed so the liquid level is 2.5 cm / 1&quot; (insurance against pan going dry)."
+    },
+    {
+      "order": 4,
+      "instruction": "Slow roast 12 hours (Note 8) - Roast, uncovered, for 12 hours, or until the internal temperature reaches 95°C/203°F and the meat falls apart effortlessly using two forks. ⚠️ Make sure your oven does not automatically turn off mid cook, many have auto-off functions that kick in at 12 hours (also factor in oven pre-heating time)!"
+    },
+    {
+      "order": 5,
+      "instruction": "Shred – Transfer the pork to a large pan (reserve juices in roasting pan). Rest for 20 minutes then shred with tongs / forks - it will be effortless! You can discard the fat cap at this stage if you want. I leave some, it makes the shredded pork even juicier."
+    },
+    {
+      "order": 6,
+      "instruction": "Sauce it - Pour 3/4 cup of the juices from the roasting pan and 1 cup of Barbecue Sauce (see below) over the pork, and toss."
+    },
+    {
+      "order": 7,
+      "instruction": "Serve Pulled Pork with remaining Barbecue Sauce on the side so people can help themselves. Either make a big Southern feast with a side of cornbread, coleslaw and potato salad or macaroni salad. Or make Pulled Pork buns with soft rolls stuffed with coleslaw, Pulled Pork and the BBQ sauce!"
+    },
+    {
+      "order": 8,
+      "instruction": "Place ingredients in a large saucepan and whisk to combine."
+    },
+    {
+      "order": 9,
+      "instruction": "Simmer 45 minutes: Bring to simmer on medium heat, then reduce to a low simmer for 45 minutes. Stir occasionally."
+    },
+    {
+      "order": 10,
+      "instruction": "Add pork juices: When the pork is cooked, add 1/2 cup of the juices from the roasting pan into the BBQ sauce and simmer for 5 minutes. Use water to control thickness – it should have a thick syrupy consistency. Serve warm or at room temperature (not fridge cold)."
+    }
+  ]
+}

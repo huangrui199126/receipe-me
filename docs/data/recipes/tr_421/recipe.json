@@ -1,0 +1,161 @@
+{
+  "id": "tr_421",
+  "title": "Real Chinese All Purpose Stir Fry Sauce (Charlie!)",
+  "image": "https://www.recipetineats.com/tachyon/2014/06/Stir-Fry-Sauce-1.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/real-chinese-purpose-stir-fry-sauce/",
+  "servings": 1,
+  "prepTime": 2,
+  "cookTime": 0,
+  "tags": [
+    "stir fry sauce"
+  ],
+  "nutrition": {
+    "calories": 34,
+    "protein": 0.6,
+    "carbs": 3.7,
+    "fat": 1.7
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "light soy sauce ( (Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "oyster sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "Chinese wine ((or dry sherry) (Note 5))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cornstarch / cornflour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sesame oil (, toasted)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ground white pepper ((I sometimes use 1 tbsp, I like the spiciness!))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine ingredients in a jar and shake to combine. Store in fridge and shake before use."
+    },
+    {
+      "order": 2,
+      "instruction": "Stir Fry: I use 3 tbsp Stir Fry Sauce + 6 tbsp water to make a stir frying for 2 people using around 5 cups of uncooked ingredients (proteins + vegetables)."
+    },
+    {
+      "order": 3,
+      "instruction": "Noodles: I use 3 tbsp of the Stir Fry sauce + 5 - 6 tbsp water to make a noodle stir fry for 2 people using around 7 cups of the combined stir fry uncooked (vegetables - packed, proteins + noodles - if using)."
+    },
+    {
+      "order": 4,
+      "instruction": "By weight (Noodles &amp; Stir Fry): Around 3 tbsp Stir Fry Sauce per 1 lb / 500g of combined ingredients (proteins + vegetables + noodles if using) plus 1/3 cup water."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat 2 tbsp oil in wok over high heat."
+    },
+    {
+      "order": 6,
+      "instruction": "Add your choice of Base Flavourings - fry for 10 seconds or so to infuse oil."
+    },
+    {
+      "order": 7,
+      "instruction": "Add stir fry ingredients in order of time to cook (starting with ingredients that take longest to cook), leaving leafy greens, like the leaves of bok choy, until when you add the sauce (otherwise they will wilt and overcook)."
+    },
+    {
+      "order": 8,
+      "instruction": "Add noodles (if using), sauce and water, your choice of Additional Flavourings and any leafy greens."
+    },
+    {
+      "order": 9,
+      "instruction": "Gently toss to combine and to let the sauce cook for around 1 minute. The sauce will become a thick, glossy sauce that coats your stir fry."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve immediately with rice - or for a low carb, low cal option, try Cauliflower Rice!"
+    },
+    {
+      "order": 11,
+      "instruction": "Garlic, minced or finely sliced"
+    },
+    {
+      "order": 12,
+      "instruction": "Ginger, minced or finely sliced"
+    },
+    {
+      "order": 13,
+      "instruction": "Fresh chillies, minced or finely sliced"
+    },
+    {
+      "order": 14,
+      "instruction": "Sriracha, Chilli Bean Paste or other Spicy addition"
+    },
+    {
+      "order": 15,
+      "instruction": "Sweet chilli sauce"
+    },
+    {
+      "order": 16,
+      "instruction": "Substitute the water with pineapple or orange juice"
+    },
+    {
+      "order": 17,
+      "instruction": "Rice vinegar - for a touch of tartness"
+    },
+    {
+      "order": 18,
+      "instruction": "Fresh cilantro / coriander leaves, or thai basil - for freshness"
+    },
+    {
+      "order": 19,
+      "instruction": "Garlic or ordinary chives, chopped"
+    },
+    {
+      "order": 20,
+      "instruction": "Pinch of Chinese five spice powder"
+    }
+  ]
+}

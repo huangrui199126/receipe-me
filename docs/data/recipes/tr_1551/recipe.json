@@ -1,0 +1,180 @@
+{
+  "id": "tr_1551",
+  "title": "Bacon Wrapped Parmesan Broccoli Rabe.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/07/Bacon-Wrapped-Parmesan-Broccoli-Rabe-1.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/bacon-wrapped-parmesan-broccoli-rabe/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 25,
+  "tags": [
+    "bacon",
+    "broccoli",
+    "parmesan",
+    "rabe"
+  ],
+  "nutrition": {
+    "calories": 429,
+    "protein": 14.0,
+    "carbs": 17.0,
+    "fat": 37.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large bunch broccoli rabe",
+      "emoji": "🥦",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt + pepper (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "crushed red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh grated parmesan",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "12",
+      "unit": "pieces",
+      "name": "thin cut bacon",
+      "emoji": "🥓",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "toasted pine nuts (chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "fresh herbs + cherry tomatoes (for serving (optional))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "5",
+      "unit": "cloves",
+      "name": "garlic",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "full-fat plain greek yogurt",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "fresh basil",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "juice of 1 lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "pinch",
+      "name": "of crushed red pepper flakes",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 400 degrees F. Line a baking sheet with foil and place a cooking rack over the foil."
+    },
+    {
+      "order": 2,
+      "instruction": "Place the broccoli rabe in a large bowl and toss with the olive oil, salt, pepper and crushed red pepper flakes."
+    },
+    {
+      "order": 3,
+      "instruction": "Divide the broccoli rabe into 12 bunches (about 3 stalks per bunch). Wrap 1 piece of bacon around the stalk of each bunch. Secure the bacon wrapped broccoli rabe with a toothpick. Place the broccoli rabe onto the rack on top of the prepared baking sheet."
+    },
+    {
+      "order": 4,
+      "instruction": "Sprinkle the parmesan over the bunch of bacon wrapped broccoli rabe. Drizzle the honey over each piece of bacon. Place the pan in the oven and roast until the broccoli rabe is roasted + crisp and the bacon looks fully cooked, about 25 minutes. Remove from the oven and remove the toothpicks."
+    },
+    {
+      "order": 5,
+      "instruction": "Sprinkle with freshly grated parmesan, chopped toasted pine nuts and cherry tomatoes if desired. Serve with the Basil Roasted Garlic Dip (recipe below)."
+    },
+    {
+      "order": 6,
+      "instruction": "Heat a skillet over medium heat and add 1 tablespoon olive oil. Add the garlic and cook until the cloves are golden with some black spots, about 9 minutes. Transfer to a food processor. Add the remaining ingredients and process until completely smooth; season with salt and pepper."
+    }
+  ]
+}

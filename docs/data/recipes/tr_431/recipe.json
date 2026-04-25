@@ -1,0 +1,181 @@
+{
+  "id": "tr_431",
+  "title": "Chicken Stroganoff",
+  "image": "https://www.recipetineats.com/tachyon/2018/11/Chicken-Stroganoff_8.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-stroganoff/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [
+    "chicken stroganoff"
+  ],
+  "nutrition": {
+    "calories": 389,
+    "protein": 23.0,
+    "carbs": 8.0,
+    "fat": 29.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 1.2 lb  chicken thighs (4 - 5) (, boneless skinless (or breast or tenderloin, Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large onion (, chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "300",
+      "unit": "g",
+      "name": "/ 10oz   mushrooms (, sliced (not too thin))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "40",
+      "unit": "g",
+      "name": "/ 3 tbsp   butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "flour ((Note 2))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500 ml   beef broth/stock (, salt reduced)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "(150g)   sour cream ((or yogurt))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250 - 300 g / 8 - 10 oz pasta or egg noodles of choice ((Note 3))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chopped parsley or chives (, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sprinkle chicken with garlic powder, salt and pepper on both sides."
+    },
+    {
+      "order": 2,
+      "instruction": "Heat oil in a large skillet over medium heat. Place chicken in skillet smooth side down."
+    },
+    {
+      "order": 3,
+      "instruction": "Press down lightly with with spatula. Cook for 4 minutes until golden."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn and press lightly with spatula. Cook for 2 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove chicken onto a plate."
+    },
+    {
+      "order": 6,
+      "instruction": "Turn heat up to medium high. Add butter, melt. Then add onions, cook for 1 minute, then add mushrooms."
+    },
+    {
+      "order": 7,
+      "instruction": "Cook mushrooms until golden. Scrape bottom of fry pan to get all the golden bits off (this is flavour!)."
+    },
+    {
+      "order": 8,
+      "instruction": "Add flour, cook, stirring, for 1 minute."
+    },
+    {
+      "order": 9,
+      "instruction": "Add half the broth while stirring. Once incorporated, add remaining broth."
+    },
+    {
+      "order": 10,
+      "instruction": "Stir, then add sour cream and mustard. Stir until incorporated (don't worry if it looks split, sour cream will \"melt\" as it heats)."
+    },
+    {
+      "order": 11,
+      "instruction": "Bring to simmer ,then reduce heat to medium low. Once it thickens to the consistency of pouring cream (3 minutes), adjust salt and pepper to taste."
+    },
+    {
+      "order": 12,
+      "instruction": "Add chicken back in (including plate juices). Simmer for 1 minute, then remove from stove."
+    },
+    {
+      "order": 13,
+      "instruction": "Serve over pasta or egg noodles, sprinkled with parsley or chives if desired."
+    }
+  ]
+}

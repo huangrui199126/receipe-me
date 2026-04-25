@@ -1,0 +1,175 @@
+{
+  "id": "tr_447",
+  "title": "Chicken &amp; Mushroom Risotto",
+  "image": "https://www.recipetineats.com/tachyon/2016/08/Chicken-Mushroom-Risotto_8.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chicken-and-mushroom-risotto/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 40,
+  "tags": [],
+  "nutrition": {
+    "calories": 658,
+    "protein": 41.9,
+    "carbs": 59.7,
+    "fat": 24.8
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "- 1 tbsp   olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2.5",
+      "unit": "oz",
+      "name": "/ 75 g   bacon ((preferably streaky / fatty) (optional))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "12",
+      "unit": "oz",
+      "name": "/ 350 g   chicken thigh fillets (, cut into bite size pieces)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "13",
+      "unit": "oz",
+      "name": "/ 400 g   mushrooms (, sliced (I use Swiss brown))",
+      "emoji": "🍄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "/ 30 g   unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, finely diced (brown, white, yellow))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml   white wine ((optional - sub with water or chicken broth))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1 1/4",
+      "unit": "cups",
+      "name": "/ 250 g   arborio risotto rice (, uncooked (Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "/ 1 litre   chicken broth/stock",
+      "emoji": "🍗",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 35 g   freshly grated parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 3 tbsp / 15 - 50 g   unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Freshly chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat 1 tsp oil in a pot or skillet (Note 2) over high heat. Add bacon and cook until golden. Transfer to small microwave-proof bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Leave about 1 tbsp bacon fat in pot - discard excess. Add chicken* and cook until browned and cooked through. Transfer to separate bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Add mushrooms* and cook until light golden. Add to bowl with chicken."
+    },
+    {
+      "order": 4,
+      "instruction": "Turn heat down to medium and return pot to the stove. Add butter, and melt. Add garlic and onion. Sauté for 3 minutes or until softened."
+    },
+    {
+      "order": 5,
+      "instruction": "Turn heat up to high, add rice and stir until the grains become partially translucent - no longer than 1 minute. (Note 3)"
+    },
+    {
+      "order": 6,
+      "instruction": "Add wine and cook, scraping the bottom of the pot (to get any brown bits), until the alcohol smell evaporates ~ 2 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Turn heat down to medium low. Add about 3 cups of stock. Then leave it, uncovered, stirring just once or twice, until most of the liquid has been absorbed."
+    },
+    {
+      "order": 8,
+      "instruction": "Check firmness of rice and add 1/2 cup of stock at a time, stirring in between until absorbed, until the rice is cooked to your taste. (Note 4)"
+    },
+    {
+      "order": 9,
+      "instruction": "Add chicken and mushrooms back into the risotto towards the end, just to heat through."
+    },
+    {
+      "order": 10,
+      "instruction": "Right at the end when the risotto is ready, add a splash of chicken broth to make the risotto to make it slightly soupy, then take it off the stove."
+    },
+    {
+      "order": 11,
+      "instruction": "KEY STEP: Add butter (the more the better!) and parmesan, then stir vigorously (activates the starch and makes it super creamy). The excess liquid will evaporate quickly, so add more if you want a soupier risotto, like what you get at posh restaurants."
+    },
+    {
+      "order": 12,
+      "instruction": "Serve IMMEDIATELY!! (Note5) Garnish with reheated bacon, and extra parmesan and parsley if desired."
+    }
+  ]
+}

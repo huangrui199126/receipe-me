@@ -1,0 +1,181 @@
+{
+  "id": "tr_851",
+  "title": "Apple Salad with Candied Walnuts and Cranberries",
+  "image": "https://www.recipetineats.com/tachyon/2018/10/Apple-Salad-with-Candied-Walnuts-Cranberries_3-2.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/apple-salad-candied-walnuts-cranberries/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 5,
+  "tags": [
+    "apple salad"
+  ],
+  "nutrition": {
+    "calories": 364,
+    "protein": 4.0,
+    "carbs": 32.0,
+    "fat": 26.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red apple (, quartered, seeds remove, finely sliced)",
+      "emoji": "🍎",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Squeeze of lemon juice ((to stop apple browning))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "120  g/4 oz mixed salad leaves ((4 to 5 big handfuls))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely sliced (wedge way, not half moon))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "dried cranberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "feta or goats cheese (, crumbled (garnish, optional))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "butter (, salted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "walnuts or pecans",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place butter in a small non stick skillet over medium heat. When melted, add sugar. Stir briefly, then leave until the sugar mostly melts."
+    },
+    {
+      "order": 2,
+      "instruction": "When it starts bubbling a bit, add nuts."
+    },
+    {
+      "order": 3,
+      "instruction": "Stir 2 minutes. Pour out on parchment paper lined tray."
+    },
+    {
+      "order": 4,
+      "instruction": "Spread nuts out, allow to cool. Roughly chop half, leave some whole."
+    },
+    {
+      "order": 5,
+      "instruction": "Place in a bowl, pour over freshly boiled water. Leave to soak 10 minutes then drain."
+    },
+    {
+      "order": 6,
+      "instruction": "Drizzle with lemon juice and toss (stops apple from browning)."
+    },
+    {
+      "order": 7,
+      "instruction": "Place Dressing ingredients in a jar and shake well. Adjust to taste - more oil to make it creamier, sugar for sweet, vinegar for tart."
+    },
+    {
+      "order": 8,
+      "instruction": "Place salad in a large bowl with half the apple slices and all the onion. Drizzle with half the dressing then toss."
+    },
+    {
+      "order": 9,
+      "instruction": "Scatter over the cranberries, desired amount of walnuts, remaining apple slices and feta. Drizzle with remaining dressing. Serve immediately!"
+    }
+  ]
+}

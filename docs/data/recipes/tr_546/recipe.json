@@ -1,0 +1,135 @@
+{
+  "id": "tr_546",
+  "title": "Creamy Dill Sauce with Salmon or Trout",
+  "image": "https://www.recipetineats.com/tachyon/2016/09/Creamy-Dill-Sauce-with-Salmon_5.jpg",
+  "importCount": "8.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-dill-sauce-for-salmon-or-trout/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [],
+  "nutrition": {
+    "calories": 397,
+    "protein": 42.0,
+    "carbs": 4.2,
+    "fat": 22.8
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "sour cream ((1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Dijon or hot English mustard ((2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder or 1 small garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "fresh dill (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "lemon zest",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "milk ((or olive oil, for richness))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/4 - 1/2 tsp salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 1 tbsp oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  salmon or trout fillets ((125g / 4oz each))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix the Dill Sauce ingredients together (Mix well to loosen the sour cream). Adjust consistency with milk and tartness with lemon juice. Set aside for 10 minutes if you can - if using fresh garlic, set aside for 20 min."
+    },
+    {
+      "order": 2,
+      "instruction": "Pat fish dry with paper towel. Sprinkle with salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in skillet over medium high heat. Place fish in skillet skin side down. Cook for 2 minutes, then flip and cook the other side for 1 1/2 minutes."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove from skillet onto serving plates. Serve with Dill Sauce on the side, garnished with fresh dill and lemon wedges if desired."
+    }
+  ]
+}

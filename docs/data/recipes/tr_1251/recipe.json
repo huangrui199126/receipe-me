@@ -1,0 +1,87 @@
+{
+  "id": "tr_1251",
+  "title": "How I cook frozen peas - Garlic Buttered Peas",
+  "image": "https://www.recipetineats.com/tachyon/2023/10/Buttered-peas_2a.jpg",
+  "importCount": "0.9K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/how-i-cook-frozen-peas-recipe/",
+  "servings": 6,
+  "prepTime": 5,
+  "cookTime": 5,
+  "tags": [
+    "buttered peas",
+    "chickpea recipe",
+    "pea side dish recipe"
+  ],
+  "nutrition": {
+    "calories": 129,
+    "protein": 5.0,
+    "carbs": 12.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 3 tbsp  unsalted butter ((or other oil/fat))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1 lb  frozen peas ((Note 1))",
+      "emoji": "🫛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté garlic - Melt butter in a large saucepan over medium heat. Add garlic and cook for 30 seconds until light golden."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook - Add frozen peas, salt, pepper and water. Turn heat up to medium high and cook for 5 minutes, stirring every now and then, until the water is evaporated, the peas are hot and coated in the tasty garlic butter."
+    },
+    {
+      "order": 3,
+      "instruction": "Serve - Tumble into a bowl and serve!"
+    }
+  ]
+}

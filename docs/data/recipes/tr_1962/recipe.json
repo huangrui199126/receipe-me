@@ -1,0 +1,113 @@
+{
+  "id": "tr_1962",
+  "title": "Homemade Harissa (Spicy Red Pepper Sauce).",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/02/Harissa-1.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/homemade-harissa-spicy-red-pepper-sauce/",
+  "servings": 1,
+  "prepTime": 15,
+  "cookTime": 0,
+  "tags": [
+    "harissa"
+  ],
+  "nutrition": {
+    "calories": 563,
+    "protein": 6.0,
+    "carbs": 37.0,
+    "fat": 58.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  whole roasted red peppers (seeds removed*)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  dried ancho chilies*",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  dried chile de arbol*",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 in chipotle chiles adobo*",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "boiling water",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic (peeled + smashed)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Juice of half a lemon",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place the dried chiles in a heatproof bowl and pour the boiling water over top the chiles. Let sit for 20 to 30 minutes until the chiles are softened. Reserve chile water."
+    },
+    {
+      "order": 2,
+      "instruction": "Once chiles are softened, cut top off the chiles and remove the seeds from inside. Add to the bowl of a food processor or blender, along with the chipotle chiles in adobo, garlic and lemon juice."
+    },
+    {
+      "order": 3,
+      "instruction": "Purée, slowly pouring in the olive oil to thicken the sauce. If desired add 1-2 tablespoons of the reserved chile water to thin the sauce a bit (I did not do this). Season to taste with salt and extra lemon juice."
+    },
+    {
+      "order": 4,
+      "instruction": "The Harissa will keep refrigerated for a few weeks."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "tr_543",
+  "title": "French Lemon Tart - Tarte au Citron",
+  "image": "https://www.recipetineats.com/tachyon/2021/06/French-Lemon-Tart_5-main-SQ.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lemon-tart/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "lemon curd",
+    "lemon tart",
+    "lemon tart filling",
+    "tart au citron"
+  ],
+  "nutrition": {
+    "calories": 183,
+    "protein": 3.0,
+    "carbs": 13.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  sweet tart crust",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon zest ((1 lemon&#039;s worth))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "lemon juice ((from 1 - 2 lemons))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "12",
+      "unit": "tbsp",
+      "name": "/ 170g  unsalted butter (, cut in 1cm (1/2&quot;) cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  whole eggs (large, (Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  egg yolks ((from large-size eggs, Note 1))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Make tart crust per linked recipe, including blind baking the empty tart crust. Allow to fully cool before filling (to ensure it won&#039;t go soggy)."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven: Preheat oven to 180℃/350℉ (160℃ fan)"
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk ingredients together: Put all ingredients in a medium saucepan and whisk to combine."
+    },
+    {
+      "order": 4,
+      "instruction": "Thicken on stove: Place the saucepan on the stove over low / medium low heat. Whisk constantly, especially as the butter is melting, to ensure it doesn&#039;t split. Keeping stirring until the mixture thickens enough to visibly mound (ie. holds its shape briefly) on the surface when dolloped – about 5 minutes, though it might take longer depending on stove strength, saucepan heat retention etc. See video and photos for thickness guide. Don&#039;t take it off the stove until it&#039;s thick enough otherwise the Filling won&#039;t set."
+    },
+    {
+      "order": 5,
+      "instruction": "Strain into a bowl using a fine mesh strainer."
+    },
+    {
+      "order": 6,
+      "instruction": "Fill tart: Pour into tart shell and smooth the filling surface using an offset spatula or similar."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake: Bake for 5 minutes. It will still be a soft custard when you touch it but not liquidity. It will set more when cooled so it&#039;s sliceable."
+    },
+    {
+      "order": 8,
+      "instruction": "Cool: Cool tart fully to allow it to set before slicing to serve. Pictured with a dollop of creme fraiche (a thick, rich cream that has a slight tartness, and goes very well with the lemon tart) or whipped cream and even vanilla ice cream."
+    },
+    {
+      "order": 9,
+      "instruction": "Decorate if desired with lemon slices, edible flowers, raspberries. Else pipe on dollops of whipped cream or dust with icing sugar!"
+    }
+  ]
+}

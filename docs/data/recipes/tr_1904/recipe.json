@@ -1,0 +1,82 @@
+{
+  "id": "tr_1904",
+  "title": "Grilled Parmesan Polenta Chips.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2014/06/Grilled-Parmesan-Polenta-Chips-1.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/easy-grilled-parmesan-polenta-chips/",
+  "servings": 30,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "parmesan",
+    "polenta"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2.0,
+    "carbs": 0.0,
+    "fat": 2.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "ounce",
+      "name": "tubes polenta (removed from plastic, cut into 1/4-1/2-inch slices, 8)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "6",
+      "unit": "ounces",
+      "name": "parmesan cheese (grated (swap with nutritional yeast for a vegan version))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "salt + pepper (for sprinkling)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "gorgonzola or blue cheese (for serving (optional))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat a grill or grill pan to medium-high heat and lightly rub your grill with olive oil."
+    },
+    {
+      "order": 2,
+      "instruction": "Brush both sides of the polenta cakes with the olive oil. Sprinkle both sides with parmesan, salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Lay the polenta rounds in one layer on the grill, and grill for 5 minutes on each side or until both sides are golden and crunchy and have grill marks."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove the cakes from the grill and place on a large plate to cool. Serve warm or at room temperature. I love serving these with blue cheese, salsa or guacamole or simply snacking on them plain!"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": "tr_398",
+  "title": "Smoked Sausage and Rice - easy one pot dinner!",
+  "image": "https://www.recipetineats.com/tachyon/2021/08/One-Pot-Sausage-and-Rice_74-SQ.jpg",
+  "importCount": "9.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/smoked-sausage-and-rice-quick-one-pot-meal/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "kransky sausage recipe",
+    "sausage and rice",
+    "sausage rice casserole",
+    "smoked sausage recipe"
+  ],
+  "nutrition": {
+    "calories": 597,
+    "protein": 20.0,
+    "carbs": 64.0,
+    "fat": 28.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  onions ((medium), chopped (or 1 large))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  yellow capsicum (, cut into 1.5cm / 1\" squares)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red capsicum (, cut into 1.5cm / 1\" squares)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "400 g/ 14oz (~3)  kransky or other smoked sausages (, sliced 0.5cm thick / 1/4&quot; thick)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "smoked paprika ((sub normal paprika))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cup",
+      "name": "long grain white rice (, uncooked (Note 2 other rices))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "chicken stock/broth (, low sodium (or veg stock))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "frozen peas (, thawed)",
+      "emoji": "🫛",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "parsley (, chopped (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cook sausage: Heat 2 tbsp oil in a large heavy based pot over medium high heat. Add sausages and cook until golden. Remove with a slotted spoon."
+    },
+    {
+      "order": 2,
+      "instruction": "Cook onion and garlic: Add remaining 1 tbsp oil. Add garlic and onion, cook for 2 minutes. Add capsicum and cook for 2 minutes until onion is translucent."
+    },
+    {
+      "order": 3,
+      "instruction": "Add rice and liquid: Add rice, chicken stock, paprika, salt, pepper and the sausage. Stir, bring to boil, then reduce heat to low so it&#39;s simmering very gently."
+    },
+    {
+      "order": 4,
+      "instruction": "Cover and cook: Cover with lid, cook 20 minutes."
+    },
+    {
+      "order": 5,
+      "instruction": "Add peas and rest: Remove pot from stove. Working quickly, remove lid, add peas, then quickly put the lid back on. Rest 10 minutes - the residual heat with cook the peas."
+    },
+    {
+      "order": 6,
+      "instruction": "Fluff and serve: Add parsley. Use a fork to fluff the rice. Serve immediately!"
+    }
+  ]
+}

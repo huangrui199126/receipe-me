@@ -1,0 +1,75 @@
+{
+  "id": "tr_1082",
+  "title": "World's Best Easy Peanut Butter Cookies",
+  "image": "https://www.recipetineats.com/tachyon/2017/09/Peanut-Butter-Cookies-3-Ingredients-5.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/best-easy-peanut-butter-cookies/",
+  "servings": 14,
+  "prepTime": 10,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 168,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 265 g   peanut butter (, smooth or crunchy - commercial spread, NOT pure peanut butter (I use Bega) (Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "200 g/ 1 cup  , packed, brown sugar ((Note 2))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 2
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place ingredients in a bowl and mix to combine. It will be soft, too soft for scooping. Refrigerate for 10 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, preheat oven to 180C / 350F (standard) or 160C/320F (fan / convection)."
+    },
+    {
+      "order": 3,
+      "instruction": "Line 2 trays with parchment paper."
+    },
+    {
+      "order": 4,
+      "instruction": "Place 1 tbsp scoops of the dough onto the trays (I use a cookie scoop) 5cm/2\" apart."
+    },
+    {
+      "order": 5,
+      "instruction": "Dip a large fork in a bowl of hot tap water (stops fork sticking to dough). Press down on the dough, then press 90 degrees the other way (watch video) so the cookie is 1 cm / 2/5\" thick. Re-dip fork in water as required."
+    },
+    {
+      "order": 6,
+      "instruction": "Put both trays in the oven and bake for 10 minutes, swapping the trays halfway through, or until light golden on the surface and golden on the edges. (Or longer if you want crisper cookies)"
+    },
+    {
+      "order": 7,
+      "instruction": "Leave to cool on the tray. Store in an airtight container for up to 4 - 5 days."
+    }
+  ]
+}

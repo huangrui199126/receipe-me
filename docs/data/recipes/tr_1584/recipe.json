@@ -1,0 +1,255 @@
+{
+  "id": "tr_1584",
+  "title": "Chimichurri Steak Fajitas.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/04/Steak-Fajitas-with-Chimichurri-and-Cucumber-Salsa-2-2.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/steak-fajitas-chimichurri-cucumber-salsa/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "chimichuri",
+    "steak",
+    "steak fajitas"
+  ],
+  "nutrition": {
+    "calories": 770,
+    "protein": 30.0,
+    "carbs": 32.0,
+    "fat": 39.0
+  },
+  "healthScore": 5,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "chili powder",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "teaspoon",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "teaspoon",
+      "name": "cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest + juice of 2 limes",
+      "emoji": "🍋",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt + pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "pound",
+      "name": "flank steak (cut into 2-3 three smaller pieces)",
+      "emoji": "🥩",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  red bell pepper (seeded + sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  yellow pepper (seeded + sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  poblano pepper (seeded + sliced)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6-8  Old El Paso Flour Tortillas (warmed)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Queso fresco or cotija cheese (crumbed)",
+      "emoji": "🧀",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Guacamole or sliced avocado (for serving)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh cilantro (finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh parsley (finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 leave jalapenos or serrano chiles (seeded + chopped ( some seeds in for more heat if desired))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "4",
+      "unit": "cloves",
+      "name": "garlic (minced or grated)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tablespoons",
+      "name": "red wine vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  cucumber (diced)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  mango (peeled + diced)",
+      "emoji": "🥭",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Juice of 2 limes",
+      "emoji": "🍋",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "fresh cilantro (chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1-2 leave jalapenos (seeded + chopped ( some seeds in for more heat if desired))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt (to taste)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 25
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "In a large gallon size zip-top bag, combine the olive oil, chili powder, smoked paprika, cumin, lime juice and a good pinch of salt + pepper. Add the steak and rub the marinade into the steak, making sure the steak has been well seasoned. Place in the fridge for 1 hour or up to 12 hours (the longer you marinate the steak, the more flavor it will have)."
+    },
+    {
+      "order": 2,
+      "instruction": "Meanwhile, combine on the ingredients for the chimichurri in a bowl and toss to combine. Season with salt, taste and adjust as needed. Cover and keep in the fridge until ready to serve."
+    },
+    {
+      "order": 3,
+      "instruction": "For the cucumber salsa, combine all the ingredients in a bowl and toss to combine. Taste and add salt as needed. Cover and keep in the fridge until ready to serve."
+    },
+    {
+      "order": 4,
+      "instruction": "When ready to cook the steak, heat a large cast iron skillet or grill pan over medium-high heat. Add a tablespoon of olive oil and once hot, add the peppers and a pinch of salt and pepper. Stir-fry the peppers for 4-5 minutes. Remove the peppers from the pan. Return the pan to medium-high heat. Sear the steak for 3-4 minutes and then flip and continue cooking for another 4-5 minutes or until the steak reaches your desired doneness. Cooking times will vary depending on the size and thickness of your steak. Remove from the heat and allow to rest 5-10 minutes, then slice against the grain."
+    },
+    {
+      "order": 5,
+      "instruction": "To serve, divide the steak and peppers among warm tortillas and drizzle with chimichurri sauce. Add a scoop of salsa and crumble on the cheese. EAT!"
+    }
+  ]
+}

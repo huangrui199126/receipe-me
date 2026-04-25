@@ -1,0 +1,97 @@
+{
+  "id": "tr_706",
+  "title": "Everyday Cabbage Salad",
+  "image": "https://www.recipetineats.com/tachyon/2018/07/Everyday-Cabbage-Salad_8.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/everyday-cabbage-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "cabbage salad"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "shredded green cabbage",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "shredded red cabbage ((or more green))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded carrot ((or more cabbage))",
+      "emoji": "🥕",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "cidar vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "oil (vegetable or canola, or light olive oil)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2 - 2 tbsp white sugar (adjust to taste)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Shake Dressing ingredients in a jar. Start with 1 1/2 tbsp sugar and adjust to taste."
+    },
+    {
+      "order": 2,
+      "instruction": "Place Salad ingredients in a large bowl. Pour over Dressing, toss. Set aside 20 minutes - mound will reduce by almost half and become juicy! Serve."
+    }
+  ]
+}

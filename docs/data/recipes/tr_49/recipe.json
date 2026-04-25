@@ -1,0 +1,123 @@
+{
+  "id": "tr_49",
+  "title": "Bacon French Toast Roll Ups",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/Bacon-French-Toast-Roll-Ups-4.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/bacon-french-toast-roll-ups/",
+  "servings": 2,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 446,
+    "protein": 22.1,
+    "carbs": 29.5,
+    "fat": 27.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "fresh soft sandwich bread ((I used white, but you could use wholemeal, wholegrain etc) (note 1))",
+      "emoji": "🍞",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "6",
+      "unit": "slices",
+      "name": "of streaky bacon (, rind removed (note 3))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg ((large) (note 4))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "milk ((full cream or low fat))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Nachos Cheese Dip",
+      "emoji": "🧀",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut crusts off the bread."
+    },
+    {
+      "order": 2,
+      "instruction": "Use a rolling pin and roll back and forth 3 or 4 times on each piece of bread to flatten it out. Because it is fresh bread, it should become a bit sticky."
+    },
+    {
+      "order": 3,
+      "instruction": "Combine egg, milk and salt in a dish or bowl that is large enough for a roll up to lie flat in (so you can roll it in the egg mixture). Whisk with a fork to combine."
+    },
+    {
+      "order": 4,
+      "instruction": "Heat large pan over high heat (no oil required because the bacon is so fatty)."
+    },
+    {
+      "order": 5,
+      "instruction": "Place bacon in the pan and sear each side until browned but not until it is crispy. If it is too crispy, it will just crumble when rolled up."
+    },
+    {
+      "order": 6,
+      "instruction": "Place one piece of bacon in the middle of each piece of bread."
+    },
+    {
+      "order": 7,
+      "instruction": "Roll up the bread, ending with the seam side down. Press down lightly to help it stay in place."
+    },
+    {
+      "order": 8,
+      "instruction": "Wipe pan clean, place butter in pan and return pan to heat."
+    },
+    {
+      "order": 9,
+      "instruction": "Roll a roll up in the egg mixture, then shake off excess. Enclose your fist around it (lightly) and twist the roll up a few times back and forth. This rubs the egg mixture into the roll up and helps ensure the seam remains sealed. Repeat with remaining roll ups."
+    },
+    {
+      "order": 10,
+      "instruction": "Place roll ups in the pan. Cook, rotating, for around 3 to 4 minutes until all sides are golden brown."
+    },
+    {
+      "order": 11,
+      "instruction": "Remove and serve immediately, with warmed Nachos Cheese Dip (if using)."
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "tr_199",
+  "title": "Giant Pancakes",
+  "image": "https://www.recipetineats.com/tachyon/2014/08/Giant-Pancake-2-1.jpg",
+  "importCount": "10K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/giant-pancakes-strawberries/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 394,
+    "protein": 13.6,
+    "carbs": 77.8,
+    "fat": 3.1
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2 1/2",
+      "unit": "cups",
+      "name": "plain flour *",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "5",
+      "unit": "tsp",
+      "name": "baking powder *",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla essence",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "+ 2 tbsp   milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Sliced strawberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Golden syrup",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Icing sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine flour, baking powder, sugar and salt in a bowl and mix briefly with a whisk to combine."
+    },
+    {
+      "order": 2,
+      "instruction": "Add vanilla essence, egg and milk. Whisk until lump free."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat butter in non stick pan (25cm/10\" diameter) over medium high heat. Use an egg flip to spread the butter all over the pan."
+    },
+    {
+      "order": 4,
+      "instruction": "Use a paper towel to wipe the butter of the pan thoroughly."
+    },
+    {
+      "order": 5,
+      "instruction": "Pour half the batter in the pan and swirl around to evenly cover the base of the pan."
+    },
+    {
+      "order": 6,
+      "instruction": "Cook until lots of bubbles appear on the surface. Lift up the edge and peer underneath - if it is golden, it is ready to flip. About 2 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Flip the pancake and cook the other side for 1 1/2 to 2 minutes. The other side will not take as long to cook."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove from pan and repeat with remaining batter. You will not need to put butter in the pan again."
+    },
+    {
+      "order": 9,
+      "instruction": "To serve (optional) - top with slices of strawberries and a sprinkling of icing sugar with golden syrup on the side."
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "tr_338",
+  "title": "Juicy Slow Cooker Turkey Breast",
+  "image": "https://www.recipetineats.com/tachyon/2014/12/Slow-Cooker-Turkey-Breast_1.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/juicy-slow-cooker-turkey-breast/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 480,
+  "tags": [
+    "slow cooker turkey breast",
+    "turkey breast"
+  ],
+  "nutrition": {
+    "calories": 323,
+    "protein": 44.7,
+    "carbs": 2.6,
+    "fat": 13.8
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "kg",
+      "name": "/ 4 lb  turkey breast, skin on, bone in or boneless (if using frozen, thaw it) (Note 1)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "head",
+      "name": "of garlic, cut in half horizontally",
+      "emoji": "🧄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (brown, yellow or white), unpeeled, cut in half",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "sprigs",
+      "name": "of thyme (or 2 tsp dried thyme leaves)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  grinds of black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 1/2 - 2 tbsp olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chicken stock/broth (or water), for topping up liquid (see Gravy step 1)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "/ 50g  butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 35g  flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place Rub ingredients in a bowl and mix to combine, it should be a wet paste."
+    },
+    {
+      "order": 2,
+      "instruction": "Pat the turkey dry all over with paper towels. Slather with the Rub, using most for the side and top."
+    },
+    {
+      "order": 3,
+      "instruction": "Place the garlic, onion and thyme face down in the slow cooker. Place the turkey breast on top so it is elevated."
+    },
+    {
+      "order": 4,
+      "instruction": "Slow Cook on LOW for 6 hours (do not use high) or until internal temperature reads 165F/75C when thermometer is inserted into the middle. Check internal temperature at 5 hours if you can. (To roast, follow this recipe).&nbsp;"
+    },
+    {
+      "order": 5,
+      "instruction": "Remove turkey from the slow cooker (do not leave in slow cooker on Warm setting) and let it rest for 20 minutes before crisping the skin."
+    },
+    {
+      "order": 6,
+      "instruction": "Preheat gril/broiler to high."
+    },
+    {
+      "order": 7,
+      "instruction": "Place an oven shelf 30cm / 1 foot from the heat source."
+    },
+    {
+      "order": 8,
+      "instruction": "Remove turkey breast from the slow cooker into a heatproof serving dish."
+    },
+    {
+      "order": 9,
+      "instruction": "Place on the oven shelf and broil for 3 to 5 minutes until the skin is crispy. Keep an eye on it - it browns very quickly!"
+    },
+    {
+      "order": 10,
+      "instruction": "Serve immediately with gravy on the side."
+    },
+    {
+      "order": 11,
+      "instruction": "Strain the liquid into a measuring jug, squishing the garlic etc to extract all the flavour. If you are short of 2 cups, top up with chicken broth (I usually get 2 cups of liquid from a 4 lb / 2 kg turkey breast)."
+    },
+    {
+      "order": 12,
+      "instruction": "Melt butter in a saucepan over medium heat. Add flour and mix to combine. Pour about 1/2 cup of liquid into the flour mixture and mix until it forms a paste. Slowly add remaining liquid, stirring as your go. Use a whisk if required to make the gravy smooth. Simmer until thickened - take it off before it is as thick as you want because it will continue to thicken."
+    },
+    {
+      "order": 13,
+      "instruction": "Season to taste with salt and pepper. Serve with turkey."
+    }
+  ]
+}

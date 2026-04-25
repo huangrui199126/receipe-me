@@ -1,0 +1,98 @@
+{
+  "id": "tr_1112",
+  "title": "Cherry Tomato Salad",
+  "image": "https://www.recipetineats.com/tachyon/2020/03/Tomato-Basil-Salad_4-SQ.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/tomato-salad/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "cherry tomato salad",
+    "tomato basil salad"
+  ],
+  "nutrition": {
+    "calories": 115,
+    "protein": 2.0,
+    "carbs": 8.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "750g/ 1.5lb   cherry tomatoes or grape tomatoes ((or large tomatoes))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "basil leaves (, tightly packed, finely sliced (Note 2))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "cider vinegar ((Note 3 for others))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2.5",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "dijon mustard ((or other non spicy mustard))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "each salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Shake Dressing in a jar. Taste and add more salt or pepper, or oil if you want less tart."
+    },
+    {
+      "order": 2,
+      "instruction": "Cut Tomatoes - cut cherry tomatoes / grape tomatoes in half. If using large ones, cut into wedges then bite size pieces."
+    },
+    {
+      "order": 3,
+      "instruction": "Place tomatoes, onion and basil in a bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour over Dressing. Gently toss and serve immediately."
+    }
+  ]
+}

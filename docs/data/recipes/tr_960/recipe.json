@@ -1,0 +1,145 @@
+{
+  "id": "tr_960",
+  "title": "Creamy Corn Casserole",
+  "image": "https://www.recipetineats.com/tachyon/2016/11/Creamy-Corn-Casserole_0.jpg",
+  "importCount": "3.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/creamy-corn-casserole/",
+  "servings": 10,
+  "prepTime": 10,
+  "cookTime": 55,
+  "tags": [
+    "corn casserole"
+  ],
+  "nutrition": {
+    "calories": 297,
+    "protein": 4.0,
+    "carbs": 29.0,
+    "fat": 18.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2/3",
+      "unit": "cup",
+      "name": "(100g)  flour* ((all purpose/plain))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(80g)  yellow cornmeal* ((Note 2))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(55g)  white sugar*",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "baking powder*",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt*",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "of  cayenne pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "420",
+      "unit": "g",
+      "name": "/ 14 oz   creamed corn ((Note 3 for sub))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "420",
+      "unit": "g",
+      "name": "/ 14 oz   canned corn kernels - do not drain!!",
+      "emoji": "🌽",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  eggs (, beaten)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 stick / 115 g   unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(230g)  sour cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 325F/165C."
+    },
+    {
+      "order": 2,
+      "instruction": "Whisk Dry ingredients in a bowl."
+    },
+    {
+      "order": 3,
+      "instruction": "Add Wet Ingredients, including all the liquid in the canned corn kernels. Mix well."
+    },
+    {
+      "order": 4,
+      "instruction": "Pour into a 2-2.5 quart / 2-2.5 litre / 8 cup casserole dish."
+    },
+    {
+      "order": 5,
+      "instruction": "Bake for 55 - 60 minutes (standard ovens) or 50 minutes (fan forced / convection), or until set but still a bit jiggle in the centre (it will set when cooled). The top should be a deep golden brown."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve warm or even at room temperature."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "tr_1117",
+  "title": "Miso butter corn",
+  "image": "https://www.recipetineats.com/tachyon/2023/09/Miso-butter-corn_8.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/miso-butter-corn/",
+  "servings": 4,
+  "prepTime": 0,
+  "cookTime": 0,
+  "tags": [
+    "miso butter corn",
+    "sauteed corn"
+  ],
+  "nutrition": {
+    "calories": 326,
+    "protein": 9.0,
+    "carbs": 22.0,
+    "fat": 23.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  unsalted butter (, softened)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "white miso ((shiro miso) (Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7oz  streaky bacon (, chopped into 1cm / 1/2\" pieces)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "corn kernels (, preferably freshly cut off 3 - 4 corn cobs else frozen thawed (Note 2))",
+      "emoji": "🌽",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, finely minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cooking sake (, optional (sub mirin or dry sherry, Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "white pepper ((sub black pepper))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "green onion (, cut into 0.5cm/0.2\" slices)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Miso butter - Mix butter and miso together in a small bowl until combined."
+    },
+    {
+      "order": 2,
+      "instruction": "Golden bacon - Put bacon in an unheated large non stick pan, no oil. Turn the stove onto medium high heat - as it heats up, the fat will start to melt so the bacon cooks in its own fat. Cook for 3 to 4 minutes until golden, then use a slotted spoon to transfer onto a paper towel lined plate. Reserve bacon fat in the pan."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook corn - Top up with butter if you don’t have 1 tbsp fat left in pan. Still on medium high, add corn, then stir only every minute or so (this lets it get some nice golden spots), for about 5 minutes until corn is just cooked and is sweet. Add garlic, stir for another 30 seconds. Add sake, stir until evaporated (~15 seconds)."
+    },
+    {
+      "order": 4,
+      "instruction": "Melt miso butter - Turn off stove. Add miso butter, stir until melted. Add pepper, bacon and green onion, toss until coated with sauce. Serve!"
+    },
+    {
+      "order": 5,
+      "instruction": "Serve as a side dish. In a corn taco with a fried egg and avocado (OMG SO GOOD)."
+    }
+  ]
+}

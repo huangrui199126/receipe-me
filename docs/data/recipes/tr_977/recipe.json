@@ -1,0 +1,109 @@
+{
+  "id": "tr_977",
+  "title": "Easy French Apple Tart - Tarte Fine aux Pommes",
+  "image": "https://www.recipetineats.com/tachyon/2025/05/Easy-French-Apple-Tart_7.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/easy-french-apple-tart/",
+  "servings": 4,
+  "prepTime": 12,
+  "cookTime": 30,
+  "tags": [
+    "apple puff pastry recipe",
+    "easy apple tart",
+    "easy tart",
+    "french apple tart",
+    "puff pastry dessert"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 4.0,
+    "carbs": 38.0,
+    "fat": 20.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 square sheet butter puff pastry ((25cm / 10\" square), barely thawed (Note 1))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "5",
+      "unit": "tsp",
+      "name": "caster sugar (/ superfine sugar (sub regular / granulated))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 large gala apples ((or 3 medium), peeled, cut in half, core removed, sliced 0.5cm / 0.2\" thick (Note 2))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Icing sugar / powdered sugar (, for dusting (optional))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Vanilla ice cream ((not really optional!))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 5
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "ABBREVIATED: Sprinkle paper with 3t sugar, put puff on, fold in 1cm / 0.4&quot; edge. Top with apple, brush butter, sprinkle 2t sugar. Bake on preheated tray at 210°C/375°F (190°C fan) for 30 minutes."
+    },
+    {
+      "order": 2,
+      "instruction": "Hot tray - Put a baking tray in the oven then turn it on and pre-heat to 210°C/375°F (190°C fan-forced)."
+    },
+    {
+      "order": 3,
+      "instruction": "Sugar underside of puff - Place a sheet of baking paper (parchment paper) on the counter. Sprinkle with 3 teaspoons of sugar, roughly in the shape of the puff pastry sheet."
+    },
+    {
+      "order": 4,
+      "instruction": "Fold edge - Place puff pastry on top of the sugar. Fold the edges inwards to create a 1cm / 0.4&quot; edge."
+    },
+    {
+      "order": 5,
+      "instruction": "Apples - Arrange the apples slices in 3 rows, overlapping them slightly."
+    },
+    {
+      "order": 6,
+      "instruction": "Butter and sugar - Brush the apple slices and edges with melted butter, then sprinkle with the sugar (apple and edge)."
+    },
+    {
+      "order": 7,
+      "instruction": "Bake - Transfer the tart on the paper to the hot baking tray (keep it on the paper). Bake for 30 minutes, or until the edges are golden."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve - Cut into 6, dust with icing sugar and serve warm with vanilla ice cream."
+    }
+  ]
+}

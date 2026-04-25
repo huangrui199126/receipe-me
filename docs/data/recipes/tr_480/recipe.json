@@ -1,0 +1,179 @@
+{
+  "id": "tr_480",
+  "title": "Oven Baked Sausages with Potatoes, Vegetable AND Gravy!",
+  "image": "https://www.recipetineats.com/tachyon/2018/03/Sausage-Bake_6.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/one-pan-sausage-and-vegetable-bake-with-gravy/",
+  "servings": 4,
+  "prepTime": 15,
+  "cookTime": 45,
+  "tags": [
+    "cooking sausages in the oven",
+    "oven baked sausage",
+    "sausage bake"
+  ],
+  "nutrition": {
+    "calories": 649,
+    "protein": 26.0,
+    "carbs": 32.0,
+    "fat": 46.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 1.4 lb  baby potatoes (, halved)",
+      "emoji": "🥔",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  carrots (, peeled and cut into 2\"/5cm pieces)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  red onions (, each cut into 8 wedges)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves, minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8 - 10  sausages (500-700g / 1-1.4lb) ((Note 2))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil spray ((optional))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "/ 30g  melted butter, unsalted",
+      "emoji": "🧈",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "flour ((plain / all purpose))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "/ 500 ml  beef broth (or chicken) ( (Note 3))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh thyme (, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200C/390F (standard) or 180C/350F (fan / convection)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place Vegetable ingredients in a large bowl. Toss well to coat."
+    },
+    {
+      "order": 3,
+      "instruction": "Add sausages and toss briefly.&nbsp;"
+    },
+    {
+      "order": 4,
+      "instruction": "Transfer into roasting pan. Pan should be of a size so the vegetables are stacked about 2 deep - see photos and video. Rearrange sausages so they are on top."
+    },
+    {
+      "order": 5,
+      "instruction": "In the same bowl used for the vegetables, add butter and flour. Whisk."
+    },
+    {
+      "order": 6,
+      "instruction": "Add a bit of beef broth and whisk, then whisk in remaining broth. (Don't worry if you end up with some floating butter bits)"
+    },
+    {
+      "order": 7,
+      "instruction": "Pour down the side of the pan (don't pour over the sausages or veggies)."
+    },
+    {
+      "order": 8,
+      "instruction": "Optional: Spray sausages with oil - browns slightly better (especially lean sausages)."
+    },
+    {
+      "order": 9,
+      "instruction": "Bake 25 minutes. Turn sausages. Spray again with oil (optional) then bake for a further 25 minutes or until sausages are browned and potatoes are soft."
+    },
+    {
+      "order": 10,
+      "instruction": "Serve Sausages and Vegetables with Gravy on top, garnished with fresh thyme leaves if desired. (See notes for Gravy thickness adjustment)"
+    }
+  ]
+}

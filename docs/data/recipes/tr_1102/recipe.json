@@ -1,0 +1,114 @@
+{
+  "id": "tr_1102",
+  "title": "Vermouth Jus",
+  "image": "https://www.recipetineats.com/tachyon/2021/04/Vermouth-Jus_7-copy.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/vermouth-jus-sauce/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 20,
+  "tags": [
+    "jus",
+    "vermouth jus"
+  ],
+  "nutrition": {
+    "calories": 109,
+    "protein": 3.0,
+    "carbs": 3.0,
+    "fat": 9.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 tbsp/ 30g  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  eschallot (, thinly sliced (aka French onion. US: shallot, Note 1))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "dry vermouth ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "homemade beef stock ((cannot use store bought, Note 3))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "salt (, kosher/cooking (Note 4))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/8",
+      "unit": "tsp",
+      "name": "black pepper (, finely ground)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Melt butter in a skillet over medium low heat. Add eschalot and cook for 4 - 5 minutes, until softened and sweet. Do not allow to colour."
+    },
+    {
+      "order": 2,
+      "instruction": "Add vermouth and turn the heat up to medium-high. Let it simmer, scraping the base of the pan to dissolve any fond (stuck caramelised bits) into the liquid, until the liquid is almost totally evaporated. The alcohol cooks out during this step."
+    },
+    {
+      "order": 3,
+      "instruction": "Add beef stock and let it simmer for 6 to 7 minutes until it reduces by 3/4 (exact time will differ depending on stove strength and pan size)."
+    },
+    {
+      "order": 4,
+      "instruction": "Add cream and simmer for a further 4 minutes or until it changes from a pale cream colour to a medium brown colour."
+    },
+    {
+      "order": 5,
+      "instruction": "Season with salt and pepper, and taste. If it tastes a bit thin, continue to reduce."
+    },
+    {
+      "order": 6,
+      "instruction": "Strain sauce through a fine mesh strainer into a bowl. If you have much more than 100ml / 3.5 oz jus once strained, then return to pan and simmer on low for a bit longer. (Be sure to use a rubber spatula so you don't waste a drop!)."
+    },
+    {
+      "order": 7,
+      "instruction": "Serving:"
+    },
+    {
+      "order": 8,
+      "instruction": "Jus is an intensely-flavoured sauce and so is used sparingly (allow 1.5 tbsp - 2 tbsp max per serve). Restaurants will typically serve it already poured with the meat, rather than a jug for people to serve themselves. Drizzle it on the plate around or on protein using a spoon (pan seared or roast slices). See in post for some ideas, including how I plated up the Crispy Pork Belly slices using this jus."
+    }
+  ]
+}

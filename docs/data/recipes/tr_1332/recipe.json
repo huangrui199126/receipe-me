@@ -1,0 +1,99 @@
+{
+  "id": "tr_1332",
+  "title": "Chimichurri butter",
+  "image": "https://www.recipetineats.com/tachyon/2025/11/Chimichurri-butter_1.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/chimichurri-butter/",
+  "servings": 6,
+  "prepTime": 10,
+  "cookTime": 2,
+  "tags": [
+    "chimichurri butter",
+    "roast beef sauce",
+    "steak sauce"
+  ],
+  "nutrition": {
+    "calories": 115,
+    "protein": 0.3,
+    "carbs": 1.0,
+    "fat": 13.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 1 stick (8 tbsp)  unsalted butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "cooking salt / kosher salt ((reduce by 30% for table salt, + 30% for flakes))",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "garlic (, finely minced (3 - 4 cloves))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "large red chilli (, deseeded, finely minced (or Birds Eye/Thai, for extra spicy!))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "red wine vinegar (or lemon juice)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "finely minced parsley leaves ((about 1 cup leaves before chopping))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh oregano (, finely minced)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Sauté - Melt butter with the salt on medium heat. Sauté garlic and red chilli until the garlic is very light golden - about 30 seconds."
+    },
+    {
+      "order": 2,
+      "instruction": "Herbs - Remove from heat. Let it cool for at least 5 minutes. Stir in the parsley, oregano and vinegar just before serving."
+    },
+    {
+      "order": 3,
+      "instruction": "Serve warm! (ie butter melted). Spoon over steak, roast beef slices, vegetables (cooked), other cooked proteins (fish, chicken, prawns/shrimp, pork)."
+    },
+    {
+      "order": 4,
+      "instruction": "Making ahead: You can let the garlic butter sit around for a while (even overnight), just melt to liquify before stirring in the parsley and oregano."
+    }
+  ]
+}

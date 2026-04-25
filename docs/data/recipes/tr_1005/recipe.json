@@ -1,0 +1,154 @@
+{
+  "id": "tr_1005",
+  "title": "Caramelised Vietnamese Shredded Beef",
+  "image": "https://www.recipetineats.com/tachyon/2019/04/Vietnamese-Shredded-Beef_5.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/caramelised-vietnamese-shredded-beef/",
+  "servings": 3,
+  "prepTime": 14,
+  "cookTime": 6,
+  "tags": [
+    "vietnamese beef",
+    "vietnamese recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "500",
+      "unit": "g",
+      "name": "/ 1lb (3 cups)  leftover cooked brisket or other beef (, shredded or chopped (Note 1))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp oil (, for cooking)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fish sauce",
+      "emoji": "🐟",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce (, light or all purpose)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2.5",
+      "unit": "tbsp",
+      "name": "(packed) brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemongrass paste ((Note 2))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Rice or noodles",
+      "emoji": "🍚",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lime wedges OR Nuoc Cham ((Note 3))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh coriander/cilantro leaves (and/or finely sliced green onions)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Finely sliced red chilli, sliced cucumber, crushed peanuts*",
+      "emoji": "🥒",
+      "section": "",
+      "order": 12
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Marinade in a bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Add shredded beef and mix. Set aside 5 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a large skillet over high heat. Add about half the beef and spread out in single layer."
+    },
+    {
+      "order": 4,
+      "instruction": "Leave undisturbed until golden (about 1 minute). Flip then cook the other side just briefly (about 30 seconds) just to heat and get a touch of golden, then remove."
+    },
+    {
+      "order": 5,
+      "instruction": "Repeat with remaining beef."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve over rice, using either limes or Nuoc Cham as the sauce, and garnishes of choice (I used them all in the photos!)"
+    }
+  ]
+}

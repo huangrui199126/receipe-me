@@ -1,0 +1,157 @@
+{
+  "id": "tr_231",
+  "title": "Caramel Slice",
+  "image": "https://www.recipetineats.com/tachyon/2016/04/Caramel-Slice_2-1.jpg",
+  "importCount": "2.3K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/caramel-slice/",
+  "servings": 12,
+  "prepTime": 15,
+  "cookTime": 40,
+  "tags": [
+    "caramel slice"
+  ],
+  "nutrition": {
+    "calories": 470,
+    "protein": 5.0,
+    "carbs": 54.0,
+    "fat": 27.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "flour, (plain/all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "brown sugar (, loosely packed)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "desiccated coconut ((US: sweetened finely shredded coconut, Note 1))",
+      "emoji": "🥥",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 4.5oz   unsalted butter (, melted)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "125",
+      "unit": "g",
+      "name": "/ 4.5oz  unsalted butter (, roughly chopped)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(80g)  brown sugar (, loosely packed)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract ((or essence))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "395",
+      "unit": "g",
+      "name": "/ 14oz  sweetened condensed milk ((1 can, 300ml) (Note 1b))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 7oz  dark or milk melting chocolate  ((US: semi-sweet chocolate chips))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 180°C/350°F (fan 160°C)"
+    },
+    {
+      "order": 2,
+      "instruction": "Grease and line a 28x 18cm (lamington pan) / 7&quot; x 11&quot; rectangle pan with baking/parchment paper (Note 2). Have overhang for ease of removal."
+    },
+    {
+      "order": 3,
+      "instruction": "Mix together Base ingredients and press into a pan (I use an egg flip)"
+    },
+    {
+      "order": 4,
+      "instruction": "Bake for 15 minutes until the surface is golden. Cool in fridge if you have time (Note 3)."
+    },
+    {
+      "order": 5,
+      "instruction": "Lower oven to oven to 160°C/320°F (fan 140°C)"
+    },
+    {
+      "order": 6,
+      "instruction": "Place butter, sugar and vanilla in a saucepan over medium low heat. When the butter is melted, whisk to combine with sugar, then just leave it until it comes to a simmer."
+    },
+    {
+      "order": 7,
+      "instruction": "When bubbles appear, add condensed milk. Whisk constantly for 5 minutes (Note 4), until you start getting some big slow bubbles on the base."
+    },
+    {
+      "order": 8,
+      "instruction": "Once bubbles start appearing, whisk for 1 minute, then pour onto Base. Tilt pan to spread evenly."
+    },
+    {
+      "order": 9,
+      "instruction": "Bake for 12 minutes. Don&#039;t worry if you get splotchy brown bits (this happens with ovens that don&#039;t distribute heat evenly)."
+    },
+    {
+      "order": 10,
+      "instruction": "Cool on counter for 20 minutes then refrigerate 30 minutes - bottom of pan should be warm but surface cool (not cold) to touch. (Note 5)"
+    },
+    {
+      "order": 11,
+      "instruction": "Place chocolate and oil in a microwave proof bowl. Microwave in 30 second bursts, stirring in between, until chocolate is fully melted (takes me 4 x 30 sec)."
+    },
+    {
+      "order": 12,
+      "instruction": "Pour over caramel, spread with spatula. Then gently shake pan to make the surface completely flat."
+    },
+    {
+      "order": 13,
+      "instruction": "Refrigerate 1 hour or until set. Remove from fridge and leave out for 5 minutes to take chill out of chocolate slightly. Then cut into bars or squares to serve!"
+    }
+  ]
+}

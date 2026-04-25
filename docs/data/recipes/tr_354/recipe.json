@@ -1,0 +1,98 @@
+{
+  "id": "tr_354",
+  "title": "Lemonade Scones - 3 Ingredients From Scratch",
+  "image": "https://www.recipetineats.com/tachyon/2019/10/Lemonade-Scones_2-SQ.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/lemonade-scones/",
+  "servings": 10,
+  "prepTime": 10,
+  "cookTime": 15,
+  "tags": [
+    "lemonade scones",
+    "scones recipe"
+  ],
+  "nutrition": {
+    "calories": 188,
+    "protein": 4.1,
+    "carbs": 31.5,
+    "fat": 4.8
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "3 1/2",
+      "unit": "cups",
+      "name": "self raising flour (, plus extra for dusting (flour sub - Note 1))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "thickened cream ((heavy cream), not whipped!)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "lemonade ((Note 2))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Whipped cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Jam",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 200°C/390°F (180°C fan). Line tray with baking/parchment paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the flour, cream and lemonade in a bowl and mix until flour is mostly combined. Do not over mix, it will make the scones dense! The dough should be soft and fairly sticky."
+    },
+    {
+      "order": 3,
+      "instruction": "Turn out onto a floured surface, and knead gently just 3 - 5 times to bring dough together, then gently pat into a disc shape 2.5cm/1&quot; thick."
+    },
+    {
+      "order": 4,
+      "instruction": "Use a 6cm/2.5&quot; round cutter to cut rounds - press straight up and down (don&#x27;t twist), flour cutter in between. (Note 4)"
+    },
+    {
+      "order": 5,
+      "instruction": "Use a knife or similar to scoop up (avoid touching sides) and place on tray, slightly touching each other (they help each other rise)."
+    },
+    {
+      "order": 6,
+      "instruction": "Brush the tops lightly with milk. (Note 5)"
+    },
+    {
+      "order": 7,
+      "instruction": "Bake for 15 minutes until golden on top. Place on rack to cool. Place tea towel over them to stop the tops from getting crusty."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve with copious amounts of cream and jam, and of course tea!"
+    }
+  ]
+}

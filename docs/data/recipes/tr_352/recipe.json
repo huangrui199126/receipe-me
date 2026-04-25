@@ -1,0 +1,179 @@
+{
+  "id": "tr_352",
+  "title": "Mediterranean Chicken Dinner",
+  "image": "https://www.recipetineats.com/tachyon/2015/11/Lemon-Garlic-Chicken-Potato-Bake_7-copy.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/mediterranean-baked-chicken-dinner/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 55,
+  "tags": [
+    "chicken and potatoes",
+    "chicken dinner",
+    "chicken tray bake"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 31.5,
+    "carbs": 50.6,
+    "fat": 10.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "/ 2lb  bone in, skin on chicken thighs and drumsticks ((Note 1))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125 ml)  lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "6",
+      "unit": "cloves",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Dijon mustard ((Optional - Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "honey or 1 tbsp sugar ((or maple or other sweetener))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dried oregano",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "EACH salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  smallish potatoes (7.5cm/3&quot; wide) (, quartered (Note 3))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  red onions (, quartered)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(250ml)  chicken broth/stock (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "250g/8oz  cherry tomatoes ((whole))",
+      "emoji": "🍅",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "EACH salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Olive oil (or oil spray)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh oregano (, for garnish (optional))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 15
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix Marinade ingredients in a bowl, then add chicken and toss to coat. If time permits, marinate for 24 hours, otherwise proceed to next step."
+    },
+    {
+      "order": 2,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 3,
+      "instruction": "Place potatoes and onion in baking pan, top with chicken. Pour over the chicken stock then marinade from the bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Bake for 20 minutes, then remove from oven."
+    },
+    {
+      "order": 5,
+      "instruction": "Scatter over cherry tomatoes, drizzle everything with 1 tbsp olive oil, sprinkle with salt and pepper. Bake for a further 30 - 35 minutes until chicken is golden and potatoes are cooked."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove from oven, garnish with fresh oregano if using and serve!"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "tr_1565",
+  "title": "My Perfect Vanilla Bean Iced Coffee.",
+  "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/05/My-Perfect-Vanilla-Bean-Iced-Coffee-10-1.jpg",
+  "importCount": "5.0K",
+  "sourcePlatform": "Instagram",
+  "sourceUrl": "https://www.halfbakedharvest.com/perfect-vanilla-bean-iced-coffee/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 5,
+  "tags": [
+    "iced coffee",
+    "vanilla"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 1.0,
+    "carbs": 15.0,
+    "fat": 2.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "whole coffee beans",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4-5 cups coconut water or water",
+      "emoji": "🥥",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 (14 ounce) can full-fat coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  whole vanilla bean, seeds removed ((or 1 tablespoon vanilla extract))",
+      "emoji": "🫘",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-4 tablespoons honey (maple syrup or coconut sugar)",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "cold brew coffee",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2-4 tablespoons vanilla coconut milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "coffee ice cubs or regular ice cubes",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "brewed or cold brewed coffee",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "tablespoons",
+      "name": "cocoa or cacao powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tablespoon",
+      "name": "honey or maple",
+      "emoji": "🍯",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Grind you coffee beans, then add them to a large pitcher or bowl. Pour over 4-5 cups of coconut water (what I like to use) or water. Stir gently to combine and then cover with a piece of cheesecloth or a kitchen towel. Let sit a room temperature for at least 12 hours or up to overnight. Strain the coffee through a mesh strainer lined with a piece of cheesecloth. Chill in the fridge for up to 1 week."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the coconut milk, vanilla bean seeds and honey in a small sauce pan and bring to a low boil. Simmer 3-4 minutes, then remove from the heat, cover and steep 10-15 minutes. Transfer the milk to a glass jar and store in the fridge for up to 1 week."
+    },
+    {
+      "order": 3,
+      "instruction": "Fill your glass with ice cubes (or Chocolate Coffee Ice Cubes - recipe below), pour your cold brewed coffee overtop. Add the vanilla coconut milk to your liking. DRINK!"
+    },
+    {
+      "order": 4,
+      "instruction": "In a 4 cup glass measuring cup, whisk together the coffee, cocoa powder and honey until combined. Divide between ice cube trays and freeze until frozen. Use as desired."
+    }
+  ]
+}

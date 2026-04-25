@@ -1,0 +1,131 @@
+{
+  "id": "tr_1187",
+  "title": "Quick tomato chutney sauce for burgers",
+  "image": "https://www.recipetineats.com/tachyon/2022/08/Homemade-Burger-Sauce-Tomato_7.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/quick-tomato-chutney-burger-sauce/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 30,
+  "tags": [
+    "sauce for burgers",
+    "tomato chutney",
+    "tomato relish"
+  ],
+  "nutrition": {
+    "calories": 65,
+    "protein": 2.0,
+    "carbs": 15.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "800",
+      "unit": "g",
+      "name": "/ 28 oz  canned tomato (, crushed or diced)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "apple cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "onion powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "smoked paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "mustard powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "celery salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking/kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix all the ingredients in a medium saucepan."
+    },
+    {
+      "order": 2,
+      "instruction": "Simmer Bring to a simmer over medium heat then lower heat to medium low so it&#39;s simmering gently."
+    },
+    {
+      "order": 3,
+      "instruction": "Cook for 25 minutes, stirring regularly, until it reduces down and is thick enough so you can draw a path across the base of the saucepan (see video or step photos)."
+    },
+    {
+      "order": 4,
+      "instruction": "Cool &amp; slather: Transfer into a bowl. For use on burgers, cool then slather. Browse my Burger collection for options! If using to dollop or dip for any number of the other suggested uses in the post, use warm or cooled!"
+    }
+  ]
+}

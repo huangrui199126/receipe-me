@@ -1,0 +1,95 @@
+{
+  "id": "tr_1425",
+  "title": "Cucumber lime jalapeno granita for oysters",
+  "image": "https://www.recipetineats.com/tachyon/2023/12/Cucumber-lime-granita-for-oysters-close-up.jpg",
+  "importCount": "0.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/cucumber-lime-jalapeno-granita-for-oysters/",
+  "servings": 12,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "cucumber granita",
+    "granita for oysters",
+    "lime granita"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cucumber (, peeled, watery seeds removed, diced into ~1cm/1/2\" cubes)",
+      "emoji": "🥒",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "lime zest",
+      "emoji": "🍋",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "caster sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "finely chopped jalapeño (, deseeded (Note 1))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "12 - 24  oysters ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Jalapeño slices (, for decoration (optional))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Granita - Place ingredients in a jug just large enough to fit a stick blender. Blitz until smooth - it should be like a smoothie. Pour in a small container so the depth is no deeper than 3cm / 2.2&quot;. Freeze for 6 hours+."
+    },
+    {
+      "order": 2,
+      "instruction": "Scrape - Use a fork to scrape into shavings (it&#39;s not hard). Use immediately or return to freezer until required."
+    },
+    {
+      "order": 3,
+      "instruction": "Serving - Place oysters on a serving platter. (Note 3)"
+    }
+  ]
+}

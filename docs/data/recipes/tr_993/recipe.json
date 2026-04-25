@@ -1,0 +1,159 @@
+{
+  "id": "tr_993",
+  "title": "French Cheese Puffs (Gougeres)",
+  "image": "https://www.recipetineats.com/tachyon/2019/12/Gourgeres_French-Cheese-Puffs-_9.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/gougeres-french-cheese-puffs-finger-food/",
+  "servings": 24,
+  "prepTime": 15,
+  "cookTime": 25,
+  "tags": [
+    "cheese puffs",
+    "french appetizer",
+    "gougeres"
+  ],
+  "nutrition": {
+    "calories": 102,
+    "protein": 4.0,
+    "carbs": 5.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(250ml)   water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "80",
+      "unit": "g",
+      "name": "/ 5.5 tbsp  butter (, unsalted, cut into 1.5 cm / 0.5\" cubes)",
+      "emoji": "🧈",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(150g)   flour (, plain / all purpose)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt (, kosher/cooking salt)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "nutmeg ((powder or freshly grated))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  eggs ((~60 - 65g / 2oz each))",
+      "emoji": "🥚",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "200",
+      "unit": "g",
+      "name": "/ 2 cups  Gruyère cheese (, freshly shredded (Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "50",
+      "unit": "g",
+      "name": "/ 1/2 cup  Gruyere cheese, extra (, freshly shredded (Note 1))",
+      "emoji": "🧀",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg yolk (, for brushing)",
+      "emoji": "🥚",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat the oven to 220°C / 425°F (200°C fan). Lightly grease 2 trays then line with parchment / baking paper."
+    },
+    {
+      "order": 2,
+      "instruction": "Place water, butter and salt in a saucepan over medium high heat. Bring to a boil until butter is full melted."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove from stove, add flour, salt, pepper and nutmeg. Mix until incorporated."
+    },
+    {
+      "order": 4,
+      "instruction": "Return to stove on LOW heat and mix for 1 minute (this dries the mixture out, see video for before/after)."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove from stove, leave for 2 minutes."
+    },
+    {
+      "order": 6,
+      "instruction": "Add 1 egg, mix vigorously until incorporated - batter splits at first, but it always comes together!"
+    },
+    {
+      "order": 7,
+      "instruction": "Add 3 more eggs, one at a time, mixing until incorporated before adding the next. Good arm workout! (Or use electric beater)"
+    },
+    {
+      "order": 8,
+      "instruction": "Stir in 2 cups cheese."
+    },
+    {
+      "order": 9,
+      "instruction": "Drop 1 tablespoon mounds onto trays (small cookie scoop is ideal, otherwise use a measuring tablespoon and a teaspoon to scrape out. Can make larger - good for dunking!)"
+    },
+    {
+      "order": 10,
+      "instruction": "Brush with yolk, then top with a pinch of reserved Cheese for topping."
+    },
+    {
+      "order": 11,
+      "instruction": "Bake 25 minutes."
+    },
+    {
+      "order": 12,
+      "instruction": "Allow to cool for 15 minutes so they become crusty and inside dries out a bit."
+    },
+    {
+      "order": 13,
+      "instruction": "Serve warm as pre dinner nibbles, finger food at gatherings, or dunk into soups and stews!"
+    }
+  ]
+}

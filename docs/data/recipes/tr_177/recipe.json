@@ -1,0 +1,167 @@
+{
+  "id": "tr_177",
+  "title": "Coconut Shrimp / Prawns with Spicy THAI Mango Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2016/02/Coconut-Shrimp-Mango-Sauce_2.jpg",
+  "importCount": "1.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/coconut-shrimp-prawns-with-spicy-thai-mango-sauce/",
+  "servings": 4,
+  "prepTime": 20,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "/ 500 g   whole prawns OR 12oz/350g peeled fresh prawns ((Note 1))",
+      "emoji": "🦐",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  egg",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "panko breadcrumbs",
+      "emoji": "🍞",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "desiccated coconut ((Note 2))",
+      "emoji": "🥥",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Oil (, for frying)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "(packed) fresh mango. roughly diced",
+      "emoji": "🥭",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "cilantro/coriander (, leaves and stems, roughly chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "red onion or eschallots (, finely chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fish sauce ((or substitute with light or ordinary soy sauce))",
+      "emoji": "🐟",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sriracha ((Note 3))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "red chilli (, finely chopped (adjust to taste))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 3 tbsp coconut milk ((adjust for desired sauce consistency))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mango Sauce: Place ingredients in a small food processor (or blender or use a blender stick). Whizz until smooth. Adjust salt and spice to taste. Use coconut milk to adjust the consistency."
+    },
+    {
+      "order": 2,
+      "instruction": "Peel and devein the shrimp / prawns. Sprinkle with salt and pepper."
+    },
+    {
+      "order": 3,
+      "instruction": "Whisk egg in a small bowl. Mix panko and coconut in another bowl."
+    },
+    {
+      "order": 4,
+      "instruction": "Dip a prawn in the egg mixture then coat with panko. Repeat with remaining prawns."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat oil in a skillet (Note 4) over medium high heat. Toss in a clotted lump of panko/egg to test for heat - if it sizzles right away and floats to the top, then the oil is hot enough."
+    },
+    {
+      "order": 6,
+      "instruction": "Working in batches, carefully place prawns in the hot oil. Cook for just 45 seconds (Note 5) until golden brown - start counting when you slide the first prawn in and remove the prawns from the oil in the order that you put them in."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove onto a paper towel lined tray to drain."
+    },
+    {
+      "order": 8,
+      "instruction": "Serve warm with Spicy Mango Dipping Sauce!"
+    }
+  ]
+}

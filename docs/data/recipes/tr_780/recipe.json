@@ -1,0 +1,365 @@
+{
+  "id": "tr_780",
+  "title": "Healthier Creamy Yogurt Salad Dressings",
+  "image": "https://www.recipetineats.com/tachyon/2018/10/Healthy-Caesar-Salad-Dressing.jpg",
+  "importCount": "2.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/yogurt-salad-dressings/",
+  "servings": 1,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "yogurt salad dressings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 38,
+    "fat": 16
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "plain yogurt (, preferably Greek)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "plain yogurt (, preferably Greek)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "EACH dried dill, parsley, chives, garlic powder, black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "EACH onion powder, mustard powder",
+      "emoji": "🧅",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "plain yogurt (, preferably Greek)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "milk",
+      "emoji": "🥛",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "wholegrain mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "fresh chives (, finely chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "garlic powder, onion powder",
+      "emoji": "🧄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "plain yogurt (, preferably Greek)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 26
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "cider vinegar",
+      "emoji": "🫙",
+      "section": "",
+      "order": 27
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "EACH garlic powder, salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 28
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "plain yogurt (, preferably Greek)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 29
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 30
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  anchovy fillets or 3/4 tsp Anchovy paste ((Note 2))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 31
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 32
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 33
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Worcestershire sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 34
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "white sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 35
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 36
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "freshly grated parmesan cheese",
+      "emoji": "🧀",
+      "section": "",
+      "order": 37
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2 - 4 tbsp milk ((adjust consistency))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 38
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 39
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 40
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix ingredients in a bowl. Set aside for 30 minutes+ to allow flavours to develop."
+    },
+    {
+      "order": 2,
+      "instruction": "Use milk to adjust to desired consistency.&nbsp;"
+    },
+    {
+      "order": 3,
+      "instruction": "Blitz in a food processor until smooth. Use milk to adjust consistency."
+    }
+  ]
+}

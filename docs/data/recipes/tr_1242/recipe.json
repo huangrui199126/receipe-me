@@ -1,0 +1,121 @@
+{
+  "id": "tr_1242",
+  "title": "Restaurant Style Coconut Rice (Coconut Milk)",
+  "image": "https://www.recipetineats.com/tachyon/2014/10/Restaurant-Style-Coconut-Rice-2.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/fluffy-coconut-rice/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 40,
+  "tags": [
+    "coconut rice"
+  ],
+  "nutrition": {
+    "calories": 192,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "jasmine rice ((Note 1))",
+      "emoji": "🍚",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "400",
+      "unit": "ml",
+      "name": "/ 14 oz  coconut milk (, full fat or light (Note 2))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "5",
+      "unit": "tsp",
+      "name": "white sugar ((Note 3))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "cooking / kosher salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  pandan leaves (, knotted)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  kaffir lime leaves (, crushed in hand)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "desiccated coconut (, toasted, to garnish)",
+      "emoji": "🥥",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Rinse rice in water until the water runs pretty clear. (Note 1)"
+    },
+    {
+      "order": 2,
+      "instruction": "Soak &amp; drain - Drain rice then soak in water for 1 hour. Then drain in a colander and leave to drain well for 5 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Preheat oven to 200°C / 400°F (180°C fan)."
+    },
+    {
+      "order": 4,
+      "instruction": "Rice in pan - Place the rice in a 20cm / 8&quot; square pan (metal or ceramic). Add pandam or kaffir, if using."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat coconut milk - Heat coconut milk, water, sugar and salt in a saucepan over high heat. Bring to a boil and stir to dissolve the sugar."
+    },
+    {
+      "order": 6,
+      "instruction": "Bake 40 minutes - Working quickly (to minimise heat loss), pour hot liquid over rice, stir quickly to spread rice evenly. Cover with foil then bake in the oven for 40 minutes."
+    },
+    {
+      "order": 7,
+      "instruction": "Rest 15 minutes - Remove the pan from the oven. Take a quick peek to ensure the liquid has been absorbed (tilt pan to check). There will be coconut cream on the surface - that&#39;s normal. Rest rice, covered, for 15 minutes. Do not shortcut this!"
+    },
+    {
+      "order": 8,
+      "instruction": "Fluff with rubber spatula. Garnish with toasted coconut, if using, then serve. Marvel at fluffy rice!"
+    }
+  ]
+}

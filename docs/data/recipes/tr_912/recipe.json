@@ -1,0 +1,171 @@
+{
+  "id": "tr_912",
+  "title": "Corn Chowder with Bacon",
+  "image": "https://www.recipetineats.com/tachyon/2017/10/Corn-Chowder-11-SQ.jpg",
+  "importCount": "4.1K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/corn-chowder-with-bacon/",
+  "servings": 5,
+  "prepTime": 15,
+  "cookTime": 35,
+  "tags": [],
+  "nutrition": {
+    "calories": 620,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  ears of corn",
+      "emoji": "🌽",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "/ 750g / 1.5 lb   frozen or canned corn (, drained)",
+      "emoji": "🌽",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "butter ((or oil))",
+      "emoji": "🧈",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "250",
+      "unit": "g",
+      "name": "/ 8 oz   bacon (, chopped)",
+      "emoji": "🥓",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "30",
+      "unit": "g",
+      "name": "/ 2 tbsp  butter ((use 3 tbsp if bacon is lean))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  garlic clove (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small onion (, diced (or half large onion) (yellow, brown or white))",
+      "emoji": "🧅",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "5",
+      "unit": "tbsp",
+      "name": "flour",
+      "emoji": "🌾",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken broth (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "milk ((I use low fat but full fat will work too))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "600",
+      "unit": "g",
+      "name": "/ 1.2 lb   potatoes (, cut into 1 cm / 2/5\" cubes (about 2 large))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "2",
+      "unit": "sprigs",
+      "name": "of thyme OR 1 tsp dried thyme",
+      "emoji": "🌿",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "cream ((Note 1))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "shallots / scallions (, green part finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and finely ground pepper to taste",
+      "emoji": "🧂",
+      "section": "",
+      "order": 14
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cut the corn off the cob. This is how I do it: Place a small ramekin in a large bowl. Place corn on the ramekin then cut the corn off. See video. Keep naked cobs."
+    },
+    {
+      "order": 2,
+      "instruction": "Place 1 tsp butter in a large pot over medium high heat. Add bacon and cook until golden. Use a slotted spoon to remove onto a paper towel lined plate. Leave fat in pot."
+    },
+    {
+      "order": 3,
+      "instruction": "Lower heat to medium high. Add 2 tbsp butter, once melted, add garlic and onion. Cook for 2 - 3 minutes until onion is translucent."
+    },
+    {
+      "order": 4,
+      "instruction": "Add flour and mix it in. Cook, stirring, for 1 minute."
+    },
+    {
+      "order": 5,
+      "instruction": "Add broth, milk, potatoes, thyme and bay leaf. Break naked cobs into 2 or 3 and add into the liquid. Put the lid on and simmer for 25 minutes (adjust heat so it's simmering energetically but not bubbling like crazy or super gently)."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove lid, remove corn cobs. Add corn and cook for 5 minutes or until cooked to your taste."
+    },
+    {
+      "order": 7,
+      "instruction": "Stir through cream and 3/4 of the bacon and shallots. Adjust salt and pepper to taste. Ladle into bowls and garnish with remaining bacon and shallots."
+    }
+  ]
+}

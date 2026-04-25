@@ -1,0 +1,99 @@
+{
+  "id": "tr_954",
+  "title": "Custard (aka Creme Anglaise)",
+  "image": "https://www.recipetineats.com/tachyon/2017/03/Custard-7.jpg",
+  "importCount": "1.7K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/custard-creme-anglaise/",
+  "servings": 5,
+  "prepTime": 5,
+  "cookTime": 15,
+  "tags": [],
+  "nutrition": {
+    "calories": 242,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  vanilla bean (Note 1)",
+      "emoji": "🫘",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "/ 250ml  heavy / thickened cream (Note 2)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 65 ml  milk (whole or reduced fat, not zero fat)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  egg yolks",
+      "emoji": "🥚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "/ 50g  white sugar, preferably caster / superfine",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Using a small knife, cut a slit down the length of the vanilla bean then scrape out seeds (see video)."
+    },
+    {
+      "order": 2,
+      "instruction": "Place cream, milk and vanilla seeds + vanilla bean into a small saucepan over medium heat. When it just comes to simmer, remove and cool for 5 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Meanwhile, place yolks and sugar in a bowl. Whisk for 2 minutes until it becomes a bit pale."
+    },
+    {
+      "order": 4,
+      "instruction": "Remove vanilla pod from milk and discard."
+    },
+    {
+      "order": 5,
+      "instruction": "While whisking, SLOWLY pour milk into the eggs. Then pour it back into the saucepan."
+    },
+    {
+      "order": 6,
+      "instruction": "Return to low heat (can use medium low if on electric). Whisk regularly for first 3 minutes, then pretty much constantly for the next 5 minutes, or until the custard coats the back of a spoon. You should be able to draw a path (see video)."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove from heat."
+    },
+    {
+      "order": 8,
+      "instruction": "Optional: strain to make extra silky smooth."
+    },
+    {
+      "order": 9,
+      "instruction": "Keeps for 3 days in the fridge. Custard will thicken slightly more as it cools to room temperature. Do not freeze. See note 3 for suggested uses."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "id": "tr_28",
+  "title": "Middle Eastern Shredded Lamb",
+  "image": "https://www.recipetineats.com/tachyon/2015/05/Middle-Eastern-Shredded-Lamb-Chickpea-Pilaf-Rice-1.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/middle-eastern-shredded-lamb-with-chickpea-pilaf-rice/",
+  "servings": 8,
+  "prepTime": 10,
+  "cookTime": 210,
+  "tags": [],
+  "nutrition": {
+    "calories": 419,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "ground cumin",
+      "emoji": "🫙",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "ground coriander",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "paprika",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ground cardamon (or sub with ginger)",
+      "emoji": "🫚",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "3  garlic cloves (minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1.5 - 2 kg / 3 - 4 lb  lamb shoulder (bone in, trimmed of excess fat)",
+      "emoji": "🐑",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 2 tbsp olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Lemon (highly recommended)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh coriander/cilantro leaves (optional - recommended)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Yoghurt (optional)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 150C/300F."
+    },
+    {
+      "order": 2,
+      "instruction": "Combine the Spice Mix ingredients in a small bowl. Set aside 1 1/2 tbsp of the Spice Mix for later (to pan fry the lamb)."
+    },
+    {
+      "order": 3,
+      "instruction": "Add the olive oil and garlic into the Spice Mix, then rub all over the lamb."
+    },
+    {
+      "order": 4,
+      "instruction": "Place the lamb on a roasting rack set in a roasting dish (Note 1). Pour the water in the base of the dish. Cover with a lid or double layer of foil."
+    },
+    {
+      "order": 5,
+      "instruction": "Roast for 3 1/2 hours or until the meat is tender enough to pull off with a fork."
+    },
+    {
+      "order": 6,
+      "instruction": "Remove the lid. Turn the oven up as high as it will go and roast for 15 - 20 minutes until the lamb is browned."
+    },
+    {
+      "order": 7,
+      "instruction": "Remove the lamb from the oven. Allow to rest for 20 minutes, then shred coarsely with two forks."
+    },
+    {
+      "order": 8,
+      "instruction": "Skim excess fat off the juices in the roasting dish then set aside. (Note 2)"
+    },
+    {
+      "order": 9,
+      "instruction": "Toss the shredded lamb with the reserved Spice Mix (from Step 2 above)."
+    },
+    {
+      "order": 10,
+      "instruction": "Heat 1 tbsp of oil in a heavy based pan over high heat. Add some lamb (don't crowd the pan) and drizzle over about 3 tbsp of the pan juices. Cook until the underside is dark golden brown and crispy - about 1 to 1 1/2 minutes (the juices you poured over will evaporate)."
+    },
+    {
+      "order": 11,
+      "instruction": "If the lamb is cold, flip to warm the other side but do not brown too much (retains juiciness)."
+    },
+    {
+      "order": 12,
+      "instruction": "Remove lamb from the fry pan, and repeat with remaining lamb, adding extra oil if required."
+    },
+    {
+      "order": 13,
+      "instruction": "To serve, drizzle with a squeeze of lemon juice (this makes a big difference) and top with fresh coriander, plus yoghurt (if using). Serve on Chickpea Pilaf (Rice)."
+    }
+  ]
+}

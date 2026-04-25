@@ -1,0 +1,147 @@
+{
+  "id": "tr_553",
+  "title": "Bok Choy in Ginger Sauce",
+  "image": "https://www.recipetineats.com/tachyon/2023/09/Bok-choy-in-ginger-sauce.jpg",
+  "importCount": "1.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/bok-choy-in-ginger-sauce/",
+  "servings": 4,
+  "prepTime": 3,
+  "cookTime": 3,
+  "tags": [
+    "asian greens recipe",
+    "bok choy recipe",
+    "how to cook bok choy"
+  ],
+  "nutrition": {
+    "calories": 81,
+    "protein": 2.0,
+    "carbs": 4.0,
+    "fat": 7.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "6  small bok choys (, up to ~17cm/7\" long, or other Asian greens (Note 1 + photos in post))",
+      "emoji": "🥬",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "ginger (, finely julienned (or 1 tbsp garlic))",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "cornflour/cornstarch",
+      "emoji": "🌾",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "name": "light soy sauce (, or all-purpose soy (Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "oyster sauce ((sub vegetarian oyster sauce))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "Chinese cooking wine ((Note 3))",
+      "emoji": "🍷",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame oil (, toasted)",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "water",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "cooking salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "Pinch",
+      "name": "white pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Cutting - Trim the base of the bok choy then separate all the leaves. Leave the delicate baby bok choy in the centre intact, it&#39;s precious! Cut giant stems in half lengthwise so they are all roughly the same size. Rinse in colander, shake off excess water (don&#39;t need to dry fully)."
+    },
+    {
+      "order": 2,
+      "instruction": "Sauce - Stir Sauce ingredients except water in a jug until cornflour is dissolved. (Easier to make lump free with less liquid). Then stir in water."
+    },
+    {
+      "order": 3,
+      "instruction": "Gingery oil - Put the ginger and oil in a large non-stick pan. Turn onto medium heat. Once the ginger starts sizzling, sauté for 1 minute until it turns light golden and is a bit floppy. Add bok choy then use 2 spatulas to toss the ginger for around 15 seconds to coat."
+    },
+    {
+      "order": 4,
+      "instruction": "Steam - Turn heat up to medium, pour water over. Cover with lid and steam for just 45 seconds."
+    },
+    {
+      "order": 5,
+      "instruction": "Sauce - Remove lid (bok choy will still be a bit underdone), pour in sauce, toss for 30 seconds until sauce changes from murky to clear, and thickens. Bok choy should be just floppy but still soft crunch, not mushy. If your sauce gets too thick (Note 4), add a tiny splash of water and mix."
+    },
+    {
+      "order": 6,
+      "instruction": "Serve - Pour the bok choy and all the sauce onto a serving plate, then eat!"
+    }
+  ]
+}

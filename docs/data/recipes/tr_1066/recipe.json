@@ -1,0 +1,118 @@
+{
+  "id": "tr_1066",
+  "title": "Celebration Fruit Punch!",
+  "image": "https://www.recipetineats.com/tachyon/2019/12/Celebration-Fruit-Punch_3.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/celebration-fruit-punch/",
+  "servings": 10,
+  "prepTime": 10,
+  "cookTime": 0,
+  "tags": [
+    "fruit punch",
+    "punch drink"
+  ],
+  "nutrition": {
+    "calories": 196,
+    "protein": 1.0,
+    "carbs": 28.0,
+    "fat": 1.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "(1 L / 1 qt)   cranberry juice or cranberry pomegranate juice (, chilled (NOT light, Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "(500ml)   ginger ale (, chilled (not ginger beer, Note 2))",
+      "emoji": "🍺",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "(1 L / 1 qt)   sparkling apple juice (, chilled (non alcoholic, Note 3))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "cups",
+      "name": "(375ml)   white rum (Bacardi) ((can omit))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  orange (, halved, sliced then halved again)",
+      "emoji": "🍊",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lemon (, small, sliced into rounds)",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "strawberries (, halved or quartered)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "mint leaves",
+      "emoji": "🌿",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "raspberries",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Ice (, if desired (be mindful of dilution, consider using no-melt ice cube options))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Pour Fruit Punch ingredients into a large jug, punch bowl or, as I did, trifle dish!!"
+    },
+    {
+      "order": 2,
+      "instruction": ".Add the fruit in, stir gently (don&#x27;t agitate too much)"
+    },
+    {
+      "order": 3,
+      "instruction": "Serve immediately, using a ladle or mug to scoop and serve. To keep fizz alive for longer, best to make this just prior to serving."
+    }
+  ]
+}

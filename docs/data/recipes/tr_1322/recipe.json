@@ -1,0 +1,147 @@
+{
+  "id": "tr_1322",
+  "title": "Chimichurri Steak",
+  "image": "https://www.recipetineats.com/tachyon/2016/08/Steak-with-Chimichurri-Sauce_1.jpg",
+  "importCount": "8.8K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/skirt-steak-with-chimichurri-sauce/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 10,
+  "tags": [
+    "chimichurri",
+    "chimichurri sauce",
+    "chimichurri steak"
+  ],
+  "nutrition": {
+    "calories": 491,
+    "protein": 38.0,
+    "carbs": 2.0,
+    "fat": 35.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "parsley leaves (, tightly packed)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "oregano leaves (, tightly packed (still lovely without))",
+      "emoji": "🌿",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "0 - 2 tsp red pepper flakes ((optional - adjust to taste))",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "(65 ml)  red wine vinegar ((Note 1))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "(125 ml)  extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "700",
+      "unit": "g",
+      "name": "/ 1.4lb  flat iron, flank, skirt steak (or other steak of choice, at room temperature (Note 3))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Place all ingredients except oil in a food processor. Whizz until parsley is finely chopped, but not pureed - see video or photos. Alternatively chop parsley by hand."
+    },
+    {
+      "order": 2,
+      "instruction": "Transfer into a small bowl. Add oil, gently stir. Set aside for 1 hour before use, overnight is even better!"
+    },
+    {
+      "order": 3,
+      "instruction": "Store in an airtight container in the refrigerator and use within 3 days (Note 3). Makes 3/4 cup."
+    },
+    {
+      "order": 4,
+      "instruction": "Take steak out of the fridge 30 minutes prior to cooking."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat BBQ or heavy based skillet with 1 tbsp vegetable or canola oil over high heat until smoking."
+    },
+    {
+      "order": 6,
+      "instruction": "Sprinkle each side of steak generously with salt and pepper."
+    },
+    {
+      "order": 7,
+      "instruction": "Add steak and cook to your liking.&nbsp;"
+    },
+    {
+      "order": 8,
+      "instruction": "Cook times:&nbsp;for steak 2cm / 4/5” thick, 2 min on each side for medium rare (until internal temp is 52C/125F, will rise to 54C/130F after resting) OR 2 1/2 min each side for medium (internal temp 57C/135F, will rise to 60C/140F).&nbsp;"
+    },
+    {
+      "order": 9,
+      "instruction": "Transfer to a plate, cover loosely with foil and rest for 5 - 10 minutes."
+    },
+    {
+      "order": 10,
+      "instruction": "Cut thin slices against the grain (see photo below) and serve with Chimichurri Sauce on the side so people can help themselves."
+    }
+  ]
+}

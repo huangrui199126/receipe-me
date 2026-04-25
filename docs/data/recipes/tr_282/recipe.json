@@ -1,0 +1,157 @@
+{
+  "id": "tr_282",
+  "title": "Oven Baked Pork Chops with Potatoes",
+  "image": "https://www.recipetineats.com/tachyon/2016/09/Baked-Pork-Chops_2.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/oven-baked-pork-chops-with-potatoes/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "baked pork chops"
+  ],
+  "nutrition": {
+    "calories": 555,
+    "protein": 27.2,
+    "carbs": 36.6,
+    "fat": 33.3
+  },
+  "healthScore": 6,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Worcestershire Sauce",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "ketchup ((Note 1))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce ((Note 2))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar ((or white))",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil ((or vegetable or canola oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "clove",
+      "name": "garlic, (minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "apple cider vinegar ((Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4  pork chops / cutlets (, around 200-250g/7-8oz each including bone (Note 4))",
+      "emoji": "🥩",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "800g/ 1.6 lb  baby potatoes (, larger ones cut in half (Note 5))",
+      "emoji": "🥔",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt &amp; pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 220C / 430F (standard oven) or 200C / 390F (fan forced / convection)."
+    },
+    {
+      "order": 2,
+      "instruction": "Toss potatoes in oil, sprinkle with salt and pepper. Scatter on baking tray."
+    },
+    {
+      "order": 3,
+      "instruction": "Place in oven for 15 minutes (giving them a head start)."
+    },
+    {
+      "order": 4,
+      "instruction": "Meanwhile, mix the Rub ingredients together in a small bowl."
+    },
+    {
+      "order": 5,
+      "instruction": "Slather the pork on both sides with the Rub, reserving some Rub for basting. (See notes for marinating)"
+    },
+    {
+      "order": 6,
+      "instruction": "Take the tray out of the oven. Toss potatoes then push them to the edge."
+    },
+    {
+      "order": 7,
+      "instruction": "Place pork on tray. Bake for 15 minutes.&nbsp;"
+    },
+    {
+      "order": 8,
+      "instruction": "Remove tray from oven, flick&nbsp;to broiler/grill on high (shelf about 20cm/8\" from heat source)."
+    },
+    {
+      "order": 9,
+      "instruction": "Flip pork, spoon over reserved rub and dab on sides. (Note 4). Broil 7 - 10 minutes until pretty well caramelised."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove from oven. Use a brush to get the golden juices off the tray and dab it onto the pork - this is key for flavour and colour! Pop it back under the broiler for a couple of minutes to finish off."
+    },
+    {
+      "order": 11,
+      "instruction": "Serve, scraping the juices on the tray onto the pork, then garnish with parsley if desired.&nbsp;"
+    }
+  ]
+}

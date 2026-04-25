@@ -1,0 +1,142 @@
+{
+  "id": "tr_1413",
+  "title": "An excellent No Yeast Pizza Dough - quick easy homemade pizza!",
+  "image": "https://www.recipetineats.com/tachyon/2020/05/Spreading-pizza-sauce-on-homemade-pizza-crust-1.jpg",
+  "importCount": "4.4K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/no-yeast-pizza-dough/",
+  "servings": 1,
+  "prepTime": 7,
+  "cookTime": 13,
+  "tags": [
+    "no yeast pizza dough",
+    "pizza dough without yeast"
+  ],
+  "nutrition": {
+    "calories": 106,
+    "protein": 3.0,
+    "carbs": 20.0,
+    "fat": 2.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "1 1/3",
+      "unit": "cups",
+      "name": "bread flour ((or plain / all purpose flour, Note 2))",
+      "emoji": "🌾",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "baking powder",
+      "emoji": "🥄",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "3/4",
+      "unit": "tsp",
+      "name": "sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "olive oil ((or any other oil))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "water ((cold tap water))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Extra Flour (, for dusting)",
+      "emoji": "🌾",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "vegetable oil (optional) (, for brushing crust (or canola or other neutral oil) (Note 3))",
+      "emoji": "🫙",
+      "section": "",
+      "order": 7
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Preheat oven to 250°C / 480°F (230°C fan) (Note 4.) Place shelf in the top quarter of the oven."
+    },
+    {
+      "order": 2,
+      "instruction": "Spray pizza pan or baking tray lightly with oil."
+    },
+    {
+      "order": 3,
+      "instruction": "Prepare pizza sauce and toppings. Keep shredded mozzarella in the fridge (Note 5)."
+    },
+    {
+      "order": 4,
+      "instruction": "Blitz - Using the standard S blade, add Dry Ingredients and pulse twice. Add water and olive oil. Blitz on low for 40 seconds - it will come together into a shaggy ball (video 33 sec)."
+    },
+    {
+      "order": 5,
+      "instruction": "Shape - Sprinkle work surface with half Extra Flour, scrape dough out. Sprinkle with remaining Extra Flour and firmly shape into a ball. Proceed with rolling out steps below."
+    },
+    {
+      "order": 6,
+      "instruction": "Mix - Place Dry ingredients in a bowl, mix to combine with a rubber spatula. Add water and olive oil, mix until flour is incorporated as best you can."
+    },
+    {
+      "order": 7,
+      "instruction": "Knead - Sprinkle work surface with half Extra Flour, dip dough out. Sprinkle with remaining Extra Flour then knead for 3 to 4 minutes until it&#39;s pretty smooth (video 38 sec), using more flour only if needed. Shape into a ball. Proceed with rolling out steps below."
+    },
+    {
+      "order": 8,
+      "instruction": "Goal dough texture - Your dough should be soft and elastic, and not stick to your hands. It will not be completely smooth like yeast dough (video 38 sec)(Note 6)."
+    },
+    {
+      "order": 9,
+      "instruction": "Roll out your dough ball into a 30cm/12&quot; round."
+    },
+    {
+      "order": 10,
+      "instruction": "Stretch - Transfer to pizza pan, preferably with holes (for crispier base), or a baking tray (Note 7 pizza stone). Use your fingers to pull from the centre to fill the pan to the edge - avoid pinching the edges (to ensure puffy crust!)."
+    },
+    {
+      "order": 11,
+      "instruction": "Top with 1/4 cup pizza sauce and toppings of choice."
+    },
+    {
+      "order": 12,
+      "instruction": "Brush the crust edge (just exposed edge with no toppings on it) with oil."
+    },
+    {
+      "order": 13,
+      "instruction": "Bake 12 minutes, until the edges are crispy and golden. Cut and serve immediately!"
+    }
+  ]
+}

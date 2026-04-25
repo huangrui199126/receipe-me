@@ -1,0 +1,151 @@
+{
+  "id": "tr_132",
+  "title": "Pineapple Coconut Hawaiian Chicken Skewers",
+  "image": "https://www.recipetineats.com/tachyon/2016/05/Coconut-Pineapple-Chicken-Skewers_7.jpg",
+  "importCount": "2.6K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/hawaiian-pineapple-coconut-chicken-skewers/",
+  "servings": 8,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 485,
+    "protein": 56.0,
+    "carbs": 8.1,
+    "fat": 24.6
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "coconut milk ((from a 14oz/400g can, use leftovers for Coconut Lime Rice!))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "pineapple juice ((Note 1))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato sauce/ketchup",
+      "emoji": "🍅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest and juice of 1 lime",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "EACH onion powder (, cumin, paprika,)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ginger powder ((or 1/2 tsp grated fresh ginger))",
+      "emoji": "🫚",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 1 tsp cayenne pepper (, optional)",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1.5",
+      "unit": "lb",
+      "name": "/ 750g   chicken thigh fillets (, cut into 1\"/2.5cm pieces)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive or vegetable oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "8  skewers (, soaked in water for 30 minutes if cooking on outdoor BBQ)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 13
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Combine Marinade ingredients in a bowl. Remove 1/2 cup of Marinade (for basting) and set aside in fridge. Add chicken, cover and marinate in the fridge for at least 3 hours, preferably overnight. But even 20 minutes is enough - compensate with extra basting."
+    },
+    {
+      "order": 2,
+      "instruction": "Drain and discard marinade. Thread chicken onto skewers."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a large skillet or on outdoor BBQ over medium high heat. Cook skewers, turning to cook all sides, and basting generously with reserved Marinade. (Note 1)"
+    },
+    {
+      "order": 4,
+      "instruction": "Serve with Coconut Lime Rice."
+    }
+  ]
+}

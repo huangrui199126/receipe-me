@@ -1,0 +1,259 @@
+{
+  "id": "tr_134",
+  "title": "Hawaiian Chicken Salad",
+  "image": "https://www.recipetineats.com/tachyon/2016/06/Hawaiian-Chicken-Salad-Lime-Dressing_3.jpg",
+  "importCount": "3.2K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/hawaiian-chicken-salad/",
+  "servings": 2,
+  "prepTime": 15,
+  "cookTime": 10,
+  "tags": [],
+  "nutrition": {
+    "calories": 494,
+    "protein": 36.0,
+    "carbs": 35.5,
+    "fat": 24.7
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Marinade ((Note 1):)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "coconut milk ((from a can))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1/4",
+      "unit": "cup",
+      "name": "pineapple juice ((from can, save pineapple pieces))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "tomato sauce/ketchup",
+      "emoji": "🍅",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "soy sauce",
+      "emoji": "🫙",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Zest of 1 lime",
+      "emoji": "🍋",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "EACH onion powder (, cumin, paprika, ginger powder, salt)",
+      "emoji": "🧂",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Chicken &amp; Salad:",
+      "emoji": "🍗",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  large chicken breast (, halved horizontally)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "corn",
+      "emoji": "🌽",
+      "section": "",
+      "order": 11
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2 - 3/4 cup pineapple pieces ((from can))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 12
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "4 - 6 cups chopped lettuce",
+      "emoji": "🥬",
+      "section": "",
+      "order": 13
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  avocado (, cut into wedges)",
+      "emoji": "🥑",
+      "section": "",
+      "order": 14
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  red onion (, finely sliced)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 15
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "cherry tomatoes (, halved)",
+      "emoji": "🍅",
+      "section": "",
+      "order": 16
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  small carrot, finely shredded",
+      "emoji": "🥕",
+      "section": "",
+      "order": 17
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1 - 1 1/2 cups Coconut Lime Cilantro / Coriander Rice ((Note 2))",
+      "emoji": "🍋",
+      "section": "",
+      "order": 18
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Dressing:",
+      "emoji": "🥄",
+      "section": "",
+      "order": 19
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "lime juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 20
+    },
+    {
+      "amount": "2 1/2",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 21
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "finely chopped cilantro/coriander",
+      "emoji": "🌿",
+      "section": "",
+      "order": 22
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1/2  garlic minced",
+      "emoji": "🧄",
+      "section": "",
+      "order": 23
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "sugar or honey",
+      "emoji": "🍬",
+      "section": "",
+      "order": 24
+    },
+    {
+      "amount": "1/4",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 25
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 26
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix together Marinade ingredients, marinate chicken for minimum 3 hours, preferably overnight."
+    },
+    {
+      "order": 2,
+      "instruction": "Shake Dressing ingredients together in a jar, set aside for at least 15 minutes."
+    },
+    {
+      "order": 3,
+      "instruction": "Heat oil in a non stick skillet over high heat (or BBQ). Add chicken and cook each side for 3 minutes or until golden. Remove and cover loosely with foil for 5 minutes, then slice thickly."
+    },
+    {
+      "order": 4,
+      "instruction": "Sear 1/2 cup pineapple pieces and corn in the skillet until golden."
+    },
+    {
+      "order": 5,
+      "instruction": "Pile salad ingredients on a platter and top with sliced chicken. Drizzle over Dressing. Serve and pretend you're in Hawaii!"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "tr_67",
+  "title": "Apple Cider Glazed Pork Tenderloin",
+  "image": "https://www.recipetineats.com/tachyon/2016/01/Apple-Cider-Glazed-Pork-Tenderloin_2.jpg",
+  "importCount": "6.0K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/apple-cider-glazed-pork-tenderloin/",
+  "servings": 4,
+  "prepTime": 5,
+  "cookTime": 30,
+  "tags": [],
+  "nutrition": {
+    "calories": 404,
+    "protein": 0.0,
+    "carbs": 0.0,
+    "fat": 0.0
+  },
+  "healthScore": 7,
+  "ingredients": [
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  lb/500g pork tenderloin",
+      "emoji": "🥩",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "11  oz/330ml sweet apple cider ((alcoholic aka \"hard cider\") - I used Rochdale Apple Cider (Note 1))",
+      "emoji": "🍎",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  bay leaf (, dried (or 2 fresh))",
+      "emoji": "🥄",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "honey",
+      "emoji": "🍯",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar",
+      "emoji": "🍬",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Black Pepper",
+      "emoji": "🌶️",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "name": "butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dijon mustard",
+      "emoji": "🥄",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Mix the Marinade ingredients in a bowl."
+    },
+    {
+      "order": 2,
+      "instruction": "Place Marinade and pork in a large ziplock bag and marinate in the refrigerator overnight, up to 24 hours."
+    },
+    {
+      "order": 3,
+      "instruction": "Remove pork in the marinade from the refrigerator 30 minutes prior to cooking (to bring to room temperature)."
+    },
+    {
+      "order": 4,
+      "instruction": "Preheat oven to 180C/350F."
+    },
+    {
+      "order": 5,
+      "instruction": "Heat olive oil in a skillet over medium high heat. Remove pork from marinade (reserve marinade) and place in pan. Sear until golden brown all over - don't let it burn (Note 2)."
+    },
+    {
+      "order": 6,
+      "instruction": "Transfer skillet to the oven and roast for 15 to 20 minutes, or until the internal temperature using a meat thermometer reads 145F/62C. (Note 3)"
+    },
+    {
+      "order": 7,
+      "instruction": "Remove pork from skillet onto a plate and cover loosely with foil to rest while you make the sauce."
+    },
+    {
+      "order": 8,
+      "instruction": "Place skillet on the stove over high heat with butter. When the butter is melted, add reserved Marinade and mustard. Whisk until smooth."
+    },
+    {
+      "order": 9,
+      "instruction": "Bring to boil, then turn heat down so it is simmering VERY rapidly, and cook until the liquid becomes syrupy - about 4 to 5 minutes. Adjust salt to taste."
+    },
+    {
+      "order": 10,
+      "instruction": "Remove skillet from the stove, roll pork in the sauce, then remove and slice. Pour remaining sauce in the skillet into a jug and serve on the side."
+    },
+    {
+      "order": 11,
+      "instruction": "I served this with a fennel apple salad on the side. (Note 4)"
+    }
+  ]
+}

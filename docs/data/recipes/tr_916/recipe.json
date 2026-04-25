@@ -1,0 +1,121 @@
+{
+  "id": "tr_916",
+  "title": "Couscous",
+  "image": "https://www.recipetineats.com/tachyon/2021/01/Couscous_4-SQ.jpg",
+  "importCount": "5.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/couscous/",
+  "servings": 6,
+  "prepTime": 3,
+  "cookTime": 10,
+  "tags": [
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 253,
+    "protein": 9.0,
+    "carbs": 46.0,
+    "fat": 3.0
+  },
+  "healthScore": 9,
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "couscous",
+      "emoji": "🥄",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chicken or vegetable stock (, low sodium)",
+      "emoji": "🍗",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil",
+      "emoji": "🫙",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "lemon juice",
+      "emoji": "🍋",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "1/2",
+      "unit": "tsp",
+      "name": "salt",
+      "emoji": "🧂",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "coriander/cilantro (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "parsley (, finely chopped)",
+      "emoji": "🌿",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "dried apricots (, chopped)",
+      "emoji": "🥄",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "1/3",
+      "unit": "cup",
+      "name": "currants or sultanas",
+      "emoji": "🥄",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "slivered almonds (, toasted)",
+      "emoji": "🥜",
+      "section": "",
+      "order": 9
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat chicken stock until boiling using whatever method you choose (stove, 3 - 4 minutes in microwave on high)."
+    },
+    {
+      "order": 2,
+      "instruction": "Pour over couscous in a heatproof bowl. Shake to level the couscous, cover with plate (or cling wrap)."
+    },
+    {
+      "order": 3,
+      "instruction": "Leave for 10 minutes, then fluff with fork. Stir through olive oil, lemon juice and salt."
+    },
+    {
+      "order": 4,
+      "instruction": "Stir through either herbs or fruit &amp; nuts. Or as I do, use it all! Keep warm until ready to use. Ideal served with Tagine, or anything Middle Eastern."
+    }
+  ]
+}

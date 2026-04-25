@@ -1,0 +1,149 @@
+{
+  "id": "tr_918",
+  "title": "Creamy Carrot Soup",
+  "image": "https://www.recipetineats.com/tachyon/2018/06/Carrot-Soup_2.jpg",
+  "importCount": "6.5K",
+  "sourcePlatform": "Web",
+  "sourceUrl": "https://www.recipetineats.com/carrot-soup/",
+  "servings": 4,
+  "prepTime": 10,
+  "cookTime": 30,
+  "tags": [
+    "carrot soup"
+  ],
+  "nutrition": {
+    "calories": 351,
+    "protein": 11.0,
+    "carbs": 16.0,
+    "fat": 27.0
+  },
+  "healthScore": 8,
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil or butter",
+      "emoji": "🧈",
+      "section": "",
+      "order": 0
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "name": "streaky bacon ((~120g/4oz))",
+      "emoji": "🥓",
+      "section": "",
+      "order": 1
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "1  onion (, chopped)",
+      "emoji": "🧅",
+      "section": "",
+      "order": 2
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "2  garlic cloves (, minced)",
+      "emoji": "🧄",
+      "section": "",
+      "order": 3
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "5  large carrots (, cut into 1.5 cm / 3/5\" chunks)",
+      "emoji": "🥕",
+      "section": "",
+      "order": 4
+    },
+    {
+      "amount": "1",
+      "unit": "litre",
+      "name": "/ 1 quart   vegetable or chicken broth ((4 cups))",
+      "emoji": "🍗",
+      "section": "",
+      "order": 5
+    },
+    {
+      "amount": "1/2",
+      "unit": "cup",
+      "name": "/ 125 ml  cream",
+      "emoji": "🥛",
+      "section": "",
+      "order": 6
+    },
+    {
+      "amount": "3/4",
+      "unit": "cup",
+      "name": "/ 185ml   milk ((any fat %))",
+      "emoji": "🥛",
+      "section": "",
+      "order": 7
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Salt and pepper",
+      "emoji": "🧂",
+      "section": "",
+      "order": 8
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Fresh thyme or chopped parsley",
+      "emoji": "🌿",
+      "section": "",
+      "order": 9
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Cream (, for swirling)",
+      "emoji": "🥛",
+      "section": "",
+      "order": 10
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "name": "Crusty bread",
+      "emoji": "🍞",
+      "section": "",
+      "order": 11
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "instruction": "Heat oil in a large pot over medium high heat. Add bacon and cook until golden. Remove from pot, cool then chop."
+    },
+    {
+      "order": 2,
+      "instruction": "Add onion and garlic into the bacon drippings. Cook for 2 minutes until onion is translucent but not browned."
+    },
+    {
+      "order": 3,
+      "instruction": "Add carrots and stir well to coat the carrot in the oil."
+    },
+    {
+      "order": 4,
+      "instruction": "Add broth, then stir. Cover with lid, adjust heat so it is simmering energetically (about medium). Cook for 20 - 25 minutes until carrot is very soft."
+    },
+    {
+      "order": 5,
+      "instruction": "Remove lid, turn heat off. Use a stick blender to puree the carrot (or cool slightly and do in blender)."
+    },
+    {
+      "order": 6,
+      "instruction": "Add cream, milk, salt and pepper to taste. Stir. Adjust thickness with milk (or water), if desired."
+    },
+    {
+      "order": 7,
+      "instruction": "Ladle soup into bowls. Garnish with swirls of cream, bacon and parsley or thyme if desired. Serve with crusty bread."
+    }
+  ]
+}

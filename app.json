@@ -15,7 +15,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.ruihuang.recipeme",
-      "buildNumber": "1"
+      "buildNumber": "5"
     },
     "android": {
       "adaptiveIcon": {

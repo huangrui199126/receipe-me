@@ -10,14 +10,13 @@ import { useRouter } from 'expo-router';
 import { Colors } from '../constants/colors';
 import ReciMeLogo from '../components/ReciMeLogo';
 import EmojiIcon, { EmojiImage } from '../components/EmojiIcon';
-import { TrendingRecipe, TRENDING_RECIPES } from '../lib/trendingRecipes';
+import { TrendingRecipe } from '../lib/trendingRecipes';
 import { IndexRecipe, fetchTrendingIndex, fetchRecipeDetail, refreshTrendingIndex } from '../lib/trendingApi';
 import { useStore } from '../store';
 import { Cookbook, Recipe, Ingredient, Step } from '../db/schema';
 
 const { width } = Dimensions.get('window');
 const CARD_WIDTH = (width - 48) / 2;
-const PAGE_SIZE = 20;
 
 function HealthBadge({ score }: { score: number }) {
   const color = score >= 8 ? '#16A34A' : score >= 5 ? '#F59E0B' : '#EF4444';
@@ -129,13 +128,9 @@ export default function TrendingScreen() {
       .filter((id): id is string => !!id)
   );
 
-  // Index = all lightweight entries (for grid + search)
   const [index, setIndex] = useState<IndexRecipe[]>([]);
-  // page = how many cards are currently shown
-  const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(true);
   const [refreshing, setRefreshing] = useState(false);
-  const [loadingMore, setLoadingMore] = useState(false);
 
   // Preview modal state
   const [previewItem, setPreviewItem] = useState<TrendingRecipe | null>(null);
@@ -184,17 +179,9 @@ export default function TrendingScreen() {
 
   const handleRefresh = async () => {
     setRefreshing(true);
-    setPage(1);
     const entries = await refreshTrendingIndex();
     setIndex(entries);
     setRefreshing(false);
-  };
-
-  const handleLoadMore = () => {
-    if (loadingMore || page * PAGE_SIZE >= ranked.length) return;
-    setLoadingMore(true);
-    setPage(p => p + 1);
-    setLoadingMore(false);
   };
 
   const handleSave = async () => {
@@ -265,7 +252,6 @@ export default function TrendingScreen() {
     const numB = parseInt(b.id.replace(/\D/g, '')) || 0;
     return numA - numB;
   });
-  const visibleRecipes = ranked.slice(0, page * PAGE_SIZE);
 
   const displayCookbook = selectedCookbook ?? (cookbooks[0] ? { id: cookbooks[0].id, name: cookbooks[0].name } : { id: '', name: 'Favorites' });
 
@@ -295,19 +281,16 @@ export default function TrendingScreen() {
         </View>
       ) : (
         <FlatList
-          data={visibleRecipes}
+          data={ranked}
           keyExtractor={item => item.id}
           numColumns={2}
           contentContainerStyle={styles.list}
           columnWrapperStyle={styles.row}
           refreshControl={<RefreshControl refreshing={refreshing} onRefresh={handleRefresh} tintColor={Colors.primary} />}
-          onEndReached={handleLoadMore}
-          onEndReachedThreshold={0.4}
-          ListFooterComponent={
-            visibleRecipes.length < ranked.length
-              ? <ActivityIndicator size="small" color={Colors.primary} style={{ marginVertical: 16 }} />
-              : null
-          }
+          initialNumToRender={20}
+          maxToRenderPerBatch={20}
+          windowSize={5}
+          removeClippedSubviews
           renderItem={({ item }) => {
             const isSaved = saved.has(item.id);
             return (

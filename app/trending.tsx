@@ -11,7 +11,7 @@ import { Colors } from '../constants/colors';
 import ReciMeLogo from '../components/ReciMeLogo';
 import EmojiIcon, { EmojiImage } from '../components/EmojiIcon';
 import { TrendingRecipe } from '../lib/trendingRecipes';
-import { fetchTrendingRecipes, refreshTrendingRecipes } from '../lib/trendingApi';
+import { fetchTrendingRecipes, fetchRecipeDetail, refreshTrendingRecipes } from '../lib/trendingApi';
 import { useStore } from '../store';
 import { Cookbook, Recipe, Ingredient, Step } from '../db/schema';
 
@@ -133,6 +133,7 @@ export default function TrendingScreen() {
 
   // Preview modal state
   const [previewItem, setPreviewItem] = useState<TrendingRecipe | null>(null);
+  const [detailLoading, setDetailLoading] = useState(false);
   const [selectedCookbook, setSelectedCookbook] = useState<{ id: string; name: string } | null>(null);
   const [showPicker, setShowPicker] = useState(false);
   const [savedRecipeId, setSavedRecipeId] = useState<string | null>(null); // set after save → triggers success
@@ -150,6 +151,14 @@ export default function TrendingScreen() {
     setSavedRecipeId(null);
     setSelectedCookbook(null);
     setPreviewItem(item);
+    // Fetch full recipe (ingredients + steps) on demand
+    if (item.ingredients.length === 0) {
+      setDetailLoading(true);
+      fetchRecipeDetail(item.id).then(detail => {
+        if (detail) setPreviewItem(detail);
+        setDetailLoading(false);
+      });
+    }
   };
 
   const closePreview = () => {
@@ -157,6 +166,7 @@ export default function TrendingScreen() {
     setSavedRecipeId(null);
     setSelectedCookbook(null);
     setShowPicker(false);
+    setDetailLoading(false);
   };
 
   const handleRefresh = async () => {
@@ -167,7 +177,7 @@ export default function TrendingScreen() {
   };
 
   const handleSave = async () => {
-    if (!previewItem || importing) return;
+    if (!previewItem || importing || detailLoading) return;
     setImporting(previewItem.id);
 
     // Save to first existing cookbook, or create "Favorites" if none exist
@@ -336,11 +346,15 @@ export default function TrendingScreen() {
                   <View style={styles.heroMeta}>
                     <View style={{ flexDirection: 'row', alignItems: 'center', gap: 4 }}>
                       <EmojiIcon name="timer" size={12} />
-                      <Text style={styles.heroMetaText}>{previewItem.prepTime + previewItem.cookTime} min</Text>
+                      <Text style={styles.heroMetaText}>
+                        {detailLoading ? '—' : `${previewItem.prepTime + previewItem.cookTime} min`}
+                      </Text>
                     </View>
                     <View style={{ flexDirection: 'row', alignItems: 'center', gap: 4 }}>
                       <EmojiIcon name="plate" size={12} />
-                      <Text style={styles.heroMetaText}>{previewItem.servings} servings</Text>
+                      <Text style={styles.heroMetaText}>
+                        {detailLoading ? '—' : `${previewItem.servings} servings`}
+                      </Text>
                     </View>
                   </View>
                   <HealthBadge score={previewItem.healthScore} />
@@ -368,7 +382,12 @@ export default function TrendingScreen() {
 
               {/* Ingredients */}
               <Text style={styles.sectionLabel}>INGREDIENTS</Text>
-              {previewItem.ingredients.map((ing, i) => (
+              {detailLoading ? (
+                <View style={styles.detailLoadingWrap}>
+                  <ActivityIndicator size="small" color={Colors.primary} />
+                  <Text style={styles.detailLoadingText}>Loading recipe…</Text>
+                </View>
+              ) : previewItem.ingredients.map((ing, i) => (
                 <View key={i} style={styles.ingRow}>
                   <View style={{ width: 28, alignItems: 'center' }}><EmojiImage emoji={ing.emoji} size={20} /></View>
                   <Text style={styles.ingAmount}>{ing.amount} {ing.unit}</Text>
@@ -380,7 +399,7 @@ export default function TrendingScreen() {
 
               {/* Steps */}
               <Text style={styles.sectionLabel}>STEPS</Text>
-              {previewItem.steps.map((s, i) => (
+              {!detailLoading && previewItem.steps.map((s, i) => (
                 <View key={i} style={styles.stepRow}>
                   <View style={styles.stepNum}>
                     <Text style={styles.stepNumText}>{s.order}</Text>
@@ -393,13 +412,13 @@ export default function TrendingScreen() {
             {/* Bottom save bar */}
             <View style={[styles.saveBar, { paddingBottom: insets.bottom + 12 }]}>
               <TouchableOpacity
-                style={[styles.saveBtn, importing === previewItem.id && { opacity: 0.6 }]}
+                style={[styles.saveBtn, (importing === previewItem.id || detailLoading) && { opacity: 0.6 }]}
                 onPress={handleSave}
-                disabled={importing !== null}
+                disabled={importing !== null || detailLoading}
               >
                 {importing === previewItem.id
                   ? <ActivityIndicator color="#fff" />
-                  : <Text style={styles.saveBtnText}>Save recipe</Text>}
+                  : <Text style={styles.saveBtnText}>{detailLoading ? 'Loading…' : 'Save recipe'}</Text>}
               </TouchableOpacity>
             </View>
 
@@ -487,6 +506,8 @@ const styles = StyleSheet.create({
   nutritionVal: { fontSize: 16, fontWeight: '700', color: Colors.text },
   nutritionLbl: { fontSize: 11, color: Colors.muted, marginTop: 2 },
   sectionLabel: { fontSize: 12, fontWeight: '700', color: Colors.accent, paddingHorizontal: 20, paddingTop: 16, paddingBottom: 8, letterSpacing: 0.8 },
+  detailLoadingWrap: { flexDirection: 'row', alignItems: 'center', gap: 10, paddingHorizontal: 20, paddingVertical: 20 },
+  detailLoadingText: { fontSize: 14, color: Colors.muted },
   ingRow: { flexDirection: 'row', alignItems: 'center', paddingHorizontal: 20, paddingVertical: 8, gap: 10 },
   ingEmoji: { fontSize: 20, width: 28 },
   ingAmount: { fontSize: 14, fontWeight: '700', color: Colors.text, minWidth: 60 },

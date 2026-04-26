@@ -14,7 +14,7 @@ import ReciMeLogo from '../../components/ReciMeLogo';
 import Button from '../../components/ui/Button';
 import { E } from '../../constants/emoji';
 import EmojiIcon, { EmojiImage } from '../../components/EmojiIcon';
-import { IndexRecipe, fetchTrendingIndex, fetchRecipeDetail, refreshTrendingIndex } from '../../lib/trendingApi';
+import { IndexRecipe, fetchTrendingPage, fetchRecipeDetail, clearTrendingCache } from '../../lib/trendingApi';
 import { TrendingRecipe } from '../../lib/trendingRecipes';
 import { Cookbook, Recipe, Ingredient, Step } from '../../db/schema';
 
@@ -108,12 +108,13 @@ function TrendingSegment() {
   );
 
   useEffect(() => {
-    fetchTrendingIndex().then(entries => { setIndex(entries); setLoading(false); });
+    fetchTrendingPage(1).then(entries => { setIndex(entries); setLoading(false); });
   }, []);
 
   const handleRefresh = async () => {
     setRefreshing(true);
-    const entries = await refreshTrendingIndex();
+    await clearTrendingCache();
+    const entries = await fetchTrendingPage(1);
     setIndex(entries);
     setRefreshing(false);
   };

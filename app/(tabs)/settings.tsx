@@ -180,7 +180,8 @@ export default function SettingsTab() {
           <TouchableOpacity
             style={[styles.devBtn, { backgroundColor: '#F3F4F6', marginTop: 4 }]}
             onPress={async () => {
-              await AsyncStorage.removeItem('trending_recipes_cache_v3');
+              const { clearTrendingCache } = await import('../../lib/trendingApi');
+              await clearTrendingCache();
               setShowDevPanel(false);
               Alert.alert('Cache cleared', 'Trending recipes will reload fresh.');
             }}

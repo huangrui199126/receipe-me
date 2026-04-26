@@ -1,20 +1,27 @@
 /**
- * Trending recipes — paginated index + on-demand detail.
+ * Paginated trending recipe API backed by GitHub Pages static files.
  *
- * First load: one request to index.json → cards appear instantly.
- * Pagination: the caller slices the cached index as user scrolls.
- * Detail: individual recipe.json fetched + cached when a card is opened.
- * Auto-update: background version check refreshes index cache silently.
+ * Architecture:
+ *   meta.json          — lightweight metadata: version, totalPages, totalRecipes
+ *   pages/page_N.json  — 100 index entries per page (~32 KB each)
+ *   recipes/{id}/recipe.json — full recipe detail (fetched on demand)
+ *
+ * First load: fetch meta + page 1 → ~32 KB → cards in <200 ms.
+ * Infinite scroll: fetch next page as user nears bottom → seamless.
+ * Auto-update: meta.json version changes → stale page caches cleared.
+ * Offline: falls back to bundled TRENDING_RECIPES (first ~10 items).
  */
 
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { TRENDING_RECIPES, TrendingRecipe } from './trendingRecipes';
 
 const BASE_URL = 'https://huangrui199126.github.io/receipe-me/data';
-const INDEX_URL = `${BASE_URL}/index.json`;
-const INDEX_CACHE_KEY = 'trending_index_v6';
-const DETAIL_CACHE_PREFIX = 'recipe_detail_v1_';
-const CACHE_TTL_MS = 24 * 60 * 60 * 1000;
+const META_URL = `${BASE_URL}/meta.json`;
+const PAGE_URL = (n: number) => `${BASE_URL}/pages/page_${n}.json`;
+const META_CACHE_KEY = 'trending_meta_v1';
+const PAGE_CACHE_KEY = (n: number) => `trending_page_v1_${n}`;
+const DETAIL_CACHE_KEY = (id: string) => `recipe_detail_v1_${id}`;
+const META_TTL_MS = 60 * 60 * 1000; // check meta every hour
 
 export interface IndexRecipe {
   id: string;
@@ -27,77 +34,111 @@ export interface IndexRecipe {
   tags: string[];
 }
 
-interface IndexResponse {
+interface Meta {
   version: number;
-  recipes: IndexRecipe[];
+  totalRecipes: number;
+  totalPages: number;
+  pageSize: number;
 }
 
-interface CachedIndex {
+interface CachedMeta {
   fetchedAt: number;
-  version: number;
+  meta: Meta;
+}
+
+interface PageResponse {
+  page: number;
+  totalPages: number;
   recipes: IndexRecipe[];
 }
 
-// ── Index (list view) ────────────────────────────────────────────────────────
+// ── Meta ─────────────────────────────────────────────────────────────────────
 
-export async function fetchTrendingIndex(): Promise<IndexRecipe[]> {
-  // 1. Return cached if fresh
-  let cached: CachedIndex | null = null;
+async function loadMeta(): Promise<Meta | null> {
   try {
-    const raw = await AsyncStorage.getItem(INDEX_CACHE_KEY);
-    if (raw) cached = JSON.parse(raw);
+    const res = await fetch(META_URL, { headers: { 'Cache-Control': 'no-cache' } });
+    if (!res.ok) return null;
+    return await res.json();
+  } catch {
+    return null;
+  }
+}
+
+export async function fetchTrendingMeta(): Promise<Meta> {
+  // Return cached meta if fresh (checked within last hour)
+  try {
+    const raw = await AsyncStorage.getItem(META_CACHE_KEY);
+    if (raw) {
+      const cached: CachedMeta = JSON.parse(raw);
+      if (Date.now() - cached.fetchedAt < META_TTL_MS) {
+        return cached.meta;
+      }
+      // Stale — re-fetch in background, return cached immediately
+      loadMeta().then(async fresh => {
+        if (!fresh) return;
+        if (fresh.version !== cached.meta.version) {
+          // Version changed: wipe all page caches so next fetches get fresh data
+          const keys = Array.from({ length: fresh.totalPages }, (_, i) => PAGE_CACHE_KEY(i + 1));
+          await AsyncStorage.multiRemove(keys);
+        }
+        await AsyncStorage.setItem(META_CACHE_KEY, JSON.stringify({ fetchedAt: Date.now(), meta: fresh }));
+      }).catch(() => {});
+      return cached.meta;
+    }
   } catch {}
 
-  const now = Date.now();
-  if (cached && now - cached.fetchedAt < CACHE_TTL_MS) {
-    checkVersionInBackground(cached.version);
-    return cached.recipes;
+  // No cache — fetch synchronously
+  const meta = await loadMeta();
+  if (meta) {
+    await AsyncStorage.setItem(META_CACHE_KEY, JSON.stringify({ fetchedAt: Date.now(), meta })).catch(() => {});
+    return meta;
   }
 
-  // 2. Fetch index.json
-  try {
-    const res = await fetch(INDEX_URL, { headers: { 'Cache-Control': 'no-cache' } });
-    if (res.ok) {
-      const index: IndexResponse = await res.json();
-      const toCache: CachedIndex = { fetchedAt: now, version: index.version, recipes: index.recipes };
-      await AsyncStorage.setItem(INDEX_CACHE_KEY, JSON.stringify(toCache));
-      return index.recipes;
-    }
-  } catch {}
-
-  // 3. Offline fallback — bundled recipes as index entries
-  if (cached) return cached.recipes;
-  return TRENDING_RECIPES.map(r => ({
-    id: r.id, title: r.title, image: r.image,
-    sourcePlatform: r.sourcePlatform, importCount: r.importCount,
-    healthScore: r.healthScore, nutrition: r.nutrition, tags: r.tags,
-  }));
+  // Offline fallback
+  return { version: 0, totalRecipes: TRENDING_RECIPES.length, totalPages: 1, pageSize: 100 };
 }
 
-async function checkVersionInBackground(cachedVersion: number) {
-  try {
-    const res = await fetch(INDEX_URL, { headers: { 'Cache-Control': 'no-cache' } });
-    if (!res.ok) return;
-    const index: IndexResponse = await res.json();
-    if (index.version > cachedVersion) {
-      const toCache: CachedIndex = { fetchedAt: Date.now(), version: index.version, recipes: index.recipes };
-      await AsyncStorage.setItem(INDEX_CACHE_KEY, JSON.stringify(toCache));
-    }
-  } catch {}
-}
+// ── Pages ─────────────────────────────────────────────────────────────────────
 
-// ── Detail (recipe modal) ────────────────────────────────────────────────────
+export async function fetchTrendingPage(pageNum: number): Promise<IndexRecipe[]> {
+  const cacheKey = PAGE_CACHE_KEY(pageNum);
 
-export async function fetchRecipeDetail(id: string): Promise<TrendingRecipe | null> {
-  const cacheKey = `${DETAIL_CACHE_PREFIX}${id}`;
-
-  // 1. Return cached detail immediately
+  // Return cached page immediately
   try {
     const raw = await AsyncStorage.getItem(cacheKey);
     if (raw) return JSON.parse(raw);
   } catch {}
 
-  // 2. Fetch from network
+  // Fetch from network
+  try {
+    const res = await fetch(PAGE_URL(pageNum));
+    if (res.ok) {
+      const data: PageResponse = await res.json();
+      AsyncStorage.setItem(cacheKey, JSON.stringify(data.recipes)).catch(() => {});
+      return data.recipes;
+    }
+  } catch {}
+
+  // Offline fallback — only for page 1
+  if (pageNum === 1) {
+    return TRENDING_RECIPES.map(r => ({
+      id: r.id, title: r.title, image: r.image,
+      sourcePlatform: r.sourcePlatform, importCount: r.importCount,
+      healthScore: r.healthScore, nutrition: r.nutrition, tags: r.tags,
+    }));
+  }
+
+  return [];
+}
+
+// ── Detail (fetched on demand when a recipe card is opened) ──────────────────
+
+export async function fetchRecipeDetail(id: string): Promise<TrendingRecipe | null> {
+  const cacheKey = DETAIL_CACHE_KEY(id);
+  try {
+    const raw = await AsyncStorage.getItem(cacheKey);
+    if (raw) return JSON.parse(raw);
+  } catch {}
   try {
     const res = await fetch(`${BASE_URL}/recipes/${id}/recipe.json`);
     if (!res.ok) return null;
@@ -109,8 +150,10 @@ export async function fetchRecipeDetail(id: string): Promise<TrendingRecipe | nu
   }
 }
 
-/** Force refresh the index (call on pull-to-refresh). */
-export async function refreshTrendingIndex(): Promise<IndexRecipe[]> {
-  await AsyncStorage.removeItem(INDEX_CACHE_KEY);
-  return fetchTrendingIndex();
+/** Clear all page caches (call on pull-to-refresh). */
+export async function clearTrendingCache(): Promise<void> {
+  const meta = await loadMeta();
+  const pages = meta ? meta.totalPages : 26;
+  const keys = [META_CACHE_KEY, ...Array.from({ length: pages }, (_, i) => PAGE_CACHE_KEY(i + 1))];
+  await AsyncStorage.multiRemove(keys).catch(() => {});
 }

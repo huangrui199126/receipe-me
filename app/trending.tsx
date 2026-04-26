@@ -11,7 +11,7 @@ import { Colors } from '../constants/colors';
 import ReciMeLogo from '../components/ReciMeLogo';
 import EmojiIcon, { EmojiImage } from '../components/EmojiIcon';
 import { TrendingRecipe } from '../lib/trendingRecipes';
-import { IndexRecipe, fetchTrendingIndex, fetchRecipeDetail, refreshTrendingIndex } from '../lib/trendingApi';
+import { IndexRecipe, fetchTrendingMeta, fetchTrendingPage, fetchRecipeDetail, clearTrendingCache } from '../lib/trendingApi';
 import { useStore } from '../store';
 import { Cookbook, Recipe, Ingredient, Step } from '../db/schema';
 
@@ -128,8 +128,11 @@ export default function TrendingScreen() {
       .filter((id): id is string => !!id)
   );
 
-  const [index, setIndex] = useState<IndexRecipe[]>([]);
+  const [items, setItems] = useState<IndexRecipe[]>([]);
+  const [currentPage, setCurrentPage] = useState(0);
+  const [totalPages, setTotalPages] = useState(1);
   const [loading, setLoading] = useState(true);
+  const [loadingMore, setLoadingMore] = useState(false);
   const [refreshing, setRefreshing] = useState(false);
 
   // Preview modal state
@@ -138,10 +141,17 @@ export default function TrendingScreen() {
   const [detailError, setDetailError] = useState(false);
   const [selectedCookbook, setSelectedCookbook] = useState<{ id: string; name: string } | null>(null);
   const [showPicker, setShowPicker] = useState(false);
-  const [savedRecipeId, setSavedRecipeId] = useState<string | null>(null); // set after save → triggers success
+  const [savedRecipeId, setSavedRecipeId] = useState<string | null>(null);
 
+  // Load page 1 on mount
   useEffect(() => {
-    fetchTrendingIndex().then(entries => { setIndex(entries); setLoading(false); });
+    (async () => {
+      const [meta, page1] = await Promise.all([fetchTrendingMeta(), fetchTrendingPage(1)]);
+      setTotalPages(meta.totalPages);
+      setItems(page1);
+      setCurrentPage(1);
+      setLoading(false);
+    })();
   }, []);
 
   // Default cookbook = first one, or "Favorites" if none
@@ -179,9 +189,24 @@ export default function TrendingScreen() {
 
   const handleRefresh = async () => {
     setRefreshing(true);
-    const entries = await refreshTrendingIndex();
-    setIndex(entries);
+    await clearTrendingCache();
+    const [meta, page1] = await Promise.all([fetchTrendingMeta(), fetchTrendingPage(1)]);
+    setTotalPages(meta.totalPages);
+    setItems(page1);
+    setCurrentPage(1);
     setRefreshing(false);
+  };
+
+  const handleLoadMore = async () => {
+    if (loadingMore || currentPage >= totalPages) return;
+    setLoadingMore(true);
+    const nextPage = currentPage + 1;
+    const newItems = await fetchTrendingPage(nextPage);
+    if (newItems.length > 0) {
+      setItems(prev => [...prev, ...newItems]);
+      setCurrentPage(nextPage);
+    }
+    setLoadingMore(false);
   };
 
   const handleSave = async () => {
@@ -240,18 +265,17 @@ export default function TrendingScreen() {
     setShowPicker(false);
   };
 
-  // User goals ranking — sort the full index, then paginate
+  // Note: items are already in server order (tr_1, tr_2, ...).
+  // Goal-based re-sorting is skipped for infinite scroll since we only have
+  // the current page loaded — sorting within loaded pages is good enough.
   const goals = userProfile?.goals ?? [];
-  const ranked = [...index].sort((a, b) => {
+  const ranked = goals.length > 0 ? [...items].sort((a, b) => {
     let sA = 0, sB = 0;
     if (goals.includes('healthy')) { sA += a.healthScore; sB += b.healthScore; }
     if (goals.includes('high-protein')) { sA += a.nutrition.protein / 10; sB += b.nutrition.protein / 10; }
     if (goals.includes('low-calorie')) { sA += (600 - a.nutrition.calories) / 100; sB += (600 - b.nutrition.calories) / 100; }
-    if (sA !== sB) return sB - sA;
-    const numA = parseInt(a.id.replace(/\D/g, '')) || 0;
-    const numB = parseInt(b.id.replace(/\D/g, '')) || 0;
-    return numA - numB;
-  });
+    return sB - sA;
+  }) : items;
 
   const displayCookbook = selectedCookbook ?? (cookbooks[0] ? { id: cookbooks[0].id, name: cookbooks[0].name } : { id: '', name: 'Favorites' });
 
@@ -266,7 +290,7 @@ export default function TrendingScreen() {
           <EmojiIcon name="fire" size={20} />
           <Text style={styles.title}>Trending recipes</Text>
         </View>
-        <Text style={styles.count}>{index.length} recipes</Text>
+        <Text style={styles.count}>{items.length} loaded</Text>
       </View>
 
       {goals.length > 0 && (
@@ -288,6 +312,15 @@ export default function TrendingScreen() {
           contentContainerStyle={styles.list}
           columnWrapperStyle={styles.row}
           refreshControl={<RefreshControl refreshing={refreshing} onRefresh={handleRefresh} tintColor={Colors.primary} />}
+          onEndReached={handleLoadMore}
+          onEndReachedThreshold={0.5}
+          ListFooterComponent={
+            loadingMore
+              ? <ActivityIndicator size="small" color={Colors.primary} style={{ marginVertical: 20 }} />
+              : currentPage < totalPages
+                ? <View style={{ height: 40 }} />
+                : null
+          }
           initialNumToRender={20}
           maxToRenderPerBatch={20}
           windowSize={5}

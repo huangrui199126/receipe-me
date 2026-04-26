@@ -284,6 +284,7 @@ export default function TrendingScreen() {
           data={ranked}
           keyExtractor={item => item.id}
           numColumns={2}
+          style={styles.flatList}
           contentContainerStyle={styles.list}
           columnWrapperStyle={styles.row}
           refreshControl={<RefreshControl refreshing={refreshing} onRefresh={handleRefresh} tintColor={Colors.primary} />}
@@ -470,6 +471,7 @@ export default function TrendingScreen() {
 
 const styles = StyleSheet.create({
   safe: { flex: 1, backgroundColor: Colors.background },
+  flatList: { flex: 1 },
 
   // Grid
   header: {

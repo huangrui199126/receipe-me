@@ -92,8 +92,11 @@ function TrendingSegment() {
   const router = useRouter();
   const insets = useSafeAreaInsets();
   const { cookbooks, recipes: savedRecipes, saveRecipe, addCookbook, userProfile, canPreviewRecipe, consumePreview } = useStore();
-  const [index, setIndex] = useState<IndexRecipe[]>([]);
+  const [items, setItems] = useState<IndexRecipe[]>([]);
+  const [currentPage, setCurrentPage] = useState(0);
+  const [totalPages, setTotalPages] = useState(1);
   const [loading, setLoading] = useState(true);
+  const [loadingMore, setLoadingMore] = useState(false);
   const [refreshing, setRefreshing] = useState(false);
   const [importing, setImporting] = useState<string | null>(null);
   const [previewItem, setPreviewItem] = useState<TrendingRecipe | null>(null);
@@ -108,15 +111,37 @@ function TrendingSegment() {
   );
 
   useEffect(() => {
-    fetchTrendingPage(1).then(entries => { setIndex(entries); setLoading(false); });
+    (async () => {
+      const { fetchTrendingMeta } = await import('../../lib/trendingApi');
+      const [meta, page1] = await Promise.all([fetchTrendingMeta(), fetchTrendingPage(1)]);
+      setTotalPages(meta.totalPages);
+      setItems(page1);
+      setCurrentPage(1);
+      setLoading(false);
+    })();
   }, []);
 
   const handleRefresh = async () => {
     setRefreshing(true);
     await clearTrendingCache();
-    const entries = await fetchTrendingPage(1);
-    setIndex(entries);
+    const { fetchTrendingMeta } = await import('../../lib/trendingApi');
+    const [meta, page1] = await Promise.all([fetchTrendingMeta(), fetchTrendingPage(1)]);
+    setTotalPages(meta.totalPages);
+    setItems(page1);
+    setCurrentPage(1);
     setRefreshing(false);
+  };
+
+  const handleLoadMore = async () => {
+    if (loadingMore || currentPage >= totalPages) return;
+    setLoadingMore(true);
+    const next = currentPage + 1;
+    const newItems = await fetchTrendingPage(next);
+    if (newItems.length > 0) {
+      setItems(prev => [...prev, ...newItems]);
+      setCurrentPage(next);
+    }
+    setLoadingMore(false);
   };
 
   const openPreview = (entry: IndexRecipe) => {
@@ -173,12 +198,15 @@ function TrendingSegment() {
   };
 
   const goals = userProfile?.goals ?? [];
-  const ranked = [...index].sort((a, b) => {
-    let sA = 0, sB = 0;
-    if (goals.includes('healthy')) { sA += a.healthScore; sB += b.healthScore; }
-    if (sA !== sB) return sB - sA;
-    return (parseInt(a.id.replace(/\D/g, '')) || 0) - (parseInt(b.id.replace(/\D/g, '')) || 0);
-  }).slice(0, 6);
+  const ranked = goals.length > 0
+    ? [...items].sort((a, b) => {
+        let sA = 0, sB = 0;
+        if (goals.includes('healthy')) { sA += a.healthScore; sB += b.healthScore; }
+        if (goals.includes('high-protein')) { sA += a.nutrition.protein / 10; sB += b.nutrition.protein / 10; }
+        if (goals.includes('low-calorie')) { sA += (600 - a.nutrition.calories) / 100; sB += (600 - b.nutrition.calories) / 100; }
+        return sB - sA;
+      })
+    : items;
 
   if (loading) {
     return (
@@ -199,11 +227,16 @@ function TrendingSegment() {
         contentContainerStyle={tStyles.list}
         columnWrapperStyle={tStyles.row}
         refreshControl={<RefreshControl refreshing={refreshing} onRefresh={handleRefresh} tintColor={Colors.primary} />}
+        onEndReached={handleLoadMore}
+        onEndReachedThreshold={0.5}
         ListFooterComponent={
-          <TouchableOpacity style={tStyles.seeAllBtn} onPress={() => router.push('/trending')}>
-            <Text style={tStyles.seeAllText}>See all trending recipes →</Text>
-          </TouchableOpacity>
+          loadingMore
+            ? <ActivityIndicator size="small" color={Colors.primary} style={{ marginVertical: 20 }} />
+            : <View style={{ height: 20 }} />
         }
+        initialNumToRender={20}
+        maxToRenderPerBatch={20}
+        windowSize={5}
         renderItem={({ item }) => {
           const isSaved = saved.has(item.id);
           return (
@@ -469,7 +502,9 @@ export default function CookbooksTab() {
           )}
         </ScrollView>
       ) : (
-        <TrendingSegment />
+        <View style={styles.flex}>
+          <TrendingSegment />
+        </View>
       )}
 
       {/* New Cookbook Modal */}
@@ -562,8 +597,6 @@ const tStyles = StyleSheet.create({
   flatList: { flex: 1 },
   loadingWrap: { flex: 1, justifyContent: 'center', alignItems: 'center', gap: 12 },
   loadingText: { color: Colors.muted, fontSize: 15 },
-  seeAllBtn: { paddingVertical: 18, alignItems: 'center' },
-  seeAllText: { fontSize: 14, color: Colors.primary, fontWeight: '600' },
   list: { paddingHorizontal: 16, paddingBottom: 40 },
   row: { gap: 12, marginBottom: 12 },
   card: {

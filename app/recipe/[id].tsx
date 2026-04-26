@@ -124,12 +124,14 @@ export default function RecipeDetail() {
   };
 
   // ── Share ────────────────────────────────────────────────────────────────
-  // Trending recipes have a static GitHub Pages page with og: tags for rich preview
-  const isTrending = id?.startsWith('recipe_tr_');
-  const trendingId = isTrending ? id?.split('_')[2] : null; // e.g. 'recipe_tr_1_...' → 'tr_1'
+  // recipe_tr_1_<timestamp> → trendingId = 'tr_1'
+  const trendingId = id?.startsWith('recipe_tr_')
+    ? (() => { const p = id.split('_'); return `tr_${p[2]}`; })()
+    : null;
+  const APP_STORE = 'https://apps.apple.com/app/receipeme/id6762331906';
   const shareUrl = trendingId
-    ? `https://huangrui199126.github.io/receipe-me/recipe/${trendingId}/`
-    : `https://huangrui199126.github.io/receipe-me/`;
+    ? `https://huangrui199126.github.io/receipe-me/open?recipe=${trendingId}`
+    : APP_STORE;
 
   const handleShare = () => {
     const msg = `Check out this recipe: ${recipe.title}\n\n${shareUrl}`;

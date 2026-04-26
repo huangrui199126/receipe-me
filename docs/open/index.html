@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Opening in RecipeMe…</title>
+  <style>
+    body { font-family: -apple-system, sans-serif; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; margin: 0; background: #F0EDE8; color: #1C1C1E; text-align: center; padding: 24px; box-sizing: border-box; }
+    .logo { font-size: 48px; margin-bottom: 16px; }
+    h1 { font-size: 22px; font-weight: 800; margin: 0 0 8px; }
+    p { font-size: 15px; color: #6B7280; margin: 0 0 32px; }
+    .btn { display: inline-block; background: #E8390E; color: #fff; font-size: 16px; font-weight: 700; padding: 14px 32px; border-radius: 14px; text-decoration: none; }
+    .sub { margin-top: 20px; font-size: 13px; color: #9CA3AF; }
+  </style>
+</head>
+<body>
+  <div class="logo">🍴</div>
+  <h1>Opening RecipeMe…</h1>
+  <p>If the app doesn't open automatically,<br>download it from the App Store.</p>
+  <a class="btn" id="storeBtn" href="https://apps.apple.com/app/receipeme/id6762331906">
+    Download RecipeMe
+  </a>
+  <p class="sub">Already have the app? <a href="#" id="tryAgain" style="color:#E8390E;">Open it now</a></p>
+
+  <script>
+    const APP_STORE = 'https://apps.apple.com/app/receipeme/id6762331906';
+    const params = new URLSearchParams(window.location.search);
+    const recipe = params.get('recipe');
+
+    function tryOpen() {
+      if (!recipe) { window.location.href = APP_STORE; return; }
+      const deepLink = 'recipeme://open?recipe=' + encodeURIComponent(recipe);
+      window.location.href = deepLink;
+      // Fall back to App Store after 1.5s if app didn't open
+      setTimeout(function() {
+        window.location.href = APP_STORE;
+      }, 1500);
+    }
+
+    document.getElementById('tryAgain').addEventListener('click', function(e) {
+      e.preventDefault();
+      tryOpen();
+    });
+
+    // Auto-try on load
+    tryOpen();
+  </script>
+</body>
+</html>

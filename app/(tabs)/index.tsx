@@ -14,7 +14,7 @@ import ReciMeLogo from '../../components/ReciMeLogo';
 import Button from '../../components/ui/Button';
 import { E } from '../../constants/emoji';
 import EmojiIcon, { EmojiImage } from '../../components/EmojiIcon';
-import { fetchTrendingRecipes, refreshTrendingRecipes } from '../../lib/trendingApi';
+import { IndexRecipe, fetchTrendingIndex, fetchRecipeDetail, refreshTrendingIndex } from '../../lib/trendingApi';
 import { TrendingRecipe } from '../../lib/trendingRecipes';
 import { Cookbook, Recipe, Ingredient, Step } from '../../db/schema';
 
@@ -92,11 +92,13 @@ function TrendingSegment() {
   const router = useRouter();
   const insets = useSafeAreaInsets();
   const { cookbooks, recipes: savedRecipes, saveRecipe, addCookbook, userProfile, canPreviewRecipe, consumePreview } = useStore();
-  const [recipes, setRecipes] = useState<TrendingRecipe[]>([]);
+  const [index, setIndex] = useState<IndexRecipe[]>([]);
   const [loading, setLoading] = useState(true);
   const [refreshing, setRefreshing] = useState(false);
   const [importing, setImporting] = useState<string | null>(null);
   const [previewItem, setPreviewItem] = useState<TrendingRecipe | null>(null);
+  const [detailLoading, setDetailLoading] = useState(false);
+  const [detailError, setDetailError] = useState(false);
   const [savedRecipeId, setSavedRecipeId] = useState<string | null>(null);
 
   const saved = new Set(
@@ -106,24 +108,39 @@ function TrendingSegment() {
   );
 
   useEffect(() => {
-    fetchTrendingRecipes().then(r => { setRecipes(r); setLoading(false); });
+    fetchTrendingIndex().then(entries => { setIndex(entries); setLoading(false); });
   }, []);
 
   const handleRefresh = async () => {
     setRefreshing(true);
-    const r = await refreshTrendingRecipes();
-    setRecipes(r);
+    const entries = await refreshTrendingIndex();
+    setIndex(entries);
     setRefreshing(false);
+  };
+
+  const openPreview = (entry: IndexRecipe) => {
+    if (!canPreviewRecipe()) { router.push('/paywall'); return; }
+    consumePreview();
+    setSavedRecipeId(null);
+    setDetailError(false);
+    setPreviewItem({ ...entry, servings: 0, prepTime: 0, cookTime: 0, ingredients: [], steps: [] });
+    setDetailLoading(true);
+    fetchRecipeDetail(entry.id).then(detail => {
+      if (detail) setPreviewItem(detail); else setDetailError(true);
+      setDetailLoading(false);
+    });
   };
 
   const closePreview = () => {
     setPreviewItem(null);
     setSavedRecipeId(null);
     setImporting(null);
+    setDetailLoading(false);
+    setDetailError(false);
   };
 
   const handleSave = async () => {
-    if (!previewItem || importing) return;
+    if (!previewItem || importing || detailLoading || detailError) return;
     setImporting(previewItem.id);
     let cookbookId = cookbooks[0]?.id ?? 'favorites';
     if (!cookbooks.find(c => c.id === cookbookId)) {
@@ -155,12 +172,12 @@ function TrendingSegment() {
   };
 
   const goals = userProfile?.goals ?? [];
-  const ranked = [...recipes].sort((a, b) => {
+  const ranked = [...index].sort((a, b) => {
     let sA = 0, sB = 0;
     if (goals.includes('healthy')) { sA += a.healthScore; sB += b.healthScore; }
     if (sA !== sB) return sB - sA;
     return (parseInt(a.id.replace(/\D/g, '')) || 0) - (parseInt(b.id.replace(/\D/g, '')) || 0);
-  });
+  }).slice(0, 6);
 
   if (loading) {
     return (
@@ -185,12 +202,7 @@ function TrendingSegment() {
           return (
             <TouchableOpacity
               style={tStyles.card}
-              onPress={() => {
-              if (!canPreviewRecipe()) { router.push('/paywall'); return; }
-              consumePreview();
-              setSavedRecipeId(null);
-              setPreviewItem(item);
-            }}
+              onPress={() => openPreview(item)}
               activeOpacity={0.85}
             >
               <View style={tStyles.imageWrap}>
@@ -239,11 +251,11 @@ function TrendingSegment() {
                   <View style={tStyles.heroMeta}>
                     <View style={{ flexDirection: 'row', alignItems: 'center', gap: 4 }}>
                       <EmojiIcon name="timer" size={12} />
-                      <Text style={tStyles.heroMetaText}>{previewItem.prepTime + previewItem.cookTime} min</Text>
+                      <Text style={tStyles.heroMetaText}>{detailLoading ? '…' : `${previewItem.prepTime + previewItem.cookTime} min`}</Text>
                     </View>
                     <View style={{ flexDirection: 'row', alignItems: 'center', gap: 4 }}>
                       <EmojiIcon name="plate" size={12} />
-                      <Text style={tStyles.heroMetaText}>{previewItem.servings} servings</Text>
+                      <Text style={tStyles.heroMetaText}>{detailLoading ? '…' : `${previewItem.servings} servings`}</Text>
                     </View>
                   </View>
                   <HealthBadge score={previewItem.healthScore} />
@@ -267,7 +279,16 @@ function TrendingSegment() {
               <View style={tStyles.divider} />
 
               <Text style={tStyles.sectionLabel}>INGREDIENTS</Text>
-              {previewItem.ingredients.map((ing, i) => (
+              {detailLoading ? (
+                <View style={tStyles.detailPlaceholder}>
+                  <ActivityIndicator size="small" color={Colors.primary} />
+                  <Text style={tStyles.detailPlaceholderText}>Loading recipe…</Text>
+                </View>
+              ) : detailError ? (
+                <View style={tStyles.detailPlaceholder}>
+                  <Text style={tStyles.detailErrorText}>Couldn't load recipe details.</Text>
+                </View>
+              ) : previewItem.ingredients.map((ing, i) => (
                 <View key={i} style={tStyles.ingRow}>
                   <View style={{ width: 28, alignItems: 'center' }}><EmojiImage emoji={ing.emoji} size={20} /></View>
                   <Text style={tStyles.ingAmount}>{ing.amount} {ing.unit}</Text>
@@ -277,7 +298,7 @@ function TrendingSegment() {
 
               <View style={tStyles.divider} />
               <Text style={tStyles.sectionLabel}>STEPS</Text>
-              {previewItem.steps.map((s, i) => (
+              {!detailLoading && !detailError && previewItem.steps.map((s, i) => (
                 <View key={i} style={tStyles.stepRow}>
                   <View style={tStyles.stepNum}>
                     <Text style={tStyles.stepNumText}>{s.order}</Text>
@@ -289,13 +310,13 @@ function TrendingSegment() {
 
             <View style={[tStyles.saveBar, { paddingBottom: insets.bottom + 12 }]}>
               <TouchableOpacity
-                style={[tStyles.modalSaveBtn, importing === previewItem.id && { opacity: 0.6 }]}
+                style={[tStyles.modalSaveBtn, (importing === previewItem.id || detailLoading || detailError) && { opacity: 0.5 }]}
                 onPress={handleSave}
-                disabled={importing !== null || !!savedRecipeId}
+                disabled={importing !== null || !!savedRecipeId || detailLoading || detailError}
               >
                 {importing === previewItem.id
                   ? <ActivityIndicator color="#fff" />
-                  : <Text style={tStyles.modalSaveBtnText}>{savedRecipeId ? 'Saved!' : 'Save recipe'}</Text>}
+                  : <Text style={tStyles.modalSaveBtnText}>{savedRecipeId ? 'Saved!' : detailLoading ? 'Loading…' : 'Save recipe'}</Text>}
               </TouchableOpacity>
             </View>
 
@@ -566,6 +587,9 @@ const tStyles = StyleSheet.create({
   nutritionVal: { fontSize: 16, fontWeight: '700', color: Colors.text },
   nutritionLbl: { fontSize: 11, color: Colors.muted, marginTop: 2 },
   sectionLabel: { fontSize: 12, fontWeight: '700', color: Colors.accent, paddingHorizontal: 20, paddingTop: 16, paddingBottom: 8, letterSpacing: 0.8 },
+  detailPlaceholder: { flexDirection: 'row', alignItems: 'center', gap: 10, paddingHorizontal: 20, paddingVertical: 24 },
+  detailPlaceholderText: { fontSize: 14, color: Colors.muted },
+  detailErrorText: { fontSize: 14, color: '#EF4444' },
   ingRow: { flexDirection: 'row', alignItems: 'center', paddingHorizontal: 20, paddingVertical: 8, gap: 10 },
   ingEmoji: { fontSize: 20, width: 28 },
   ingAmount: { fontSize: 14, fontWeight: '700', color: Colors.text, minWidth: 60 },

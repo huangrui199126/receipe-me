@@ -1,12 +1,10 @@
 /**
- * Fetches trending recipes from GitHub Pages.
+ * Trending recipes — paginated index + on-demand detail.
  *
- * On first load (no cache): fetches index.json then all recipe.json files in
- * batches and caches the full data locally. Subsequent loads within the TTL
- * return instantly from cache.
- *
- * Auto-update: on each startup the cached version is compared against the
- * server's index.json version. If newer, the cache is refreshed immediately.
+ * First load: one request to index.json → cards appear instantly.
+ * Pagination: the caller slices the cached index as user scrolls.
+ * Detail: individual recipe.json fetched + cached when a card is opened.
+ * Auto-update: background version check refreshes index cache silently.
  */
 
 import AsyncStorage from '@react-native-async-storage/async-storage';
@@ -14,11 +12,11 @@ import { TRENDING_RECIPES, TrendingRecipe } from './trendingRecipes';
 
 const BASE_URL = 'https://huangrui199126.github.io/receipe-me/data';
 const INDEX_URL = `${BASE_URL}/index.json`;
-const CACHE_KEY = 'trending_recipes_cache_v5'; // v5: full recipe data + version check
+const INDEX_CACHE_KEY = 'trending_index_v6';
+const DETAIL_CACHE_PREFIX = 'recipe_detail_v1_';
 const CACHE_TTL_MS = 24 * 60 * 60 * 1000;
-const BATCH_SIZE = 20; // fetch recipe.json files 20 at a time
 
-interface IndexEntry {
+export interface IndexRecipe {
   id: string;
   title: string;
   image: string;
@@ -31,92 +29,88 @@ interface IndexEntry {
 
 interface IndexResponse {
   version: number;
-  updatedAt: string;
-  recipeCount: number;
-  recipes: IndexEntry[];
+  recipes: IndexRecipe[];
 }
 
-interface CachedData {
+interface CachedIndex {
   fetchedAt: number;
   version: number;
-  recipes: TrendingRecipe[];
+  recipes: IndexRecipe[];
 }
 
-async function fetchRecipe(id: string): Promise<TrendingRecipe | null> {
+// ── Index (list view) ────────────────────────────────────────────────────────
+
+export async function fetchTrendingIndex(): Promise<IndexRecipe[]> {
+  // 1. Return cached if fresh
+  let cached: CachedIndex | null = null;
+  try {
+    const raw = await AsyncStorage.getItem(INDEX_CACHE_KEY);
+    if (raw) cached = JSON.parse(raw);
+  } catch {}
+
+  const now = Date.now();
+  if (cached && now - cached.fetchedAt < CACHE_TTL_MS) {
+    checkVersionInBackground(cached.version);
+    return cached.recipes;
+  }
+
+  // 2. Fetch index.json
+  try {
+    const res = await fetch(INDEX_URL, { headers: { 'Cache-Control': 'no-cache' } });
+    if (res.ok) {
+      const index: IndexResponse = await res.json();
+      const toCache: CachedIndex = { fetchedAt: now, version: index.version, recipes: index.recipes };
+      await AsyncStorage.setItem(INDEX_CACHE_KEY, JSON.stringify(toCache));
+      return index.recipes;
+    }
+  } catch {}
+
+  // 3. Offline fallback — bundled recipes as index entries
+  if (cached) return cached.recipes;
+  return TRENDING_RECIPES.map(r => ({
+    id: r.id, title: r.title, image: r.image,
+    sourcePlatform: r.sourcePlatform, importCount: r.importCount,
+    healthScore: r.healthScore, nutrition: r.nutrition, tags: r.tags,
+  }));
+}
+
+async function checkVersionInBackground(cachedVersion: number) {
+  try {
+    const res = await fetch(INDEX_URL, { headers: { 'Cache-Control': 'no-cache' } });
+    if (!res.ok) return;
+    const index: IndexResponse = await res.json();
+    if (index.version > cachedVersion) {
+      const toCache: CachedIndex = { fetchedAt: Date.now(), version: index.version, recipes: index.recipes };
+      await AsyncStorage.setItem(INDEX_CACHE_KEY, JSON.stringify(toCache));
+    }
+  } catch {}
+}
+
+// ── Detail (recipe modal) ────────────────────────────────────────────────────
+
+export async function fetchRecipeDetail(id: string): Promise<TrendingRecipe | null> {
+  const cacheKey = `${DETAIL_CACHE_PREFIX}${id}`;
+
+  // 1. Return cached detail immediately
+  try {
+    const raw = await AsyncStorage.getItem(cacheKey);
+    if (raw) return JSON.parse(raw);
+  } catch {}
+
+  // 2. Fetch from network
   try {
     const res = await fetch(`${BASE_URL}/recipes/${id}/recipe.json`);
     if (!res.ok) return null;
-    return await res.json();
+    const detail: TrendingRecipe = await res.json();
+    AsyncStorage.setItem(cacheKey, JSON.stringify(detail)).catch(() => {});
+    return detail;
   } catch {
     return null;
   }
 }
 
-async function fetchAllRecipes(ids: string[]): Promise<TrendingRecipe[]> {
-  const results: TrendingRecipe[] = [];
-  for (let i = 0; i < ids.length; i += BATCH_SIZE) {
-    const batch = ids.slice(i, i + BATCH_SIZE);
-    const fetched = await Promise.all(batch.map(id => fetchRecipe(id)));
-    for (const r of fetched) {
-      if (r) results.push(r);
-    }
-  }
-  return results;
-}
-
-export async function fetchTrendingRecipes(): Promise<TrendingRecipe[]> {
-  // 1. Load cached data
-  let cached: CachedData | null = null;
-  try {
-    const raw = await AsyncStorage.getItem(CACHE_KEY);
-    if (raw) cached = JSON.parse(raw);
-  } catch {}
-
-  const now = Date.now();
-
-  // 2. Cache is fresh — check server version in background, return cached immediately
-  if (cached && now - cached.fetchedAt < CACHE_TTL_MS) {
-    refreshIfNewVersion(cached.version).catch(() => {});
-    return cached.recipes;
-  }
-
-  // 3. Cache stale or absent — fetch fresh data
-  try {
-    const indexRes = await fetch(INDEX_URL, { headers: { 'Cache-Control': 'no-cache' } });
-    if (indexRes.ok) {
-      const index: IndexResponse = await indexRes.json();
-      const ids = index.recipes.map(r => r.id);
-      const recipes = await fetchAllRecipes(ids);
-
-      if (recipes.length > 0) {
-        const toCache: CachedData = { fetchedAt: now, version: index.version, recipes };
-        await AsyncStorage.setItem(CACHE_KEY, JSON.stringify(toCache));
-        return recipes;
-      }
-    }
-  } catch {}
-
-  // 4. Offline fallback
-  return cached?.recipes ?? TRENDING_RECIPES;
-}
-
-/** Silently refreshes cache if server has a newer version. */
-async function refreshIfNewVersion(cachedVersion: number) {
-  const indexRes = await fetch(INDEX_URL, { headers: { 'Cache-Control': 'no-cache' } });
-  if (!indexRes.ok) return;
-  const index: IndexResponse = await indexRes.json();
-  if (index.version <= cachedVersion) return;
-
-  const ids = index.recipes.map(r => r.id);
-  const recipes = await fetchAllRecipes(ids);
-  if (recipes.length > 0) {
-    const toCache: CachedData = { fetchedAt: Date.now(), version: index.version, recipes };
-    await AsyncStorage.setItem(CACHE_KEY, JSON.stringify(toCache));
-  }
-}
-
-/** Force refresh (call on pull-to-refresh). */
-export async function refreshTrendingRecipes(): Promise<TrendingRecipe[]> {
-  await AsyncStorage.removeItem(CACHE_KEY);
-  return fetchTrendingRecipes();
+/** Force refresh the index (call on pull-to-refresh). */
+export async function refreshTrendingIndex(): Promise<IndexRecipe[]> {
+  await AsyncStorage.removeItem(INDEX_CACHE_KEY);
+  return fetchTrendingIndex();
 }

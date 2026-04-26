@@ -10,13 +10,14 @@ import { useRouter } from 'expo-router';
 import { Colors } from '../constants/colors';
 import ReciMeLogo from '../components/ReciMeLogo';
 import EmojiIcon, { EmojiImage } from '../components/EmojiIcon';
-import { TrendingRecipe } from '../lib/trendingRecipes';
-import { fetchTrendingRecipes, refreshTrendingRecipes } from '../lib/trendingApi';
+import { TrendingRecipe, TRENDING_RECIPES } from '../lib/trendingRecipes';
+import { IndexRecipe, fetchTrendingIndex, fetchRecipeDetail, refreshTrendingIndex } from '../lib/trendingApi';
 import { useStore } from '../store';
 import { Cookbook, Recipe, Ingredient, Step } from '../db/schema';
 
 const { width } = Dimensions.get('window');
 const CARD_WIDTH = (width - 48) / 2;
+const PAGE_SIZE = 20;
 
 function HealthBadge({ score }: { score: number }) {
   const color = score >= 8 ? '#16A34A' : score >= 5 ? '#F59E0B' : '#EF4444';
@@ -127,18 +128,25 @@ export default function TrendingScreen() {
       .map(r => r.id.match(/^recipe_(tr_\d+)_/)?.[1])
       .filter((id): id is string => !!id)
   );
-  const [recipes, setRecipes] = useState<TrendingRecipe[]>([]);
+
+  // Index = all lightweight entries (for grid + search)
+  const [index, setIndex] = useState<IndexRecipe[]>([]);
+  // page = how many cards are currently shown
+  const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(true);
   const [refreshing, setRefreshing] = useState(false);
+  const [loadingMore, setLoadingMore] = useState(false);
 
   // Preview modal state
   const [previewItem, setPreviewItem] = useState<TrendingRecipe | null>(null);
+  const [detailLoading, setDetailLoading] = useState(false);
+  const [detailError, setDetailError] = useState(false);
   const [selectedCookbook, setSelectedCookbook] = useState<{ id: string; name: string } | null>(null);
   const [showPicker, setShowPicker] = useState(false);
   const [savedRecipeId, setSavedRecipeId] = useState<string | null>(null); // set after save → triggers success
 
   useEffect(() => {
-    fetchTrendingRecipes().then(r => { setRecipes(r); setLoading(false); });
+    fetchTrendingIndex().then(entries => { setIndex(entries); setLoading(false); });
   }, []);
 
   // Default cookbook = first one, or "Favorites" if none
@@ -146,10 +154,23 @@ export default function TrendingScreen() {
     ? { id: cookbooks[0].id, name: cookbooks[0].name }
     : { id: 'favorites', name: 'Favorites' };
 
-  const openPreview = (item: TrendingRecipe) => {
+  const openPreview = (entry: IndexRecipe) => {
     setSavedRecipeId(null);
     setSelectedCookbook(null);
-    setPreviewItem(item);
+    setDetailError(false);
+    // Show modal immediately with index data (image + title + nutrition visible right away)
+    setPreviewItem({
+      ...entry, servings: 0, prepTime: 0, cookTime: 0, ingredients: [], steps: [],
+    });
+    setDetailLoading(true);
+    fetchRecipeDetail(entry.id).then(detail => {
+      if (detail) {
+        setPreviewItem(detail);
+      } else {
+        setDetailError(true);
+      }
+      setDetailLoading(false);
+    });
   };
 
   const closePreview = () => {
@@ -157,17 +178,27 @@ export default function TrendingScreen() {
     setSavedRecipeId(null);
     setSelectedCookbook(null);
     setShowPicker(false);
+    setDetailLoading(false);
+    setDetailError(false);
   };
 
   const handleRefresh = async () => {
     setRefreshing(true);
-    const r = await refreshTrendingRecipes();
-    setRecipes(r);
+    setPage(1);
+    const entries = await refreshTrendingIndex();
+    setIndex(entries);
     setRefreshing(false);
   };
 
+  const handleLoadMore = () => {
+    if (loadingMore || page * PAGE_SIZE >= ranked.length) return;
+    setLoadingMore(true);
+    setPage(p => p + 1);
+    setLoadingMore(false);
+  };
+
   const handleSave = async () => {
-    if (!previewItem || importing) return;
+    if (!previewItem || importing || detailLoading || detailError) return;
     setImporting(previewItem.id);
 
     // Save to first existing cookbook, or create "Favorites" if none exist
@@ -222,19 +253,19 @@ export default function TrendingScreen() {
     setShowPicker(false);
   };
 
-  // User goals ranking
+  // User goals ranking — sort the full index, then paginate
   const goals = userProfile?.goals ?? [];
-  const ranked = [...recipes].sort((a, b) => {
+  const ranked = [...index].sort((a, b) => {
     let sA = 0, sB = 0;
     if (goals.includes('healthy')) { sA += a.healthScore; sB += b.healthScore; }
     if (goals.includes('high-protein')) { sA += a.nutrition.protein / 10; sB += b.nutrition.protein / 10; }
     if (goals.includes('low-calorie')) { sA += (600 - a.nutrition.calories) / 100; sB += (600 - b.nutrition.calories) / 100; }
     if (sA !== sB) return sB - sA;
-    // Stable fallback: sort by numeric ID (tr_1 < tr_2 < ...)
     const numA = parseInt(a.id.replace(/\D/g, '')) || 0;
     const numB = parseInt(b.id.replace(/\D/g, '')) || 0;
     return numA - numB;
   });
+  const visibleRecipes = ranked.slice(0, page * PAGE_SIZE);
 
   const displayCookbook = selectedCookbook ?? (cookbooks[0] ? { id: cookbooks[0].id, name: cookbooks[0].name } : { id: '', name: 'Favorites' });
 
@@ -249,7 +280,7 @@ export default function TrendingScreen() {
           <EmojiIcon name="fire" size={20} />
           <Text style={styles.title}>Trending recipes</Text>
         </View>
-        <Text style={styles.count}>{recipes.length} recipes</Text>
+        <Text style={styles.count}>{index.length} recipes</Text>
       </View>
 
       {goals.length > 0 && (
@@ -264,12 +295,19 @@ export default function TrendingScreen() {
         </View>
       ) : (
         <FlatList
-          data={ranked}
+          data={visibleRecipes}
           keyExtractor={item => item.id}
           numColumns={2}
           contentContainerStyle={styles.list}
           columnWrapperStyle={styles.row}
           refreshControl={<RefreshControl refreshing={refreshing} onRefresh={handleRefresh} tintColor={Colors.primary} />}
+          onEndReached={handleLoadMore}
+          onEndReachedThreshold={0.4}
+          ListFooterComponent={
+            visibleRecipes.length < ranked.length
+              ? <ActivityIndicator size="small" color={Colors.primary} style={{ marginVertical: 16 }} />
+              : null
+          }
           renderItem={({ item }) => {
             const isSaved = saved.has(item.id);
             return (
@@ -336,11 +374,15 @@ export default function TrendingScreen() {
                   <View style={styles.heroMeta}>
                     <View style={{ flexDirection: 'row', alignItems: 'center', gap: 4 }}>
                       <EmojiIcon name="timer" size={12} />
-                      <Text style={styles.heroMetaText}>{previewItem.prepTime + previewItem.cookTime} min</Text>
+                      <Text style={styles.heroMetaText}>
+                        {detailLoading ? '…' : `${previewItem.prepTime + previewItem.cookTime} min`}
+                      </Text>
                     </View>
                     <View style={{ flexDirection: 'row', alignItems: 'center', gap: 4 }}>
                       <EmojiIcon name="plate" size={12} />
-                      <Text style={styles.heroMetaText}>{previewItem.servings} servings</Text>
+                      <Text style={styles.heroMetaText}>
+                        {detailLoading ? '…' : `${previewItem.servings} servings`}
+                      </Text>
                     </View>
                   </View>
                   <HealthBadge score={previewItem.healthScore} />
@@ -368,19 +410,33 @@ export default function TrendingScreen() {
 
               {/* Ingredients */}
               <Text style={styles.sectionLabel}>INGREDIENTS</Text>
-              {previewItem.ingredients.map((ing, i) => (
-                <View key={i} style={styles.ingRow}>
-                  <View style={{ width: 28, alignItems: 'center' }}><EmojiImage emoji={ing.emoji} size={20} /></View>
-                  <Text style={styles.ingAmount}>{ing.amount} {ing.unit}</Text>
-                  <Text style={styles.ingName}>{ing.name}</Text>
+              {detailLoading ? (
+                <View style={styles.detailPlaceholder}>
+                  <ActivityIndicator size="small" color={Colors.primary} />
+                  <Text style={styles.detailPlaceholderText}>Loading recipe…</Text>
                 </View>
-              ))}
+              ) : detailError ? (
+                <View style={styles.detailPlaceholder}>
+                  <Text style={styles.detailErrorText}>Couldn't load recipe. Check your connection and try again.</Text>
+                  <TouchableOpacity onPress={() => previewItem && openPreview(previewItem)} style={styles.retryBtn}>
+                    <Text style={styles.retryBtnText}>Retry</Text>
+                  </TouchableOpacity>
+                </View>
+              ) : (
+                previewItem.ingredients.map((ing, i) => (
+                  <View key={i} style={styles.ingRow}>
+                    <View style={{ width: 28, alignItems: 'center' }}><EmojiImage emoji={ing.emoji} size={20} /></View>
+                    <Text style={styles.ingAmount}>{ing.amount} {ing.unit}</Text>
+                    <Text style={styles.ingName}>{ing.name}</Text>
+                  </View>
+                ))
+              )}
 
               <View style={styles.divider} />
 
               {/* Steps */}
               <Text style={styles.sectionLabel}>STEPS</Text>
-              {previewItem.steps.map((s, i) => (
+              {!detailLoading && !detailError && previewItem.steps.map((s, i) => (
                 <View key={i} style={styles.stepRow}>
                   <View style={styles.stepNum}>
                     <Text style={styles.stepNumText}>{s.order}</Text>
@@ -393,13 +449,13 @@ export default function TrendingScreen() {
             {/* Bottom save bar */}
             <View style={[styles.saveBar, { paddingBottom: insets.bottom + 12 }]}>
               <TouchableOpacity
-                style={[styles.saveBtn, importing === previewItem.id && { opacity: 0.6 }]}
+                style={[styles.saveBtn, (importing === previewItem.id || detailLoading || detailError) && { opacity: 0.5 }]}
                 onPress={handleSave}
-                disabled={importing !== null}
+                disabled={importing !== null || detailLoading || detailError}
               >
                 {importing === previewItem.id
                   ? <ActivityIndicator color="#fff" />
-                  : <Text style={styles.saveBtnText}>Save recipe</Text>}
+                  : <Text style={styles.saveBtnText}>{detailLoading ? 'Loading…' : 'Save recipe'}</Text>}
               </TouchableOpacity>
             </View>
 
@@ -487,6 +543,11 @@ const styles = StyleSheet.create({
   nutritionVal: { fontSize: 16, fontWeight: '700', color: Colors.text },
   nutritionLbl: { fontSize: 11, color: Colors.muted, marginTop: 2 },
   sectionLabel: { fontSize: 12, fontWeight: '700', color: Colors.accent, paddingHorizontal: 20, paddingTop: 16, paddingBottom: 8, letterSpacing: 0.8 },
+  detailPlaceholder: { flexDirection: 'row', alignItems: 'center', gap: 10, paddingHorizontal: 20, paddingVertical: 24 },
+  detailPlaceholderText: { fontSize: 14, color: Colors.muted },
+  detailErrorText: { fontSize: 14, color: '#EF4444', flex: 1 },
+  retryBtn: { paddingHorizontal: 14, paddingVertical: 8, borderRadius: 8, backgroundColor: Colors.primary },
+  retryBtnText: { color: '#fff', fontSize: 13, fontWeight: '700' },
   ingRow: { flexDirection: 'row', alignItems: 'center', paddingHorizontal: 20, paddingVertical: 8, gap: 10 },
   ingEmoji: { fontSize: 20, width: 28 },
   ingAmount: { fontSize: 14, fontWeight: '700', color: Colors.text, minWidth: 60 },

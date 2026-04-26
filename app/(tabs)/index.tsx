@@ -14,12 +14,26 @@ import ReciMeLogo from '../../components/ReciMeLogo';
 import Button from '../../components/ui/Button';
 import { E } from '../../constants/emoji';
 import EmojiIcon, { EmojiImage } from '../../components/EmojiIcon';
-import { IndexRecipe, fetchTrendingPage, fetchRecipeDetail, clearTrendingCache } from '../../lib/trendingApi';
+import { IndexRecipe, fetchTrendingPage, fetchTrendingMeta, fetchRecipeDetail, fetchSearchIndex, clearTrendingCache } from '../../lib/trendingApi';
 import { TrendingRecipe } from '../../lib/trendingRecipes';
 import { Cookbook, Recipe, Ingredient, Step } from '../../db/schema';
 
 const { width } = Dimensions.get('window');
 const CARD_WIDTH = (width - 48) / 2;
+
+const FILTER_CHIPS = [
+  { id: 'all',          label: 'All',          emoji: '🔥', match: (_: IndexRecipe) => true },
+  { id: 'healthy',      label: 'Healthy',       emoji: '💚', match: (r: IndexRecipe) => r.healthScore >= 8 },
+  { id: 'high-protein', label: 'High Protein',  emoji: '💪', match: (r: IndexRecipe) => (r.nutrition?.protein ?? 0) >= 30 },
+  { id: 'chicken',      label: 'Chicken',       emoji: '🍗', match: (r: IndexRecipe) => r.tags?.some(t => t.toLowerCase().includes('chicken')) },
+  { id: 'beef',         label: 'Beef',          emoji: '🥩', match: (r: IndexRecipe) => r.tags?.some(t => t.toLowerCase().includes('beef') || t.toLowerCase().includes('pork')) },
+  { id: 'pasta',        label: 'Pasta',         emoji: '🍝', match: (r: IndexRecipe) => r.tags?.some(t => t.toLowerCase().includes('pasta') || t.toLowerCase().includes('noodle')) },
+  { id: 'seafood',      label: 'Seafood',       emoji: '🐟', match: (r: IndexRecipe) => r.tags?.some(t => ['salmon','tuna','shrimp','fish','seafood'].some(k => t.toLowerCase().includes(k))) },
+  { id: 'chocolate',    label: 'Chocolate',     emoji: '🍫', match: (r: IndexRecipe) => r.tags?.some(t => t.toLowerCase().includes('chocolate')) },
+  { id: 'spicy',        label: 'Spicy',         emoji: '🌶️', match: (r: IndexRecipe) => r.tags?.some(t => t.toLowerCase().includes('spicy') || t.toLowerCase().includes('chili')) },
+  { id: 'breakfast',    label: 'Breakfast',     emoji: '🍳', match: (r: IndexRecipe) => r.tags?.some(t => ['breakfast','pancake','egg','waffle'].some(k => t.toLowerCase().includes(k))) },
+  { id: 'dessert',      label: 'Dessert',       emoji: '🍰', match: (r: IndexRecipe) => r.tags?.some(t => ['dessert','cake','cookie','brownie','ice cream','fudge'].some(k => t.toLowerCase().includes(k))) },
+];
 
 // ── Cookbook Card (ML Challenges style) ─────────────────────────────────────
 
@@ -88,7 +102,7 @@ function HealthBadge({ score }: { score: number }) {
   );
 }
 
-function TrendingSegment() {
+function TrendingSegment({ searchQuery = '' }: { searchQuery?: string }) {
   const router = useRouter();
   const insets = useSafeAreaInsets();
   const { cookbooks, recipes: savedRecipes, saveRecipe, addCookbook, userProfile, canPreviewRecipe, consumePreview } = useStore();
@@ -103,6 +117,9 @@ function TrendingSegment() {
   const [detailLoading, setDetailLoading] = useState(false);
   const [detailError, setDetailError] = useState(false);
   const [savedRecipeId, setSavedRecipeId] = useState<string | null>(null);
+  const [activeChip, setActiveChip] = useState('all');
+  const [searchResults, setSearchResults] = useState<IndexRecipe[]>([]);
+  const [searchLoading, setSearchLoading] = useState(false);
 
   const saved = new Set(
     savedRecipes
@@ -112,7 +129,6 @@ function TrendingSegment() {
 
   useEffect(() => {
     (async () => {
-      const { fetchTrendingMeta } = await import('../../lib/trendingApi');
       const [meta, page1] = await Promise.all([fetchTrendingMeta(), fetchTrendingPage(1)]);
       setTotalPages(meta.totalPages);
       setItems(page1);
@@ -120,6 +136,21 @@ function TrendingSegment() {
       setLoading(false);
     })();
   }, []);
+
+  useEffect(() => {
+    if (!searchQuery.trim()) { setSearchResults([]); return; }
+    setSearchLoading(true);
+    const q = searchQuery.toLowerCase();
+    fetchSearchIndex().then(all => {
+      const matches = all.filter(r =>
+        r.title.toLowerCase().includes(q) ||
+        r.tags?.some(t => t.toLowerCase().includes(q)) ||
+        r.sourcePlatform?.toLowerCase().includes(q)
+      );
+      setSearchResults(matches.slice(0, 200));
+      setSearchLoading(false);
+    });
+  }, [searchQuery]);
 
   const handleRefresh = async () => {
     setRefreshing(true);
@@ -198,15 +229,19 @@ function TrendingSegment() {
   };
 
   const goals = userProfile?.goals ?? [];
-  const ranked = goals.length > 0
-    ? [...items].sort((a, b) => {
+  const chip = FILTER_CHIPS.find(c => c.id === activeChip) ?? FILTER_CHIPS[0];
+  const displayItems = searchQuery.trim()
+    ? searchResults
+    : items.filter(chip.match);
+  const ranked = goals.length > 0 && !searchQuery.trim()
+    ? [...displayItems].sort((a, b) => {
         let sA = 0, sB = 0;
         if (goals.includes('healthy')) { sA += a.healthScore; sB += b.healthScore; }
         if (goals.includes('high-protein')) { sA += a.nutrition.protein / 10; sB += b.nutrition.protein / 10; }
         if (goals.includes('low-calorie')) { sA += (600 - a.nutrition.calories) / 100; sB += (600 - b.nutrition.calories) / 100; }
         return sB - sA;
       })
-    : items;
+    : displayItems;
 
   if (loading) {
     return (
@@ -217,8 +252,46 @@ function TrendingSegment() {
     );
   }
 
+  const isSearching = searchQuery.trim().length > 0;
+
   return (
     <>
+      {/* Filter chips — hidden during search */}
+      {!isSearching && (
+        <ScrollView
+          horizontal
+          showsHorizontalScrollIndicator={false}
+          contentContainerStyle={tStyles.chipsRow}
+          style={tStyles.chipsScroll}
+        >
+          {FILTER_CHIPS.map(chip => (
+            <TouchableOpacity
+              key={chip.id}
+              style={[tStyles.chip, activeChip === chip.id && tStyles.chipActive]}
+              onPress={() => setActiveChip(chip.id)}
+              activeOpacity={0.75}
+            >
+              <Text style={tStyles.chipEmoji}>{chip.emoji}</Text>
+              <Text style={[tStyles.chipLabel, activeChip === chip.id && tStyles.chipLabelActive]}>
+                {chip.label}
+              </Text>
+            </TouchableOpacity>
+          ))}
+        </ScrollView>
+      )}
+
+      {/* Search status row */}
+      {isSearching && (
+        <View style={tStyles.searchStatusRow}>
+          {searchLoading
+            ? <ActivityIndicator size="small" color={Colors.primary} />
+            : <Text style={tStyles.searchStatusText}>
+                {searchResults.length === 0 ? 'No results' : `${searchResults.length} recipes found`}
+              </Text>
+          }
+        </View>
+      )}
+
       <FlatList
         data={ranked}
         keyExtractor={item => item.id}
@@ -393,10 +466,6 @@ export default function CookbooksTab() {
   const [newName, setNewName] = useState('');
   const [newEmoji, setNewEmoji] = useState('');
 
-  const filteredRecipes = search
-    ? recipes.filter(r => r.title.toLowerCase().includes(search.toLowerCase()))
-    : [];
-
   const handleCreateCookbook = async () => {
     if (!newName.trim()) return;
     await addCookbook({
@@ -460,20 +529,11 @@ export default function CookbooksTab() {
         </View>
       )}
 
-      {/* Search results */}
+      {/* Content area */}
       {search.length > 0 ? (
-        <ScrollView style={styles.flex} contentContainerStyle={styles.scrollContent}>
-          {filteredRecipes.length === 0 ? (
-            <Text style={styles.noResults}>No recipes found for "{search}"</Text>
-          ) : (
-            filteredRecipes.map(r => (
-              <TouchableOpacity key={r.id} style={styles.searchResult} onPress={() => router.push(`/recipe/${r.id}`)}>
-                <Text style={styles.searchResultText}>{r.title}</Text>
-                <Text style={styles.chevron}>{'\u203A'}</Text>
-              </TouchableOpacity>
-            ))
-          )}
-        </ScrollView>
+        <View style={styles.flex}>
+          <TrendingSegment searchQuery={search} />
+        </View>
       ) : activeSegment === 'collection' ? (
         <ScrollView
           style={styles.flex}
@@ -597,6 +657,20 @@ const tStyles = StyleSheet.create({
   flatList: { flex: 1 },
   loadingWrap: { flex: 1, justifyContent: 'center', alignItems: 'center', gap: 12 },
   loadingText: { color: Colors.muted, fontSize: 15 },
+  chipsScroll: { flexGrow: 0, marginBottom: 10 },
+  chipsRow: { paddingHorizontal: 16, gap: 8 },
+  chip: {
+    flexDirection: 'row', alignItems: 'center', gap: 5,
+    backgroundColor: '#fff', borderRadius: 20,
+    paddingHorizontal: 12, paddingVertical: 7,
+    borderWidth: 1.5, borderColor: Colors.border,
+  },
+  chipActive: { backgroundColor: Colors.primary, borderColor: Colors.primary },
+  chipEmoji: { fontSize: 14 },
+  chipLabel: { fontSize: 13, fontWeight: '600', color: Colors.text },
+  chipLabelActive: { color: '#fff' },
+  searchStatusRow: { paddingHorizontal: 16, paddingBottom: 8, flexDirection: 'row', alignItems: 'center', gap: 8 },
+  searchStatusText: { fontSize: 13, color: Colors.muted },
   list: { paddingHorizontal: 16, paddingBottom: 40 },
   row: { gap: 12, marginBottom: 12 },
   card: {

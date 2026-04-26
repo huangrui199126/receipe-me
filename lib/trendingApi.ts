@@ -131,6 +131,27 @@ export async function fetchTrendingPage(pageNum: number): Promise<IndexRecipe[]>
   return [];
 }
 
+// ── Search index (all 2510 entries, loaded once for full-text search) ────────
+
+const SEARCH_INDEX_URL = `${BASE_URL}/search_index.json`;
+const SEARCH_CACHE_KEY = 'trending_search_v1';
+
+export async function fetchSearchIndex(): Promise<IndexRecipe[]> {
+  try {
+    const raw = await AsyncStorage.getItem(SEARCH_CACHE_KEY);
+    if (raw) return JSON.parse(raw);
+  } catch {}
+  try {
+    const res = await fetch(SEARCH_INDEX_URL);
+    if (res.ok) {
+      const data: { recipes: IndexRecipe[] } = await res.json();
+      AsyncStorage.setItem(SEARCH_CACHE_KEY, JSON.stringify(data.recipes)).catch(() => {});
+      return data.recipes;
+    }
+  } catch {}
+  return [];
+}
+
 // ── Detail (fetched on demand when a recipe card is opened) ──────────────────
 
 export async function fetchRecipeDetail(id: string): Promise<TrendingRecipe | null> {
@@ -154,6 +175,6 @@ export async function fetchRecipeDetail(id: string): Promise<TrendingRecipe | nu
 export async function clearTrendingCache(): Promise<void> {
   const meta = await loadMeta();
   const pages = meta ? meta.totalPages : 26;
-  const keys = [META_CACHE_KEY, ...Array.from({ length: pages }, (_, i) => PAGE_CACHE_KEY(i + 1))];
+  const keys = [META_CACHE_KEY, SEARCH_CACHE_KEY, ...Array.from({ length: pages }, (_, i) => PAGE_CACHE_KEY(i + 1))];
   await AsyncStorage.multiRemove(keys).catch(() => {});
 }

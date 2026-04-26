@@ -30,10 +30,22 @@
     function tryOpen() {
       if (!recipe) { window.location.href = APP_STORE; return; }
       const deepLink = 'recipeme://open?recipe=' + encodeURIComponent(recipe);
+
+      // If the app opens, the browser tab loses focus or becomes hidden.
+      // Cancel the App Store redirect in that case.
+      let appOpened = false;
+      const onHide = function() { appOpened = true; };
+      document.addEventListener('visibilitychange', onHide);
+      window.addEventListener('blur', onHide);
+
       window.location.href = deepLink;
-      // Fall back to App Store after 1.5s if app didn't open
+
       setTimeout(function() {
-        window.location.href = APP_STORE;
+        document.removeEventListener('visibilitychange', onHide);
+        window.removeEventListener('blur', onHide);
+        if (!appOpened) {
+          window.location.href = APP_STORE;
+        }
       }, 1500);
     }
 

@@ -290,30 +290,53 @@ function TrendingSegment({ searchQuery = '' }: { searchQuery?: string }) {
               onPress={() => setChipMode('diet')}
               activeOpacity={0.8}
             >
-              <Text style={[tStyles.modeBtnText, chipMode === 'diet' && tStyles.modeBtnTextActive]}>
-                Diet
-              </Text>
-              {activeIngChip !== 'all' && chipMode !== 'diet' && <View style={tStyles.modeDot} />}
+              <Text style={[tStyles.modeBtnText, chipMode === 'diet' && tStyles.modeBtnTextActive]}>Diet</Text>
             </TouchableOpacity>
             <TouchableOpacity
               style={[tStyles.modeBtn, chipMode === 'cuisine' && tStyles.modeBtnActive]}
               onPress={() => setChipMode('cuisine')}
               activeOpacity={0.8}
             >
-              <Text style={[tStyles.modeBtnText, chipMode === 'cuisine' && tStyles.modeBtnTextActive]}>
-                Cuisine
-              </Text>
-              {activeCuisineChip !== 'all' && chipMode !== 'cuisine' && <View style={tStyles.modeDot} />}
+              <Text style={[tStyles.modeBtnText, chipMode === 'cuisine' && tStyles.modeBtnTextActive]}>Cuisine</Text>
             </TouchableOpacity>
-            {(activeIngChip !== 'all' || activeCuisineChip !== 'all') && (
+          </View>
+
+          {/* Active filter summary — always visible when anything is selected */}
+          {(activeIngChip !== 'all' || activeCuisineChip !== 'all') && (
+            <View style={tStyles.activeSummaryRow}>
+              {activeIngChip !== 'all' && (() => {
+                const chip = FILTER_CHIPS.find(c => c.id === activeIngChip)!;
+                return (
+                  <TouchableOpacity
+                    style={tStyles.activeTag}
+                    onPress={() => setActiveIngChip('all')}
+                    activeOpacity={0.75}
+                  >
+                    <Text style={tStyles.activeTagText}>{chip.emoji} {chip.label}</Text>
+                    <Text style={tStyles.activeTagX}>×</Text>
+                  </TouchableOpacity>
+                );
+              })()}
+              {activeCuisineChip !== 'all' && (() => {
+                const chip = CUISINE_CHIPS.find(c => c.id === activeCuisineChip)!;
+                return (
+                  <TouchableOpacity
+                    style={tStyles.activeTag}
+                    onPress={() => setActiveCuisineChip('all')}
+                    activeOpacity={0.75}
+                  >
+                    <Text style={tStyles.activeTagText}>{chip.emoji} {chip.label}</Text>
+                    <Text style={tStyles.activeTagX}>×</Text>
+                  </TouchableOpacity>
+                );
+              })()}
               <TouchableOpacity
                 onPress={() => { setActiveIngChip('all'); setActiveCuisineChip('all'); }}
-                style={tStyles.clearAllBtn}
               >
-                <Text style={tStyles.clearAllText}>✕ Clear</Text>
+                <Text style={tStyles.clearAllText}>Clear all</Text>
               </TouchableOpacity>
-            )}
-          </View>
+            </View>
+          )}
 
           {/* Single chip row — swaps based on mode */}
           <ScrollView
@@ -742,9 +765,11 @@ const tStyles = StyleSheet.create({
   modeBtnActive: { backgroundColor: Colors.text },
   modeBtnText: { fontSize: 13, fontWeight: '600', color: Colors.muted },
   modeBtnTextActive: { color: '#fff' },
-  modeDot: { width: 6, height: 6, borderRadius: 3, backgroundColor: Colors.primary },
-  clearAllBtn: { marginLeft: 4, paddingHorizontal: 10, paddingVertical: 6, borderRadius: 20, backgroundColor: '#FEE2E2' },
-  clearAllText: { fontSize: 12, fontWeight: '700', color: '#EF4444' },
+  activeSummaryRow: { flexDirection: 'row', alignItems: 'center', paddingHorizontal: 16, marginBottom: 8, gap: 8, flexWrap: 'wrap' },
+  activeTag: { flexDirection: 'row', alignItems: 'center', gap: 4, backgroundColor: Colors.primaryLight, borderRadius: 20, paddingHorizontal: 11, paddingVertical: 5, borderWidth: 1.5, borderColor: Colors.primary },
+  activeTagText: { fontSize: 12, fontWeight: '700', color: Colors.primary },
+  activeTagX: { fontSize: 14, fontWeight: '700', color: Colors.primary, lineHeight: 16 },
+  clearAllText: { fontSize: 12, fontWeight: '600', color: Colors.muted },
   chipsScroll: { flexGrow: 0, marginBottom: 4 },
   chipsRow: { paddingHorizontal: 16, gap: 8 },
   chip: {

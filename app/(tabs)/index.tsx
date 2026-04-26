@@ -21,18 +21,39 @@ import { Cookbook, Recipe, Ingredient, Step } from '../../db/schema';
 const { width } = Dimensions.get('window');
 const CARD_WIDTH = (width - 48) / 2;
 
+function hasCuisineKeyword(r: IndexRecipe, keywords: string[]): boolean {
+  const haystack = [...(r.tags ?? []), r.title].join(' ').toLowerCase();
+  return keywords.some(k => haystack.includes(k));
+}
+
 const FILTER_CHIPS = [
   { id: 'all',          label: 'All',          emoji: '🔥', match: (_: IndexRecipe) => true },
   { id: 'healthy',      label: 'Healthy',       emoji: '💚', match: (r: IndexRecipe) => r.healthScore >= 8 },
   { id: 'high-protein', label: 'High Protein',  emoji: '💪', match: (r: IndexRecipe) => (r.nutrition?.protein ?? 0) >= 30 },
+  { id: 'low-cal',      label: 'Low Cal',       emoji: '🥗', match: (r: IndexRecipe) => (r.nutrition?.calories ?? 999) <= 400 },
   { id: 'chicken',      label: 'Chicken',       emoji: '🍗', match: (r: IndexRecipe) => r.tags?.some(t => t.toLowerCase().includes('chicken')) },
   { id: 'beef',         label: 'Beef',          emoji: '🥩', match: (r: IndexRecipe) => r.tags?.some(t => t.toLowerCase().includes('beef') || t.toLowerCase().includes('pork')) },
   { id: 'pasta',        label: 'Pasta',         emoji: '🍝', match: (r: IndexRecipe) => r.tags?.some(t => t.toLowerCase().includes('pasta') || t.toLowerCase().includes('noodle')) },
   { id: 'seafood',      label: 'Seafood',       emoji: '🐟', match: (r: IndexRecipe) => r.tags?.some(t => ['salmon','tuna','shrimp','fish','seafood'].some(k => t.toLowerCase().includes(k))) },
+  { id: 'vegetarian',   label: 'Vegetarian',    emoji: '🥦', match: (r: IndexRecipe) => r.tags?.some(t => ['vegetarian','vegan','plant'].some(k => t.toLowerCase().includes(k))) },
   { id: 'chocolate',    label: 'Chocolate',     emoji: '🍫', match: (r: IndexRecipe) => r.tags?.some(t => t.toLowerCase().includes('chocolate')) },
   { id: 'spicy',        label: 'Spicy',         emoji: '🌶️', match: (r: IndexRecipe) => r.tags?.some(t => t.toLowerCase().includes('spicy') || t.toLowerCase().includes('chili')) },
   { id: 'breakfast',    label: 'Breakfast',     emoji: '🍳', match: (r: IndexRecipe) => r.tags?.some(t => ['breakfast','pancake','egg','waffle'].some(k => t.toLowerCase().includes(k))) },
   { id: 'dessert',      label: 'Dessert',       emoji: '🍰', match: (r: IndexRecipe) => r.tags?.some(t => ['dessert','cake','cookie','brownie','ice cream','fudge'].some(k => t.toLowerCase().includes(k))) },
+];
+
+const CUISINE_CHIPS = [
+  { id: 'all',           label: 'All',           emoji: '🌍', match: (_: IndexRecipe) => true },
+  { id: 'chinese',       label: 'Chinese',        emoji: '🥢', match: (r: IndexRecipe) => hasCuisineKeyword(r, ['chinese','dim sum','wonton','fried rice','kung pao','mapo','dumplings','char siu','hotpot','congee','chow mein','peking']) },
+  { id: 'indian',        label: 'Indian',         emoji: '🫓', match: (r: IndexRecipe) => hasCuisineKeyword(r, ['indian','curry','masala','tikka','biryani','naan','dal','paneer','tandoori','samosa','chutney','vindaloo']) },
+  { id: 'mexican',       label: 'Mexican',        emoji: '🌮', match: (r: IndexRecipe) => hasCuisineKeyword(r, ['mexican','taco','burrito','enchilada','quesadilla','guacamole','salsa','fajita','tamale','nacho','tex-mex']) },
+  { id: 'american',      label: 'American',       emoji: '🍔', match: (r: IndexRecipe) => hasCuisineKeyword(r, ['american','burger','bbq','barbecue','mac and cheese','fried chicken','buffalo','biscuit','cornbread','chili']) },
+  { id: 'italian',       label: 'Italian',        emoji: '🍕', match: (r: IndexRecipe) => hasCuisineKeyword(r, ['italian','pizza','risotto','tiramisu','carbonara','bolognese','gnocchi','bruschetta','pesto','cannoli']) },
+  { id: 'japanese',      label: 'Japanese',       emoji: '🍱', match: (r: IndexRecipe) => hasCuisineKeyword(r, ['japanese','sushi','ramen','miso','teriyaki','tempura','soba','udon','onigiri','katsu','yakitori']) },
+  { id: 'thai',          label: 'Thai',           emoji: '🍜', match: (r: IndexRecipe) => hasCuisineKeyword(r, ['thai','pad thai','green curry','red curry','tom yum','satay','larb','som tum']) },
+  { id: 'mediterranean', label: 'Mediterranean',  emoji: '🫒', match: (r: IndexRecipe) => hasCuisineKeyword(r, ['mediterranean','greek','hummus','falafel','shawarma','kebab','tzatziki','pita','tabouleh','moussaka']) },
+  { id: 'french',        label: 'French',         emoji: '🥐', match: (r: IndexRecipe) => hasCuisineKeyword(r, ['french','croissant','quiche','ratatouille','baguette','crepe','boeuf','bouillabaisse','soufflé','coq au vin']) },
+  { id: 'korean',        label: 'Korean',         emoji: '🥘', match: (r: IndexRecipe) => hasCuisineKeyword(r, ['korean','kimchi','bibimbap','bulgogi','tteok','japchae','doenjang','kimbap','gochujang']) },
 ];
 
 // ── Cookbook Card (ML Challenges style) ─────────────────────────────────────
@@ -117,7 +138,8 @@ function TrendingSegment({ searchQuery = '' }: { searchQuery?: string }) {
   const [detailLoading, setDetailLoading] = useState(false);
   const [detailError, setDetailError] = useState(false);
   const [savedRecipeId, setSavedRecipeId] = useState<string | null>(null);
-  const [activeChip, setActiveChip] = useState('all');
+  const [activeIngChip, setActiveIngChip] = useState('all');
+  const [activeCuisineChip, setActiveCuisineChip] = useState('all');
   const [searchResults, setSearchResults] = useState<IndexRecipe[]>([]);
   const [searchLoading, setSearchLoading] = useState(false);
 
@@ -229,10 +251,11 @@ function TrendingSegment({ searchQuery = '' }: { searchQuery?: string }) {
   };
 
   const goals = userProfile?.goals ?? [];
-  const chip = FILTER_CHIPS.find(c => c.id === activeChip) ?? FILTER_CHIPS[0];
+  const ingChip = FILTER_CHIPS.find(c => c.id === activeIngChip) ?? FILTER_CHIPS[0];
+  const cuisineChip = CUISINE_CHIPS.find(c => c.id === activeCuisineChip) ?? CUISINE_CHIPS[0];
   const displayItems = searchQuery.trim()
     ? searchResults
-    : items.filter(chip.match);
+    : items.filter(r => ingChip.match(r) && cuisineChip.match(r));
   const ranked = goals.length > 0 && !searchQuery.trim()
     ? [...displayItems].sort((a, b) => {
         let sA = 0, sB = 0;
@@ -258,30 +281,69 @@ function TrendingSegment({ searchQuery = '' }: { searchQuery?: string }) {
     <>
       {/* Filter chips — hidden during search */}
       {!isSearching && (
-        <ScrollView
-          horizontal
-          showsHorizontalScrollIndicator={false}
-          contentContainerStyle={tStyles.chipsRow}
-          style={tStyles.chipsScroll}
-        >
-          {FILTER_CHIPS.map(chip => (
-            <TouchableOpacity
-              key={chip.id}
-              style={[tStyles.chip, activeChip === chip.id && tStyles.chipActive]}
-              onPress={() => setActiveChip(chip.id)}
-              activeOpacity={0.75}
-            >
-              <Text style={tStyles.chipEmoji}>{chip.emoji}</Text>
-              <Text style={[tStyles.chipLabel, activeChip === chip.id && tStyles.chipLabelActive]}>
-                {chip.label}
-              </Text>
-            </TouchableOpacity>
-          ))}
-        </ScrollView>
+        <>
+          <View style={tStyles.chipsSectionRow}>
+            <Text style={tStyles.chipsSectionLabel}>Diet & Ingredient</Text>
+            {activeIngChip !== 'all' && (
+              <TouchableOpacity onPress={() => setActiveIngChip('all')}>
+                <Text style={tStyles.chipsClear}>Clear</Text>
+              </TouchableOpacity>
+            )}
+          </View>
+          <ScrollView
+            horizontal
+            showsHorizontalScrollIndicator={false}
+            contentContainerStyle={tStyles.chipsRow}
+            style={tStyles.chipsScroll}
+          >
+            {FILTER_CHIPS.map(chip => (
+              <TouchableOpacity
+                key={chip.id}
+                style={[tStyles.chip, activeIngChip === chip.id && tStyles.chipActive]}
+                onPress={() => setActiveIngChip(chip.id)}
+                activeOpacity={0.75}
+              >
+                <Text style={tStyles.chipEmoji}>{chip.emoji}</Text>
+                <Text style={[tStyles.chipLabel, activeIngChip === chip.id && tStyles.chipLabelActive]}>
+                  {chip.label}
+                </Text>
+              </TouchableOpacity>
+            ))}
+          </ScrollView>
+
+          <View style={tStyles.chipsSectionRow}>
+            <Text style={tStyles.chipsSectionLabel}>Cuisine</Text>
+            {activeCuisineChip !== 'all' && (
+              <TouchableOpacity onPress={() => setActiveCuisineChip('all')}>
+                <Text style={tStyles.chipsClear}>Clear</Text>
+              </TouchableOpacity>
+            )}
+          </View>
+          <ScrollView
+            horizontal
+            showsHorizontalScrollIndicator={false}
+            contentContainerStyle={tStyles.chipsRow}
+            style={tStyles.chipsScroll}
+          >
+            {CUISINE_CHIPS.map(chip => (
+              <TouchableOpacity
+                key={chip.id}
+                style={[tStyles.chip, activeCuisineChip === chip.id && tStyles.chipActive]}
+                onPress={() => setActiveCuisineChip(chip.id)}
+                activeOpacity={0.75}
+              >
+                <Text style={tStyles.chipEmoji}>{chip.emoji}</Text>
+                <Text style={[tStyles.chipLabel, activeCuisineChip === chip.id && tStyles.chipLabelActive]}>
+                  {chip.label}
+                </Text>
+              </TouchableOpacity>
+            ))}
+          </ScrollView>
+        </>
       )}
 
-      {/* Search status row */}
-      {isSearching && (
+      {/* Status row — search result count OR active filter count */}
+      {isSearching ? (
         <View style={tStyles.searchStatusRow}>
           {searchLoading
             ? <ActivityIndicator size="small" color={Colors.primary} />
@@ -289,6 +351,13 @@ function TrendingSegment({ searchQuery = '' }: { searchQuery?: string }) {
                 {searchResults.length === 0 ? 'No results' : `${searchResults.length} recipes found`}
               </Text>
           }
+        </View>
+      ) : (activeIngChip !== 'all' || activeCuisineChip !== 'all') && (
+        <View style={tStyles.searchStatusRow}>
+          <Text style={tStyles.searchStatusText}>{ranked.length} recipes match</Text>
+          <TouchableOpacity onPress={() => { setActiveIngChip('all'); setActiveCuisineChip('all'); }}>
+            <Text style={[tStyles.searchStatusText, { color: Colors.primary, fontWeight: '600' }]}>Clear all</Text>
+          </TouchableOpacity>
         </View>
       )}
 
@@ -302,6 +371,13 @@ function TrendingSegment({ searchQuery = '' }: { searchQuery?: string }) {
         refreshControl={<RefreshControl refreshing={refreshing} onRefresh={handleRefresh} tintColor={Colors.primary} />}
         onEndReached={handleLoadMore}
         onEndReachedThreshold={0.5}
+        ListEmptyComponent={
+          <View style={tStyles.emptyWrap}>
+            <Text style={tStyles.emptyEmoji}>🔍</Text>
+            <Text style={tStyles.emptyText}>No recipes found</Text>
+            <Text style={tStyles.emptySubtext}>Try a different filter combination or scroll down to load more</Text>
+          </View>
+        }
         ListFooterComponent={
           loadingMore
             ? <ActivityIndicator size="small" color={Colors.primary} style={{ marginVertical: 20 }} />
@@ -657,8 +733,11 @@ const tStyles = StyleSheet.create({
   flatList: { flex: 1 },
   loadingWrap: { flex: 1, justifyContent: 'center', alignItems: 'center', gap: 12 },
   loadingText: { color: Colors.muted, fontSize: 15 },
-  chipsScroll: { flexGrow: 0, marginBottom: 10 },
+  chipsScroll: { flexGrow: 0, marginBottom: 8 },
   chipsRow: { paddingHorizontal: 16, gap: 8 },
+  chipsSectionRow: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingHorizontal: 16, marginBottom: 6, marginTop: 4 },
+  chipsSectionLabel: { fontSize: 11, fontWeight: '700', color: Colors.muted, textTransform: 'uppercase', letterSpacing: 0.7 },
+  chipsClear: { fontSize: 12, fontWeight: '600', color: Colors.primary },
   chip: {
     flexDirection: 'row', alignItems: 'center', gap: 5,
     backgroundColor: '#fff', borderRadius: 20,
@@ -669,8 +748,12 @@ const tStyles = StyleSheet.create({
   chipEmoji: { fontSize: 14 },
   chipLabel: { fontSize: 13, fontWeight: '600', color: Colors.text },
   chipLabelActive: { color: '#fff' },
-  searchStatusRow: { paddingHorizontal: 16, paddingBottom: 8, flexDirection: 'row', alignItems: 'center', gap: 8 },
+  searchStatusRow: { paddingHorizontal: 16, paddingBottom: 8, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: 8 },
   searchStatusText: { fontSize: 13, color: Colors.muted },
+  emptyWrap: { flex: 1, alignItems: 'center', paddingTop: 60, paddingHorizontal: 32, gap: 8 },
+  emptyEmoji: { fontSize: 40, marginBottom: 4 },
+  emptyText: { fontSize: 16, fontWeight: '700', color: Colors.text },
+  emptySubtext: { fontSize: 13, color: Colors.muted, textAlign: 'center', lineHeight: 18 },
   list: { paddingHorizontal: 16, paddingBottom: 40 },
   row: { gap: 12, marginBottom: 12 },
   card: {

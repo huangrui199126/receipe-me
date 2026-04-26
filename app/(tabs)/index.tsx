@@ -194,9 +194,15 @@ function TrendingSegment() {
         data={ranked}
         keyExtractor={item => item.id}
         numColumns={2}
+        style={tStyles.flatList}
         contentContainerStyle={tStyles.list}
         columnWrapperStyle={tStyles.row}
         refreshControl={<RefreshControl refreshing={refreshing} onRefresh={handleRefresh} tintColor={Colors.primary} />}
+        ListFooterComponent={
+          <TouchableOpacity style={tStyles.seeAllBtn} onPress={() => router.push('/trending')}>
+            <Text style={tStyles.seeAllText}>See all trending recipes →</Text>
+          </TouchableOpacity>
+        }
         renderItem={({ item }) => {
           const isSaved = saved.has(item.id);
           return (
@@ -552,8 +558,11 @@ const styles = StyleSheet.create({
 });
 
 const tStyles = StyleSheet.create({
+  flatList: { flex: 1 },
   loadingWrap: { flex: 1, justifyContent: 'center', alignItems: 'center', gap: 12 },
   loadingText: { color: Colors.muted, fontSize: 15 },
+  seeAllBtn: { paddingVertical: 18, alignItems: 'center' },
+  seeAllText: { fontSize: 14, color: Colors.primary, fontWeight: '600' },
   list: { paddingHorizontal: 16, paddingBottom: 40 },
   row: { gap: 12, marginBottom: 12 },
   card: {

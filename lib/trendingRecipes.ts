@@ -22,7 +22,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_1",
     "title": "Crispy Garlic Parmesan Chicken Wraps",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_1/cover.jpg",
+    "image": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?w=600&q=80",
     "importCount": "3.9K",
     "sourcePlatform": "Instagram",
     "servings": 4,
@@ -213,7 +213,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_2",
     "title": "One-Tray Caramelized Onion & Garlic Pasta",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_2/cover.jpg",
+    "image": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=600&q=80",
     "importCount": "1.7K",
     "sourcePlatform": "TikTok",
     "servings": 4,
@@ -339,7 +339,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_3",
     "title": "Beijing Beef",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_3/cover.jpg",
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=600&q=80",
     "importCount": "1.5K",
     "sourcePlatform": "TikTok",
     "servings": 4,
@@ -493,7 +493,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_4",
     "title": "Honey Garlic Salmon",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_4/cover.jpg",
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=600&q=80",
     "importCount": "1.3K",
     "sourcePlatform": "Instagram",
     "servings": 2,
@@ -601,7 +601,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_5",
     "title": "Creamy Tuscan Chicken",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_5/cover.jpg",
+    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=600&q=80",
     "importCount": "1.2K",
     "sourcePlatform": "Instagram",
     "servings": 4,
@@ -722,7 +722,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_6",
     "title": "Avocado Toast with Poached Egg",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_6/cover.jpg",
+    "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?w=600&q=80",
     "importCount": "980",
     "sourcePlatform": "Instagram",
     "servings": 2,
@@ -825,7 +825,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_7",
     "title": "Chocolate Lava Cake",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_7/cover.jpg",
+    "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=600&q=80",
     "importCount": "860",
     "sourcePlatform": "TikTok",
     "servings": 4,
@@ -937,7 +937,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_8",
     "title": "Greek Chicken Bowl",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_8/cover.jpg",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=600&q=80",
     "importCount": "740",
     "sourcePlatform": "Instagram",
     "servings": 2,
@@ -1087,7 +1087,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_9",
     "title": "Crispy Quinoa Asparagus Salad",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_9/cover.jpg",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
     "importCount": "690",
     "sourcePlatform": "Instagram",
     "servings": 4,
@@ -1216,7 +1216,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_10",
     "title": "Korean Beef Bibimbap",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_10/cover.jpg",
+    "image": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=600&q=80",
     "importCount": "610",
     "sourcePlatform": "TikTok",
     "servings": 4,
@@ -1373,7 +1373,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_11",
     "title": "Dirty Martini Pasta",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_11/cover.jpg",
+    "image": "https://www.recipetineats.com/tachyon/2014/08/Beef-Cheeks-Pasta-2-1.jpg",
     "importCount": "4.2K",
     "sourcePlatform": "TikTok",
     "servings": 4,
@@ -1409,7 +1409,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_12",
     "title": "Emily Mariko's Salmon Rice Bowl",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_12/cover.jpg",
+    "image": "https://www.recipetineats.com/tachyon/2014/11/Sirloin-Steak-with-Pesto-Capsicum-and-Flatbread-2.jpg",
     "importCount": "8.1K",
     "sourcePlatform": "TikTok",
     "servings": 1,
@@ -1442,7 +1442,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_13",
     "title": "Nutella-Banana Baked Oats",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_13/cover.jpg",
+    "image": "https://www.recipetineats.com/tachyon/2014/12/Croque-Madame-2.jpg",
     "importCount": "3.5K",
     "sourcePlatform": "TikTok",
     "servings": 2,
@@ -1474,7 +1474,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_14",
     "title": "Green Goddess Salad",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_14/cover.jpg",
+    "image": "https://www.recipetineats.com/tachyon/2014/09/DSC_0170-1.jpg",
     "importCount": "5.7K",
     "sourcePlatform": "TikTok",
     "servings": 4,
@@ -1508,7 +1508,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_15",
     "title": "Golden Girl Salad with Sweet Corn Vinaigrette",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_15/cover.jpg",
+    "image": "https://www.recipetineats.com/tachyon/2014/07/Giant-Hash-Brown-1-1.jpg",
     "importCount": "2.9K",
     "sourcePlatform": "TikTok",
     "servings": 6,
@@ -1542,7 +1542,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_16",
     "title": "Marry Me Chicken",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_16/cover.jpg",
+    "image": "https://www.recipetineats.com/tachyon/2015/02/Mini-French-Toast-PS-Edited-FINAL1.jpg",
     "importCount": "7.8K",
     "sourcePlatform": "TikTok",
     "servings": 4,
@@ -1579,7 +1579,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_17",
     "title": "Breakfast Ramen",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_17/cover.jpg",
+    "image": "https://www.recipetineats.com/tachyon/2014/10/Huevos-Rancheros-Tortilla-Bowls-1-1.jpg",
     "importCount": "2.3K",
     "sourcePlatform": "TikTok",
     "servings": 1,
@@ -1610,7 +1610,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_18",
     "title": "Baked Feta Pasta",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_18/cover.jpg",
+    "image": "https://www.recipetineats.com/tachyon/2014/07/Teriyaki-Sauce-1-copy-1.jpg",
     "importCount": "9.4K",
     "sourcePlatform": "TikTok",
     "servings": 4,
@@ -1645,7 +1645,7 @@ export const TRENDING_RECIPES: TrendingRecipe[] = [
   {
     "id": "tr_19",
     "title": "Upside-Down Cream of Mushroom Tartlets",
-    "image": "https://huangrui199126.github.io/receipe-me/data/recipes/tr_19/cover.jpg",
+    "image": "https://www.recipetineats.com/tachyon/2014/05/Watermelon-Salad-v2.jpg",
     "importCount": "1.8K",
     "sourcePlatform": "TikTok",
     "servings": 6,

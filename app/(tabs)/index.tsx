@@ -140,6 +140,7 @@ function TrendingSegment({ searchQuery = '' }: { searchQuery?: string }) {
   const [savedRecipeId, setSavedRecipeId] = useState<string | null>(null);
   const [activeIngChip, setActiveIngChip] = useState('all');
   const [activeCuisineChip, setActiveCuisineChip] = useState('all');
+  const [chipMode, setChipMode] = useState<'diet' | 'cuisine'>('diet');
   const [searchResults, setSearchResults] = useState<IndexRecipe[]>([]);
   const [searchLoading, setSearchLoading] = useState(false);
 
@@ -279,67 +280,68 @@ function TrendingSegment({ searchQuery = '' }: { searchQuery?: string }) {
 
   return (
     <>
-      {/* Filter chips — hidden during search */}
+      {/* Compact filter area — hidden during search */}
       {!isSearching && (
-        <>
-          <View style={tStyles.chipsSectionRow}>
-            <Text style={tStyles.chipsSectionLabel}>Diet & Ingredient</Text>
-            {activeIngChip !== 'all' && (
-              <TouchableOpacity onPress={() => setActiveIngChip('all')}>
-                <Text style={tStyles.chipsClear}>Clear</Text>
+        <View style={tStyles.filterWrap}>
+          {/* Mode toggle */}
+          <View style={tStyles.modeToggle}>
+            <TouchableOpacity
+              style={[tStyles.modeBtn, chipMode === 'diet' && tStyles.modeBtnActive]}
+              onPress={() => setChipMode('diet')}
+              activeOpacity={0.8}
+            >
+              <Text style={[tStyles.modeBtnText, chipMode === 'diet' && tStyles.modeBtnTextActive]}>
+                Diet
+              </Text>
+              {activeIngChip !== 'all' && chipMode !== 'diet' && <View style={tStyles.modeDot} />}
+            </TouchableOpacity>
+            <TouchableOpacity
+              style={[tStyles.modeBtn, chipMode === 'cuisine' && tStyles.modeBtnActive]}
+              onPress={() => setChipMode('cuisine')}
+              activeOpacity={0.8}
+            >
+              <Text style={[tStyles.modeBtnText, chipMode === 'cuisine' && tStyles.modeBtnTextActive]}>
+                Cuisine
+              </Text>
+              {activeCuisineChip !== 'all' && chipMode !== 'cuisine' && <View style={tStyles.modeDot} />}
+            </TouchableOpacity>
+            {(activeIngChip !== 'all' || activeCuisineChip !== 'all') && (
+              <TouchableOpacity
+                onPress={() => { setActiveIngChip('all'); setActiveCuisineChip('all'); }}
+                style={tStyles.clearAllBtn}
+              >
+                <Text style={tStyles.clearAllText}>✕ Clear</Text>
               </TouchableOpacity>
             )}
           </View>
-          <ScrollView
-            horizontal
-            showsHorizontalScrollIndicator={false}
-            contentContainerStyle={tStyles.chipsRow}
-            style={tStyles.chipsScroll}
-          >
-            {FILTER_CHIPS.map(chip => (
-              <TouchableOpacity
-                key={chip.id}
-                style={[tStyles.chip, activeIngChip === chip.id && tStyles.chipActive]}
-                onPress={() => setActiveIngChip(chip.id)}
-                activeOpacity={0.75}
-              >
-                <Text style={tStyles.chipEmoji}>{chip.emoji}</Text>
-                <Text style={[tStyles.chipLabel, activeIngChip === chip.id && tStyles.chipLabelActive]}>
-                  {chip.label}
-                </Text>
-              </TouchableOpacity>
-            ))}
-          </ScrollView>
 
-          <View style={tStyles.chipsSectionRow}>
-            <Text style={tStyles.chipsSectionLabel}>Cuisine</Text>
-            {activeCuisineChip !== 'all' && (
-              <TouchableOpacity onPress={() => setActiveCuisineChip('all')}>
-                <Text style={tStyles.chipsClear}>Clear</Text>
-              </TouchableOpacity>
-            )}
-          </View>
+          {/* Single chip row — swaps based on mode */}
           <ScrollView
             horizontal
             showsHorizontalScrollIndicator={false}
             contentContainerStyle={tStyles.chipsRow}
             style={tStyles.chipsScroll}
           >
-            {CUISINE_CHIPS.map(chip => (
-              <TouchableOpacity
-                key={chip.id}
-                style={[tStyles.chip, activeCuisineChip === chip.id && tStyles.chipActive]}
-                onPress={() => setActiveCuisineChip(chip.id)}
-                activeOpacity={0.75}
-              >
-                <Text style={tStyles.chipEmoji}>{chip.emoji}</Text>
-                <Text style={[tStyles.chipLabel, activeCuisineChip === chip.id && tStyles.chipLabelActive]}>
-                  {chip.label}
-                </Text>
-              </TouchableOpacity>
-            ))}
+            {(chipMode === 'diet' ? FILTER_CHIPS : CUISINE_CHIPS).map(chip => {
+              const isActive = chipMode === 'diet'
+                ? activeIngChip === chip.id
+                : activeCuisineChip === chip.id;
+              return (
+                <TouchableOpacity
+                  key={chip.id}
+                  style={[tStyles.chip, isActive && tStyles.chipActive]}
+                  onPress={() => chipMode === 'diet' ? setActiveIngChip(chip.id) : setActiveCuisineChip(chip.id)}
+                  activeOpacity={0.75}
+                >
+                  <Text style={tStyles.chipEmoji}>{chip.emoji}</Text>
+                  <Text style={[tStyles.chipLabel, isActive && tStyles.chipLabelActive]}>
+                    {chip.label}
+                  </Text>
+                </TouchableOpacity>
+              );
+            })}
           </ScrollView>
-        </>
+        </View>
       )}
 
       {/* Status row — search result count OR active filter count */}
@@ -355,9 +357,6 @@ function TrendingSegment({ searchQuery = '' }: { searchQuery?: string }) {
       ) : (activeIngChip !== 'all' || activeCuisineChip !== 'all') && (
         <View style={tStyles.searchStatusRow}>
           <Text style={tStyles.searchStatusText}>{ranked.length} recipes match</Text>
-          <TouchableOpacity onPress={() => { setActiveIngChip('all'); setActiveCuisineChip('all'); }}>
-            <Text style={[tStyles.searchStatusText, { color: Colors.primary, fontWeight: '600' }]}>Clear all</Text>
-          </TouchableOpacity>
         </View>
       )}
 
@@ -733,11 +732,21 @@ const tStyles = StyleSheet.create({
   flatList: { flex: 1 },
   loadingWrap: { flex: 1, justifyContent: 'center', alignItems: 'center', gap: 12 },
   loadingText: { color: Colors.muted, fontSize: 15 },
-  chipsScroll: { flexGrow: 0, marginBottom: 8 },
+  filterWrap: { marginBottom: 8 },
+  modeToggle: { flexDirection: 'row', alignItems: 'center', paddingHorizontal: 16, marginBottom: 8, gap: 6 },
+  modeBtn: {
+    flexDirection: 'row', alignItems: 'center', gap: 4,
+    paddingHorizontal: 14, paddingVertical: 6, borderRadius: 20,
+    backgroundColor: '#E8E4DC',
+  },
+  modeBtnActive: { backgroundColor: Colors.text },
+  modeBtnText: { fontSize: 13, fontWeight: '600', color: Colors.muted },
+  modeBtnTextActive: { color: '#fff' },
+  modeDot: { width: 6, height: 6, borderRadius: 3, backgroundColor: Colors.primary },
+  clearAllBtn: { marginLeft: 4, paddingHorizontal: 10, paddingVertical: 6, borderRadius: 20, backgroundColor: '#FEE2E2' },
+  clearAllText: { fontSize: 12, fontWeight: '700', color: '#EF4444' },
+  chipsScroll: { flexGrow: 0, marginBottom: 4 },
   chipsRow: { paddingHorizontal: 16, gap: 8 },
-  chipsSectionRow: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingHorizontal: 16, marginBottom: 6, marginTop: 4 },
-  chipsSectionLabel: { fontSize: 11, fontWeight: '700', color: Colors.muted, textTransform: 'uppercase', letterSpacing: 0.7 },
-  chipsClear: { fontSize: 12, fontWeight: '600', color: Colors.primary },
   chip: {
     flexDirection: 'row', alignItems: 'center', gap: 5,
     backgroundColor: '#fff', borderRadius: 20,
